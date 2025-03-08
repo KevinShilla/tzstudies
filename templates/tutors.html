@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Find a Tutor</title>
+  <!-- Google Fonts (Poppins) and CSS -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+  <header class="navbar">
+    <div class="logo">
+      <h1>TZStudies</h1>
+    </div>
+    <nav>
+      <a href="/" class="nav-link">Home</a>
+      <a href="/tutors" class="nav-link">Find Tutors</a>
+      <a href="/become_tutor" class="nav-link">Become a Tutor</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero-content">
+      <h2>Find a Tutor</h2>
+      <p>Get in-person help from experienced tutors near you.</p>
+    </div>
+  </section>
+
+  <main class="container">
+    <section class="tutor-section">
+      <h2>Available Tutors</h2>
+      
+      <!-- Example Tutor Profile -->
+      <div class="tutor-card">
+        <div class="tutor-photo">
+          <!-- Placeholder for image -->
+          <div style="width:300px; height:200px; background:#ccc; display:flex; align-items:center; justify-content:center;">
+            <span>Image</span>
+          </div>
+        </div>
+        <div class="tutor-info">
+          <h3>Example Tutor</h3>
+          <p><strong>Location:</strong> Arusha, Tanzania</p>
+          <p><strong>School/Institution:</strong> Example High School</p>
+          <p><strong>Hourly Rate:</strong> TSh 12,000/hour</p>
+          <p><strong>Experience:</strong> 3 years tutoring Mathematics and English</p>
+          <p><strong>Classes Taught:</strong> Standard 5 - Standard 7</p>
+          <p><strong>Phone:</strong> +255 700 123 456</p>
+          <p><strong>Email:</strong> example.tutor@example.com</p>
+        </div>
+      </div>
+      
+      <!-- Kevin's Tutor Profile -->
+      <div class="tutor-card">
+        <div class="tutor-photo">
+          <img src="{{ url_for('static', filename='tutors/kevin.jpg') }}" alt="Kevin's Photo">
+        </div>
+        <div class="tutor-info">
+          <h3>Kevin Johnson</h3>
+          <p><strong>Location:</strong> Dar es Salaam, Tanzania</p>
+          <p><strong>School/Institution:</strong> Mlimani High School (Alumnus)</p>
+          <p><strong>Hourly Rate:</strong> TSh 15,000/hour</p>
+          <p><strong>Experience:</strong> 5 years tutoring English and Mathematics</p>
+          <p><strong>Classes Taught:</strong> Standard 4 - Standard 7</p>
+          <p><strong>Phone:</strong> +255 712 345 678</p>
+          <p><strong>Email:</strong> kevin.tutor@example.com</p>
+        </div>
+      </div>
+    
+      <div class="become-tutor-link" style="text-align: center; margin-top: 2rem;">
+        <a href="/become_tutor" class="btn">Want to become a tutor? Click here to apply!</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>&copy; {{ current_year|default(2025) }} TZStudies. All rights reserved.</p>
+  </footer>
+</body>
+</html>

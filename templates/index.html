@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>TZStudies</title>
+  <link rel="icon" href="{{ url_for('static', filename='tutors/tzstudies.png') }}" type="image/png">
+  <!-- Google Fonts (Poppins) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <header class="navbar">
+    <div class="navbar-left">
+      <div class="logo">
+        <!-- Logo Image -->
+        <img src="{{ url_for('static', filename='tutors/tzstudies.png') }}" alt="TZStudies Logo" class="logo-img">
+        <!-- Site Title -->
+        <h1>TZStudies</h1>
+      </div>
+    </div>
+    <div class="navbar-center">
+      <nav class="nav-links">
+        <a href="/" class="nav-link">Home</a>
+        <a href="/tutors" class="nav-link">Find Tutors</a>
+        <a href="/become_tutor" class="nav-link">Become a Tutor</a>
+      </nav>
+    </div>
+  </header>
+      
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-content">
+      <h2>Past National Exams &amp; Answers</h2>
+      <p>Access free PDF downloads of Tanzanian past national exams and answer keys.</p>
+      <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Search exams..." />
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Exam List Section -->
+    <section class="exam-list-section">
+      <h2>Exam Papers</h2>
+      <div class="exam-grid">
+        {% for file in exam_files %}
+        <div class="exam-card">
+          <p class="exam-title">{{ file }}</p>
+          <a href="{{ url_for('download', filename=file) }}" target="_blank" class="exam-link">Download</a>
+          {% if file in answer_key_files %}
+          <a href="{{ url_for('download_key', filename=answer_key_files[file]) }}" target="_blank" class="answer-link">Answer Key</a>
+          {% endif %}
+        </div>
+        {% endfor %}
+      </div>      
+    </section>
+
+    <!-- AI Assistant Section -->
+    <section class="ai-assistant-section">
+      <h2>AI Assistant *Work in Progress*</h2>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>&copy; {{ current_year|default(2025) }} TZStudies. All rights reserved.</p>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
