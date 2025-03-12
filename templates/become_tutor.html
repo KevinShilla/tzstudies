@@ -4,13 +4,10 @@
   <meta charset="UTF-8">
   <title>Become a Tutor</title>
   <link rel="icon" href="{{ url_for('static', filename='tutors/tzstudies.png') }}" type="image/png">
-  <!-- Include Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-  <!-- Link to your CSS file -->
   <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
 </head>
 <body>
-  <!-- Navbar -->
   <header class="navbar">
     <div class="logo">
       <h1>TZStudies</h1>
@@ -22,7 +19,6 @@
     </nav>
   </header>
 
-  <!-- Hero Section -->
   <section class="hero">
     <div class="hero-content">
       <h2>Become a Tutor</h2>
@@ -30,7 +26,6 @@
     </div>
   </section>
 
-  <!-- Main Container -->
   <main class="container">
     {% if error %}
       <div class="alert alert-error">{{ error }}</div>
@@ -87,7 +82,7 @@
 
   <!-- Footer -->
   <footer class="footer">
-    <p>&copy; {{ current_year|default(2023) }} TZStudies. All rights reserved.</p>
+    <p>&copy; {{ current_year|default(2025) }} TZStudies. All rights reserved.</p>
   </footer>
 </body>
 </html>

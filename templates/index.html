@@ -4,22 +4,17 @@
   <meta charset="UTF-8">
   <title>TZStudies</title>
   <link rel="icon" href="{{ url_for('static', filename='tutors/tzstudies.png') }}" type="image/png">
-  <!-- Google Fonts (Poppins) -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-  <!-- Main CSS -->
   <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
 </head>
 <body>
 
-  <!-- Navbar -->
   <header class="navbar">
     <div class="navbar-left">
       <div class="logo">
-        <!-- Logo Image -->
         <img src="{{ url_for('static', filename='tutors/tzstudies.png') }}" alt="TZStudies Logo" class="logo-img">
-        <!-- Site Title -->
         <h1>TZStudies</h1>
       </div>
     </div>
@@ -32,7 +27,6 @@
     </div>
   </header>
       
-  <!-- Hero Section -->
   <section class="hero">
     <div class="hero-content">
       <h2>Past National Exams &amp; Answers</h2>
@@ -43,7 +37,6 @@
     </div>
   </section>
 
-  <!-- Main Content -->
   <main class="container">
     <!-- Exam List Section -->
     <section class="exam-list-section">
@@ -67,6 +60,9 @@
     </section>
   </main>
 
+  <!-- Fixed Admin Button -->
+  <button id="adminBtn" class="admin-btn">Admin</button>
+
   <!-- Footer -->
   <footer class="footer">
     <p>&copy; {{ current_year|default(2025) }} TZStudies. All rights reserved.</p>
@@ -74,5 +70,16 @@
 
   <!-- Scripts -->
   <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+  <script>
+    // JavaScript for Admin button functionality
+    document.getElementById('adminBtn').addEventListener('click', function() {
+      var password = prompt("Enter admin password:");
+      if (password === "67b17b31-714c-8007-8980-f01cf26e8ab1") {
+        window.location.href = "{{ url_for('admin_applicants') }}";
+      } else {
+        alert("Incorrect password.");
+      }
+    });
+  </script>
 </body>
 </html>
