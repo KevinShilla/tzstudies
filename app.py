@@ -136,7 +136,7 @@ Email: {email}
                   <body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
                     <div style="max-width: 600px; margin: auto; border: 1px solid #e0e0e0; padding: 20px;">
                       <div style="text-align: center;">
-                        <img src="https://yourdomain.com/static/tutors/tzstudies.png" alt="TZStudies Logo" style="max-width: 200px;"/>
+                        <img src="https://tzstudies-a4167b41d2dd.herokuapp.com/static/tutors/tzstudies.png" alt="TZStudies Logo" style="max-width: 200px;"/>
                       </div>
                       <h2 style="color: #1d3557;">We Received Your Tutor Application</h2>
                       <p>Hello {name},</p>
