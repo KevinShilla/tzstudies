@@ -205,5 +205,13 @@ def api_tutors():
         })
     return jsonify(tutor_list)
 
+@app.route('/admin_applicants')
+def admin_applicants():
+    # Query all tutor applications
+    tutors = TutorApplication.query.all()
+    # Pass the list of tutors to a template called 'admin_applicants.html'
+    return render_template('admin_applicants.html', tutors=tutors)
+
+
 if __name__ == '__main__':
     app.run(debug=True)
