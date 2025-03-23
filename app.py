@@ -37,7 +37,6 @@ class TutorApplication(db.Model):
     cv_bio = db.Column(db.Text, nullable=False)          # CV bio: paste your CV text
     profile_bio = db.Column(db.Text, nullable=False)       # Public profile description
 
-# Create the database tables (run once or use migrations)
 with app.app_context():
     db.create_all()
 
