@@ -4,10 +4,13 @@
   <meta charset="UTF-8">
   <title>Become a Tutor</title>
   <link rel="icon" href="{{ url_for('static', filename='tutors/tzstudies.png') }}" type="image/png">
+  <!-- Include Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <!-- Link to your CSS file -->
   <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
 </head>
 <body>
+  <!-- Navbar -->
   <header class="navbar">
     <div class="logo">
       <h1>TZStudies</h1>
@@ -19,6 +22,7 @@
     </nav>
   </header>
 
+  <!-- Hero Section -->
   <section class="hero">
     <div class="hero-content">
       <h2>Become a Tutor</h2>
@@ -26,6 +30,7 @@
     </div>
   </section>
 
+  <!-- Main Container -->
   <main class="container">
     {% if error %}
       <div class="alert alert-error">{{ error }}</div>
@@ -34,21 +39,21 @@
       <div class="alert alert-success">{{ success }}</div>
       <p style="text-align: center;"><a href="{{ url_for('tutors') }}" class="btn">Return to Tutors Page</a></p>
     {% else %}
-      <form action="{{ url_for('become_tutor') }}" method="POST" class="tutor-form">
+      <form action="{{ url_for('become_tutor') }}" method="POST" class="tutor-form" enctype="multipart/form-data">
         <div class="form-group">
           <label for="name">Name:</label>
           <input type="text" id="name" name="name" required>
           <small>Enter your full name.</small>
         </div>
         <div class="form-group">
-          <label for="location">Location:</label>
+          <label for="location">Location/City you would like to tutor in:</label>
           <input type="text" id="location" name="location" required>
           <small>e.g., Dar es Salaam, Arusha, etc.</small>
         </div>
         <div class="form-group">
-          <label for="school">School/Institution:</label>
+          <label for="school">School:</label>
           <input type="text" id="school" name="school" required>
-          <small>Please include your current or most recent school or institution.</small>
+          <small>Please include the school you are currently or have taught in the past.</small>
         </div>
         <div class="form-group">
           <label for="hourly_rate">Hourly Rate:</label>
@@ -56,7 +61,7 @@
           <small>Specify your expected hourly rate, e.g., TSh 15,000.</small>
         </div>
         <div class="form-group">
-          <label for="experience">Experience:</label>
+          <label for="experience">Experience &amp; Subjects:</label>
           <input type="text" id="experience" name="experience" required>
           <small>Briefly describe your tutoring experience (years, subjects, etc.).</small>
         </div>
@@ -71,9 +76,19 @@
           <small>If available, provide your contact phone number.</small>
         </div>
         <div class="form-group">
-          <label for="email">Email:</label>
+          <label for="email">Email (Required):</label>
           <input type="email" id="email" name="email" required>
           <small>Please provide your email address.</small>
+        </div>
+        <div class="form-group">
+          <label for="cv_bio">Paste Your CV:</label>
+          <textarea id="cv_bio" name="cv_bio" required rows="4" placeholder="Paste your CV here..."></textarea>
+          <small>Please paste your CV (as text) here.</small>
+        </div>
+        <div class="form-group">
+          <label for="profile_bio">Profile Description:</label>
+          <textarea id="profile_bio" name="profile_bio" required rows="4" placeholder="Write a short description for your public profile..."></textarea>
+          <small>This description will be shown on your public profile to help students and teachers learn about you.</small>
         </div>
         <button type="submit" class="btn">Submit Application</button>
       </form>
