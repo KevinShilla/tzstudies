@@ -4,6 +4,7 @@ from flask_mail import Mail, Message
 from flask_sqlalchemy import SQLAlchemy
 from config import Config  # Import configuration from config.py
 import openai  # For the AI assistant endpoint (if used)
+from werkzeug.utils import secure_filename  # For safely handling file names
 
 app = Flask(__name__)
 app.config.from_object(Config)
@@ -23,7 +24,7 @@ mail = Mail(app)
 # Initialize SQLAlchemy with PostgreSQL connection from config.py
 db = SQLAlchemy(app)
 
-# Define the TutorApplication model with the new bio fields
+# Define the TutorApplication model with the CV now storing the file path
 class TutorApplication(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(255), nullable=False)
@@ -34,7 +35,7 @@ class TutorApplication(db.Model):
     classes_taught = db.Column(db.String(255), nullable=False)
     phone = db.Column(db.String(50))
     email = db.Column(db.String(255), nullable=False)
-    cv_bio = db.Column(db.Text, nullable=False)          # CV bio: paste your CV text
+    cv_bio = db.Column(db.Text, nullable=False)          # Now stores the file path of the CV
     profile_bio = db.Column(db.Text, nullable=False)       # Public profile description
 
 with app.app_context():
@@ -43,6 +44,11 @@ with app.app_context():
 # Define folder paths for exam PDFs and answer key PDFs (if used)
 EXAMS_FOLDER = os.path.join(os.getcwd(), "exams")
 ANSWER_KEYS_FOLDER = os.path.join(os.getcwd(), "answer_keys")
+
+# Define folder for CV uploads
+CV_UPLOAD_FOLDER = os.path.join(os.getcwd(), "uploads", "cvs")
+if not os.path.exists(CV_UPLOAD_FOLDER):
+    os.makedirs(CV_UPLOAD_FOLDER)
 
 @app.route('/')
 def index():
@@ -84,16 +90,22 @@ def become_tutor():
         classes_taught = request.form.get('classes_taught', '').strip()
         phone = request.form.get('phone', '').strip()
         email = request.form.get('email', '').strip()
-        cv_bio = request.form.get('cv_bio', '').strip()         # New CV bio field
-        profile_bio = request.form.get('profile_bio', '').strip()   # New public profile bio field
+        # Get the uploaded CV file
+        cv_file = request.files.get('cv_file')
+        profile_bio = request.form.get('profile_bio', '').strip()   # Public profile bio field
 
         # Validate required fields (phone is optional)
         if (not name or not location or not school or not hourly_rate or
-            not experience or not classes_taught or not email or not cv_bio or not profile_bio):
-            error = "Please fill in all required fields."
+            not experience or not classes_taught or not email or not cv_file or not profile_bio):
+            error = "Please fill in all required fields and upload your CV."
             return render_template('become_tutor.html', error=error)
         
-        # Prepare email content for admin notification including the new bios
+        # Save the uploaded CV file
+        filename = secure_filename(cv_file.filename)
+        file_path = os.path.join(CV_UPLOAD_FOLDER, filename)
+        cv_file.save(file_path)
+        
+        # Prepare email content for admin notification without showing the file path
         subject = "New Tutor Application"
         body = f"""
 New Tutor Application:
@@ -107,14 +119,15 @@ Classes Taught: {classes_taught}
 Phone: {phone}
 Email: {email}
 
-CV Bio:
-{cv_bio}
-
 Profile Bio:
 {profile_bio}
         """
         try:
             msg = Message(subject=subject, recipients=["tzstudies2024@gmail.com"], body=body)
+            # Attach the uploaded CV file to the email
+            with open(file_path, 'rb') as fp:
+                file_data = fp.read()
+            msg.attach(filename, cv_file.content_type, file_data)
             mail.send(msg)
         except Exception as e:
             error = f"An error occurred while sending your application: {str(e)}"
@@ -130,7 +143,7 @@ Profile Bio:
             classes_taught=classes_taught,
             phone=phone,
             email=email,
-            cv_bio=cv_bio,
+            cv_bio=file_path,  # Save the file path in the database
             profile_bio=profile_bio
         )
         db.session.add(new_application)
