@@ -228,12 +228,10 @@ def api_tutors():
         })
     return jsonify(tutor_list)
 
-# ---------------- Admin Applicants Page ----------------
+@app.route('/answer_keys')
+def answer_keys_page():
+    answer_keys = []
+    if os.path.exists(ANSWER_KEYS_FOLDER):
+        answer_keys = [f for f in os.listdir(ANSWER_KEYS_FOLDER) if f.lower().endswith('.pdf')]
+    return render_template('answer_keys.html', keys=answer_keys)
 
-@app.route('/admin_applicants')
-def admin_applicants():
-    tutors = TutorApplication.query.all()
-    return render_template('admin_applicants.html', tutors=tutors)
-
-if __name__ == '__main__':
-    app.run(debug=True)
