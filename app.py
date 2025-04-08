@@ -3,7 +3,7 @@ from flask import Flask, render_template, request, redirect, url_for, jsonify, s
 from flask_mail import Mail, Message
 from flask_sqlalchemy import SQLAlchemy
 from config import Config  # Import configuration from config.py
-import openai  # For the AI assistant endpoint (if used)
+import openai 
 from werkzeug.utils import secure_filename  # For safely handling file names
 
 app = Flask(__name__)
@@ -235,3 +235,5 @@ def answer_keys_page():
         answer_keys = [f for f in os.listdir(ANSWER_KEYS_FOLDER) if f.lower().endswith('.pdf')]
     return render_template('answer_keys.html', keys=answer_keys)
 
+if __name__ == "__main__":
+    app.run(debug=True)   # start the server
