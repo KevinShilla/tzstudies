@@ -46,7 +46,7 @@
         {% for file in exam_files %}
         <div class="exam-card">
           <p class="exam-title">{{ file }}</p>
-          <a href="{{ url_for('download', filename=file) }}" target="_blank" class="exam-link">Download</a>
+          <a href="{{ url_for('download', filename=file) }}" target="_blank" class="exam-link">View</a>
           {% if file in answer_key_files %}
           <a href="{{ url_for('download_key', filename=answer_key_files[file]) }}" target="_blank" class="answer-link">Answer Key</a>
           {% endif %}
