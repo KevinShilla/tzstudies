@@ -3,120 +3,116 @@
 <head>
   <meta charset="UTF-8">
   <title>Tutors – TZStudies</title>
+  <link rel="icon" href="{{ url_for('static', filename='tutors/tzstudies.png') }}" type="image/png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
-    <style>
-    /* page-specific tweaks */
-    #filterBox {
-      margin: 20px 0;
-      text-align: center;
-    }
-
-    /* === make exactly 2 cards per row === */
-    #tutorGrid {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);   /* 2 equal columns */
-      gap: 25px;
-      max-width: 900px;        /* keeps cards from stretching too wide */
-      margin: 0 auto;          /* center the grid */
-    }
-
-    /* stack to 1 column on phones */
-    @media (max-width: 600px) {
-      #tutorGrid {
-        grid-template-columns: 1fr;
-      }
-    }
-
-    .tutor {
-      border: 1px solid #d0d0d0;
-      border-radius: 8px;
-      padding: 15px;
-      text-align: center;
-    }
-    .tutor img {
-      width: 100%;
-      height: 180px;
-      object-fit: cover;
-      border-radius: 6px;
-    }
-    .tutor h3 { margin: 12px 0 6px; }
-    .tutor p { margin: 4px 0; font-size: 0.95rem; }
-  </style>
 </head>
 <body>
 
-<h2 style="text-align:center">Find a Tutor</h2>
+  <!-- Navbar (same as other pages) -->
+  <header class="navbar">
+    <div class="navbar-left">
+      <div class="logo">
+        <img src="{{ url_for('static', filename='tutors/tzstudies.png') }}" alt="TZStudies Logo" class="logo-img">
+        <h1>TZStudies</h1>
+      </div>
+    </div>
+    <div class="navbar-center">
+      <nav class="nav-links">
+        <a href="/" class="nav-link">Home</a>
+        <a href="/tutors" class="nav-link">Find Tutors</a>
+        <a href="/become_tutor" class="nav-link">Become a Tutor</a>
+        <a href="/answer_keys" class="nav-link">Answer Keys</a>
+      </nav>
+    </div>
+  </header>
 
-<!-- subject drop-down -->
-<div id="filterBox">
-  <label for="subjectSelect"><strong>Subject:</strong></label>
-  <select id="subjectSelect">
-    <option value="">All</option>
-    <option value="English">English</option>
-    <option value="Math">Math</option>
-    <option value="Kiswahili">Kiswahili</option>
-    <option value="Social Studies">Social Studies</option>
-  </select>
-</div>
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-content">
+      <h2>Find a Tutor</h2>
+      <p>Select a subject to filter the list—leave blank to view all tutors.</p>
 
-<!-- tutor cards -->
-<div id="tutorGrid">
+      <div id="filterBox" style="margin-top:1rem;">
+        <select id="subjectSelect" class="btn">
+          <option value="">All Subjects</option>
+          <option value="English">English</option>
+          <option value="Math">Math</option>
+          <option value="Kiswahili">Kiswahili</option>
+          <option value="Social Studies">Social Studies</option>
+        </select>
+      </div>
+    </div>
+  </section>
 
-  <!-- Lilian Minja -->
-  <div class="tutor" data-subjects="English,Kiswahili">
-    <img src="{{ url_for('static', filename='tutors/Lilian_Minja.jpg') }}" alt="Lilian Minja">
-    <h3>Lilian Minja</h3>
-    <p><strong>Subjects:</strong> English, Kiswahili</p>
-    <p><strong>School:</strong> Loyola HS (Assistant Academic Dean)</p>
-    <p><strong>Rate:</strong> TSh 18,000/hr</p>
-    <p><strong>Classes:</strong> Form 1 – Form 6</p>
-    <p><strong>Phone:</strong> +255 714 222 880</p>
-  </div>
+  <!-- Tutor Cards -->
+  <main class="container">
+    <div id="tutorGrid" class="exam-grid"><!-- re-use the grid class -->
 
-  <!-- Edward Mwandu -->
-  <div class="tutor" data-subjects="Math">
-    <img src="{{ url_for('static', filename='tutors/edward_mwandu.jpg') }}" alt="Edward Mwandu">
-    <h3>Edward Mwandu</h3>
-    <p><strong>Subjects:</strong> Math</p>
-    <p><strong>School:</strong> Loyola HS (Academic Dean)</p>
-    <p><strong>Rate:</strong> TSh 20,000/hr</p>
-    <p><strong>Classes:</strong> Form 3 – Form 6</p>
-    <p><strong>Phone:</strong> +255 713 110 455</p>
-  </div>
+      <!-- Ashery Richard -->
+      <div class="tutor-card tutor" data-subjects="Kiswahili,English">
+        <img src="{{ url_for('static', filename='tutors/ashery_richard.jpg') }}" alt="Ashery Richard">
+        <h3>Ashery Richard</h3>
+        <p><strong>Subjects:</strong> Kiswahili, English</p>
+        <p><strong>School:</strong> St Anthony of Padua</p>
+        <p><strong>Rate:</strong> TSh 12,000/hr</p>
+        <p><strong>Classes:</strong> Std&nbsp;7 – Form&nbsp;4</p>
+        <p><strong>Phone:</strong> +255 718 567 302</p>
+      </div>
 
-  <!-- Ashery Richard -->
-  <div class="tutor" data-subjects="Kiswahili,English">
-    <img src="{{ url_for('static', filename='tutors/ashery_richard.jpg') }}" alt="Ashery Richard">
-    <h3>Ashery Richard</h3>
-    <p><strong>Subjects:</strong> Kiswahili, English</p>
-    <p><strong>School:</strong> St Anthony of Padua</p>
-    <p><strong>Rate:</strong> TSh 12,000/hr</p>
-    <p><strong>Classes:</strong> Std 7 – Form 4</p>
-    <p><strong>Phone:</strong> +255 718 567 302</p>
-  </div>
+      <!-- Haji -->
+      <div class="tutor-card tutor" data-subjects="Social Studies">
+        <img src="{{ url_for('static', filename='tutors/haji.jpg') }}" alt="Haji">
+        <h3>Haji</h3>
+        <p><strong>Subjects:</strong> Social Studies</p>
+        <p><strong>School:</strong> St Anthony of Padua</p>
+        <p><strong>Rate:</strong> TSh 11,000/hr</p>
+        <p><strong>Classes:</strong> Std&nbsp;6 – Form&nbsp;3</p>
+        <p><strong>Phone:</strong> +255 715 334 910</p>
+      </div>
 
-  <!-- Haji -->
-  <div class="tutor" data-subjects="Social Studies">
-    <img src="{{ url_for('static', filename='tutors/haji.jpg') }}" alt="Haji">
-    <h3>Haji</h3>
-    <p><strong>Subjects:</strong> Social Studies</p>
-    <p><strong>School:</strong> St Anthony of Padua</p>
-    <p><strong>Rate:</strong> TSh 11,000/hr</p>
-    <p><strong>Classes:</strong> Std 6 – Form 3</p>
-    <p><strong>Phone:</strong> +255 715 334 910</p>
-  </div>
+      <!-- Lilian Minja -->
+      <div class="tutor-card tutor" data-subjects="English,Kiswahili">
+        <img src="{{ url_for('static', filename='tutors/Lilian_Minja.jpg') }}" alt="Lilian Minja">
+        <h3>Lilian Minja</h3>
+        <p><strong>Subjects:</strong> English, Kiswahili</p>
+        <p><strong>School:</strong> Loyola HS (Assistant Academic Dean)</p>
+        <p><strong>Rate:</strong> TSh 18,000/hr</p>
+        <p><strong>Classes:</strong> Form&nbsp;1 – Form&nbsp;6</p>
+        <p><strong>Phone:</strong> +255 714 222 880</p>
+      </div>
 
-</div>
+      <!-- Edward Mwandu -->
+      <div class="tutor-card tutor" data-subjects="Math">
+        <img src="{{ url_for('static', filename='tutors/edward_mwandu.jpg') }}" alt="Edward Mwandu">
+        <h3>Edward Mwandu</h3>
+        <p><strong>Subjects:</strong> Math</p>
+        <p><strong>School:</strong> Loyola HS (Academic Dean)</p>
+        <p><strong>Rate:</strong> TSh 20,000/hr</p>
+        <p><strong>Classes:</strong> Form&nbsp;3 – Form&nbsp;6</p>
+        <p><strong>Phone:</strong> +255 713 110 455</p>
+      </div>
 
-<script>
-  document.getElementById('subjectSelect').addEventListener('change', function () {
-    const chosen = this.value;
-    document.querySelectorAll('#tutorGrid .tutor').forEach(card => {
-      const subjects = card.dataset.subjects.split(',');
-      card.style.display = (!chosen || subjects.includes(chosen)) ? 'block' : 'none';
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>&copy; {{ current_year|default(2025) }} TZStudies. All rights reserved.</p>
+  </footer>
+
+  <!-- Filter Script -->
+  <script>
+    document.getElementById('subjectSelect').addEventListener('change', function () {
+      const chosen = this.value;
+      document.querySelectorAll('#tutorGrid .tutor').forEach(card => {
+        const subjects = card.dataset.subjects.split(',');
+        card.style.display = (!chosen || subjects.includes(chosen)) ? 'block' : 'none';
+      });
     });
-  });
-</script>
+  </script>
 
 </body>
 </html>
