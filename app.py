@@ -2,29 +2,25 @@ import os
 from flask import Flask, render_template, request, redirect, url_for, jsonify, send_from_directory, session
 from flask_mail import Mail, Message
 from flask_sqlalchemy import SQLAlchemy
-from config import Config  # Import configuration from config.py
+from config import Config 
 import openai 
-from werkzeug.utils import secure_filename  # For safely handling file names
+from werkzeug.utils import secure_filename 
 
 app = Flask(__name__)
 app.config.from_object(Config)
 
-# Set secret key for session/flash
 app.secret_key = "ignz upkj myar isiz"
 
-# Configure Flask-Mail for Gmail SMTP
 app.config['MAIL_SERVER'] = 'smtp.gmail.com'
 app.config['MAIL_PORT'] = 587
 app.config['MAIL_USE_TLS'] = True
 app.config['MAIL_USERNAME'] = 'tzstudies2024@gmail.com'
-app.config['MAIL_PASSWORD'] = 'ignz upkj myar isiz'  # Your 16-char App Password
+app.config['MAIL_PASSWORD'] = 'ignz upkj myar isiz'
 app.config['MAIL_DEFAULT_SENDER'] = ('Tutor Application', 'tzstudies2024@gmail.com')
 mail = Mail(app)
 
-# Initialize SQLAlchemy with PostgreSQL connection from config.py
 db = SQLAlchemy(app)
 
-# Define the TutorApplication model with the CV now storing the file path
 class TutorApplication(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(255), nullable=False)
@@ -35,27 +31,23 @@ class TutorApplication(db.Model):
     classes_taught = db.Column(db.String(255), nullable=False)
     phone = db.Column(db.String(50))
     email = db.Column(db.String(255), nullable=False)
-    cv_bio = db.Column(db.Text, nullable=False)          # Now stores the file path of the CV
-    profile_bio = db.Column(db.Text, nullable=False)       # Public profile description
+    cv_bio = db.Column(db.Text, nullable=False)         
+    profile_bio = db.Column(db.Text, nullable=False)    
 
 with app.app_context():
     db.create_all()
 
-# Define folder paths for exam PDFs and answer key PDFs (if used)
 EXAMS_FOLDER = os.path.join(os.getcwd(), "exams")
 ANSWER_KEYS_FOLDER = os.path.join(os.getcwd(), "answer_keys")
 
-# Define folder for CV uploads
 CV_UPLOAD_FOLDER = os.path.join(os.getcwd(), "uploads", "cvs")
 if not os.path.exists(CV_UPLOAD_FOLDER):
     os.makedirs(CV_UPLOAD_FOLDER)
 
 @app.route('/')
 def index():
-    # List all PDF files in the exams folder
     exam_files = [f for f in os.listdir(EXAMS_FOLDER) if f.lower().endswith('.pdf')]
     
-    # Optionally, list answer key PDFs if available
     answer_key_files = {}
     if os.path.exists(ANSWER_KEYS_FOLDER):
         for f in os.listdir(ANSWER_KEYS_FOLDER):
@@ -75,13 +67,11 @@ def download_key(filename):
 
 @app.route('/tutors')
 def tutors():
-    # Render a static tutors page
     return render_template('tutors.html')
 
 @app.route('/become_tutor', methods=['GET', 'POST'])
 def become_tutor():
     if request.method == 'POST':
-        # Retrieve form data
         name = request.form.get('name', '').strip()
         location = request.form.get('location', '').strip()
         school = request.form.get('school', '').strip()
@@ -90,22 +80,18 @@ def become_tutor():
         classes_taught = request.form.get('classes_taught', '').strip()
         phone = request.form.get('phone', '').strip()
         email = request.form.get('email', '').strip()
-        # Get the uploaded CV file
         cv_file = request.files.get('cv_file')
         profile_bio = request.form.get('profile_bio', '').strip()   # Public profile bio field
 
-        # Validate required fields (phone is optional)
         if (not name or not location or not school or not hourly_rate or
             not experience or not classes_taught or not email or not cv_file or not profile_bio):
             error = "Please fill in all required fields and upload your CV."
             return render_template('become_tutor.html', error=error)
         
-        # Save the uploaded CV file
         filename = secure_filename(cv_file.filename)
         file_path = os.path.join(CV_UPLOAD_FOLDER, filename)
         cv_file.save(file_path)
         
-        # Prepare email content for admin notification without showing the file path
         subject = "New Tutor Application"
         body = f"""
 New Tutor Application:
@@ -124,7 +110,6 @@ Profile Bio:
         """
         try:
             msg = Message(subject=subject, recipients=["tzstudies2024@gmail.com"], body=body)
-            # Attach the uploaded CV file to the email
             with open(file_path, 'rb') as fp:
                 file_data = fp.read()
             msg.attach(filename, cv_file.content_type, file_data)
@@ -133,7 +118,6 @@ Profile Bio:
             error = f"An error occurred while sending your application: {str(e)}"
             return render_template('become_tutor.html', error=error)
         
-        # Insert the application into the PostgreSQL database
         new_application = TutorApplication(
             name=name,
             location=location,
@@ -143,13 +127,12 @@ Profile Bio:
             classes_taught=classes_taught,
             phone=phone,
             email=email,
-            cv_bio=file_path,  # Save the file path in the database
+            cv_bio=file_path, 
             profile_bio=profile_bio
         )
         db.session.add(new_application)
         db.session.commit()
         
-        # Send a confirmation email to the tutor if an email was provided
         if email:
             try:
                 confirmation_subject = "We Received Your Tutor Application"
