@@ -4,16 +4,29 @@
   <meta charset="UTF-8">
   <title>Tutors – TZStudies</title>
   <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
-  <style>
+    <style>
+    /* page-specific tweaks */
     #filterBox {
       margin: 20px 0;
       text-align: center;
     }
+
+    /* === make exactly 2 cards per row === */
     #tutorGrid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      grid-template-columns: repeat(2, 1fr);   /* 2 equal columns */
       gap: 25px;
+      max-width: 900px;        /* keeps cards from stretching too wide */
+      margin: 0 auto;          /* center the grid */
     }
+
+    /* stack to 1 column on phones */
+    @media (max-width: 600px) {
+      #tutorGrid {
+        grid-template-columns: 1fr;
+      }
+    }
+
     .tutor {
       border: 1px solid #d0d0d0;
       border-radius: 8px;
