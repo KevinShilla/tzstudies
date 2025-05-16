@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>TZStudies</n>  
+  <title>TZStudies</title>
   <link rel="icon" href="{{ url_for('static', filename='tutors/tzstudies.png') }}" type="image/png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,23 +14,7 @@
   </style>
 </head>
 <body>
-  <!-- Navbar -->
-  <header class="navbar">
-    <div class="navbar-left">
-      <div class="logo">
-        <img src="{{ url_for('static', filename='tutors/tzstudies.png') }}" alt="TZStudies Logo" class="logo-img">
-        <h1>TZStudies</h1>
-      </div>
-    </div>
-    <div class="navbar-center">
-      <nav class="nav-links">
-        <a href="/" class="nav-link">Home</a>
-        <a href="/tutors" class="nav-link">Find Tutors</a>
-        <a href="/become_tutor" class="nav-link">Become a Tutor</a>
-        <a href="/answer_keys" class="nav-link">Answer Keys</a>
-      </nav>
-    </div>
-  </header>
+  {% include 'navbar.html' %}
 
   <!-- Hero Section -->
   <section class="hero">
@@ -40,7 +24,7 @@
       <div class="search-container">
         <input type="text" id="searchInput" placeholder="Search exams..." />
       </div>
-      <!-- YouTube Button -->
+      <!-- YouTube Channel Button -->
       <div class="hero-buttons" style="text-align:center; margin-top:1rem;">
         <a href="https://www.youtube.com/@tzstudies2025" target="_blank" class="btn" style="margin-right:1rem;">
           📺 Our YouTube Channel
@@ -49,7 +33,7 @@
     </div>
   </section>
 
-  <!-- Grade filters and Upload -->
+  <!-- Grade Filters and Upload -->
   <main class="container">
     <div id="gradeFilters" style="text-align:center; margin:1.5rem 0;">
       <button class="btn grade-btn" data-grade="">All Grades</button>
@@ -70,7 +54,7 @@
       <h2>Exam Papers</h2>
       <div id="examGrid" class="exam-grid">
         {% for file in exam_files %}
-        <div class="exam-card" data-grade="{{ file.split('-')[1] }}">
+        <div class="exam-card" data-grade="{{ file.split('-')[1]|default('') }}">
           <p class="exam-title">{{ file }}</p>
           <a href="{{ url_for('download', filename=file) }}" target="_blank" class="exam-link btn">View</a>
           {% if file in answer_key_files %}
@@ -80,26 +64,13 @@
         {% endfor %}
       </div>
     </section>
+
   </main>
 
-  <!-- Admin Button -->
-  <button id="adminBtn" class="admin-btn">Admin</button>
+  {% include 'footer.html' %}
 
-  <!-- Footer -->
-  <footer class="footer">
-    <p>&copy; {{ current_year|default(2025) }} TZStudies. All rights reserved.</p>
-  </footer>
-
-  <!-- Scripts -->
   <script src="{{ url_for('static', filename='js/script.js') }}"></script>
   <script>
-    // Admin button logic
-    document.getElementById('adminBtn').addEventListener('click', function() {
-      var password = prompt("Enter admin password:");
-      if (password !== "67b17b31-714c-8007-8980-f01cf26e8ab1") {
-        alert("Incorrect password.");
-      }
-    });
     // Grade filter logic
     document.querySelectorAll('.grade-btn').forEach(btn => {
       btn.addEventListener('click', () => {
