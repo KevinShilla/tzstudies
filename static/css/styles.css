@@ -203,3 +203,11 @@ input, textarea {
     grid-template-columns: 1fr;
   }
 }
+.exam-card {
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+.exam-card.hidden {
+  opacity: 0;
+  transform: scale(0.95);
+  pointer-events: none;
+}
