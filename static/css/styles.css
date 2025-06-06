@@ -211,3 +211,84 @@ input, textarea {
   transform: scale(0.95);
   pointer-events: none;
 }
+
+.hero.parallax {
+  position: relative;
+  height: 100vh;
+  background: #0a0a0a radial-gradient(circle at 30% 50%, #ff6139 0%, rgba(255,97,57,0) 40%) no-repeat center/cover fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.hero-title {
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  font-weight: 700;
+  line-height: 1.1;
+  color: #ffffff;
+  margin-bottom: 1rem;
+}
+.hero-subtitle {
+  color: #e0e0e0;
+  font-size: 1.25rem;
+  max-width: 640px;
+  margin-inline: auto;
+}
+.cta-btn {
+  margin-top: 2rem;
+}
+
+/* === Features strip ==================================================== */
+.features {
+  background: #101f33;
+  color: #ffffff;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2rem;
+  padding: 4rem 1rem;
+  text-align: center;
+}
+.feature h3 {
+  color: #a8dadc;
+  font-size: 1.6rem;
+  margin-bottom: .5rem;
+}
+
+/* === Section heading =================================================== */
+.section-heading {
+  text-align: center;
+  font-size: 2rem;
+  margin: 3rem 0 1rem;
+}
+
+/* === Reveal / scroll‑in animation ====================================== */
+.reveal {
+  opacity: 0;
+  transform: translateY(60px);
+  transition: opacity .8s ease, transform .8s ease;
+}
+.reveal.visible {
+  opacity: 1;
+  transform: none;
+}
+
+/* === Exam cards polish ================================================= */
+.exam-card {
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+  padding: 1rem;
+}
+.exam-card:hover {
+  box-shadow: 0 4px 25px rgba(0,0,0,0.12);
+  transform: translateY(-6px) scale(1.03);
+}
+
+/* === Grade filter buttons ============================================= */
+.grade-filter .btn {
+  margin: .25rem;
+}
+
+@media(max-width:768px){
+  .hero-title{font-size:clamp(2rem,8vw,3rem)}
+}
