@@ -48,7 +48,6 @@ body {
   transform: scale(1.1);
 }
 
-/* Hero Section with Animated Gradient */
 .hero {
   background: linear-gradient(45deg, #1d3557, #457b9d, #a8dadc);
   background-size: 600% 600%;
