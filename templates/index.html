@@ -100,7 +100,6 @@ const observer = new IntersectionObserver((entries, obs) => {
 
 document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
 
-// Grade filter logic ---------------------------------------------------
 document.querySelectorAll('.grade-btn').forEach(btn => {
   btn.addEventListener('click', () => {
     const grade = btn.dataset.grade;
