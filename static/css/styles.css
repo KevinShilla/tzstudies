@@ -293,8 +293,8 @@ input, textarea {
 }
 
 .tutor-card img {
-  width: 185px;      /* same width  */
-  height: 185px;     /* same height */
+  width: 200px;      /* same width  */
+  height: 200px;     /* same height */
   object-fit: cover; /* crops to fit, no stretching */
   display: block;    /* centers easily if you like */
   margin: 0 auto 0.5rem;
