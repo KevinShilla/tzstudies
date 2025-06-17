@@ -68,7 +68,7 @@
       {% for file in exam_files %}
       <div class="exam-card reveal" data-grade="{{ file.split('-')[1]|default('') }}">
         <p class="exam-title">{{ file }}</p>
-        <a href="{{ url_for('download', filename=file) }}" target="_blank" class="exam-link btn">View</a>
+        <a href="{{ url_for('view_exam', filename=file) }}" class="exam-link btn">View</a>
         {% if file in answer_key_files %}
         <a href="{{ url_for('download_key', filename=answer_key_files[file]) }}" target="_blank" class="answer-link btn">Answer Key</a>
         {% endif %}

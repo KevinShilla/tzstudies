@@ -195,6 +195,12 @@ def become_tutor():
         return redirect(url_for("tutors"))
     return render_template("become_tutor.html")
 
+@app.route("/view/<path:filename>")
+def view_exam(filename):
+    # anyone may view, but we still log the hit
+    _log_and_send(filename, EXAMS_FOLDER, "view")  # event = view
+    return render_template("view_exam.html", filename=filename)
+
 # ── upload exams (email notification) --------------------------------------
 @app.route("/upload_exams", methods=["GET", "POST"])
 def upload_exams():
