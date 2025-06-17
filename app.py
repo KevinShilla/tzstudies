@@ -22,7 +22,6 @@ app.config["SQLALCHEMY_DATABASE_URI"] = os.getenv("DATABASE_URL")  # pooler URL 
 app.config["SECRET_KEY"] = os.getenv("SECRET_KEY", "dev-key")
 app.config["SQLALCHEMY_ENGINE_OPTIONS"] = {
     "pool_pre_ping": True,
-    "connect_args": {"prepared_statements": False}
 }
 
 # ── extensions ────────────────────────────────────────────────────────
