@@ -302,3 +302,6 @@ input, textarea {
 .tutor-card img.face-up{
   object-position:top;   /* show the upper part */
 }
+.nav-auth { margin-left: auto; display: flex; align-items: center; }
+.nav-auth .nav-link { margin-left: 1rem; }
+.nav-auth span        { margin-right: .5rem; font-weight:600; }

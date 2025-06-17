@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Recently viewed (last 15)</h2>
+<ul>
+  {% for h in rows %}
+    <li>{{ h.paper.file_name }} — {{ h.event }} on {{ h.viewed_at.strftime('%Y-%m-%d %H:%M') }}</li>
+  {% endfor %}
+</ul>
+{% endblock %}
