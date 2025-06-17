@@ -291,3 +291,11 @@ input, textarea {
 @media(max-width:768px){
   .hero-title{font-size:clamp(2rem,8vw,3rem)}
 }
+
+.tutor-card img {
+  width: 160px;      /* same width  */
+  height: 160px;     /* same height */
+  object-fit: cover; /* crops to fit, no stretching */
+  display: block;    /* centers easily if you like */
+  margin: 0 auto 0.5rem;
+}
