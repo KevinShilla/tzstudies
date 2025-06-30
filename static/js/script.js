@@ -1,18 +1,13 @@
-// Simple search filter for exam PDFs
 document.getElementById('searchInput').addEventListener('input', function() {
     const filter = this.value.toLowerCase();
-    // Select all .exam-card elements
     const cards = document.querySelectorAll('.exam-card');
   
     cards.forEach(card => {
-      // Check the text content of each card
       const text = card.textContent.toLowerCase();
-      // If it matches the filter, show it; otherwise, hide
       card.style.display = text.includes(filter) ? '' : 'none';
     });
 });
 
-// AI Assistant: Send query to the backend and display the response
 document.getElementById('askButton').addEventListener('click', function() {
     let query = document.getElementById('aiQuery').value;
     let responseDiv = document.getElementById('aiResponse');
