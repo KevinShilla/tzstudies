@@ -183,7 +183,6 @@ input, textarea {
   color: #721c24;
 }
 
-/* Footer */
 .footer {
   background-color: #1d3557;
   color: white;
@@ -192,7 +191,6 @@ input, textarea {
   margin-top: 3rem;
 }
 
-/* Responsive */
 @media (max-width: 768px) {
   .hero h2 {
     font-size: 2rem;
@@ -237,7 +235,6 @@ input, textarea {
   margin-top: 2rem;
 }
 
-/* === Features strip ==================================================== */
 .features {
   background: #101f33;
   color: #ffffff;
@@ -253,14 +250,12 @@ input, textarea {
   margin-bottom: .5rem;
 }
 
-/* === Section heading =================================================== */
 .section-heading {
   text-align: center;
   font-size: 2rem;
   margin: 3rem 0 1rem;
 }
 
-/* === Reveal / scroll‑in animation ====================================== */
 .reveal {
   opacity: 0;
   transform: translateY(60px);
@@ -271,7 +266,6 @@ input, textarea {
   transform: none;
 }
 
-/* === Exam cards polish ================================================= */
 .exam-card {
   background: #ffffff;
   border-radius: 8px;
@@ -283,7 +277,6 @@ input, textarea {
   transform: translateY(-6px) scale(1.03);
 }
 
-/* === Grade filter buttons ============================================= */
 .grade-filter .btn {
   margin: .25rem;
 }
@@ -293,14 +286,14 @@ input, textarea {
 }
 
 .tutor-card img {
-  width: 200px;      /* same width  */
-  height: 200px;     /* same height */
-  object-fit: cover; /* crops to fit, no stretching */
+  width: 200px;      
+  height: 200px;     
+  object-fit: cover; 
   margin: 0 auto 0.5rem;
 }
 
 .tutor-card img.face-up{
-  object-position:top;   /* show the upper part */
+  object-position:top;   
 }
 .nav-auth { margin-left: auto; display: flex; align-items: center; }
 .nav-auth .nav-link { margin-left: 1rem; }
