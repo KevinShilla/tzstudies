@@ -8,6 +8,7 @@ document.getElementById('searchInput').addEventListener('input', function() {
     });
 });
 
+
 document.getElementById('askButton').addEventListener('click', function() {
     let query = document.getElementById('aiQuery').value;
     let responseDiv = document.getElementById('aiResponse');
