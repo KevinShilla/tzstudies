@@ -17,8 +17,8 @@ from config import Config
 
 # ── Flask & core config ───────────────────────────────────────────────
 app = Flask(__name__)
-app.config.from_object(Config)                         # load anything you keep in config.py
-app.config["SQLALCHEMY_DATABASE_URI"] = os.getenv("DATABASE_URL")  # pooler URL + ?sslmode=require
+app.config.from_object(Config)                        
+app.config["SQLALCHEMY_DATABASE_URI"] = os.getenv("DATABASE_URL")  
 app.config["SECRET_KEY"] = os.getenv("SECRET_KEY", "dev-key")
 app.config["SQLALCHEMY_ENGINE_OPTIONS"] = {
     "pool_pre_ping": True,
