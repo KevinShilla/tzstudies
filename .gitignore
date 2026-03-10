@@ -1,0 +1,25 @@
+.venv/
+<<<<<<< HEAD
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.sqlite3
+.DS_Store
+.env
+*.php
+uploads/cvs/*
+!uploads/cvs/.gitkeep
+instance/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+htmlcov/
+.coverage
+=======
+__pycache__/
+*.pyc
+*.sqlite3
+.DS_Store
+>>>>>>> b0f630e630adb5cf1db102ce373ade117d49b2ab

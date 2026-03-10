@@ -1,0 +1,203 @@
+{% extends "base.html" %}
+{% block title %}Admin Dashboard — TZStudies{% endblock %}
+
+{% block extra_head %}
+<style>
+  .admin-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1rem;
+    margin: 2rem 0;
+  }
+  .stat-card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 1.5rem;
+    text-align: center;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+  }
+  .stat-card .stat-number {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #1d3557;
+  }
+  .stat-card .stat-label {
+    color: #888;
+    font-size: 0.9rem;
+    margin-top: 0.25rem;
+  }
+  .admin-section {
+    background: #fff;
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+    margin-bottom: 2rem;
+  }
+  .admin-section h3 {
+    margin-bottom: 1rem;
+    color: #1d3557;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 0.5rem;
+  }
+  .admin-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+  }
+  .admin-table th,
+  .admin-table td {
+    padding: 0.6rem 0.75rem;
+    text-align: left;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  .admin-table thead th {
+    background: #f8f9fa;
+    font-weight: 600;
+    color: #555;
+  }
+  .admin-table tbody tr:hover { background: #f8f9fa; }
+  .badge {
+    display: inline-block;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: 600;
+  }
+  .badge-view { background: #d1ecf1; color: #0c5460; }
+  .badge-download { background: #d4edda; color: #155724; }
+  .badge-admin { background: #fbbf24; color: #333; }
+  .badge-verified { background: #d4edda; color: #155724; }
+  .badge-unverified { background: #f8d7da; color: #721c24; }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="container">
+  <h2 class="section-heading">Admin Dashboard</h2>
+
+  <!-- Stats Cards -->
+  <div class="admin-grid">
+    <div class="stat-card">
+      <div class="stat-number">{{ stats.total_users }}</div>
+      <div class="stat-label">Users</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">{{ stats.total_papers }}</div>
+      <div class="stat-label">Papers</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">{{ stats.total_views }}</div>
+      <div class="stat-label">Views</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">{{ stats.total_downloads }}</div>
+      <div class="stat-label">Downloads</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">{{ stats.tutor_applications }}</div>
+      <div class="stat-label">Tutor Apps</div>
+    </div>
+  </div>
+
+  <!-- Recent Users -->
+  <div class="admin-section">
+    <h3>Recent Users</h3>
+    <div class="table-wrap">
+      <table class="admin-table">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Verified</th>
+            <th>Role</th>
+            <th>Joined</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for user in recent_users %}
+          <tr>
+            <td>{{ user.name }}</td>
+            <td>{{ user.email }}</td>
+            <td>
+              {% if user.email_verified %}
+                <span class="badge badge-verified">Verified</span>
+              {% else %}
+                <span class="badge badge-unverified">Unverified</span>
+              {% endif %}
+            </td>
+            <td>
+              {% if user.is_admin %}
+                <span class="badge badge-admin">Admin</span>
+              {% else %}
+                User
+              {% endif %}
+            </td>
+            <td>{{ user.created_at.strftime('%d %b %Y') if user.created_at else '—' }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Recent Activity -->
+  <div class="admin-section">
+    <h3>Recent Activity</h3>
+    <div class="table-wrap">
+      <table class="admin-table">
+        <thead>
+          <tr>
+            <th>User</th>
+            <th>Paper</th>
+            <th>Event</th>
+            <th>Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in recent_activity %}
+          <tr>
+            <td>{{ row.user.name if row.user else '—' }}</td>
+            <td>{{ row.paper.file_name if row.paper else '—' }}</td>
+            <td>
+              <span class="badge badge-{{ row.event }}">{{ row.event }}</span>
+            </td>
+            <td>{{ row.viewed_at.strftime('%d %b %Y %H:%M') if row.viewed_at else '—' }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Tutor Applications -->
+  <div class="admin-section">
+    <h3>Tutor Applications</h3>
+    <div class="table-wrap">
+      <table class="admin-table">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Location</th>
+            <th>School</th>
+            <th>Rate</th>
+            <th>Applied</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for app in tutor_apps %}
+          <tr>
+            <td>{{ app.name }}</td>
+            <td>{{ app.email }}</td>
+            <td>{{ app.location }}</td>
+            <td>{{ app.school }}</td>
+            <td>{{ app.hourly_rate }}</td>
+            <td>{{ app.created_at.strftime('%d %b %Y') if app.created_at else '—' }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+{% endblock %}

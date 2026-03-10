@@ -1,0 +1,171 @@
+{% extends "base.html" %}
+{% block title %}React Library | TZStudies{% endblock %}
+
+{% block content %}
+  <h2>Exam Library (React)</h2>
+  <p style="margin-top:6px; color:#444;">
+    This page is powered by <strong>React</strong> (loaded via CDN) and pulls data from <code>/api/papers</code>.
+  </p>
+
+  <div id="react-root"></div>
+
+  <!-- React via CDN (no build step needed) -->
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+  <!-- Babel lets us use JSX right in this template (great for demos) -->
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+  <script type="text/babel">
+  {% raw %}
+    const { useEffect, useMemo, useState } = React;
+
+    function uniq(arr) {
+      return Array.from(new Set(arr)).filter(Boolean).sort();
+    }
+
+    function ExamLibrary() {
+      const [papers, setPapers] = useState([]);
+      const [loading, setLoading] = useState(true);
+      const [error, setError] = useState("");
+
+      const [search, setSearch] = useState("");
+      const [subject, setSubject] = useState("");
+      const [level, setLevel] = useState("");
+      const [year, setYear] = useState("");
+
+      useEffect(() => {
+        async function load() {
+          try {
+            const res = await fetch("/api/papers");
+            if (!res.ok) throw new Error("Failed to load papers");
+            const data = await res.json();
+            setPapers(data.papers || []);
+          } catch (e) {
+            setError(e.message || "Something went wrong");
+          } finally {
+            setLoading(false);
+          }
+        }
+        load();
+      }, []);
+
+      const subjects = useMemo(() => uniq(papers.map(p => p.subject)), [papers]);
+      const levels   = useMemo(() => uniq(papers.map(p => p.level)),   [papers]);
+      const years    = useMemo(() => uniq(papers.map(p => p.year)),    [papers]);
+
+      const filtered = useMemo(() => {
+        const q = search.trim().toLowerCase();
+        return papers.filter(p => {
+          if (subject && p.subject !== subject) return false;
+          if (level && p.level !== level) return false;
+          if (year && p.year !== year) return false;
+          if (!q) return true;
+          const hay = `${p.subject} ${p.level} ${p.year} ${p.file_name}`.toLowerCase();
+          return hay.includes(q);
+        });
+      }, [papers, search, subject, level, year]);
+
+      if (loading) return <div className="card">Loading…</div>;
+      if (error) return <div className="card" style={{borderLeft:"4px solid #c00"}}>Error: {error}</div>;
+
+      return (
+        <div>
+          <div className="card" style={{padding:"12px", margin:"12px 0"}}>
+            <div style={{display:"grid", gridTemplateColumns:"2fr 1fr 1fr 1fr", gap:"10px"}}>
+              <div>
+                <label style={{display:"block", fontSize:"14px"}}>Search</label>
+                <input
+                  value={search}
+                  onChange={(e) => setSearch(e.target.value)}
+                  placeholder="Try: English, S7, 2024…"
+                  style={{width:"100%", padding:"8px"}}
+                />
+              </div>
+
+              <div>
+                <label style={{display:"block", fontSize:"14px"}}>Subject</label>
+                <select value={subject} onChange={(e) => setSubject(e.target.value)} style={{width:"100%", padding:"8px"}}>
+                  <option value="">All</option>
+                  {subjects.map(s => <option key={s} value={s}>{s}</option>)}
+                </select>
+              </div>
+
+              <div>
+                <label style={{display:"block", fontSize:"14px"}}>Level</label>
+                <select value={level} onChange={(e) => setLevel(e.target.value)} style={{width:"100%", padding:"8px"}}>
+                  <option value="">All</option>
+                  {levels.map(l => <option key={l} value={l}>{l}</option>)}
+                </select>
+              </div>
+
+              <div>
+                <label style={{display:"block", fontSize:"14px"}}>Year</label>
+                <select value={year} onChange={(e) => setYear(e.target.value)} style={{width:"100%", padding:"8px"}}>
+                  <option value="">All</option>
+                  {years.map(y => <option key={y} value={y}>{y}</option>)}
+                </select>
+              </div>
+            </div>
+
+            <div style={{marginTop:"10px", display:"flex", gap:"10px", alignItems:"center"}}>
+              <div style={{color:"#444"}}><strong>{filtered.length}</strong> papers</div>
+              <button
+                onClick={() => { setSearch(""); setSubject(""); setLevel(""); setYear(""); }}
+                style={{padding:"8px 10px"}}
+              >
+                Clear filters
+              </button>
+            </div>
+          </div>
+
+          <div style={{display:"grid", gap:"10px"}}>
+            {filtered.map(p => (
+              <div key={p.file_name} className="card" style={{padding:"12px"}}>
+                <div style={{display:"flex", justifyContent:"space-between", gap:"10px", flexWrap:"wrap"}}>
+                  <div>
+                    <div style={{fontWeight:700}}>{p.subject} {p.level ? `• ${p.level}` : ""} {p.year ? `• ${p.year}` : ""}</div>
+                    <div style={{color:"#666", fontSize:"13px"}}>{p.file_name}</div>
+                  </div>
+
+                  <div style={{display:"flex", gap:"8px", alignItems:"center"}}>
+                    <a className="btn" href={p.view_url}>View</a>
+                    <a className="btn" href={p.download_url}>Download</a>
+                    {p.answer_key && p.answer_key.download_url ? (
+                      <a className="btn" href={p.answer_key.download_url}>Answer Key</a>
+                    ) : (
+                      <span style={{color:"#999", fontSize:"13px"}}>No key</span>
+                    )}
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      );
+    }
+
+    const root = ReactDOM.createRoot(document.getElementById("react-root"));
+    root.render(<ExamLibrary />);
+  {% endraw %}
+  </script>
+
+  <style>
+    .card {
+      background: #fff;
+      border: 1px solid #e6e6e6;
+      border-radius: 10px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+    }
+    .btn {
+      display: inline-block;
+      padding: 8px 10px;
+      border-radius: 8px;
+      border: 1px solid #ddd;
+      text-decoration: none;
+      color: #111;
+      background: #fafafa;
+      font-size: 14px;
+    }
+    .btn:hover { background: #f2f2f2; }
+  </style>
+{% endblock %}

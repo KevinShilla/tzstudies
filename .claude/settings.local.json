@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install -r requirements.txt)",
+      "Bash(xxd \"C:\\\\Users\\\\Kevin\\\\Downloads\\\\tzstudies-main\\\\tzstudies-main\\\\requirements.txt\")",
+      "Bash(python -c \"from tzstudies import create_app; app = create_app\\(''development''\\); print\\(''App created successfully''\\)\")",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(pip install pytest pytest-cov)",
+      "Bash(python -m pytest tests/ -v)",
+      "Bash(python -m pytest tests/ -v --tb=short)",
+      "Bash(python -m pytest tests/ -v --tb=short --cov=tzstudies --cov-report=term-missing)"
+    ]
+  }
+}

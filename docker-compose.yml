@@ -1,0 +1,36 @@
+version: "3.8"
+
+services:
+  web:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_ENV=development
+      - SECRET_KEY=docker-dev-secret-key-change-me
+      - DATABASE_URL=postgresql://tzstudies:tzstudies@db:5432/tzstudies
+    volumes:
+      - .:/app
+    depends_on:
+      db:
+        condition: service_healthy
+    command: python app.py
+
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: tzstudies
+      POSTGRES_PASSWORD: tzstudies
+      POSTGRES_DB: tzstudies
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U tzstudies"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  pgdata:

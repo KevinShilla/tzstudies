@@ -1,0 +1,85 @@
+<<<<<<< HEAD
+<header class="navbar" role="banner">
+  <div class="navbar-left">
+    <a href="{{ url_for('papers.index') }}" class="logo" aria-label="TZStudies Home">
+      <img src="{{ url_for('static', filename='tutors/tzstudies.png') }}"
+           class="logo-img" alt="TZStudies logo" width="40" height="40">
+      <span class="logo-text">TZStudies</span>
+    </a>
+  </div>
+
+  <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+    <span class="hamburger"></span>
+  </button>
+
+  <div class="navbar-center" id="navMenu">
+    <nav class="nav-links" aria-label="Main navigation">
+      <a href="{{ url_for('papers.index') }}" class="nav-link">Home</a>
+      <a href="{{ url_for('tutors.tutors_page') }}" class="nav-link">Find Tutors</a>
+      <a href="{{ url_for('tutors.become_tutor') }}" class="nav-link">Become a Tutor</a>
+      <a href="{{ url_for('papers.answer_keys_page') }}" class="nav-link">Answer Keys</a>
+    </nav>
+  </div>
+
+  <div class="nav-auth">
+    {% if current_user.is_authenticated %}
+      <span class="nav-user">Hello, {{ current_user.name.split(' ')[0] }}</span>
+      <a href="{{ url_for('papers.history') }}" class="nav-link">My Papers</a>
+      <a href="{{ url_for('auth.logout') }}" class="nav-link">Logout</a>
+    {% else %}
+      <a href="{{ url_for('auth.login') }}" class="nav-link">Login</a>
+      <a href="{{ url_for('auth.signup') }}" class="nav-link">Sign Up</a>
+    {% endif %}
+  </div>
+</header>
+
+<script>
+(function() {
+  var toggle = document.querySelector('.nav-toggle');
+  var menu = document.getElementById('navMenu');
+  var auth = document.querySelector('.nav-auth');
+  if (toggle) {
+    toggle.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', String(!expanded));
+      menu.classList.toggle('nav-open');
+      auth.classList.toggle('nav-open');
+    });
+  }
+})();
+</script>
+=======
+<header class="navbar">
+  <!-- left: logo -->
+  <div class="navbar-left">
+    <div class="logo">
+      <img src="{{ url_for('static', filename='tutors/tzstudies.png') }}"
+           class="logo-img" alt="TZStudies">
+      <h1>TZStudies</h1>
+    </div>
+  </div>
+
+  <!-- centre: site nav -->
+  <div class="navbar-center">
+    <nav class="nav-links">
+      <a href="{{ url_for('index') }}"          class="nav-link">Home</a>
+      <a href="{{ url_for('react_library') }}" class="nav-link">Exam Library</a>
+      <a href="{{ url_for('tutors') }}"         class="nav-link">Find Tutors</a>
+      <a href="{{ url_for('become_tutor') }}"   class="nav-link">Become a Tutor</a>
+      <a href="{{ url_for('answer_keys_page') }}" class="nav-link">Answer Keys</a>
+    </nav>
+  </div>
+
+  <!-- right: auth / user menu -->
+  <div class="nav-auth">
+    {% if current_user.is_authenticated %}
+       <span>Hello, {{ current_user.name.split(' ')[0] }}</span>
+       <a href="{{ url_for('history') }}" class="nav-link">My Papers</a>
+       <a href="{{ url_for('logout') }}"  class="nav-link">Logout</a>
+    {% else %}
+       <a href="{{ url_for('login') }}"   class="nav-link">Login</a>
+       <a href="{{ url_for('signup') }}"  class="nav-link">Sign Up</a>
+    {% endif %}
+  </div>
+</header>
+>>>>>>> b0f630e630adb5cf1db102ce373ade117d49b2ab
