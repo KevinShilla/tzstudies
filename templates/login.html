@@ -1,5 +1,4 @@
 {% extends "base.html" %}
-<<<<<<< HEAD
 {% block title %}Log In — TZStudies{% endblock %}
 
 {% block content %}
@@ -24,13 +23,4 @@
     <p class="auth-link">Don't have an account? <a href="{{ url_for('auth.signup') }}">Sign Up</a></p>
   </div>
 </div>
-=======
-{% block content %}
-<h2>Log in</h2>
-<form method="post">
-  <input name="email"    type="email" placeholder="Email" required><br>
-  <input name="password" type="password" placeholder="Password" required><br>
-  <button class="btn">Log in</button>
-</form>
->>>>>>> b0f630e630adb5cf1db102ce373ade117d49b2ab
 {% endblock %}

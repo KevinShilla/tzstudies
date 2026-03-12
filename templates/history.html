@@ -1,5 +1,4 @@
 {% extends "base.html" %}
-<<<<<<< HEAD
 {% block title %}My Papers — TZStudies{% endblock %}
 
 {% block content %}
@@ -30,36 +29,6 @@
           <td>{{ row.viewed_at.strftime('%d %b %Y %H:%M') }}</td>
           <td class="text-right">
             <a href="{{ url_for('papers.download' if row.paper.category=='exam' else 'papers.download_key',
-=======
-
-{% block content %}
-<div class="mx-auto max-w-4xl py-10">
-  <h2 class="text-2xl font-semibold mb-6 text-center">
-    Recently viewed <span class="text-primary">(last 15)</span>
-  </h2>
-
-  <!-- responsive wrapper -->
-  <div class="overflow-x-auto shadow ring-1 ring-gray-200 rounded-xl">
-    <table class="min-w-full divide-y divide-gray-200 text-sm leading-6">
-      <thead class="bg-primary text-white">
-        <tr>
-          <th class="px-4 py-3 text-left font-semibold">Paper</th>
-          <th class="px-4 py-3 text-left font-semibold">Event</th>
-          <th class="px-4 py-3 text-left font-semibold">Date</th>
-          <th class="px-4 py-3"></th>
-        </tr>
-      </thead>
-      <tbody class="divide-y divide-gray-100 bg-white">
-      {% for row in rows %}
-        <tr class="hover:bg-gray-50 transition">
-          <td class="px-4 py-3">{{ row.paper.file_name }}</td>
-          <td class="px-4 py-3 capitalize">{{ row.event }}</td>
-          <td class="px-4 py-3">
-              {{ row.viewed_at.strftime('%d %b %Y %H:%M') }}
-          </td>
-          <td class="px-4 py-3 text-right">
-            <a href="{{ url_for('download' if row.paper.category=='exam' else 'download_key',
->>>>>>> b0f630e630adb5cf1db102ce373ade117d49b2ab
                                 filename=row.paper.file_name) }}"
                class="btn btn-sm">
                Download
@@ -70,13 +39,8 @@
       </tbody>
     </table>
   </div>
-<<<<<<< HEAD
   {% else %}
   <p class="empty-state">You haven't viewed any papers yet. <a href="{{ url_for('papers.index') }}">Browse exams</a> to get started!</p>
   {% endif %}
 </div>
 {% endblock %}
-=======
-</div>
-{% endblock %}
->>>>>>> b0f630e630adb5cf1db102ce373ade117d49b2ab

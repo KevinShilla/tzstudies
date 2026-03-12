@@ -1,5 +1,4 @@
 .venv/
-<<<<<<< HEAD
 venv/
 __pycache__/
 *.pyc
@@ -17,9 +16,3 @@ build/
 .pytest_cache/
 htmlcov/
 .coverage
-=======
-__pycache__/
-*.pyc
-*.sqlite3
-.DS_Store
->>>>>>> b0f630e630adb5cf1db102ce373ade117d49b2ab
