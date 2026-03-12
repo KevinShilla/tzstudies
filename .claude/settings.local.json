@@ -8,7 +8,9 @@
       "Bash(pip install pytest pytest-cov)",
       "Bash(python -m pytest tests/ -v)",
       "Bash(python -m pytest tests/ -v --tb=short)",
-      "Bash(python -m pytest tests/ -v --tb=short --cov=tzstudies --cov-report=term-missing)"
+      "Bash(python -m pytest tests/ -v --tb=short --cov=tzstudies --cov-report=term-missing)",
+      "Bash(python -c \"from tzstudies.config import Config; print\\(''SECRET_KEY empty:'', Config.SECRET_KEY == ''''\\); print\\(''SECRET_KEY is default:'', Config.SECRET_KEY in ['''', ''dev-insecure-key-change-me'']\\)\")",
+      "Bash(python -c \":*)"
     ]
   }
 }

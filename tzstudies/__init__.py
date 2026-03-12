@@ -40,6 +40,11 @@ def create_app(config_name=None):
         exist_ok=True,
     )
 
+    # Ensure database tables exist (fallback for environments without migrations)
+    with app.app_context():
+        from tzstudies.extensions import db
+        db.create_all()
+
     # Configure logging
     _configure_logging(app)
 
