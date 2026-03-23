@@ -40,15 +40,79 @@ def create_app(config_name=None):
         exist_ok=True,
     )
 
-    # Ensure tables exist (create_all is idempotent — safe alongside migrations)
+    # Ensure tables exist and schema is up-to-date
     with app.app_context():
         from tzstudies.extensions import db
         db.create_all()
+        _fix_schema(db)
 
     # Configure logging
     _configure_logging(app)
 
     return app
+
+
+def _fix_schema(db):
+    """Add any columns that exist in the models but are missing from the
+    database.  This handles the case where the app was restructured and
+    new columns were added to the models but the production database
+    still has the old schema.  ``db.create_all()`` only creates *new*
+    tables — it never alters existing ones."""
+
+    import sqlalchemy as sa
+
+    conn = db.engine.connect()
+    inspector = sa.inspect(db.engine)
+    existing_tables = set(inspector.get_table_names())
+
+    # ── user table ────────────────────────────────────────────────
+    if "user" in existing_tables:
+        user_cols = {c["name"] for c in inspector.get_columns("user")}
+
+        if "is_admin" not in user_cols:
+            conn.execute(sa.text(
+                "ALTER TABLE \"user\" ADD COLUMN is_admin BOOLEAN NOT NULL DEFAULT FALSE"
+            ))
+
+        if "email_verified" not in user_cols:
+            conn.execute(sa.text(
+                "ALTER TABLE \"user\" ADD COLUMN email_verified BOOLEAN NOT NULL DEFAULT FALSE"
+            ))
+
+    # ── tutor_application table ───────────────────────────────────
+    if "tutor_application" in existing_tables:
+        tutor_cols = {c["name"] for c in inspector.get_columns("tutor_application")}
+
+        if "cv_filename" not in tutor_cols:
+            conn.execute(sa.text(
+                "ALTER TABLE tutor_application ADD COLUMN cv_filename VARCHAR(255)"
+            ))
+
+        if "created_at" not in tutor_cols:
+            conn.execute(sa.text(
+                "ALTER TABLE tutor_application ADD COLUMN created_at TIMESTAMP"
+            ))
+
+        # The old schema had cv_bio (NOT NULL) which the new code doesn't
+        # use. Drop it so inserts don't fail.
+        if "cv_bio" in tutor_cols:
+            try:
+                conn.execute(sa.text(
+                    "ALTER TABLE tutor_application DROP COLUMN cv_bio"
+                ))
+            except Exception:
+                # SQLite < 3.35 doesn't support DROP COLUMN;
+                # fall back to making it nullable on PostgreSQL
+                try:
+                    conn.execute(sa.text(
+                        "ALTER TABLE tutor_application "
+                        "ALTER COLUMN cv_bio DROP NOT NULL"
+                    ))
+                except Exception:
+                    pass  # best-effort
+
+    conn.commit()
+    conn.close()
 
 
 def _init_extensions(app):
