@@ -39,8 +39,15 @@ def _log_event(paper, event):
         db.session.commit()
 
 
+def _index_cache_key():
+    """Vary cache by authentication state so logged-in users see their navbar."""
+    if current_user.is_authenticated:
+        return f"view//user_{current_user.id}"
+    return "view//anon"
+
+
 @papers_bp.route("/")
-@cache.cached(timeout=60)
+@cache.cached(timeout=60, key_prefix=_index_cache_key)
 def index():
     exams_folder = _get_exams_folder()
     exam_files = sorted(

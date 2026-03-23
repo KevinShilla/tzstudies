@@ -1,3 +1,5 @@
+import threading
+
 from flask import Blueprint, current_app, flash, redirect, render_template, request, url_for
 from flask_login import current_user, login_required, login_user, logout_user
 from flask_mail import Message
@@ -117,7 +119,7 @@ def logout():
 # ---------------------------------------------------------------------------
 
 def _send_verification_email(user):
-    """Send a verification email to the user (best-effort)."""
+    """Send a verification email to the user in a background thread (best-effort)."""
     try:
         token = _generate_token(user.email, salt="email-verify")
         verify_url = url_for("auth.verify_email", token=token, _external=True)
@@ -132,9 +134,19 @@ def _send_verification_email(user):
             f"This link expires in 1 hour.\n\n"
             f"— TZStudies Team"
         )
-        mail.send(msg)
+        # Send in background so the user isn't stuck waiting
+        app = current_app._get_current_object()
+
+        def _send():
+            with app.app_context():
+                try:
+                    mail.send(msg)
+                except Exception as exc:
+                    app.logger.warning("Failed to send verification email: %s", exc)
+
+        threading.Thread(target=_send, daemon=True).start()
     except Exception as exc:
-        current_app.logger.warning("Failed to send verification email: %s", exc)
+        current_app.logger.warning("Failed to prepare verification email: %s", exc)
 
 
 @auth_bp.route("/verify/<token>")
