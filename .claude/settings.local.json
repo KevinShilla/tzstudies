@@ -10,7 +10,9 @@
       "Bash(python -m pytest tests/ -v --tb=short)",
       "Bash(python -m pytest tests/ -v --tb=short --cov=tzstudies --cov-report=term-missing)",
       "Bash(python -c \"from tzstudies.config import Config; print\\(''SECRET_KEY empty:'', Config.SECRET_KEY == ''''\\); print\\(''SECRET_KEY is default:'', Config.SECRET_KEY in ['''', ''dev-insecure-key-change-me'']\\)\")",
-      "Bash(python -c \":*)"
+      "Bash(python -c \":*)",
+      "Bash(FLASK_APP=app.py python -m flask db revision -m \"align schema with new models\")",
+      "Bash(FLASK_APP=app.py python -m flask db upgrade)"
     ]
   }
 }
