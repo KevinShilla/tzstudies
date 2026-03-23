@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}Upload Exams — TZStudies{% endblock %}
+
+{% block content %}
+<section class="hero">
+  <div class="hero-content">
+    <h1>Upload Past Exams</h1>
+    <p>Share a PDF so all TZ students can benefit.</p>
+  </div>
+</section>
+
+<div class="container">
+  <form action="{{ url_for('upload.upload_exams') }}"
+        method="POST"
+        enctype="multipart/form-data"
+        class="form-card">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+
+    <div class="form-group">
+      <label for="exam_pdf">Select PDF file:</label>
+      <input type="file" id="exam_pdf" name="exam_pdf" accept=".pdf" required>
+    </div>
+
+    <button type="submit" class="btn">Send to TZStudies</button>
+  </form>
+</div>
+{% endblock %}

@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}Answer Keys — TZStudies{% endblock %}
+
+{% block content %}
+<section class="hero">
+  <div class="hero-content">
+    <h1>Answer Keys</h1>
+    <p>Download answer keys for past national exams.</p>
+  </div>
+</section>
+
+<div class="container">
+  <section class="answer-key-list">
+    <h2 class="section-heading">Available Answer Keys</h2>
+    {% if keys %}
+    <div class="exam-grid">
+      {% for key in keys %}
+      <div class="exam-card">
+        <p class="exam-title">{{ key }}</p>
+        <a href="{{ url_for('papers.download_key', filename=key) }}" class="btn answer-link">Download Answer Key</a>
+      </div>
+      {% endfor %}
+    </div>
+    {% else %}
+    <p class="empty-state">No answer keys available yet. Check back soon!</p>
+    {% endif %}
+  </section>
+</div>
+{% endblock %}

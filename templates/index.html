@@ -1,0 +1,118 @@
+{% extends "base.html" %}
+{% block title %}TZStudies — Exam Papers for Tanzanian Students{% endblock %}
+
+{% block extra_head %}
+<style>.hidden{display:none!important}</style>
+{% endblock %}
+
+{% block content %}
+<!-- Hero -->
+<section class="hero parallax">
+  <div class="hero-content">
+    <h1 class="hero-title">Unlock Your Exam&nbsp;Success</h1>
+    <p class="hero-subtitle">Free past papers, worked solutions &amp; trusted tutors — everything you need to excel.</p>
+    <a href="#examSection" class="btn cta-btn">Browse Exams</a>
+  </div>
+</section>
+
+<!-- Features -->
+<section class="features reveal" aria-label="What we offer">
+  <div class="feature">
+    <h2>Past Papers</h2>
+    <p>Instant PDF downloads for Standard 4, Form 2 &amp; Form 4.</p>
+  </div>
+  <div class="feature">
+    <h2>Answer Keys</h2>
+    <p>Learn faster with detailed marking schemes.</p>
+  </div>
+  <div class="feature">
+    <h2>Expert Tutors</h2>
+    <p>Connect with vetted teachers in every major city.</p>
+  </div>
+</section>
+
+<!-- Search & Filters -->
+<section class="search-section reveal">
+  <div class="container">
+    <h2 class="section-heading">Find Your Paper</h2>
+    <div class="search-container">
+      <input type="text" id="searchInput" placeholder="Search exams..." aria-label="Search exams">
+    </div>
+    <div id="gradeFilters" class="grade-filter">
+      <button class="btn grade-btn active" data-grade="">All Grades</button>
+      <button class="btn grade-btn" data-grade="S4">Standard 4</button>
+      <button class="btn grade-btn" data-grade="F4">Form 4</button>
+      <button class="btn grade-btn" data-grade="F2">Form 2</button>
+    </div>
+    <div class="upload-cta">
+      <a href="{{ url_for('upload.upload_exams') }}" class="btn">Upload Past Exams</a>
+    </div>
+  </div>
+</section>
+
+<!-- AI Study Assistant -->
+<section class="ai-section reveal">
+  <div class="container">
+    <h2 class="section-heading">AI Study Assistant</h2>
+    <p class="ai-description">Ask any exam question and get a detailed explanation.</p>
+    <div class="ai-chat">
+      <div class="ai-input-group">
+        <input type="text" id="aiQuery" placeholder="e.g. Explain photosynthesis for Form 2 Biology..." aria-label="Ask a question">
+        <button id="askButton" class="btn">Ask</button>
+      </div>
+      <div id="aiResponse" class="ai-response" aria-live="polite"></div>
+    </div>
+  </div>
+</section>
+
+<!-- Exam Papers Grid -->
+<section id="examSection" class="exam-list-section reveal">
+  <div class="container">
+    <h2 class="section-heading">Exam Papers</h2>
+    <div id="examGrid" class="exam-grid">
+      {% for file in exam_files %}
+      <div class="exam-card" data-grade="{{ file.split('-')[1]|default('') }}">
+        <p class="exam-title">{{ file }}</p>
+        <div class="exam-actions">
+          <a href="{{ url_for('papers.view_exam', filename=file) }}" class="btn exam-link">View</a>
+          {% if file in answer_key_files %}
+          <a href="{{ url_for('papers.download_key', filename=answer_key_files[file]) }}" class="btn answer-link">Answer Key</a>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endblock %}
+
+{% block extra_scripts %}
+<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+<script>
+// Parallax effect on hero text
+window.addEventListener('scroll', function() {
+  var hero = document.querySelector('.hero-content');
+  if (hero) hero.style.transform = 'translateY(' + (window.scrollY * 0.4) + 'px)';
+});
+
+// Reveal-on-scroll
+var observer = new IntersectionObserver(function(entries, obs) {
+  entries.forEach(function(e) {
+    if (e.isIntersecting) { e.target.classList.add('visible'); obs.unobserve(e.target); }
+  });
+}, { threshold: 0.15 });
+document.querySelectorAll('.reveal').forEach(function(el) { observer.observe(el); });
+
+// Grade filtering
+document.querySelectorAll('.grade-btn').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    document.querySelectorAll('.grade-btn').forEach(function(b) { b.classList.remove('active'); });
+    btn.classList.add('active');
+    var grade = btn.dataset.grade;
+    document.querySelectorAll('#examGrid .exam-card').forEach(function(card) {
+      card.classList.toggle('hidden', grade && card.dataset.grade !== grade);
+    });
+  });
+});
+</script>
+{% endblock %}

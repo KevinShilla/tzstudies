@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% block title %}My Papers — TZStudies{% endblock %}
+
+{% block content %}
+<section class="hero">
+  <div class="hero-content">
+    <h1>My Papers</h1>
+    <p>Your last 15 viewed or downloaded papers.</p>
+  </div>
+</section>
+
+<div class="container">
+  {% if rows %}
+  <div class="table-wrap">
+    <table class="history-table">
+      <thead>
+        <tr>
+          <th>Paper</th>
+          <th>Event</th>
+          <th>Date</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+      {% for row in rows %}
+        <tr>
+          <td>{{ row.paper.file_name }}</td>
+          <td class="capitalize">{{ row.event }}</td>
+          <td>{{ row.viewed_at.strftime('%d %b %Y %H:%M') }}</td>
+          <td class="text-right">
+            <a href="{{ url_for('papers.download' if row.paper.category=='exam' else 'papers.download_key',
+                                filename=row.paper.file_name) }}"
+               class="btn btn-sm">
+               Download
+            </a>
+          </td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  {% else %}
+  <p class="empty-state">You haven't viewed any papers yet. <a href="{{ url_for('papers.index') }}">Browse exams</a> to get started!</p>
+  {% endif %}
+</div>
+{% endblock %}

@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}{{ filename }} — TZStudies{% endblock %}
+
+{% block content %}
+<div class="container view-exam-container">
+  <h2 class="section-heading">{{ filename }}</h2>
+
+  <iframe src="{{ url_for('papers.download', filename=filename) }}#toolbar=0"
+          class="pdf-viewer"
+          title="PDF preview of {{ filename }}"></iframe>
+
+  <div class="text-right">
+    <a href="{{ url_for('papers.download', filename=filename) }}" class="btn">Download PDF</a>
+  </div>
+</div>
+{% endblock %}
