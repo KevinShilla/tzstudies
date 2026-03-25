@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}Search: {{ query }} — TZStudies{% endblock %}
+
+{% block content %}
+<div class="container">
+  <h2 class="section-heading">Search results for "{{ query }}"</h2>
+  <p style="text-align:center;color:#666;margin-bottom:1.5rem;">{{ results|length }} result{{ 's' if results|length != 1 else '' }} found</p>
+
+  <div class="search-container" style="margin-bottom:2rem;">
+    <form method="GET" action="{{ url_for('papers.search') }}">
+      <input type="text" name="q" value="{{ query }}" placeholder="Search exams..." aria-label="Search exams">
+      <button type="submit" class="btn" style="margin-top:0.5rem;width:100%;">Search</button>
+    </form>
+  </div>
+
+  {% if results %}
+  <div class="exam-grid">
+    {% for result in results %}
+    <div class="exam-card">
+      <p class="exam-title">{{ result.file_name }}</p>
+      <div class="exam-actions">
+        <a href="{{ url_for('papers.view_exam', filename=result.file_name) }}" class="btn exam-link">View</a>
+        <a href="{{ url_for('papers.download', filename=result.file_name) }}" class="btn">Download</a>
+        <a href="{{ url_for('papers.paper_detail', paper_id=result.id) }}" class="btn">Discuss</a>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  {% else %}
+  <div class="empty-state">
+    <p>No papers found for "{{ query }}". Try a different search term.</p>
+    <a href="{{ url_for('papers.index') }}">Back to all papers</a>
+  </div>
+  {% endif %}
+</div>
+{% endblock %}

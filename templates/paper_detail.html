@@ -1,0 +1,103 @@
+{% extends "base.html" %}
+{% block title %}{{ paper.file_name }} — TZStudies{% endblock %}
+
+{% block content %}
+<div class="container">
+  <!-- Paper Header -->
+  <h2 class="section-heading">{{ paper.file_name }}</h2>
+  {% if paper.grade %}
+  <p style="text-align:center;color:#666;margin-bottom:1rem;">Grade: {{ paper.grade }}</p>
+  {% endif %}
+  <div style="text-align:center;margin-bottom:1.5rem;">
+    <a href="{{ url_for('papers.download', filename=paper.file_name) }}" class="btn">Download PDF</a>
+    <a href="{{ url_for('papers.index') }}" class="btn">Back to All Papers</a>
+  </div>
+
+  <!-- PDF Viewer -->
+  <iframe src="{{ url_for('papers.download', filename=paper.file_name) }}#toolbar=0"
+          class="pdf-viewer"
+          title="PDF preview of {{ paper.file_name }}"></iframe>
+
+  <!-- Discussion Section -->
+  <div class="discussion-section">
+    <h3 class="section-heading" style="font-size:1.5rem;">Discussion ({{ comments|length }} comment{{ 's' if comments|length != 1 else '' }})</h3>
+
+    {% if not comments %}
+    <div class="empty-state">
+      <p>No comments yet. Be the first to ask a question!</p>
+    </div>
+    {% endif %}
+
+    {% for comment in comments %}
+    <div class="comment-card">
+      <div class="comment-meta">
+        <span class="comment-author">{{ comment.user.name }}</span>
+        &middot; {{ comment.created_at.strftime('%d %b %Y %H:%M') }}
+      </div>
+      <div class="comment-body">{{ comment.body }}</div>
+      <div class="comment-actions">
+        {% if current_user.is_authenticated %}
+        <button type="button" class="btn btn-sm reply-toggle">Reply</button>
+        {% else %}
+        <a href="{{ url_for('auth.login') }}" class="btn btn-sm">Log in to reply</a>
+        {% endif %}
+      </div>
+
+      <!-- Reply Form (hidden by default) -->
+      {% if current_user.is_authenticated %}
+      <div class="reply-form">
+        <form method="POST" action="{{ url_for('papers.post_comment', paper_id=paper.id) }}">
+          <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+          <input type="hidden" name="parent_id" value="{{ comment.id }}">
+          <div class="form-group">
+            <textarea name="body" rows="3" placeholder="Write a reply..." required></textarea>
+          </div>
+          <button type="submit" class="btn btn-sm">Submit Reply</button>
+        </form>
+      </div>
+      {% endif %}
+
+      <!-- Replies -->
+      {% for reply in comment.replies %}
+      <div class="comment-card comment-reply">
+        <div class="comment-meta">
+          <span class="comment-author">{{ reply.user.name }}</span>
+          &middot; {{ reply.created_at.strftime('%d %b %Y %H:%M') }}
+        </div>
+        <div class="comment-body">{{ reply.body }}</div>
+      </div>
+      {% endfor %}
+    </div>
+    {% endfor %}
+
+    <!-- New Top-Level Comment Form -->
+    <div class="new-comment-form">
+      {% if current_user.is_authenticated %}
+      <form method="POST" action="{{ url_for('papers.post_comment', paper_id=paper.id) }}">
+        <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+        <div class="form-group">
+          <label for="commentBody">Ask a question or leave a comment</label>
+          <textarea id="commentBody" name="body" rows="4" placeholder="Write your comment..." required></textarea>
+        </div>
+        <button type="submit" class="btn">Post Comment</button>
+      </form>
+      {% else %}
+      <p style="text-align:center;color:#666;">
+        Please <a href="{{ url_for('auth.login') }}" style="color:#457b9d;font-weight:600;">log in</a> to join the discussion.
+      </p>
+      {% endif %}
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+document.querySelectorAll('.reply-toggle').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    var form = this.closest('.comment-card').querySelector('.reply-form');
+    form.classList.toggle('open');
+  });
+});
+</script>
+{% endblock %}

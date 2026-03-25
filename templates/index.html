@@ -36,7 +36,9 @@
   <div class="container">
     <h2 class="section-heading">Find Your Paper</h2>
     <div class="search-container">
-      <input type="text" id="searchInput" placeholder="Search exams..." aria-label="Search exams">
+      <form method="GET" action="{{ url_for('papers.search') }}">
+        <input type="text" id="searchInput" name="q" placeholder="Search exams..." aria-label="Search exams">
+      </form>
     </div>
     <div id="gradeFilters" class="grade-filter">
       <button class="btn grade-btn active" data-grade="">All Grades</button>
@@ -77,6 +79,9 @@
           <a href="{{ url_for('papers.view_exam', filename=file) }}" class="btn exam-link">View</a>
           {% if file in answer_key_files %}
           <a href="{{ url_for('papers.download_key', filename=answer_key_files[file]) }}" class="btn answer-link">Answer Key</a>
+          {% endif %}
+          {% if file in paper_ids %}
+          <a href="{{ url_for('papers.paper_detail', paper_id=paper_ids[file]) }}" class="btn">Discuss</a>
           {% endif %}
         </div>
       </div>

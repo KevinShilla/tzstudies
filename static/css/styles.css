@@ -554,3 +554,64 @@ small { display: block; color: #888; font-size: 0.82rem; margin-top: 0.25rem; }
   .auth-card { padding: 1.5rem; }
   .hero { padding: 2.5rem 1rem; }
 }
+
+/* ============================================================
+   Search Bar — Navbar
+   ============================================================ */
+.navbar-search input::placeholder {
+  color: rgba(255,255,255,0.6);
+}
+
+/* ============================================================
+   COMMENTS / DISCUSSION
+   ============================================================ */
+.comment-card {
+  background: #fff;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  border-left: 3px solid #457b9d;
+}
+.comment-reply {
+  margin-left: 2rem;
+  border-left: 3px solid #a8dadc;
+}
+.comment-meta {
+  font-size: 0.82rem;
+  color: #888;
+  margin-bottom: 0.4rem;
+}
+.comment-author {
+  font-weight: 600;
+  color: #1d3557;
+}
+.comment-body {
+  color: #333;
+  white-space: pre-wrap;
+}
+.comment-actions {
+  margin-top: 0.5rem;
+}
+.reply-form {
+  display: none;
+  margin-top: 0.75rem;
+  padding: 0.75rem;
+  background: #f0f4f8;
+  border-radius: 6px;
+}
+.reply-form.open {
+  display: block;
+}
+.discussion-section {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 2px solid #e0e0e0;
+}
+.new-comment-form {
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  margin-top: 1.5rem;
+}

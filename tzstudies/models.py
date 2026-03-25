@@ -73,3 +73,27 @@ class TutorApplication(db.Model):
 
     def __repr__(self):
         return f"<TutorApplication {self.name}>"
+
+
+class Comment(db.Model):
+    __tablename__ = "comment"
+
+    id = db.Column(db.Integer, primary_key=True)
+    paper_id = db.Column(db.Integer, db.ForeignKey("paper.id"), nullable=False)
+    user_id = db.Column(db.Integer, db.ForeignKey("user.id"), nullable=False)
+    parent_id = db.Column(db.Integer, db.ForeignKey("comment.id"), nullable=True)
+    body = db.Column(db.Text, nullable=False)
+    created_at = db.Column(
+        db.DateTime, default=lambda: datetime.now(timezone.utc)
+    )
+
+    user = db.relationship("User", backref="comments")
+    paper = db.relationship("Paper", backref="comments")
+    replies = db.relationship(
+        "Comment",
+        backref=db.backref("parent", remote_side=[id]),
+        lazy="dynamic",
+    )
+
+    def __repr__(self):
+        return f"<Comment {self.id} by user {self.user_id}>"
