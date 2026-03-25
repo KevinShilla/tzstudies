@@ -195,3 +195,18 @@ def post_comment(paper_id):
     db.session.commit()
     flash("Comment posted!", "success")
     return redirect(url_for("papers.paper_detail", paper_id=paper_id))
+
+
+@papers_bp.route("/offline")
+def offline():
+    return render_template("offline.html")
+
+
+@papers_bp.route("/sw.js")
+def service_worker():
+    root = os.path.join(current_app.root_path, os.pardir, "static")
+    response = send_from_directory(os.path.abspath(root), "sw.js")
+    response.headers["Content-Type"] = "application/javascript"
+    response.headers["Service-Worker-Allowed"] = "/"
+    response.headers["Cache-Control"] = "no-cache"
+    return response

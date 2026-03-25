@@ -1,0 +1,28 @@
+{
+  "name": "TZStudies",
+  "short_name": "TZStudies",
+  "description": "Free past exam papers, answer keys, and tutors for Tanzanian students.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#1d3557",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/static/tutors/tzstudies.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/tutors/tzstudies.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "categories": ["education"],
+  "lang": "en",
+  "scope": "/"
+}
