@@ -14,7 +14,7 @@
   </div>
 
   <!-- PDF Viewer -->
-  <iframe src="{{ url_for('papers.download', filename=paper.file_name) }}#toolbar=0"
+  <iframe src="{{ url_for('papers.serve_pdf', filename=paper.file_name) }}#toolbar=0"
           class="pdf-viewer"
           title="PDF preview of {{ paper.file_name }}"></iframe>
 

@@ -85,6 +85,15 @@ def view_exam(filename):
     return render_template("view_exam.html", filename=filename)
 
 
+@papers_bp.route("/serve/<path:filename>")
+def serve_pdf(filename):
+    """Serve a PDF inline for embedding in iframes (no download prompt)."""
+    folder = _get_exams_folder()
+    return send_from_directory(
+        os.path.abspath(folder), filename, as_attachment=False
+    )
+
+
 @papers_bp.route("/download/<path:filename>")
 def download(filename):
     folder = _get_exams_folder()

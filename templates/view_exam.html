@@ -5,7 +5,7 @@
 <div class="container view-exam-container">
   <h2 class="section-heading">{{ filename }}</h2>
 
-  <iframe src="{{ url_for('papers.download', filename=filename) }}#toolbar=0"
+  <iframe src="{{ url_for('papers.serve_pdf', filename=filename) }}#toolbar=0"
           class="pdf-viewer"
           title="PDF preview of {{ filename }}"></iframe>
 
