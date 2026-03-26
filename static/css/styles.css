@@ -506,7 +506,11 @@ small { display: block; color: #888; font-size: 0.82rem; margin-top: 0.25rem; }
    ============================================================ */
 @media (max-width: 768px) {
   /* Show hamburger */
-  .nav-toggle { display: block; }
+  .nav-toggle { display: block; min-width: 48px; min-height: 48px; }
+
+  /* Navbar */
+  .navbar { padding: 0.75rem 0.75rem; }
+  .logo-text { font-size: 1.1rem; }
 
   /* Stack nav vertically */
   .navbar-center,
@@ -531,19 +535,109 @@ small { display: block; color: #888; font-size: 0.82rem; margin-top: 0.25rem; }
   }
 
   .nav-links { flex-direction: column; gap: 0; }
-  .nav-link { padding: 0.75rem 1rem; }
+  .nav-link {
+    padding: 0.75rem 1rem;
+    min-height: 48px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+  }
 
-  .hero.parallax { min-height: 70vh; }
-  .hero-title { font-size: clamp(2rem, 8vw, 3rem); }
+  /* Navbar search */
+  .navbar-search { display: none !important; }
 
+  /* Hero */
+  .hero.parallax { min-height: 50vh; padding: 2rem 1rem; }
+  .hero-title { font-size: clamp(1.8rem, 7vw, 2.5rem); }
+  .hero-subtitle { font-size: 1rem; }
+
+  /* Buttons */
+  .btn {
+    min-height: 44px;
+    min-width: 44px;
+    font-size: 1rem;
+    padding: 0.75rem 1.25rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* Exam grid & cards */
   .exam-grid { grid-template-columns: 1fr; }
+  .exam-card { padding: 1.5rem; }
+  .exam-title { font-size: 1rem; }
+  .exam-actions { flex-wrap: wrap; }
+  .exam-actions .btn { width: 100%; text-align: center; }
 
-  .tutor-card img { width: 150px; height: 150px; }
+  /* Search input — 16px prevents iOS zoom */
+  .search-container input { font-size: 16px; }
 
+  /* Grade filter buttons */
+  .grade-filter {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    justify-content: flex-start;
+    padding-bottom: 0.5rem;
+  }
+  .grade-btn,
+  .grade-filter .btn {
+    min-height: 44px;
+    padding: 0.6rem 1rem;
+    flex-shrink: 0;
+  }
+
+  /* Forms — prevent iOS zoom */
+  input, textarea, select {
+    font-size: 16px;
+    min-height: 48px;
+  }
+  label { margin-bottom: 0.6rem; }
+  .auth-card { padding: 1.25rem; }
+  .tutor-form, .form-card { margin: 1rem; }
+  .auth-form .btn,
+  .tutor-form .btn[type="submit"],
+  .form-card .btn[type="submit"],
+  button[type="submit"].btn { width: 100%; }
+
+  /* Tutor cards */
+  .tutor-card img { width: 120px; height: 120px; }
+  .tutor-card { font-size: 0.95rem; }
+  .filter-box select { width: 100%; font-size: 16px; min-height: 48px; }
+
+  /* AI assistant */
   .ai-input-group { flex-direction: column; }
+  .ai-input-group input { font-size: 16px; }
+  .ai-input-group .btn { width: 100%; }
+  .ai-response { font-size: 0.95rem; padding: 1rem; }
 
+  /* History table */
+  .table-wrap { display: block; -webkit-overflow-scrolling: touch; }
   .history-table th,
   .history-table td { padding: 0.5rem; font-size: 0.85rem; }
+
+  /* PDF viewer */
+  .pdf-viewer { height: 70vh; }
+
+  /* Section headings */
+  .section-heading { font-size: 1.5rem; margin: 2rem 0 1rem; }
+
+  /* Features */
+  .features { grid-template-columns: 1fr; padding: 2rem 1rem; }
+
+  /* Container */
+  .container { padding: 0 0.75rem; }
+
+  /* Footer */
+  .footer { font-size: 0.8rem; padding: 1rem; margin-top: 2rem; }
+
+  /* Flash messages */
+  .flash-container { padding: 0 0.75rem; }
+  .alert { font-size: 0.9rem; padding: 0.75rem; margin: 0.5rem 0; }
+
+  /* Comments on mobile */
+  .comment-reply { margin-left: 1rem; }
+  .new-comment-form { padding: 1rem; }
 }
 
 /* ============================================================
@@ -553,6 +647,25 @@ small { display: block; color: #888; font-size: 0.82rem; margin-top: 0.25rem; }
   .container { padding: 0 0.75rem; }
   .auth-card { padding: 1.5rem; }
   .hero { padding: 2.5rem 1rem; }
+
+  /* Hide date column on very small screens */
+  .history-table th:nth-child(3),
+  .history-table td:nth-child(3) { display: none; }
+  .history-table { font-size: 0.82rem; }
+  .history-table .btn { width: 100%; }
+}
+
+/* PDF tip — mobile only */
+.pdf-tip { display: none; }
+@media (max-width: 768px) {
+  .pdf-tip {
+    display: block;
+    font-size: 0.85rem;
+    color: #666;
+    text-align: center;
+    margin-bottom: 0.5rem;
+  }
+  .pdf-tip a { color: #457b9d; font-weight: 600; }
 }
 
 /* ============================================================

@@ -5,6 +5,8 @@
 <div class="container view-exam-container">
   <h2 class="section-heading">{{ filename }}</h2>
 
+  <p class="pdf-tip">Tip: Pinch to zoom the PDF. <a href="{{ url_for('papers.download', filename=filename) }}">Download</a> for best experience on mobile.</p>
+
   <iframe src="{{ url_for('papers.serve_pdf', filename=filename) }}#toolbar=0"
           class="pdf-viewer"
           title="PDF preview of {{ filename }}"></iframe>
