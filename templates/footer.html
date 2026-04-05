@@ -1,3 +1,33 @@
 <footer class="footer">
-  <p>&copy; {{ current_year|default(2025) }} TZStudies</p>
+  <div class="footer-grid">
+    <div class="footer-brand">
+      <span class="logo-text">TZStudies</span>
+      <p class="footer-tagline">Empowering Tanzanian students with free access to past exam papers, answer keys, and expert tutors.</p>
+      <div class="footer-social">
+        <a href="#" aria-label="Twitter">&#120143;</a>
+        <a href="#" aria-label="Instagram">&#9673;</a>
+        <a href="#" aria-label="Facebook">f</a>
+      </div>
+    </div>
+    <div class="footer-col">
+      <h4>Resources</h4>
+      <a href="{{ url_for('papers.index') }}">Past Papers</a>
+      <a href="{{ url_for('papers.answer_keys_page') }}">Answer Keys</a>
+      <a href="{{ url_for('upload.upload_exams') }}">Upload Exams</a>
+    </div>
+    <div class="footer-col">
+      <h4>Tutors</h4>
+      <a href="{{ url_for('tutors.tutors_page') }}">Find a Tutor</a>
+      <a href="{{ url_for('tutors.become_tutor') }}">Become a Tutor</a>
+    </div>
+    <div class="footer-col">
+      <h4>Account</h4>
+      <a href="{{ url_for('auth.login') }}">Login</a>
+      <a href="{{ url_for('auth.signup') }}">Sign Up</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>&copy; {{ current_year|default(2025) }} TZStudies. All rights reserved.</p>
+    <p>Made with care for Tanzanian students.</p>
+  </div>
 </footer>

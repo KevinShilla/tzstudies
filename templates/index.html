@@ -9,25 +9,46 @@
 <!-- Hero -->
 <section class="hero parallax">
   <div class="hero-content">
-    <h1 class="hero-title">Unlock Your Exam&nbsp;Success</h1>
-    <p class="hero-subtitle">Free past papers, worked solutions &amp; trusted tutors — everything you need to excel.</p>
-    <a href="#examSection" class="btn cta-btn">Browse Exams</a>
+    <span class="hero-badge">Free for all students</span>
+    <h1 class="hero-title">Unlock Your Exam&nbsp;<span class="hero-title-accent">Success</span></h1>
+    <p class="hero-subtitle">Free past papers, worked solutions &amp; trusted tutors — everything you need to excel in your studies.</p>
+    <div class="hero-actions">
+      <a href="#examSection" class="btn cta-btn">Browse Exams</a>
+      <a href="{{ url_for('tutors.tutors_page') }}" class="btn cta-btn-outline">Find a Tutor</a>
+    </div>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <span class="hero-stat-number">500+</span>
+        <span class="hero-stat-label">Past Papers</span>
+      </div>
+      <div class="hero-stat">
+        <span class="hero-stat-number">3</span>
+        <span class="hero-stat-label">Grade Levels</span>
+      </div>
+      <div class="hero-stat">
+        <span class="hero-stat-number">100%</span>
+        <span class="hero-stat-label">Free Access</span>
+      </div>
+    </div>
   </div>
 </section>
 
 <!-- Features -->
 <section class="features reveal" aria-label="What we offer">
   <div class="feature">
+    <div class="feature-icon">&#128196;</div>
     <h2>Past Papers</h2>
-    <p>Instant PDF downloads for Standard 4, Form 2 &amp; Form 4.</p>
+    <p>Instant PDF downloads for Standard 4, Form 2 &amp; Form 4 national exams.</p>
   </div>
   <div class="feature">
+    <div class="feature-icon">&#9989;</div>
     <h2>Answer Keys</h2>
-    <p>Learn faster with detailed marking schemes.</p>
+    <p>Learn faster with detailed marking schemes and worked solutions.</p>
   </div>
   <div class="feature">
+    <div class="feature-icon">&#127891;</div>
     <h2>Expert Tutors</h2>
-    <p>Connect with vetted teachers in every major city.</p>
+    <p>Connect with vetted teachers in every major city across Tanzania.</p>
   </div>
 </section>
 
@@ -35,9 +56,10 @@
 <section class="search-section reveal">
   <div class="container">
     <h2 class="section-heading">Find Your Paper</h2>
+    <p class="section-subtext">Search thousands of past exam papers by subject, year, or grade level.</p>
     <div class="search-container">
       <form method="GET" action="{{ url_for('papers.search') }}">
-        <input type="text" id="searchInput" name="q" placeholder="Search exams..." aria-label="Search exams">
+        <input type="text" id="searchInput" name="q" placeholder="Search by subject, year, or exam name..." aria-label="Search exams">
       </form>
     </div>
     <div id="gradeFilters" class="grade-filter">
@@ -56,7 +78,7 @@
 <section class="ai-section reveal">
   <div class="container">
     <h2 class="section-heading">AI Study Assistant</h2>
-    <p class="ai-description">Ask any exam question and get a detailed explanation.</p>
+    <p class="ai-description">Ask any exam question and get a detailed explanation instantly.</p>
     <div class="ai-chat">
       <div class="ai-input-group">
         <input type="text" id="aiQuery" placeholder="e.g. Explain photosynthesis for Form 2 Biology..." aria-label="Ask a question">
@@ -71,6 +93,7 @@
 <section id="examSection" class="exam-list-section reveal">
   <div class="container">
     <h2 class="section-heading">Exam Papers</h2>
+    <p class="section-subtext">Browse and download past papers for all grade levels.</p>
     <div id="examGrid" class="exam-grid">
       {% for file in exam_files %}
       <div class="exam-card" data-grade="{{ file.split('-')[1]|default('') }}">

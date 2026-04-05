@@ -20,10 +20,9 @@
     </nav>
   </div>
 
-  <form method="GET" action="/search" class="navbar-search" style="display:flex;align-items:center;margin-right:0.75rem;">
-    <input type="text" name="q" placeholder="Search..." aria-label="Search papers"
-           style="padding:0.35rem 0.6rem;border:none;border-radius:4px;font-size:0.85rem;width:140px;background:#2a4a6b;color:#fff;">
-    <button type="submit" class="btn btn-sm" style="margin-left:0.3rem;padding:0.35rem 0.6rem;font-size:0.8rem;">Go</button>
+  <form method="GET" action="/search" class="navbar-search">
+    <input type="text" name="q" placeholder="Search papers..." aria-label="Search papers">
+    <button type="submit" class="btn btn-sm">Go</button>
   </form>
 
   <div class="nav-auth">
@@ -33,7 +32,7 @@
       <a href="{{ url_for('auth.logout') }}" class="nav-link">Logout</a>
     {% else %}
       <a href="{{ url_for('auth.login') }}" class="nav-link">Login</a>
-      <a href="{{ url_for('auth.signup') }}" class="nav-link">Sign Up</a>
+      <a href="{{ url_for('auth.signup') }}" class="nav-link nav-link-signup">Sign Up</a>
     {% endif %}
   </div>
 </header>
