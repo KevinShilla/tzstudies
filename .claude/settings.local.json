@@ -13,7 +13,20 @@
       "Bash(python -c \":*)",
       "Bash(FLASK_APP=app.py python -m flask db revision -m \"align schema with new models\")",
       "Bash(FLASK_APP=app.py python -m flask db upgrade)",
-      "Bash(flask db:*)"
+      "Bash(flask db:*)",
+      "WebFetch(domain:duolingo.com)",
+      "WebFetch(domain:coursera.org)",
+      "WebFetch(domain:flutterwave.com)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(pip show:*)",
+      "Bash(pip install:*)",
+      "Bash(python answer_keys/generate_basicmath_f2_2021.py)",
+      "Bash(python -c \"import reportlab; print\\(reportlab.Version\\)\")",
+      "Bash(ls \"C:/Users/Kevin/Desktop/tzstudies-main/answer_keys/\"*.py)",
+      "Bash(python gen_f2_2022.py)",
+      "Bash(python gen_f2_2023.py)"
     ]
   }
 }
