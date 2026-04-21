@@ -26,7 +26,9 @@
       "Bash(python -c \"import reportlab; print\\(reportlab.Version\\)\")",
       "Bash(ls \"C:/Users/Kevin/Desktop/tzstudies-main/answer_keys/\"*.py)",
       "Bash(python gen_f2_2022.py)",
-      "Bash(python gen_f2_2023.py)"
+      "Bash(python gen_f2_2023.py)",
+      "Bash(python -c ':*)",
+      "Bash(python gen_f4_2023.py)"
     ]
   }
 }
