@@ -210,3 +210,8 @@ def service_worker():
     response.headers["Service-Worker-Allowed"] = "/"
     response.headers["Cache-Control"] = "no-cache"
     return response
+
+
+@papers_bp.route("/about")
+def about():
+    return render_template("about.html")

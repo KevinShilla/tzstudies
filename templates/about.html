@@ -1,0 +1,120 @@
+{% extends "base.html" %}
+
+{% block title %}About — TZStudies{% endblock %}
+
+{% block content %}
+
+<!-- Section 1: Hero -->
+<section class="hero">
+  <h1>About myTZStudies</h1>
+  <p>Free exam resources for every Tanzanian student — no matter where you are or how much money you have.</p>
+</section>
+
+<!-- Section 2: Our Story -->
+<section>
+  <h2 class="section-heading">Our Story</h2>
+  <div class="about-story">
+    <p>TZStudies was built by a Tanzanian student who understood firsthand how hard it is to find good study materials. Past exam papers were either impossible to find online, hidden behind expensive websites, or only available if you knew the right people.</p>
+    <p>The goal was simple — build one place where every student in Tanzania, whether in Dar es Salaam or a small village in Mbeya, could access past papers, answer keys, and study help completely for free.</p>
+    <p>What started as a small personal project has grown into a platform serving thousands of students preparing for Standard 4, Form 2, Form 4, and Form 6 national examinations. Every paper, every answer key, and every feature on this site is free because we believe education should never have a price tag.</p>
+  </div>
+</section>
+
+<!-- Section 3: Our Mission -->
+<section class="container">
+  <h2 class="section-heading">Our Mission</h2>
+  <div class="mission-cards">
+    <div class="mission-card">
+      <span class="mission-icon">📚</span>
+      <h3>Free For Everyone</h3>
+      <p>Every past paper, answer key, and study resource on TZStudies is completely free. No subscriptions, no hidden fees, no sign-up walls. Just open the site and start studying.</p>
+    </div>
+    <div class="mission-card">
+      <span class="mission-icon">🇹🇿</span>
+      <h3>Built For Tanzania</h3>
+      <p>Every resource on this site is specifically for the Tanzanian national curriculum — NECTA examinations from Standard 4 through Form 6. Nothing generic, nothing irrelevant.</p>
+    </div>
+    <div class="mission-card">
+      <span class="mission-icon">🎯</span>
+      <h3>Made By Students, For Students</h3>
+      <p>TZStudies was built by someone who sat the same exams you are preparing for. We know what you need because we needed it too.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Section 4: What We Offer -->
+<section class="container">
+  <h2 class="section-heading">What We Offer</h2>
+  <div class="offers-grid">
+    <div class="offer-card">
+      <h3>Past Exam Papers</h3>
+      <p>Hundreds of past papers from national examinations going back multiple years. Download them as PDFs directly to your phone or computer.</p>
+    </div>
+    <div class="offer-card">
+      <h3>Answer Keys</h3>
+      <p>Detailed answer keys with step-by-step explanations written in simple language. Every answer explains not just what is correct but why it is correct.</p>
+    </div>
+    <div class="offer-card">
+      <h3>Find a Tutor</h3>
+      <p>Browse verified tutors across Tanzania by subject. Connect directly with experienced teachers who know the national curriculum inside out.</p>
+    </div>
+    <div class="offer-card">
+      <h3>AI Study Assistant</h3>
+      <p>Ask any exam question and get an instant detailed explanation. Available any time of day or night — even when your teacher is not available.</p>
+    </div>
+    <div class="offer-card">
+      <h3>All Levels Covered</h3>
+      <p>Resources for Standard 4, Form 2, Form 4, and Form 6. Whether you are preparing for your first national exam or your last, TZStudies has you covered.</p>
+    </div>
+    <div class="offer-card">
+      <h3>Works on Any Phone</h3>
+      <p>TZStudies is designed mobile-first because we know most students in Tanzania use phones, not laptops. Fast, lightweight, and works even on slow internet connections.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Section 5: A Message To Parents and Teachers -->
+<section class="parents-section">
+  <div class="container">
+    <h2 class="section-heading">A Message To Parents and Teachers</h2>
+    <p>We understand that parents and teachers want to know they can trust the resources their children and students are using. TZStudies is committed to providing accurate, curriculum-aligned materials that genuinely help students prepare for their national examinations.</p>
+    <p>All exam papers on this platform are official past papers from NECTA examinations. All answer keys are carefully prepared with detailed explanations reviewed for accuracy. We take this responsibility seriously.</p>
+    <p>If you are a teacher and would like to recommend TZStudies to your students, or if you have past papers you would like to contribute to the platform, we would love to hear from you.</p>
+    <p>You can reach us at: <a href="mailto:tzstudies2024@gmail.com" style="color: var(--brand-500); font-weight: 600;">tzstudies2024@gmail.com</a></p>
+  </div>
+</section>
+
+<!-- Section 6: Stats Bar -->
+<section class="stats-bar">
+  <div class="stats-grid">
+    <div class="stat-item">
+      <span class="stat-value">📄 500+</span>
+      <span class="stat-label">Past Papers</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-value">🎓 4 Levels</span>
+      <span class="stat-label">Std 4 to Form 6</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-value">✅ Free</span>
+      <span class="stat-label">Always and Forever</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-value">🇹🇿 100%</span>
+      <span class="stat-label">Tanzanian Curriculum</span>
+    </div>
+  </div>
+</section>
+
+<!-- Section 7: Call To Action -->
+<section class="about-cta">
+  <h2>Ready to Start Studying?</h2>
+  <p>Join thousands of Tanzanian students already using TZStudies.</p>
+  <div class="btn-group">
+    <a href="{{ url_for('papers.index') }}" class="btn">Browse Exam Papers</a>
+    <a href="{{ url_for('tutors.tutors_page') }}" class="btn">Find a Tutor</a>
+  </div>
+  <p class="free-note">100% free. No account required to browse papers.</p>
+</section>
+
+{% endblock %}
