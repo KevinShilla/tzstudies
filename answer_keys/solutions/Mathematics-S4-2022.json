@@ -1,0 +1,304 @@
+{
+  "exam": "Mathematics-S4-2022.pdf",
+  "output": "Mathematics-S4-2022-AnswerKey.pdf",
+  "subject": "Mathematics",
+  "level": "Standard Four",
+  "year": "2022",
+  "code": "04E",
+  "exam_type": "National Assessment",
+  "question_count": "5 questions, each with 5 parts",
+  "language": "en",
+  "reviewed": true,
+  "expected_parts": [
+    "1(a)",
+    "1(b)",
+    "1(c)",
+    "1(d)",
+    "1(e)",
+    "2(a)",
+    "2(b)",
+    "2(c)",
+    "2(d)",
+    "2(e)",
+    "3(a)",
+    "3(b)",
+    "3(c)",
+    "3(d)",
+    "3(e)",
+    "4(a)",
+    "4(b)",
+    "4(c)",
+    "4(d)",
+    "4(e)",
+    "5(a)",
+    "5(b)",
+    "5(c)",
+    "5(d)",
+    "5(e)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Ana eats 1/4 of an orange. What fraction remains?",
+      "steps": [
+        "One whole orange is 4/4.",
+        "4/4 - 1/4 = 3/4."
+      ],
+      "answer": "3/4."
+    },
+    {
+      "id": "1(b)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Write 99,001 in expanded form.",
+      "steps": [
+        "9 ten-thousands = 90,000; 9 thousands = 9,000; 1 one = 1.",
+        "The hundreds and tens places are zero."
+      ],
+      "answer": "90,000 + 9,000 + 1."
+    },
+    {
+      "id": "1(c)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Find the value of X in XVIII.",
+      "steps": [
+        "In a Roman numeral, X stands for ten.",
+        "XVIII = 10 + 5 + 3."
+      ],
+      "answer": "10."
+    },
+    {
+      "id": "1(d)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Write the number between 48 and 50 in Roman numerals.",
+      "steps": [
+        "The number is 49.",
+        "40 = XL and 9 = IX; combine them."
+      ],
+      "answer": "XLIX."
+    },
+    {
+      "id": "1(e)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "What number must be added to 4,392 to make 7,005?",
+      "steps": [
+        "Unknown addend = total - known addend.",
+        "7,005 - 4,392 = 2,613.",
+        "Check: 4,392 + 2,613 = 7,005."
+      ],
+      "answer": "2,613."
+    },
+    {
+      "id": "2(a)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "A tortoise moves 5 cm in one step. How many steps cover 30 cm?",
+      "steps": [
+        "Divide the total distance by the distance per step.",
+        "30 / 5 = 6."
+      ],
+      "answer": "6 steps."
+    },
+    {
+      "id": "2(b)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Five children differ in age by 5 years. The first-born is 35. Find the fourth child's age.",
+      "steps": [
+        "Move three places from the first to the fourth child.",
+        "35 - 3 x 5 = 20."
+      ],
+      "answer": "20 years."
+    },
+    {
+      "id": "2(c)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Using the years given in the paper (1962, 1961, 1963 and 1980), which country gained independence first?",
+      "steps": [
+        "The earliest year in the supplied data is 1961.",
+        "That year is paired with Tanganyika."
+      ],
+      "answer": "Tanganyika.",
+      "tip": "This is a comparison of the supplied numbers; use the earliest year in the question's table."
+    },
+    {
+      "id": "2(d)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Gladness gets 186 marks in month 1 and improves by 12 each month. Find month 4's marks.",
+      "steps": [
+        "There are three increases from month 1 to month 4.",
+        "3 x 12 = 36; 186 + 36 = 222."
+      ],
+      "answer": "222 marks."
+    },
+    {
+      "id": "2(e)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "School elections occur every two years. If the last was 2018, when is the next?",
+      "steps": [
+        "Add the two-year interval to 2018.",
+        "2018 + 2 = 2020."
+      ],
+      "answer": "2020."
+    },
+    {
+      "id": "3(a)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Find the difference between 39,365 and 33,868.",
+      "steps": [
+        "Subtract the smaller number from the larger.",
+        "39,365 - 33,000 = 6,365; 6,365 - 868 = 5,497."
+      ],
+      "answer": "5,497."
+    },
+    {
+      "id": "3(b)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Share 350 mangoes equally into ten groups.",
+      "steps": [
+        "Equal sharing means division.",
+        "350 / 10 = 35."
+      ],
+      "answer": "35 mangoes per group."
+    },
+    {
+      "id": "3(c)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Baraka earns sh. 4,000 daily for 40 days. Find his pay.",
+      "steps": [
+        "Total pay = daily pay x days.",
+        "4,000 x 40 = 160,000."
+      ],
+      "answer": "Sh. 160,000."
+    },
+    {
+      "id": "3(d)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "A radio sells for sh. 60,500 with profit sh. 20,000. Find its buying price.",
+      "steps": [
+        "Profit = selling price - buying price.",
+        "Buying price = 60,500 - 20,000."
+      ],
+      "answer": "Sh. 40,500."
+    },
+    {
+      "id": "3(e)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Convert 21 days to weeks.",
+      "steps": [
+        "One week has seven days.",
+        "21 / 7 = 3."
+      ],
+      "answer": "3 weeks."
+    },
+    {
+      "id": "4(a)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "Arrange 900 m, 2 cm, 3 km and 400 mm in descending order.",
+      "steps": [
+        "Convert to metres: 900 m, 0.02 m, 3,000 m, 0.4 m.",
+        "Order 3,000 > 900 > 0.4 > 0.02."
+      ],
+      "answer": "3 km, 900 m, 400 mm, 2 cm."
+    },
+    {
+      "id": "4(b)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "Which is longer, 20 cm of wire or 2 m of thread?",
+      "steps": [
+        "Convert 2 m to 200 cm.",
+        "200 cm is greater than 20 cm."
+      ],
+      "answer": "The 2 m thread."
+    },
+    {
+      "id": "4(c)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "How many line segments are determined by the four points W, X, Y and Z?",
+      "steps": [
+        "From W: WX, WY, WZ (three).",
+        "From X, count new segments XY, XZ (two).",
+        "From Y, count YZ (one); total 3 + 2 + 1."
+      ],
+      "answer": "6 line segments.",
+      "tip": "Count every distinct pair of endpoints, including segments that span other marked points."
+    },
+    {
+      "id": "4(d)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "Find the perimeter of the triangle with sides 13 m, 14 m and 15 m.",
+      "steps": [
+        "Perimeter means the total distance around the shape.",
+        "13 + 14 + 15 = 42."
+      ],
+      "answer": "42 m."
+    },
+    {
+      "id": "4(e)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "A square has perimeter 196 cm. Find one side.",
+      "steps": [
+        "There are four equal sides.",
+        "196 / 4 = 49."
+      ],
+      "answer": "49 cm."
+    },
+    {
+      "id": "5(a)",
+      "section": "Question 5: Reading Data",
+      "prompt": "The pupil counts are 2014:80, 2015:90, 2016:95, 2017:98. Which year has the most?",
+      "steps": [
+        "Compare the counts 80, 90, 95, 98.",
+        "98 is greatest and belongs to 2017."
+      ],
+      "answer": "2017."
+    },
+    {
+      "id": "5(b)",
+      "section": "Question 5: Reading Data",
+      "prompt": "Find the pupils completing school in 2014 and 2015 together.",
+      "steps": [
+        "Read 2014 = 80 and 2015 = 90.",
+        "80 + 90 = 170."
+      ],
+      "answer": "170 pupils."
+    },
+    {
+      "id": "5(c)",
+      "section": "Question 5: Reading Data",
+      "prompt": "Which year has the fewest completing pupils?",
+      "steps": [
+        "The smallest count is 80.",
+        "The table pairs 80 with 2014."
+      ],
+      "answer": "2014."
+    },
+    {
+      "id": "5(d)",
+      "section": "Question 5: Reading Data",
+      "prompt": "Find the difference between the 2014 and 2017 counts.",
+      "steps": [
+        "Read 2014 = 80 and 2017 = 98.",
+        "98 - 80 = 18."
+      ],
+      "answer": "18 pupils."
+    },
+    {
+      "id": "5(e)",
+      "section": "Question 5: Reading Data",
+      "prompt": "Find the total completing pupils in all four years.",
+      "steps": [
+        "80 + 90 = 170.",
+        "95 + 98 = 193.",
+        "170 + 193 = 363."
+      ],
+      "answer": "363 pupils."
+    }
+  ],
+  "summaries": {
+    "Question 1: Numbers and Place Value": "Read each digit's place and distinguish ordinary numbers from Roman numerals.",
+    "Question 2: Sequences and Comparison": "Find the repeated change first; count the gaps between terms.",
+    "Question 3: Operations and Time": "Keep the units consistent. Regroup every 60 minutes as one hour.",
+    "Question 4: Shapes and Measurement": "Use the shape's sides, perimeter formula and metric units carefully.",
+    "Question 5: Reading Data": "Read the key, count every symbol, and distinguish the year from the numerical value."
+  },
+  "sha256": "bafa9f591a4557ddac4a85fb1a8f63d305afbb6f24eda56a078288cbe4932150"
+}

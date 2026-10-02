@@ -1,12 +1,20 @@
 import os
 
 from flask import (
-    Blueprint, current_app, flash, redirect, render_template, request,
-    send_from_directory, url_for,
+    Blueprint,
+    abort,
+    current_app,
+    flash,
+    redirect,
+    render_template,
+    request,
+    send_from_directory,
+    url_for,
 )
 from flask_login import current_user, login_required
 
-from tzstudies.extensions import cache, db, limiter
+from tzstudies.catalogue import build_catalogue, identity, matches_query, metadata
+from tzstudies.extensions import db, limiter
 from tzstudies.models import Comment, History, Paper
 
 papers_bp = Blueprint("papers", __name__)
@@ -22,9 +30,10 @@ def _get_answer_keys_folder():
 
 def _ensure_paper(filename, folder, category):
     """Return a Paper row, creating one if it doesn't exist yet."""
+    _require_pdf(filename, folder)
     paper = Paper.query.filter_by(file_name=filename).first()
     if not paper:
-        grade = filename.split("-")[1] if "-" in filename else ""
+        grade = metadata(filename)["grade"]
         paper = Paper(file_name=filename, category=category, grade=grade)
         db.session.add(paper)
         db.session.commit()
@@ -40,40 +49,43 @@ def _log_event(paper, event):
         db.session.commit()
 
 
-def _index_cache_key():
-    """Vary cache by authentication state so logged-in users see their navbar."""
-    if current_user.is_authenticated:
-        return f"view//user_{current_user.id}"
-    return "view//anon"
+def _require_pdf(filename, folder):
+    from pathlib import Path
+    root = Path(folder).resolve()
+    path = (root / filename).resolve()
+    if not path.is_relative_to(root) or not path.is_file() or path.suffix.lower() != ".pdf":
+        abort(404)
+
+
+def _catalogue():
+    return build_catalogue(_get_exams_folder(), _get_answer_keys_folder())
+
+
+def _sync_papers(exams):
+    existing = {p.file_name: p for p in Paper.query.filter_by(category="exam").all()}
+    for exam in exams:
+        paper = existing.get(exam["filename"])
+        if paper is None:
+            paper = Paper(file_name=exam["filename"], category="exam", grade=exam["grade"])
+            db.session.add(paper)
+        exam["paper"] = paper
+    db.session.commit()
+    for exam in exams:
+        exam["paper_id"] = exam.pop("paper").id
 
 
 @papers_bp.route("/")
-@cache.cached(timeout=60, key_prefix=_index_cache_key)
 def index():
-    exams_folder = _get_exams_folder()
-    exam_files = sorted(
-        f for f in os.listdir(exams_folder) if f.lower().endswith(".pdf")
-    )
-
-    # Ensure every exam file has a database row and collect paper IDs
-    paper_ids = {}
-    for f in exam_files:
-        paper = _ensure_paper(f, exams_folder, "exam")
-        paper_ids[f] = paper.id
-
-    answer_key_files = {}
-    keys_folder = _get_answer_keys_folder()
-    if os.path.exists(keys_folder):
-        for f in os.listdir(keys_folder):
-            if f.lower().endswith(".pdf"):
-                base = f.replace(" (Answer Key)", "")
-                answer_key_files[base] = f
-
+    exams = _catalogue()
+    _sync_papers(exams)
     return render_template(
         "index.html",
-        exam_files=exam_files,
-        answer_key_files=answer_key_files,
-        paper_ids=paper_ids,
+        exams=exams,
+        key_count=sum(bool(e["answer_key"]) for e in exams),
+        level_count=len({e["grade"] for e in exams}),
+        years=sorted({e["year"] for e in exams if e["year"]}, reverse=True),
+        subjects=sorted({e["subject"] for e in exams}),
+        ai_available=bool(current_app.config.get("OPENAI_API_KEY")),
     )
 
 
@@ -82,7 +94,8 @@ def view_exam(filename):
     folder = _get_exams_folder()
     paper = _ensure_paper(filename, folder, "exam")
     _log_event(paper, "view")
-    return render_template("view_exam.html", filename=filename)
+    exam = next((e for e in _catalogue() if identity(e["filename"]) == identity(filename)), metadata(filename))
+    return render_template("view_exam.html", filename=filename, exam=exam)
 
 
 @papers_bp.route("/serve/<path:filename>")
@@ -117,11 +130,21 @@ def download_key(filename):
 
 @papers_bp.route("/answer_keys")
 def answer_keys_page():
-    keys_folder = _get_answer_keys_folder()
-    keys = sorted(
-        f for f in os.listdir(keys_folder) if f.lower().endswith(".pdf")
-    ) if os.path.exists(keys_folder) else []
-    return render_template("answer_keys.html", keys=keys)
+    exams = _catalogue()
+    return render_template("answer_keys.html", exams=[e for e in exams if e["answer_key"]], total=len(exams))
+
+
+@papers_bp.route("/view_key/<path:filename>")
+@login_required
+def view_key(filename):
+    _ensure_paper(filename, _get_answer_keys_folder(), "key")
+    return render_template("view_key.html", filename=filename, exam=metadata(filename))
+
+
+@papers_bp.route("/serve_key/<path:filename>")
+@login_required
+def serve_key(filename):
+    return send_from_directory(os.path.abspath(_get_answer_keys_folder()), filename, as_attachment=False)
 
 
 @papers_bp.route("/history")
@@ -142,19 +165,19 @@ def search():
     q = request.args.get("q", "").strip()
     if not q:
         return redirect(url_for("papers.index"))
-    results = (
-        Paper.query
-        .filter(Paper.category == "exam")
-        .filter(Paper.file_name.ilike(f"%{q}%"))
-        .order_by(Paper.file_name.asc())
-        .all()
-    )
+    exams = _catalogue()
+    results = [e for e in exams if matches_query(e, q)]
+    _sync_papers(results)
     return render_template("search_results.html", results=results, query=q)
 
 
 @papers_bp.route("/paper/<int:paper_id>")
 def paper_detail(paper_id):
     paper = db.get_or_404(Paper, paper_id)
+    if paper.category == "key" and not current_user.is_authenticated:
+        return current_app.login_manager.unauthorized()
+    folder = _get_answer_keys_folder() if paper.category == "key" else _get_exams_folder()
+    _require_pdf(paper.file_name, folder)
     _log_event(paper, "view")
     comments = (
         Comment.query
@@ -162,7 +185,7 @@ def paper_detail(paper_id):
         .order_by(Comment.created_at.asc())
         .all()
     )
-    return render_template("paper_detail.html", paper=paper, comments=comments)
+    return render_template("paper_detail.html", paper=paper, comments=comments, exam=metadata(paper.file_name))
 
 
 @papers_bp.route("/paper/<int:paper_id>/comment", methods=["POST"])
@@ -214,4 +237,8 @@ def service_worker():
 
 @papers_bp.route("/about")
 def about():
-    return render_template("about.html")
+    exams = _catalogue()
+    return render_template(
+        "about.html", paper_count=len(exams),
+        level_count=len({exam["grade"] for exam in exams}),
+    )

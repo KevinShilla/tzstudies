@@ -1,0 +1,453 @@
+{
+  "exam": "BasicMath-F4-2021.pdf",
+  "output": "BasicMath-F4-2021-AnswerKey.pdf",
+  "subject": "Basic Mathematics",
+  "level": "Form Four",
+  "year": "2021",
+  "code": "041",
+  "exam_type": "Certificate of Secondary Education Examination (CSEE)",
+  "question_count": "14 compulsory questions; 38 answered parts",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "c49ef3175b1569142bf2620ab1ebaae902260f0fdc5a8965337ff9c3808afc12",
+  "expected_parts": [
+    "1(a)",
+    "1(b)",
+    "2(a)",
+    "2(b)",
+    "3(a)",
+    "3(b)(i)",
+    "3(b)(ii)",
+    "4(a)",
+    "4(b)",
+    "5(a)",
+    "5(b)",
+    "6(a)",
+    "6(b)",
+    "7(a)(i)",
+    "7(a)(ii)",
+    "7(a)(iii)",
+    "7(a)(iv)",
+    "7(b)",
+    "8(a)",
+    "8(b)",
+    "9(a)",
+    "9(b)",
+    "10(a)",
+    "10(b)",
+    "11(a)",
+    "11(b)",
+    "11(c)",
+    "12(a)",
+    "12(b)(i)",
+    "12(b)(ii)",
+    "12(b)(iii)",
+    "12(c)",
+    "13(a)",
+    "13(b)",
+    "13(c)",
+    "14(a)(i)",
+    "14(a)(ii)",
+    "14(b)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Find the LCM of 15, 35 and 40.",
+      "answer": "840.",
+      "steps": [
+        "15 = 3 × 5; 35 = 5 × 7; 40 = 2³ × 5.",
+        "Use the highest power of each prime: 2³ × 3 × 5 × 7 = 840."
+      ]
+    },
+    {
+      "id": "1(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Approximate (0.0695 × 19812)/6.8125 by first rounding each number to one significant figure.",
+      "answer": "200.",
+      "steps": [
+        "Round each input: 0.0695 ≈ 0.07; 19812 ≈ 20,000; 6.8125 ≈ 7.",
+        "Compute (0.07 × 20,000)/7 = 1400/7 = 200."
+      ]
+    },
+    {
+      "id": "2(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Express 3^(2y − 1) + 2 × 3^(y − 1) = 1 in terms of P = 3ʸ.",
+      "answer": "P² + 2P − 3 = 0.",
+      "steps": [
+        "3^(2y − 1) = (3ʸ)²/3 = P²/3; 3^(y − 1) = P/3.",
+        "Substitute: P²/3 + 2P/3 = 1. Multiply by 3 and bring all terms to the left."
+      ]
+    },
+    {
+      "id": "2(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Solve log₁₀(3y + 2) − 1 = log₁₀(y − 4).",
+      "answer": "y = 6.",
+      "steps": [
+        "The domain requires y > 4. Write 1 = log₁₀10 and combine: log₁₀[(3y + 2)/10] = log₁₀(y − 4).",
+        "Equate arguments: 3y + 2 = 10y − 40, so 7y = 42 and y = 6.",
+        "Check y − 4 = 2 > 0, and (3y + 2)/10 = 2."
+      ]
+    },
+    {
+      "id": "3(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Of 45 students, 30 study Chemistry, 20 Physics and 5 neither. Draw a labelled Venn diagram.",
+      "answer": "Chemistry only = 20; both = 10; Physics only = 10; neither = 5.",
+      "steps": [
+        "At least one subject = 45 − 5 = 40. Overlap = 30 + 20 − 40 = 10.",
+        "Chemistry only = 30 − 10 = 20; Physics only = 20 − 10 = 10. Place the four counts in their appropriate regions."
+      ],
+      "image": "answer_keys/figures/BasicMath-F4-2021-venn.png"
+    },
+    {
+      "id": "3(b)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Find the number studying both subjects.",
+      "answer": "10 students.",
+      "steps": [
+        "The two subject totals count the overlap twice.",
+        "Both = 30 + 20 − (45 − 5) = 10."
+      ]
+    },
+    {
+      "id": "3(b)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Find the probability that a randomly selected student studies Chemistry only.",
+      "answer": "4/9.",
+      "steps": [
+        "Chemistry only = 30 − 10 = 20.",
+        "All 45 students are eligible for selection, so probability = 20/45 = 4/9."
+      ]
+    },
+    {
+      "id": "4(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Road R₁ has equation 2x − 3y − 4 = 0. Perpendicular road R₂ passes through (4,−2). Find R₂ as ax + by + c = 0.",
+      "answer": "3x + 2y − 8 = 0.",
+      "steps": [
+        "R₁ has gradient 2/3 after rearranging to y = (2/3)x − 4/3. A perpendicular gradient is −3/2.",
+        "Through (4,−2): y + 2 = (−3/2)(x − 4). Multiply by 2 and rearrange to 3x + 2y − 8 = 0."
+      ]
+    },
+    {
+      "id": "4(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "A boat moves 30 km/h south while river water flows 5 km/h east. Find the resultant velocity to two decimal places.",
+      "answer": "(5,−30) km/h, with speed 30.41 km/h directed S 9.46° E (bearing 170.54°).",
+      "steps": [
+        "Take east as positive x and north as positive y. Add vectors (0,−30) + (5,0) = (5,−30).",
+        "Magnitude = √(5² + 30²) = √925 ≈ 30.4138 km/h.",
+        "Direction east of south satisfies tan θ = 5/30, so θ ≈ 9.46°."
+      ],
+      "tip": "Velocity includes both magnitude and direction. The resultant speed alone is not a complete velocity description."
+    },
+    {
+      "id": "5(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Similar rectangles have lengths 6 cm and 8 cm. The smaller area is 73.8 cm². Find the larger area.",
+      "answer": "131.2 cm².",
+      "steps": [
+        "Linear scale factor = 8/6 = 4/3; area scale factor = (4/3)² = 16/9.",
+        "Larger area = 73.8 × 16/9 = 131.2 cm²."
+      ]
+    },
+    {
+      "id": "5(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "A regular polygon’s exterior and interior angles are in ratio 2:4. Find its number of sides.",
+      "answer": "6 sides.",
+      "steps": [
+        "Let exterior = 2k and interior = 4k; together they sum to 180°. Then 6k = 180, so k = 30.",
+        "Exterior angle = 60°; number of sides = 360/60 = 6."
+      ]
+    },
+    {
+      "id": "6(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Cut 7.42 m from a 13.5 m string and divide the remainder into 32 cm pieces. How many pieces?",
+      "answer": "19 pieces.",
+      "steps": [
+        "Remaining length = 13.5 − 7.42 = 6.08 m = 608 cm.",
+        "608/32 = 19."
+      ]
+    },
+    {
+      "id": "6(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Supported mass varies directly with breadth b and inversely with length l. A 2 m wide, 15 m long beam supports 200 kg. Find mass for b = 3 m, l = 20 m.",
+      "answer": "225 kg.",
+      "steps": [
+        "M = kb/l. Use 200 = k(2)/15 to find k = 1500.",
+        "For the new beam, M = 1500 × 3/20 = 225 kg."
+      ]
+    },
+    {
+      "id": "7(a)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Define trading account as used in Accounts.",
+      "answer": "An account used to calculate gross profit or gross loss from sales and cost of goods sold for a period.",
+      "steps": [
+        "Find net sales and the cost of goods sold, accounting for stock and purchases.",
+        "Subtract cost of goods sold from net sales; the resulting gross profit or loss belongs in the trading account."
+      ]
+    },
+    {
+      "id": "7(a)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Define profit and loss account.",
+      "answer": "An account used to calculate net profit or net loss after considering operating expenses and other income.",
+      "steps": [
+        "Start with gross profit or gross loss from the trading account.",
+        "Add other income and deduct operating expenses to determine the net result for the period."
+      ]
+    },
+    {
+      "id": "7(a)(iii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Define balance sheet.",
+      "answer": "A statement showing a business’s assets, liabilities and owner’s equity at a particular date.",
+      "steps": [
+        "Assets are resources owned; liabilities are obligations owed.",
+        "Present them with capital/equity so that Assets = Liabilities + Equity."
+      ]
+    },
+    {
+      "id": "7(a)(iv)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Define cash account.",
+      "answer": "An account recording cash received, cash paid and the resulting cash balance.",
+      "steps": [
+        "Cash receipts are recorded on the debit side and cash payments on the credit side.",
+        "Balance the account to determine the cash remaining."
+      ]
+    },
+    {
+      "id": "7(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "A car bought for Tsh 12,500,000 is sold at 20% loss. Find loss and selling price.",
+      "answer": "Loss = Tsh 2,500,000; selling price = Tsh 10,000,000.",
+      "steps": [
+        "Loss = (20/100) × 12,500,000 = 2,500,000.",
+        "Selling price = cost − loss = 12,500,000 − 2,500,000 = 10,000,000."
+      ]
+    },
+    {
+      "id": "8(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Six mango seedlings are planted in a row 7 m apart. Find the row length.",
+      "answer": "35 m.",
+      "steps": [
+        "Six seedlings create five gaps between consecutive seedlings.",
+        "Length from first to last = (6 − 1) × 7 = 35 m."
+      ]
+    },
+    {
+      "id": "8(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "The fifth and sixth GP terms are 162 and 486. Find the common ratio and first term.",
+      "answer": "r = 3; a = 2.",
+      "steps": [
+        "Common ratio r = T₆/T₅ = 486/162 = 3.",
+        "T₅ = ar⁴, so a = 162/3⁴ = 162/81 = 2."
+      ]
+    },
+    {
+      "id": "9(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Show cos(90° + θ) = −sin θ.",
+      "answer": "cos(90° + θ) = −sin θ.",
+      "steps": [
+        "Use cos(A + B) = cos A cos B − sin A sin B.",
+        "Substitute A = 90°: 0 × cos θ − 1 × sin θ = −sin θ."
+      ]
+    },
+    {
+      "id": "9(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "UV = 3 cm, UW = 5 cm and their included angle is 60°. Find VW to two decimal places.",
+      "answer": "4.36 cm.",
+      "steps": [
+        "Cosine rule: VW² = 3² + 5² − 2(3)(5)cos 60°.",
+        "VW² = 9 + 25 − 30(1/2) = 19; VW = √19 ≈ 4.3589 cm, rounding to 4.36 cm."
+      ]
+    },
+    {
+      "id": "10(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "A trapezium has area 2x² − 8x + 6 and parallel sides 2x + 3 and 2x − 7. Find its height.",
+      "answer": "h = x − 3 units, for geometrically valid x > 7/2.",
+      "steps": [
+        "A = (1/2)(sum of parallel sides)h gives 2x² − 8x + 6 = (1/2)(4x − 4)h.",
+        "Factor: 2(x − 1)(x − 3) = 2(x − 1)h, so h = x − 3.",
+        "Both side lengths must be positive; 2x − 7 > 0 requires x > 7/2, which also makes the height positive."
+      ]
+    },
+    {
+      "id": "10(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Two positive numbers differ by 7 and have product 30. Find them.",
+      "answer": "10 and 3.",
+      "steps": [
+        "Let the smaller be s > 0, so s(s + 7) = 30.",
+        "s² + 7s − 30 = (s + 10)(s − 3) = 0. Reject −10; s = 3 and the larger is 10."
+      ]
+    },
+    {
+      "id": "11(a)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Group the 40 marks into eight classes of width 8 starting at 32.",
+      "answer": "32–39: 4; 40–47: 13; 48–55: 8; 56–63: 6; 64–71: 6; 72–79: 2; 80–87: 0; 88–95: 1. Total: 40.",
+      "steps": [
+        "Form non-overlapping classes using lower limits 32,40,48,56,64,72,80,88.",
+        "Tally every raw mark exactly once. Check the frequencies 4 + 13 + 8 + 6 + 6 + 2 + 0 + 1 = 40."
+      ]
+    },
+    {
+      "id": "11(b)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Use the grouped distribution to find the mean with assumed mean 83.5.",
+      "answer": "Grouped mean = 53.1 marks.",
+      "steps": [
+        "Class midpoints are 35.5,43.5,51.5,59.5,67.5,75.5,83.5,91.5. Set u = (midpoint − 83.5)/8.",
+        "The coded values are −6,−5,−4,−3,−2,−1,0,1. Multiply by frequencies: −24,−65,−32,−18,−12,−2,0,1; sum fu = −152.",
+        "Mean = A + h(Σfu/Σf) = 83.5 + 8(−152/40) = 53.1."
+      ],
+      "tip": "This is the grouped-data estimate, obtained by treating every mark in a class as its midpoint. It need not equal the exact mean of the ungrouped scores."
+    },
+    {
+      "id": "11(c)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Find the difference between the mean and the median of the grouped distribution and comment.",
+      "answer": "Grouped median = 50.5; mean − median = 2.6 marks. The mean is slightly higher than the median.",
+      "steps": [
+        "Cumulative frequencies are 4,17,25,31,37,39,39,40. N/2 = 20 lies in class 48–55.",
+        "Use median = L + [(N/2 − previous cumulative frequency)/class frequency]h = 47.5 + [(20 − 17)/8] × 8 = 50.5.",
+        "Difference = 53.1 − 50.5 = 2.6; the average is slightly raised relative to the middle value by the higher marks."
+      ]
+    },
+    {
+      "id": "12(a)",
+      "section": "Section B — Worked solutions",
+      "prompt": "For the cuboid, name the angles between AG and planes ABCD and BCFG.",
+      "answer": "With ABCD: ∠GAB. With BCFG: ∠AGB.",
+      "steps": [
+        "In the original labelling G lies vertically above B, so the projection of AG on base ABCD is AB. The line-plane angle is ∠GAB.",
+        "A projects perpendicularly to B on the side plane BCFG, so the projection of AG there is GB. The angle at G is ∠AGB."
+      ]
+    },
+    {
+      "id": "12(b)(i)",
+      "section": "Section B — Worked solutions",
+      "prompt": "The block is 8 cm long, 6 cm wide and 5 cm high. Find AC.",
+      "answer": "10 cm.",
+      "steps": [
+        "AC is the diagonal of the rectangular base with sides 8 and 6.",
+        "AC = √(8² + 6²) = √100 = 10 cm."
+      ]
+    },
+    {
+      "id": "12(b)(ii)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Find AF, using the original cuboid labels (F is vertically above C).",
+      "answer": "5√5 cm ≈ 11.18 cm.",
+      "steps": [
+        "AC = 10 cm and CF = 5 cm are perpendicular. AF is the space diagonal.",
+        "AF = √(AC² + CF²) = √(100 + 25) = √125 = 5√5 cm."
+      ]
+    },
+    {
+      "id": "12(b)(iii)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Find angle CAF.",
+      "answer": "∠CAF ≈ 26.57°.",
+      "steps": [
+        "In right triangle ACF, opposite side CF = 5 and adjacent side AC = 10.",
+        "tan ∠CAF = 5/10 = 1/2; the angle is arctan(1/2) ≈ 26.565°."
+      ]
+    },
+    {
+      "id": "12(c)",
+      "section": "Section B — Worked solutions",
+      "prompt": "A ship sails from A(10°S,30°W) to B(11°N,30°W) at 900 km/h, departing 10:00 a.m. R = 6400 km. Find arrival time.",
+      "answer": "Approximately 12:36 p.m. the same day.",
+      "steps": [
+        "Along the same meridian, angular distance = 10 + 11 = 21°. Distance = (21/360) × 2π × 6400 ≈ 2345.72 km.",
+        "Travel time = distance/900 ≈ 2.60636 hours = 2 hours 36.38 minutes.",
+        "Add to 10:00 a.m. and round to the nearest minute: 12:36 p.m."
+      ]
+    },
+    {
+      "id": "13(a)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Use matrices to solve 2x − y = 5 and 3x + 2y = 4.",
+      "answer": "x = 2; y = −1.",
+      "steps": [
+        "Write A[[x],[y]] = [[5],[4]] with A = [[2,−1],[3,2]]. det A = 4 + 3 = 7.",
+        "A⁻¹ = (1/7)[[2,1],[−3,2]]. Multiply by the right-hand vector: (1/7)[[14],[−7]] = [[2],[−1]].",
+        "Check: 2(2) − (−1) = 5 and 3(2) + 2(−1) = 4."
+      ]
+    },
+    {
+      "id": "13(b)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Transform A(1,1), B(2,4), C(5,3) using T = [[2,1],[1,3]].",
+      "answer": "A′(3,4), B′(8,14), C′(13,14).",
+      "steps": [
+        "Multiply each coordinate column by T: (x′,y′) = (2x + y, x + 3y).",
+        "A′ = (2 + 1,1 + 3) = (3,4); B′ = (4 + 4,2 + 12) = (8,14); C′ = (10 + 3,5 + 9) = (13,14)."
+      ]
+    },
+    {
+      "id": "13(c)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Rotate A(4,2) by 120° anticlockwise about the origin.",
+      "answer": "A′(−2 − √3, 2√3 − 1).",
+      "steps": [
+        "Rotation matrix is [[cos120°,−sin120°],[sin120°,cos120°]] = [[−1/2,−√3/2],[√3/2,−1/2]].",
+        "Multiply by (4,2): x′ = −2 − √3; y′ = 2√3 − 1."
+      ]
+    },
+    {
+      "id": "14(a)(i)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Batiki uses 2.5 m, Kitenge 2 m; daily material limit 400 m. The paper says at most 80 metres of Batiki and at least 60 metres of Kitenge. Write constraints for garment counts x,y.",
+      "answer": "Literal metre wording: x ≥ 0, y ≥ 0, 2.5x + 2y ≤ 400, x ≤ 32, y ≥ 30. If 80 and 60 mean garment counts: x ≤ 80, y ≥ 60 instead.",
+      "steps": [
+        "Total material is 2.5x + 2y; the capacity gives 2.5x + 2y ≤ 400.",
+        "Taking the printed metre units literally, Batiki material 2.5x ≤ 80 gives x ≤ 32; Kitenge material 2y ≥ 60 gives y ≥ 30.",
+        "The alternative interpretation often intended in this question uses 80 and 60 directly as numbers of garments. Keep the interpretations separate."
+      ],
+      "tip": "The wording mixes metres and garment counts. Both complete interpretations are provided rather than silently changing the units."
+    },
+    {
+      "id": "14(a)(ii)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Maximise income f(x,y) = 300x + 200y under those constraints.",
+      "answer": "Literal metre constraints: 32 Batiki and 160 Kitenge; maximum income 41,600. If 80 and 60 are garment-count limits: 80 Batiki and 100 Kitenge; maximum income 44,000.",
+      "steps": [
+        "Literal feasible vertices: (0,30), (32,30), (32,160), (0,200). Their incomes are 6,000; 15,600; 41,600; 40,000 respectively.",
+        "The largest is 41,600 at (32,160); material check 2.5(32) + 2(160) = 400.",
+        "Under the alternative garment-count limits, vertices are (0,60), (80,60), (80,100), (0,200), giving 12,000; 36,000; 44,000; 40,000. The maximum is 44,000 at (80,100)."
+      ]
+    },
+    {
+      "id": "14(b)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Give two reasons for studying linear programming.",
+      "answer": "1. It helps allocate limited resources efficiently. 2. It finds the greatest profit/output or least cost that satisfies stated constraints.",
+      "steps": [
+        "Resource limits can be expressed as inequalities, such as time, labour or material limits.",
+        "An objective function compares feasible choices, enabling a decision that meets the limits and optimises the desired result."
+      ]
+    }
+  ],
+  "summaries": {
+    "Section A — Worked solutions": "Use exact fractions, consistent units and the requested method. For vectors, give direction as well as speed; for similar figures, square the linear factor when comparing areas.",
+    "Section B — Worked solutions": "Grouped statistics are estimates based on midpoints and class boundaries. Match cuboid labels to the printed figure, preserve matrix order, and check linear-programming units before forming constraints."
+  },
+  "labelling_note": "Question 14 mixes metre quantities and garment counts. Its solutions show the literal printed-unit interpretation and the alternative garment-count interpretation explicitly."
+}

@@ -48,6 +48,15 @@ class TestBecomeTutor:
             assert app_row.name == "Jane Doe"
             assert app_row.location == "Dar es Salaam"
 
+    def test_incomplete_application_does_not_create_row(self, client, app, db):
+        from tzstudies.models import TutorApplication
+
+        resp = client.post("/become_tutor", data={"name": " "}, follow_redirects=True)
+        assert resp.status_code == 200
+        assert b"Please complete every required field" in resp.data
+        with app.app_context():
+            assert TutorApplication.query.count() == 0
+
 
 class TestTutorAPI:
     """GET /api/v1/tutors — JSON tutor listing."""
@@ -59,3 +68,17 @@ class TestTutorAPI:
         assert "tutors" in data
         assert "count" in data
         assert isinstance(data["tutors"], list)
+
+    def test_applications_are_not_public_profiles(self, client, app, db):
+        from tzstudies.models import TutorApplication
+
+        with app.app_context():
+            db.session.add(TutorApplication(
+                name="Private Applicant", location="Arusha", school="Example",
+                hourly_rate="10000", experience="Five years", classes_taught="Form 2",
+                email="private@example.com", profile_bio="Application for review",
+            ))
+            db.session.commit()
+        data = client.get("/api/v1/tutors").get_json()
+        assert all(tutor["name"] != "Private Applicant" for tutor in data["tutors"])
+        assert b"private@example.com" not in client.get("/api/v1/tutors").data

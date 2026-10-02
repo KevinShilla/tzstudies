@@ -1,0 +1,471 @@
+{
+  "exam": "BasicMath-F4-2022.pdf",
+  "output": "BasicMath-F4-2022-AnswerKey.pdf",
+  "subject": "Basic Mathematics",
+  "level": "Form Four",
+  "year": "2022",
+  "code": "041",
+  "exam_type": "Certificate of Secondary Education Examination (CSEE)",
+  "question_count": "14 compulsory questions; 40 answered parts",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "773f18122422b60b4d1e78b69d04ea06ee0adb1085849a4f6272e30876b3337a",
+  "expected_parts": [
+    "1(a)",
+    "1(b)(i)",
+    "1(b)(ii)",
+    "2(a)",
+    "2(b)(i)",
+    "2(b)(ii)",
+    "3(a)(i)",
+    "3(a)(ii)",
+    "3(b)",
+    "4(a)",
+    "4(b)",
+    "5(a)",
+    "5(b)(i)",
+    "5(b)(ii)",
+    "6(a)",
+    "6(b)(i)",
+    "6(b)(ii)",
+    "7(a)",
+    "7(b)",
+    "8(a)",
+    "8(b)(i)",
+    "8(b)(ii)",
+    "9(a)(i)",
+    "9(a)(ii)",
+    "9(b)",
+    "10(a)",
+    "10(b)",
+    "11(a)",
+    "11(b)",
+    "11(c)",
+    "12(a)",
+    "12(b)(i)",
+    "12(b)(ii)",
+    "13(a)",
+    "13(b)",
+    "13(c)",
+    "14(a)(i)",
+    "14(a)(ii)",
+    "14(b)(i)",
+    "14(b)(ii)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Find the percentage of multiples of 5 in {1,2,…,52}, to one decimal place.",
+      "answer": "19.2%.",
+      "steps": [
+        "The multiples are 5,10,15,20,25,30,35,40,45,50: ten numbers.",
+        "Percentage = (10/52) × 100 ≈ 19.2308%, which rounds to 19.2%."
+      ]
+    },
+    {
+      "id": "1(b)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Arrange 1/2, 2/9, 3/8, 1/12 and 2/5 in ascending order.",
+      "answer": "1/12 < 2/9 < 3/8 < 2/5 < 1/2.",
+      "steps": [
+        "Using denominator 360 gives 180/360,80/360,135/360,30/360,144/360 respectively.",
+        "Order the numerators 30,80,135,144,180 and restore the corresponding fractions."
+      ]
+    },
+    {
+      "id": "1(b)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Simplify (7 × 10⁴)/0.000035 in standard form.",
+      "answer": "2 × 10⁹.",
+      "steps": [
+        "0.000035 = 3.5 × 10⁻⁵.",
+        "Divide coefficients and subtract exponents: (7/3.5) × 10^[4 − (−5)] = 2 × 10⁹."
+      ]
+    },
+    {
+      "id": "2(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Find x if 8^(x − 1) = 16.",
+      "answer": "x = 7/3.",
+      "steps": [
+        "Rewrite 8 = 2³ and 16 = 2⁴.",
+        "Equal bases give 3(x − 1) = 4, so x = 1 + 4/3 = 7/3."
+      ]
+    },
+    {
+      "id": "2(b)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Simplify logₐ√a + logₐ(a²).",
+      "answer": "5/2, with a > 0 and a ≠ 1.",
+      "steps": [
+        "Write √a = a^(1/2). Then logₐ a^(1/2) = 1/2 and logₐ a² = 2.",
+        "Add: 1/2 + 2 = 5/2."
+      ]
+    },
+    {
+      "id": "2(b)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Rationalise (5 + √2)/(√6 − √2).",
+      "answer": "(5√6 + 5√2 + 2√3 + 2)/4.",
+      "steps": [
+        "Multiply top and bottom by √6 + √2. Denominator = 6 − 2 = 4.",
+        "Expand numerator: (5 + √2)(√6 + √2) = 5√6 + 5√2 + √12 + 2; √12 = 2√3."
+      ]
+    },
+    {
+      "id": "3(a)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "P contains multiples of 5 less than 35; Q contains odd numbers between 14 and 30. Find P ∩ Q.",
+      "answer": "{15,25}.",
+      "steps": [
+        "P = {5,10,15,20,25,30}; Q = {15,17,19,21,23,25,27,29}.",
+        "The intersection keeps only numbers present in both lists: 15 and 25."
+      ]
+    },
+    {
+      "id": "3(a)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Of 50 farmers, 25 grow cashew nuts, 16 both cashews and maize, and 10 neither. Find maize only without a Venn diagram.",
+      "answer": "15 farmers.",
+      "steps": [
+        "At least one crop = 50 − 10 = 40.",
+        "The union consists of all cashew growers plus maize-only growers. Maize only = 40 − 25 = 15."
+      ]
+    },
+    {
+      "id": "3(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Three seeds independently germinate with probability 1/3 each. Use a tree diagram to find the probability at least two germinate.",
+      "answer": "7/27.",
+      "steps": [
+        "At each of three stages, branch to G with probability 1/3 and N with probability 2/3. Multiply probabilities along a path.",
+        "Exactly two: GGN, GNG, NGG each has probability (1/3)²(2/3) = 2/27; their total is 6/27.",
+        "All three: GGG has probability (1/3)³ = 1/27. At least two = 6/27 + 1/27 = 7/27."
+      ],
+      "image": "answer_keys/figures/BasicMath-F4-2022-tree.png",
+      "tip": "Multiplying branch probabilities assumes the seeds germinate independently, as intended in this probability model."
+    },
+    {
+      "id": "4(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "a = (4,3), b = (−4,1), c = (2,5). Compare lengths of a + 2b and 3a + c.",
+      "answer": "3a + c is longer: 14√2 ≈ 19.80, compared with √41 ≈ 6.40.",
+      "steps": [
+        "a + 2b = (4 − 8,3 + 2) = (−4,5), length √(16 + 25) = √41.",
+        "3a + c = (12 + 2,9 + 5) = (14,14), length √392 = 14√2. Since 392 > 41, the second vector is longer."
+      ]
+    },
+    {
+      "id": "4(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Find the line through (4,2) perpendicular to 2x + 3y + 14 = 0.",
+      "answer": "3x − 2y − 8 = 0 (or y = 3x/2 − 4).",
+      "steps": [
+        "The given gradient is −2/3. Its perpendicular gradient is 3/2.",
+        "Use y − 2 = (3/2)(x − 4); multiply by 2 and rearrange."
+      ]
+    },
+    {
+      "id": "5(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "A triangle has sides 4,5,6 cm. A similar triangle’s longest side is 18 cm. Find its other sides.",
+      "answer": "12 cm and 15 cm.",
+      "steps": [
+        "Corresponding longest sides give scale factor 18/6 = 3.",
+        "Multiply the other lengths: 4 × 3 = 12 and 5 × 3 = 15 cm."
+      ]
+    },
+    {
+      "id": "5(b)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "A regular hexagon inscribed in a circle has perimeter 72 cm. Find the circle radius.",
+      "answer": "12 cm.",
+      "steps": [
+        "Each hexagon side = 72/6 = 12 cm.",
+        "Joining the centre to adjacent vertices creates a 60° isosceles triangle, hence an equilateral triangle. The radius equals the side, 12 cm."
+      ]
+    },
+    {
+      "id": "5(b)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Triangle ABC has area 70 cm², AB = 14 cm and AC = 20 cm. Find angle BAC.",
+      "answer": "30° or 150°; the acute solution is 30°.",
+      "steps": [
+        "Use area = (1/2)AB × AC × sin A: 70 = (1/2)(14)(20)sin A.",
+        "sin A = 70/140 = 1/2. For an interior triangle angle 0° < A < 180°, both A = 30° and A = 150° satisfy this."
+      ],
+      "tip": "No diagram or acute-angle condition is supplied. Area and these two sides alone do not distinguish the two possible included angles."
+    },
+    {
+      "id": "6(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Anna walks 24 km daily. Find her distance in two days in metres.",
+      "answer": "48,000 m.",
+      "steps": [
+        "Two-day distance = 2 × 24 = 48 km.",
+        "Convert using 1 km = 1000 m: 48 × 1000 = 48,000 m."
+      ]
+    },
+    {
+      "id": "6(b)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Cost price C is directly proportional to selling price s. One mattress sells for Tsh 20,000 and costs Tsh 18,000. Find the constant.",
+      "answer": "k = 0.9 = 9/10.",
+      "steps": [
+        "Write C = ks.",
+        "18,000 = k × 20,000 gives k = 18,000/20,000 = 0.9."
+      ]
+    },
+    {
+      "id": "6(b)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Write the equation relating cost price and selling price.",
+      "answer": "C = 0.9s (equivalently s = 10C/9).",
+      "steps": [
+        "Direct variation has the form C = ks.",
+        "Substitute the constant k = 0.9."
+      ]
+    },
+    {
+      "id": "7(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "A damaged table costing Tsh 20,000 is sold at 15% loss. Find loss and selling price.",
+      "answer": "Loss = Tsh 3,000; selling price = Tsh 17,000.",
+      "steps": [
+        "Loss = 0.15 × 20,000 = 3,000.",
+        "Selling price = 20,000 − 3,000 = 17,000."
+      ]
+    },
+    {
+      "id": "7(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Extract a trial balance from Mabala’s cash account: capital 100,000; sales 43,000 and 47,000; purchases 80,000; telephone 28,000; cash balance 82,000.",
+      "answer": "Debit balances: Purchases 80,000; Telephone expenses 28,000; Cash 82,000. Credit balances: Capital 100,000; Sales 90,000. Each total = Tsh 190,000.",
+      "steps": [
+        "Cash receipts for capital and sales imply credit balances in their respective accounts; total sales = 43,000 + 47,000 = 90,000.",
+        "Purchases and telephone expenses are debit balances. Cash remaining, 82,000, is also a debit balance.",
+        "Check debit total 80,000 + 28,000 + 82,000 = 190,000; credit total 100,000 + 90,000 = 190,000."
+      ],
+      "tip": "Do not copy the cash-book sides directly into the trial balance: a cash receipt is a debit to Cash but a credit to its counterpart account."
+    },
+    {
+      "id": "8(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "The fifth and eleventh AP terms are 8 and −34. Find the sum of the first ten.",
+      "answer": "45.",
+      "steps": [
+        "a + 4d = 8 and a + 10d = −34. Subtract: 6d = −42, so d = −7. Then a = 36.",
+        "S₁₀ = (10/2)[2a + 9d] = 5[72 − 63] = 45."
+      ]
+    },
+    {
+      "id": "8(b)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Tsh 100,000,000 is invested at 2% compounded annually. Find the amount after two years.",
+      "answer": "Tsh 104,040,000.",
+      "steps": [
+        "A = P(1 + r/100)² = 100,000,000(1.02)².",
+        "1.02² = 1.0404; multiply to obtain 104,040,000."
+      ]
+    },
+    {
+      "id": "8(b)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Find the interest earned after two years.",
+      "answer": "Tsh 4,040,000.",
+      "steps": [
+        "Compound interest = accumulated amount − initial principal.",
+        "104,040,000 − 100,000,000 = 4,040,000."
+      ]
+    },
+    {
+      "id": "9(a)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Evaluate sin 690°/cos 690° without tables.",
+      "answer": "−√3/3.",
+      "steps": [
+        "Subtract a full 360°: 690° has the same sine and cosine as 330°. The quotient is tan 330°.",
+        "330° = 360° − 30°, so tan 330° = −tan 30° = −1/√3 = −√3/3."
+      ]
+    },
+    {
+      "id": "9(a)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "A 400 m by 300 m garden has seedlings along diagonal BD every 1.25 m, including both endpoints shown. How many seedlings?",
+      "answer": "401 seedlings.",
+      "steps": [
+        "Diagonal length = √(400² + 300²) = 500 m.",
+        "Number of intervals = 500/1.25 = 400. Including a seedling at each endpoint gives 400 + 1 = 401."
+      ]
+    },
+    {
+      "id": "9(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "A car has angle of depression 30° from the top of a 50 m tower. Find its distance from the base in surd form.",
+      "answer": "50√3 m.",
+      "steps": [
+        "The angle of elevation from the car is also 30°. Let ground distance be d.",
+        "tan 30° = 50/d = 1/√3, so d = 50√3."
+      ]
+    },
+    {
+      "id": "10(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Express 2t⁻¹⁰ − 3t⁻⁵ + 1 = 0 in terms of x = 1/t⁵.",
+      "answer": "2x² − 3x + 1 = 0.",
+      "steps": [
+        "x = t⁻⁵, so t⁻¹⁰ = (t⁻⁵)² = x².",
+        "Substitute these into the equation; t must be nonzero."
+      ]
+    },
+    {
+      "id": "10(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Use the quadratic formula to solve the equation in x.",
+      "answer": "x = 1 or x = 1/2.",
+      "steps": [
+        "For 2x² − 3x + 1 = 0, a = 2, b = −3, c = 1. Discriminant b² − 4ac = 9 − 8 = 1.",
+        "x = [3 ± √1]/4 = (3 ± 1)/4, giving 1 and 1/2."
+      ]
+    },
+    {
+      "id": "11(a)",
+      "section": "Section B — Worked solutions",
+      "prompt": "An arc has length 22 cm and radius 63 cm. Find its central angle in degrees using π = 22/7.",
+      "answer": "20°.",
+      "steps": [
+        "Circumference = 2πr = 2 × (22/7) × 63 = 396 cm.",
+        "Angle = (arc/circumference) × 360° = (22/396) × 360° = 20°."
+      ]
+    },
+    {
+      "id": "11(b)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Prove x and y supplementary in the cyclic quadrilateral, with central angles a and b.",
+      "answer": "x + y = 180°, so x and y are supplementary.",
+      "steps": [
+        "Angle x at the circumference subtends the lower arc, so x = a/2. Angle y subtends the complementary upper arc, so y = b/2.",
+        "Central angles around the point satisfy a + b = 360°. Hence x + y = (a + b)/2 = 180°."
+      ]
+    },
+    {
+      "id": "11(c)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Chords AB and CD intersect at E; AE = 8 cm, BE = 3 cm, CE = 4 cm. Find DE.",
+      "answer": "6 cm.",
+      "steps": [
+        "Intersecting-chord theorem: AE × BE = CE × DE.",
+        "8 × 3 = 4 × DE; DE = 24/4 = 6 cm."
+      ]
+    },
+    {
+      "id": "12(a)",
+      "section": "Section B — Worked solutions",
+      "prompt": "A bus travels from A(3°S,39°E) to B(12°S,39°E) at 40 km/h. R = 6400 km, π = 3.14. Find travel time.",
+      "answer": "25.12 hours (25 hours 7.2 minutes).",
+      "steps": [
+        "The same-meridian angle is 12 − 3 = 9°. Distance = (9/360) × 2 × 3.14 × 6400 = 1004.8 km.",
+        "Time = distance/speed = 1004.8/40 = 25.12 hours."
+      ]
+    },
+    {
+      "id": "12(b)(i)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Cuboid UVXY has UV = 4.2 cm, VX = 2 cm and XR = 2.5 cm. Find VR and UR to one decimal place.",
+      "answer": "VR = 3.2 cm; UR = 5.3 cm.",
+      "steps": [
+        "VR is the side-face diagonal: VR² = VX² + XR² = 2² + 2.5² = 10.25, so VR ≈ 3.2016 cm.",
+        "UR is the space diagonal: UR² = UV² + VX² + XR² = 17.64 + 4 + 6.25 = 27.89, so UR ≈ 5.2811 cm.",
+        "Round each length to one decimal place."
+      ]
+    },
+    {
+      "id": "12(b)(ii)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Find the angle between UR and base UVXY.",
+      "answer": "∠RUX ≈ 28.3°.",
+      "steps": [
+        "The projection of R onto the base is X. UX = √(4.2² + 2²) = √21.64 ≈ 4.6519 cm.",
+        "tan ∠RUX = XR/UX = 2.5/√21.64; the angle is approximately 28.25°."
+      ],
+      "tip": "Use unrounded lengths when finding the angle, rather than the rounded 5.3 cm diagonal."
+    },
+    {
+      "id": "13(a)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Solve [[x,4],[4,y]][[−5,−7],[2,z]] = [[38,46],[−10,w]].",
+      "answer": "x = −6; y = 5; z = 1; w = −23.",
+      "steps": [
+        "Multiply matrices entry by entry: −5x + 8 = 38, −7x + 4z = 46, −20 + 2y = −10, −28 + yz = w.",
+        "First x = −6 and y = 5. Then 42 + 4z = 46 gives z = 1. Finally w = −28 + 5 = −23."
+      ]
+    },
+    {
+      "id": "13(b)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Use matrices to reflect (3,−2) in y = −x, then in x = 0.",
+      "answer": "(−2,−3).",
+      "steps": [
+        "The first reflection matrix is S = [[0,−1],[−1,0]]; the second is Y = [[−1,0],[0,1]].",
+        "Apply in the given order: YS = [[0,1],[−1,0]]. Multiply YS by [[3],[−2]] to get [[−2],[−3]].",
+        "Intermediate check: first image (2,−3), then y-axis reflection (−2,−3)."
+      ]
+    },
+    {
+      "id": "13(c)",
+      "section": "Section B — Worked solutions",
+      "prompt": "A translation takes (5,5) to (−7,−7), and (x,y) to (−4,−4). Find x and y.",
+      "answer": "x = 8; y = 8.",
+      "steps": [
+        "Translation vector = (−7 − 5, −7 − 5) = (−12,−12).",
+        "(x − 12,y − 12) = (−4,−4), so x = y = 8."
+      ]
+    },
+    {
+      "id": "14(a)(i)",
+      "section": "Section B — Worked solutions",
+      "prompt": "For f(x) = 1/(x − 2), give domain and range.",
+      "answer": "Domain: ℝ excluding 2. Range: ℝ excluding 0.",
+      "steps": [
+        "The denominator cannot be zero, so x ≠ 2.",
+        "The numerator is 1, so output 0 is impossible. Any nonzero output y is attained at x = 2 + 1/y."
+      ]
+    },
+    {
+      "id": "14(a)(ii)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Find f⁻¹(1/3).",
+      "answer": "5.",
+      "steps": [
+        "Set y = 1/(x − 2). Then x − 2 = 1/y, so f⁻¹(y) = 2 + 1/y.",
+        "Substitute y = 1/3: 2 + 3 = 5. Check f(5) = 1/3."
+      ]
+    },
+    {
+      "id": "14(b)(i)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Black shirts cost Tsh 24,000, white Tsh 30,000; buy at most 5 black and spend at most Tsh 180,000. Maximise total shirts.",
+      "answer": "Buy 5 black shirts and 2 white shirts.",
+      "steps": [
+        "Let nonnegative integers x,y count black and white shirts. Constraints: x ≤ 5 and 24,000x + 30,000y ≤ 180,000, or 4x + 5y ≤ 30.",
+        "For each x = 0,1,2,3,4,5, the greatest possible y is 6,5,4,3,2,2; total shirts are 6,6,6,6,6,7.",
+        "Best is (5,2), costing 5 × 24,000 + 2 × 30,000 = 180,000."
+      ]
+    },
+    {
+      "id": "14(b)(ii)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Find the greatest total number of shirts.",
+      "answer": "7 shirts.",
+      "steps": [
+        "The optimum combination is 5 black and 2 white.",
+        "Total = 5 + 2 = 7; eight shirts are impossible because even the cheapest allowed mix costs at least 5(24,000) + 3(30,000) = 210,000."
+      ]
+    }
+  ],
+  "summaries": {
+    "Section A — Worked solutions": "Translate notation carefully: negative powers indicate reciprocals, vector length uses squares, and probability-tree paths multiply independent branch probabilities.",
+    "Section B — Worked solutions": "Circle theorems relate central and inscribed angles or products of chord segments. In matrix compositions, the transformation applied first is on the right. Enforce whole-number constraints when counting shirts."
+  }
+}

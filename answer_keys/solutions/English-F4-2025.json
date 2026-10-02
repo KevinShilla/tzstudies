@@ -1,0 +1,695 @@
+{
+  "exam": "English-F4-2025.pdf",
+  "output": "English-F4-2025-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Form Four",
+  "year": "2025",
+  "code": "022",
+  "exam_type": "Certificate of Secondary Education Examination (CSEE)",
+  "question_count": "11 questions; every Section C option solved; 59 answered parts",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "a85ce4cac21318c1ef9d93f02f9609de5fc659bb35c7384dfd71c943d30089b1",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(ix)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "3",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "4(vi)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "5(vi)",
+    "5(vii)",
+    "5(viii)",
+    "5(ix)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)",
+    "6(vi)",
+    "6(vii)",
+    "6(viii)",
+    "6(ix)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)",
+    "7(v)",
+    "7(vi)",
+    "8(i)",
+    "8(ii)",
+    "8(iii)",
+    "8(iv)",
+    "8(v)",
+    "8(vi)",
+    "8(vii)",
+    "8(viii)",
+    "8(ix)",
+    "9",
+    "10",
+    "11"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Section A — Objective questions",
+      "prompt": "Write another person’s personal information.",
+      "answer": "E — Biography.",
+      "steps": [
+        "Compare the wording, meaning and grammatical form.",
+        "A biography is written about someone else; an autobiography is written by its subject."
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Identify a correct equal-height comparison.",
+      "answer": "A — I am as tall as him.",
+      "steps": [
+        "Compare the wording, meaning and grammatical form.",
+        "Use as + adjective + as. The more formal full clause is I am as tall as he is."
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Describe playing for five hours as a completed event.",
+      "answer": "C — I played for five hours, the suitable completed-past option provided.",
+      "steps": [
+        "Compare the wording, meaning and grammatical form.",
+        "Simple past treats the period as finished. If completion is directly linked to the present, I have played for five hours would also be natural, but it is absent from the options."
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Section A — Objective questions",
+      "prompt": "Name cards expressing sympathy after a death.",
+      "answer": "B — Condolence cards.",
+      "steps": [
+        "Compare the wording, meaning and grammatical form.",
+        "Condolence means sympathy for a bereaved person."
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Section A — Objective questions",
+      "prompt": "Identify what a dictionary does not normally provide.",
+      "answer": "D — The total number of words of a language.",
+      "steps": [
+        "Compare the wording, meaning and grammatical form.",
+        "A dictionary supplies meanings, spelling, pronunciation and usage; its entries do not establish the complete size of a language."
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Section A — Objective questions",
+      "prompt": "Explain Fidelis likes neither fish nor beef.",
+      "answer": "E — Fidelis dislikes both fish and beef.",
+      "steps": [
+        "Compare the wording, meaning and grammatical form.",
+        "Neither … nor excludes both choices."
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Explain “He is always shouting at his wife.”",
+      "answer": "C — Over a longer period of time.",
+      "steps": [
+        "Compare the wording, meaning and grammatical form.",
+        "Always with the continuous form presents recurrent behaviour, often with disapproval; it does not mean a single action only at this instant."
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Identify the sentence without future reference.",
+      "answer": "C — They read both documents.",
+      "steps": [
+        "Compare the wording, meaning and grammatical form.",
+        "It has no future-time expression or future form, unlike the other choices."
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Section A — Objective questions",
+      "prompt": "Define a paternal uncle.",
+      "answer": "B — The father’s brother.",
+      "steps": [
+        "Compare the wording, meaning and grammatical form.",
+        "Paternal refers to the father’s side of the family."
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Section A — Objective questions",
+      "prompt": "Why omit the writer’s name from the sender’s address in the taught formal-letter format?",
+      "answer": "A — It normally appears at the bottom.",
+      "steps": [
+        "Compare the wording, meaning and grammatical form.",
+        "The name identifies the writer below the closing and signature."
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the modal expression: May I go out?",
+      "answer": "D — Ask for permission.",
+      "steps": [
+        "Identify the function of the auxiliary in context; a letter may be used more than once.",
+        "May requests permission."
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the modal expression: Can he play football?",
+      "answer": "H — Express ability.",
+      "steps": [
+        "Identify the function of the auxiliary in context; a letter may be used more than once.",
+        "Can asks about his capacity to play."
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the modal expression: He might be right.",
+      "answer": "G — Express uncertainty.",
+      "steps": [
+        "Identify the function of the auxiliary in context; a letter may be used more than once.",
+        "Might gives a possibility rather than certainty."
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the modal expression: I can solve the problem.",
+      "answer": "H — Express ability.",
+      "steps": [
+        "Identify the function of the auxiliary in context; a letter may be used more than once.",
+        "Can states capacity to solve it."
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the modal expression: You must stay here.",
+      "answer": "C — Express obligation.",
+      "steps": [
+        "Identify the function of the auxiliary in context; a letter may be used more than once.",
+        "Must requires the action."
+      ]
+    },
+    {
+      "id": "2(vi)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the modal expression: I will die for my country.",
+      "answer": "A — Express determination.",
+      "steps": [
+        "Identify the function of the auxiliary in context; a letter may be used more than once.",
+        "Will here conveys resolve or willingness."
+      ]
+    },
+    {
+      "id": "3",
+      "section": "Section B — Language use",
+      "prompt": "Rearrange the marathon sentences A–F into a coherent paragraph.",
+      "answer": "1–6: F, C, B, A, E, D.\nOne day, my name was mentioned to participate in the international marathon. My heart started beating after that information since it was my first time. The day came, and we all gathered for the event. Then, we were called to line up and allowed to start. While we were running, the spectators were shouting, but I did not hear my name. Surprisingly, I was the first person to touch the finishing line.",
+      "steps": [
+        "Start with selection F and the reaction to that information C.",
+        "Continue with arrival on the race day B, then lining up and starting A.",
+        "Place the ongoing race E before its surprising finish D."
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Section B — Language use",
+      "prompt": "Complete the invitation field: Invitee’s name.",
+      "answer": "Rose",
+      "steps": [
+        "Match the field’s purpose with the supplied words.",
+        "The salutation is Miss Rose."
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Complete the invitation field: Event type.",
+      "answer": "Birthday party",
+      "steps": [
+        "Match the field’s purpose with the supplied words.",
+        "The heading and Paul’s celebration identify a birthday, not a wedding."
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Complete the invitation field: Venue.",
+      "answer": "Green Star Hall",
+      "steps": [
+        "Match the field’s purpose with the supplied words.",
+        "A hall name supplies the location."
+      ]
+    },
+    {
+      "id": "4(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Complete the invitation field: Time.",
+      "answer": "4:30 p.m. to 10:30 p.m.",
+      "steps": [
+        "Match the field’s purpose with the supplied words.",
+        "The supplied period belongs after the time phrase, even though starting from is awkward before an ending time."
+      ]
+    },
+    {
+      "id": "4(v)",
+      "section": "Section B — Language use",
+      "prompt": "Complete the invitation field: Reply heading.",
+      "answer": "RSVP",
+      "steps": [
+        "Match the field’s purpose with the supplied words.",
+        "This introduces the request and details for replying."
+      ]
+    },
+    {
+      "id": "4(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Complete the invitation field: Mrs Majengo’s contact.",
+      "answer": "Mobile Number 0711000543",
+      "steps": [
+        "Match the field’s purpose with the supplied words.",
+        "Use the provided telephone digits without inventing new contact information."
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a descriptive sentence using Round.",
+      "answer": "The table is round.",
+      "steps": [
+        "Use a complete sentence in which the supplied adjective describes a person or object.",
+        "Round describes shape."
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a descriptive sentence using Black.",
+      "answer": "The bag is black.",
+      "steps": [
+        "Use a complete sentence in which the supplied adjective describes a person or object.",
+        "Black describes colour."
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a descriptive sentence using Energetic.",
+      "answer": "The athlete is energetic.",
+      "steps": [
+        "Use a complete sentence in which the supplied adjective describes a person or object.",
+        "Energetic describes vigour."
+      ]
+    },
+    {
+      "id": "5(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a descriptive sentence using Pretty.",
+      "answer": "The garden is pretty.",
+      "steps": [
+        "Use a complete sentence in which the supplied adjective describes a person or object.",
+        "Pretty describes pleasing appearance."
+      ]
+    },
+    {
+      "id": "5(v)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a descriptive sentence using Tall.",
+      "answer": "The tree is tall.",
+      "steps": [
+        "Use a complete sentence in which the supplied adjective describes a person or object.",
+        "Tall describes height."
+      ]
+    },
+    {
+      "id": "5(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a descriptive sentence using Attractive.",
+      "answer": "The building has an attractive entrance.",
+      "steps": [
+        "Use a complete sentence in which the supplied adjective describes a person or object.",
+        "Attractive modifies entrance."
+      ]
+    },
+    {
+      "id": "5(vii)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a descriptive sentence using Shapeless.",
+      "answer": "The melted wax formed a shapeless lump.",
+      "steps": [
+        "Use a complete sentence in which the supplied adjective describes a person or object.",
+        "Shapeless describes an indistinct shape."
+      ]
+    },
+    {
+      "id": "5(viii)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a descriptive sentence using Kind.",
+      "answer": "Our neighbour is kind.",
+      "steps": [
+        "Use a complete sentence in which the supplied adjective describes a person or object.",
+        "Kind describes considerate behaviour."
+      ]
+    },
+    {
+      "id": "5(ix)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a descriptive sentence using New.",
+      "answer": "She bought a new bicycle.",
+      "steps": [
+        "Use a complete sentence in which the supplied adjective describes a person or object.",
+        "New describes the bicycle’s condition or age."
+      ]
+    },
+    {
+      "id": "6(i)",
+      "section": "Section B — Language use",
+      "prompt": "Correct the sentence: The students were playing soccer yesterday. Aren’t they.",
+      "answer": "The students were playing soccer yesterday, weren’t they?",
+      "steps": [
+        "Identify the particular spelling, connector, tense, relative pronoun or preposition issue.",
+        "Match past were with negative weren’t in the tag, retain plural they and use a question mark."
+      ]
+    },
+    {
+      "id": "6(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Correct the sentence: Although the headmaster offered the trip to Ngorongoro but the student refused to go.",
+      "answer": "Although the headmaster offered the trip to Ngorongoro, the student refused to go.",
+      "steps": [
+        "Identify the particular spelling, connector, tense, relative pronoun or preposition issue.",
+        "Do not combine although and but for the same concessive link; remove but."
+      ]
+    },
+    {
+      "id": "6(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Correct the sentence: You can see I am busy right now. Do not west my time.",
+      "answer": "You can see I am busy right now. Do not waste my time.",
+      "steps": [
+        "Identify the particular spelling, connector, tense, relative pronoun or preposition issue.",
+        "Waste means use time unproductively; west names a direction."
+      ]
+    },
+    {
+      "id": "6(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Correct the sentence: I must go to the farm despite of the rain.",
+      "answer": "I must go to the farm despite the rain.",
+      "steps": [
+        "Identify the particular spelling, connector, tense, relative pronoun or preposition issue.",
+        "Despite takes a noun phrase without of. In spite of is an alternative."
+      ]
+    },
+    {
+      "id": "6(v)",
+      "section": "Section B — Language use",
+      "prompt": "Correct the sentence: That is the man which came here yesterday.",
+      "answer": "That is the man who came here yesterday.",
+      "steps": [
+        "Identify the particular spelling, connector, tense, relative pronoun or preposition issue.",
+        "Who refers to a person; that is also possible in this defining clause."
+      ]
+    },
+    {
+      "id": "6(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Correct the sentence: My friend is to weak too run 15 km.",
+      "answer": "My friend is too weak to run 15 km.",
+      "steps": [
+        "Identify the particular spelling, connector, tense, relative pronoun or preposition issue.",
+        "Use too + adjective + to-infinitive."
+      ]
+    },
+    {
+      "id": "6(vii)",
+      "section": "Section B — Language use",
+      "prompt": "Correct the sentence: My sister was singing while I danced.",
+      "answer": "My sister was singing while I was dancing.",
+      "steps": [
+        "Identify the particular spelling, connector, tense, relative pronoun or preposition issue.",
+        "This is the likely intended correction for two simultaneous ongoing actions. The original can also be grammatical if danced presents the other activity as a whole."
+      ]
+    },
+    {
+      "id": "6(viii)",
+      "section": "Section B — Language use",
+      "prompt": "Correct the sentence: We planned to travel on ship.",
+      "answer": "We planned to travel by ship.",
+      "steps": [
+        "Identify the particular spelling, connector, tense, relative pronoun or preposition issue.",
+        "By ship names a means of transport; on a ship is also grammatical with an article."
+      ]
+    },
+    {
+      "id": "6(ix)",
+      "section": "Section B — Language use",
+      "prompt": "Correct the sentence: I usually sleep on bed.",
+      "answer": "I usually sleep in bed.",
+      "steps": [
+        "Identify the particular spelling, connector, tense, relative pronoun or preposition issue.",
+        "In bed is the normal expression for sleeping; on a bed requires an article and refers more literally to its surface."
+      ]
+    },
+    {
+      "id": "7(i)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a sentence with both … and.",
+      "answer": "Both Asha and Juma enjoy reading.",
+      "steps": [
+        "Put parallel words or clauses on the two sides of the paired construction.",
+        "The paired subject takes plural enjoy."
+      ]
+    },
+    {
+      "id": "7(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a sentence with neither … nor.",
+      "answer": "Neither tea nor coffee is available.",
+      "steps": [
+        "Put parallel words or clauses on the two sides of the paired construction.",
+        "The two alternatives are both excluded."
+      ]
+    },
+    {
+      "id": "7(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a sentence with either … or.",
+      "answer": "You may choose either rice or potatoes.",
+      "steps": [
+        "Put parallel words or clauses on the two sides of the paired construction.",
+        "The structure offers alternatives."
+      ]
+    },
+    {
+      "id": "7(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a sentence with not only … but also.",
+      "answer": "She is not only intelligent but also hardworking.",
+      "steps": [
+        "Put parallel words or clauses on the two sides of the paired construction.",
+        "The paired complements are parallel adjectives."
+      ]
+    },
+    {
+      "id": "7(v)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a sentence with prefer … to.",
+      "answer": "I prefer reading to watching television.",
+      "steps": [
+        "Put parallel words or clauses on the two sides of the paired construction.",
+        "Use parallel -ing forms and to, not than."
+      ]
+    },
+    {
+      "id": "7(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a sentence with whether … or.",
+      "answer": "Tell me whether you will walk or take the bus.",
+      "steps": [
+        "Put parallel words or clauses on the two sides of the paired construction.",
+        "The structure introduces two possible decisions."
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Section B — Language use",
+      "prompt": "Complete with the correct form of say or tell: Ali ___ goodbye to me and left.",
+      "answer": "said",
+      "steps": [
+        "Look for a directly named listener and check the time or auxiliary.",
+        "Say goodbye to someone; use past said to match left."
+      ],
+      "tip": "The instruction says say or tell, but sentences in past time require their inflected forms said or told."
+    },
+    {
+      "id": "8(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Complete with the correct form of say or tell: Please ___ us about your holiday.",
+      "answer": "tell",
+      "steps": [
+        "Look for a directly named listener and check the time or auxiliary.",
+        "Tell takes the person us directly."
+      ],
+      "tip": "The instruction says say or tell, but sentences in past time require their inflected forms said or told."
+    },
+    {
+      "id": "8(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Complete with the correct form of say or tell: Don’t just stand there! ___ something.",
+      "answer": "Say",
+      "steps": [
+        "Look for a directly named listener and check the time or auxiliary.",
+        "Say takes the spoken content something."
+      ],
+      "tip": "The instruction says say or tell, but sentences in past time require their inflected forms said or told."
+    },
+    {
+      "id": "8(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Complete with the correct form of say or tell: Please ___ everyone about our journey.",
+      "answer": "tell",
+      "steps": [
+        "Look for a directly named listener and check the time or auxiliary.",
+        "Everyone is the person-object of tell."
+      ],
+      "tip": "The instruction says say or tell, but sentences in past time require their inflected forms said or told."
+    },
+    {
+      "id": "8(v)",
+      "section": "Section B — Language use",
+      "prompt": "Complete with the correct form of say or tell: Fatuma ___ me that he was fed up with his job.",
+      "answer": "told",
+      "steps": [
+        "Look for a directly named listener and check the time or auxiliary.",
+        "Tell takes me directly and becomes told in past time. He can refer to a third person; the task does not establish otherwise."
+      ],
+      "tip": "The instruction says say or tell, but sentences in past time require their inflected forms said or told."
+    },
+    {
+      "id": "8(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Complete with the correct form of say or tell: Never ___ it again!",
+      "answer": "say",
+      "steps": [
+        "Look for a directly named listener and check the time or auxiliary.",
+        "It is the content spoken; there is no person-object requiring tell."
+      ],
+      "tip": "The instruction says say or tell, but sentences in past time require their inflected forms said or told."
+    },
+    {
+      "id": "8(vii)",
+      "section": "Section B — Language use",
+      "prompt": "Complete with the correct form of say or tell: Don’t ___ anybody what you have seen.",
+      "answer": "tell",
+      "steps": [
+        "Look for a directly named listener and check the time or auxiliary.",
+        "Anybody is the listener-object."
+      ],
+      "tip": "The instruction says say or tell, but sentences in past time require their inflected forms said or told."
+    },
+    {
+      "id": "8(viii)",
+      "section": "Section B — Language use",
+      "prompt": "Complete with the correct form of say or tell: Did she ___ you what happened?",
+      "answer": "tell",
+      "steps": [
+        "Look for a directly named listener and check the time or auxiliary.",
+        "After did, use the base form tell."
+      ],
+      "tip": "The instruction says say or tell, but sentences in past time require their inflected forms said or told."
+    },
+    {
+      "id": "8(ix)",
+      "section": "Section B — Language use",
+      "prompt": "Complete with the correct form of say or tell: My sister couldn’t help. She ___ me to ask Janeth.",
+      "answer": "told",
+      "steps": [
+        "Look for a directly named listener and check the time or auxiliary.",
+        "Tell someone to do something becomes told me to ask in the past."
+      ],
+      "tip": "The instruction says say or tell, but sentences in past time require their inflected forms said or told."
+    },
+    {
+      "id": "9",
+      "section": "Section C — Literature",
+      "prompt": "Show how poetic language differs from ordinary conversation, giving three points from each of two poems.",
+      "answer": "Model response:\nPoetic language can compress experience through patterns, images and irony. A Freedom Song by Marjorie Oludhe Macgoye and Building the Nation by Henry Barlow show these features while remaining understandable.\nIn A Freedom Song, the recurring address to Atieno acts as a refrain. Its return gives the poem a songlike pattern and keeps the girl’s situation before the reader. This organised recurrence differs from an ordinary spontaneous conversation. Sound patterning also helps bind its lines together: related ending sounds connect observations about work and reward. The pattern makes unequal treatment memorable rather than presenting it only as a factual statement. A third feature is the ironic association of freedom with the young worker’s restricted life. The title and the child’s exploitation pull in opposite directions, requiring the reader to question whose freedom is being celebrated.\nIn Building the Nation, the speaker repeatedly relates everyday events to the patriotic idea of nation building. This deliberate verbal pattern links unequal experiences under one public slogan. The poem also uses vivid bodily and meal imagery. The official’s abundant hospitality is placed beside the driver’s hunger, making class inequality visible through physical experience. Finally, irony exposes the difference between public duty and private enjoyment. The official’s account presents privilege as national service, while the driver’s experience encourages readers to judge that claim critically.\nBoth poems therefore arrange language to do more than communicate literal information. Refrain, patterned sounds, images and irony lead readers to hear contrasts and infer criticism that would require a longer explanation in ordinary conversation.",
+      "steps": [
+        "Select two prescribed poems and three distinct language features in each.",
+        "Use accurate descriptions of the refrain, sound patterns, title, meal imagery and ironic contrasts.",
+        "Explain the effect of each feature; avoid claiming that ordinary speech can never contain imagery or repetition."
+      ]
+    },
+    {
+      "id": "10",
+      "section": "Section C — Literature",
+      "prompt": "Show liberated, conscious minds in African society, with three points from each of two plays.",
+      "answer": "Model response:\nA liberated mind questions unfair authority and acts with awareness of human dignity. Three Suitors: One Husband by Guillaume Oyono Mbia and This Time Tomorrow by Ngugi wa Thiong’o portray such thinking, even when circumstances limit its success.\nIn Three Suitors: One Husband, Juliette recognises that marriage concerns her own future. Her refusal to accept the elders’ choice challenges the assumption that a daughter should be exchanged for the most rewarding payment. She also values education and her relationship with Oko above a suitor’s wealth or official status. This judgement separates personal worth from prestige and demonstrates independence of thought. Third, her practical plan turns the bride-price system against those using it to control her. The outcome shows ingenuity in confronting a restrictive custom, rather than passive acceptance of the family’s demands.\nIn This Time Tomorrow, the Stranger recognises that isolated poor residents have little power against the demolition plan. His appeal for collective action shows awareness of the structural nature of their problem. He also urges the residents to overcome fear and accept responsibility for defending their interests. This challenges resignation as the only response to poverty. Njango’s questioning of official treatment provides a third form of consciousness. Her insistence that the settlement represents a livelihood, rather than merely a nuisance, exposes the human cost hidden in bureaucratic plans.\nThe plays do not suggest that independent thinking automatically removes every obstacle. They show people identifying injustice, questioning accepted authority and seeking ways to act. Such awareness is an important resource for social change.",
+      "steps": [
+        "Identify consciousness through ideas and actions, not simply through education or wealth.",
+        "Develop three examples per play and connect each with questioning injustice, choosing independently or organising action.",
+        "Acknowledge that insight and success are different: the Stranger’s awareness does not guarantee a successful resistance."
+      ]
+    },
+    {
+      "id": "11",
+      "section": "Section C — Literature",
+      "prompt": "Explain why mistreatment upsets people, with three points from each of two novels.",
+      "answer": "Model response:\nMistreatment disregards another person’s dignity and leaves emotional harm as well as practical consequences. Passed Like a Shadow by B. M. Mapalala and Unanswered Cries by Osman Conteh illustrate the effects within families and personal relationships.\nIn Passed Like a Shadow, Adyeri’s violent treatment of Amoti turns disagreement into fear and humiliation. His conduct makes the home an unsafe place rather than a source of care. His treatment of Vicky’s wish to marry Akena is another example. The demand for an excessive bride price makes her preference subordinate to financial gain, causing frustration and disappointment. John’s assault on Abooki after exploiting her trust provides a third case. It violates her consent and creates distress precisely because she had expected safety from someone she trusted.\nIn Unanswered Cries, Makalay’s pressure to subject Olabisi to cutting causes fear and resistance. The girl’s own wishes are disregarded, showing why coercion is harmful even when adults claim that a custom is beneficial. Social condemnation of an uncircumcised girl adds a second source of mistreatment. The threat of rejection tries to force conformity through shame and undermines a young person’s sense of belonging. Eddy’s damaging reversal in court is a third example. It leaves Olabisi disappointed by a person whose support she expected and reveals how dishonesty can intensify a vulnerable person’s anxiety.\nBoth novels connect mistreatment with broken security and loss of trust. Respectful family relationships, freedom from coercion and honest support would protect people from the fear, shame and disappointment portrayed in these works.",
+      "steps": [
+        "Choose two novels and identify three specific harmful acts or pressures in each.",
+        "For every point, describe the affected person and explain the emotional consequence.",
+        "Treat violence and coercion as the wrongdoer’s responsibility; do not blame the person harmed."
+      ]
+    }
+  ],
+  "summaries": {
+    "Section A — Objective questions": "Choose biography when someone else writes the life account. Modals express permission, ability, uncertainty, obligation or resolve according to context.",
+    "Section B — Language use": "Rearrange events by cause and time. Keep paired conjunctions parallel. Tell normally takes a person directly, whereas say commonly takes words or a message.",
+    "Section C — Literature": "Explain what a poetic device achieves. Literature essays need three distinct developed points from each of two prescribed works, with evidence and a link to the exact claim."
+  },
+  "labelling_note": "All optional literature questions are answered for revision. Question 6(vii) admits a grammatical reading as printed; the intended simultaneous-progressive version is provided. Question 8 requires past forms in several blanks despite saying only say or tell.",
+  "references": [
+    {
+      "title": "NECTA English CSEE 2024 — prescribed-novel event checks",
+      "url": "https://necta.go.tz/publications/Performance%20Analysis%20Books/Candidates%27%20Item%20Response%20Analysis%20%28CIRA%29%20Reports%20/CSEE/2024/022_ENGLISH%20LANGUAGE.pdf"
+    },
+    {
+      "title": "Building the Nation — Rwanda Education Board English reader",
+      "url": "https://elearning.reb.rw/pluginfile.php/20272/mod_resource/content/1/English%20LE%20SB%20Year%203.pdf"
+    }
+  ]
+}

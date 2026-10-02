@@ -1,0 +1,301 @@
+{
+  "exam": "Hisabati-S4-2024.pdf",
+  "output": "Hisabati-S4-2024-AnswerKey.pdf",
+  "subject": "Hisabati",
+  "level": "Standard Four / Darasa la Nne",
+  "year": "2024",
+  "code": "04",
+  "exam_type": "National Assessment",
+  "question_count": "Maswali 5, kila moja lina vipengele 5",
+  "language": "sw",
+  "reviewed": true,
+  "expected_parts": [
+    "1(a)",
+    "1(b)",
+    "1(c)",
+    "1(d)",
+    "1(e)",
+    "2(a)",
+    "2(b)",
+    "2(c)",
+    "2(d)",
+    "2(e)",
+    "3(a)",
+    "3(b)",
+    "3(c)",
+    "3(d)",
+    "3(e)",
+    "4(a)",
+    "4(b)",
+    "4(c)",
+    "4(d)",
+    "4(e)",
+    "5(a)",
+    "5(b)",
+    "5(c)",
+    "5(d)",
+    "5(e)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Swali 1: Namba na Thamani ya Tarakimu",
+      "prompt": "Jumlisha 78 + 11.",
+      "steps": [
+        "Mamoja: 8 + 1 = 9.",
+        "Makumi: 7 + 1 = 8."
+      ],
+      "answer": "89."
+    },
+    {
+      "id": "1(b)",
+      "section": "Swali 1: Namba na Thamani ya Tarakimu",
+      "prompt": "Jumlisha 746 + 437.",
+      "steps": [
+        "Mamoja: 6 + 7 = 13; andika 3, beba 1.",
+        "Makumi: 4 + 3 + 1 = 8.",
+        "Mamia: 7 + 4 = 11."
+      ],
+      "answer": "1,183."
+    },
+    {
+      "id": "1(c)",
+      "section": "Swali 1: Namba na Thamani ya Tarakimu",
+      "prompt": "Andika 300 + 60 + 5 kwa kifupi.",
+      "steps": [
+        "300 + 60 = 360.",
+        "360 + 5 = 365."
+      ],
+      "answer": "365."
+    },
+    {
+      "id": "1(d)",
+      "section": "Swali 1: Namba na Thamani ya Tarakimu",
+      "prompt": "Andika 345 kwa kirefu.",
+      "steps": [
+        "3 mamia ni 300; 4 makumi ni 40; 5 mamoja ni 5.",
+        "Unganisha thamani hizo kwa jumlisha."
+      ],
+      "answer": "300 + 40 + 5."
+    },
+    {
+      "id": "1(e)",
+      "section": "Swali 1: Namba na Thamani ya Tarakimu",
+      "prompt": "Andika XXV kwa namba za Kiarabu.",
+      "steps": [
+        "X = 10 na V = 5.",
+        "10 + 10 + 5 = 25."
+      ],
+      "answer": "25."
+    },
+    {
+      "id": "2(a)",
+      "section": "Swali 2: Mpangilio na Ulinganisho",
+      "prompt": "Jaza nafasi: 1, 3, 5, 7, __.",
+      "steps": [
+        "Kila namba inaongezeka kwa 2.",
+        "7 + 2 = 9."
+      ],
+      "answer": "9."
+    },
+    {
+      "id": "2(b)",
+      "section": "Swali 2: Mpangilio na Ulinganisho",
+      "prompt": "Panga 23, 12, 34, 21, 32, 43, 18 kuanzia ndogo hadi kubwa.",
+      "steps": [
+        "Linganisha makumi kwanza, kisha mamoja.",
+        "Panga makumi ya 1, ya 2, ya 3, kisha ya 4."
+      ],
+      "answer": "12, 18, 21, 23, 32, 34, 43."
+    },
+    {
+      "id": "2(c)",
+      "section": "Swali 2: Mpangilio na Ulinganisho",
+      "prompt": "Jaza namba ya Kirumi: XII, XIV, XVI, __, XX.",
+      "steps": [
+        "Hizo ni 12, 14, 16, __, 20; ongezeko ni 2.",
+        "16 + 2 = 18, nayo ni XVIII."
+      ],
+      "answer": "XVIII."
+    },
+    {
+      "id": "2(d)",
+      "section": "Swali 2: Mpangilio na Ulinganisho",
+      "prompt": "Jaza nafasi: 998, 999, 1000, __.",
+      "steps": [
+        "Kila namba inaongezeka kwa 1.",
+        "1,000 + 1 = 1,001."
+      ],
+      "answer": "1,001."
+    },
+    {
+      "id": "2(e)",
+      "section": "Swali 2: Mpangilio na Ulinganisho",
+      "prompt": "Nguvumali ilivuna magunia 300 mwaka wa kwanza na huongeza 50 kila mwaka. Mwaka wa tano ni mangapi?",
+      "steps": [
+        "Kuna ongezeko mara nne baada ya mwaka wa kwanza.",
+        "300 + 4 x 50 = 500."
+      ],
+      "answer": "Magunia 500."
+    },
+    {
+      "id": "3(a)",
+      "section": "Swali 3: Matendo na Vipimo vya Muda",
+      "prompt": "Jumlisha sh. 2,150 + sh. 950.",
+      "steps": [
+        "2,150 + 900 = 3,050.",
+        "3,050 + 50 = 3,100."
+      ],
+      "answer": "Sh. 3,100."
+    },
+    {
+      "id": "3(b)",
+      "section": "Swali 3: Matendo na Vipimo vya Muda",
+      "prompt": "Zidisha sh. 250 kwa 30.",
+      "steps": [
+        "250 x 3 = 750.",
+        "750 x 10 = 7,500."
+      ],
+      "answer": "Sh. 7,500."
+    },
+    {
+      "id": "3(c)",
+      "section": "Swali 3: Matendo na Vipimo vya Muda",
+      "prompt": "Andika kwa maneno muda katika saa iliyooneshwa.",
+      "steps": [
+        "Mkono mrefu wa dakika uko 3, yaani dakika 15.",
+        "Mkono mfupi uko baada ya 8; kwa usomaji wa Kiswahili huo ni saa mbili."
+      ],
+      "answer": "Saa mbili na robo (8:15 kwa mfumo wa kimataifa)."
+    },
+    {
+      "id": "3(d)",
+      "section": "Swali 3: Matendo na Vipimo vya Muda",
+      "prompt": "Andika saa mbili kasoro robo kwa namba.",
+      "steps": [
+        "Kasoro robo ni dakika 15 kabla ya saa inayotajwa.",
+        "Kwa mfumo wa kuhesabu saa za Kiswahili: 2:00 - dakika 15 = 1:45."
+      ],
+      "answer": "1:45 kwa saa za Kiswahili; sawa na 7:45 katika mfumo wa kimataifa."
+    },
+    {
+      "id": "3(e)",
+      "section": "Swali 3: Matendo na Vipimo vya Muda",
+      "prompt": "Jumlisha saa 4 dakika 30 na saa 2 dakika 45.",
+      "steps": [
+        "Dakika 30 + 45 = 75 = saa 1 dakika 15.",
+        "Saa 4 + 2 + 1 = 7."
+      ],
+      "answer": "Saa 7 dakika 15."
+    },
+    {
+      "id": "4(a)",
+      "section": "Swali 4: Maumbo na Vipimo",
+      "prompt": "Mraba una pembe ngapi?",
+      "steps": [
+        "Mraba una ncha nne.",
+        "Kila ncha ina pembe moja ya kulia."
+      ],
+      "answer": "Pembe 4."
+    },
+    {
+      "id": "4(b)",
+      "section": "Swali 4: Maumbo na Vipimo",
+      "prompt": "Chora umbo lenye pembe tatu.",
+      "steps": [
+        "Chagua pointi tatu ambazo haziko katika mstari mmoja.",
+        "Ziunganishe kwa pande tatu zilizonyooka."
+      ],
+      "answer": "Pembetatu yenye pembe tatu.",
+      "drawing": "triangle"
+    },
+    {
+      "id": "4(c)",
+      "section": "Swali 4: Maumbo na Vipimo",
+      "prompt": "Tafuta mzingo wa mraba wenye upande sm 14.",
+      "steps": [
+        "Mraba una pande nne sawa.",
+        "4 x 14 = 56."
+      ],
+      "answer": "Sm 56."
+    },
+    {
+      "id": "4(d)",
+      "section": "Swali 4: Maumbo na Vipimo",
+      "prompt": "Chumba cha mstatili kina mzingo m 54 na urefu m 17. Tafuta upana.",
+      "steps": [
+        "Urefu + upana = 54 / 2 = 27.",
+        "Upana = 27 - 17."
+      ],
+      "answer": "M 10."
+    },
+    {
+      "id": "4(e)",
+      "section": "Swali 4: Maumbo na Vipimo",
+      "prompt": "Pembetatu ina mzingo sm 70; pande mbili ni sm 24 na sm 25. Tafuta ya tatu.",
+      "steps": [
+        "24 + 25 = 49.",
+        "70 - 49 = 21."
+      ],
+      "answer": "Sm 21."
+    },
+    {
+      "id": "5(a)",
+      "section": "Swali 5: Kusoma Takwimu",
+      "prompt": "Miti mingapi ilipandwa mwaka 2011?",
+      "steps": [
+        "Hesabu picha saba katika kila mstari wa 2011.",
+        "7 + 7 = 14."
+      ],
+      "answer": "Miti 14."
+    },
+    {
+      "id": "5(b)",
+      "section": "Swali 5: Kusoma Takwimu",
+      "prompt": "Mwaka gani una miti michache zaidi?",
+      "steps": [
+        "Hesabu 2011:14, 2012:8 na 2013:11.",
+        "Idadi ndogo zaidi ni 8."
+      ],
+      "answer": "2012."
+    },
+    {
+      "id": "5(c)",
+      "section": "Swali 5: Kusoma Takwimu",
+      "prompt": "Tofauti ya miti ya 2011 na 2012 ni ngapi?",
+      "steps": [
+        "2011 ina 14, 2012 ina 8.",
+        "14 - 8 = 6."
+      ],
+      "answer": "Miti 6."
+    },
+    {
+      "id": "5(d)",
+      "section": "Swali 5: Kusoma Takwimu",
+      "prompt": "Mwaka gani una miti mingi zaidi?",
+      "steps": [
+        "Linganisha 14, 8 na 11.",
+        "14 ndiyo kubwa, nayo ni ya 2011."
+      ],
+      "answer": "2011."
+    },
+    {
+      "id": "5(e)",
+      "section": "Swali 5: Kusoma Takwimu",
+      "prompt": "Tafuta jumla ya miti katika miaka mitatu.",
+      "steps": [
+        "Jumlisha idadi zote tatu.",
+        "14 + 8 + 11 = 33."
+      ],
+      "answer": "Miti 33."
+    }
+  ],
+  "summaries": {
+    "Swali 1: Namba na Thamani ya Tarakimu": "Zingatia nafasi ya tarakimu na kanuni za namba za Kirumi.",
+    "Swali 2: Mpangilio na Ulinganisho": "Tambua ongezeko au upungufu; hesabu nafasi kati ya namba.",
+    "Swali 3: Matendo na Vipimo vya Muda": "Weka vipimo sawa; dakika 60 ni saa moja.",
+    "Swali 4: Maumbo na Vipimo": "Tumia idadi ya pande, kanuni ya mzingo na ubadilishaji wa vipimo.",
+    "Swali 5: Kusoma Takwimu": "Soma ufunguo wa picha na hesabu kila alama kwa makini."
+  },
+  "sha256": "c726a798ee234d79aa523257afa96a8f97386650ad0dd5edbc2e19b47d1bb94b"
+}

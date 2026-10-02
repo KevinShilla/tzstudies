@@ -1,0 +1,472 @@
+{
+  "exam": "BasicMath-F4-2024.pdf",
+  "output": "BasicMath-F4-2024-AnswerKey.pdf",
+  "subject": "Basic Mathematics",
+  "level": "Form Four",
+  "year": "2024",
+  "code": "041",
+  "exam_type": "Certificate of Secondary Education Examination (CSEE)",
+  "question_count": "14 compulsory questions; 40 answered parts",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "e5c383aec199ed4391f1b7afcd85aa0a39fede0591fd497e1a4aa40a6b445883",
+  "expected_parts": [
+    "1(a)",
+    "1(b)(i)",
+    "1(b)(ii)",
+    "2(a)",
+    "2(b)",
+    "3(a)",
+    "3(b)(i)",
+    "3(b)(ii)",
+    "4(a)",
+    "4(b)",
+    "5(a)(i)",
+    "5(a)(ii)",
+    "5(b)(i)",
+    "5(b)(ii)",
+    "6(a)",
+    "6(b)(i)",
+    "6(b)(ii)",
+    "7(a)",
+    "7(b)",
+    "8(a)",
+    "8(b)",
+    "9(a)",
+    "9(b)",
+    "10(a)",
+    "10(b)",
+    "11(a)(i)",
+    "11(a)(ii)",
+    "11(a)(iii)",
+    "11(b)",
+    "12(a)(i)",
+    "12(a)(ii)",
+    "12(b)(i)",
+    "12(b)(ii)",
+    "13(a)(i)",
+    "13(a)(ii)",
+    "13(b)",
+    "14(a)(i)",
+    "14(a)(ii)",
+    "14(b)(i)",
+    "14(b)(ii)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Find the largest equal squares that tile a board 54 cm by 78 cm.",
+      "answer": "Each square has side 6 cm (area 36 cm²).",
+      "steps": [
+        "The largest side must divide both board dimensions, so find GCF(54,78).",
+        "54 = 2 × 3³ and 78 = 2 × 3 × 13; common factor = 2 × 3 = 6. The board fits 9 × 13 such squares."
+      ]
+    },
+    {
+      "id": "1(b)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Of 40 students, 17 are boys and the rest girls. Find both percentages.",
+      "answer": "Girls: 57.5%; boys: 42.5%.",
+      "steps": [
+        "Girls = 40 − 17 = 23.",
+        "Girls percentage = (23/40) × 100 = 57.5%; boys = (17/40) × 100 = 42.5%."
+      ]
+    },
+    {
+      "id": "1(b)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Express the boys’ share of the class as a decimal.",
+      "answer": "0.425 of the class (17 boys).",
+      "steps": [
+        "The fraction of boys is 17/40.",
+        "Multiply top and bottom by 25: 17/40 = 425/1000 = 0.425."
+      ]
+    },
+    {
+      "id": "2(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Express (5 + √7)/(3 + √7) as a + b√c with integer a,b,c.",
+      "answer": "4 − √7; a = 4, b = −1, c = 7.",
+      "steps": [
+        "Multiply by conjugate (3 − √7)/(3 − √7).",
+        "Numerator = 15 − 5√7 + 3√7 − 7 = 8 − 2√7; denominator = 9 − 7 = 2. Divide by 2."
+      ]
+    },
+    {
+      "id": "2(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Without tables or a calculator, solve 3 log₃x + 4 = log₃24.",
+      "answer": "x = 2/3.",
+      "steps": [
+        "For x > 0, use 4 = log₃81 and 3 log₃x = log₃x³.",
+        "log₃(81x³) = log₃24 gives x³ = 24/81 = 8/27; take the positive cube root."
+      ]
+    },
+    {
+      "id": "3(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Of 100 students, 45 prefer Music, 40 Theatre Arts and 5 both. Use a formula to find those preferring neither.",
+      "answer": "20 students.",
+      "steps": [
+        "n(M ∪ T) = n(M) + n(T) − n(M ∩ T) = 45 + 40 − 5 = 80.",
+        "Neither = 100 − 80 = 20."
+      ]
+    },
+    {
+      "id": "3(b)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Among 20 offices, table counts 1,2,3,4,5,6 occur in 4,5,6,2,1,2 offices respectively. Find P(two tables).",
+      "answer": "1/4.",
+      "steps": [
+        "Five offices have exactly two tables.",
+        "Probability = favourable offices/total offices = 5/20 = 1/4."
+      ]
+    },
+    {
+      "id": "3(b)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Find P(at least five tables).",
+      "answer": "3/20.",
+      "steps": [
+        "At least five includes five or six tables.",
+        "Favourable offices = 1 + 2 = 3, so probability = 3/20."
+      ]
+    },
+    {
+      "id": "4(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "A(6,−4),B(8,4),P(6,1),Q(7,5): determine whether AB ∥ PQ.",
+      "answer": "Yes, AB ∥ PQ.",
+      "steps": [
+        "mAB = [4 − (−4)]/(8 − 6) = 8/2 = 4.",
+        "mPQ = (5 − 1)/(7 − 6) = 4. Equal gradients give parallel lines; the lines are distinct because their intercepts differ."
+      ]
+    },
+    {
+      "id": "4(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "a = 2i − 7j and 2a + 3b = 13i − 2j. Find b.",
+      "answer": "b = 3i + 4j, or (3,4).",
+      "steps": [
+        "2a = 4i − 14j. Subtract from the stated equation: 3b = (13 − 4)i + (−2 + 14)j = 9i + 12j.",
+        "Divide both components by 3."
+      ]
+    },
+    {
+      "id": "5(a)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "A regular hexagonal plot of area 720 m² is inscribed in a circle of radius r. Find r to the nearest tens.",
+      "answer": "20 m.",
+      "steps": [
+        "Six equilateral triangles of side r have total area 6(√3/4)r² = (3√3/2)r².",
+        "Set (3√3/2)r² = 720, giving r² = 480/√3 = 160√3 and r ≈ 16.6472 m.",
+        "Round to the nearest ten metres: 16.6472 is closer to 20 than to 10."
+      ]
+    },
+    {
+      "id": "5(a)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Give the same radius to the nearest tenth.",
+      "answer": "16.6 m.",
+      "steps": [
+        "r = √(160√3) ≈ 16.6472 m.",
+        "Keep one decimal place; the next digit is 4, so the tenth remains 6."
+      ]
+    },
+    {
+      "id": "5(b)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "In the plot diagram, A and D are right angles, A,E,D are collinear and B,E,C are collinear. Prove the triangles similar.",
+      "answer": "△AEB ∼ △DEC by AA.",
+      "steps": [
+        "∠BAE = ∠CDE = 90°.",
+        "∠AEB = ∠DEC because they are vertically opposite. Two equal corresponding angles give similarity; A ↔ D, E ↔ E, B ↔ C."
+      ]
+    },
+    {
+      "id": "5(b)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "AB = 36 m, AE = 24 m and ED = 32 m. Find CD.",
+      "answer": "48 m.",
+      "steps": [
+        "By similarity, CD/AB = DE/AE = 32/24 = 4/3.",
+        "CD = 36 × 4/3 = 48 m."
+      ]
+    },
+    {
+      "id": "6(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "850 ml rainwater is collected per minute from 8:10 a.m. to 11:52 a.m. Find the litres collected.",
+      "answer": "188.7 litres.",
+      "steps": [
+        "Elapsed time = 3 hours 42 minutes = 222 minutes.",
+        "Volume = 850 × 222 = 188,700 ml = 188.7 litres."
+      ]
+    },
+    {
+      "id": "6(b)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Mary’s travel time t seconds varies inversely with speed v m/s; 30 minutes at 10 m/s. Write t in terms of v.",
+      "answer": "t = 18,000/v.",
+      "steps": [
+        "t = k/v. Convert 30 minutes to 1800 seconds.",
+        "k = tv = 1800 × 10 = 18,000, giving the required equation."
+      ]
+    },
+    {
+      "id": "6(b)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "What average speed gets Mary home in 15 minutes?",
+      "answer": "20 m/s.",
+      "steps": [
+        "15 minutes = 900 seconds.",
+        "900 = 18,000/v gives v = 18,000/900 = 20 m/s."
+      ]
+    },
+    {
+      "id": "7(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "The sum and difference of Amina’s and Bakar’s ages are in ratio 5:4. Find the ratio of their ages.",
+      "answer": "9:1, taking Amina as the older person as in A − B.",
+      "steps": [
+        "Let A + B = 5k and A − B = 4k. Add: 2A = 9k; subtract: 2B = k.",
+        "A/B = (9k/2)/(k/2) = 9."
+      ],
+      "tip": "If Bakar is the older person instead, the respective Amina:Bakar ratio is 1:9. The larger-age:smaller-age ratio is always 9:1."
+    },
+    {
+      "id": "7(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Extract the trial balance from the July cash account.",
+      "answer": "Debits: Purchases 1,235,000; Rent 110,000; Wages 55,000; Cash 410,000. Credits: Capital 1,000,000; Sales 810,000. Each total = Tsh 1,810,000.",
+      "steps": [
+        "Purchases = 700,000 + 300,000 + 235,000 = 1,235,000. Sales = 500,000 + 310,000 = 810,000.",
+        "Purchases, expenses and cash carry debit balances; sales and capital carry credit balances.",
+        "Check debit sum 1,235,000 + 110,000 + 55,000 + 410,000 = 1,810,000; credit sum 1,000,000 + 810,000 = 1,810,000."
+      ]
+    },
+    {
+      "id": "8(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Monthly loan instalments are Tsh 20,000,22,000,24,000,…, ending with 114,000. How long was repayment?",
+      "answer": "48 months (4 years).",
+      "steps": [
+        "This AP has first term 20,000 and difference 2,000.",
+        "Final term: 114,000 = 20,000 + (n − 1)2,000. Hence n − 1 = 47 and n = 48."
+      ]
+    },
+    {
+      "id": "8(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Find the total loan repaid by those instalments.",
+      "answer": "Tsh 3,216,000.",
+      "steps": [
+        "Sum of n AP instalments = (n/2)(first + last).",
+        "S = (48/2)(20,000 + 114,000) = 24 × 134,000 = 3,216,000."
+      ]
+    },
+    {
+      "id": "9(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Show that 4 sin75° = √6 + √2.",
+      "answer": "4 sin75° = √6 + √2.",
+      "steps": [
+        "Use sin(45° + 30°) = sin45°cos30° + cos45°sin30°.",
+        "sin75° = (√2/2)(√3/2) + (√2/2)(1/2) = (√6 + √2)/4. Multiply both sides by 4."
+      ]
+    },
+    {
+      "id": "9(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "A vertical post AB is 6 m high; wire AC is 10 m and ground points C,D are 4 m apart. Find wire AD in surd form.",
+      "answer": "If D is 4 m farther from the base than C: AD = 6√5 m. If D is 4 m closer: AD = 2√13 m. The point order is needed to choose one.",
+      "steps": [
+        "In right triangle ABC, BC = √(10² − 6²) = 8 m.",
+        "If ground order is B,C,D, then BD = 8 + 4 = 12 and AD = √(6² + 12²) = √180 = 6√5.",
+        "If order is B,D,C, BD = 8 − 4 = 4 and AD = √(6² + 4²) = √52 = 2√13."
+      ],
+      "tip": "The question gives no diagram or ground-point order. These are the two collinear placements consistent with the stated lengths; neither may be selected without an additional condition."
+    },
+    {
+      "id": "10(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "A candidate needs an average of at least 53 in two tests and scores 54 in the first. Find the least second-test mark.",
+      "answer": "52 marks.",
+      "steps": [
+        "Let the second mark be x: (54 + x)/2 ≥ 53.",
+        "54 + x ≥ 106 gives x ≥ 52; the least value is 52."
+      ]
+    },
+    {
+      "id": "10(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "A rectangular garden has area 171 m² and its fence uses 56 m of wire. Find its dimensions.",
+      "answer": "19 m by 9 m.",
+      "steps": [
+        "Perimeter 2(l + w) = 56 gives l + w = 28; also lw = 171.",
+        "Set w = 28 − l: l(28 − l) = 171, so l² − 28l + 171 = 0.",
+        "Factor (l − 19)(l − 9) = 0. The two dimensions are 19 and 9; check 19 × 9 = 171 and 2(19 + 9) = 56."
+      ]
+    },
+    {
+      "id": "11(a)(i)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Classes 65–69,…,95–99 have cumulative frequencies 10,22,43,49,58,62,66. Find the mean using assumed mean 77, to 2 decimal places.",
+      "answer": "78.52 marks.",
+      "steps": [
+        "Subtract consecutive cumulative totals to obtain frequencies 10,12,21,6,9,4,4. Midpoints are 67,72,77,82,87,92,97.",
+        "With u = (midpoint − 77)/5, values are −2,−1,0,1,2,3,4. Products fu are −20,−12,0,6,18,12,16; sum = 20.",
+        "Mean = 77 + 5(20/66) = 78.51515…, rounding to 78.52."
+      ]
+    },
+    {
+      "id": "11(a)(ii)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Draw the cumulative-frequency curve (ogive).",
+      "answer": "Plot (64.5,0),(69.5,10),(74.5,22),(79.5,43),(84.5,49),(89.5,58),(94.5,62),(99.5,66).",
+      "steps": [
+        "A less-than ogive uses upper class boundaries against cumulative frequency. Begin at the first lower boundary with zero.",
+        "Plot the eight labelled points on consistent scales and join them in increasing order, as shown."
+      ],
+      "image": "answer_keys/figures/BasicMath-F4-2024-ogive.png"
+    },
+    {
+      "id": "11(a)(iii)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Calculate the grouped mode to 3 decimal places.",
+      "answer": "76.375 marks.",
+      "steps": [
+        "Frequencies are 10,12,21,6,9,4,4. Modal class is 75–79 with lower boundary 74.5 and width 5.",
+        "d₁ = 21 − 12 = 9; d₂ = 21 − 6 = 15. Mode = 74.5 + [9/(9 + 15)] × 5 = 76.375."
+      ]
+    },
+    {
+      "id": "11(b)",
+      "section": "Section B — Worked solutions",
+      "prompt": "PT is tangent to a circle of radius 5 cm. P,C,O are collinear, C is on the near circumference and PC = 8 cm. Find PT.",
+      "answer": "12 cm.",
+      "steps": [
+        "OP = PC + CO = 8 + 5 = 13 cm. The radius OT is perpendicular to tangent PT.",
+        "In right triangle OTP, PT² = OP² − OT² = 13² − 5² = 144, so PT = 12 cm."
+      ]
+    },
+    {
+      "id": "12(a)(i)",
+      "section": "Section B — Worked solutions",
+      "prompt": "A sphere has surface area 113.04 cm². Find its diameter using π = 3.14.",
+      "answer": "6 cm.",
+      "steps": [
+        "Surface area = 4πr², so r² = 113.04/(4 × 3.14) = 9.",
+        "r = 3 cm; diameter = 2r = 6 cm."
+      ]
+    },
+    {
+      "id": "12(a)(ii)",
+      "section": "Section B — Worked solutions",
+      "prompt": "75.360 litres of water fill part of a cylinder of diameter 40 cm. Find the water height.",
+      "answer": "60 cm (using π = 3.14).",
+      "steps": [
+        "Volume = 75.360 × 1000 = 75,360 cm³; radius = 20 cm.",
+        "V = πr²h gives h = 75,360/(3.14 × 20²) = 75,360/1256 = 60 cm."
+      ]
+    },
+    {
+      "id": "12(b)(i)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Find nautical miles between A(18°N,12°E) and B(65°N,12°E).",
+      "answer": "2820 nautical miles.",
+      "steps": [
+        "Same meridian and same hemisphere give angle 65 − 18 = 47°.",
+        "One degree of meridian arc is 60 nautical miles: 47 × 60 = 2820."
+      ]
+    },
+    {
+      "id": "12(b)(ii)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Find nautical miles between C(31°S,76°W) and D(22°N,76°W).",
+      "answer": "3180 nautical miles.",
+      "steps": [
+        "The points cross the equator, so angular separation = 31 + 22 = 53°.",
+        "Distance = 53 × 60 = 3180 nautical miles."
+      ]
+    },
+    {
+      "id": "13(a)(i)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Roza’s R = [[2,3],[5,−6]], Juma’s J = [[−6,2],[4,3]]. Find 2R + 3J.",
+      "answer": "[[−14,12],[22,−3]].",
+      "steps": [
+        "2R = [[4,6],[10,−12]] and 3J = [[−18,6],[12,9]].",
+        "Add corresponding entries: [[4 − 18,6 + 6],[10 + 12,−12 + 9]]."
+      ]
+    },
+    {
+      "id": "13(a)(ii)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Show that the difference between the determinants is ±1.",
+      "answer": "det R − det J = −1; reversing the subtraction gives +1.",
+      "steps": [
+        "det R = 2(−6) − 3(5) = −27. det J = (−6)(3) − 2(4) = −26.",
+        "Difference = −27 − (−26) = −1; the absolute difference is 1."
+      ]
+    },
+    {
+      "id": "13(b)",
+      "section": "Section B — Worked solutions",
+      "prompt": "A 72 m by 88 m farm is enlarged with scale factor 4. Find its new area.",
+      "answer": "101,376 m².",
+      "steps": [
+        "Original area = 72 × 88 = 6336 m². A length enlargement of 4 multiplies area by 4² = 16.",
+        "New area = 6336 × 16 = 101,376 m². Equivalently, new dimensions are 288 m and 352 m."
+      ]
+    },
+    {
+      "id": "14(a)(i)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Quiz score is given by y = 3x² for x correct answers. Find the score for 8 correct answers.",
+      "answer": "192 points.",
+      "steps": [
+        "Substitute x = 8 into the stated function.",
+        "y = 3(8²) = 3 × 64 = 192."
+      ]
+    },
+    {
+      "id": "14(a)(ii)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Give the domain and range of the inverse of the quiz function y = 3x².",
+      "answer": "For quiz counts: inverse domain = {3n² : n = 0,1,2,…}, inverse range = {0,1,2,…}. In the continuous nonnegative model, both are [0,∞).",
+      "steps": [
+        "The original input x counts correct answers, so x ≥ 0; choose the nonnegative inverse f⁻¹(y) = √(y/3).",
+        "An inverse’s domain is the original range, and its range is the original domain. For integer counts, original outputs are 0,3,12,27,48,… ."
+      ],
+      "tip": "Over all real x the function 3x² is not one-to-one. The quiz context supplies the nonnegative restriction needed for an inverse function."
+    },
+    {
+      "id": "14(b)(i)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Foods I and II provide vitamins A,B,C per kg as (1,2,3) and (2,2,1), cost Tsh 6000 and 10000. Requirements are at least 10,12,8 units. Formulate a minimum-cost model.",
+      "answer": "Minimise C = 6000x + 10000y, subject to x + 2y ≥ 10; 2x + 2y ≥ 12; 3x + y ≥ 8; x,y ≥ 0.",
+      "steps": [
+        "Let x and y be kilograms of foods I and II. Multiply each vitamin content by its food quantity and add.",
+        "At least requires ≥ for every nutrient. Food quantities are nonnegative; cost is the weighted sum of kilograms."
+      ]
+    },
+    {
+      "id": "14(b)(ii)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Find the minimum mixture cost.",
+      "answer": "Tsh 52,000, using 2 kg of food I and 4 kg of food II.",
+      "steps": [
+        "Feasible lower-bound vertices are (0,8),(1,5),(2,4),(10,0). The intersection of x + 2y = 10 and x + y = 6 gives (2,4).",
+        "Costs at the vertices are 80,000; 56,000; 52,000; 60,000 respectively. The smallest is 52,000.",
+        "Check vitamins at (2,4): A = 2 + 8 = 10; B = 4 + 8 = 12; C = 6 + 4 = 10 ≥ 8. All requirements are satisfied."
+      ]
+    }
+  ],
+  "summaries": {
+    "Section A — Worked solutions": "Use dimensions, ratios and rates with consistent units. A complement subtracts a union from the universal total; inverse variation keeps time × speed constant.",
+    "Section B — Worked solutions": "Recover frequencies from cumulative totals before averaging or estimating a mode. Area scales use squared length factors, and inverse functions need an appropriate input domain."
+  },
+  "labelling_note": "Question 9(b) does not specify the order of the ground attachment points. Both possible collinear wire lengths are explained. The inverse in question 14(a) is interpreted on nonnegative question counts."
+}

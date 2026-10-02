@@ -1,0 +1,635 @@
+{
+  "exam": "Kiswahili-F2-2022.pdf",
+  "output": "Kiswahili-F2-2022-AnswerKey.pdf",
+  "subject": "Kiswahili",
+  "level": "Form Two",
+  "year": "2022",
+  "code": "021",
+  "exam_type": "Form Two National Assessment (FTNA)",
+  "question_count": "10 questions; 55 answered parts",
+  "language": "sw",
+  "reviewed": true,
+  "sha256": "06306010d99b606338a6bb1abd2e39df14a3a07d1de60a9b6a4f6c10107df1a1",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(ix)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(a)",
+    "3(b)(i)",
+    "3(b)(ii)",
+    "3(b)(iii)",
+    "3(b)(iv)",
+    "3(b)(v)",
+    "3(c)(i)",
+    "3(c)(ii)",
+    "3(d)",
+    "4(a)",
+    "4(b)",
+    "4(c)",
+    "4(d)",
+    "4(e)",
+    "5(a)",
+    "5(b)",
+    "5(c)",
+    "5(d)",
+    "5(e)",
+    "6(a)",
+    "6(b)",
+    "6(c)",
+    "6(d)",
+    "6(e)",
+    "7(a)",
+    "7(b)",
+    "7(c)",
+    "7(d)",
+    "7(e)",
+    "8(a)",
+    "8(b)",
+    "8(c)",
+    "8(d)",
+    "8(e)",
+    "9(a)",
+    "9(b)",
+    "9(c)",
+    "9(d)",
+    "9(e)",
+    "10"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Sehemu A — Maswali ya kuchagua",
+      "prompt": "Chagua seti ya vipengele vya fani.",
+      "answer": "C — Wahusika, matumizi ya lugha, muundo, mtindo na mandhari.",
+      "steps": [
+        "Tambua dhana inayoulizwa na ulinganishe chaguo.",
+        "Hivi hueleza namna kazi ya fasihi ilivyotengenezwa na kuwasilishwa."
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Sehemu A — Maswali ya kuchagua",
+      "prompt": "Muundo wa mishororo mitano huitwaje?",
+      "answer": "B — Takhmisa.",
+      "steps": [
+        "Tambua dhana inayoulizwa na ulinganishe chaguo.",
+        "Takhmisa ina mishororo mitano kwa ubeti."
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Sehemu A — Maswali ya kuchagua",
+      "prompt": "Bainisha athari hasi ya teknolojia kwa fasihi simulizi.",
+      "answer": "A — Hupunguza hadhi na ubora wa kazi za fasihi, katika matumizi yasiyofaa.",
+      "steps": [
+        "Tambua dhana inayoulizwa na ulinganishe chaguo.",
+        "Hili ndilo chaguo hasi; mengine yanaeleza faida. Si kila matumizi ya teknolojia hupunguza ubora."
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Sehemu A — Maswali ya kuchagua",
+      "prompt": "Ni lipi si chanzo cha utata?",
+      "answer": "B — Kuzingatia taratibu za uandishi.",
+      "steps": [
+        "Tambua dhana inayoulizwa na ulinganishe chaguo.",
+        "Uandishi sahihi huondoa utata; kutouzingatia ndiko kunakoweza kuuleta."
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Sehemu A — Maswali ya kuchagua",
+      "prompt": "Bainisha aina ya sana katika Juma huimba vizuri sana.",
+      "answer": "A — Kielezi.",
+      "steps": [
+        "Tambua dhana inayoulizwa na ulinganishe chaguo.",
+        "Sana kinaongeza kiwango cha vizuri."
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Sehemu A — Maswali ya kuchagua",
+      "prompt": "Chagua sentensi yenye kivumishi cha a-unganifu.",
+      "answer": "D — Janeth wa Dodoma ameingia darasani.",
+      "steps": [
+        "Tambua dhana inayoulizwa na ulinganishe chaguo.",
+        "Wa Dodoma huonesha uhusiano wa Janeth na eneo."
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Sehemu A — Maswali ya kuchagua",
+      "prompt": "Ni kipi hakijahesabiwa kuwa kanuni ya usimulizi katika swali hili?",
+      "answer": "C — Kujua muundo wa matukio, ndilo jibu linalotarajiwa katika taarifa ya NECTA.",
+      "steps": [
+        "Tambua dhana inayoulizwa na ulinganishe chaguo.",
+        "Kanuni zinazolengwa ni mpangilio wa mawazo, matamshi na matumizi sahihi ya lugha. Kwa matumizi ya kawaida, kujua mpangilio wa tukio pia husaidia usimulizi; tofauti ya istilahi katika swali si kukataa umuhimu huo."
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Sehemu A — Maswali ya kuchagua",
+      "prompt": "Ni alama ipi inaweza kutumika badala ya kiunganishi kuunga tungo?",
+      "answer": "Mkato (,), chaguo la tatu lililoandikwa B kimakosa; kwa mpangilio wa A–D ni C.",
+      "steps": [
+        "Tambua dhana inayoulizwa na ulinganishe chaguo.",
+        "Chagua jina na alama, kwa sababu herufi B imechapishwa mara mbili. Mkato hutumiwa katika orodha au tungo zinazofuatana; kuunga vishazi virefu huhitaji pia kuzingatia maana na sarufi."
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Sehemu A — Maswali ya kuchagua",
+      "prompt": "Picha za kamusi husaidia nini?",
+      "answer": "D — Husaidia wasomaji kuwa na kumbukumbu.",
+      "steps": [
+        "Tambua dhana inayoulizwa na ulinganishe chaguo.",
+        "Picha inaunganisha neno na kitu kinachotajwa."
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Sehemu A — Maswali ya kuchagua",
+      "prompt": "Shina la neno ni nini?",
+      "answer": "C — Sehemu yenye mzizi na kiambishi tamati pekee, katika ufafanuzi wa swali.",
+      "steps": [
+        "Tambua dhana inayoulizwa na ulinganishe chaguo.",
+        "Mfano lim-a ni shina lima baada ya kuondoa a-na- katika analima."
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Sehemu A — Maswali ya kuchagua",
+      "prompt": "Oanisha: Nyimbo za kuburudisha.",
+      "answer": "E — Tumbuizo.",
+      "steps": [
+        "Tambua shughuli au lengo la wimbo.",
+        "Tumbuizo hulenga burudani."
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Sehemu A — Maswali ya kuchagua",
+      "prompt": "Oanisha: Nyimbo za kuaga mwaka.",
+      "answer": "G — Kongozi.",
+      "steps": [
+        "Tambua shughuli au lengo la wimbo.",
+        "Kongozi huambatana na kuaga mwaka."
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Sehemu A — Maswali ya kuchagua",
+      "prompt": "Oanisha: Nyimbo za maombolezo.",
+      "answer": "D — Mbolezi.",
+      "steps": [
+        "Tambua shughuli au lengo la wimbo.",
+        "Huimbwa katika misiba."
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Sehemu A — Maswali ya kuchagua",
+      "prompt": "Oanisha: Nyimbo za kilimo.",
+      "answer": "F — Wawe.",
+      "steps": [
+        "Tambua shughuli au lengo la wimbo.",
+        "Huambatana na kazi za kilimo."
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Sehemu A — Maswali ya kuchagua",
+      "prompt": "Oanisha: Nyimbo za jando na unyago.",
+      "answer": "A — Nyiso.",
+      "steps": [
+        "Tambua shughuli au lengo la wimbo.",
+        "Huambatana na mafunzo na shughuli za jando au unyago."
+      ]
+    },
+    {
+      "id": "3(a)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Pendekeza kichwa cha habari kisichozidi maneno matano.",
+      "answer": "Madhara ya Msimamo Mkali",
+      "steps": [
+        "Tambua kwamba kutokusikiliza wengine kunasababisha kutoroka kwa binti na kuvunjika kwa familia.",
+        "Kichwa kina maneno manne na kinaeleza kiini cha kisa."
+      ]
+    },
+    {
+      "id": "3(b)(i)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Eleza Mrama kama lilivyotumika katika habari.",
+      "answer": "Kuharibika au kwenda vibaya.",
+      "steps": [
+        "Tumia tukio linalolizunguka neno, si maana nje ya muktadha.",
+        "Baba hakutaka maisha yake yaende vibaya."
+      ]
+    },
+    {
+      "id": "3(b)(ii)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Eleza Mboni ya jicho lake kama lilivyotumika katika habari.",
+      "answer": "Mtu aliyempenda na kumthamini sana.",
+      "steps": [
+        "Tumia tukio linalolizunguka neno, si maana nje ya muktadha.",
+        "Binti alikuwa wa thamani kubwa kwake."
+      ]
+    },
+    {
+      "id": "3(b)(iii)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Eleza Geti kali kama lilivyotumika katika habari.",
+      "answer": "Mtu aliyebanwa na masharti ya kutoka au kushiriki shughuli nje ya nyumba.",
+      "steps": [
+        "Tumia tukio linalolizunguka neno, si maana nje ya muktadha.",
+        "Binti hakuruhusiwa kwenda disko au ufukweni."
+      ]
+    },
+    {
+      "id": "3(b)(iv)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Eleza Miraba minne kama lilivyotumika katika habari.",
+      "answer": "Mwenye umbo kubwa na nguvu.",
+      "steps": [
+        "Tumia tukio linalolizunguka neno, si maana nje ya muktadha.",
+        "Maelezo yanahusu mwonekano wenye kutisha wa baba."
+      ]
+    },
+    {
+      "id": "3(b)(v)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Eleza Kihoro kama lilivyotumika katika habari.",
+      "answer": "Hofu, huzuni au mshtuko mkubwa wa moyo.",
+      "steps": [
+        "Tumia tukio linalolizunguka neno, si maana nje ya muktadha.",
+        "Mama alipatwa na huzuni nzito baada ya binti kutoweka."
+      ]
+    },
+    {
+      "id": "3(c)(i)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Kwa nini binti alitoroka?",
+      "answer": "Aliona masharti makali nyumbani yakimnyima maisha na uhuru alioutaka, akaamua kutoroka.",
+      "steps": [
+        "Rejea mawazo ya binti kabla ya uamuzi wake.",
+        "Tofautisha sababu ya uamuzi na hukumu kuhusu kama uamuzi ulikuwa mzuri."
+      ]
+    },
+    {
+      "id": "3(c)(ii)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Baba alikuwa na tabia gani?",
+      "answer": "Alikuwa mkali, mwenye msimamo mgumu na asiyetaka mawazo yake yapingwe.",
+      "steps": [
+        "Tumia masharti aliyoweka kwa mke na binti.",
+        "Mwisho anatambua haja ya kusikiliza wengine, hivyo mwanzo hakuwa tayari kufanya hivyo."
+      ]
+    },
+    {
+      "id": "3(d)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Andika funzo la habari.",
+      "answer": "Tusifanye maamuzi kwa ukali na msimamo wa upande mmoja; tusikilize na kushauriana na wengine.",
+      "steps": [
+        "Unganisha madhara ya kutoroka na majuto ya baba.",
+        "Geuza tukio kuwa funzo la jumla bila kuongeza kisa kipya."
+      ]
+    },
+    {
+      "id": "4(a)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Bainisha umbo na kauli: Wanapigana.",
+      "answer": "Umbo: -an-. Kauli: kutendana.",
+      "steps": [
+        "Tenga mzizi na kiambishi cha kauli kabla ya kiishio -a.",
+        "Pig-an-a huonesha wahusika kufanya tendo kwa wao kwa wao."
+      ]
+    },
+    {
+      "id": "4(b)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Bainisha umbo na kauli: Atatusomesha.",
+      "answer": "Umbo: -esh-. Kauli: kutendesha.",
+      "steps": [
+        "Tenga mzizi na kiambishi cha kauli kabla ya kiishio -a.",
+        "Som-esh-a huonesha kusababisha wengine wasome."
+      ]
+    },
+    {
+      "id": "4(c)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Bainisha umbo na kauli: Limelimwa.",
+      "answer": "Umbo: -w-. Kauli: kutendwa.",
+      "steps": [
+        "Tenga mzizi na kiambishi cha kauli kabla ya kiishio -a.",
+        "Lim-w-a huonesha shamba kupokea tendo la kulimwa."
+      ]
+    },
+    {
+      "id": "4(d)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Bainisha umbo na kauli: Amechomewa.",
+      "answer": "Umbo: -ew-. Kauli: kutendewa.",
+      "steps": [
+        "Tenga mzizi na kiambishi cha kauli kabla ya kiishio -a.",
+        "Chom-ew-a huonesha kupokea tendo linalofanywa kwa ajili ya mhusika."
+      ]
+    },
+    {
+      "id": "4(e)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Bainisha umbo na kauli: Amepigika.",
+      "answer": "Umbo: -ik-. Kauli: kutendeka.",
+      "steps": [
+        "Tenga mzizi na kiambishi cha kauli kabla ya kiishio -a.",
+        "Pig-ik-a huonesha hali au uwezekano wa kutendeka."
+      ]
+    },
+    {
+      "id": "5(a)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Bainisha kiwakilishi na aina yake: Yule hapendi ugali.",
+      "answer": "Yule — kiwakilishi kioneshi.",
+      "steps": [
+        "Angalia neno linalosimama badala ya nomino, si linaloambatana nayo tu.",
+        "Yule limesimama badala ya nomino ya mtu."
+      ]
+    },
+    {
+      "id": "5(b)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Bainisha kiwakilishi na aina yake: Sisi tunapenda kusoma.",
+      "answer": "Sisi — kiwakilishi cha nafsi, nafsi ya kwanza wingi.",
+      "steps": [
+        "Angalia neno linalosimama badala ya nomino, si linaloambatana nayo tu.",
+        "Sisi hutaja kundi linalomjumuisha msemaji."
+      ]
+    },
+    {
+      "id": "5(c)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Bainisha kiwakilishi na aina yake: Mtoto wangu amerudi, wako hajarudi.",
+      "answer": "Wako — kiwakilishi kimilikishi.",
+      "steps": [
+        "Angalia neno linalosimama badala ya nomino, si linaloambatana nayo tu.",
+        "Wako linasimama badala ya mtoto wako; wangu katika kishazi cha kwanza ni kivumishi."
+      ]
+    },
+    {
+      "id": "5(d)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Bainisha kiwakilishi na aina yake: Wengi wamepokelewa vizuri.",
+      "answer": "Wengi — kiwakilishi cha idadi isiyodhihirika.",
+      "steps": [
+        "Angalia neno linalosimama badala ya nomino, si linaloambatana nayo tu.",
+        "Wengi limesimama badala ya nomino na kutaja wingi usio na hesabu kamili."
+      ]
+    },
+    {
+      "id": "5(e)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Bainisha kiwakilishi na aina yake: Mrefu wa kimo amefika.",
+      "answer": "Mrefu — kiwakilishi cha sifa.",
+      "steps": [
+        "Angalia neno linalosimama badala ya nomino, si linaloambatana nayo tu.",
+        "Sifa mrefu imetumiwa badala ya nomino ya mtu anayetajwa."
+      ]
+    },
+    {
+      "id": "6(a)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Eleza dhima ya lugha kuhusu Mawasiliano.",
+      "answer": "Lugha huwezesha kupeana habari na kuelewana.",
+      "steps": [
+        "Taja kazi ya lugha katika jamii.",
+        "Mfano ni kuuliza njia na kujibiwa."
+      ]
+    },
+    {
+      "id": "6(b)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Eleza dhima ya lugha kuhusu Elimu.",
+      "answer": "Lugha hutumiwa kufundisha, kujifunza na kueleza maarifa.",
+      "steps": [
+        "Taja kazi ya lugha katika jamii.",
+        "Mwalimu hufafanua somo kwa lugha inayofahamika."
+      ]
+    },
+    {
+      "id": "6(c)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Eleza dhima ya lugha kuhusu Utamaduni.",
+      "answer": "Lugha huhifadhi na kurithisha desturi, historia na maadili.",
+      "steps": [
+        "Taja kazi ya lugha katika jamii.",
+        "Methali hufikisha hekima ya jamii kwa kizazi kingine."
+      ]
+    },
+    {
+      "id": "6(d)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Eleza dhima ya lugha kuhusu Umoja.",
+      "answer": "Lugha ya pamoja huunganisha watu wa jamii tofauti.",
+      "steps": [
+        "Taja kazi ya lugha katika jamii.",
+        "Watu kutoka maeneo mbalimbali wanaweza kushirikiana kwa Kiswahili."
+      ]
+    },
+    {
+      "id": "6(e)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Eleza dhima ya lugha kuhusu Hisia na sanaa.",
+      "answer": "Lugha huwezesha kueleza furaha, huzuni na kubuni kazi za sanaa.",
+      "steps": [
+        "Taja kazi ya lugha katika jamii.",
+        "Shairi linaweza kutoa hisia na kuburudisha."
+      ]
+    },
+    {
+      "id": "7(a)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Fafanua sifa ya misimu kuhusu Kundi maalumu.",
+      "answer": "Misimu hutumiwa zaidi na kundi fulani, kama vijana au watu wa kazi moja.",
+      "steps": [
+        "Eleza sifa na namna inavyojitokeza.",
+        "Maana hutambulika vizuri miongoni mwa kundi hilo."
+      ]
+    },
+    {
+      "id": "7(b)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Fafanua sifa ya misimu kuhusu Muda.",
+      "answer": "Misimu mingi hudumu kwa muda na kubadilika kadiri maisha yanavyobadilika.",
+      "steps": [
+        "Eleza sifa na namna inavyojitokeza.",
+        "Neno maarufu leo linaweza kutotumika baadaye."
+      ]
+    },
+    {
+      "id": "7(c)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Fafanua sifa ya misimu kuhusu Usanifu.",
+      "answer": "Kwa kawaida misimu haianzi kama msamiati rasmi wa lugha sanifu.",
+      "steps": [
+        "Eleza sifa na namna inavyojitokeza.",
+        "Hutumika zaidi katika mazungumzo yasiyo rasmi."
+      ]
+    },
+    {
+      "id": "7(d)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Fafanua sifa ya misimu kuhusu Maana mpya.",
+      "answer": "Misimu huweza kulipa neno la kawaida maana mpya ya kundi.",
+      "steps": [
+        "Eleza sifa na namna inavyojitokeza.",
+        "Mfano msimu mkwanja hutumiwa kumaanisha fedha."
+      ]
+    },
+    {
+      "id": "7(e)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Fafanua sifa ya misimu kuhusu Ubunifu.",
+      "answer": "Misimu huzalishwa kutokana na matukio, kazi, utani au mabadiliko ya maisha.",
+      "steps": [
+        "Eleza sifa na namna inavyojitokeza.",
+        "Jamii hubuni namna fupi na zenye mvuto za kutaja mambo."
+      ]
+    },
+    {
+      "id": "8(a)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Eleza funzo la methali: Samaki mkunje angali mbichi.",
+      "answer": "Mfundishe mtoto au mtu tabia nzuri mapema kabla hajazoea tabia mbaya.",
+      "steps": [
+        "Tafsiri taswira kuwa maelekezo yanayotumika maishani.",
+        "Samaki mbichi hufananishwa na mtu anayefundishika mapema."
+      ]
+    },
+    {
+      "id": "8(b)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Eleza funzo la methali: Mchumia juani hulia kivulini.",
+      "answer": "Mwenye kufanya kazi kwa bidii huvuna matunda ya juhudi zake baadaye.",
+      "steps": [
+        "Tafsiri taswira kuwa maelekezo yanayotumika maishani.",
+        "Jua ni taswira ya taabu na kivuli ni raha baada ya kazi."
+      ]
+    },
+    {
+      "id": "8(c)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Eleza funzo la methali: Akiba haiozi.",
+      "answer": "Tunza rasilimali kwa matumizi ya baadaye au wakati wa shida.",
+      "steps": [
+        "Tafsiri taswira kuwa maelekezo yanayotumika maishani.",
+        "Kilichowekwa akiba kinaweza kusaidia baadaye."
+      ]
+    },
+    {
+      "id": "8(d)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Eleza funzo la methali: Safari ni hatua.",
+      "answer": "Mafanikio hupatikana kwa kuanza na kuendelea hatua kwa hatua.",
+      "steps": [
+        "Tafsiri taswira kuwa maelekezo yanayotumika maishani.",
+        "Usidharau hatua ndogo zinazoelekea kwenye lengo."
+      ]
+    },
+    {
+      "id": "8(e)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Eleza funzo la methali: Akili ni nywele, kila mtu ana zake.",
+      "answer": "Heshimu mawazo ya wengine; watu hutofautiana katika fikra.",
+      "steps": [
+        "Tafsiri taswira kuwa maelekezo yanayotumika maishani.",
+        "Methali inakataa kudhani kwamba mtu mmoja pekee ana akili."
+      ]
+    },
+    {
+      "id": "9(a)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Fafanua uhifadhi wa fasihi kwa Kichwa.",
+      "answer": "Kukariri na kukumbuka kazi, kisha kuisimulia au kuitenda.",
+      "steps": [
+        "Taja njia, namna ya kuitumia na kitu inachohifadhi.",
+        "Mfano ni kukumbuka methali na kuzifundisha watoto."
+      ]
+    },
+    {
+      "id": "9(b)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Fafanua uhifadhi wa fasihi kwa Maandishi.",
+      "answer": "Kuandika hadithi, nyimbo au methali kwenye vitabu na nyaraka.",
+      "steps": [
+        "Taja njia, namna ya kuitumia na kitu inachohifadhi.",
+        "Maandishi huweka kumbukumbu inayoweza kusomwa baadaye."
+      ]
+    },
+    {
+      "id": "9(c)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Fafanua uhifadhi wa fasihi kwa Sauti.",
+      "answer": "Kurekodi masimulizi au nyimbo kwa kinasa sauti.",
+      "steps": [
+        "Taja njia, namna ya kuitumia na kitu inachohifadhi.",
+        "Njia hii huhifadhi matamshi na sauti ya msanii."
+      ]
+    },
+    {
+      "id": "9(d)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Fafanua uhifadhi wa fasihi kwa Picha na video.",
+      "answer": "Kupiga picha au kurekodi video ya utendaji.",
+      "steps": [
+        "Taja njia, namna ya kuitumia na kitu inachohifadhi.",
+        "Video huhifadhi pia miondoko, mavazi na ishara."
+      ]
+    },
+    {
+      "id": "9(e)",
+      "section": "Sehemu B — Ufahamu, sarufi na fasihi",
+      "prompt": "Fafanua uhifadhi wa fasihi kwa Kompyuta na hazina za kidijitali.",
+      "answer": "Kutunza mafaili ya maandishi, sauti na video kwenye kompyuta au hazina mtandaoni.",
+      "steps": [
+        "Taja njia, namna ya kuitumia na kitu inachohifadhi.",
+        "Nakala na utaratibu mzuri wa mafaili hurahisisha kupata na kuhifadhi kazi."
+      ]
+    },
+    {
+      "id": "10",
+      "section": "Sehemu C — Utungaji",
+      "prompt": "Andika insha ya maneno 150–200 yenye hoja nne kuhusu Umuhimu wa Michezo.",
+      "answer": "UMUHIMU WA MICHEZO\nMichezo ni shughuli zinazohusisha mwili au akili kwa kufuata kanuni maalumu. Shuleni na katika jamii, michezo ina umuhimu mkubwa kuliko burudani pekee. Watu wa umri mbalimbali wanapaswa kupata nafasi ya kushiriki michezo inayolingana na uwezo wao.\nKwanza, michezo huimarisha afya na uchangamfu. Kutembea, kukimbia na kucheza mpira husaidia mwili kuwa na nguvu na kuwafanya washiriki waendelee kuwa wachangamfu katika shughuli zao. Ni vizuri kuchagua mchezo unaofaa na kupumzika vya kutosha.\nPili, michezo hujenga ushirikiano. Wachezaji hujifunza kupanga mikakati pamoja, kugawana majukumu na kuheshimu wenzao. Hata wanaposhindwa, hujifunza kuvumiliana na kurekebisha makosa.\nTatu, michezo hukuza vipaji. Mashindano huwapa vijana nafasi ya kuonesha uwezo wao, kufanya mazoezi na kujifunza kutoka kwa walimu. Kipaji kikilelewa vizuri kinaweza kuwa chanzo cha ajira au fursa nyingine.\nNne, michezo huburudisha na kupunguza msongo wa mawazo. Washiriki na watazamaji hupata furaha na kuimarisha uhusiano wao katika jamii. Burudani hiyo inapokuwa na nidhamu huwa na faida zaidi.\nKwa hiyo, familia, shule na jamii ziandae mazingira salama ya michezo. Ushiriki wenye nidhamu unakuza afya, ushirikiano, vipaji na furaha.",
+      "steps": [
+        "Anza na utangulizi na tengeneza aya nne: afya, ushirikiano, vipaji na burudani.",
+        "Toa maelezo kwa kila hoja na malizia kwa hitimisho linalorejelea mada.",
+        "Mfano huu una maneno 169 bila kichwa; hesabu maneno kabla ya kuwasilisha."
+      ]
+    }
+  ],
+  "summaries": {
+    "Sehemu A — Maswali ya kuchagua": "Vipengele vya fani huhusu ujenzi wa kazi. Chagua jina na alama yenyewe pale herufi za majibu zimechapishwa vibaya.",
+    "Sehemu B — Ufahamu, sarufi na fasihi": "Viwakilishi husimama badala ya nomino. Tambua viambishi vya kauli kabla ya kiishio, kisha eleza dhima za lugha na mafunzo ya methali.",
+    "Sehemu C — Utungaji": "Insha yenye hoja nne ihifadhi utangulizi, aya za hoja na hitimisho pamoja na kikomo cha maneno."
+  },
+  "labelling_note": "Swali 1(viii) limechapisha herufi B mara mbili; jibu limetaja alama na nafasi yake. Swali 10 ndilo la utungaji linalopatikana katika karatasi licha ya maelekezo ya kwanza kutaja kuchagua swali moja.",
+  "references": [
+    {
+      "title": "NECTA — Uchambuzi wa Kiswahili FTNA 2022",
+      "url": "https://onlinesys.necta.go.tz/cira/ftna/2022/021_KISWAHILI.pdf"
+    }
+  ]
+}

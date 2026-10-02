@@ -1,0 +1,576 @@
+{
+  "exam": "English - S7 - 2016.pdf",
+  "output": "English-S7-2016-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Seven",
+  "year": "2016",
+  "code": "02",
+  "exam_type": "Primary School Leaving Examination (PSLE)",
+  "question_count": "50 questions",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "e5ec2fc894995fd7952c84a439479fe1de95f9556665b3b73e93b7dded3103a3",
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Section A — Grammar",
+      "prompt": "The window ____ by my father.",
+      "steps": [
+        "The window receives the action, so use the passive voice.",
+        "Past passive = was/were + past participle; singular window takes was opened."
+      ],
+      "answer": "E — was opened"
+    },
+    {
+      "id": "2",
+      "section": "Section A — Grammar",
+      "prompt": "I ____ my teeth every morning when I wake up.",
+      "steps": [
+        "Every morning indicates a routine in the simple present.",
+        "With I, use the base form brush, without -s."
+      ],
+      "answer": "C — brush"
+    },
+    {
+      "id": "3",
+      "section": "Section A — Grammar",
+      "prompt": "I ____ the television when it started raining.",
+      "steps": [
+        "Watching was in progress when another past event happened.",
+        "Use past continuous: I was + watching."
+      ],
+      "answer": "D — was watching"
+    },
+    {
+      "id": "4",
+      "section": "Section A — Grammar",
+      "prompt": "The villagers ____ their environment at the moment.",
+      "steps": [
+        "At the moment signals an action happening now.",
+        "Villagers is plural, so use are + cleaning."
+      ],
+      "answer": "B — are cleaning"
+    },
+    {
+      "id": "5",
+      "section": "Section A — Grammar",
+      "prompt": "While they were playing, the teacher ____ swimming.",
+      "steps": [
+        "Both activities were taking place in the past.",
+        "The teacher is singular, so was completes the past continuous."
+      ],
+      "answer": "C — was"
+    },
+    {
+      "id": "6",
+      "section": "Section A — Grammar",
+      "prompt": "Mr Musa has been teaching at our school ____ ten years now.",
+      "steps": [
+        "Ten years is a duration, not a starting date.",
+        "Use for with a duration; since introduces a starting point."
+      ],
+      "answer": "A — for"
+    },
+    {
+      "id": "7",
+      "section": "Section A — Grammar",
+      "prompt": "We ____ to travel to Mtwara soon.",
+      "steps": [
+        "Soon indicates a future plan.",
+        "The structure is are going to + base verb travel."
+      ],
+      "answer": "B — are going"
+    },
+    {
+      "id": "8",
+      "section": "Section A — Grammar",
+      "prompt": "I asked Juma if he could ____ me a piece of paper.",
+      "steps": [
+        "Juma gives the paper temporarily to the speaker.",
+        "That direction is lend; could requires the base form, not lent."
+      ],
+      "answer": "A — lend"
+    },
+    {
+      "id": "9",
+      "section": "Section A — Grammar",
+      "prompt": "The fisherman has ____ a lot of fish.",
+      "steps": [
+        "Has needs a past participle to form the present perfect.",
+        "The forms are catch, caught, caught."
+      ],
+      "answer": "C — caught"
+    },
+    {
+      "id": "10",
+      "section": "Section A — Grammar",
+      "prompt": "A cheetah normally ____ faster than a tiger.",
+      "steps": [
+        "Normally describes a usual characteristic.",
+        "Singular a cheetah takes the simple-present form runs."
+      ],
+      "answer": "A — runs"
+    },
+    {
+      "id": "11",
+      "section": "Section A — Grammar",
+      "prompt": "We watched TV for ____ hour.",
+      "steps": [
+        "Hour begins with a vowel sound because h is silent.",
+        "Use an before a vowel sound: an hour."
+      ],
+      "answer": "B — an"
+    },
+    {
+      "id": "12",
+      "section": "Section A — Grammar",
+      "prompt": "I have to wake up early ____ be in school on time.",
+      "steps": [
+        "The blank introduces the purpose of waking early.",
+        "So as to is followed by the base verb be."
+      ],
+      "answer": "E — so as to"
+    },
+    {
+      "id": "13",
+      "section": "Section A — Grammar",
+      "prompt": "Many children like ivory sweets, ____?",
+      "steps": [
+        "The statement is positive in the simple present.",
+        "Use a negative do-tag with plural they, and end the question tag with a question mark."
+      ],
+      "answer": "D — don’t they?"
+    },
+    {
+      "id": "14",
+      "section": "Section A — Grammar",
+      "prompt": "I saw a cat in the bush. ____ cat was black in colour.",
+      "steps": [
+        "The cat has already been introduced.",
+        "Use the for the particular cat the reader now knows."
+      ],
+      "answer": "B — The"
+    },
+    {
+      "id": "15",
+      "section": "Section A — Grammar",
+      "prompt": "Chausiku does all the homework ____ she wants to be first in class.",
+      "steps": [
+        "The second clause gives the reason for doing homework.",
+        "Because joins an action to its reason."
+      ],
+      "answer": "E — because"
+    },
+    {
+      "id": "16",
+      "section": "Section A — Grammar",
+      "prompt": "The man ____ shirt was torn was in the academic office.",
+      "steps": [
+        "The shirt belongs to the man.",
+        "Whose expresses possession in a relative clause."
+      ],
+      "answer": "C — whose"
+    },
+    {
+      "id": "17",
+      "section": "Section A — Grammar",
+      "prompt": "In our class, Jalia is ____ than Jamila.",
+      "steps": [
+        "Than signals a comparison between two people.",
+        "Use the comparative shorter, rather than the superlative shortest."
+      ],
+      "answer": "B — shorter"
+    },
+    {
+      "id": "18",
+      "section": "Section A — Grammar",
+      "prompt": "____ you study hard, you are going to fail.",
+      "steps": [
+        "The sentence warns of failure if the condition is not met.",
+        "Unless means if not: if you do not study hard, you will fail."
+      ],
+      "answer": "E — Unless"
+    },
+    {
+      "id": "19",
+      "section": "Section A — Grammar",
+      "prompt": "Juma had ____ of time to prepare for his examination.",
+      "steps": [
+        "The next word is of.",
+        "Plenty of is the correct expression for a large amount of time."
+      ],
+      "answer": "A — plenty"
+    },
+    {
+      "id": "20",
+      "section": "Section A — Grammar",
+      "prompt": "Our class monitor put the English books ____ the table.",
+      "steps": [
+        "Books rest on the upper surface of a table.",
+        "Use on for contact with a surface."
+      ],
+      "answer": "B — on"
+    },
+    {
+      "id": "21",
+      "section": "Section A — Grammar",
+      "prompt": "____ is hunger because of the poor rainfall.",
+      "steps": [
+        "The sentence announces the existence of a situation.",
+        "There is is used to introduce a singular or uncountable noun."
+      ],
+      "answer": "C — There"
+    },
+    {
+      "id": "22",
+      "section": "Section A — Grammar",
+      "prompt": "How ____ money do you need to buy a bus?",
+      "steps": [
+        "Money is uncountable in this use.",
+        "Ask how much money, rather than how many money."
+      ],
+      "answer": "B — much"
+    },
+    {
+      "id": "23",
+      "section": "Section A — Grammar",
+      "prompt": "You can go ____ to school or to the farm.",
+      "steps": [
+        "The sentence offers two alternatives joined by or.",
+        "The paired construction is either ... or."
+      ],
+      "answer": "D — either"
+    },
+    {
+      "id": "24",
+      "section": "Section A — Grammar",
+      "prompt": "Report Ally’s words: “I’m trying to get home in time.”",
+      "steps": [
+        "Change I to he because Ally is now being reported.",
+        "After past said, the expected backshift changes am trying to was trying."
+      ],
+      "answer": "E — Ally said that he was trying to get home in time."
+    },
+    {
+      "id": "25",
+      "section": "Section A — Grammar",
+      "prompt": "This is the ____ news I have ever heard.",
+      "steps": [
+        "Ever heard compares this news with all previous news.",
+        "Use the superlative best after the."
+      ],
+      "answer": "B — best"
+    },
+    {
+      "id": "26",
+      "section": "Section A — Grammar",
+      "prompt": "Jane is a friend ____ I share the front desk.",
+      "steps": [
+        "We share a desk with someone.",
+        "Keep with before the object relative pronoun whom."
+      ],
+      "answer": "C — with whom"
+    },
+    {
+      "id": "27",
+      "section": "Section A — Grammar",
+      "prompt": "Has Maganga ever ____ off his bicycle?",
+      "steps": [
+        "Has needs a past participle.",
+        "Fall has the forms fall, fell, fallen."
+      ],
+      "answer": "C — fallen"
+    },
+    {
+      "id": "28",
+      "section": "Section A — Grammar",
+      "prompt": "Jane had to go ____ Anne because she was sick.",
+      "steps": [
+        "The sentence describes accompanying Anne.",
+        "Go with someone means accompany that person."
+      ],
+      "answer": "B — with"
+    },
+    {
+      "id": "29",
+      "section": "Section A — Grammar",
+      "prompt": "The headmaster switched ____ the television to watch the football match.",
+      "steps": [
+        "The television must be operating to show the match.",
+        "Switch on means start a device; switch off means stop it."
+      ],
+      "answer": "A — on"
+    },
+    {
+      "id": "30",
+      "section": "Section A — Grammar",
+      "prompt": "Is there ____ room for him to sleep in?",
+      "steps": [
+        "This is a neutral question about the availability of space.",
+        "Any is the expected determiner in such a question."
+      ],
+      "answer": "B — any",
+      "tip": "Some or more can be grammatical in a suitably different context. Any is the intended neutral availability question in this exercise."
+    },
+    {
+      "id": "31",
+      "section": "Section B — Vocabulary",
+      "prompt": "What is the political leader of a country without a king or queen called in the choices?",
+      "steps": [
+        "A monarch is a king or queen; a mayor leads a town or city.",
+        "President is the national leadership title intended among these options."
+      ],
+      "answer": "A — The president."
+    },
+    {
+      "id": "32",
+      "section": "Section B — Vocabulary",
+      "prompt": "The sister of your mother is your ____.",
+      "steps": [
+        "Start from the family relationship: your mother’s sibling.",
+        "A female sibling of either parent is an aunt."
+      ],
+      "answer": "B — aunt"
+    },
+    {
+      "id": "33",
+      "section": "Section B — Vocabulary",
+      "prompt": "A citizen of Sudan is a ____.",
+      "steps": [
+        "The question asks for the nationality word.",
+        "Sudanese is used for a person from Sudan."
+      ],
+      "answer": "E — Sudanese"
+    },
+    {
+      "id": "34",
+      "section": "Section B — Vocabulary",
+      "prompt": "A lady who is not married is called a ____ in the listed choices.",
+      "steps": [
+        "Bachelor refers to an unmarried man; fiancée refers to an engaged woman.",
+        "Spinster is the older vocabulary term the examination expects."
+      ],
+      "answer": "D — spinster",
+      "tip": "For ordinary present-day writing, unmarried woman is usually a more natural description."
+    },
+    {
+      "id": "35",
+      "section": "Section B — Vocabulary",
+      "prompt": "Ali was first, John third, and I was ____.",
+      "steps": [
+        "The three positions are first, second and third.",
+        "The remaining position is the ordinal second, not the number two."
+      ],
+      "answer": "C — second"
+    },
+    {
+      "id": "36",
+      "section": "Section B — Vocabulary",
+      "prompt": "What is the opposite of forget?",
+      "steps": [
+        "Forget means fail to recall.",
+        "Remember means keep or bring something to mind; retain the base verb form."
+      ],
+      "answer": "A — remember"
+    },
+    {
+      "id": "37",
+      "section": "Section C — Composition",
+      "prompt": "Arrange: Take honey bees as an example.",
+      "steps": [
+        "First introduce insects and then classify them as helpful or harmful.",
+        "Only after that general statement should a particular example be introduced."
+      ],
+      "answer": "C — third sentence."
+    },
+    {
+      "id": "38",
+      "section": "Section C — Composition",
+      "prompt": "Arrange: They produce wax which can be used in many ways.",
+      "steps": [
+        "They must refer to a group already named.",
+        "Honey bees are introduced in the third sentence, so this explanation follows it."
+      ],
+      "answer": "D — fourth sentence."
+    },
+    {
+      "id": "39",
+      "section": "Section C — Composition",
+      "prompt": "Arrange: There are many kinds of insects around us.",
+      "steps": [
+        "A composition starts by introducing its general topic.",
+        "This sentence names insects before later sentences refer to them."
+      ],
+      "answer": "A — first sentence."
+    },
+    {
+      "id": "40",
+      "section": "Section C — Composition",
+      "prompt": "Arrange: Some of the insects are beneficial while others are harmful.",
+      "steps": [
+        "The insects refers back to insects introduced in sentence 39.",
+        "It classifies them before sentence 37 gives a beneficial example."
+      ],
+      "answer": "B — second sentence.",
+      "tip": "Complete order: 39 → 40 → 37 → 38. Letters for questions 37–40: C, D, A, B."
+    },
+    {
+      "id": "41",
+      "section": "Section D — Comprehension",
+      "prompt": "Which animal was cleverer than the Hare?",
+      "steps": [
+        "The Hare ran fastest but did not notice a passenger on his tail.",
+        "The Chameleon used that advantage to reach the throne first."
+      ],
+      "answer": "C — The Chameleon."
+    },
+    {
+      "id": "42",
+      "section": "Section D — Comprehension",
+      "prompt": "Which word in the story refers to runners in a race?",
+      "steps": [
+        "Use the word actually present in the first sentence.",
+        "Contestants are those taking part in a competition."
+      ],
+      "answer": "C — Contestants."
+    },
+    {
+      "id": "43",
+      "section": "Section D — Comprehension",
+      "prompt": "Where did the Frog and the Snake go to watch the race?",
+      "steps": [
+        "The Frog proposed a place from which they could see clearly.",
+        "He specifically said to climb to the top of the hill."
+      ],
+      "answer": "A — To the top of the hill."
+    },
+    {
+      "id": "44",
+      "section": "Section D — Comprehension",
+      "prompt": "The ____ ran fastest but ____ won the race.",
+      "steps": [
+        "Separate running speed from the race result.",
+        "The Hare ran fastest; the Chameleon reached the seat first by riding on him."
+      ],
+      "answer": "B — Hare; the Chameleon."
+    },
+    {
+      "id": "45",
+      "section": "Section D — Comprehension",
+      "prompt": "Which animal became King of the forest?",
+      "steps": [
+        "The Hare claimed the title, but the Chameleon said he was already on the seat.",
+        "The celebrating friends recognised the Chameleon as the new king."
+      ],
+      "answer": "E — Chameleon."
+    },
+    {
+      "id": "46",
+      "section": "Section D — Comprehension",
+      "prompt": "Which animals were the happiest?",
+      "steps": [
+        "Look for the pair described as happy at the result.",
+        "They celebrated the success of their friend, the Chameleon."
+      ],
+      "answer": "A — The Frog and the Snake."
+    },
+    {
+      "id": "47",
+      "section": "Section D — Comprehension",
+      "prompt": "What did the winner of the race do?",
+      "steps": [
+        "The winner rode on the Hare without the Hare noticing.",
+        "That was a trick, not evidence that he ran faster or bribed anyone."
+      ],
+      "answer": "C — He played a trick to win the race."
+    },
+    {
+      "id": "48",
+      "section": "Section D — Comprehension",
+      "prompt": "Who were the Frog’s friends?",
+      "steps": [
+        "The Frog watched together with the Snake.",
+        "He also called the Chameleon their friend."
+      ],
+      "answer": "D — Chameleon and Snake."
+    },
+    {
+      "id": "49",
+      "section": "Section D — Comprehension",
+      "prompt": "What does throne mean in the story?",
+      "steps": [
+        "The Hare sat down on the throne.",
+        "The word names a royal seat, rather than the whole palace or racing ground."
+      ],
+      "answer": "D — The chair on which the king sits."
+    },
+    {
+      "id": "50",
+      "section": "Section D — Comprehension",
+      "prompt": "Which is the best title among the choices?",
+      "steps": [
+        "A suitable title covers the central event of the entire story.",
+        "The contest between the animals, with its surprising result, is the main event."
+      ],
+      "answer": "E — The animals’ race."
+    }
+  ],
+  "summaries": {
+    "Section A — Grammar": "Identify the time clue, subject and sentence structure before checking the options. For question tags, change a positive statement to a negative tag.",
+    "Section B — Vocabulary": "Use the relationship or word class requested. Nationalities, family terms and ordinal numbers have distinct forms.",
+    "Section C — Composition": "Start with the general subject, develop a category, introduce an example, then explain it. Check every pronoun has an earlier noun.",
+    "Section D — Comprehension": "Distinguish what characters claim from the final outcome. Use details from the passage rather than assumptions about animal speed."
+  }
+}

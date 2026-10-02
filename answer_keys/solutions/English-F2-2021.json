@@ -1,0 +1,696 @@
+{
+  "exam": "English-F2-2021.pdf",
+  "output": "English-F2-2021-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Form Two",
+  "year": "2021",
+  "code": "022",
+  "exam_type": "Form Two National Assessment (FTNA)",
+  "question_count": "10 compulsory questions; 60 answered parts",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "4cf58c6d4a8ea888a905c7d00766662d093c2514ef2e720f2ed0e559b6813c6a",
+  "expected_parts": [
+    "1(a)(i)",
+    "1(a)(ii)",
+    "1(a)(iii)",
+    "1(a)(iv)",
+    "1(a)(v)",
+    "1(b)(i)",
+    "1(b)(ii)",
+    "1(b)(iii)",
+    "1(b)(iv)",
+    "1(b)(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "3(vi)",
+    "4",
+    "5",
+    "6(a)",
+    "6(b)",
+    "6(c)",
+    "6(d)",
+    "6(e)",
+    "7(a)(i)",
+    "7(a)(ii)",
+    "7(a)(iii)",
+    "7(a)(iv)",
+    "7(a)(v)",
+    "7(b)(i)",
+    "7(b)(ii)",
+    "7(b)(iii)",
+    "7(b)(iv)",
+    "7(b)(v)",
+    "8(a)(i)",
+    "8(a)(ii)",
+    "8(a)(iii)",
+    "8(a)(iv)",
+    "8(a)(v)",
+    "8(b)(i)",
+    "8(b)(ii)",
+    "8(b)(iii)",
+    "8(b)(iv)",
+    "8(b)(v)",
+    "9(a)",
+    "9(b)",
+    "9(c)",
+    "9(d)",
+    "9(e)",
+    "10(a)(i)",
+    "10(a)(ii)",
+    "10(b)(i)",
+    "10(b)(ii)",
+    "10(c)",
+    "10(d)",
+    "10(e)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)(i)",
+      "section": "Section A — Comprehension and summary",
+      "prompt": "Why did the mother narrate stories to her son?",
+      "answer": "To teach him kindness, especially the importance of helping poor people.",
+      "steps": [
+        "Locate the relevant idea in the passage.",
+        "Identify her repeated emphasis on giving and caring; explain the moral purpose rather than just the time of storytelling."
+      ]
+    },
+    {
+      "id": "1(a)(ii)",
+      "section": "Section A — Comprehension and summary",
+      "prompt": "Explain “Giving to the poor can make up for sin, just as water can put out blazing fire.”",
+      "answer": "It compares charitable deeds with extinguishing a fire: kindness can help a person make amends for wrongdoing.",
+      "steps": [
+        "Locate the relevant idea in the passage.",
+        "Recognise the comparison with water and fire as a moral illustration; the passage praises practical kindness."
+      ]
+    },
+    {
+      "id": "1(a)(iii)",
+      "section": "Section A — Comprehension and summary",
+      "prompt": "What should you do when someone is in trouble?",
+      "answer": "Help promptly and kindly without adding to the person’s problems or humiliating them.",
+      "steps": [
+        "Locate the relevant idea in the passage.",
+        "Combine the instructions not to add trouble, delay assistance or turn away from a person in distress."
+      ]
+    },
+    {
+      "id": "1(a)(iv)",
+      "section": "Section A — Comprehension and summary",
+      "prompt": "Explain “Bow your head to the men of authority.”",
+      "answer": "Show respect to people in positions of authority.",
+      "steps": [
+        "Locate the relevant idea in the passage.",
+        "Interpret the physical gesture as a sign of respect, rather than an instruction to keep the head bent all the time."
+      ]
+    },
+    {
+      "id": "1(a)(v)",
+      "section": "Section A — Comprehension and summary",
+      "prompt": "Give one reason for poverty in society, with reference to the passage.",
+      "answer": "Some people cannot obtain basic resources or help, even while others have more food and water than they need.",
+      "steps": [
+        "Locate the relevant idea in the passage.",
+        "The final paragraph contrasts people in need with those having surplus resources. Lack of contact or awareness prevents assistance; do not present an unmentioned cause as an explicit statement."
+      ]
+    },
+    {
+      "id": "1(b)(i)",
+      "section": "Section A — Comprehension and summary",
+      "prompt": "State TRUE or FALSE: The narrator usually told stories in the evening.",
+      "answer": "TRUE.",
+      "steps": [
+        "Check the statement against the passage’s message.",
+        "The mother narrated stories in the evening, especially after dinner."
+      ]
+    },
+    {
+      "id": "1(b)(ii)",
+      "section": "Section A — Comprehension and summary",
+      "prompt": "State TRUE or FALSE: An opportunity to work can make poor people independent.",
+      "answer": "TRUE.",
+      "steps": [
+        "Check the statement against the passage’s message.",
+        "The instruction not to prevent poor people from making a living supports their ability to support themselves."
+      ]
+    },
+    {
+      "id": "1(b)(iii)",
+      "section": "Section A — Comprehension and summary",
+      "prompt": "State TRUE or FALSE: People responding kindly to others do not think of the future.",
+      "answer": "FALSE.",
+      "steps": [
+        "Check the statement against the passage’s message.",
+        "The passage says a kind person thinks of the future and may receive help in difficult times."
+      ]
+    },
+    {
+      "id": "1(b)(iv)",
+      "section": "Section A — Comprehension and summary",
+      "prompt": "State TRUE or FALSE: “A friend in need is a friend indeed” means friends help only on happy occasions.",
+      "answer": "FALSE.",
+      "steps": [
+        "Check the statement against the passage’s message.",
+        "The proverb values support during hardship, rather than limiting friendship to celebrations."
+      ]
+    },
+    {
+      "id": "1(b)(v)",
+      "section": "Section A — Comprehension and summary",
+      "prompt": "State TRUE or FALSE: People should respect others for who they are rather than what they possess.",
+      "answer": "TRUE.",
+      "steps": [
+        "Check the statement against the passage’s message.",
+        "The advice to listen politely to poor people and protect them supports respect regardless of wealth."
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Section A — Comprehension and summary",
+      "prompt": "Complete Juma’s first activity.",
+      "answer": "wakes up",
+      "steps": [
+        "Read the corresponding row of the timetable.",
+        "The timetable begins with waking up and preparation."
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Section A — Comprehension and summary",
+      "prompt": "When does Juma wake up?",
+      "answer": "6:00 a.m.",
+      "steps": [
+        "Read the corresponding row of the timetable.",
+        "The first interval starts at 6:00."
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Section A — Comprehension and summary",
+      "prompt": "When does his walk to school start?",
+      "answer": "6:30 a.m.",
+      "steps": [
+        "Read the corresponding row of the timetable.",
+        "The journey is shown from 6:30 to 7:00."
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Section A — Comprehension and summary",
+      "prompt": "When does he join the cleaning?",
+      "answer": "7:00 a.m.",
+      "steps": [
+        "Read the corresponding row of the timetable.",
+        "Cleaning occupies 7:00–7:30."
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Section A — Comprehension and summary",
+      "prompt": "Complete “parade, ___ and inspection”.",
+      "answer": "announcements",
+      "steps": [
+        "Read the corresponding row of the timetable.",
+        "The 7:30–8:00 interval lists parade, announcements and inspection."
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Section B — Language use",
+      "prompt": "Match: A man on his wedding day.",
+      "answer": "C — Bridegroom.",
+      "steps": [
+        "Choose the term whose definition fits the description.",
+        "A bridegroom is the man marrying."
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Match: A person or company supplying wedding food and drinks.",
+      "answer": "G — Caterer.",
+      "steps": [
+        "Choose the term whose definition fits the description.",
+        "Catering means preparing and supplying food and refreshments."
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Match: A woman on her wedding day.",
+      "answer": "A — Bride.",
+      "steps": [
+        "Choose the term whose definition fits the description.",
+        "A bride is the woman marrying."
+      ]
+    },
+    {
+      "id": "3(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Match: A formal social event celebrating a wedding.",
+      "answer": "D — Reception.",
+      "steps": [
+        "Choose the term whose definition fits the description.",
+        "A reception is the celebration accompanying or following the ceremony."
+      ]
+    },
+    {
+      "id": "3(v)",
+      "section": "Section B — Language use",
+      "prompt": "Match: A gown a woman wears for her wedding.",
+      "answer": "E — Wedding dress.",
+      "steps": [
+        "Choose the term whose definition fits the description.",
+        "Identify the clothing rather than the person or event."
+      ]
+    },
+    {
+      "id": "3(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Match: A woman engaged to be married, given as the example.",
+      "answer": "F — Fiancée.",
+      "steps": [
+        "Choose the term whose definition fits the description.",
+        "Fiancée refers to an engaged woman; fiancé refers to an engaged man."
+      ]
+    },
+    {
+      "id": "4",
+      "section": "Section B — Language use",
+      "prompt": "Arrange the ball-and-broken-window sentences A–F into a logical paragraph.",
+      "answer": "B, E, D, A, C, F.",
+      "steps": [
+        "Begin with the boy playing (B), followed by his kick breaking the window (E).",
+        "The woman hears the break (D), then comes out shouting (A). The boy flees (C) and later returns to apologise (F).",
+        "Full paragraph: A little boy was playing with his ball in the street. He kicked it hard and broke the window of Mrs. Mawazo’s house. The woman was shocked by the sound of the broken window. Then, she came out of the house shouting at the naughty boy. The boy was so frightened that he ran away. A few minutes later, he came back to the house to apologise."
+      ]
+    },
+    {
+      "id": "5",
+      "section": "Section B — Language use",
+      "prompt": "Write the Biziku family’s formal invitation to Anjilili’s birthday at Serena Hotel, Dar es Salaam, on 20 November 2021, 6–9 p.m. Include the given regrets contact.",
+      "answer": "INVITATION\nMr. and Mrs. Biziku cordially invite their relatives and friends to the birthday celebration of their daughter, Anjilili.\nVenue: Serena Hotel, Dar es Salaam\nDate: Saturday, 20 November 2021\nTime: 6:00 p.m.–9:00 p.m.\nWe look forward to celebrating with you.\nRegrets only: Mrs. Biziku Fulumo, mobile 0797 090 7789.",
+      "steps": [
+        "Name the hosts, the occasion and the person being celebrated.",
+        "State the venue, date and time clearly. End with the specified contact for guests unable to attend."
+      ],
+      "tip": "This is a model card. The contact number is reproduced as printed in the examination; it is not a website contact."
+    },
+    {
+      "id": "6(a)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "Which word comes first in the dictionary: Mother / Matter?",
+      "answer": "Matter",
+      "steps": [
+        "Compare the words letter by letter until the first difference.",
+        "Both begin with M; compare the next letters a and o. Since a comes first, Matter precedes Mother."
+      ]
+    },
+    {
+      "id": "6(b)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "Which word comes first in the dictionary: Elephant / Element?",
+      "answer": "Element",
+      "steps": [
+        "Compare the words letter by letter until the first difference.",
+        "After Ele, compare m in Element with p in Elephant. m comes before p."
+      ]
+    },
+    {
+      "id": "6(c)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "Which word comes first in the dictionary: Balance / Ballard?",
+      "answer": "Balance",
+      "steps": [
+        "Compare the words letter by letter until the first difference.",
+        "After Bal, compare a in Balance with l in Ballard. a comes first."
+      ]
+    },
+    {
+      "id": "6(d)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "Which word comes first in the dictionary: Pass / Purse?",
+      "answer": "Pass",
+      "steps": [
+        "Compare the words letter by letter until the first difference.",
+        "After P, compare a and u. a comes first."
+      ]
+    },
+    {
+      "id": "6(e)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "Which word comes first in the dictionary: Come / Calm?",
+      "answer": "Calm",
+      "steps": [
+        "Compare the words letter by letter until the first difference.",
+        "After C, compare a and o. a comes first."
+      ]
+    },
+    {
+      "id": "7(a)(i)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "Mwakipesile ___ Dodoma’s position from a map.",
+      "answer": "confirmed",
+      "steps": [
+        "Select the word from the box that fits both meaning and grammar.",
+        "Confirmed means checked and established the stated information."
+      ]
+    },
+    {
+      "id": "7(a)(ii)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "The villagers crossed the road at the ___.",
+      "answer": "zebra crossing",
+      "steps": [
+        "Select the word from the box that fits both meaning and grammar.",
+        "A zebra crossing is the marked place for crossing a road."
+      ]
+    },
+    {
+      "id": "7(a)(iii)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "Hamisa did not want to lose her book, so she ___ it tightly.",
+      "answer": "held",
+      "steps": [
+        "Select the word from the box that fits both meaning and grammar.",
+        "Held is the past tense of hold and describes gripping the book."
+      ]
+    },
+    {
+      "id": "7(a)(iv)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "On rainy days, ___ carry umbrellas.",
+      "answer": "pedestrians",
+      "steps": [
+        "Select the word from the box that fits both meaning and grammar.",
+        "Pedestrians are people travelling on foot."
+      ]
+    },
+    {
+      "id": "7(a)(v)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "Lwangu River is a ___ of Rufiji River.",
+      "answer": "tributary",
+      "steps": [
+        "Select the word from the box that fits both meaning and grammar.",
+        "A tributary is a river flowing into a larger river."
+      ]
+    },
+    {
+      "id": "7(b)(i)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "Daudi likes writing stories. Use “enjoy”.",
+      "answer": "Daudi enjoys writing stories.",
+      "steps": [
+        "Keep the meaning and change only the required expression.",
+        "Daudi is singular, so use enjoys followed by the -ing form writing."
+      ]
+    },
+    {
+      "id": "7(b)(ii)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "The teacher dislikes punishing the students. Use “hate”.",
+      "answer": "The teacher hates punishing the students.",
+      "steps": [
+        "Keep the meaning and change only the required expression.",
+        "Use hates for the singular teacher; retain the gerund punishing."
+      ]
+    },
+    {
+      "id": "7(b)(iii)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "They are very lazy; they hate working. Use “dislike”.",
+      "answer": "They are very lazy; they dislike working.",
+      "steps": [
+        "Keep the meaning and change only the required expression.",
+        "Plural they takes dislike without -s; the following activity remains working."
+      ]
+    },
+    {
+      "id": "7(b)(iv)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "Ngailo enjoys watching football. Use “like”.",
+      "answer": "Ngailo likes watching football.",
+      "steps": [
+        "Keep the meaning and change only the required expression.",
+        "Singular Ngailo takes likes, followed by watching."
+      ]
+    },
+    {
+      "id": "7(b)(v)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "Musa prefers beans to meat. Use “likes”.",
+      "answer": "Musa likes beans more than meat.",
+      "steps": [
+        "Keep the meaning and change only the required expression.",
+        "To preserve the comparison, use likes … more than … rather than simply saying he likes beans."
+      ]
+    },
+    {
+      "id": "8(a)(i)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "Do you enjoy ___ (dance)?",
+      "answer": "dancing",
+      "steps": [
+        "Identify the construction before supplying the verb form.",
+        "Enjoy is followed by an -ing form; dance loses final e before -ing."
+      ]
+    },
+    {
+      "id": "8(a)(ii)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "John is ___ (rinse) his clothes at present.",
+      "answer": "rinsing",
+      "steps": [
+        "Identify the construction before supplying the verb form.",
+        "Is + present participle expresses an ongoing action; drop final e."
+      ]
+    },
+    {
+      "id": "8(a)(iii)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "I am ___ (go) home now.",
+      "answer": "going",
+      "steps": [
+        "Identify the construction before supplying the verb form.",
+        "Am + going is the present continuous form."
+      ]
+    },
+    {
+      "id": "8(a)(iv)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "The students are ___ (read) novels at the moment.",
+      "answer": "reading",
+      "steps": [
+        "Identify the construction before supplying the verb form.",
+        "Are + reading matches the ongoing plural-subject action."
+      ]
+    },
+    {
+      "id": "8(a)(v)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "My brother and I are ___ (play) tennis this time.",
+      "answer": "playing",
+      "steps": [
+        "Identify the construction before supplying the verb form.",
+        "The plural subject uses are; add -ing to play."
+      ]
+    },
+    {
+      "id": "8(b)(i)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "Who is my brother’s son to me?",
+      "answer": "nephew",
+      "steps": [
+        "Trace the relationship from the speaker to the named relative.",
+        "A sibling’s male child is a nephew."
+      ]
+    },
+    {
+      "id": "8(b)(ii)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "Who is my aunt’s daughter to me?",
+      "answer": "cousin",
+      "steps": [
+        "Trace the relationship from the speaker to the named relative.",
+        "A parent’s sibling’s child is a cousin."
+      ]
+    },
+    {
+      "id": "8(b)(iii)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "Who is my sister’s husband to me?",
+      "answer": "brother-in-law",
+      "steps": [
+        "Trace the relationship from the speaker to the named relative.",
+        "A sister’s husband is a brother-in-law."
+      ]
+    },
+    {
+      "id": "8(b)(iv)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "Who is my brother’s wife to me?",
+      "answer": "sister-in-law",
+      "steps": [
+        "Trace the relationship from the speaker to the named relative.",
+        "A brother’s wife is a sister-in-law."
+      ]
+    },
+    {
+      "id": "8(b)(v)",
+      "section": "Section C — Patterns and vocabulary",
+      "prompt": "Who is my grandfather’s father to me?",
+      "answer": "great-grandfather",
+      "steps": [
+        "Trace the relationship from the speaker to the named relative.",
+        "One generation above a grandparent is a great-grandparent."
+      ]
+    },
+    {
+      "id": "9(a)",
+      "section": "Section D — Reading programme",
+      "prompt": "Using Mabala the Farmer, describe a hardworking female character.",
+      "answer": "Mauja, also called Mama Martina, is hardworking. She undertakes farming and family responsibilities while encouraging her husband to take work seriously.",
+      "steps": [
+        "Use Mabala the Farmer by R. S. Mabala consistently for this model response.",
+        "Name the reader and its author, R. S. Mabala. Link the trait to Mauja’s practical contribution rather than merely labelling her good."
+      ],
+      "tip": "Other prescribed readers and well-supported interpretations can also earn credit. These are model responses, not the only acceptable wording."
+    },
+    {
+      "id": "9(b)",
+      "section": "Section D — Reading programme",
+      "prompt": "Identify a male character and relate him to present society.",
+      "answer": "Mabala represents people who expect success without enough effort and resist useful advice. His behaviour warns present-day learners and workers that pride and idleness can damage family welfare.",
+      "steps": [
+        "Use Mabala the Farmer by R. S. Mabala consistently for this model response.",
+        "Separate the character’s behaviour from your comparison with society; explain how the same attitude can affect people today."
+      ],
+      "tip": "Other prescribed readers and well-supported interpretations can also earn credit. These are model responses, not the only acceptable wording."
+    },
+    {
+      "id": "9(c)",
+      "section": "Section D — Reading programme",
+      "prompt": "What is Mabala the Farmer about?",
+      "answer": "It follows Mabala and his family as he attempts rural farming. His poor work habits and unwillingness to learn create problems, while his wife’s effort shows the importance of responsibility and cooperation.",
+      "steps": [
+        "Use Mabala the Farmer by R. S. Mabala consistently for this model response.",
+        "Give the central person, activity and conflict. A brief account is more relevant than a list of unrelated themes."
+      ],
+      "tip": "Other prescribed readers and well-supported interpretations can also earn credit. These are model responses, not the only acceptable wording."
+    },
+    {
+      "id": "9(d)",
+      "section": "Section D — Reading programme",
+      "prompt": "Which character do you like most, and why?",
+      "answer": "I like Mauja most because she works to support her family and offers practical advice. Her example shows that perseverance and care for others matter more than boasting.",
+      "steps": [
+        "Use Mabala the Farmer by R. S. Mabala consistently for this model response.",
+        "This is an opinion question, so state a choice and support it with the character’s behaviour."
+      ],
+      "tip": "Other prescribed readers and well-supported interpretations can also earn credit. These are model responses, not the only acceptable wording."
+    },
+    {
+      "id": "9(e)",
+      "section": "Section D — Reading programme",
+      "prompt": "Give a message of the reader to society.",
+      "answer": "People should work responsibly, listen to constructive advice and cooperate in their families. The contrast between Mabala’s failings and Mauja’s effort shows why these habits are valuable.",
+      "steps": [
+        "Use Mabala the Farmer by R. S. Mabala consistently for this model response.",
+        "Turn a theme into advice, then connect the advice to the story."
+      ],
+      "tip": "Other prescribed readers and well-supported interpretations can also earn credit. These are model responses, not the only acceptable wording."
+    },
+    {
+      "id": "10(a)(i)",
+      "section": "Section D — Reading programme",
+      "prompt": "Who are the three people mentioned in the first stanza?",
+      "answer": "A preacher, a judge and a teacher.",
+      "steps": [
+        "Refer to the supplied poem rather than an unrelated literary work.",
+        "Read the first stanza and identify its three professions."
+      ]
+    },
+    {
+      "id": "10(a)(ii)",
+      "section": "Section D — Reading programme",
+      "prompt": "What happens when those people become victims of drug abuse?",
+      "answer": "They suffer and lose their ability to fulfil important responsibilities. Their decline also harms the community because religious guidance, justice and education depend on responsible people.",
+      "steps": [
+        "Refer to the supplied poem rather than an unrelated literary work.",
+        "The next stanza places them in “worry houses” and describes the nation declining; connect personal harm with harm to society."
+      ]
+    },
+    {
+      "id": "10(b)(i)",
+      "section": "Section D — Reading programme",
+      "prompt": "How many verses are in the third stanza?",
+      "answer": "Eight verses (lines).",
+      "steps": [
+        "Refer to the supplied poem rather than an unrelated literary work.",
+        "Count the lines beginning with “I am telling you now” and ending with “It is the sense of knowledge.” A verse here means a line, not a stanza."
+      ]
+    },
+    {
+      "id": "10(b)(ii)",
+      "section": "Section D — Reading programme",
+      "prompt": "How many stanzas are in the poem?",
+      "answer": "Three stanzas.",
+      "steps": [
+        "Refer to the supplied poem rather than an unrelated literary work.",
+        "Count the three blocks separated by blank spaces."
+      ]
+    },
+    {
+      "id": "10(c)",
+      "section": "Section D — Reading programme",
+      "prompt": "Name two things the poet says are not good for people, and explain why.",
+      "answer": "Cocaine and liquor. The poem links their misuse with suffering and the deterioration of people who previously served society well.",
+      "steps": [
+        "Refer to the supplied poem rather than an unrelated literary work.",
+        "Select two substances explicitly named in the final stanza. Glue sniffing is also criticised; ground the reason in the poem’s consequences."
+      ]
+    },
+    {
+      "id": "10(d)",
+      "section": "Section D — Reading programme",
+      "prompt": "What would you suggest to the poem’s audience?",
+      "answer": "Avoid drug misuse, reject misleading claims about it and help affected people obtain support. The community should act together rather than watch people’s lives deteriorate.",
+      "steps": [
+        "Refer to the supplied poem rather than an unrelated literary work.",
+        "Offer practical advice responding to the warning and the repeated call not to stand aside."
+      ]
+    },
+    {
+      "id": "10(e)",
+      "section": "Section D — Reading programme",
+      "prompt": "How could government address the harmful situation described?",
+      "answer": "It could support public education, rehabilitation and community prevention, and address the illicit supply of harmful drugs. These measures would combine prevention with help for affected people.",
+      "steps": [
+        "Refer to the supplied poem rather than an unrelated literary work.",
+        "Suggest measures linked to the poem’s causes and consequences. Explain both reducing exposure and assisting victims."
+      ]
+    }
+  ],
+  "summaries": {
+    "Section A — Comprehension and summary": "Use passage evidence for factual answers and distinguish an inference from a direct statement. Timetable answers must match the start of each interval.",
+    "Section B — Language use": "A coherent paragraph follows cause and effect. Invitation cards need hosts, occasion, venue, date, time and an appropriate response contact.",
+    "Section C — Patterns and vocabulary": "Dictionary order depends on the first different letter. Keep subject–verb agreement and retain comparisons when rewriting sentences.",
+    "Section D — Reading programme": "Support character traits with actions. For poetry, distinguish a line from a stanza and connect advice to the poem’s message."
+  },
+  "references": [
+    {
+      "title": "NECTA FTNA English 2019 — reader character clarification",
+      "url": "https://onlinesys.necta.go.tz/cira/ftna/2019/022_ENGLISH_LANGUAGE.pdf"
+    }
+  ]
+}

@@ -8,10 +8,10 @@
 
 ## Features
 
-- **Exam Paper Library** — Browse, search, filter, and download national exam PDFs (Standard 4 through Form 6)
+- **Exam Paper Library** — Browse 60 distinct papers for Standard 4, Standard 7, Form 2 and Form 4; combine subject, level and year filters
 - **AI Study Assistant** — Ask curriculum questions and receive step-by-step explanations powered by GPT-4o-mini
-- **Answer Keys** — Authenticated access to marking schemes and worked solutions
-- **Tutor Marketplace** — Find verified tutors by subject, or apply to become one
+- **Answer Keys** — Worked solutions for all 60 papers, with branded covers, steps, final answers and study notes; preview and download after login
+- **Tutor Directory** — Find listed tutors by subject, or submit an application for review
 - **User Accounts** — Secure signup/login with email verification and password reset
 - **Admin Dashboard** — Analytics, user management, and tutor application review
 - **Activity History** — Track recently viewed and downloaded papers
@@ -27,7 +27,7 @@
 | **Security** | Flask-WTF (CSRF), Flask-Limiter (rate limiting), Flask-Talisman (headers) |
 | **Caching** | Flask-Caching (SimpleCache / Redis) |
 | **Email** | Flask-Mail (Gmail SMTP) |
-| **Testing** | pytest + pytest-cov (35+ tests) |
+| **Testing** | pytest + pytest-cov, plus browser checks |
 | **CI/CD** | GitHub Actions |
 | **Containerization** | Docker + docker-compose |
 | **Deployment** | Render (Gunicorn) |

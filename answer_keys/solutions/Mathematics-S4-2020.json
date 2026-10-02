@@ -1,0 +1,302 @@
+{
+  "exam": "Mathematics-S4-2020.pdf",
+  "output": "Mathematics-S4-2020-AnswerKey.pdf",
+  "subject": "Mathematics",
+  "level": "Standard Four",
+  "year": "2020",
+  "code": "04E",
+  "exam_type": "National Assessment",
+  "question_count": "5 questions, each with 5 parts",
+  "language": "en",
+  "reviewed": true,
+  "expected_parts": [
+    "1(a)",
+    "1(b)",
+    "1(c)",
+    "1(d)",
+    "1(e)",
+    "2(a)",
+    "2(b)",
+    "2(c)",
+    "2(d)",
+    "2(e)",
+    "3(a)",
+    "3(b)",
+    "3(c)",
+    "3(d)",
+    "3(e)",
+    "4(a)",
+    "4(b)",
+    "4(c)",
+    "4(d)",
+    "4(e)",
+    "5(a)",
+    "5(b)",
+    "5(c)",
+    "5(d)",
+    "5(e)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Write 12,659 in words.",
+      "steps": [
+        "Separate 12,000 and 659.",
+        "Read 12,000 as twelve thousand; read 659 as six hundred and fifty-nine."
+      ],
+      "answer": "Twelve thousand six hundred and fifty-nine."
+    },
+    {
+      "id": "1(b)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Write eleven thousand one hundred and eleven in numerals.",
+      "steps": [
+        "Eleven thousand = 11,000; one hundred = 100; eleven = 11.",
+        "Add 11,000 + 100 + 11."
+      ],
+      "answer": "11,111."
+    },
+    {
+      "id": "1(c)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Write three over four as a fraction.",
+      "steps": [
+        "The numerator is 3.",
+        "The denominator is 4."
+      ],
+      "answer": "3/4."
+    },
+    {
+      "id": "1(d)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Write the fraction of the shaded shapes.",
+      "steps": [
+        "Count all three equal-sized shapes.",
+        "Two of the three shapes are shaded."
+      ],
+      "answer": "2/3."
+    },
+    {
+      "id": "1(e)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Write Musa's age, 40 years, in Roman numerals.",
+      "steps": [
+        "X = 10 and L = 50.",
+        "X before L means subtract 10 from 50."
+      ],
+      "answer": "XL."
+    },
+    {
+      "id": "2(a)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Arrange 125, 78, 111, 89, 305, 32, 120 from largest to smallest.",
+      "steps": [
+        "First compare hundreds: 305 is largest, followed by the numbers in the hundreds.",
+        "Order those as 125, 120, 111, then compare the two-digit numbers."
+      ],
+      "answer": "305, 125, 120, 111, 89, 78, 32."
+    },
+    {
+      "id": "2(b)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Find the missing number: 36, 33, 30, __, 24.",
+      "steps": [
+        "The numbers decrease by 3.",
+        "30 - 3 = 27; 27 - 3 = 24 checks the pattern."
+      ],
+      "answer": "27."
+    },
+    {
+      "id": "2(c)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Find the next two Roman numerals after X, XV, XX, XXV.",
+      "steps": [
+        "Their values are 10, 15, 20, 25, increasing by 5.",
+        "The next values are 30 and 35."
+      ],
+      "answer": "XXX, XXXV."
+    },
+    {
+      "id": "2(d)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Tree heights are 5 m, 8 m, 11 m, 14 m. Find the fifth height.",
+      "steps": [
+        "Each height increases by 3 m.",
+        "Add 3 m to 14 m."
+      ],
+      "answer": "17 m."
+    },
+    {
+      "id": "2(e)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Start at 80 and decrease by 10 each time. Find the sixth number.",
+      "steps": [
+        "There are five changes between the first and sixth numbers.",
+        "80, 70, 60, 50, 40, 30."
+      ],
+      "answer": "30."
+    },
+    {
+      "id": "3(a)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Multiply 282 by 17.",
+      "steps": [
+        "282 x 7 = 1,974.",
+        "282 x 10 = 2,820.",
+        "Add 1,974 + 2,820."
+      ],
+      "answer": "4,794."
+    },
+    {
+      "id": "3(b)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Juma receives ten coins worth sh. 500 each. How much does he receive?",
+      "steps": [
+        "Multiply the number of coins by the value of one coin.",
+        "10 x 500 = 5,000."
+      ],
+      "answer": "Sh. 5,000."
+    },
+    {
+      "id": "3(c)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Subtract sh. 120 from sh. 2,750.",
+      "steps": [
+        "2,750 - 100 = 2,650.",
+        "2,650 - 20 = 2,630."
+      ],
+      "answer": "Sh. 2,630."
+    },
+    {
+      "id": "3(d)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Find the cost of six oranges at sh. 200 each, one exercise book at sh. 2,000, and three pens at sh. 700 each.",
+      "steps": [
+        "Oranges: 6 x 200 = 1,200; pens: 3 x 700 = 2,100.",
+        "Add 1,200 + 2,000 + 2,100."
+      ],
+      "answer": "Sh. 5,300."
+    },
+    {
+      "id": "3(e)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Add 5 hours 38 minutes and 3 hours 45 minutes.",
+      "steps": [
+        "Minutes: 38 + 45 = 83 = 1 hour 23 minutes.",
+        "Hours: 5 + 3 + 1 = 9."
+      ],
+      "answer": "9 hours 23 minutes."
+    },
+    {
+      "id": "4(a)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "Name the shape whose sides are all the same length.",
+      "steps": [
+        "Recall the common four-sided shapes studied at this level.",
+        "A square has four equal sides and four right angles."
+      ],
+      "answer": "A square (the intended elementary shape).",
+      "tip": "Other shapes can also have equal sides. A square is identified by equal sides together with right angles."
+    },
+    {
+      "id": "4(b)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "How many litres are ten half-litres?",
+      "steps": [
+        "Half a litre = 1/2 litre.",
+        "10 x 1/2 = 5."
+      ],
+      "answer": "5 litres."
+    },
+    {
+      "id": "4(c)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "Convert 16,000 g to kg.",
+      "steps": [
+        "1 kg = 1,000 g.",
+        "16,000 / 1,000 = 16."
+      ],
+      "answer": "16 kg."
+    },
+    {
+      "id": "4(d)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "Convert 25 m to centimetres.",
+      "steps": [
+        "1 m = 100 cm.",
+        "25 x 100 = 2,500."
+      ],
+      "answer": "2,500 cm."
+    },
+    {
+      "id": "4(e)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "Convert 2 km to metres.",
+      "steps": [
+        "1 km = 1,000 m.",
+        "2 x 1,000 = 2,000."
+      ],
+      "answer": "2,000 m."
+    },
+    {
+      "id": "5(a)",
+      "section": "Question 5: Reading Data",
+      "prompt": "On which day did Anold score highest in the bar chart?",
+      "steps": [
+        "Read Monday = 35, Tuesday = 30, Wednesday = 40.",
+        "Compare the heights; the 40-mark bar is highest."
+      ],
+      "answer": "Wednesday."
+    },
+    {
+      "id": "5(b)",
+      "section": "Question 5: Reading Data",
+      "prompt": "Which month had most pupils pass: February 68, March 74, April 52, May 69?",
+      "steps": [
+        "Compare 68, 74, 52 and 69.",
+        "The greatest count is 74."
+      ],
+      "answer": "March."
+    },
+    {
+      "id": "5(c)",
+      "section": "Question 5: Reading Data",
+      "prompt": "Find the lowest pen sales: sh. 22,000, 21,000, 23,000 and 20,000.",
+      "steps": [
+        "Compare all four amounts.",
+        "The smallest amount is 20,000."
+      ],
+      "answer": "Sh. 20,000."
+    },
+    {
+      "id": "5(d)",
+      "section": "Question 5: Reading Data",
+      "prompt": "Find the total books provided in four years: 132, 145, 142 and 124.",
+      "steps": [
+        "132 + 145 = 277.",
+        "142 + 124 = 266.",
+        "277 + 266 = 543."
+      ],
+      "answer": "543 books."
+    },
+    {
+      "id": "5(e)",
+      "section": "Question 5: Reading Data",
+      "prompt": "Find the total rice harvest shown as 3, 4, 5 and 6 tonnes.",
+      "steps": [
+        "Read the height of each of the four bars.",
+        "3 + 4 + 5 + 6 = 18."
+      ],
+      "answer": "18 tonnes."
+    }
+  ],
+  "summaries": {
+    "Question 1: Numbers and Place Value": "Read each digit's place and distinguish ordinary numbers from Roman numerals.",
+    "Question 2: Sequences and Comparison": "Find the repeated change first; count the gaps between terms.",
+    "Question 3: Operations and Time": "Keep the units consistent. Regroup every 60 minutes as one hour.",
+    "Question 4: Shapes and Measurement": "Use the shape's sides, perimeter formula and metric units carefully.",
+    "Question 5: Reading Data": "Read the key, count every symbol, and distinguish the year from the numerical value."
+  },
+  "sha256": "804625b4e0bdccfda0161310b1499a7a5b3b168875a1b7a14e27f54582c36acd"
+}

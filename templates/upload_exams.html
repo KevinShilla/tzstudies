@@ -1,12 +1,12 @@
 {% extends "base.html" %}
-{% block title %}Upload Exams|TZStudies{% endblock %}
+{% block title %}Contribute a Paper | MyTZStudies{% endblock %}
 
 {% block content %}
-<section class="hero">
-  <div class="hero-content">
-    <h1>Upload Past Exams</h1>
-    <p>Share a PDF so all TZ students can benefit.</p>
-  </div>
+<section class="page-intro container">
+  <span class="eyebrow">Help the library grow</span>
+  <h1>Contribute a Past Paper</h1>
+  <p>Share an exam PDF to help more Tanzanian students prepare.</p>
+  <p class="muted">Include the subject, level and year in the filename. Our team reviews papers before adding them to the library.</p>
 </section>
 
 <div class="container">
@@ -17,11 +17,12 @@
     <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
 
     <div class="form-group">
-      <label for="exam_pdf">Select PDF file:</label>
+      <label for="exam_pdf">Choose your exam PDF</label>
       <input type="file" id="exam_pdf" name="exam_pdf" accept=".pdf" required>
+      <p class="form-hint">Choose a complete, readable paper with every question and diagram.</p>
     </div>
 
-    <button type="submit" class="btn">Send to TZStudies</button>
+    <button type="submit" class="btn btn-primary">Send for review</button>
   </form>
 </div>
 {% endblock %}

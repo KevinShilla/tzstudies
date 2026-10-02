@@ -1,0 +1,527 @@
+{
+  "exam": "English-S7-2022.pdf",
+  "output": "English-S7-2022-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Seven",
+  "year": "2022",
+  "code": "02",
+  "exam_type": "Primary School Leaving Examination (PSLE)",
+  "question_count": "45 questions",
+  "language": "en",
+  "reviewed": true,
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Section A — Listening",
+      "prompt": "Where do the animals in the listening story live?",
+      "steps": [
+        "Identify the setting of Mr Lion’s leadership.",
+        "The meeting and changes take place in a forest."
+      ],
+      "answer": "B — In the forest."
+    },
+    {
+      "id": "2",
+      "section": "Section A — Listening",
+      "prompt": "Which animals mocked Mr Lion’s speech?",
+      "steps": [
+        "Separate supporters who cheered from opponents who resisted changes.",
+        "The passage describes the opponents as conservative."
+      ],
+      "answer": "D — Conservative animals."
+    },
+    {
+      "id": "3",
+      "section": "Section A — Listening",
+      "prompt": "Why did Mr Lion give small animals power?",
+      "steps": [
+        "Identify the hardship experienced by the smaller animals.",
+        "His change benefited the group that had been suffering most."
+      ],
+      "answer": "A — They were the most disadvantaged animals."
+    },
+    {
+      "id": "4",
+      "section": "Section A — Listening",
+      "prompt": "What had the forest become after five years?",
+      "steps": [
+        "Follow the sequence from his first changes to the later result.",
+        "The place developed into a large town."
+      ],
+      "answer": "C — A very big town."
+    },
+    {
+      "id": "5",
+      "section": "Section A — Listening",
+      "prompt": "What did greedy animals do if they could not change their lifestyles?",
+      "steps": [
+        "The story contrasts adapting to change with leaving.",
+        "Those who would not adapt moved away from the forest."
+      ],
+      "answer": "E — They fled the forest."
+    },
+    {
+      "id": "6",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "My sister ___ very good English in 2008.",
+      "steps": [
+        "In 2008 is a finished past-time expression.",
+        "Use the simple past form spoke."
+      ],
+      "answer": "B — spoke."
+    },
+    {
+      "id": "7",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "My cat has been ___ for two years.",
+      "steps": [
+        "After has been, the blank describes a continuing state.",
+        "Dead is an adjective; died is the event and death is a noun."
+      ],
+      "answer": "D — dead."
+    },
+    {
+      "id": "8",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "I was ___ my homework when you called.",
+      "steps": [
+        "Was introduces an action in progress in the past.",
+        "Use was + -ing form."
+      ],
+      "answer": "C — doing."
+    },
+    {
+      "id": "9",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Mrs Daudi ___ your friend for years now.",
+      "steps": [
+        "For years now expresses a situation continuing into the present.",
+        "A singular subject takes has been."
+      ],
+      "answer": "A — has been."
+    },
+    {
+      "id": "10",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "___ Mrs Mawazo teach English these days?",
+      "steps": [
+        "This is a present-simple question about a singular person.",
+        "Use Does + subject + base verb teach."
+      ],
+      "answer": "C — Does."
+    },
+    {
+      "id": "11",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "The book belongs to ___.",
+      "steps": [
+        "After the preposition to, use an object pronoun.",
+        "Him is the object form referring to the male owner."
+      ],
+      "answer": "B — him."
+    },
+    {
+      "id": "12",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "The man ___ coat is brown is my uncle.",
+      "steps": [
+        "The relative word expresses possession of the coat.",
+        "Whose means belonging to whom."
+      ],
+      "answer": "C — whose."
+    },
+    {
+      "id": "13",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "I ___ Sabasaba Day to Heroes Day.",
+      "steps": [
+        "The comparison pattern is prefer X to Y.",
+        "The subject I takes the base form prefer."
+      ],
+      "answer": "C — prefer."
+    },
+    {
+      "id": "14",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Mwera came ___ of the shop.",
+      "steps": [
+        "Leaving an enclosed place is coming out of it.",
+        "Complete the phrase out of."
+      ],
+      "answer": "E — out."
+    },
+    {
+      "id": "15",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "The old man was walking ___ the river.",
+      "steps": [
+        "The intended route follows the length of the river.",
+        "Along describes movement beside a line or feature."
+      ],
+      "answer": "B — along."
+    },
+    {
+      "id": "16",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Which is not a preposition of movement: behind, through, out of, onto, around?",
+      "steps": [
+        "Through, out of, onto and around can describe paths of movement.",
+        "Behind normally identifies a position relative to something."
+      ],
+      "answer": "A — behind."
+    },
+    {
+      "id": "17",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "How ___ cars did you see?",
+      "steps": [
+        "Cars is a plural countable noun.",
+        "Use many to ask about their number."
+      ],
+      "answer": "C — many."
+    },
+    {
+      "id": "18",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Add a tag to She doesn’t work with us.",
+      "steps": [
+        "A negative statement takes a positive tag.",
+        "Repeat does and the subject she."
+      ],
+      "answer": "B — does she?"
+    },
+    {
+      "id": "19",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Change The camera was broken by Tom into active voice.",
+      "steps": [
+        "Make the agent Tom the subject.",
+        "Keep the simple past tense and use broke."
+      ],
+      "answer": "D — Tom broke the camera."
+    },
+    {
+      "id": "20",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Ask your teacher for permission to visit the washroom.",
+      "steps": [
+        "Use a polite request for permission.",
+        "May I is the standard form offered in the choices."
+      ],
+      "answer": "E — Please, may I go to the washroom?"
+    },
+    {
+      "id": "21",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "What suffix makes job mean without a job?",
+      "steps": [
+        "The suffix -less means without.",
+        "Attach it to job to form jobless."
+      ],
+      "answer": "C — -less."
+    },
+    {
+      "id": "22",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Find the root of uncomfortable.",
+      "steps": [
+        "Remove the prefix un- and suffix -able.",
+        "The remaining root is comfort."
+      ],
+      "answer": "B — comfort."
+    },
+    {
+      "id": "23",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Choose the closest opposite of truth.",
+      "steps": [
+        "Truth concerns what is real or honest.",
+        "Of the choices, dishonesty expresses a lack of truthfulness."
+      ],
+      "answer": "A — dishonesty.",
+      "tip": "Falsehood or a lie would be more direct opposites, but neither appears in the options."
+    },
+    {
+      "id": "24",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Which word is closest to strong?",
+      "steps": [
+        "The context describes physical strength.",
+        "Powerful expresses similar physical ability."
+      ],
+      "answer": "D — powerful."
+    },
+    {
+      "id": "25",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "What is a person recording debate points called?",
+      "steps": [
+        "Recording proceedings is a secretarial duty.",
+        "Choose secretary rather than the chair, speaker or timekeeper."
+      ],
+      "answer": "E — Secretary."
+    },
+    {
+      "id": "26",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Name a variety of food supplying what is needed for good health.",
+      "steps": [
+        "The description concerns adequate variety and proportions of nutrients.",
+        "That is called a balanced diet."
+      ],
+      "answer": "B — A balanced diet."
+    },
+    {
+      "id": "27",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "What occupation makes wooden chairs in a workshop?",
+      "steps": [
+        "Identify the material and product: wooden furniture.",
+        "The person doing this work is a carpenter."
+      ],
+      "answer": "E — A carpenter."
+    },
+    {
+      "id": "28",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Who repairs a car that has broken down?",
+      "steps": [
+        "Repairing vehicle machinery is mechanical work.",
+        "A mechanic performs that job."
+      ],
+      "answer": "A — A mechanic."
+    },
+    {
+      "id": "29",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "How do you greet someone you meet at 8:18 p.m.?",
+      "steps": [
+        "This is an evening greeting when meeting someone.",
+        "Good night is normally used when leaving or going to bed."
+      ],
+      "answer": "B — Good evening."
+    },
+    {
+      "id": "30",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Toni was sad because he was ___ to perform well.",
+      "steps": [
+        "The structure is unable to + verb.",
+        "It expresses lack of ability and explains his disappointment."
+      ],
+      "answer": "D — unable."
+    },
+    {
+      "id": "31",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "What good quality makes Bauta a wonderful friend?",
+      "steps": [
+        "Choose a positive quality rather than a negative habit.",
+        "Kindness describes being considerate and helpful."
+      ],
+      "answer": "D — kindness."
+    },
+    {
+      "id": "32",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "A grandfather with no teeth is ___.",
+      "steps": [
+        "The suffix -less means without.",
+        "Tooth + less = toothless."
+      ],
+      "answer": "E — toothless."
+    },
+    {
+      "id": "33",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "A good student should avoid ___ behaviour.",
+      "steps": [
+        "Avoid concerns something undesirable.",
+        "Bad is the adjective fitting the intended contrast."
+      ],
+      "answer": "A — bad."
+    },
+    {
+      "id": "34",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "What form should be used for more than one item of furniture?",
+      "steps": [
+        "Furniture is an uncountable noun in standard English.",
+        "It stays furniture; use pieces of furniture when counting."
+      ],
+      "answer": "A — Furniture.",
+      "tip": "Do not add -s to form furnitures."
+    },
+    {
+      "id": "35",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "I packed sweaters but did not wear them because it was ___.",
+      "steps": [
+        "Sweaters are normally worn for warmth.",
+        "The context implies the weather was too warm for them."
+      ],
+      "answer": "C — hot."
+    },
+    {
+      "id": "36",
+      "section": "Section B — Letter writing",
+      "prompt": "Order the letter part: 23 July 2022.",
+      "steps": [
+        "A personal letter gives the sender’s address first.",
+        "The date follows the address, making it the second part."
+      ],
+      "answer": "B — Second part."
+    },
+    {
+      "id": "37",
+      "section": "Section B — Letter writing",
+      "prompt": "Order the letter part: I am writing to remind you of my birthday.",
+      "steps": [
+        "This is the body of the letter.",
+        "Place it after the address, date and greeting."
+      ],
+      "answer": "D — Fourth part."
+    },
+    {
+      "id": "38",
+      "section": "Section B — Letter writing",
+      "prompt": "Order the letter part: Dear mother,",
+      "steps": [
+        "This is the greeting or salutation.",
+        "Place it after the address and date, before the body."
+      ],
+      "answer": "C — Third part."
+    },
+    {
+      "id": "39",
+      "section": "Section B — Letter writing",
+      "prompt": "Order the letter part: P.O. Box 4421, Kokoto.",
+      "steps": [
+        "This is the sender’s address.",
+        "Place it at the beginning."
+      ],
+      "answer": "A — First part."
+    },
+    {
+      "id": "40",
+      "section": "Section B — Letter writing",
+      "prompt": "Order the letter part: Your son, Mfalme.",
+      "steps": [
+        "This is the closing and writer’s name.",
+        "It follows the message."
+      ],
+      "answer": "E — Fifth part."
+    },
+    {
+      "id": "41",
+      "section": "Section C — Comprehension",
+      "prompt": "What is the king’s wife called?",
+      "steps": [
+        "The daughter is a princess and the father is a king.",
+        "The royal title for the king’s wife is queen."
+      ],
+      "answer": "A queen."
+    },
+    {
+      "id": "42",
+      "section": "Section C — Comprehension",
+      "prompt": "Who failed to marry the princess?",
+      "steps": [
+        "The king’s condition required returning with her alive.",
+        "The earlier brave rescuers did not survive their attempts."
+      ],
+      "answer": "The brave men who attempted the rescue before Maguvu."
+    },
+    {
+      "id": "43",
+      "section": "Section C — Comprehension",
+      "prompt": "What might have happened if robbers caught Maguvu during the rescue?",
+      "steps": [
+        "Use the fate of earlier rescuers to make a supported prediction.",
+        "The robbers had killed men who tried to rescue the princess."
+      ],
+      "answer": "They might have killed him.",
+      "tip": "This is an inference, not an event that actually happened in the passage."
+    },
+    {
+      "id": "44",
+      "section": "Section C — Comprehension",
+      "prompt": "Why are the robbers described as bad people?",
+      "steps": [
+        "Identify their harmful actions rather than merely repeat the label bad.",
+        "They killed the king’s wife, abducted his daughter and killed rescuers."
+      ],
+      "answer": "They harmed others by murder and kidnapping."
+    },
+    {
+      "id": "45",
+      "section": "Section C — Comprehension",
+      "prompt": "Why did the king promise marriage to the rescuer?",
+      "steps": [
+        "The king wanted his daughter returned alive.",
+        "The promise was a reward intended to motivate a successful rescue."
+      ],
+      "answer": "To encourage someone to rescue his daughter and bring her home alive."
+    }
+  ],
+  "summaries": {
+    "Section A — Listening": "Track setting, opposing groups, reasons and consequences. Answer what the passage actually says.",
+    "Section A — Grammar and vocabulary": "Use tense markers and grammatical function. Learn fixed expressions, word roots and suffixes rather than memorising option letters.",
+    "Section B — Letter writing": "The complete order is 39 → 36 → 38 → 37 → 40: address, date, greeting, body and closing.",
+    "Section C — Comprehension": "Use stated actions as evidence. For prediction questions, explain what the earlier events make likely."
+  },
+  "references": [
+    {
+      "title": "NECTA: PSLE 2022 English analysis and listening passage",
+      "url": "https://onlinesys.necta.go.tz/cira/psle/2022/02_ENGLISH_LANGUAGE.pdf"
+    }
+  ],
+  "sha256": "dcbbd3f95192ff3b0a16072604552906e0e35b26baa77d3ffb384b5de5921167"
+}

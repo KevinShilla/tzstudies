@@ -1,0 +1,625 @@
+{
+  "created_utc": "2026-10-02T22:53:12.882518+00:00",
+  "pdfs": 60,
+  "pages": 713,
+  "answered_parts": 2376,
+  "geometry_errors": 0,
+  "visual_review": "Every final page inspected; revised pages re-rendered and re-inspected.",
+  "unit_tests": "61 passed",
+  "browser_checks": {
+    "papers": 60,
+    "answerKeys": 60,
+    "filters": "passed",
+    "mobile": "passed",
+    "signup": "passed",
+    "login": "passed",
+    "pdfDownloads": "120 passed",
+    "secondaryPages": "passed",
+    "tutors": "passed",
+    "discussion": "passed",
+    "browserErrors": []
+  },
+  "notes": "Independent worked study solutions. Writing tasks contain model responses. Ambiguous or incorrect printed items are explained in the relevant answer.",
+  "files": [
+    {
+      "file": "BasicMath-F2-2021-AnswerKey.pdf",
+      "pages": 12,
+      "answered_parts": 28,
+      "geometry_errors": [],
+      "sha256": "d584767a7d90851f7d83411c5d11f388bc40035d1b45d40e73f1df86f551c75d",
+      "source": "BasicMath-F2-2021.pdf",
+      "source_sha256": "f49fd880dad4f4a3494625a5d944bbbef9f95a3379b8f15edf9906f51fe053ae",
+      "visual_review": "completed"
+    },
+    {
+      "file": "BasicMath-F2-2022-AnswerKey.pdf",
+      "pages": 14,
+      "answered_parts": 39,
+      "geometry_errors": [],
+      "sha256": "dd03f1966bb91b61f31a98862be8cefab617bd39a3cf8f4ce684a32f2e7ddaf0",
+      "source": "BasicMath-F2-2022.pdf",
+      "source_sha256": "36814d4db68b74071d091711f3d678ed68c459ffa74a029f7dec4568c3cead11",
+      "visual_review": "completed"
+    },
+    {
+      "file": "BasicMath-F2-2023-AnswerKey.pdf",
+      "pages": 10,
+      "answered_parts": 23,
+      "geometry_errors": [],
+      "sha256": "afcce71fe8cd465869c7b0591254b81a2e94aca894102c8108b957072eb2e117",
+      "source": "BasicMath-F2-2023.pdf",
+      "source_sha256": "36062acc4e5981a33edd8da643baccd3ee7430944517df26b4016fcd47268038",
+      "visual_review": "completed"
+    },
+    {
+      "file": "BasicMath-F2-2024-AnswerKey.pdf",
+      "pages": 9,
+      "answered_parts": 21,
+      "geometry_errors": [],
+      "sha256": "2c1efe81576c9b5f5daf4b08eba6db706862bae896cd7a7406e211c96d00e25c",
+      "source": "BasicMath-F2-2024.pdf",
+      "source_sha256": "5f321d2a9ee47f454847c85c0b2b5e32a62d65397a7e73f5fba3e12f162d0370",
+      "visual_review": "completed"
+    },
+    {
+      "file": "BasicMath-F2-2025-AnswerKey.pdf",
+      "pages": 10,
+      "answered_parts": 24,
+      "geometry_errors": [],
+      "sha256": "7fdb9f141941f4a36c08684736b5e7d7b16a45ce4dc80ad8102d896ddf94d485",
+      "source": "BasicMath-F2-2025.pdf",
+      "source_sha256": "200032d2d5376daf1882823a8847b9d4f17ac21fe1309f63062cc8ffbda099fb",
+      "visual_review": "completed"
+    },
+    {
+      "file": "BasicMath-F4-2021-AnswerKey.pdf",
+      "pages": 12,
+      "answered_parts": 38,
+      "geometry_errors": [],
+      "sha256": "3ff358355318e2ed2edc8be5db42d628089d4c6629c338fb2a93ffa159c1c439",
+      "source": "BasicMath-F4-2021.pdf",
+      "source_sha256": "c49ef3175b1569142bf2620ab1ebaae902260f0fdc5a8965337ff9c3808afc12",
+      "visual_review": "completed"
+    },
+    {
+      "file": "BasicMath-F4-2022-AnswerKey.pdf",
+      "pages": 12,
+      "answered_parts": 40,
+      "geometry_errors": [],
+      "sha256": "cd676a6b1a1da2a9002e378ec24ef0cd3b3c008beda197ba2833be7329c0c654",
+      "source": "BasicMath-F4-2022.pdf",
+      "source_sha256": "773f18122422b60b4d1e78b69d04ea06ee0adb1085849a4f6272e30876b3337a",
+      "visual_review": "completed"
+    },
+    {
+      "file": "BasicMath-F4-2023-AnswerKey.pdf",
+      "pages": 13,
+      "answered_parts": 39,
+      "geometry_errors": [],
+      "sha256": "6eb2088af4516a27a2620b3d98737df19bc82cff506ac04c12b60b86221f9ad1",
+      "source": "BasicMath-F4-2023.pdf",
+      "source_sha256": "a83e09ae83e3d418b585de41b7296ad1f027fef4e988781858625d9fa5137818",
+      "visual_review": "completed"
+    },
+    {
+      "file": "BasicMath-F4-2024-AnswerKey.pdf",
+      "pages": 12,
+      "answered_parts": 40,
+      "geometry_errors": [],
+      "sha256": "10e2038c12e15bb054aba29275647d6fe942a1d9dd5c31bd8973d31483e0e9f8",
+      "source": "BasicMath-F4-2024.pdf",
+      "source_sha256": "e5c383aec199ed4391f1b7afcd85aa0a39fede0591fd497e1a4aa40a6b445883",
+      "visual_review": "completed"
+    },
+    {
+      "file": "BasicMath-F4-2025-AnswerKey.pdf",
+      "pages": 10,
+      "answered_parts": 33,
+      "geometry_errors": [],
+      "sha256": "091dec5a7906c639a6d9976a49a9a033bf7dd92cbcbace78ff1a1438dfa5f8e9",
+      "source": "BasicMath-F4-2025.pdf",
+      "source_sha256": "ba51673a2bbe22033fbf40dee5b47973ab4cd300e7310b2cd31bdd3b015a1270",
+      "visual_review": "completed"
+    },
+    {
+      "file": "English-F2-2021-AnswerKey.pdf",
+      "pages": 16,
+      "answered_parts": 60,
+      "geometry_errors": [],
+      "sha256": "e5a5509191f658f165025f58a9dfdc17f2b7bfb65ca8eecdc304b1bd702f1c1e",
+      "source": "English-F2-2021.pdf",
+      "source_sha256": "4cf58c6d4a8ea888a905c7d00766662d093c2514ef2e720f2ed0e559b6813c6a",
+      "visual_review": "completed"
+    },
+    {
+      "file": "English-F2-2022-AnswerKey.pdf",
+      "pages": 14,
+      "answered_parts": 53,
+      "geometry_errors": [],
+      "sha256": "3390e488626f56ac90627bbe052489874313ec68676dfe4664787867e6e9dbf1",
+      "source": "English-F2-2022.pdf",
+      "source_sha256": "680db929a54820567cbf9b8b39de65aeee6242f6bb8745119dcb39e90b6945b6",
+      "visual_review": "completed"
+    },
+    {
+      "file": "English-F2-2023-AnswerKey.pdf",
+      "pages": 15,
+      "answered_parts": 53,
+      "geometry_errors": [],
+      "sha256": "0b36ce379a2abde132637b86c51a9310d03c74965ee1f0c5d3b9ddf59830ecd1",
+      "source": "English-F2-2023.pdf",
+      "source_sha256": "123e2d83eb82b0aaf957715fbe5fb35f537253225f2ba3b23a973cc5796825bf",
+      "visual_review": "completed"
+    },
+    {
+      "file": "English-F2-2024-AnswerKey.pdf",
+      "pages": 14,
+      "answered_parts": 52,
+      "geometry_errors": [],
+      "sha256": "8fb05c85631c2b3877aa94d8caaecf13e23d4f72a5f1dfee13b80e9b08c2c5ec",
+      "source": "English-F2-2024.pdf",
+      "source_sha256": "0cb716c0571976ac3f994ba936db67ad968e43f47cca69873f363b02109ce721",
+      "visual_review": "completed"
+    },
+    {
+      "file": "English-F2-2025-AnswerKey.pdf",
+      "pages": 20,
+      "answered_parts": 66,
+      "geometry_errors": [],
+      "sha256": "f52bafe381f454058befa5b94aba864b71d9757aa6583d5ec909949dc1e604f6",
+      "source": "English-F2-2025.pdf",
+      "source_sha256": "a956fd65662a1f92247699036d31329c7080546e25dbe6c0988fbc97bf8d39cb",
+      "visual_review": "completed"
+    },
+    {
+      "file": "English-F4-2021-AnswerKey.pdf",
+      "pages": 16,
+      "answered_parts": 52,
+      "geometry_errors": [],
+      "sha256": "6598154f1ed7849e872fe25b33d1a5ad74c081486dc258361678476b461bd386",
+      "source": "English-F4-2021.pdf",
+      "source_sha256": "e922e7aacf7c199cf50b3499ecbc09857b895ff79846b7b850bcc73fc25695dd",
+      "visual_review": "completed"
+    },
+    {
+      "file": "English-F4-2022-AnswerKey.pdf",
+      "pages": 19,
+      "answered_parts": 60,
+      "geometry_errors": [],
+      "sha256": "dbb67d9ad31ffa15d39e85ad7391e0eb104e48c345b2a4ce86acb36bf330b503",
+      "source": "English-F4-2022.pdf",
+      "source_sha256": "24192f3c61e51e520ba9280a0fa02d3820e8c34b333e1fa159beab53aa5ed86f",
+      "visual_review": "completed"
+    },
+    {
+      "file": "English-F4-2023-AnswerKey.pdf",
+      "pages": 17,
+      "answered_parts": 53,
+      "geometry_errors": [],
+      "sha256": "d965a6eca4ad41f2eb23650f112db2c307b6457b72613087c386aa926c506a96",
+      "source": "English-F4-2023.pdf",
+      "source_sha256": "4baf3a6eb0ebf60cb26b748131258b37525ea9837b9ed639c157bc0b8aae9041",
+      "visual_review": "completed"
+    },
+    {
+      "file": "English-F4-2024-AnswerKey.pdf",
+      "pages": 16,
+      "answered_parts": 60,
+      "geometry_errors": [],
+      "sha256": "f285cb1c911ddcb598979bfeab8b91bf9d93cb45a7074943465513dfa11fc045",
+      "source": "English-F4-2024.pdf",
+      "source_sha256": "2a1ff0dd0ebe9307de60af42d353c18bc93bb662a47801b28e31c2f6aea6f778",
+      "visual_review": "completed"
+    },
+    {
+      "file": "English-F4-2025-AnswerKey.pdf",
+      "pages": 17,
+      "answered_parts": 59,
+      "geometry_errors": [],
+      "sha256": "3b3b36310c474aa4929130292cd9ab82ccfa726d5267fe0a9db0c6d078e33801",
+      "source": "English-F4-2025.pdf",
+      "source_sha256": "a85ce4cac21318c1ef9d93f02f9609de5fc659bb35c7384dfd71c943d30089b1",
+      "visual_review": "completed"
+    },
+    {
+      "file": "English-S4-2021-AnswerKey.pdf",
+      "pages": 8,
+      "answered_parts": 25,
+      "geometry_errors": [],
+      "sha256": "79ed86ca2745d544160a20e471d54d654d2211fd6eb256ba1177c4c0bf05274e",
+      "source": "English-S4-2021.pdf",
+      "source_sha256": "9bb6bef847674f03a119ac91efc1f0fc63ca7deaaf0023a0b94412af196fb8e3",
+      "visual_review": "completed"
+    },
+    {
+      "file": "English-S4-2022-AnswerKey.pdf",
+      "pages": 9,
+      "answered_parts": 26,
+      "geometry_errors": [],
+      "sha256": "2a1964d6fe4b5874fcb47d054f65e845f28abc2e5ae92a13292e7e046c1d8dc8",
+      "source": "English-S4-2022.pdf",
+      "source_sha256": "196072506a44bf3a6bfbf8b76da92e9ffe6a4809a2bdb1531a7f6798b1945309",
+      "visual_review": "completed"
+    },
+    {
+      "file": "English-S4-2023-AnswerKey.pdf",
+      "pages": 8,
+      "answered_parts": 25,
+      "geometry_errors": [],
+      "sha256": "c2b700e00edd7ea8da6436a6a4ff767b6013fac3b1d65af94cbeefa6e1bd1a65",
+      "source": "English-S4-2023.pdf",
+      "source_sha256": "6daf372f09d68bef5c3d0ce4f81b4743af424b089b71b96319b5df9de9f380ca",
+      "visual_review": "completed"
+    },
+    {
+      "file": "English-S4-2024-AnswerKey.pdf",
+      "pages": 8,
+      "answered_parts": 25,
+      "geometry_errors": [],
+      "sha256": "69e0d0ae0b0a2fdf01ab967f64e5c96317c40f0e15b0b723f9ad75a701b2e0f2",
+      "source": "English-S4-2024.pdf",
+      "source_sha256": "be8e5911d6f38d4d6c2f37a6d71fbfaa33b5cb3b0ee426b5169ccf04e49ed9e6",
+      "visual_review": "completed"
+    },
+    {
+      "file": "English-S7-2016-AnswerKey.pdf",
+      "pages": 12,
+      "answered_parts": 50,
+      "geometry_errors": [],
+      "sha256": "4e029b05ea1c8cb69e77a3ce4f5633486849954a1e8df906ea9900e711ea324b",
+      "source": "English - S7 - 2016.pdf",
+      "source_sha256": "e5ec2fc894995fd7952c84a439479fe1de95f9556665b3b73e93b7dded3103a3",
+      "visual_review": "completed"
+    },
+    {
+      "file": "English-S7-2021-AnswerKey.pdf",
+      "pages": 11,
+      "answered_parts": 45,
+      "geometry_errors": [],
+      "sha256": "7a2c30c5cb7c3d0bc13302041d0eb3d7168f20eb88f878d2917c92bbed6b4524",
+      "source": "English-S7-2021.pdf",
+      "source_sha256": "ad3a7db09bcd62c516a6ed2eeccab4bcfcc8e8d658aa4094c02f4e0dddc6b14e",
+      "visual_review": "completed"
+    },
+    {
+      "file": "English-S7-2022-AnswerKey.pdf",
+      "pages": 11,
+      "answered_parts": 45,
+      "geometry_errors": [],
+      "sha256": "8448c36a0d49526cd37658493e652b3095392b1bb86dd8af30aaef00bc999333",
+      "source": "English-S7-2022.pdf",
+      "source_sha256": "dcbbd3f95192ff3b0a16072604552906e0e35b26baa77d3ffb384b5de5921167",
+      "visual_review": "completed"
+    },
+    {
+      "file": "English-S7-2023-AnswerKey.pdf",
+      "pages": 11,
+      "answered_parts": 45,
+      "geometry_errors": [],
+      "sha256": "0dcac94f978329951263fd72b4a7a26972047c67fe66d4647016d5421905a676",
+      "source": "English-S7-2023.pdf",
+      "source_sha256": "cef932b6c91c6a1d68e593156e843e0700603640c2e84b17d82200ecc256b7e0",
+      "visual_review": "completed"
+    },
+    {
+      "file": "English-S7-2024-AnswerKey.pdf",
+      "pages": 10,
+      "answered_parts": 35,
+      "geometry_errors": [],
+      "sha256": "7afa2c3c4ce0f2b1f5f0781b258712c1e76218c0505ac4c14d216033220f89d6",
+      "source": "English-S7-2024.pdf",
+      "source_sha256": "9c118a5aa41448e93d805ad718ef40920d3917ea9e885fafb28fd5088e0cb390",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Hisabati-S4-2021-AnswerKey.pdf",
+      "pages": 8,
+      "answered_parts": 25,
+      "geometry_errors": [],
+      "sha256": "27cdc29064ad272149ed4b193c74fadc5124ec78f985a6c03ce5d86842d8f4ef",
+      "source": "Hisabati-S4-2021.pdf",
+      "source_sha256": "a2be904738e5b972df54e29ef4528f0e0c13613aed1a4311c664f0f70a0c4969",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Hisabati-S4-2022-AnswerKey.pdf",
+      "pages": 8,
+      "answered_parts": 25,
+      "geometry_errors": [],
+      "sha256": "a7260ae9764a256f6a55cfc941890b2d151b83e3851fcf83af028a167edfc6ac",
+      "source": "Hisabati-S4-2022.pdf",
+      "source_sha256": "91b301fa89dd053ee3cb8d5fdfd9f3cc910cf8bbb0f909158e1e7b5170ff6bb7",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Hisabati-S4-2023-AnswerKey.pdf",
+      "pages": 7,
+      "answered_parts": 25,
+      "geometry_errors": [],
+      "sha256": "c20551844332e38784d9fd17ed18512f7395f722041a82d3c579d72e82d6bbf2",
+      "source": "Hisabati-S4-2023.pdf",
+      "source_sha256": "4f2dde0df369dee3d59a2a1d8d7acfc3fda6fe89a5286bc69b6af49adaa42a20",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Hisabati-S4-2024-AnswerKey.pdf",
+      "pages": 8,
+      "answered_parts": 25,
+      "geometry_errors": [],
+      "sha256": "7f9c52fdd158cec4cb43839c1fffefb74b245cae28eab6d192dcab10017e30b2",
+      "source": "Hisabati-S4-2024.pdf",
+      "source_sha256": "c726a798ee234d79aa523257afa96a8f97386650ad0dd5edbc2e19b47d1bb94b",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Hisabati-S7-2022-AnswerKey.pdf",
+      "pages": 13,
+      "answered_parts": 45,
+      "geometry_errors": [],
+      "sha256": "ddab1ea7f7f6e8752359b0dffcadca39d18f13da0444195c3112f71016795123",
+      "source": "Hisabati-S7-2022.pdf",
+      "source_sha256": "31f41d81a1fec265a61645819f1f578ff73deeed44a916e553438163826098e3",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Hisabati-S7-2023-AnswerKey.pdf",
+      "pages": 13,
+      "answered_parts": 45,
+      "geometry_errors": [],
+      "sha256": "4be18e7da734d10697ba36f00eeeb0d679bafa05c87d26fab5e8fecb9e14d049",
+      "source": "Hisabati-S7-2023.pdf",
+      "source_sha256": "30c1e66057a09be31c9973326165cb62143bbfb29de303aa510291db7518a81e",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Hisabati-S7-2024-AnswerKey.pdf",
+      "pages": 12,
+      "answered_parts": 33,
+      "geometry_errors": [],
+      "sha256": "bb0c9ad6800406eae610d3ebeeaaf424e1bd5cdca2c5f1cfd4652ace10197f63",
+      "source": "Hisabati-S7-2024.pdf",
+      "source_sha256": "3b6b960455f81494c06ad1494797458d6d489789c6368f1cd7ff167dbee67757",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Kiswahili-F2-2021-AnswerKey.pdf",
+      "pages": 13,
+      "answered_parts": 47,
+      "geometry_errors": [],
+      "sha256": "aae5cd921bcf29dbd4b6c4f363064a99683c968f5454d3c80dddb57eea1a50ad",
+      "source": "Kiswahili-F2-2021.pdf",
+      "source_sha256": "fde5c735289120f48e2a879f0e08348bf4d01115a97f3977161fa3570ab41808",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Kiswahili-F2-2022-AnswerKey.pdf",
+      "pages": 14,
+      "answered_parts": 55,
+      "geometry_errors": [],
+      "sha256": "5da80509215aa4ce4cc138c87fb0b5f2e1c4d350a18dd1a4c1f31fbfcf237357",
+      "source": "Kiswahili-F2-2022.pdf",
+      "source_sha256": "06306010d99b606338a6bb1abd2e39df14a3a07d1de60a9b6a4f6c10107df1a1",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Kiswahili-F2-2023-AnswerKey.pdf",
+      "pages": 13,
+      "answered_parts": 54,
+      "geometry_errors": [],
+      "sha256": "ca428e4eb5b74d20590be4a7d9281341f06a9084d6c62385979be799ceb7a792",
+      "source": "Kiswahili-F2-2023.pdf",
+      "source_sha256": "abba530e1820fa752bef028faadd7b980a0ad4347ea9b9e69fad74e032fde4e6",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Kiswahili-F2-2024-AnswerKey.pdf",
+      "pages": 13,
+      "answered_parts": 52,
+      "geometry_errors": [],
+      "sha256": "06c690d1fcead75597e41aa3ec815d481d3a0f6963d0c9c6d87d07a01bf4efb9",
+      "source": "Kiswahili-F2-2024.pdf",
+      "source_sha256": "13317c795549c9bb1c7fd0f0e0f5099eabcf5bac4c383cf9cd5d4f7872e48460",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Kiswahili-F2-2025-AnswerKey.pdf",
+      "pages": 15,
+      "answered_parts": 64,
+      "geometry_errors": [],
+      "sha256": "fa8840392631cfbe327a9abb35edad15a9541e4297709e074efc0ab6f0e58adb",
+      "source": "Kiswahili-F2-2025.pdf",
+      "source_sha256": "b58af0443afab32fe8a797d602271957ea93039d33ed77e5d3cf339b8695ba87",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Kiswahili-F4-2021-AnswerKey.pdf",
+      "pages": 16,
+      "answered_parts": 35,
+      "geometry_errors": [],
+      "sha256": "7a06986ea33809f47f32877dfc8e4c03590a80036760e1b6cf04358ac5393df6",
+      "source": "Kiswahili-F4-2021.pdf",
+      "source_sha256": "524d53396b913da02dd5ee12bf8d75b0cfa1298839bad9e5f2c6a80fa99a5bc2",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Kiswahili-F4-2022-AnswerKey.pdf",
+      "pages": 15,
+      "answered_parts": 34,
+      "geometry_errors": [],
+      "sha256": "f44929505045dee64d520d70ef080993d9c064d5ab0b39e014ca508344fe1c29",
+      "source": "Kiswahili-F4-2022.pdf",
+      "source_sha256": "1323beb4dc3107d5c20028095c20d74d116172addc2e66606474a673d9fa40a1",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Kiswahili-F4-2023-AnswerKey.pdf",
+      "pages": 19,
+      "answered_parts": 57,
+      "geometry_errors": [],
+      "sha256": "986cf67766469dc2d99e3aac981cd9969cb7f905d6c92171de51c9744f46b6a6",
+      "source": "Kiswahili-F4-2023.pdf",
+      "source_sha256": "268e07da9318117f62af1dc411d9313c308f1dc43bf863f57b52354816d1547c",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Kiswahili-F4-2024-AnswerKey.pdf",
+      "pages": 16,
+      "answered_parts": 45,
+      "geometry_errors": [],
+      "sha256": "9518f7832db52be816e93f83f8b36e2b0b1d1cd6aaf8440721b7a125833c10e4",
+      "source": "KISWAHILI-F4-2024.pdf",
+      "source_sha256": "51c1a9024ee544831a78da0b252bdd03091b1940c958bd8ec40fa2479aac34c7",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Kiswahili-F4-2025-AnswerKey.pdf",
+      "pages": 18,
+      "answered_parts": 58,
+      "geometry_errors": [],
+      "sha256": "0a6a272c9ba4cbf4c39611f08b0ae9135aeb81b4222ffd2474d4902996b584e9",
+      "source": "Kiswahili-F4-2025.pdf",
+      "source_sha256": "a3188910ba317f0a6299a070a99af85ace3a689f16624da4449b2d09cf05403e",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Kiswahili-S4-2021-AnswerKey.pdf",
+      "pages": 8,
+      "answered_parts": 25,
+      "geometry_errors": [],
+      "sha256": "c30482907bc146c3a247d263408b48066535df14a25c8f9cd6d9847322757ef9",
+      "source": "Kiswahili-S4-2021.pdf",
+      "source_sha256": "61a228fc2f3a7748c27b5b054f94e6ecfccaf788fe19b40f149e8e543bbee1cf",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Kiswahili-S4-2022-AnswerKey.pdf",
+      "pages": 8,
+      "answered_parts": 25,
+      "geometry_errors": [],
+      "sha256": "13a511fc344436c8af5b2c882e9f21ad111dc7b4ecbee192acbeea2206ede2fe",
+      "source": "Kiswahili-S4-2022.pdf",
+      "source_sha256": "ac1a3ce972695fd4dc8bf9173f4e867a80f551050ceeb36a6d584dffaeadb361",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Kiswahili-S4-2023-AnswerKey.pdf",
+      "pages": 8,
+      "answered_parts": 27,
+      "geometry_errors": [],
+      "sha256": "ee179b9a776b7e42e965188f006528ebccf4738584b2236121c7aaf0a6b91e2f",
+      "source": "Kiswahili-S4-2023.pdf",
+      "source_sha256": "ed940720f4ae8da3b72031979faa6d6146f9e71887e3c1c21dc8267dd84e198c",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Kiswahili-S4-2024-AnswerKey.pdf",
+      "pages": 8,
+      "answered_parts": 25,
+      "geometry_errors": [],
+      "sha256": "b89b0621bef1761ca769110f02d90454d729d151ac50e8c96c21228f4a2954da",
+      "source": "Kiswahili-S4-2024.pdf",
+      "source_sha256": "b35ca96ab5c58359fd1e99c3b7d5baf696912f4cea5f6d75b78204a12053ca34",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Kiswahili-S7-2021-AnswerKey.pdf",
+      "pages": 11,
+      "answered_parts": 45,
+      "geometry_errors": [],
+      "sha256": "a11ffbb7eadd07c06b79a12d4ae28699b3b6822499c1030221a91cc5b215b4ab",
+      "source": "Kiswahili-S7-2021.pdf",
+      "source_sha256": "5c3043d9199b639e2a20b2469d73f3d3f294e4c547e55d73cbc8662a5c078f78",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Kiswahili-S7-2022-AnswerKey.pdf",
+      "pages": 11,
+      "answered_parts": 45,
+      "geometry_errors": [],
+      "sha256": "477ea8bfcbd11374759b87d4acb8cd8c92d4dba85ea80a41b89bdbb0ba649298",
+      "source": "Kiswahili-S7-2022.pdf",
+      "source_sha256": "c60e1adee90e314e1467371f9cd5e974c2e94e6dd1115521581a225cbdee9f0d",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Kiswahili-S7-2023-AnswerKey.pdf",
+      "pages": 11,
+      "answered_parts": 45,
+      "geometry_errors": [],
+      "sha256": "83d28dd72ce416dc2e46f4bc7f48d0cf04f1ea56bbedccad5d99359a1e9353f8",
+      "source": "Kiswahili-S7-2023.pdf",
+      "source_sha256": "8a0fb41c5b783369d456b7538c09ea69238a0251749db7b6c9a90fb9e813669f",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Kiswahili-S7-2024-AnswerKey.pdf",
+      "pages": 9,
+      "answered_parts": 31,
+      "geometry_errors": [],
+      "sha256": "757bef3bf5a5e974a10377d1e73901733d5867f0fe6224472f77ffa7154d4434",
+      "source": "Kiswahili-S7-2024.pdf",
+      "source_sha256": "cb1668dea7f272e4e55e2962f14bcc59d6092870241c5a6bb59a8243e4fd73d6",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Mathematics-S4-2020-AnswerKey.pdf",
+      "pages": 8,
+      "answered_parts": 25,
+      "geometry_errors": [],
+      "sha256": "fefa0fcc800afb121cc2bee748aa60631f05f59500cd7e0c03d9e0858536850e",
+      "source": "Mathematics-S4-2020.pdf",
+      "source_sha256": "804625b4e0bdccfda0161310b1499a7a5b3b168875a1b7a14e27f54582c36acd",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Mathematics-S4-2021-AnswerKey.pdf",
+      "pages": 8,
+      "answered_parts": 25,
+      "geometry_errors": [],
+      "sha256": "ad886dda1463c1f8f83073c03ce0739752ea77621d77bd96703df16cf2b44b93",
+      "source": "Mathematics-S4-2021.pdf",
+      "source_sha256": "b7534cfb8adc9e5540f17624f5d498579c008ca9c86a7b2f74e211e28de47de6",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Mathematics-S4-2022-AnswerKey.pdf",
+      "pages": 8,
+      "answered_parts": 25,
+      "geometry_errors": [],
+      "sha256": "a4c3b5860e2011b77e61421c6812e4ff560ac904deacbef70f8838362e43b988",
+      "source": "Mathematics-S4-2022.pdf",
+      "source_sha256": "bafa9f591a4557ddac4a85fb1a8f63d305afbb6f24eda56a078288cbe4932150",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Mathematics-S4-2023-AnswerKey.pdf",
+      "pages": 8,
+      "answered_parts": 25,
+      "geometry_errors": [],
+      "sha256": "31ae69e14b1305bca938e11f865235682c1f35bff4f822bcbc1989a6a4065b43",
+      "source": "Mathematics-S4-2023.pdf",
+      "source_sha256": "2bd5c3c296bc8fb812993c5a0e16409060731837601e38cef78687f4b59dcc1f",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Mathematics-S4-2024-AnswerKey.pdf",
+      "pages": 8,
+      "answered_parts": 25,
+      "geometry_errors": [],
+      "sha256": "20544bef62e85f7490f581ab53ecddea2bb8ff4b03f37b4864247149e1fe430e",
+      "source": "Mathematics-S4-2024.pdf",
+      "source_sha256": "4e0238911eab4df446f5c30dbe550cdc6c9703afce89986c18f508c269c46a5a",
+      "visual_review": "completed"
+    },
+    {
+      "file": "Mathematics-S7-2021-AnswerKey.pdf",
+      "pages": 12,
+      "answered_parts": 45,
+      "geometry_errors": [],
+      "sha256": "fe3b34028345d58af239a3e7e3d507e1c864f8f32e97ad6651bedbede57ed4a0",
+      "source": "Mathematics-S7-2021.pdf",
+      "source_sha256": "c41b18552af675c92e473f6c5b9bceb0bb045b99076b85168d948c882ea8b539",
+      "visual_review": "completed"
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "exam": "Hisabati-S7-2024.pdf",
+  "output": "Hisabati-S7-2024-AnswerKey.pdf",
+  "subject": "Hisabati",
+  "level": "Darasa la Saba",
+  "year": "2024",
+  "code": "04",
+  "exam_type": "Mtihani wa Kumaliza Elimu ya Msingi (PSLE)",
+  "question_count": "Maswali 8; vipengele 33",
+  "language": "sw",
+  "reviewed": true,
+  "expected_parts": [
+    "1(a)",
+    "1(b)",
+    "1(c)",
+    "1(d)",
+    "1(e)",
+    "1(f)",
+    "1(g)",
+    "1(h)",
+    "1(i)",
+    "1(j)",
+    "2(a)",
+    "2(b)",
+    "2(c)",
+    "2(d)",
+    "2(e)",
+    "2(f)",
+    "3(a)",
+    "3(b)",
+    "3(c)",
+    "4(a)",
+    "4(b)",
+    "4(c)",
+    "5(a)",
+    "5(b)",
+    "5(c)",
+    "6(a)",
+    "6(b)",
+    "6(c)",
+    "7(a)",
+    "7(b)",
+    "8(a)",
+    "8(b)",
+    "8(c)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Sehemu A: Matendo ya Kihisabati",
+      "prompt": "Kokotoa 66 + 21.",
+      "steps": [
+        "Ongeza makumi: 60 + 20 = 80.",
+        "Ongeza mamoja: 6 + 1 = 7; jumla ni 80 + 7."
+      ],
+      "answer": "87."
+    },
+    {
+      "id": "1(b)",
+      "section": "Sehemu A: Matendo ya Kihisabati",
+      "prompt": "Kokotoa 5,743 - 2,776.",
+      "steps": [
+        "Panga tarakimu kwa nafasi zake: 5,743 - 2,776.",
+        "Azima katika mamoja na makumi: 13 - 6 = 7 na 13 - 7 = 6.",
+        "Azima katika mamia: 16 - 7 = 9; maelfu yanabaki 4 - 2 = 2."
+      ],
+      "answer": "2,967.",
+      "tip": "Tarakimu ya makumi katika 2,776 ni 7. Soma namba katika karatasi yenyewe ili kuepuka kosa la nakala."
+    },
+    {
+      "id": "1(c)",
+      "section": "Sehemu A: Matendo ya Kihisabati",
+      "prompt": "Kokotoa 53 x 13.",
+      "steps": [
+        "Gawa 13 kuwa 10 + 3.",
+        "53 x 10 = 530; 53 x 3 = 159.",
+        "530 + 159 = 689."
+      ],
+      "answer": "689."
+    },
+    {
+      "id": "1(d)",
+      "section": "Sehemu A: Matendo ya Kihisabati",
+      "prompt": "Kokotoa 504 / 9.",
+      "steps": [
+        "9 inaingia katika 50 mara 5, kubaki 5.",
+        "Shusha 4: 54 / 9 = 6.",
+        "Hakiki: 56 x 9 = 504."
+      ],
+      "answer": "56."
+    },
+    {
+      "id": "1(e)",
+      "section": "Sehemu A: Matendo ya Kihisabati",
+      "prompt": "Kokotoa 4/7 + 2/7.",
+      "steps": [
+        "Vigawe vya chini vinafanana, hivyo jumlisha namba za juu.",
+        "(4 + 2)/7 = 6/7."
+      ],
+      "answer": "6/7."
+    },
+    {
+      "id": "1(f)",
+      "section": "Sehemu A: Matendo ya Kihisabati",
+      "prompt": "Kokotoa 6/7 - 5/8.",
+      "steps": [
+        "Kigawe cha pamoja cha 7 na 8 ni 56.",
+        "6/7 = 48/56; 5/8 = 35/56.",
+        "48/56 - 35/56 = 13/56."
+      ],
+      "answer": "13/56."
+    },
+    {
+      "id": "1(g)",
+      "section": "Sehemu A: Matendo ya Kihisabati",
+      "prompt": "Kokotoa 5/6 x 7/12.",
+      "steps": [
+        "Zidisha namba za juu: 5 x 7 = 35.",
+        "Zidisha namba za chini: 6 x 12 = 72.",
+        "35 na 72 hazina kigawanyo cha shirika zaidi ya 1."
+      ],
+      "answer": "35/72."
+    },
+    {
+      "id": "1(h)",
+      "section": "Sehemu A: Matendo ya Kihisabati",
+      "prompt": "Kokotoa 43.36 + 25.38.",
+      "steps": [
+        "Panga nukta za desimali katika mstari mmoja.",
+        "0.36 + 0.38 = 0.74 na 43 + 25 = 68."
+      ],
+      "answer": "68.74."
+    },
+    {
+      "id": "1(i)",
+      "section": "Sehemu A: Matendo ya Kihisabati",
+      "prompt": "Kokotoa 86.42 - 39.48.",
+      "steps": [
+        "Panga desimali, kisha azima panapohitajika.",
+        "86.42 - 39 = 47.42; 47.42 - 0.48 = 46.94."
+      ],
+      "answer": "46.94."
+    },
+    {
+      "id": "1(j)",
+      "section": "Sehemu A: Matendo ya Kihisabati",
+      "prompt": "Kokotoa +235 + (-200).",
+      "steps": [
+        "Kuongeza namba hasi ni sawa na kutoa ukubwa wake.",
+        "235 - 200 = 35."
+      ],
+      "answer": "35."
+    },
+    {
+      "id": "2(a)",
+      "section": "Swali 2: Namba, Fedha na Sehemu",
+      "prompt": "Andika 813 kwa maneno.",
+      "steps": [
+        "8 iko katika nafasi ya mamia, hivyo thamani yake ni mia nane.",
+        "Namba iliyobaki ni 13, yaani kumi na tatu."
+      ],
+      "answer": "Mia nane na kumi na tatu."
+    },
+    {
+      "id": "2(b)",
+      "section": "Swali 2: Namba, Fedha na Sehemu",
+      "prompt": "Andika 47 kwa Kirumi.",
+      "steps": [
+        "Gawa 47 kuwa 40 + 7.",
+        "40 = XL na 7 = VII; unganisha alama hizo."
+      ],
+      "answer": "XLVII."
+    },
+    {
+      "id": "2(c)",
+      "section": "Swali 2: Namba, Fedha na Sehemu",
+      "prompt": "Chekecho alipata sh. 600,000 kwa mbuzi na sh. 300,000 kwa sungura. Tafuta jumla.",
+      "steps": [
+        "Ongeza mapato kutoka katika mauzo yote mawili.",
+        "600,000 + 300,000 = 900,000."
+      ],
+      "answer": "Sh. 900,000."
+    },
+    {
+      "id": "2(d)",
+      "section": "Swali 2: Namba, Fedha na Sehemu",
+      "prompt": "Toa 1/6 kutoka kwenye 3/5.",
+      "steps": [
+        "Toa sehemu iliyoelezwa kutoka kwenye sehemu ya mwanzo: 3/5 - 1/6.",
+        "Tumia kigawe cha pamoja 30: 3/5 = 18/30 na 1/6 = 5/30.",
+        "18/30 - 5/30 = 13/30."
+      ],
+      "answer": "13/30."
+    },
+    {
+      "id": "2(e)",
+      "section": "Swali 2: Namba, Fedha na Sehemu",
+      "prompt": "Tofali 2,782,234 zilifyatuliwa mwaka wa kwanza na 1,543,132 mwaka wa pili. Tafuta jumla.",
+      "steps": [
+        "Panga namba kwa nafasi zake.",
+        "2,782,234 + 1,543,132 = 4,325,366."
+      ],
+      "answer": "Tofali 4,325,366."
+    },
+    {
+      "id": "2(f)",
+      "section": "Swali 2: Namba, Fedha na Sehemu",
+      "prompt": "Ni namba ipi ikiongezwa kwenye 160,222,346 hufanya 280,544,660?",
+      "steps": [
+        "Namba inayokosekana ni jumla ukitoa namba iliyopo.",
+        "280,544,660 - 160,222,346 = 120,322,314.",
+        "Hakiki kwa kujumlisha namba hizo mbili."
+      ],
+      "answer": "120,322,314."
+    },
+    {
+      "id": "3(a)",
+      "section": "Swali 3: Mifululizo",
+      "prompt": "Jaza: 18, 16, 14, 12, __, __.",
+      "steps": [
+        "Tofauti ya kila namba na inayofuata ni kupungua kwa 2.",
+        "12 - 2 = 10; 10 - 2 = 8."
+      ],
+      "answer": "10, 8."
+    },
+    {
+      "id": "3(b)",
+      "section": "Swali 3: Mifululizo",
+      "prompt": "Jaza: 11, 22, 33, 44, __, __.",
+      "steps": [
+        "Kila namba inaongezeka kwa 11.",
+        "44 + 11 = 55; 55 + 11 = 66."
+      ],
+      "answer": "55, 66."
+    },
+    {
+      "id": "3(c)",
+      "section": "Swali 3: Mifululizo",
+      "prompt": "Jaza: 3, 9, 27, __, __.",
+      "steps": [
+        "Kila namba huzidishwa kwa 3.",
+        "27 x 3 = 81; 81 x 3 = 243."
+      ],
+      "answer": "81, 243."
+    },
+    {
+      "id": "4(a)",
+      "section": "Swali 4: Saa na Faida",
+      "prompt": "Andika saa moja kasoro robo asubuhi katika tarakimu.",
+      "steps": [
+        "Robo saa ni dakika 15; toa dakika 15 katika saa moja kamili.",
+        "Kwa kuhesabu saa za Kiswahili moja kwa moja: 1:00 - 0:15 = 12:45, au 0:45 baada ya saa kumi na mbili.",
+        "Saa moja asubuhi ni 07:00 katika mfumo wa saa 24; 07:00 - 00:15 = 06:45."
+      ],
+      "answer": "12:45 kwa saa za Kiswahili; 06:45 asubuhi kwa mfumo wa saa 24.",
+      "tip": "Eleza mfumo wa saa unaotumia. 00:45 katika saa 24 ingekuwa baada ya usiku wa manane, si muda unaotajwa hapa."
+    },
+    {
+      "id": "4(b)",
+      "section": "Swali 4: Saa na Faida",
+      "prompt": "Chora uso wa saa na mishale inayoonesha saa kumi na moja kasoro robo.",
+      "steps": [
+        "Kasoro robo humaanisha dakika 45 baada ya saa inayotangulia.",
+        "Kwa saa za Kiswahili, muda huo ni saa 10:45; kwa uso wa saa wa kawaida ni 04:45 au 16:45.",
+        "Katika uso wa kawaida uliochorwa hapa, mshale wa dakika unaelekea 9 na wa saa uko kati ya 4 na 5, karibu na 5."
+      ],
+      "answer": "Mshale wa dakika: 9. Mshale wa saa: karibu na 5 (04:45/16:45 kwenye uso wa kawaida).",
+      "tip": "Ukiweka namba za saa za Kiswahili moja kwa moja kwenye uso, mshale wa saa utakuwa karibu na 11. Usichanganye namna hizi mbili za kuweka namba.",
+      "drawing": {
+        "type": "clock",
+        "hour": 4,
+        "minute": 45,
+        "caption": "Uso wa saa wa kawaida: 04:45 / 16:45"
+      }
+    },
+    {
+      "id": "4(c)",
+      "section": "Swali 4: Saa na Faida",
+      "prompt": "Sadiki alinunua gari kwa sh. 58,540,000 na kuuza kwa 60,212,000. Fikiri alinunua pikipiki mbili kwa 2,850,000 kila moja na kuuza kwa 3,150,000 kila moja. Tafuta tofauti ya faida.",
+      "steps": [
+        "Faida ya Sadiki = 60,212,000 - 58,540,000 = 1,672,000.",
+        "Faida ya pikipiki moja = 3,150,000 - 2,850,000 = 300,000.",
+        "Faida ya pikipiki mbili = 2 x 300,000 = 600,000.",
+        "Tofauti = 1,672,000 - 600,000 = 1,072,000."
+      ],
+      "answer": "Sh. 1,072,000."
+    },
+    {
+      "id": "5(a)",
+      "section": "Swali 5: Vipimo na Mwendokasi",
+      "prompt": "Kuna miligramu ngapi katika kilogramu 1?",
+      "steps": [
+        "1 kg = 1,000 g.",
+        "1 g = 1,000 mg, hivyo 1,000 x 1,000 = 1,000,000."
+      ],
+      "answer": "Miligramu 1,000,000."
+    },
+    {
+      "id": "5(b)",
+      "section": "Swali 5: Vipimo na Mwendokasi",
+      "prompt": "Gari limesafiri km 54 kwa saa 6. Tafuta mwendokasi.",
+      "steps": [
+        "Mwendokasi = umbali / muda.",
+        "54 / 6 = 9."
+      ],
+      "answer": "Km 9 kwa saa (9 km/h)."
+    },
+    {
+      "id": "5(c)",
+      "section": "Swali 5: Vipimo na Mwendokasi",
+      "prompt": "Wanafunzi hunywa lita 200 na ml 260 kila siku. Tafuta kiasi cha siku 28.",
+      "steps": [
+        "Lita: 200 x 28 = 5,600.",
+        "Mililita: 260 x 28 = 7,280 ml = lita 7 na ml 280.",
+        "Jumla = lita 5,600 + lita 7 na ml 280."
+      ],
+      "answer": "Lita 5,607 na mililita 280."
+    },
+    {
+      "id": "6(a)",
+      "section": "Swali 6: Aljebra",
+      "prompt": "Andika kigeu cha mtajo 200y².",
+      "steps": [
+        "200 ni kizidisho kisichobadilika.",
+        "Herufi inayoweza kuwa na thamani tofauti ni y; kipeo 2 kinaonesha kuzidisha y kwa y."
+      ],
+      "answer": "y."
+    },
+    {
+      "id": "6(b)",
+      "section": "Swali 6: Aljebra",
+      "prompt": "Tafuta k katika 12k - 38 = 4k + 10.",
+      "steps": [
+        "Toa 4k pande zote na ongeza 38 pande zote: 8k = 48.",
+        "Gawa pande zote kwa 8: k = 6.",
+        "Hakiki: 12(6) - 38 = 34 na 4(6) + 10 = 34."
+      ],
+      "answer": "k = 6."
+    },
+    {
+      "id": "6(c)",
+      "section": "Swali 6: Aljebra",
+      "prompt": "Urefu wa kiwanja unazidi upana kwa m 20. Mzingo ni m 240. Tafuta upana.",
+      "steps": [
+        "Weka upana = w; urefu = w + 20.",
+        "2(w + w + 20) = 240.",
+        "2w + 20 = 120, hivyo 2w = 100 na w = 50."
+      ],
+      "answer": "Meta 50."
+    },
+    {
+      "id": "7(a)",
+      "section": "Sehemu C: Grafu na Takwimu",
+      "prompt": "Grafu ina chupa 10, 30, 20, 10 na 30 kwa siku tano. Chupa moja ni sh. 150. Tafuta jumla ya mauzo.",
+      "steps": [
+        "Soma mihimili: kila mstari mkubwa wa wima una tofauti ya chupa 5.",
+        "Jumla ya chupa = 10 + 30 + 20 + 10 + 30 = 100.",
+        "Mapato = 100 x 150 = 15,000."
+      ],
+      "answer": "Sh. 15,000."
+    },
+    {
+      "id": "7(b)",
+      "section": "Sehemu C: Grafu na Takwimu",
+      "prompt": "Tafuta wastani wa mauzo ya siku tano.",
+      "steps": [
+        "Mapato ya siku tano ni sh. 15,000 kutoka sehemu (a).",
+        "Wastani = jumla / idadi ya siku = 15,000 / 5."
+      ],
+      "answer": "Sh. 3,000 kwa siku."
+    },
+    {
+      "id": "8(a)",
+      "section": "Swali 8: Maeneo ya Maumbo",
+      "prompt": "Pembetatu ina eneo sm² 36 na kimo sm 3. Tafuta kitako.",
+      "steps": [
+        "Eneo = 1/2 x kitako x kimo.",
+        "36 = 1/2 x b x 3; zidisha kwa 2: 72 = 3b.",
+        "b = 72 / 3 = 24."
+      ],
+      "answer": "Sm 24."
+    },
+    {
+      "id": "8(b)",
+      "section": "Swali 8: Maeneo ya Maumbo",
+      "prompt": "Mraba una upande sm 10; duara lina nusu kipenyo sm 14. Tafuta tofauti ya maeneo (π = 22/7).",
+      "steps": [
+        "Eneo la mraba = 10 x 10 = sm² 100.",
+        "Nusu kipenyo ni radius r = 14, si kipenyo.",
+        "Eneo la duara = (22/7) x 14 x 14 = sm² 616.",
+        "Tofauti = 616 - 100 = 516."
+      ],
+      "answer": "Sm² 516."
+    },
+    {
+      "id": "8(c)",
+      "section": "Swali 8: Maeneo ya Maumbo",
+      "prompt": "Trapeza ina eneo m² 171, kimo m 9 na upande sambamba mmoja m 16. Tafuta upande mwingine.",
+      "steps": [
+        "Eneo = 1/2 x (a + b) x h.",
+        "171 = 1/2 x (16 + b) x 9.",
+        "Zidisha kwa 2 na ugawanye kwa 9: 38 = 16 + b.",
+        "b = 38 - 16 = 22."
+      ],
+      "answer": "Meta 22."
+    }
+  ],
+  "summaries": {
+    "Sehemu A: Matendo ya Kihisabati": "Panga nafasi za tarakimu na desimali. Tumia kigawe cha pamoja kwa kujumlisha au kutoa sehemu.",
+    "Swali 2: Namba, Fedha na Sehemu": "Soma maneno ya swali ili kutofautisha jumla, tofauti na namba inayokosekana. Hakiki jibu kwa tendo la kinyume.",
+    "Swali 3: Mifululizo": "Linganisha namba zinazofuatana ili kupata kanuni inayojirudia.",
+    "Swali 4: Saa na Faida": "Robo saa ni dakika 15. Eleza mfumo wa saa. Faida hupatikana kwa kutoa bei ya kununulia katika bei ya kuuza.",
+    "Swali 5: Vipimo na Mwendokasi": "Badili vipimo kabla ya kukokotoa; 1,000 ml = lita 1 na 1,000,000 mg = kg 1.",
+    "Swali 6: Aljebra": "Tambua kigeu, kizidisho na kipeo. Fanya tendo lilelile katika pande zote za mlinganyo.",
+    "Sehemu C: Grafu na Takwimu": "Soma kipimo cha mhimili kwa makini. Wastani = jumla / idadi ya vipengele.",
+    "Swali 8: Maeneo ya Maumbo": "Andika kanuni ya eneo kwanza. Radius ni nusu kipenyo, na eneo huandikwa katika vipimo vya mraba."
+  },
+  "references": [
+    {
+      "title": "Maelezo ya saa za Kiswahili — University of Kansas",
+      "url": "https://kiswahili.ku.edu/sites/kiswahili/files/documents/lessons/lesson_17.pdf"
+    }
+  ],
+  "sha256": "3b6b960455f81494c06ad1494797458d6d489789c6368f1cd7ff167dbee67757"
+}

@@ -1,0 +1,268 @@
+{
+  "exam": "BasicMath-F2-2024.pdf",
+  "output": "BasicMath-F2-2024-AnswerKey.pdf",
+  "subject": "Basic Mathematics",
+  "level": "Form Two",
+  "year": "2024",
+  "code": "041",
+  "exam_type": "Form Two National Assessment (FTNA)",
+  "question_count": "10 compulsory questions; 21 answered parts",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "5f321d2a9ee47f454847c85c0b2b5e32a62d65397a7e73f5fba3e12f162d0370",
+  "expected_parts": [
+    "1(a)",
+    "1(b)",
+    "2(a)",
+    "2(b)",
+    "3(a)",
+    "3(b)",
+    "4(a)",
+    "4(b)",
+    "5(a)",
+    "5(b)",
+    "6(a)",
+    "6(b)",
+    "7(a)",
+    "7(b)",
+    "8(a)",
+    "8(b)",
+    "9(a)",
+    "9(b)",
+    "10(a)",
+    "10(b)(i)",
+    "10(b)(ii)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Question 1 — Factors and estimation",
+      "prompt": "Find the GCF and LCM of 90 and 240.",
+      "answer": "GCF = 30; LCM = 720.",
+      "steps": [
+        "Prime factors: 90 = 2 × 3² × 5 and 240 = 2⁴ × 3 × 5.",
+        "GCF uses minimum shared powers: 2 × 3 × 5 = 30. LCM uses maximum powers: 2⁴ × 3² × 5 = 720."
+      ]
+    },
+    {
+      "id": "1(b)",
+      "section": "Question 1 — Factors and estimation",
+      "prompt": "Estimate 8108 ÷ 37.",
+      "answer": "Approximately 200, using one-significant-figure estimation.",
+      "steps": [
+        "Round 8108 to 8000 and 37 to 40 for an easy estimate.",
+        "8000 ÷ 40 = 200."
+      ],
+      "tip": "No precision is specified. A compatible-number estimate 8140 ÷ 37 = 220 is also reasonable and closer to the exact quotient, about 219.135. State the approximation you use."
+    },
+    {
+      "id": "2(a)",
+      "section": "Question 2 — Fractions and recurring decimals",
+      "prompt": "Simplify 3 9/10 ÷ (3 3/5 − 1 1/2).",
+      "answer": "13/7 = 1 6/7.",
+      "steps": [
+        "Convert mixed numbers: 39/10 ÷ (18/5 − 3/2).",
+        "Bracket first: 18/5 − 3/2 = 36/10 − 15/10 = 21/10.",
+        "Divide by multiplying the reciprocal: (39/10) × (10/21) = 39/21 = 13/7."
+      ]
+    },
+    {
+      "id": "2(b)",
+      "section": "Question 2 — Fractions and recurring decimals",
+      "prompt": "Change 1.2̇3̇ to a mixed number; the block 23 repeats.",
+      "answer": "1 23/99.",
+      "steps": [
+        "Let x = 1.232323… . Then 100x = 123.232323… .",
+        "Subtract x from 100x: 99x = 122, so x = 122/99 = 1 23/99."
+      ]
+    },
+    {
+      "id": "3(a)",
+      "section": "Question 3 — Interest and units",
+      "prompt": "How much must be lent to earn Tsh 36,000 simple interest at 5% per annum in 6 months?",
+      "answer": "Tsh 1,440,000.",
+      "steps": [
+        "Use t = 6/12 = 1/2 year and I = Prt/100.",
+        "P = 100I/(rt) = (100 × 36,000)/(5 × 1/2) = 1,440,000."
+      ]
+    },
+    {
+      "id": "3(b)",
+      "section": "Question 3 — Interest and units",
+      "prompt": "Nyanjara bought 50 bottles of milk, each holding 300 ml, for 70 children. Find the total litres bought.",
+      "answer": "15 litres.",
+      "steps": [
+        "Total volume = 50 × 300 = 15,000 ml.",
+        "Since 1000 ml = 1 litre, 15,000 ml = 15 litres; the number of children does not change the volume bought."
+      ]
+    },
+    {
+      "id": "4(a)",
+      "section": "Question 4 — Angles and perimeter",
+      "prompt": "One of two complementary angles is twice the other. Find both.",
+      "answer": "30° and 60°.",
+      "steps": [
+        "Let the smaller angle be t and the larger 2t. Complementary angles sum to 90°.",
+        "t + 2t = 90 gives t = 30; the other is 60."
+      ]
+    },
+    {
+      "id": "4(b)",
+      "section": "Question 4 — Angles and perimeter",
+      "prompt": "An isosceles triangle has perimeter 15 cm and base 7 cm. Draw it and find each equal side.",
+      "answer": "Each equal side is 4 cm.",
+      "steps": [
+        "Let each equal side be s. Then 2s + 7 = 15.",
+        "2s = 8, so s = 4 cm. The side lengths satisfy 4 + 4 > 7, so the triangle is possible."
+      ],
+      "image": "answer_keys/figures/BasicMath-F2-2024-isosceles.png"
+    },
+    {
+      "id": "5(a)",
+      "section": "Question 5 — Algebra",
+      "prompt": "Solve 1 − (x + 2)/2 = x − 3.",
+      "answer": "x = 2.",
+      "steps": [
+        "Multiply every term by 2: 2 − (x + 2) = 2x − 6.",
+        "Simplify: −x = 2x − 6, so 3x = 6 and x = 2. Check both sides equal −1."
+      ]
+    },
+    {
+      "id": "5(b)",
+      "section": "Question 5 — Algebra",
+      "prompt": "What term must be added to n² + (1 1/2)n = 0 to complete the square?",
+      "answer": "Add 9/16 to both sides; (n + 3/4)² = 9/16.",
+      "steps": [
+        "The coefficient of n is 3/2. Half of it is 3/4.",
+        "Square this half: (3/4)² = 9/16. Then n² + (3/2)n + 9/16 = (n + 3/4)²."
+      ]
+    },
+    {
+      "id": "6(a)",
+      "section": "Question 6 — Translation and coordinates",
+      "prompt": "A translation maps P(−2,2) to P′(0,0). Find the image of (5,−1).",
+      "answer": "(7,−3).",
+      "steps": [
+        "Translation vector = (0 − (−2), 0 − 2) = (2,−2).",
+        "Add the vector to (5,−1): (5 + 2, −1 − 2) = (7,−3)."
+      ]
+    },
+    {
+      "id": "6(b)",
+      "section": "Question 6 — Translation and coordinates",
+      "prompt": "A line passes through (1,2) and cuts the y-axis at (0,2). Find its equation.",
+      "answer": "y = 2.",
+      "steps": [
+        "Gradient = (2 − 2)/(1 − 0) = 0.",
+        "A zero-gradient line is horizontal; its constant y-coordinate is 2."
+      ]
+    },
+    {
+      "id": "7(a)",
+      "section": "Question 7 — Radicals and logarithms",
+      "prompt": "If x = √3, y = √2 and z(x − y) = 2, write z = a(√b + √c).",
+      "answer": "z = 2(√3 + √2); a = 2, b = 3, c = 2.",
+      "steps": [
+        "Substitute: z = 2/(√3 − √2).",
+        "Rationalise with √3 + √2: z = 2(√3 + √2)/(3 − 2) = 2(√3 + √2)."
+      ]
+    },
+    {
+      "id": "7(b)",
+      "section": "Question 7 — Radicals and logarithms",
+      "prompt": "Simplify (log 8 − 2 log 4)/(log 4 − log 2).",
+      "answer": "−1.",
+      "steps": [
+        "Use log 8 = 3 log 2 and log 4 = 2 log 2.",
+        "Numerator = 3 log 2 − 4 log 2 = −log 2; denominator = 2 log 2 − log 2 = log 2.",
+        "Divide: −log 2/log 2 = −1."
+      ]
+    },
+    {
+      "id": "8(a)",
+      "section": "Question 8 — Similarity and congruence",
+      "prompt": "△PQR ∼ △LMN, ∠MNL = 40° and ∠QPR = 60°. Find ∠RQP.",
+      "answer": "80°.",
+      "steps": [
+        "The ordered correspondence is P ↔ L, Q ↔ M and R ↔ N; therefore ∠PRQ = 40°.",
+        "In △PQR, ∠RQP = 180 − 60 − 40 = 80°."
+      ]
+    },
+    {
+      "id": "8(b)",
+      "section": "Question 8 — Similarity and congruence",
+      "prompt": "In the figure E,D,C,B are collinear, AE = AB and ED = CB. Prove △ABC ≅ △AED.",
+      "answer": "△ABC ≅ △AED by SAS.",
+      "steps": [
+        "AE = AB makes the large triangle AEB isosceles, so its base angles ∠AEB = ∠EBA.",
+        "Because D and C lie on EB, ∠AED = ∠ABC. Also ED = BC and AE = AB are given.",
+        "Two sides and the included angle match, proving SAS congruence with A ↔ A, B ↔ E, C ↔ D."
+      ]
+    },
+    {
+      "id": "9(a)",
+      "section": "Question 9 — Pythagoras and exact trigonometry",
+      "prompt": "A student travels 14 km east, then south to school. Home–school direct distance is 20 km. Find junction–school distance to 3 decimal places.",
+      "answer": "14.283 km.",
+      "steps": [
+        "The east and south legs are perpendicular. Let the south leg be d.",
+        "Pythagoras: d² = 20² − 14² = 400 − 196 = 204.",
+        "d = √204 ≈ 14.282856…, rounding to 14.283 km."
+      ]
+    },
+    {
+      "id": "9(b)",
+      "section": "Question 9 — Pythagoras and exact trigonometry",
+      "prompt": "Evaluate 2 sin 60° + cos 30° − tan 60° in radical form.",
+      "answer": "√3/2.",
+      "steps": [
+        "Use sin 60° = √3/2, cos 30° = √3/2, tan 60° = √3.",
+        "2(√3/2) + √3/2 − √3 = √3/2."
+      ]
+    },
+    {
+      "id": "10(a)",
+      "section": "Question 10 — Sets and pie charts",
+      "prompt": "Venn regions are A only = 7 − 3x, both = x, B only = 5 − x. If n(A) = n(B), find n(A ∪ B) and n(A).",
+      "answer": "x = 1; n(A ∪ B) = 9; n(A) = 5.",
+      "steps": [
+        "n(A) = 7 − 3x + x = 7 − 2x; n(B) = 5 − x + x = 5.",
+        "Equate: 7 − 2x = 5, so x = 1. Regions are then 4,1,4.",
+        "Union = 4 + 1 + 4 = 9; A total = 4 + 1 = 5."
+      ]
+    },
+    {
+      "id": "10(b)(i)",
+      "section": "Question 10 — Sets and pie charts",
+      "prompt": "John’s Monday pie chart shows sleeping 105°, school 90°, meals 30°, games 60° and others 45°. How many hours for private study?",
+      "answer": "2 hours.",
+      "steps": [
+        "Known angles total 105 + 90 + 30 + 60 + 45 = 330°. Private study = 360 − 330 = 30°.",
+        "A day has 24 hours; private-study time = (30/360) × 24 = 2 hours."
+      ]
+    },
+    {
+      "id": "10(b)(ii)",
+      "section": "Question 10 — Sets and pie charts",
+      "prompt": "How many hours does John sleep?",
+      "answer": "7 hours.",
+      "steps": [
+        "Sleeping accounts for 105° of the whole 360° day.",
+        "Sleeping time = (105/360) × 24 = 7 hours."
+      ]
+    }
+  ],
+  "summaries": {
+    "Question 1 — Factors and estimation": "Follow the operation and notation shown in the original paper. Keep fractions or radicals exact, and round only when an accuracy is requested.",
+    "Question 2 — Fractions and recurring decimals": "Follow the operation and notation shown in the original paper. Keep fractions or radicals exact, and round only when an accuracy is requested.",
+    "Question 3 — Interest and units": "Follow the operation and notation shown in the original paper. Keep fractions or radicals exact, and round only when an accuracy is requested.",
+    "Question 4 — Angles and perimeter": "Follow the operation and notation shown in the original paper. Keep fractions or radicals exact, and round only when an accuracy is requested.",
+    "Question 5 — Algebra": "Follow the operation and notation shown in the original paper. Keep fractions or radicals exact, and round only when an accuracy is requested.",
+    "Question 6 — Translation and coordinates": "Follow the operation and notation shown in the original paper. Keep fractions or radicals exact, and round only when an accuracy is requested.",
+    "Question 7 — Radicals and logarithms": "Follow the operation and notation shown in the original paper. Keep fractions or radicals exact, and round only when an accuracy is requested.",
+    "Question 8 — Similarity and congruence": "Follow the operation and notation shown in the original paper. Keep fractions or radicals exact, and round only when an accuracy is requested.",
+    "Question 9 — Pythagoras and exact trigonometry": "Follow the operation and notation shown in the original paper. Keep fractions or radicals exact, and round only when an accuracy is requested.",
+    "Question 10 — Sets and pie charts": "Follow the operation and notation shown in the original paper. Keep fractions or radicals exact, and round only when an accuracy is requested."
+  },
+  "labelling_note": "The scanned pages containing questions 4 and 5, and later parts of 7 and 8, appear out of page order. Solutions follow the printed question numbers."
+}

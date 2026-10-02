@@ -1,0 +1,549 @@
+{
+  "exam": "Hisabati-S7-2022.pdf",
+  "output": "Hisabati-S7-2022-AnswerKey.pdf",
+  "subject": "Hisabati",
+  "level": "Darasa la Saba",
+  "year": "2022",
+  "code": "04",
+  "exam_type": "Mtihani wa Kumaliza Elimu ya Msingi (PSLE)",
+  "question_count": "Maswali 45",
+  "language": "sw",
+  "reviewed": true,
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Taja thamani ya nafasi ya 0 iliyopigiwa mstari katika 504251.",
+      "steps": [
+        "Hesabu nafasi kutoka kulia: mamoja, makumi, mamia, maelfu, makumi elfu, mamia elfu.",
+        "Tarakimu 0 iko katika nafasi ya tano kutoka kulia, yaani makumi elfu."
+      ],
+      "answer": "E — Makumi elfu.",
+      "tip": "Thamani ya nafasi ni makumi elfu, ingawa thamani ya tarakimu 0 yenyewe ni sifuri."
+    },
+    {
+      "id": "2",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Petroli iliuzwa hivi: Jumatatu XLII, Jumanne LXIX, Jumatano XLIX, Alhamisi LXIV, Ijumaa XLIX. Ni siku ipi iliuza zaidi?",
+      "steps": [
+        "Badili namba za Kirumi: 42, 69, 49, 64 na 49.",
+        "Linganisha: 69 ndiyo kubwa zaidi, na iliuzwa Jumanne."
+      ],
+      "answer": "B — Jumanne."
+    },
+    {
+      "id": "3",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Ipi ni sehemu guni kati ya 13/14, 15/14, 12/13, 16/17 na 19/20?",
+      "steps": [
+        "Katika sehemu guni, kiasi cha juu ni kikubwa kuliko au sawa na kiasi cha chini.",
+        "15 > 14; katika sehemu nyingine zote kiasi cha juu ni kidogo."
+      ],
+      "answer": "B — 15/14."
+    },
+    {
+      "id": "4",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Linganisha alama: Hisabati 14/25, Kiswahili 5/8, English 1/2, Maarifa 3/5, Uraia 31/50. Ni somo lipi lina alama ndogo?",
+      "steps": [
+        "Badili kuwa desimali: 14/25 = 0.56; 5/8 = 0.625; 1/2 = 0.50; 3/5 = 0.60; 31/50 = 0.62.",
+        "0.50 ndiyo ndogo zaidi."
+      ],
+      "answer": "C — English Language."
+    },
+    {
+      "id": "5",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Mtungi wa lita 10 umetumia lita 1.5. Ni sehemu gani ya ujazo imebaki?",
+      "steps": [
+        "Ujazo uliobaki = 10 − 1.5 = lita 8.5.",
+        "Sehemu iliyobaki = 8.5/10 = 85/100 = 17/20."
+      ],
+      "answer": "C — 17/20."
+    },
+    {
+      "id": "6",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Upendo ametoa 0.1 ya sukari kwa dada na 1/5 kwa shangazi, akabaki na kg 35. Alikuwa na kg ngapi?",
+      "steps": [
+        "Sehemu iliyotolewa = 0.1 + 1/5 = 0.1 + 0.2 = 0.3.",
+        "Sehemu iliyobaki = 1 − 0.3 = 0.7.",
+        "Ikiwa 0.7 ya sukari ni kg 35, jumla = 35 ÷ 0.7 = kg 50."
+      ],
+      "answer": "B — Kilogramu 50."
+    },
+    {
+      "id": "7",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Katika wanafunzi 560, 5/8 ni skauti; 3/5 ya skauti wamelipa ada. Tafuta asilimia ambayo haijahesabiwa kuwa imelipa.",
+      "steps": [
+        "Skauti = (5/8) × 560 = 350; skauti waliolipa = (3/5) × 350 = 210.",
+        "Wanafunzi wengine = 560 − 210 = 350.",
+        "Asilimia = (350/560) × 100% = 62.5%."
+      ],
+      "answer": "D — 62.5%.",
+      "tip": "Jibu la mtihani linahesabu waliolipa kuwa skauti 210 waliotajwa. Malipo ya wasio skauti hayajaelezwa kando."
+    },
+    {
+      "id": "8",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Orodhesha vigawe vya 9 kati ya 22 na 55, kuanzia kidogo.",
+      "steps": [
+        "Zidisha 9 kwa 3, 4, 5 na 6: 27, 36, 45, 54.",
+        "9 × 2 = 18 iko chini ya 22; 9 × 7 = 63 iko juu ya 55."
+      ],
+      "answer": "D — 27, 36, 45, 54."
+    },
+    {
+      "id": "9",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Mfululizo wa michungwa ni 90, 81, 72, __, __, 45. Tafuta jumla ya mistari miwili iliyokosekana.",
+      "steps": [
+        "Kila mstari unapungua kwa 9.",
+        "Mstari wa nne ni 72 − 9 = 63; wa tano ni 63 − 9 = 54.",
+        "Jumla = 63 + 54 = 117."
+      ],
+      "answer": "E — Michungwa 117."
+    },
+    {
+      "id": "10",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Panga XC, IV, LV, CI na VI kuanzia kubwa.",
+      "steps": [
+        "Badili kuwa namba za kawaida: XC = 90, IV = 4, LV = 55, CI = 101, VI = 6.",
+        "Panga 101, 90, 55, 6, 4; rudisha katika Kirumi."
+      ],
+      "answer": "A — CI, XC, LV, VI, IV."
+    },
+    {
+      "id": "11",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Taja vigawe vya 6 vilivyo kati ya 30 na 60.",
+      "steps": [
+        "Vigawe vya 6 vilivyo ndani ya mipaka hiyo ni 6 × 6, 6 × 7, 6 × 8 na 6 × 9.",
+        "Hivyo vinakuwa 36, 42, 48 na 54; 30 na 60 ni mipaka ya nje."
+      ],
+      "answer": "D — 36, 42, 48, 54."
+    },
+    {
+      "id": "12",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Taja vigawe vitatu vya shirika vya 4 na 6 kati ya 10 na 40.",
+      "steps": [
+        "Kigawe kidogo cha shirika cha 4 na 6 ni 12.",
+        "Vigawe vya 12 katika nafasi hiyo ni 12, 24 na 36."
+      ],
+      "answer": "B — 12, 24, 36."
+    },
+    {
+      "id": "13",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Dotto ana sh 1,200,000; 2/3 yake ni sawa na 1/2 ya fedha za Kulwa. Mwenye fedha nyingi ana kiasi gani?",
+      "steps": [
+        "2/3 ya fedha za Dotto = (2/3) × 1,200,000 = sh 800,000.",
+        "Hiki ni nusu ya fedha za Kulwa, hivyo Kulwa ana 800,000 × 2 = sh 1,600,000.",
+        "1,600,000 > 1,200,000."
+      ],
+      "answer": "D — Kulwa ana sh 1,600,000."
+    },
+    {
+      "id": "14",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Wanyama 2,400,000 wana sehemu 0.3 simba, 0.4 swala, 0.2 twiga, 0.1 tembo. Tafuta tofauti kati ya kundi kubwa na dogo.",
+      "steps": [
+        "Sehemu kubwa ni 0.4 ya swala; ndogo ni 0.1 ya tembo.",
+        "Tofauti ya sehemu = 0.4 − 0.1 = 0.3.",
+        "Tofauti ya idadi = 0.3 × 2,400,000 = 720,000."
+      ],
+      "answer": "A — Wanyama 720,000."
+    },
+    {
+      "id": "15",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Zuhura ana kg 70.5 na Hamis kg 68.15. Tafuta jumla.",
+      "steps": [
+        "Andika nafasi sawa za desimali: 70.50 + 68.15.",
+        "Jumla = 138.65."
+      ],
+      "answer": "C — Kilogramu 138.65."
+    },
+    {
+      "id": "16",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Jafari alipata machungwa 789,951 na 226,783. Tafuta jumla.",
+      "steps": [
+        "Jumlisha kwa kupanga nafasi za tarakimu.",
+        "789,951 + 226,783 = 1,016,734."
+      ],
+      "answer": "B — Machungwa 1,016,734."
+    },
+    {
+      "id": "17",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Magari yote ni 834,223; 436,756 yalitoka Japani. Mangapi yalitoka nchi nyingine?",
+      "steps": [
+        "Magari ya nchi nyingine = jumla − ya Japani.",
+        "834,223 − 436,756 = 397,467."
+      ],
+      "answer": "C — Magari 397,467."
+    },
+    {
+      "id": "18",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Shamba huzalisha lita 254,567 kwa siku. Tafuta maziwa ya siku 43.",
+      "steps": [
+        "Zidisha 254,567 kwa 43 = 40 + 3.",
+        "254,567 × 40 = 10,182,680; × 3 = 763,701.",
+        "Jumla = 10,182,680 + 763,701 = 10,946,381."
+      ],
+      "answer": "E — Lita 10,946,381."
+    },
+    {
+      "id": "19",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Tatu ana sh 5,500; ametumia 2/5 kununua matunda. Amebakiza kiasi gani?",
+      "steps": [
+        "Sehemu iliyobaki = 1 − 2/5 = 3/5.",
+        "Fedha zilizobaki = (3/5) × 5,500 = sh 3,300."
+      ],
+      "answer": "C — Shilingi 3,300."
+    },
+    {
+      "id": "20",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Sharifa ana sh 47,200. Amenunua suruali tatu kwa sh 12,900 kila moja. Tafuta salio.",
+      "steps": [
+        "Gharama = 3 × 12,900 = sh 38,700.",
+        "Salio = 47,200 − 38,700 = sh 8,500."
+      ],
+      "answer": "D — Shilingi 8,500."
+    },
+    {
+      "id": "21",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Amina ametumia 1/3 ya mshahara kwa nguo na 1/2 ya salio kwa chakula. Amebaki na sh 400,000. Tafuta mshahara.",
+      "steps": [
+        "Baada ya nguo, salio ni 2/3 ya mshahara.",
+        "Baada ya kutumia nusu ya salio, kinachobaki ni (1/2) × (2/3) = 1/3 ya mshahara.",
+        "Mshahara = 400,000 × 3 = sh 1,200,000."
+      ],
+      "answer": "C — Shilingi 1,200,000."
+    },
+    {
+      "id": "22",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Wasichana ni 3/4 ya wanafunzi na wanazidi wavulana kwa 450. Tafuta idadi ya wanafunzi wote.",
+      "steps": [
+        "Wavulana ni 1/4. Tofauti = 3/4 − 1/4 = 1/2 ya wanafunzi wote.",
+        "Ikiwa nusu ni 450, jumla = 450 × 2 = 900.",
+        "Hakiki: wasichana 675 na wavulana 225; tofauti 450."
+      ],
+      "answer": "A — Wanafunzi 900."
+    },
+    {
+      "id": "23",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Zaina amelipa sh 4,800 kwa maneno 63. Maneno 30 yalitozwa sh 50 kila moja. Maneno 33 mengine yaligharimu jumla gani?",
+      "steps": [
+        "Gharama ya maneno 30 = 30 × 50 = sh 1,500.",
+        "Gharama ya maneno 33 = 4,800 − 1,500 = sh 3,300."
+      ],
+      "answer": "A — Shilingi 3,300."
+    },
+    {
+      "id": "24",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Zahara ana sh 326,550; ametumia sh 211,400. Tafuta kiasi kilichobaki.",
+      "steps": [
+        "Toa matumizi katika fedha za awali.",
+        "326,550 − 211,400 = 115,150."
+      ],
+      "answer": "A — Shilingi 115,150."
+    },
+    {
+      "id": "25",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Badili miezi 92 kuwa miaka na miezi.",
+      "steps": [
+        "Mwaka mmoja una miezi 12.",
+        "92 ÷ 12 = miaka 7, baki miezi 8, kwa sababu 7 × 12 = 84."
+      ],
+      "answer": "E — Miaka 7 na miezi 8."
+    },
+    {
+      "id": "26",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Badili siku 50 kuwa wiki na siku.",
+      "steps": [
+        "Wiki moja ina siku 7.",
+        "50 ÷ 7 = wiki 7, baki siku 1."
+      ],
+      "answer": "A — Wiki 7 na siku 1."
+    },
+    {
+      "id": "27",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Jumlisha sh 5,707.35, sh 2,983.80 na sh 1,245.40.",
+      "steps": [
+        "Jumlisha shilingi: 5,707 + 2,983 + 1,245 = 9,935.",
+        "Jumlisha senti: 35 + 80 + 40 = 155, yaani sh 1 na senti 55.",
+        "Jumla = sh 9,936 na senti 55."
+      ],
+      "answer": "E — Shilingi 9,936 na senti 55."
+    },
+    {
+      "id": "28",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Tafuta riba ya sh 564,000 kwa kiwango cha 5½% kwa mwaka, kwa miezi sita.",
+      "steps": [
+        "Tumia riba rahisi I = P × r × t; 5½% = 0.055, miezi 6 = mwaka 1/2.",
+        "I = 564,000 × 0.055 × 1/2 = 15,510."
+      ],
+      "answer": "D — Shilingi 15,510."
+    },
+    {
+      "id": "29",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Sanduku lililofungwa lina urefu sm 12, upana sm 6 na kimo sm 10. Sehemu ya chini iliyotiwa kivuli ni sehemu gani ya eneo lote?",
+      "steps": [
+        "Eneo la chini = 12 × 6 = sm² 72.",
+        "Eneo lote = 2[(12 × 6) + (12 × 10) + (6 × 10)] = 2(72 + 120 + 60) = sm² 504.",
+        "Sehemu iliyotiwa kivuli = 72/504 = 1/7."
+      ],
+      "answer": "B — 1/7."
+    },
+    {
+      "id": "30",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Mchemraba wenye upande sm 20 hujazwa na lita ngapi? Lita 1 = sm³ 1,000.",
+      "steps": [
+        "Ujazo = 20 × 20 × 20 = sm³ 8,000.",
+        "Lita = 8,000 ÷ 1,000 = 8."
+      ],
+      "answer": "A — Lita 8.0."
+    },
+    {
+      "id": "31",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Shamba la m 20 kwa m 14 limelimwa m² 200. Tafuta sehemu isiyolimwa.",
+      "steps": [
+        "Eneo lote = 20 × 14 = m² 280.",
+        "Eneo lisilolimwa = 280 − 200 = m² 80."
+      ],
+      "answer": "C — Meta za mraba 80."
+    },
+    {
+      "id": "32",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Pembetatu pacha ina mzingo sm 64, kila upande pacha sm 20 na kimo sm 16. Tafuta eneo.",
+      "steps": [
+        "Kitako = 64 − 20 − 20 = sm 24.",
+        "Eneo = (1/2) × kitako × kimo = (1/2) × 24 × 16 = sm² 192."
+      ],
+      "answer": "B — Sentimeta za mraba 192."
+    },
+    {
+      "id": "33",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Katoni mbili zina chupa 24 kila moja, ujazo wa kila chupa ml 350. Tafuta lita zote.",
+      "steps": [
+        "Chupa zote = 2 × 24 = 48.",
+        "Ujazo = 48 × 350 = ml 16,800.",
+        "Badili kuwa lita: 16,800 ÷ 1,000 = 16.8."
+      ],
+      "answer": "D — Lita 16.8."
+    },
+    {
+      "id": "34",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Panga lita 8.06, 80.6, 0.86, 8.6 na 0.806 kuanzia kidogo. Nafasi ya tatu ina lita ngapi?",
+      "steps": [
+        "Andika desimali katika nafasi sawa na ulinganishe.",
+        "Mpangilio ni 0.806, 0.860, 8.060, 8.600, 80.600.",
+        "Kiasi cha tatu ni 8.06."
+      ],
+      "answer": "A — Lita 8.06."
+    },
+    {
+      "id": "35",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Kamba ya Damasi ina km 6 sm 1; ya Roni ni fupi kwa km 2 m 8 sm 4. Tafuta ya Roni.",
+      "steps": [
+        "Badili kuwa sentimeta: km 6 sm 1 = sm 600,001; km 2 m 8 sm 4 = sm 200,804.",
+        "Tofauti = 600,001 − 200,804 = sm 399,197.",
+        "Hizi ni km 3, m 991 na sm 97."
+      ],
+      "answer": "E — Km 3, m 991, sm 97."
+    },
+    {
+      "id": "36",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Nahodha anasafiri km 24 kwa saa kwa saa 2 na dakika 30. Tafuta umbali.",
+      "steps": [
+        "Dakika 30 = saa 1/2, hivyo muda wote = saa 2.5.",
+        "Umbali = mwendokasi × muda = 24 × 2.5 = km 60."
+      ],
+      "answer": "A — Kilometa 60."
+    },
+    {
+      "id": "37",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Tafuta y katika 2/y + 3/y = 5/8.",
+      "steps": [
+        "Jumlisha sehemu zenye asili moja: 5/y = 5/8.",
+        "Zidisha kwa 8y (y ≠ 0): 40 = 5y.",
+        "Gawanya kwa 5: y = 8."
+      ],
+      "answer": "B — y = 8."
+    },
+    {
+      "id": "38",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Tafuta n ikiwa 2n² − 128 = 0.",
+      "steps": [
+        "Hamisha 128: 2n² = 128.",
+        "Gawanya kwa 2: n² = 64.",
+        "Namba zenye mraba 64 ni 8 na −8. Kati ya chaguo, 8 pekee imetolewa."
+      ],
+      "answer": "B — n = 8 katika chaguo; mlinganyo una suluhisho n = ±8.",
+      "tip": "Usisahau mzizi hasi unapoulizwa suluhisho zote za mlinganyo wa mraba."
+    },
+    {
+      "id": "39",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Wastani wa vimo tisa ni sm 150; jumla ya vimo vinne ni sm 450. Tafuta wastani wa vitano vilivyobaki.",
+      "steps": [
+        "Jumla ya vimo tisa = 9 × 150 = sm 1,350.",
+        "Jumla ya vitano = 1,350 − 450 = sm 900.",
+        "Wastani wao = 900 ÷ 5 = sm 180."
+      ],
+      "answer": "D — Sentimeta 180."
+    },
+    {
+      "id": "40",
+      "section": "Sehemu A: Maswali ya Kuchagua",
+      "prompt": "Wagonjwa kwa miaka mitano ni 208, 150, 237, 173 na 127. Tafuta wastani kwa mwaka.",
+      "steps": [
+        "Jumla = 208 + 150 + 237 + 173 + 127 = 895.",
+        "Wastani = 895 ÷ 5 = 179."
+      ],
+      "answer": "A — Wagonjwa 179."
+    },
+    {
+      "id": "41",
+      "section": "Sehemu B: Majibu ya Kuonesha Njia",
+      "prompt": "Kg 1.75 za mbegu zinagharimu sh 11,200. Sh 1,600 hununua kiasi gani?",
+      "steps": [
+        "Bei ya kg 1 = 11,200 ÷ 1.75 = sh 6,400.",
+        "Kiasi = fedha ÷ bei kwa kg = 1,600 ÷ 6,400 = kg 0.25.",
+        "Kg 0.25 ni gramu 250."
+      ],
+      "answer": "Kilogramu 0.25 (gramu 250)."
+    },
+    {
+      "id": "42",
+      "section": "Sehemu B: Majibu ya Kuonesha Njia",
+      "prompt": "Bustani ina eneo m² 9,632 na urefu m 112. Tafuta mzingo katika mamia yaliyo karibu.",
+      "steps": [
+        "Upana = eneo ÷ urefu = 9,632 ÷ 112 = m 86.",
+        "Mzingo = 2(112 + 86) = 2 × 198 = m 396.",
+        "396 ikikadiriwa katika mamia yaliyo karibu ni 400."
+      ],
+      "answer": "Meta 400 (mzingo halisi ni m 396)."
+    },
+    {
+      "id": "43",
+      "section": "Sehemu B: Majibu ya Kuonesha Njia",
+      "prompt": "Bahati anatembea m 400 kwenda shule na m 300 kutoka shule kwenda hospitali kwa pembe ya mraba. Tafuta njia fupi hospitali hadi nyumbani.",
+      "steps": [
+        "Njia fupi ni upande mrefu wa pembetatu mraba.",
+        "Tumia Pythagoras: c² = 400² + 300² = 160,000 + 90,000 = 250,000.",
+        "c = √250,000 = 500."
+      ],
+      "answer": "Meta 500."
+    },
+    {
+      "id": "44",
+      "section": "Sehemu B: Majibu ya Kuonesha Njia",
+      "prompt": "Bibi anaanza kupika saa 03:45 na kutumia saa 3. Atamaliza saa ngapi katika mfumo wa saa 12?",
+      "steps": [
+        "Ongeza kipindi cha saa tatu kwa saa ya kuanza: 03:45 + 03:00 = 06:45.",
+        "Kwa kusoma 03:45 kama saa za mfumo wa saa 24, mwisho ni 6:45 asubuhi katika mfumo wa saa 12.",
+        "NECTA imeandika jibu kama saa 6:45 mchana, ikitumia hesabu ya saa za Kiswahili. Hivyo hesabu ya muda ni 6:45; kipindi kinategemea mfumo uliokusudiwa."
+      ],
+      "answer": "6:45. Kwa saa za mfumo wa kimataifa: 6:45 a.m.; jibu lililotajwa na NECTA: saa 6:45 mchana.",
+      "tip": "Swali halitofautishi wazi saa za Kiswahili na saa za kimataifa. Taja mfumo ili kuepuka kuchanganya asubuhi na mchana."
+    },
+    {
+      "id": "45",
+      "section": "Sehemu B: Majibu ya Kuonesha Njia",
+      "prompt": "Kapiligali ana sh 85,000. Amenunua vikapu 13 @250, chumvi dazeni 3 @1,200, mafuta 4,500, nyanya kg 3 @1,300 na mchele kg 5 @2,000. Tafuta salio.",
+      "steps": [
+        "Vikapu = 13 × 250 = 3,250; chumvi = dazeni 3 × 1,200 kwa dazeni = 3,600.",
+        "Mafuta = 4,500; nyanya = 3 × 1,300 = 3,900; mchele = 5 × 2,000 = 10,000.",
+        "Matumizi yote = 3,250 + 3,600 + 4,500 + 3,900 + 10,000 = sh 25,250.",
+        "Salio = 85,000 − 25,250 = sh 59,750."
+      ],
+      "answer": "Shilingi 59,750.",
+      "tip": "Katika swali hili sh 1,200 ni bei ya dazeni moja ya chumvi, si bei ya kifurushi kimoja."
+    }
+  ],
+  "summaries": {
+    "Sehemu A: Maswali ya Kuchagua": "Badili sehemu, desimali na vipimo kabla ya kulinganisha. Katika mafumbo ya salio, tumia sehemu iliyobaki; eneo la sanduku lililofungwa linajumuisha nyuso zote sita.",
+    "Sehemu B: Majibu ya Kuonesha Njia": "Anza kwa kanuni, tumia vipimo vinavyofanana, halafu hakiki jibu. Tofautisha mfumo wa saa na kipindi cha muda, na soma kama bei inahusu bidhaa moja au dazeni."
+  },
+  "references": [
+    {
+      "title": "NECTA: Uchambuzi wa Hisabati PSLE 2022",
+      "url": "https://onlinesys.necta.go.tz/cira/psle/2022/04_HISABATI.pdf"
+    }
+  ],
+  "sha256": "31f41d81a1fec265a61645819f1f578ff73deeed44a916e553438163826098e3"
+}

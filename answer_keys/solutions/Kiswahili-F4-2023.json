@@ -1,0 +1,669 @@
+{
+  "exam": "Kiswahili-F4-2023.pdf",
+  "output": "Kiswahili-F4-2023-AnswerKey.pdf",
+  "subject": "Kiswahili",
+  "level": "Form Four",
+  "year": "2023",
+  "code": "021",
+  "exam_type": "Certificate of Secondary Education Examination (CSEE)",
+  "question_count": "11 questions; 57 answered parts",
+  "language": "sw",
+  "reviewed": true,
+  "sha256": "268e07da9318117f62af1dc411d9313c308f1dc43bf863f57b52354816d1547c",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(ix)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "3(a)(i)",
+    "3(a)(ii)",
+    "3(a)(iii)",
+    "3(a)(iv)",
+    "3(a)(v)",
+    "3(b)(i)",
+    "3(b)(ii)",
+    "3(b)(iii)",
+    "3(b)(iv)",
+    "3(b)(v)",
+    "3(b)(vi)",
+    "3(b)(vii)",
+    "3(b)(viii)",
+    "4(a)",
+    "4(b)(i)",
+    "4(b)(ii)",
+    "4(b)(iii)",
+    "4(b)(iv)",
+    "5(a)(i)",
+    "5(a)(ii)",
+    "5(a)(iii)",
+    "5(a)(iv)",
+    "5(a)(v)",
+    "5(b)(i)",
+    "5(b)(ii)",
+    "5(b)(iii)",
+    "5(b)(iv)",
+    "6",
+    "7",
+    "8(a)",
+    "8(b)",
+    "8(c)(i)",
+    "8(c)(ii)",
+    "8(c)(iii)",
+    "8(c)(iv)",
+    "8(c)(v)",
+    "8(d)",
+    "8(e)",
+    "9",
+    "10",
+    "11"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Maana ya soga.",
+      "answer": "C — Hadithi fupi za kuchekesha na kukejeli.",
+      "steps": [
+        "Tambua dhana inayoulizwa kabla ya kulinganisha chaguo.",
+        "Soga hutumia tukio fupi la kuchekesha au kukosoa mwenendo."
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Methali yenye maana tofauti.",
+      "answer": "D — Ukupigao ndio ukufunzao.",
+      "steps": [
+        "Tambua dhana inayoulizwa kabla ya kulinganisha chaguo.",
+        "Huhusu kujifunza kutokana na tukio; nyingine zinaonya dhidi ya ujanja, majivuno au kudharau hatari."
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Masimulizi yanayotaja tukio la mwaka 1956.",
+      "answer": "E — Tarihi.",
+      "steps": [
+        "Tambua dhana inayoulizwa kabla ya kulinganisha chaguo.",
+        "Tarihi husimulia matukio ya kihistoria na kuyahusisha na wakati."
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Papai limeiva nyumbani lakini nashindwa kulila ni semi gani?",
+      "answer": "B — Mizungu.",
+      "steps": [
+        "Tambua dhana inayoulizwa kabla ya kulinganisha chaguo.",
+        "Kauli ya fumbo huonesha hali yenye ukinzani na kuhitaji kutafakari; haitolewi kama kitendawili cha kuuliza jibu."
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Kufupisha neno kupata ulinganifu wa mizani.",
+      "answer": "C — Inkisari.",
+      "steps": [
+        "Tambua dhana inayoulizwa kabla ya kulinganisha chaguo.",
+        "Inkisari huruhusu kupunguza sehemu ya neno katika matumizi ya kishairi."
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Alama ya kuonesha maneno ya kuzua au yasiyo rasmi.",
+      "answer": "E — Mtajo.",
+      "steps": [
+        "Tambua dhana inayoulizwa kabla ya kulinganisha chaguo.",
+        "Alama za kunukuu zinaweza kutenga neno linalotumiwa kwa namna maalumu."
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Neno lisiloundwa kwa mwambatano.",
+      "answer": "B — Barabara.",
+      "steps": [
+        "Tambua dhana inayoulizwa kabla ya kulinganisha chaguo.",
+        "Batamzinga, jotoridi na chajio hutokana na kuunganisha vipashio; barabara si muungano wa maneno mawili tofauti."
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Neno lisilo na maana zaidi ya moja katika chaguo.",
+      "answer": "D — Nyau.",
+      "steps": [
+        "Tambua dhana inayoulizwa kabla ya kulinganisha chaguo.",
+        "Nyau ni paka; ua, mbuzi, kata na paa yana maana tofauti zinazotambulika."
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Mofimu ya kutendea katika umempelekea.",
+      "answer": "B — -e-.",
+      "steps": [
+        "Tambua dhana inayoulizwa kabla ya kulinganisha chaguo.",
+        "U-me-m-pelek-e-a: -e- huongeza maana ya kufanya tendo kwa ajili ya au kuelekea mwingine."
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Lahaja ya Kijomvu ilizungumzwa wapi?",
+      "answer": "Jibu la kijiografia: Jomvu, eneo la Mombasa nchini Kenya. Hakuna chaguo sahihi kabisa; E — sehemu ya Malindi ndilo linalotarajiwa katika taarifa ya uchambuzi wa mtihani.",
+      "steps": [
+        "Tambua dhana inayoulizwa kabla ya kulinganisha chaguo.",
+        "Kijomvu ni lahaja ya eneo la Jomvu karibu na Mombasa. Malindi huhusishwa zaidi na Kimalindi; usihamishe Jomvu kwenda Malindi kwa sababu ya chaguo lenye hitilafu."
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Nilipofika nyumbani nilimkuta hayupo.",
+      "answer": "B — Kutozingatia mantiki.",
+      "steps": [
+        "Linganisha fasili au mfano na dhana husika.",
+        "Kumkuta hayupo bila kufafanua ni kauli inayokinzana; sema sikumkuta."
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Juma alikimbizwa hospitalini.",
+      "answer": "A — Tafsiri ya neno kwa neno, jibu linalotarajiwa.",
+      "steps": [
+        "Linganisha fasili au mfano na dhana husika.",
+        "Kukimbizwa huweza kumaanisha kupelekwa haraka, si kulazimishwa kukimbia mwenyewe. F inasema kutendeka, lakini kimbizwa ni usababishi katika hali ya kutendwa, hivyo F si uchanganuzi sahihi wa kauli."
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Bwana Musa anaendesha.",
+      "answer": "G — Kutozingatia muktadha.",
+      "steps": [
+        "Linganisha fasili au mfano na dhana husika.",
+        "Anaendesha nini au anaendesha kwa maana gani? Muktadha huchagua kuendesha gari, shughuli au maana nyingine."
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Aliamua kumkimbilia siku ya mwaka mpya.",
+      "answer": "C — Mofimu ya kauli ya kutendea.",
+      "steps": [
+        "Linganisha fasili au mfano na dhana husika.",
+        "Kumkimbilia kunaweza kuwa kwenda kwake haraka au kumfuata kwa msaada; muktadha haujabainishwa."
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Mama Halima amekuja.",
+      "answer": "D — Kutozingatia alama za uandishi.",
+      "steps": [
+        "Linganisha fasili au mfano na dhana husika.",
+        "Mama, Halima amekuja humwita mama na kumtaja Halima; Mama Halima amekuja humtaja mama aitwaye Halima."
+      ]
+    },
+    {
+      "id": "2(vi)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Alikuwa na vitu vya dhamani nyingi.",
+      "answer": "E — Kutozingatia matamshi sahihi.",
+      "steps": [
+        "Linganisha fasili au mfano na dhana husika.",
+        "Neno la thamani ya vitu ni thamani. Dhamana lina maana tofauti ya uwajibikaji au kitu cha kuhakikisha deni."
+      ]
+    },
+    {
+      "id": "3(a)(i)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Andika katika hali timilifu: Petro hatawatembelea wazee wake likizo hii.",
+      "answer": "Petro hajawatembelea wazee wake likizo hii.",
+      "steps": [
+        "Timilifu huonesha tendo lililokwisha au hali iliyofikiwa.",
+        "Hata- ya ujao hasi hubadilika kuwa haja- ya timilifu hasi."
+      ]
+    },
+    {
+      "id": "3(a)(ii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Andika katika hali timilifu: Mimi ninamshinda Rashidi kwa mbio.",
+      "answer": "Mimi nimemshinda Rashidi kwa mbio.",
+      "steps": [
+        "Timilifu huonesha tendo lililokwisha au hali iliyofikiwa.",
+        "Na- hubadilika kuwa me-, huku mtendwa m- akibaki."
+      ]
+    },
+    {
+      "id": "3(a)(iii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Andika katika hali timilifu: Wewe ni abiria lakini lazima ulipe nauli.",
+      "answer": "Wewe umekuwa abiria lakini lazima ulipe nauli.",
+      "steps": [
+        "Timilifu huonesha tendo lililokwisha au hali iliyofikiwa.",
+        "Ni ya hali ya sasa hubadilishwa kwa umekuwa. Lazima ulipe ni wajibu, si tendo lililothibitishwa kulipwa; usibadilishe maana kuwa tayari amelipa."
+      ]
+    },
+    {
+      "id": "3(a)(iv)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Andika katika hali timilifu: Mchezaji anarusha mpira.",
+      "answer": "Mchezaji amerusha mpira.",
+      "steps": [
+        "Timilifu huonesha tendo lililokwisha au hali iliyofikiwa.",
+        "Badilisha -na- kuwa -me-."
+      ]
+    },
+    {
+      "id": "3(a)(v)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Andika katika hali timilifu: Mwalimu anafundisha somo la Kiswahili.",
+      "answer": "Mwalimu amefundisha somo la Kiswahili.",
+      "steps": [
+        "Timilifu huonesha tendo lililokwisha au hali iliyofikiwa.",
+        "Badilisha -na- kuwa -me-, hifadhi somo na mtenda."
+      ]
+    },
+    {
+      "id": "3(b)(i)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Bainisha njeo: Asha anafagia jikoni.",
+      "answer": "Wakati uliopo: -na-.",
+      "steps": [
+        "Tafuta kiambishi cha wakati.",
+        "Katika kitenzi changamano, soma kisaidizi pamoja na kitenzi kikuu."
+      ]
+    },
+    {
+      "id": "3(b)(ii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Bainisha njeo: Mwalimu atatufundisha kuimba.",
+      "answer": "Wakati ujao: -ta-.",
+      "steps": [
+        "Tafuta kiambishi cha wakati.",
+        "Katika kitenzi changamano, soma kisaidizi pamoja na kitenzi kikuu."
+      ]
+    },
+    {
+      "id": "3(b)(iii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Bainisha njeo: John alikuwa amefika stendi.",
+      "answer": "Wakati uliopita timilifu: alikuwa + amefika.",
+      "steps": [
+        "Tafuta kiambishi cha wakati.",
+        "Katika kitenzi changamano, soma kisaidizi pamoja na kitenzi kikuu."
+      ]
+    },
+    {
+      "id": "3(b)(iv)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Bainisha njeo: Watoto wake watamlilia sana.",
+      "answer": "Wakati ujao: -ta-.",
+      "steps": [
+        "Tafuta kiambishi cha wakati.",
+        "Katika kitenzi changamano, soma kisaidizi pamoja na kitenzi kikuu."
+      ]
+    },
+    {
+      "id": "3(b)(v)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Bainisha njeo: Hapo nitakuwa nimeondoka.",
+      "answer": "Wakati ujao timilifu: nitakuwa + nimeondoka.",
+      "steps": [
+        "Tafuta kiambishi cha wakati.",
+        "Katika kitenzi changamano, soma kisaidizi pamoja na kitenzi kikuu."
+      ]
+    },
+    {
+      "id": "3(b)(vi)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Bainisha njeo: Timu yetu ilicheza vizuri sana.",
+      "answer": "Wakati uliopita: -li-.",
+      "steps": [
+        "Tafuta kiambishi cha wakati.",
+        "Katika kitenzi changamano, soma kisaidizi pamoja na kitenzi kikuu."
+      ]
+    },
+    {
+      "id": "3(b)(vii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Bainisha njeo: Askari wanalinda raia.",
+      "answer": "Wakati uliopo: -na-.",
+      "steps": [
+        "Tafuta kiambishi cha wakati.",
+        "Katika kitenzi changamano, soma kisaidizi pamoja na kitenzi kikuu."
+      ]
+    },
+    {
+      "id": "3(b)(viii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Bainisha njeo: Watoto walikuwa wamemfurahisha.",
+      "answer": "Wakati uliopita timilifu: walikuwa + wamemfurahisha.",
+      "steps": [
+        "Tafuta kiambishi cha wakati.",
+        "Katika kitenzi changamano, soma kisaidizi pamoja na kitenzi kikuu."
+      ]
+    },
+    {
+      "id": "4(a)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Eleza dhima tano za uambishaji.",
+      "answer": "Kuonesha nafsi: a-na-soma; kuonesha njeo: a-li-soma; kubadili kauli: som-esh-a; kuonesha ukanushi: ha-somi; na kuonesha urejeshi: a-li-ye-soma.",
+      "steps": [
+        "Kwa kila dhima, tenga kiambishi kwenye mfano.",
+        "A- humtaja mtenda; -li- wakati; -esh- usababishi; ha- ukanushi; -ye- urejeshi."
+      ]
+    },
+    {
+      "id": "4(b)(i)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Bainisha mzizi wa Mwokozi.",
+      "answer": "-oko-",
+      "steps": [
+        "Ondoa viambishi vya nomino na kiishio.",
+        "Mw-oko-z-i; linganisha na okoa."
+      ]
+    },
+    {
+      "id": "4(b)(ii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Bainisha mzizi wa Matendo.",
+      "answer": "-tend-",
+      "steps": [
+        "Ondoa viambishi vya nomino na kiishio.",
+        "Ma-tend-o; linganisha na tenda."
+      ]
+    },
+    {
+      "id": "4(b)(iii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Bainisha mzizi wa Mlaji.",
+      "answer": "-l-",
+      "steps": [
+        "Ondoa viambishi vya nomino na kiishio.",
+        "M-l-a-ji; kitenzi la kina mzizi l- na kiishio -a."
+      ]
+    },
+    {
+      "id": "4(b)(iv)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Bainisha mzizi wa Uonevu.",
+      "answer": "-one- katika uchanganuzi wa shule wa neno hili.",
+      "steps": [
+        "Ondoa viambishi vya nomino na kiishio.",
+        "U-one-v-u; linganisha na onea. Usichukue onev- lote kuwa mzizi. Katika uchanganuzi unaotenga kiambishi cha kutendea cha ona, mzizi wa ndani zaidi ni on-; swali hutumia msingi one-."
+      ]
+    },
+    {
+      "id": "5(a)(i)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Andika kisawe na sentensi ya Majaliwa.",
+      "answer": "Bahati. Sentensi: Alipata bahati ya kusoma katika shule nzuri.",
+      "steps": [
+        "Chagua maana moja inayolingana na muktadha.",
+        "Majaliwa katika maana hii ni fursa au bahati iliyomfikia mtu."
+      ]
+    },
+    {
+      "id": "5(a)(ii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Andika kisawe na sentensi ya Sahihi.",
+      "answer": "Sawa. Sentensi: Jibu lako ni sawa.",
+      "steps": [
+        "Chagua maana moja inayolingana na muktadha.",
+        "Chagua maana ya kuwa bila kosa, si sahihi ya kutia saini."
+      ]
+    },
+    {
+      "id": "5(a)(iii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Andika kisawe na sentensi ya Sifuri.",
+      "answer": "Nunge. Sentensi: Timu ilishinda kwa mabao mawili kwa nunge.",
+      "steps": [
+        "Chagua maana moja inayolingana na muktadha.",
+        "Nunge humaanisha kutokuwa na bao au thamani sifuri."
+      ]
+    },
+    {
+      "id": "5(a)(iv)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Andika kisawe na sentensi ya Chuchumaa.",
+      "answer": "Chutama. Sentensi: Chutama uone kilicho chini ya meza.",
+      "steps": [
+        "Chagua maana moja inayolingana na muktadha.",
+        "Maneno huonesha kukaa kwa kuinamisha miguu bila kuketi chini kabisa."
+      ]
+    },
+    {
+      "id": "5(a)(v)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Andika kisawe na sentensi ya Choo.",
+      "answer": "Msala. Sentensi: Tafadhali tumia msala uliopo karibu na nyumba.",
+      "steps": [
+        "Chagua maana moja inayolingana na muktadha.",
+        "Msala hapa ni mahali pa kujisaidia."
+      ]
+    },
+    {
+      "id": "5(b)(i)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Eleza maana ya msingi na ziada ya Mchumi.",
+      "answer": "Msingi: mtaalamu anayesoma au kushughulikia uchumi. Ziada: mtu anayepanga au kubana matumizi ili asitumie fedha ovyo.",
+      "steps": [
+        "Tofautisha maana ya moja kwa moja na maana iliyopanuliwa.",
+        "Tumia muktadha kuzuia kuchanganya hisia, hali na tendo."
+      ]
+    },
+    {
+      "id": "5(b)(ii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Eleza maana ya msingi na ziada ya Husudu.",
+      "answer": "Msingi: kuwa na wivu juu ya mafanikio au mali ya mwingine. Ziada katika muktadha wa swali: kumfanyia mwenzake ubaya unaotokana na wivu; si kila mwenye hisia ya wivu amefanya tendo hilo.",
+      "steps": [
+        "Tofautisha maana ya moja kwa moja na maana iliyopanuliwa.",
+        "Tumia muktadha kuzuia kuchanganya hisia, hali na tendo."
+      ]
+    },
+    {
+      "id": "5(b)(iii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Eleza maana ya msingi na ziada ya Kichaa.",
+      "answer": "Msingi wa kamusi ya jadi: mtu mwenye ugonjwa unaoathiri utimamu wa akili. Ziada: mtu asiye na utulivu au anayefanya mambo bila busara. Hili linaweza kuwa tusi; hali ya afya ya akili haipimwi kwa kumwita mtu jina hilo.",
+      "steps": [
+        "Tofautisha maana ya moja kwa moja na maana iliyopanuliwa.",
+        "Tumia muktadha kuzuia kuchanganya hisia, hali na tendo."
+      ]
+    },
+    {
+      "id": "5(b)(iv)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Eleza maana ya msingi na ziada ya Mchafu.",
+      "answer": "Msingi: asiye safi kwa mwili, mavazi au mazingira. Ziada: mwenye tabia isiyo ya maadili, kwa mfano anayesema matusi.",
+      "steps": [
+        "Tofautisha maana ya moja kwa moja na maana iliyopanuliwa.",
+        "Tumia muktadha kuzuia kuchanganya hisia, hali na tendo."
+      ]
+    },
+    {
+      "id": "6",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Kwa hoja sita na mifano, onesha Kiswahili kushabihiana na lugha za Kibantu.",
+      "answer": "Kiswahili chenyewe ni lugha ya Kibantu. Ulinganishaji ni kati yake na lugha nyingine katika familia hiyo.\n1. Ngeli: nomino huwekwa katika makundi; mtu/watu na omuntu/abantu katika Luganda ni mfano wa watu.\n2. Upatanisho: ngeli huathiri kivumishi na kitenzi, kama mtoto mdogo anasoma.\n3. Uambishaji wa kitenzi: taarifa kama nafsi na wakati huwekwa karibu na mzizi, mfano a-li-som-a.\n4. Unyambuaji: mzizi unaweza kuunda kauli, mfano soma, somea na somesha.\n5. Msamiati wa urithi: mizizi inayohusiana huonekana katika lugha tofauti; -tu ya mtu na omuntu ni mfano.\n6. Muundo wa silabi: maneno mengi yana silabi zilizo wazi zinazoishia kwa irabu, kama ki-ta-bu, ingawa mikopo na baadhi ya miundo huwa tofauti.",
+      "steps": [
+        "Linganisho lihusu sifa za familia ya lugha, si kusema Kiswahili si cha Kibantu.",
+        "Sifa hizi si sheria zisizo na tofauti katika kila lugha ya Kibantu."
+      ]
+    },
+    {
+      "id": "7",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Andika insha ya maneno 200–250 kuhusu umuhimu wa lishe bora kwa watoto.",
+      "answer": "Umuhimu wa Lishe Bora kwa Watoto\n\nLishe bora ni kupata chakula salama, cha kutosha na chenye virutubisho mbalimbali vinavyofaa umri. Mtoto anahitaji lishe hiyo ili akue, ajifunze na kushiriki katika shughuli za kila siku. Kula chakula kingi pekee hakumaanishi kupata lishe bora.\n\nKwanza, lishe husaidia ukuaji wa mwili. Vyakula vinavyotoa nguvu na vinavyojenga mwili hushirikiana kusaidia mifupa, misuli na tishu kukua. Upungufu wa virutubisho unaweza kuzuia ukuaji unaotarajiwa.\n\nPili, lishe bora husaidia maendeleo ya ubongo. Mtoto anapopata virutubisho vinavyohitajika, huwa katika mazingira bora ya kukuza uwezo wa kufikiri na kujifunza. Njaa inaweza kumfanya ashindwe kufuatilia somo kwa makini.\n\nTatu, lishe inachangia afya na kinga ya mwili. Matunda, mboga na vyakula vingine vyenye virutubisho husaidia kazi za mwili. Lishe haitoi kinga dhidi ya kila ugonjwa, lakini upungufu wake unaweza kuongeza madhara ya maradhi.\n\nNne, chakula cha kutosha humwezesha mtoto kucheza na kushiriki masomoni. Nguvu anazopata humsaidia kufanya shughuli zinazomjengea ujuzi na mahusiano. Afya na mahudhurio mazuri pia hupanua nafasi zake za kufaulu.\n\nWazazi na shule washirikiane kupanga vyakula vya aina tofauti, maji salama na usafi wa maandalizi. Chakula kinachopatikana katika mazingira yao kinaweza kupangwa kwa busara ili mtoto asitegemee vyakula vya aina moja tu.\n\nKwa hiyo, lishe bora ni uwekezaji katika maisha ya mtoto na jamii. Familia ikilinda upatikanaji wa chakula na maarifa ya lishe, humsaidia mtoto kukua na kutumia uwezo wake kikamilifu.",
+      "steps": [
+        "Chagua mawazo makuu na uondoe mifano midogo na marudio.",
+        "Andika aya yenye maneno 200–250. Jibu hili lina maneno 222, kwa kuhesabu maneno yanayotenganishwa kwa nafasi."
+      ]
+    },
+    {
+      "id": "8(a)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Pendekeza kichwa cha habari ya mechi.",
+      "answer": "Tanzania Yaishinda Tunisia",
+      "steps": [
+        "Kichwa kihusu tukio na matokeo makuu.",
+        "Epuka kichwa kinachosema Tanzania ilifungwa."
+      ]
+    },
+    {
+      "id": "8(b)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Watazamaji walifikiri nini kabla ya mchezo?",
+      "answer": "Wengi walitarajia Tunisia kushinda kwa sababu wachezaji wake walionekana wenye nguvu; historia ya Tanzania kutoka sare au kutoshinda iliwaongezea Watanzania hofu.",
+      "steps": [
+        "Tenganisha matarajio kabla ya mchezo na matokeo ya mwisho.",
+        "Taja sababu zote mbili zinazotolewa na habari."
+      ]
+    },
+    {
+      "id": "8(c)(i)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Fasili Patashika nguo kuchanika kulingana na habari.",
+      "answer": "Mapambano makali na ushindani mkubwa.",
+      "steps": [
+        "Soma tukio linalozunguka msemo.",
+        "Toa maana ya kimuktadha, si tafsiri ya neno kwa neno."
+      ]
+    },
+    {
+      "id": "8(c)(ii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Fasili Walipiga moyo konde kulingana na habari.",
+      "answer": "Walijipa ujasiri na kuendelea kujitahidi licha ya hofu.",
+      "steps": [
+        "Soma tukio linalozunguka msemo.",
+        "Toa maana ya kimuktadha, si tafsiri ya neno kwa neno."
+      ]
+    },
+    {
+      "id": "8(c)(iii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Fasili Mungu si Athumani kulingana na habari.",
+      "answer": "Hali inaweza kubadilika na msaada au matumaini yasiyotarajiwa yakatokea; hapa Tanzania ilipata nafasi ya kusawazisha.",
+      "steps": [
+        "Soma tukio linalozunguka msemo.",
+        "Toa maana ya kimuktadha, si tafsiri ya neno kwa neno."
+      ]
+    },
+    {
+      "id": "8(c)(iv)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Fasili Waliibuka kidedea kulingana na habari.",
+      "answer": "Walishinda au walitoka washindi.",
+      "steps": [
+        "Soma tukio linalozunguka msemo.",
+        "Toa maana ya kimuktadha, si tafsiri ya neno kwa neno."
+      ]
+    },
+    {
+      "id": "8(c)(v)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Fasili Walishika kasi kulingana na habari.",
+      "answer": "Waliongeza nguvu na mwendo wa shughuli yao; hapa mashabiki waliongeza ushangiliaji.",
+      "steps": [
+        "Soma tukio linalozunguka msemo.",
+        "Toa maana ya kimuktadha, si tafsiri ya neno kwa neno."
+      ]
+    },
+    {
+      "id": "8(d)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Watunisia walikuwa na hali gani baada ya bao la pili?",
+      "answer": "Walihangaika, walikata tamaa na walihuzunika kwa kuona ushindi walioutegemea umewatoka.",
+      "steps": [
+        "Linganisha furaha yao baada ya bao la kwanza na mwisho wa mchezo.",
+        "Hali hii inatokana na Tanzania kuongoza 2–1."
+      ]
+    },
+    {
+      "id": "8(e)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Fupisha habari ya Tanzania na Tunisia kwa maneno 100–105.",
+      "answer": "Tanzania ilicheza na Tunisia huku watazamaji wengi wakitarajia Tunisia kushinda kutokana na nguvu za wachezaji wake na historia ya mechi zilizopita. Timu zote zilianza kwa juhudi, lakini kipindi cha kwanza kilimalizika bila bao. Mwanzoni mwa kipindi cha pili, Tunisia ilifunga bao na kuwahuzunisha Watanzania. Dakika ya themanini, Mohamedi Kajole alisawazisha na kuamsha shangwe. Tanzania ikaongeza kasi na mashabiki wakashangilia zaidi. Dakika ya themanini na tisa, Kassim Kanombe alifunga bao la ushindi. Watunisia walihangaika kwa kupoteza matumaini yao, huku Watanzania wakifurahi. Mwisho wa mchezo, Tanzania ilishinda kwa mabao mawili dhidi ya moja, ikibadili matarajio yaliyokuwepo kabla ya mchezo kuanza katika uwanja wake wa nyumbani.",
+      "steps": [
+        "Chagua mawazo makuu na uondoe mifano midogo na marudio.",
+        "Andika aya yenye maneno 100–105. Jibu hili lina maneno 103, kwa kuhesabu maneno yanayotenganishwa kwa nafasi."
+      ]
+    },
+    {
+      "id": "9",
+      "section": "Sehemu C — Majibu ya mfano ya insha",
+      "prompt": "Thibitisha lugha kutoa mafunzo: vipengele vitatu tofauti kwa kila diwani mbili.",
+      "answer": "Lugha ya ushairi hufikisha mawazo kwa picha na maana zinazomfanya msomaji kutafakari. Wasakatonge ya M. S. Khatibu na Malenga Wapya ya TAKILUKI zinaonesha uwezo huu kupitia vipengele tofauti.\n\nWasakatonge: taswira katika Nahodha\nPicha ya nahodha na chombo kinachohitaji kuongozwa inamfanya msomaji kuona jamii kama safari ya pamoja. Mashindano ya viongozi yasiyojali wajibu huonekana kama hatari kwa wasafiri. Taswira hufundisha kwamba uongozi ni jukumu la kulinda wote, si kugombea nafasi pekee.\n\nWasakatonge: tashbiha katika Kansa\nKansa hutumia ulinganishaji wa hali inayoharibika kwa kumfanya msomaji kufikiria maumivu na madhara. Ulinganishaji huo unaimarisha onyo dhidi ya tabia zinazoharibu jamii, zikiwemo rushwa na kutowajibika. Mbinu husaidia ujumbe kueleweka kwa kuunganisha kosa na picha inayotia wasiwasi.\n\nWasakatonge: mafumbo katika Wewe Jiko la Shamba\nJiko linapotumiwa kumrejelea mtu, maana haibaki katika kifaa cha kupikia. Fumbo linaleta nafasi ya kuchunguza mwenendo na nafasi ya mtu katika mahusiano. Msomaji anafundishwa kuchunguza maadili yaliyo nyuma ya taswira, badala ya kuchukua maneno katika maana ya uso.\n\nMalenga Wapya: methali katika Ulibarikiwa Mja\nWazo la subira kuvuta heri huunganisha ujumbe wa shairi na hekima inayofahamika katika jamii. Msomaji anaelekezwa kuepuka kukimbilia maamuzi bila busara. Methali huweka funzo la subira katika kauli fupi inayoweza kukumbukwa na kutumiwa.\n\nMalenga Wapya: taswira katika Ua\nUa linatoa picha ya uzuri unaovutia na unaopaswa kuthaminiwa. Katika mahusiano, picha hii humwelekeza msomaji kufikiria thamani ya mtu na kuwajibika katika kumtunza. Taswira inaonesha kwamba uzuri hauhalalishi kumtumia au kumuumiza mwenyewe.\n\nMalenga Wapya: tashihisi katika Samaki Mtungoni\nSamaki kupewa uwezo wa kujadili hali na kupigania haki kunahuisha picha ya wanaokandamizwa. Msomaji anasikia sauti ya walio katika kifungo badala ya kuangalia samaki kama viumbe tu. Funzo ni kushirikiana kupinga ukandamizaji na kudai nafasi ya kuishi kwa utu.\n\nVipengele hivi havipambi matini pekee: vinawasilisha uongozi, maadili, subira na haki. Uhakiki mzuri hutaja mbinu, huonesha ilipotumiwa na hueleza somo; kutaja dhamira bila uchanganuzi wa lugha hakutoshi.",
+      "steps": [
+        "Tafsiri swali na utaje kazi, waandishi au suala linalochambuliwa.",
+        "Kwa kila hoja, unganisha wazo, mfano mahususi na namna mfano unavyothibitisha swali.",
+        "Tumia aya zinazofuatana na hitimisho. Hili ni jibu la mfano; hoja nyingine zenye ushahidi sahihi zinakubalika."
+      ],
+      "tip": "Usibuni nukuu. Mifano hapa imeelezwa kwa maneno ya mwandishi wa ufunguo."
+    },
+    {
+      "id": "10",
+      "section": "Sehemu C — Majibu ya mfano ya insha",
+      "prompt": "Chagua mhusika mmoja kwa kila riwaya mbili na mawazo matatu anayotimiza.",
+      "answer": "Mhusika hubeba wazo kupitia uchaguzi na matokeo ya matendo yake. Sekai katika Takadini na Lomolomo katika Watoto wa Mama N’tilie wanaonesha mawazo ya waandishi kwa namna tofauti.\n\nSekai: kupinga ubaguzi\nSekai anamthamini Takadini badala ya kuukubali ubaguzi dhidi ya ualbino. Msimamo wake huonesha kwamba utu haupimwi kwa rangi au hali ya ngozi. Mwandishi anampa msomaji mfano wa mtu anayekataa kukubali hukumu ya jamii isiyo na haki.\n\nSekai: kupinga mila zinazohatarisha maisha\nSekai anapomlinda mwanae dhidi ya desturi ya kuua watoto wenye ualbino, anapinga utamaduni unaopewa uzito kuliko maisha. Kuondoka kwake kunafanya mgongano huo uonekane kwa vitendo. Wazo ni kwamba desturi ichunguzwe na ibadilishwe inapodhuru.\n\nSekai: ujasiri na jukumu la mzazi\nSekai anakabili gharama ya kulinda mwanae badala ya kuacha jukumu lake kwa shinikizo la wengine. Ujasiri wake unaonesha uwezo wa mwanamke kufanya maamuzi ya msingi. Wazo la mwandishi ni kwamba upendo na msimamo vinaweza kufungua njia ya mabadiliko.\n\nLomolomo: madhara ya ulevi\nLomolomo anapoelekeza nguvu na fedha katika pombe, familia hupata mzigo mkubwa. Maisha yake yanaonesha kwamba matumizi yanayotawaliwa na ulevi yanaweza kuharibu uwezo wa kutimiza mahitaji ya nyumbani. Mwandishi anaonya kuhusu kuacha starehe zitawale wajibu.\n\nLomolomo: kutowajibika kwa mzazi\nMama N’tilie anabeba sehemu kubwa ya mapambano ya kipato huku Lomolomo akishindwa kutoa msaada unaohitajika. Hali hiyo inaweka watoto katika mazingira magumu. Wazo ni kwamba jukumu la familia linahitaji ushirikiano wa wazazi badala ya kumwachia mmoja mzigo.\n\nLomolomo: kuvunjika kwa utulivu wa familia\nMwenendo wa Lomolomo unaongeza migogoro na maumivu katika nyumba. Watoto hawawezi kufaidika kikamilifu na mazingira ya upendo na msaada. Mwandishi anafundisha kwamba tabia ya mtu mmoja inaweza kuathiri elimu na ustawi wa familia nzima.\n\nSekai anatoa mfano wa msimamo wa kujenga, huku Lomolomo akitoa onyo kupitia matokeo ya mwenendo wake. Kila mhusika amehusishwa na mawazo matatu; hivyo hatujabaki katika kutaja wasifu bila kueleza ujumbe.",
+      "steps": [
+        "Tafsiri swali na utaje kazi, waandishi au suala linalochambuliwa.",
+        "Kwa kila hoja, unganisha wazo, mfano mahususi na namna mfano unavyothibitisha swali.",
+        "Tumia aya zinazofuatana na hitimisho. Hili ni jibu la mfano; hoja nyingine zenye ushahidi sahihi zinakubalika."
+      ],
+      "tip": "Usibuni nukuu. Mifano hapa imeelezwa kwa maneno ya mwandishi wa ufunguo."
+    },
+    {
+      "id": "11",
+      "section": "Sehemu C — Majibu ya mfano ya insha",
+      "prompt": "Eleza mikakati mitatu ya kupambana na changamoto kwa kila tamthiliya mbili.",
+      "answer": "Mkakati wa kifasihi unaweza kuonekana kwa kuonesha mfano wa kutatua tatizo au kuonya juu ya matokeo yake. Ngoswe Penzi Kitovu cha Uzembe na Kilio Chetu zinaelekeza jamii katika hatua zifuatazo.\n\nNgoswe: elimu kuhusu sensa\nKutotambua thamani ya taarifa kunachangia kuharibiwa kwa kazi ya sensa. Jamii ipewe maelezo ya sababu ya kuhesabiwa na matumizi ya taarifa. Kuonesha matokeo ya karatasi kuchomwa ni onyo linalohimiza kuheshimu zoezi la umma.\n\nNgoswe: nidhamu dhidi ya ulevi kazini\nKuchanganya kazi na starehe kunapunguza umakini wa Ngoswe. Mkakati unaotokana na ukosoaji huu ni kuweka mipaka ya kazi na kukataa ulevi wakati wa kutekeleza wajibu. Hii hulinda ubora wa taarifa na muda wa wananchi.\n\nNgoswe: mahusiano yenye uwajibikaji\nKutoroka na Mazoea kunageuza mapenzi kuwa chanzo cha mgogoro. Wahusika wangeweza kufanya maamuzi ya mahusiano kwa uwazi na kuheshimu kazi na familia. Onyo hilo linahimiza vijana kupima matokeo ya uamuzi badala ya kuongozwa na tamaa ya haraka.\n\nKilio Chetu: elimu ya ujana\nTofauti za malezi ya Mama Suzi na mwongozo wa Mama Joti zinaonesha umuhimu wa mazungumzo yanayofaa umri. Vijana waelezwe afya, ridhaa na namna ya kukataa shinikizo. Kuficha taarifa kunawaacha wakitegemea wenzao wasio na maarifa.\n\nKilio Chetu: kulinda elimu na kuzuia mahusiano ya utotoni\nMimba ya Suzi inaonesha gharama kwa maisha ya mwanafunzi. Jamii iwape vijana nafasi ya kusoma na walinzi wanaoshughulikia unyanyasaji na shinikizo la mahusiano. Onyo la tamthiliya linahimiza hatua kabla ya mtoto kupoteza fursa zake.\n\nKilio Chetu: maarifa ya kujikinga na shinikizo la rika\nJoti kushawishi wenzake kunadhihirisha namna tabia hatarishi inavyosambaa katika kundi. Vijana wajifunze kuchagua ushauri sahihi na kupata huduma na maarifa ya afya. Ushirikiano wa wazazi, shule na vijana hupunguza utegemezi wa taarifa potofu.\n\nMikakati hii inaunganisha maarifa na tabia: elimu peke yake bila uwajibikaji haitoshi. Tamthiliya humwonesha msomaji madhara ya kupuuza hatua hizo na humhimiza kujenga mazingira yanayolinda kazi, afya na watoto.",
+      "steps": [
+        "Tafsiri swali na utaje kazi, waandishi au suala linalochambuliwa.",
+        "Kwa kila hoja, unganisha wazo, mfano mahususi na namna mfano unavyothibitisha swali.",
+        "Tumia aya zinazofuatana na hitimisho. Hili ni jibu la mfano; hoja nyingine zenye ushahidi sahihi zinakubalika."
+      ],
+      "tip": "Usibuni nukuu. Mifano hapa imeelezwa kwa maneno ya mwandishi wa ufunguo."
+    }
+  ],
+  "summaries": {
+    "Sehemu A — Uchaguzi na uoanishaji": "Soma fasili na chaguo kwa makini. Tofautisha mzizi, kiambishi, kauli na njeo. Maelezo yanabainisha makosa ya uchapaji yanapoathiri jibu.",
+    "Sehemu B — Sarufi, ufahamu na utungaji": "Tumia mifano sahihi. Katika ufupisho, hifadhi mawazo makuu, usiongeze habari mpya na uhakiki idadi ya maneno.",
+    "Sehemu C — Majibu ya mfano ya insha": "Majibu yote ya kuchagua yametolewa kwa mazoezi. Katika mtihani fuata idadi ya maswali inayoagizwa. Insha ihusishe hoja, tukio, mhusika na uhusiano na swali."
+  },
+  "references": [
+    {
+      "title": "NECTA: Uchambuzi wa majibu ya Kiswahili CSEE 2023",
+      "url": "https://necta.go.tz/publications/Performance%20Analysis%20Books/Candidates%27%20Item%20Response%20Analysis%20%28CIRA%29%20Reports%20/CSEE/2023/021%20KISWAHILI.pdf"
+    },
+    {
+      "title": "UNICEF Tanzania: lishe na maendeleo ya watoto",
+      "url": "https://www.unicef.org/tanzania/early-childhood-nutrition"
+    },
+    {
+      "title": "Palgrave Handbook of African Languages: lahaja za Mombasa",
+      "url": "https://erepository.kibu.ac.ke/server/api/core/bitstreams/82777717-2bcb-41aa-bca7-af950116229a/content"
+    }
+  ]
+}

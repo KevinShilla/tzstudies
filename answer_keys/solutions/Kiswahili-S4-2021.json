@@ -1,0 +1,312 @@
+{
+  "exam": "Kiswahili-S4-2021.pdf",
+  "output": "Kiswahili-S4-2021-AnswerKey.pdf",
+  "subject": "Kiswahili",
+  "level": "Darasa la Nne",
+  "year": "2021",
+  "code": "01",
+  "exam_type": "Upimaji wa Kitaifa wa Darasa la Nne (SFNA)",
+  "question_count": "Maswali 5; vipengele 25",
+  "language": "sw",
+  "reviewed": true,
+  "expected_parts": [
+    "A(i)",
+    "A(ii)",
+    "A(iii)",
+    "A(iv)",
+    "A(v)",
+    "B(i)",
+    "B(ii)",
+    "B(iii)",
+    "B(iv)",
+    "B(v)",
+    "C(i)",
+    "C(ii)",
+    "C(iii)",
+    "C(iv/a)",
+    "C(iv/b)",
+    "D(i)",
+    "D(ii)",
+    "D(iii)",
+    "D(iv)",
+    "D(v)",
+    "E(i)",
+    "E(ii)",
+    "E(iii)",
+    "E(iv)",
+    "E(v)"
+  ],
+  "questions": [
+    {
+      "id": "A(i)",
+      "section": "Sehemu A: Imla",
+      "prompt": "Andika sentensi ya imla ya 1.",
+      "steps": [
+        "Sikiliza sentensi nzima kwanza, kisha tambua maneno yake na uyaandike kwa mpangilio ulioyasikia.",
+        "Anza kwa herufi kubwa, acha nafasi baina ya maneno, na malizia kwa nukta. Hakiki tahajia wakati wa kusoma kwa mara ya mwisho."
+      ],
+      "answer": "Bibi yangu anaishi Kyela."
+    },
+    {
+      "id": "A(ii)",
+      "section": "Sehemu A: Imla",
+      "prompt": "Andika sentensi ya imla ya 2.",
+      "steps": [
+        "Sikiliza sentensi nzima kwanza, kisha tambua maneno yake na uyaandike kwa mpangilio ulioyasikia.",
+        "Anza kwa herufi kubwa, acha nafasi baina ya maneno, na malizia kwa nukta. Hakiki tahajia wakati wa kusoma kwa mara ya mwisho."
+      ],
+      "answer": "Ng’ombe wetu anaitwa Pato."
+    },
+    {
+      "id": "A(iii)",
+      "section": "Sehemu A: Imla",
+      "prompt": "Andika sentensi ya imla ya 3.",
+      "steps": [
+        "Sikiliza sentensi nzima kwanza, kisha tambua maneno yake na uyaandike kwa mpangilio ulioyasikia.",
+        "Anza kwa herufi kubwa, acha nafasi baina ya maneno, na malizia kwa nukta. Hakiki tahajia wakati wa kusoma kwa mara ya mwisho."
+      ],
+      "answer": "Juzi tulicheza mpira uwanjani."
+    },
+    {
+      "id": "A(iv)",
+      "section": "Sehemu A: Imla",
+      "prompt": "Andika sentensi ya imla ya 4.",
+      "steps": [
+        "Sikiliza sentensi nzima kwanza, kisha tambua maneno yake na uyaandike kwa mpangilio ulioyasikia.",
+        "Anza kwa herufi kubwa, acha nafasi baina ya maneno, na malizia kwa nukta. Hakiki tahajia wakati wa kusoma kwa mara ya mwisho."
+      ],
+      "answer": "Samani zina thamani mno."
+    },
+    {
+      "id": "A(v)",
+      "section": "Sehemu A: Imla",
+      "prompt": "Andika sentensi ya imla ya 5.",
+      "steps": [
+        "Sikiliza sentensi nzima kwanza, kisha tambua maneno yake na uyaandike kwa mpangilio ulioyasikia.",
+        "Anza kwa herufi kubwa, acha nafasi baina ya maneno, na malizia kwa nukta. Hakiki tahajia wakati wa kusoma kwa mara ya mwisho."
+      ],
+      "answer": "Babu atanunua kamba ndefu."
+    },
+    {
+      "id": "B(i)",
+      "section": "Sehemu B: Sarufi na Msamiati",
+      "prompt": "Andika wingi wa mto.",
+      "steps": [
+        "Mto katika swali hili ni njia ya maji, si kifaa cha kulalia.",
+        "Katika ngeli yake, kiambishi m- hubadilika kuwa mi-."
+      ],
+      "answer": "Mito."
+    },
+    {
+      "id": "B(ii)",
+      "section": "Sehemu B: Sarufi na Msamiati",
+      "prompt": "Andika wingi wa ukucha.",
+      "steps": [
+        "Ukucha ni sehemu ngumu ya mwisho wa kidole.",
+        "Umoja ukucha hubadilika kuwa kucha katika wingi."
+      ],
+      "answer": "Kucha."
+    },
+    {
+      "id": "B(iii)",
+      "section": "Sehemu B: Sarufi na Msamiati",
+      "prompt": "Andika wingi wa ng’ombe.",
+      "steps": [
+        "Nomino hii ina umbo lilelile katika umoja na wingi.",
+        "Uwingi huonekana kwenye maneno yanayoandamana nayo, kama ng’ombe wengi."
+      ],
+      "answer": "Ng’ombe."
+    },
+    {
+      "id": "B(iv)",
+      "section": "Sehemu B: Sarufi na Msamiati",
+      "prompt": "Andika wingi wa ufa.",
+      "steps": [
+        "Nomino ufa huunda wingi kwa kiambishi ny-.",
+        "Hifadhi mzizi wa neno baada ya kubadili umbo."
+      ],
+      "answer": "Nyufa."
+    },
+    {
+      "id": "B(v)",
+      "section": "Sehemu B: Sarufi na Msamiati",
+      "prompt": "Andika wingi wa wembe.",
+      "steps": [
+        "Wembe hubadilika katika umbo la wingi, si kwa kuongeza ma-.",
+        "Umbo la wingi ni nyembe."
+      ],
+      "answer": "Nyembe."
+    },
+    {
+      "id": "C(i)",
+      "section": "Sehemu C: Methali, Nahau na Vitendawili",
+      "prompt": "Bibi amemkuta Chautundu akiiba. Atatumia methali ipi kumsuta?",
+      "steps": [
+        "Mhusika aliiba mara nyingi lakini hatimaye akagunduliwa.",
+        "Chagua methali inayoonesha kuwa mwizi hatabaki amejificha milele."
+      ],
+      "answer": "Siku za mwizi ni arobaini."
+    },
+    {
+      "id": "C(ii)",
+      "section": "Sehemu C: Methali, Nahau na Vitendawili",
+      "prompt": "Taja methali ya kumhimiza rafiki kufanya kazi kwa bidii.",
+      "steps": [
+        "Methali ihusishe juhudi za sasa na manufaa yatakayopatikana.",
+        "Anayefanya kazi kwa shida atafaidi baadaye."
+      ],
+      "answer": "Mchumia juani hulia kivulini.",
+      "tip": "Mfano mwingine unaofaa ni Mgaagaa na upwa hali wali mkavu."
+    },
+    {
+      "id": "C(iii)",
+      "section": "Sehemu C: Methali, Nahau na Vitendawili",
+      "prompt": "Eleza maana ya Samaki mkunje angali mbichi.",
+      "steps": [
+        "Samaki mbichi anaweza kukunjwa kabla hajakauka; hii ni lugha ya picha.",
+        "Ujumbe unahusu kufundisha tabia nzuri mapema katika maisha."
+      ],
+      "answer": "Mfundishe na kumlea mtu kwa tabia njema tangu akiwa mdogo."
+    },
+    {
+      "id": "C(iv/a)",
+      "section": "Sehemu C: Methali, Nahau na Vitendawili",
+      "prompt": "Kamilisha: Mdharau mwiba __.",
+      "steps": [
+        "Methali inaonya dhidi ya kupuuza tatizo dogo.",
+        "Andika sehemu ya pili ya methali nzima, ikiwemo neno tende."
+      ],
+      "answer": "Mguu huota tende. Methali kamili: Mdharau mwiba mguu huota tende."
+    },
+    {
+      "id": "C(iv/b)",
+      "section": "Sehemu C: Methali, Nahau na Vitendawili",
+      "prompt": "Kamilisha: Kilema si __.",
+      "steps": [
+        "Kilema kinaeleza hali ya ulemavu; si lazima mtu awe mgonjwa.",
+        "Malizia methali kwa neno linaloitofautisha na maradhi."
+      ],
+      "answer": "Ugonjwa. Methali kamili: Kilema si ugonjwa."
+    },
+    {
+      "id": "D(i)",
+      "section": "Sehemu D: Uandishi na Utungaji",
+      "prompt": "Weka alama: Afadhali __ mgeni amewasili __.",
+      "steps": [
+        "Afadhali hapa inaonesha hisia ya nafuu; tumia mshangao baada yake.",
+        "Maelezo yanayofuata yanakamilika kwa nukta."
+      ],
+      "answer": "Afadhali! Mgeni amewasili. Alama: ! na ."
+    },
+    {
+      "id": "D(ii)",
+      "section": "Sehemu D: Uandishi na Utungaji",
+      "prompt": "Weka alama: Baba ameninunulia kalamu __ rula na daftari __.",
+      "steps": [
+        "Tenganisha vitu vilivyoorodheshwa kwa mkato.",
+        "Malizia kauli kwa nukta."
+      ],
+      "answer": "Baba ameninunulia kalamu, rula na daftari. Alama: , na ."
+    },
+    {
+      "id": "D(iii)",
+      "section": "Sehemu D: Uandishi na Utungaji",
+      "prompt": "Weka alama: Hodi __ je wenyeji wangu mpo __.",
+      "steps": [
+        "Hodi ni mwito wa kuomba kuingia, unaoweza kuwekewa mshangao.",
+        "Sehemu ya pili inauliza swali; weka alama ya kuuliza mwishoni."
+      ],
+      "answer": "Hodi! Je wenyeji wangu mpo? Alama: ! na ?"
+    },
+    {
+      "id": "D(iv)",
+      "section": "Sehemu D: Uandishi na Utungaji",
+      "prompt": "Weka alama: Aka __ mimi sipendi utoro __.",
+      "steps": [
+        "Aka hapa ni kihisishi cha kukataa au kukemea; weka mshangao.",
+        "Kauli ya kutopenda utoro inaishia kwa nukta."
+      ],
+      "answer": "Aka! Mimi sipendi utoro. Alama: ! na ."
+    },
+    {
+      "id": "D(v)",
+      "section": "Sehemu D: Uandishi na Utungaji",
+      "prompt": "Weka alama: Mama __ baba na kaka watasafiri kesho __.",
+      "steps": [
+        "Mama ni jina la kwanza katika orodha; lifuatishwe na mkato.",
+        "Kauli kamili ya safari inamalizika kwa nukta."
+      ],
+      "answer": "Mama, baba na kaka watasafiri kesho. Alama: , na ."
+    },
+    {
+      "id": "E(i)",
+      "section": "Sehemu E: Ufahamu",
+      "prompt": "Kuku na Kanga waliishi wapi?",
+      "steps": [
+        "Rudia mwanzo wa habari.",
+        "Sentensi ya pili inaeleza makazi yao wote wawili."
+      ],
+      "answer": "Kuku na Kanga waliishi kwa binadamu."
+    },
+    {
+      "id": "E(ii)",
+      "section": "Sehemu E: Ufahamu",
+      "prompt": "Nani alikuwa na sindano ya kushonea nguo?",
+      "steps": [
+        "Tafuta mwenye sindano kabla ya kuibiwa.",
+        "Kanga alijaribu kuazima kutoka kwa Kuku."
+      ],
+      "answer": "Kuku alikuwa na sindano ya kushonea nguo."
+    },
+    {
+      "id": "E(iii)",
+      "section": "Sehemu E: Ufahamu",
+      "prompt": "Sindano ilipoibiwa ilifichwa wapi?",
+      "steps": [
+        "Fuata kitendo cha Kanga baada ya kuiba sindano.",
+        "Aliondoka nayo na kuificha porini."
+      ],
+      "answer": "Sindano ilifichwa porini."
+    },
+    {
+      "id": "E(iv)",
+      "section": "Sehemu E: Ufahamu",
+      "prompt": "Hadithi hii inahusu nini?",
+      "steps": [
+        "Tambua wahusika wakuu na chanzo cha ugomvi.",
+        "Uchoyo wa Kuku na wizi wa Kanga vilivunja urafiki wao."
+      ],
+      "answer": "Hadithi inahusu Kuku na Kanga na ugomvi uliotokana na uchoyo na wizi."
+    },
+    {
+      "id": "E(v)",
+      "section": "Sehemu E: Ufahamu",
+      "prompt": "Hadithi hii inatoa funzo gani?",
+      "steps": [
+        "Uchoyo ulisababisha wizi, ugomvi na kuvunjika kwa urafiki.",
+        "Eleza tabia njema inayoweza kuzuia matokeo hayo."
+      ],
+      "answer": "Tusiwe wachoyo wala wezi; tushirikiane kwa uaminifu.",
+      "tip": "Hili ni jibu la mfano. Funzo linalohusiana na habari na kuelezeka vizuri linakubalika."
+    }
+  ],
+  "labelling_note": "Majibu yametumia herufi za sehemu A–E ili kuepuka makosa ya namba katika baadhi ya nakala. Linganisha kila kipengele kwa maneno ya swali.",
+  "summaries": {
+    "Sehemu A: Imla": "Sikiliza kwa makini. Hakiki nafasi kati ya maneno, tahajia, herufi kubwa na alama ya mwisho.",
+    "Sehemu B: Sarufi na Msamiati": "Soma agizo kwanza: kutaja wingi, kubadili neno kuwa kitenzi, kutambua wakati au kudondosha silabi ni kazi tofauti.",
+    "Sehemu C: Methali, Nahau na Vitendawili": "Tambua lugha ya picha. Maana ya methali, nahau au kitendawili haiwezi kupatikana kwa kutafsiri kila neno peke yake.",
+    "Sehemu D: Uandishi na Utungaji": "Angalia maana ya sentensi, mfuatano wa matukio au sehemu za barua. Alama za uandishi zifuate matumizi ya kauli.",
+    "Sehemu E: Ufahamu": "Rudia sehemu husika ya habari na ujibu kwa sentensi wazi. Funzo liungwe mkono na matukio ya habari."
+  },
+  "references": [
+    {
+      "title": "Karatasi ya NECTA ya sentensi za imla",
+      "url": "https://maktaba.tetea.org/past-papers/std4/kiswahili/Kiswahili-Imla-S4-2021.pdf"
+    },
+    {
+      "title": "Taarifa ya NECTA ya uchambuzi wa majibu",
+      "url": "https://onlinesys.necta.go.tz/cira/sfna/2021/01_KISWAHILI.pdf"
+    }
+  ],
+  "sha256": "61a228fc2f3a7748c27b5b054f94e6ecfccaf788fe19b40f149e8e543bbee1cf"
+}

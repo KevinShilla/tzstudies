@@ -1,0 +1,302 @@
+{
+  "exam": "Mathematics-S4-2024.pdf",
+  "output": "Mathematics-S4-2024-AnswerKey.pdf",
+  "subject": "Mathematics",
+  "level": "Standard Four",
+  "year": "2024",
+  "code": "04E",
+  "exam_type": "National Assessment",
+  "question_count": "5 questions, each with 5 parts",
+  "language": "en",
+  "reviewed": true,
+  "expected_parts": [
+    "1(a)",
+    "1(b)",
+    "1(c)",
+    "1(d)",
+    "1(e)",
+    "2(a)",
+    "2(b)",
+    "2(c)",
+    "2(d)",
+    "2(e)",
+    "3(a)",
+    "3(b)",
+    "3(c)",
+    "3(d)",
+    "3(e)",
+    "4(a)",
+    "4(b)",
+    "4(c)",
+    "4(d)",
+    "4(e)",
+    "5(a)",
+    "5(b)",
+    "5(c)",
+    "5(d)",
+    "5(e)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Add 78 + 11.",
+      "steps": [
+        "Ones: 8 + 1 = 9.",
+        "Tens: 7 + 1 = 8."
+      ],
+      "answer": "89."
+    },
+    {
+      "id": "1(b)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Add 746 + 437.",
+      "steps": [
+        "Ones: 6 + 7 = 13; write 3 and carry 1.",
+        "Tens: 4 + 3 + 1 = 8.",
+        "Hundreds: 7 + 4 = 11."
+      ],
+      "answer": "1,183."
+    },
+    {
+      "id": "1(c)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Write 300 + 60 + 5 in short form.",
+      "steps": [
+        "300 + 60 = 360.",
+        "360 + 5 = 365."
+      ],
+      "answer": "365."
+    },
+    {
+      "id": "1(d)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Write 345 in expanded form.",
+      "steps": [
+        "3 hundreds = 300; 4 tens = 40; 5 ones = 5.",
+        "Add these place values."
+      ],
+      "answer": "300 + 40 + 5."
+    },
+    {
+      "id": "1(e)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Write XXV in Arabic numerals.",
+      "steps": [
+        "X = 10 and V = 5.",
+        "10 + 10 + 5 = 25."
+      ],
+      "answer": "25."
+    },
+    {
+      "id": "2(a)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Find the next number: 1, 3, 5, 7, __.",
+      "steps": [
+        "The sequence increases by 2.",
+        "7 + 2 = 9."
+      ],
+      "answer": "9."
+    },
+    {
+      "id": "2(b)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Arrange 23, 12, 34, 21, 32, 43, 18 from smallest to largest.",
+      "steps": [
+        "Compare tens digits, then ones digits within each tens group.",
+        "The tens groups are 10s, 20s, 30s, then 40s."
+      ],
+      "answer": "12, 18, 21, 23, 32, 34, 43."
+    },
+    {
+      "id": "2(c)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Find the missing Roman numeral: XII, XIV, XVI, __, XX.",
+      "steps": [
+        "Convert to 12, 14, 16, __, 20.",
+        "Increase by 2; the missing value is 18.",
+        "18 = X + V + III."
+      ],
+      "answer": "XVIII."
+    },
+    {
+      "id": "2(d)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Find the next number: 998, 999, 1000, __.",
+      "steps": [
+        "Each term increases by 1.",
+        "1,000 + 1 = 1,001."
+      ],
+      "answer": "1,001."
+    },
+    {
+      "id": "2(e)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Maize harvest starts at 300 sacks and increases by 50 yearly. Find year 5's harvest.",
+      "steps": [
+        "There are four yearly increases after year 1.",
+        "300 + 4 x 50 = 500."
+      ],
+      "answer": "500 sacks."
+    },
+    {
+      "id": "3(a)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Add sh. 2,150 + sh. 950.",
+      "steps": [
+        "2,150 + 900 = 3,050.",
+        "3,050 + 50 = 3,100."
+      ],
+      "answer": "Sh. 3,100."
+    },
+    {
+      "id": "3(b)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Multiply sh. 250 by 30.",
+      "steps": [
+        "250 x 3 = 750.",
+        "Multiply by the remaining factor 10: 750 x 10."
+      ],
+      "answer": "Sh. 7,500."
+    },
+    {
+      "id": "3(c)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Write the time shown by the clock in words.",
+      "steps": [
+        "The long minute hand points at 3, which is 15 minutes.",
+        "The shorter hour hand points just after 8; the thin hand at 12 is the seconds hand."
+      ],
+      "answer": "Quarter past eight (8:15)."
+    },
+    {
+      "id": "3(d)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Write quarter to two in numerals.",
+      "steps": [
+        "Quarter to means 15 minutes before the next hour.",
+        "Two o'clock minus 15 minutes is 1:45."
+      ],
+      "answer": "1:45."
+    },
+    {
+      "id": "3(e)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Add 4 hours 30 minutes and 2 hours 45 minutes.",
+      "steps": [
+        "30 + 45 = 75 minutes = 1 hour 15 minutes.",
+        "4 + 2 + 1 = 7 hours."
+      ],
+      "answer": "7 hours 15 minutes."
+    },
+    {
+      "id": "4(a)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "How many angles does a square have?",
+      "steps": [
+        "A square has four vertices.",
+        "Each vertex is a right angle."
+      ],
+      "answer": "4 angles."
+    },
+    {
+      "id": "4(b)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "Draw a shape with three angles.",
+      "steps": [
+        "Choose three points that do not lie on a single straight line.",
+        "Join them with three straight sides to form a closed triangle."
+      ],
+      "answer": "A triangle with three angles.",
+      "drawing": "triangle"
+    },
+    {
+      "id": "4(c)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "Find the perimeter of the square with side 14 cm.",
+      "steps": [
+        "A square has four equal sides.",
+        "4 x 14 = 56."
+      ],
+      "answer": "56 cm."
+    },
+    {
+      "id": "4(d)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "A rectangular room has perimeter 54 m and length 17 m. Find its width.",
+      "steps": [
+        "Length + width = 54 / 2 = 27 m.",
+        "Width = 27 - 17."
+      ],
+      "answer": "10 m."
+    },
+    {
+      "id": "4(e)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "A triangle has perimeter 70 cm and sides 24 cm and 25 cm. Find the remaining side.",
+      "steps": [
+        "Known sides total 24 + 25 = 49 cm.",
+        "Remaining side = 70 - 49."
+      ],
+      "answer": "21 cm."
+    },
+    {
+      "id": "5(a)",
+      "section": "Question 5: Reading Data",
+      "prompt": "How many trees were planted in 2011 in the pictograph?",
+      "steps": [
+        "There are seven tree symbols in each of the two 2011 rows.",
+        "7 + 7 = 14."
+      ],
+      "answer": "14 trees."
+    },
+    {
+      "id": "5(b)",
+      "section": "Question 5: Reading Data",
+      "prompt": "Which year has the smallest number of planted trees?",
+      "steps": [
+        "Count 2011 = 14, 2012 = 8, 2013 = 11.",
+        "The smallest count is eight."
+      ],
+      "answer": "2012."
+    },
+    {
+      "id": "5(c)",
+      "section": "Question 5: Reading Data",
+      "prompt": "Find the difference between trees planted in 2011 and 2012.",
+      "steps": [
+        "2011 has 14 trees and 2012 has 8.",
+        "14 - 8 = 6."
+      ],
+      "answer": "6 trees."
+    },
+    {
+      "id": "5(d)",
+      "section": "Question 5: Reading Data",
+      "prompt": "Which year has the most planted trees?",
+      "steps": [
+        "Compare the counts 14, 8 and 11.",
+        "Fourteen is greatest and belongs to 2011."
+      ],
+      "answer": "2011."
+    },
+    {
+      "id": "5(e)",
+      "section": "Question 5: Reading Data",
+      "prompt": "Find the total trees planted in the three years.",
+      "steps": [
+        "Add 2011's 14, 2012's 8 and 2013's 11.",
+        "14 + 8 + 11 = 33."
+      ],
+      "answer": "33 trees."
+    }
+  ],
+  "summaries": {
+    "Question 1: Numbers and Place Value": "Read each digit's place and distinguish ordinary numbers from Roman numerals.",
+    "Question 2: Sequences and Comparison": "Find the repeated change first; count the gaps between terms.",
+    "Question 3: Operations and Time": "Keep the units consistent. Regroup every 60 minutes as one hour.",
+    "Question 4: Shapes and Measurement": "Use the shape's sides, perimeter formula and metric units carefully.",
+    "Question 5: Reading Data": "Read the key, count every symbol, and distinguish the year from the numerical value."
+  },
+  "sha256": "4e0238911eab4df446f5c30dbe550cdc6c9703afce89986c18f508c269c46a5a"
+}

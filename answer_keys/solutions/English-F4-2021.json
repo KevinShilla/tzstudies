@@ -1,0 +1,616 @@
+{
+  "exam": "English-F4-2021.pdf",
+  "output": "English-F4-2021-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Form Four",
+  "year": "2021",
+  "code": "022",
+  "exam_type": "Certificate of Secondary Education Examination (CSEE)",
+  "question_count": "12 questions; all options solved; 52 answered parts",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "e922e7aacf7c199cf50b3499ecbc09857b895ff79846b7b850bcc73fc25695dd",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(ix)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)",
+    "6(vi)",
+    "6(vii)",
+    "6(viii)",
+    "7(i)",
+    "7(ii)",
+    "8(i)",
+    "8(ii)",
+    "8(iii)",
+    "8(iv)",
+    "9 — Poem",
+    "9(i)",
+    "9(ii)",
+    "9(iii)",
+    "9(iv)",
+    "9(v)",
+    "9(vi)",
+    "9(vii)",
+    "10",
+    "11",
+    "12"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Section A — Objective questions",
+      "prompt": "Change the job-loss third conditional to a possible condition.",
+      "answer": "C — If I lose my job, I will go abroad.",
+      "steps": [
+        "Identify the language feature or communicative purpose in the question.",
+        "A possible future condition uses if + present simple, then will + base verb."
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Why add “wasn’t she?” to “She was my friend”?",
+      "answer": "A — To confirm information.",
+      "steps": [
+        "Identify the language feature or communicative purpose in the question.",
+        "The tag invites confirmation of a statement the speaker already puts forward."
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Give the past-perfect form of “No sooner did we leave … than it began to rain.”",
+      "answer": "E — No sooner had we left the house than it began to rain.",
+      "steps": [
+        "Identify the language feature or communicative purpose in the question.",
+        "Initial no sooner requires auxiliary–subject inversion; use had left for the earlier action and began for the later event."
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Section A — Objective questions",
+      "prompt": "Correct the verbs used for a man and a boat in a river.",
+      "answer": "B — The man was drowned but the boat sank in the same river.",
+      "steps": [
+        "Identify the language feature or communicative purpose in the question.",
+        "Drown refers to a person dying through submersion; sink describes the boat going below the surface. “The man drowned” is also natural wording."
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Section A — Objective questions",
+      "prompt": "What is the name for a proposition discussed in a debate?",
+      "answer": "C — Motion.",
+      "steps": [
+        "Identify the language feature or communicative purpose in the question.",
+        "A motion is the proposition supported or opposed by debaters."
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Section A — Objective questions",
+      "prompt": "When is “Dear Sir/Madam” appropriate in an application?",
+      "answer": "B — When you do not know the recipient’s name.",
+      "steps": [
+        "Identify the language feature or communicative purpose in the question.",
+        "Use a general formal salutation if the addressee is not personally identified."
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Section A — Objective questions",
+      "prompt": "What kind of writing creates a fictional story using literary skills?",
+      "answer": "C — Creative writing.",
+      "steps": [
+        "Identify the language feature or communicative purpose in the question.",
+        "Creative writing invents and shapes imaginative content."
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Section A — Objective questions",
+      "prompt": "“I think education has no significance” is based on what?",
+      "answer": "D — Opinion.",
+      "steps": [
+        "Identify the language feature or communicative purpose in the question.",
+        "I think introduces a judgement rather than a demonstrated fact."
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Section A — Objective questions",
+      "prompt": "Choose the conventional order of the listed CV sections.",
+      "answer": "E — Personal details, educational background, work experience, hobbies, referees.",
+      "steps": [
+        "Identify the language feature or communicative purpose in the question.",
+        "Begin with identity, then relevant preparation and experience, followed by optional interests and references."
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Section A — Objective questions",
+      "prompt": "What is an unprepared, improvised speech called?",
+      "answer": "B — Impromptu speech.",
+      "steps": [
+        "Identify the language feature or communicative purpose in the question.",
+        "Impromptu means delivered without advance preparation."
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the main-clause tense: I declare this exhibition open.",
+      "answer": "G — Simple Present.",
+      "steps": [
+        "Identify the auxiliary and main verb in the principal clause.",
+        "Declare is a base present-tense verb with I."
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the main-clause tense: Juma has not been home since he was a boy.",
+      "answer": "E — Present Perfect.",
+      "steps": [
+        "Identify the auxiliary and main verb in the principal clause.",
+        "Has + been is present perfect; since links the earlier point to the present."
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the main-clause tense: Our new coach is speaking to my brother.",
+      "answer": "C — Present Progressive.",
+      "steps": [
+        "Identify the auxiliary and main verb in the principal clause.",
+        "Is + speaking shows an ongoing present action."
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the main-clause tense: I never met my grandparents.",
+      "answer": "F — Simple Past.",
+      "steps": [
+        "Identify the auxiliary and main verb in the principal clause.",
+        "Met is the irregular past form of meet."
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the main-clause tense: She was wondering whether you could give her a lift.",
+      "answer": "B — Past Progressive.",
+      "steps": [
+        "Identify the auxiliary and main verb in the principal clause.",
+        "Was + wondering is past progressive."
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Section B — Language use",
+      "prompt": "Introduce yourself when reserving a Dar es Salaam–Dodoma bus seat by telephone.",
+      "answer": "Good morning. My name is Amina Juma. Am I speaking to the reservations office?",
+      "steps": [
+        "Use a clear, courteous telephone request.",
+        "Greet politely, give a name and check that you have the correct office."
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Section B — Language use",
+      "prompt": "State the reservation request.",
+      "answer": "I would like to reserve one seat on your bus from Dar es Salaam to Dodoma tomorrow, please.",
+      "steps": [
+        "Use a clear, courteous telephone request.",
+        "Specify number of seats, route and intended travel day. Tomorrow is a model date that can be replaced."
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Ask for the fare.",
+      "answer": "How much is the fare for one passenger from Dar es Salaam to Dodoma, please?",
+      "steps": [
+        "Use a clear, courteous telephone request.",
+        "Ask directly for the cost without assuming a price."
+      ]
+    },
+    {
+      "id": "3(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Ask when to report.",
+      "answer": "At what time should I report to the terminal before departure?",
+      "steps": [
+        "Use a clear, courteous telephone request.",
+        "Distinguish reporting time from departure time so that the traveller arrives early enough."
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Section B — Language use",
+      "prompt": "Add an affix to refine to name a place of activity.",
+      "answer": "refinery",
+      "steps": [
+        "Choose an affix carrying the required meaning.",
+        "Attach -ry to refine, dropping the final e: refine → refinery."
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Add an affix to fire to mean wrongly or astray.",
+      "answer": "misfire",
+      "steps": [
+        "Choose an affix carrying the required meaning.",
+        "Prefix mis- indicates error or failure."
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Change mud to mean covered with mud.",
+      "answer": "muddy",
+      "steps": [
+        "Choose an affix carrying the required meaning.",
+        "Add suffix -y, doubling final d."
+      ]
+    },
+    {
+      "id": "4(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Add an affix to check to mean in opposition to or against.",
+      "answer": "countercheck",
+      "steps": [
+        "Choose an affix carrying the required meaning.",
+        "Prefix counter- expresses opposition or a counteracting check."
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Section B — Language use",
+      "prompt": "Show an action repeatedly performed in the past.",
+      "answer": "When I was younger, I used to walk to school every day.",
+      "steps": [
+        "Construct a complete sentence with tense and timing matching the instruction.",
+        "Used to + base verb and every day clearly express a former habit. “I had been walking to school daily before we moved” is a valid past-perfect-progressive alternative."
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Show two actions in progress at the moment of speaking.",
+      "answer": "Asha is reading while Baraka is writing.",
+      "steps": [
+        "Construct a complete sentence with tense and timing matching the instruction.",
+        "Use present continuous in both clauses to express simultaneous current actions."
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Show an action that was in progress in the past.",
+      "answer": "At eight o’clock last night, I was revising English.",
+      "steps": [
+        "Construct a complete sentence with tense and timing matching the instruction.",
+        "Use was + -ing with a specified past time."
+      ]
+    },
+    {
+      "id": "5(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Show two actions progressing simultaneously in the past.",
+      "answer": "I was cooking while my sister was setting the table.",
+      "steps": [
+        "Construct a complete sentence with tense and timing matching the instruction.",
+        "Use past continuous in both clauses and while to connect simultaneous events."
+      ]
+    },
+    {
+      "id": "6(i)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite using the possessive case: That is a foot length.",
+      "answer": "That is a foot’s length.",
+      "steps": [
+        "Decide whether the possessor is singular or plural before placing the apostrophe.",
+        "The singular foot takes apostrophe + s."
+      ]
+    },
+    {
+      "id": "6(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite using the possessive case: We saw the butcher shop.",
+      "answer": "We saw the butcher’s shop.",
+      "steps": [
+        "Decide whether the possessor is singular or plural before placing the apostrophe.",
+        "The shop belongs to or is run by a singular butcher."
+      ]
+    },
+    {
+      "id": "6(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite using the possessive case: A student at Tegeta Girls Secondary School.",
+      "answer": "A student at Tegeta Girls’ Secondary School.",
+      "steps": [
+        "Decide whether the possessor is singular or plural before placing the apostrophe.",
+        "Girls is plural and ends in s, so add an apostrophe after s. The original is a phrase; “She is a student …” would make it a full sentence."
+      ]
+    },
+    {
+      "id": "6(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite using the possessive case: She works at Ladies beauty salon.",
+      "answer": "She works at the ladies’ beauty salon.",
+      "steps": [
+        "Decide whether the possessor is singular or plural before placing the apostrophe.",
+        "Plural ladies ends in s, so the possessive apostrophe follows s."
+      ]
+    },
+    {
+      "id": "6(v)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite using the possessive case: Please do it, for goodness sake!",
+      "answer": "Please do it, for goodness’ sake!",
+      "steps": [
+        "Decide whether the possessor is singular or plural before placing the apostrophe.",
+        "The conventional expression uses goodness’ sake."
+      ]
+    },
+    {
+      "id": "6(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite using the possessive case: I hate a duty call.",
+      "answer": "I hate duty’s call.",
+      "steps": [
+        "Decide whether the possessor is singular or plural before placing the apostrophe.",
+        "Singular duty takes ’s; the noun phrase refers to the call of duty."
+      ]
+    },
+    {
+      "id": "6(vii)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite using the possessive case: He was the president at teachers trade union.",
+      "answer": "He was the president of the teachers’ trade union.",
+      "steps": [
+        "Decide whether the possessor is singular or plural before placing the apostrophe.",
+        "Plural teachers takes a final apostrophe; of naturally links president with the union."
+      ]
+    },
+    {
+      "id": "6(viii)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite using the possessive case: It is a day match.",
+      "answer": "It is a day’s match.",
+      "steps": [
+        "Decide whether the possessor is singular or plural before placing the apostrophe.",
+        "For the possessive exercise, singular day takes ’s."
+      ],
+      "tip": "“A day match” is already valid as a noun modifier meaning a match played during the day. “A day’s match” follows the requested possessive form but can change that nuance."
+    },
+    {
+      "id": "7(i)",
+      "section": "Section B — Language use",
+      "prompt": "Report the Ali–Janet dialogue in one paragraph as Janet.",
+      "answer": "Ali greeted me and asked where I was going. I told him that I was going to the playground to watch a football match. Laughing, he said that he was going to the bus stop to meet his brother, who was coming from Pemba. I told him that he had to hurry up.",
+      "steps": [
+        "Take Janet’s viewpoint: Janet becomes I or me; Ali remains he.",
+        "Use reporting verbs and backshift am going to was going. Report the command with told him that he had to hurry up."
+      ]
+    },
+    {
+      "id": "7(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Report the same dialogue in one paragraph as Ali.",
+      "answer": "I greeted Janet and asked where she was going. She told me that she was going to the playground to watch a football match. Laughing, I told her that I was going to the bus stop to meet my brother, who was coming from Pemba. She told me that I had to hurry up.",
+      "steps": [
+        "Take Ali’s viewpoint: Ali becomes I, me and my; Janet becomes she or her.",
+        "Turn the question into where she was going, without question inversion. Report each statement with the appropriate person and past tense."
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Section B — Language use",
+      "prompt": "Show a relationship between people using a preposition.",
+      "answer": "There is a strong friendship between Asha and Neema.",
+      "steps": [
+        "Choose a preposition carrying the requested relation and build a grammatical sentence.",
+        "Between links the two people in the relationship."
+      ]
+    },
+    {
+      "id": "8(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Use a preposition meaning higher than.",
+      "answer": "The picture hangs above the doorway.",
+      "steps": [
+        "Choose a preposition carrying the requested relation and build a grammatical sentence.",
+        "Above indicates a higher position."
+      ]
+    },
+    {
+      "id": "8(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Use a preposition to express speed.",
+      "answer": "The bus travelled at sixty kilometres per hour.",
+      "steps": [
+        "Choose a preposition carrying the requested relation and build a grammatical sentence.",
+        "At introduces the stated speed."
+      ]
+    },
+    {
+      "id": "8(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Use a preposition to signify possession.",
+      "answer": "The roof of the house needs repair.",
+      "steps": [
+        "Choose a preposition carrying the requested relation and build a grammatical sentence.",
+        "Of links the roof to the house to which it belongs."
+      ]
+    },
+    {
+      "id": "9 — Poem",
+      "section": "Section C — Composition and literature",
+      "prompt": "Compose two stanzas of four verses each containing the seven requested literary features.",
+      "answer": "A Lamp for Tomorrow\n\nMy hope is a lamp in the rain,\nThe dawn whispers, “Rise and try”;\nI run like the wind through pain,\nElimu is light: let hope fly.\n\nI have climbed a million stairs,\nStill I lift my eyes to the sky;\nMy courage answers all my cares,\nElimu is light: let hope fly.",
+      "steps": [
+        "Plan two blocks with four lines each. Include a comparison without like, a comparison with like, a human action assigned to dawn and an exaggeration.",
+        "Repeat the last line as a refrain. Use the speaker I as the persona and include the Kiswahili word Elimu deliberately as language mixing."
+      ],
+      "tip": "This is an original model poem. “Barbarism” is the examination’s traditional literary term for the deliberate use of a word from another language."
+    },
+    {
+      "id": "9(i)",
+      "section": "Section C — Composition and literature",
+      "prompt": "Identify the metaphor in the model poem.",
+      "answer": "“My hope is a lamp”: hope is directly compared with a guiding light.",
+      "steps": [
+        "Refer to the original model poem immediately above.",
+        "It makes the comparison without like or as."
+      ]
+    },
+    {
+      "id": "9(ii)",
+      "section": "Section C — Composition and literature",
+      "prompt": "Identify personification.",
+      "answer": "“The dawn whispers”: dawn is given the human ability to speak softly.",
+      "steps": [
+        "Refer to the original model poem immediately above.",
+        "Whispering is attributed to a nonhuman thing."
+      ]
+    },
+    {
+      "id": "9(iii)",
+      "section": "Section C — Composition and literature",
+      "prompt": "Identify the simile.",
+      "answer": "“I run like the wind”: the speaker’s movement is compared with wind.",
+      "steps": [
+        "Refer to the original model poem immediately above.",
+        "The word like explicitly marks the comparison."
+      ]
+    },
+    {
+      "id": "9(iv)",
+      "section": "Section C — Composition and literature",
+      "prompt": "Identify hyperbole.",
+      "answer": "“I have climbed a million stairs”: a deliberately exaggerated account of effort.",
+      "steps": [
+        "Refer to the original model poem immediately above.",
+        "The vast number emphasises hardship rather than supplying a literal count."
+      ]
+    },
+    {
+      "id": "9(v)",
+      "section": "Section C — Composition and literature",
+      "prompt": "Identify the persona.",
+      "answer": "A hopeful learner or young person speaking in the first person.",
+      "steps": [
+        "Refer to the original model poem immediately above.",
+        "The repeated I expresses personal determination; the persona need not be the poet."
+      ]
+    },
+    {
+      "id": "9(vi)",
+      "section": "Section C — Composition and literature",
+      "prompt": "Identify the refrain.",
+      "answer": "“Elimu is light: let hope fly.”",
+      "steps": [
+        "Refer to the original model poem immediately above.",
+        "The complete line recurs at the end of both stanzas."
+      ]
+    },
+    {
+      "id": "9(vii)",
+      "section": "Section C — Composition and literature",
+      "prompt": "Identify barbarism or language mixing.",
+      "answer": "Elimu, a Kiswahili word meaning education, appears in an English poem.",
+      "steps": [
+        "Refer to the original model poem immediately above.",
+        "The word from another language reinforces the poem’s educational message."
+      ]
+    },
+    {
+      "id": "10",
+      "section": "Section C — Composition and literature",
+      "prompt": "Use two prescribed poems to explain how three sound devices in each communicate messages.",
+      "answer": "Model response:\nSound patterns can emphasise a poem’s ideas and make its criticism memorable. A Freedom Song by Marjorie Oludhe Macgoye and Building the Nation by Henry Barlow show this in different ways.\nIn A Freedom Song, the repeated refrain “Atieno yo” continually returns attention to the child. Its recurrence makes her suffering difficult to overlook and challenges the uncle’s excuses. Alliteration in “Sewing every sunny day” repeats the initial /s/ sound. The smooth phrase describes adult comfort beside the girl’s labour, sharpening the contrast between their lives. Rhyme between “pay” and “day” links the denial of wages with the routine that benefits other people. This musical connection helps expose exploitation concealed as family care.\nIn Building the Nation, alliteration in “delicate diplomatic duties” gives the official’s excuse a polished sound. The grand language contrasts with the meal he has enjoyed, revealing how respectable speech can disguise privilege. Repetition of the nation-building phrase questions who really contributes and who receives the benefits. By returning to that claim, the poem invites readers to compare words with conduct. Assonance in “building” and “slimming” repeats the short /ɪ/ vowel. The first word suggests collective progress, whereas the driver’s joking reference to slimming conceals hunger; their shared sound makes the unequal experiences easier to compare.\nBoth poets therefore use sound as part of meaning. Refrain, rhyme, alliteration, repetition and assonance make their criticism memorable and encourage readers to reject exploitation and dishonest public service.",
+      "steps": [
+        "Choose two poems from the prescribed collections, then identify three sound devices for each with short, accurate evidence.",
+        "For A Freedom Song use refrain, /s/ alliteration and pay/day rhyme. For Building the Nation use /d/ alliteration, repetition and short-/ɪ/ assonance.",
+        "Explain what each pattern emphasises; do not merely list devices or replace sound analysis with general themes."
+      ],
+      "tip": "This is one model interpretation. Repeated vowel sounds are assonance; repeated initial consonants are alliteration. Neither poem needs a fixed rhyme scheme for individual sound patterns to operate."
+    },
+    {
+      "id": "11",
+      "section": "Section C — Composition and literature",
+      "prompt": "Show how life’s challenges cause disappointment, using three points from each of two plays.",
+      "answer": "Model response:\nDisappointment arises when hopes meet obstacles. Three Suitors: One Husband by Guillaume Oyono Mbia and This Time Tomorrow by Ngugi wa Thiong’o show how social pressures frustrate people’s plans.\nIn Three Suitors: One Husband, Juliette’s wish to choose her partner meets her family’s interest in bride wealth. This disappoints her because marriage is treated as a financial arrangement rather than her personal decision. The competing suitors also face disappointment when their payments do not secure the marriage they expect. The competition exposes the danger of treating consent as something money can purchase. A third challenge comes when the missing bride-wealth money creates accusations and dependence on Sangatiti’s supposed powers. His failure to solve the problem leaves the family without the certainty they wanted. The episode challenges the expectation that superstition can replace evidence and honest problem-solving.\nIn This Time Tomorrow, poverty leaves Njango with a fragile livelihood and little security. Her hard work does not guarantee a stable future, so the gap between effort and opportunity becomes a source of frustration. The threatened demolition of the settlement then destroys the residents’ hope of remaining in their homes. Njango’s uncertainty about where she will be the next day captures this disappointment directly. Finally, the Stranger’s attempt to organise resistance does not bring the protection people seek. The power used against the residents shows why hope based on collective protest can be frustrated when authorities refuse to address their needs.\nThe plays connect disappointment to greed, insecurity and unequal power. They suggest that lasting improvement requires respect for consent, reliable knowledge and fair treatment of vulnerable people.",
+      "steps": [
+        "Introduce the two plays and connect three distinct challenges in each with a particular frustrated expectation.",
+        "For Three Suitors use restricted marital choice, failed financial expectations and reliance on Sangatiti. For This Time Tomorrow use poverty, threatened housing and unsuccessful resistance.",
+        "Explain the link from challenge to disappointment rather than simply retelling the plots."
+      ]
+    },
+    {
+      "id": "12",
+      "section": "Section C — Composition and literature",
+      "prompt": "Using three points from each of two novels, defend the view that ignorance can obstruct development.",
+      "answer": "Model response:\nIgnorance obstructs development when people misunderstand risks, reject useful knowledge or fail to recognise others’ rights. Passed Like a Shadow by B. M. Mapalala and Unanswered Cries by Osman Conteh illustrate these problems.\nIn Passed Like a Shadow, Amoti interprets Adyeri’s illness through an accusation of witchcraft involving Birungi. This misunderstanding shifts attention away from informed responses to disease and damages relationships. The novel also connects failure to understand sexual-health risks with the choices made by Adyeri and Atwoki. Personal success cannot protect someone who ignores risks; illness then harms the family’s security and productive future. A third point is the failure to appreciate how knowledge and responsible choices work together. Atwoki’s opportunities are undermined when harmful influence is valued above sound advice. The novel shows that development needs more than talent or income: people must use reliable information when making decisions.\nIn Unanswered Cries, Makalay treats female circumcision as essential to a girl’s proper place in society. Her refusal to question that assumption threatens Olabisi’s wellbeing and narrows the girl’s future. Ignorance of health dangers is also exposed through the account of Dr. Asiatu’s daughter, whose infection follows cutting with unsterilised instruments. The loss illustrates the cost of allowing an unsafe practice to continue unquestioned. Finally, the belief that adults may impose the practice without respecting a girl’s choice reflects ignorance of her dignity and autonomy. Olabisi’s resistance and Ade’s support challenge this belief, showing that a community cannot develop fairly while silencing girls.\nThe novels therefore link ignorance with preventable harm, wasted opportunities and unjust treatment. Education must combine practical knowledge with critical thought and respect for people’s rights if it is to promote development.",
+      "steps": [
+        "Choose the two novels and define ignorance as lack or rejection of relevant understanding, rather than equating it only with inability to read.",
+        "Link each example to a concrete consequence for health, opportunity or dignity. Distinguish the novel’s beliefs about illness from scientifically reliable explanations.",
+        "Conclude by showing how informed decisions and respect for rights respond to the six points."
+      ],
+      "tip": "This is literary analysis of the novels’ events. Avoid claiming that illness itself proves personal fault; the argument concerns misinformation, harmful practices and pressures portrayed by the authors."
+    }
+  ],
+  "summaries": {
+    "Section A — Objective questions": "Conditional type I uses present simple plus will. Question tags can request confirmation; inverted no sooner clauses require careful auxiliary order.",
+    "Section B — Language use": "Reporting changes viewpoint as well as tense. For possessives, singular nouns generally take ’s and regular s-plurals take a final apostrophe.",
+    "Section C — Composition and literature": "Follow the requested form precisely. Literary essays need the required texts, distinct points, accurate evidence and explanation answering the actual claim."
+  },
+  "labelling_note": "All four Section C options are included for study, although candidates were instructed to answer three. The original poem has exactly two stanzas of four lines each. Responses are independent model solutions, not an official marking scheme.",
+  "references": [
+    {
+      "title": "NECTA English CSEE 2021 — prescribed-text and assessment checks",
+      "url": "https://onlinesys.necta.go.tz/cira/csee/2021/022_ENGLISH_LANGUAGE.pdf"
+    },
+    {
+      "title": "Rwanda Education Board — Building the Nation text",
+      "url": "https://elearning.reb.rw/pluginfile.php/20272/mod_resource/content/1/English%20LE%20SB%20Year%203.pdf"
+    },
+    {
+      "title": "Commonwealth Poetry Podcast — A Freedom Song text",
+      "url": "https://commonwealthpoetrypodcast.co.uk/episodes/episode-50-kenya/"
+    }
+  ]
+}

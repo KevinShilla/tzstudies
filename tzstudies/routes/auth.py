@@ -1,15 +1,27 @@
 import threading
+from urllib.parse import urlsplit
 
 from flask import Blueprint, current_app, flash, redirect, render_template, request, url_for
 from flask_login import current_user, login_required, login_user, logout_user
 from flask_mail import Message
-from itsdangerous import URLSafeTimedSerializer, SignatureExpired, BadSignature
+from itsdangerous import BadSignature, SignatureExpired, URLSafeTimedSerializer
 from werkzeug.security import check_password_hash, generate_password_hash
 
 from tzstudies.extensions import db, limiter, mail
 from tzstudies.models import User
 
 auth_bp = Blueprint("auth", __name__)
+
+
+def _safe_next():
+    target = request.args.get("next", "")
+    try:
+        parts = urlsplit(target)
+    except ValueError:
+        return url_for("papers.index")
+    if target.startswith("/") and not target.startswith("//") and not parts.scheme and not parts.netloc and "\\" not in target:
+        return target
+    return url_for("papers.index")
 
 
 # ---------------------------------------------------------------------------
@@ -40,7 +52,7 @@ def _verify_token(token, salt, max_age=3600):
 @limiter.limit("10 per hour", methods=["POST"])
 def signup():
     if current_user.is_authenticated:
-        return redirect(url_for("papers.index"))
+        return redirect(_safe_next())
 
     if request.method == "POST":
         email = request.form.get("email", "").strip().lower()
@@ -49,6 +61,10 @@ def signup():
 
         if not email or not name or not password:
             flash("All fields are required.", "error")
+            return redirect(url_for("auth.signup"))
+
+        if len(name) > 100 or len(email) > 120 or "@" not in email or any(c.isspace() for c in email):
+            flash("Please enter a valid name and email address.", "error")
             return redirect(url_for("auth.signup"))
 
         if len(password) < 6:
@@ -72,7 +88,7 @@ def signup():
 
         login_user(user)
         flash("Welcome to TZStudies! Check your email to verify your account.", "success")
-        return redirect(url_for("papers.index"))
+        return redirect(_safe_next())
 
     return render_template("signup.html")
 
@@ -94,8 +110,7 @@ def login():
         user = User.query.filter_by(email=email).first()
         if user and check_password_hash(user.pw_hash, password):
             login_user(user)
-            next_page = request.args.get("next")
-            return redirect(next_page or url_for("papers.index"))
+            return redirect(_safe_next())
 
         flash("Invalid email or password.", "error")
 

@@ -1,0 +1,529 @@
+{
+  "exam": "KISWAHILI-F4-2024.pdf",
+  "output": "Kiswahili-F4-2024-AnswerKey.pdf",
+  "subject": "Kiswahili",
+  "level": "Form Four",
+  "year": "2024",
+  "code": "021",
+  "exam_type": "Certificate of Secondary Education Examination (CSEE)",
+  "question_count": "11 questions; 45 answered parts",
+  "language": "sw",
+  "reviewed": true,
+  "sha256": "51c1a9024ee544831a78da0b252bdd03091b1940c958bd8ec40fa2479aac34c7",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(ix)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "3(a)(i)",
+    "3(a)(ii)",
+    "3(a)(iii)",
+    "3(a)(iv)",
+    "3(b)(i)",
+    "3(b)(ii)",
+    "3(b)(iii)",
+    "3(b)(iv)",
+    "3(b)(v)",
+    "4",
+    "5(a)(i)",
+    "5(a)(ii)",
+    "5(a)(iii)",
+    "5(a)(iv)",
+    "5(b)(i)",
+    "5(b)(ii)",
+    "5(b)(iii)",
+    "5(b)(iv)",
+    "5(b)(v)",
+    "6",
+    "7",
+    "8(a)",
+    "8(b)(i)",
+    "8(b)(ii)",
+    "8(c)",
+    "8(d)",
+    "9",
+    "10",
+    "11"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Kisicho chanzo cha misimu katika chaguo.",
+      "answer": "A — Tanakali sauti au milio.",
+      "steps": [
+        "Tambua dhana inayoulizwa kabla ya kulinganisha chaguo.",
+        "Tanakali ni mwigo wa sauti; sayansi, shughuli, utani na mabadiliko ya kihistoria huleta mazingira ya misimu."
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Neno lenye mofu ya mtendwa.",
+      "answer": "B — Alimtembelea.",
+      "steps": [
+        "Tambua dhana inayoulizwa kabla ya kulinganisha chaguo.",
+        "A-li-m-tembele-a: -m- humtaja anayepokea tendo."
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Aina ya Asante! katika kauli iliyotolewa.",
+      "answer": "E — Kihisishi.",
+      "steps": [
+        "Tambua dhana inayoulizwa kabla ya kulinganisha chaguo.",
+        "Linaonesha hisia za shukrani, si jina au tendo kuu."
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Kukipa kitu kisicho binadamu sifa za binadamu.",
+      "answer": "B — Tashihisi.",
+      "steps": [
+        "Tambua dhana inayoulizwa kabla ya kulinganisha chaguo.",
+        "Mfano: upepo unaimba."
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Kauli katika wamepigiwa ngoma.",
+      "answer": "C — Kutendewa.",
+      "steps": [
+        "Tambua dhana inayoulizwa kabla ya kulinganisha chaguo.",
+        "-iw- huonesha kufanyiwa tendo kwa ajili yao."
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Tanzu sahihi za fasihi simulizi.",
+      "answer": "C — Semi, hadithi, maigizo na ushairi.",
+      "steps": [
+        "Tambua dhana inayoulizwa kabla ya kulinganisha chaguo.",
+        "Chaguo nyingine hutaja vipera vya utanzu mmoja."
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Mpangilio wa insha.",
+      "answer": "E — Kichwa, mwanzo, kiini na hitimisho.",
+      "steps": [
+        "Tambua dhana inayoulizwa kabla ya kulinganisha chaguo.",
+        "Kichwa hutambulisha mada, utangulizi huifungua, kiini hufafanua na hitimisho hufunga."
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Kwa nini mazungumzo ya moja kwa moja ni halisi zaidi?",
+      "answer": "B — Wahusika huwasiliana ana kwa ana.",
+      "steps": [
+        "Tambua dhana inayoulizwa kabla ya kulinganisha chaguo.",
+        "Mzungumzaji na msikilizaji huona ishara na kujibu papo hapo."
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Methali isiyosisitiza uvumilivu na jitihada kazini.",
+      "answer": "A — Afiriti hafichiki.",
+      "steps": [
+        "Tambua dhana inayoulizwa kabla ya kulinganisha chaguo.",
+        "Hueleza kwamba jambo lenye nguvu au umaarufu haliwezi kufichwa; nyingine huhimiza jitihada au uvumilivu."
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Tungo yenye kiambishi rejeshi.",
+      "answer": "D — Amejiondoa.",
+      "steps": [
+        "Tambua dhana inayoulizwa kabla ya kulinganisha chaguo.",
+        "A-me-ji-ondoa: -ji- humrejeshea mtenda tendo lake mwenyewe; ni urejeshi wa nafsi, si o-rejeshi ya kishazi."
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Semi fupi za mafunzo mazito kutokana na uzoefu.",
+      "answer": "G — Methali.",
+      "steps": [
+        "Linganisha fasili au mfano na dhana husika.",
+        "Methali hufupisha hekima ya jamii."
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Semi za mafumbo zinazohitaji jibu.",
+      "answer": "E — Vitendawili.",
+      "steps": [
+        "Linganisha fasili au mfano na dhana husika.",
+        "Hadhira hutegua fumbo."
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Maneno ya kawaida yenye maana tofauti na jumla ya maneno.",
+      "answer": "B — Nahau.",
+      "steps": [
+        "Linganisha fasili au mfano na dhana husika.",
+        "Mfano mkono mrefu unaweza kumaanisha mwizi."
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Maonyo yenye maana iliyofichika.",
+      "answer": "A — Mafumbo.",
+      "steps": [
+        "Linganisha fasili au mfano na dhana husika.",
+        "Maana ya ndani huhitaji kufumbuliwa."
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Picha za mafumbo zinazoonesha ukinzani.",
+      "answer": "F — Mizungu.",
+      "steps": [
+        "Linganisha fasili au mfano na dhana husika.",
+        "Hali inayokinzana humfanya mtu kutafakari maana."
+      ]
+    },
+    {
+      "id": "2(vi)",
+      "section": "Sehemu A — Uchaguzi na uoanishaji",
+      "prompt": "Picha, ishara na tamathali kueleza wazo kwa ufupi.",
+      "answer": "C — Misemo.",
+      "steps": [
+        "Linganisha fasili au mfano na dhana husika.",
+        "Msemo ni kauli ya kifupi inayotambulika katika matumizi ya jamii."
+      ]
+    },
+    {
+      "id": "3(a)(i)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Eleza upotoshaji wa Msamiati usio sahihi.",
+      "answer": "Kusema nimepangisha nyumba wakati unamaanisha umekuwa mpangaji hubadili jukumu lako. Sema nimepanga nyumba; nimepangisha humaanisha umempa mwingine aipange.",
+      "steps": [
+        "Onesha kauli yenye tatizo.",
+        "Sahihisha na ueleze maana inayopotoshwa."
+      ]
+    },
+    {
+      "id": "3(a)(ii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Eleza upotoshaji wa Miundo isiyo sahihi.",
+      "answer": "Sisi amefika hubadilisha upatanisho wa nafsi. Sisi tumefika huonesha kwamba wanaosema ni wengi; umbo la kwanza linaweza kumchanganya msikilizaji.",
+      "steps": [
+        "Onesha kauli yenye tatizo.",
+        "Sahihisha na ueleze maana inayopotoshwa."
+      ]
+    },
+    {
+      "id": "3(a)(iii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Eleza upotoshaji wa Matamshi yasiyo sahihi.",
+      "answer": "Lafiki badala ya rafiki hupotosha umbo la neno. Kubadilisha sauti kunaweza kufanya neno lisieleweke au likaeleweka kama jingine.",
+      "steps": [
+        "Onesha kauli yenye tatizo.",
+        "Sahihisha na ueleze maana inayopotoshwa."
+      ]
+    },
+    {
+      "id": "3(a)(iv)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Eleza upotoshaji wa Kutokuwa na mantiki.",
+      "answer": "Nilimkuta hayupo hakuelezi kwa uwazi alikuwapo au hakuwapo. Sema sikumkuta nyumbani ikiwa hakuwepo; sentensi iwe na uhusiano unaoeleweka.",
+      "steps": [
+        "Onesha kauli yenye tatizo.",
+        "Sahihisha na ueleze maana inayopotoshwa."
+      ]
+    },
+    {
+      "id": "3(b)(i)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Fasili Irabu.",
+      "answer": "Sauti inayotamkwa bila kuzuiwa sana kwa mkondo wa hewa, kama a, e, i, o, u.",
+      "steps": [
+        "Tenganisha sifa ya sauti moja na sifa ya usemaji mzima.",
+        "Toa maelezo yanayobainisha istilahi hiyo."
+      ]
+    },
+    {
+      "id": "3(b)(ii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Fasili Kiimbo.",
+      "answer": "Kupanda na kushuka kwa sauti katika usemaji kunakoonesha taarifa, swali au hisia.",
+      "steps": [
+        "Tenganisha sifa ya sauti moja na sifa ya usemaji mzima.",
+        "Toa maelezo yanayobainisha istilahi hiyo."
+      ]
+    },
+    {
+      "id": "3(b)(iii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Fasili Konsonanti.",
+      "answer": "Sauti inayotamkwa kwa kuzuiwa au kubanwa kwa hewa katika sehemu ya kutamkia, kama p, t na s.",
+      "steps": [
+        "Tenganisha sifa ya sauti moja na sifa ya usemaji mzima.",
+        "Toa maelezo yanayobainisha istilahi hiyo."
+      ]
+    },
+    {
+      "id": "3(b)(iv)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Fasili Lafudhi.",
+      "answer": "Namna ya kutamka lugha inayoonesha athari ya eneo au lugha ya mzungumzaji.",
+      "steps": [
+        "Tenganisha sifa ya sauti moja na sifa ya usemaji mzima.",
+        "Toa maelezo yanayobainisha istilahi hiyo."
+      ]
+    },
+    {
+      "id": "3(b)(v)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Fasili Mkazo.",
+      "answer": "Nguvu inayowekwa katika silabi fulani ikilinganishwa na nyingine; kwa kawaida Kiswahili hukazia silabi ya pili kutoka mwisho.",
+      "steps": [
+        "Tenganisha sifa ya sauti moja na sifa ya usemaji mzima.",
+        "Toa maelezo yanayobainisha istilahi hiyo."
+      ]
+    },
+    {
+      "id": "4",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Eleza mchango wa Waarabu, Wajerumani na Waingereza kwa hoja mbili kila taifa.",
+      "answer": "Waarabu: biashara iliifanya Kiswahili kuwa lugha ya mawasiliano katika njia za pwani na bara; mafundisho ya Uislamu yaliyotumia Kiswahili katika maelezo yaliipanua kwa waumini.\nWajerumani: matumizi katika utawala na mawasiliano ya watumishi yaliieneza katika maeneo ya kikoloni; shule na shughuli za elimu zilizotumia Kiswahili ziliongeza wasomaji na maandishi.\nWaingereza: matumizi katika elimu na machapisho yaliipanua kwa wanafunzi; ushiriki katika Kamati ya Lugha ya Afrika Mashariki ya 1930 uliimarisha usanifishaji na matumizi ya pamoja.",
+      "steps": [
+        "Husisha kila shughuli na kuongezeka kwa watumiaji au uwezo wa lugha.",
+        "Taja vipengele viwili kila taifa. Historia hii inaeleza kuenea kwa lugha; haimaanishi kukubali ukoloni au biashara ya watumwa."
+      ]
+    },
+    {
+      "id": "5(a)(i)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Fafanua Homonimu kama katika kamusi na mfano mmoja.",
+      "answer": "Maneno yenye umbo linalofanana lakini maana na asili tofauti. Mfano: mbuzi mnyama na mbuzi kifaa cha kukunia nazi.",
+      "steps": [
+        "Chagua maana ya istilahi katika taaluma ya kamusi.",
+        "Visawe vinaweza kutofautiana kimtindo; si lazima vibadilishane katika kila sentensi."
+      ]
+    },
+    {
+      "id": "5(a)(ii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Fafanua Sinonimu kama katika kamusi na mfano mmoja.",
+      "answer": "Maneno tofauti yenye maana inayolingana katika muktadha. Mfano: pesa na fedha katika mazungumzo ya malipo.",
+      "steps": [
+        "Chagua maana ya istilahi katika taaluma ya kamusi.",
+        "Visawe vinaweza kutofautiana kimtindo; si lazima vibadilishane katika kila sentensi."
+      ]
+    },
+    {
+      "id": "5(a)(iii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Fafanua Kategoria kama katika kamusi na mfano mmoja.",
+      "answer": "Aina ya kisarufi ya neno, kama nomino, kitenzi au kivumishi. Mfano: kitabu ni nomino.",
+      "steps": [
+        "Chagua maana ya istilahi katika taaluma ya kamusi.",
+        "Visawe vinaweza kutofautiana kimtindo; si lazima vibadilishane katika kila sentensi."
+      ]
+    },
+    {
+      "id": "5(a)(iv)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Fafanua Kisawe kama katika kamusi na mfano mmoja.",
+      "answer": "Neno linaloweza kuwa na maana sawa au karibu sawa na jingine. Mfano: friji ni kisawe cha jokofu. Kisawe na sinonimu zinahusiana na dhana ileile ya usawa wa maana.",
+      "steps": [
+        "Chagua maana ya istilahi katika taaluma ya kamusi.",
+        "Visawe vinaweza kutofautiana kimtindo; si lazima vibadilishane katika kila sentensi."
+      ]
+    },
+    {
+      "id": "5(b)(i)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Bainisha aina ya yoyote katika Nguo yoyote fupi ni marufuku.",
+      "answer": "Kivumishi cha ujumla. Yoyote inaeleza nomino nguo.",
+      "steps": [
+        "Chunguza neno lililopigiwa mstari katika sentensi.",
+        "Kazi yake katika sentensi ndiyo inaamua aina."
+      ]
+    },
+    {
+      "id": "5(b)(ii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Bainisha aina ya ndiye katika Amina ndiye mwanangu.",
+      "answer": "Kitenzi kishirikishi; huunganisha Amina na sifa/utambulisho mwanangu kwa msisitizo.",
+      "steps": [
+        "Chunguza neno lililopigiwa mstari katika sentensi.",
+        "Kazi yake katika sentensi ndiyo inaamua aina."
+      ]
+    },
+    {
+      "id": "5(b)(iii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Bainisha aina ya japokuwa katika Alisoma kwa bidii japokuwa alifeli.",
+      "answer": "Kiunganishi; huunganisha mawazo yanayoonesha hali ya kutarajia tofauti.",
+      "steps": [
+        "Chunguza neno lililopigiwa mstari katika sentensi.",
+        "Kazi yake katika sentensi ndiyo inaamua aina."
+      ]
+    },
+    {
+      "id": "5(b)(iv)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Bainisha aina ya Afadhali! mwalimu amerudi nyumbani.",
+      "answer": "Kihisishi; huonesha hisia ya kupata ahueni.",
+      "steps": [
+        "Chunguza neno lililopigiwa mstari katika sentensi.",
+        "Kazi yake katika sentensi ndiyo inaamua aina."
+      ]
+    },
+    {
+      "id": "5(b)(v)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Bainisha aina ya kizembe katika Walianguka kizembe.",
+      "answer": "Kielezi cha namna; hueleza jinsi walivyoanguka.",
+      "steps": [
+        "Chunguza neno lililopigiwa mstari katika sentensi.",
+        "Kazi yake katika sentensi ndiyo inaamua aina."
+      ]
+    },
+    {
+      "id": "6",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Fafanua mafanikio sita ya Kamati ya Lugha ya Afrika Mashariki ya 1930.",
+      "answer": "1. Kuweka msingi wa maandishi ya Kiswahili sanifu kwa Kiunguja na kupunguza tofauti za tahajia.\n2. Kuandaa kamusi zilizosaidia maana na matumizi kuwa na marejeo ya pamoja.\n3. Kuandaa sarufi na maelekezo ya lugha kwa walimu na waandishi.\n4. Kutafsiri kazi za maarifa ili mada zipatikane kwa Kiswahili.\n5. Kutoa jarida la kitaaluma la kamati kwa majadiliano na utafiti wa Kiswahili.\n6. Kuandaa mashindano na kuhamasisha uandishi wa insha na vitabu, hivyo kupanua matini zenye matumizi sanifu.",
+      "steps": [
+        "Eleza matokeo ya shughuli kwa usanifishaji.",
+        "Usitaje taasisi zilizoanzishwa baada ya uhuru kana kwamba zilikuwa mafanikio ya kamati ya 1930."
+      ]
+    },
+    {
+      "id": "7",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Fafanua mambo tisa ya kuzingatia katika dayalojia.",
+      "answer": "1. Mada iliyo wazi huweka mazungumzo katika lengo moja.\n2. Wahusika wanaotambulika humwezesha msomaji kujua nani anasema.\n3. Mandhari na muktadha hueleza kwa nini mazungumzo yanatokea.\n4. Jina la msemaji lifuatiwe na nukta mbili kabla ya kauli yake.\n5. Zamu zifuatane na ziwe na mwingiliano wa maswali na majibu.\n6. Lugha iwe ya asili kwa wahusika na hali yao, bila kauli zote kufanana.\n7. Mawazo yafuate mantiki na kauli ijibu au iendeleze iliyotangulia.\n8. Hisia, alama za uandishi na maelekezo mafupi ya vitendo yaoneshe namna ya kusema.\n9. Mwanzo ufungue mada na mwisho ufikishe hitimisho au hatua inayofuata.",
+      "steps": [
+        "Panga maandishi kama mazungumzo, si insha ya msemaji mmoja.",
+        "Mfano: Asha: Tuanzie wapi? Juma: Tuanze kwa kupanga kazi. Kauli ya pili inaitikia ya kwanza."
+      ]
+    },
+    {
+      "id": "8(a)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Kichwa cha maneno matatu cha habari ya miti.",
+      "answer": "Umuhimu wa Miti",
+      "steps": [
+        "Chagua wazo kuu.",
+        "Umuhimu / wa / Miti ni maneno matatu."
+      ]
+    },
+    {
+      "id": "8(b)(i)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Fasili Akiba haiozi kulingana na habari.",
+      "answer": "Kuweka rasilimali kwa matumizi ya baadaye ni jambo la busara; miti inayopandwa sasa inaweza kusaidia mazingira na maisha ya baadaye.",
+      "steps": [
+        "Taja maana ya jumla.",
+        "Ihusishe na upandaji, utunzaji na hatua za mazingira."
+      ]
+    },
+    {
+      "id": "8(b)(ii)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Fasili Mchelea mwana kulia, hulia yeye kulingana na habari.",
+      "answer": "Kuepuka hatua ya lazima kwa kuogopa ugumu wa sasa huleta madhara baadaye. Hapa tusipolinda miti na kukemea uharibifu, tutateseka kwa ukame.",
+      "steps": [
+        "Taja maana ya jumla.",
+        "Ihusishe na upandaji, utunzaji na hatua za mazingira."
+      ]
+    },
+    {
+      "id": "8(c)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Taja athari mbili za kukosa mvua.",
+      "answer": "Upungufu wa maji kwa viumbe; na upungufu wa chakula pamoja na kudhoofika au kufa kwa mimea, hivyo binadamu na wanyama kukosa mahitaji.",
+      "steps": [
+        "Maji na ukuaji wa mimea ndiyo mahitaji yanayoathiriwa.",
+        "Toa athari mbili zinazotofautiana."
+      ]
+    },
+    {
+      "id": "8(d)",
+      "section": "Sehemu B — Sarufi, ufahamu na utungaji",
+      "prompt": "Fupisha habari ya miti kwa maneno 60–70.",
+      "answer": "Kiongozi anayethamini misitu aliwahimiza watu kupanda miti kabla ya kukata. Katika mahafali ya Twaweza, alisimamia upandaji na kuwasihi wahitimu kutunza miti na usafi kwa afya na mafanikio. Alikemea maji machafu, takataka na kujisaidia ovyo. Aliwataka viongozi wa baadaye kuendeleza uhifadhi, kwa sababu ukataji holela huleta ukame na madhara kwa viumbe. Kila mwanajamii atekeleze kauli ya kupanda miti ili kulinda mazingira kwa vizazi vijavyo.",
+      "steps": [
+        "Chagua mawazo makuu na uondoe mifano midogo na marudio.",
+        "Andika aya yenye maneno 60–70. Jibu hili lina maneno 63, kwa kuhesabu maneno yanayotenganishwa kwa nafasi."
+      ]
+    },
+    {
+      "id": "9",
+      "section": "Sehemu C — Majibu ya mfano ya insha",
+      "prompt": "Kwa hoja mbili kila diwani mbili, eleza jina la kitabu linavyosadifu yaliyomo.",
+      "answer": "Jina la kitabu linaweza kutoa ufunguo wa maudhui. Wasakatonge ya M. S. Khatibu na Mashairi ya Chekacheka ya T. A. Mvungi yana majina yanayohusiana na hali zinazochambuliwa ndani yake.\n\nWasakatonge: mapambano ya kupata mahitaji\nWasakatonge humaanisha watu wanaotafuta tonge la kila siku. Shairi Wasakatonge linaonesha maisha ya watu wa hali ya chini wanaohangaika kupata riziki. Jina hivyo linatoa picha ya mapambano ya msingi ambayo msomaji anakutana nayo ndani ya kazi.\n\nWasakatonge: hali ya wanyonge chini ya uongozi\nShairi Nahodha huelekeza macho katika wajibu wa viongozi. Uongozi usiotimiza jukumu la kuongoza huathiri wale wanaotegemea msaada wa jamii na huduma. Watu wanaosaka tonge wanaumia zaidi, hivyo jina linahusiana pia na swali la haki kwa wanyonge.\n\nMashairi ya Chekacheka: kejeli ya uongozi\nShairi Chura Umegundulika hutumia ufunuo wa tabia kuibua kicheko cha kejeli. Kicheko kinamfanya msomaji kuona kasoro ya mwenendo wa uongozi. Chekacheka hivyo si burudani isiyo na ujumbe, bali njia ya kukosoa.\n\nMashairi ya Chekacheka: kejeli ya rushwa\nKatika Seng’enge, ukosoaji wa rushwa unaendana na namna ya kuufanya uovu wa jamii uonekane wa kuaibisha. Kicheko husaidia kuvua uzito wa kujifanya wa mwenye kosa. Jina linaakisi matumizi ya ucheshi na kejeli kufikisha ujumbe wa kujirekebisha.\n\nKwa hiyo, jina la kwanza linafupisha maisha ya wanaotafuta riziki, na la pili namna ya kuonesha kasoro kupitia kicheko. Kila hoja imeunganisha jina, mfano wa shairi na maudhui; kutaja dhamira pekee hakuthibitishi usadifu.",
+      "steps": [
+        "Tafsiri swali na utaje kazi, waandishi au suala linalochambuliwa.",
+        "Kwa kila hoja, unganisha wazo, mfano mahususi na namna mfano unavyothibitisha swali.",
+        "Tumia aya zinazofuatana na hitimisho. Hili ni jibu la mfano; hoja nyingine zenye ushahidi sahihi zinakubalika."
+      ],
+      "tip": "Usibuni nukuu. Mifano hapa imeelezwa kwa maneno ya mwandishi wa ufunguo."
+    },
+    {
+      "id": "10",
+      "section": "Sehemu C — Majibu ya mfano ya insha",
+      "prompt": "Thibitisha mapenzi ya dhati kuleta faraja kwa hoja tatu kwa kila riwaya mbili.",
+      "answer": "Upendo wa dhati huonekana katika matendo ya kumlinda na kumsaidia mwingine. Takadini na Watoto wa Mama N’tilie zinaonesha faraja hiyo kwa wahusika wanaokabili kutengwa na shida za maisha.\n\nTakadini: Sekai na mwanae\nSekai hamkatai mwanae Takadini kwa sababu ya ualbino. Anamlinda dhidi ya desturi zinazohatarisha maisha yake. Upendo wake unampa mtoto nafasi ya kuishi na kujenga utu badala ya kuachwa kwa hukumu ya jamii.\n\nTakadini: Shingai na Takadini\nShingai anampenda Takadini licha ya mtazamo wa ubaguzi wa wengine. Kuchagua kumwona kama mtu anayestahili mahusiano kunapinga kutengwa kwake. Faraja ni kutambuliwa na kukubalika, badala ya kuendelea kuchukuliwa kama kasoro.\n\nTakadini: huruma kwa Sekai\nSekai na mwanae wanapohitaji mahali pa kuishi baada ya kukimbia hatari, msaada na ukarimu wa Mzee Chivero huwapa nafasi ya kuanza maisha mapya. Upendo wa kijamii hapa ni kupokea wanaohitaji ulinzi. Faraja inaonekana katika kupunguza hofu na upweke.\n\nWatoto wa Mama N’tilie: mama na Peter na Zita\nMama N’tilie anajitahidi kufanya biashara na kutafuta mahitaji ya watoto wake. Ingawa umaskini unaendelea kuweka vikwazo, jitihada hizo zinaonesha kuwa hawajaachwa. Faraja yao hutokana na mzazi anayepambana kuwapatia chakula na msaada.\n\nWatoto wa Mama N’tilie: Mama N’tilie na Kurwa\nMama N’tilie humwonesha Kurwa huruma na msaada katika maisha yenye shida. Upendo huo unavuka mipaka ya kuwajali watoto wake tu. Mtu mwenye dhiki hupata faraja anapokutana na anayemwona kama mwenye thamani.\n\nWatoto wa Mama N’tilie: Jane na Kurwa na Doto\nJane huwajali Kurwa na Doto baada ya kifo cha mama yao. Watoto waliopoteza msaada wa karibu wanahitaji mtu wa kuwasikiliza na kuwalinda. Upendo wa Jane unakuwa faraja ya kijamii wakati ambapo upweke ungeongeza shida zao.\n\nMapenzi ya dhati katika mifano hii ni hatua za kupunguza mateso, si maneno ya kupenda pekee. Huwezesha kuishi, kukubalika na kupata msaada. Hivyo waandishi wanahimiza watu kuonesha upendo kupitia uwajibikaji kwa wengine.",
+      "steps": [
+        "Tafsiri swali na utaje kazi, waandishi au suala linalochambuliwa.",
+        "Kwa kila hoja, unganisha wazo, mfano mahususi na namna mfano unavyothibitisha swali.",
+        "Tumia aya zinazofuatana na hitimisho. Hili ni jibu la mfano; hoja nyingine zenye ushahidi sahihi zinakubalika."
+      ],
+      "tip": "Usibuni nukuu. Mifano hapa imeelezwa kwa maneno ya mwandishi wa ufunguo."
+    },
+    {
+      "id": "11",
+      "section": "Sehemu C — Majibu ya mfano ya insha",
+      "prompt": "Kwa dhamira tatu kila tamthiliya mbili, onesha kuakisi jamii ya leo.",
+      "answer": "Tamthiliya huweza kutumia visa vya wahusika kuonesha changamoto zinazojitokeza katika jamii. Ngoswe Penzi Kitovu cha Uzembe na Kilio Chetu zinatoa nafasi ya kutafakari kazi, malezi na usalama wa vijana.\n\nNgoswe: uzembe kazini\nNgoswe anachanganya kazi ya sensa na mapenzi, na hatimaye taarifa zinaharibiwa. Dhamira inaakisi tatizo la mfanyakazi kuweka maslahi binafsi juu ya huduma. Jamii ya leo nayo huhitaji watumishi wanaolinda muda na taarifa za umma.\n\nNgoswe: ulevi\nStarehe na ulevi zinapounganishwa na kazi, maamuzi hupoteza umakini. Dhamira inaonya kwamba kupuuza mipaka ya kazi kunaweza kuleta hasara inayowafikia wengine. Onyo hili linafaa katika familia na taasisi zinazohitaji uwajibikaji.\n\nNgoswe: kutotambua thamani ya taarifa\nMitomingi kuchoma karatasi na kutokujua umuhimu wa sensa huonesha haja ya elimu ya jamii. Leo pia mipango ya huduma huhitaji taarifa sahihi na ushiriki wa wananchi. Dhamira inaakisi tatizo la kukataa au kuharibu shughuli bila kuelewa matumizi yake.\n\nKilio Chetu: elimu ya ujana\nMama Suzi kukosa mazungumzo ya wazi na binti yake huonesha pengo la malezi. Jamii ya leo inahitaji wazazi na shule zinazowapa watoto taarifa zinazofaa umri wao. Dhamira hii inafanya elimu kuwa jukumu linaloshirikishwa.\n\nKilio Chetu: athari kwa elimu ya msichana\nMimba ya Suzi inaathiri maisha yake akiwa mwanafunzi. Visa hivyo vinaakisi vikwazo vinavyoweza kukatiza elimu ya watoto. Mwandishi anahimiza mazingira yanayolinda watoto dhidi ya shinikizo na kuwawezesha kuendelea kujifunza.\n\nKilio Chetu: shinikizo la rika na afya\nJoti anawashawishi wenzake katika mwenendo unaowaweka hatarini. Leo vijana pia hukutana na taarifa na mifano mingi isiyo salama. Dhamira inaonesha umuhimu wa uwezo wa kutathmini ushauri na kupata maarifa na huduma za afya.\n\nDhamira hizi zinaakisi masuala halisi kwa kuonesha mtu, tendo na madhara yake. Msomaji anapaswa kujifunza uwajibikaji na ulinzi wa vijana; hatakiwi kudhani kuwa kila tukio la kifasihi ni maelezo ya kila familia ya leo.",
+      "steps": [
+        "Tafsiri swali na utaje kazi, waandishi au suala linalochambuliwa.",
+        "Kwa kila hoja, unganisha wazo, mfano mahususi na namna mfano unavyothibitisha swali.",
+        "Tumia aya zinazofuatana na hitimisho. Hili ni jibu la mfano; hoja nyingine zenye ushahidi sahihi zinakubalika."
+      ],
+      "tip": "Usibuni nukuu. Mifano hapa imeelezwa kwa maneno ya mwandishi wa ufunguo."
+    }
+  ],
+  "summaries": {
+    "Sehemu A — Uchaguzi na uoanishaji": "Soma fasili na chaguo kwa makini. Tofautisha mzizi, kiambishi, kauli na njeo. Maelezo yanabainisha makosa ya uchapaji yanapoathiri jibu.",
+    "Sehemu B — Sarufi, ufahamu na utungaji": "Tumia mifano sahihi. Katika ufupisho, hifadhi mawazo makuu, usiongeze habari mpya na uhakiki idadi ya maneno.",
+    "Sehemu C — Majibu ya mfano ya insha": "Majibu yote ya kuchagua yametolewa kwa mazoezi. Katika mtihani fuata idadi ya maswali inayoagizwa. Insha ihusishe hoja, tukio, mhusika na uhusiano na swali."
+  },
+  "references": [
+    {
+      "title": "NECTA: Uchambuzi wa majibu ya Kiswahili CSEE 2024",
+      "url": "https://necta.go.tz/publications/Performance%20Analysis%20Books/Candidates%27%20Item%20Response%20Analysis%20%28CIRA%29%20Reports%20/CSEE/2024/021%20KISWAHILI.pdf"
+    }
+  ]
+}

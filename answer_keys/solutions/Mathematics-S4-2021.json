@@ -1,0 +1,305 @@
+{
+  "exam": "Mathematics-S4-2021.pdf",
+  "output": "Mathematics-S4-2021-AnswerKey.pdf",
+  "subject": "Mathematics",
+  "level": "Standard Four",
+  "year": "2021",
+  "code": "04E",
+  "exam_type": "National Assessment",
+  "question_count": "5 questions, each with 5 parts",
+  "language": "en",
+  "reviewed": true,
+  "expected_parts": [
+    "1(a)",
+    "1(b)",
+    "1(c)",
+    "1(d)",
+    "1(e)",
+    "2(a)",
+    "2(b)",
+    "2(c)",
+    "2(d)",
+    "2(e)",
+    "3(a)",
+    "3(b)",
+    "3(c)",
+    "3(d)",
+    "3(e)",
+    "4(a)",
+    "4(b)",
+    "4(c)",
+    "4(d)",
+    "4(e)",
+    "5(a)",
+    "5(b)",
+    "5(c)",
+    "5(d)",
+    "5(e)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Find the place value of the fourth digit from the right in 49,051.",
+      "steps": [
+        "From the right: 1 is ones, 5 is tens, 0 is hundreds, 9 is thousands.",
+        "The digit 9 is in the thousands place and represents 9 x 1,000."
+      ],
+      "answer": "Thousands place; its value is 9,000."
+    },
+    {
+      "id": "1(b)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Write 32 in Roman numerals.",
+      "steps": [
+        "30 = XXX and 2 = II.",
+        "Combine the symbols."
+      ],
+      "answer": "XXXII."
+    },
+    {
+      "id": "1(c)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Write 76,502 in expanded form.",
+      "steps": [
+        "7 is ten-thousands, 6 is thousands, 5 is hundreds, 0 is tens, 2 is ones.",
+        "Add the non-zero place values."
+      ],
+      "answer": "70,000 + 6,000 + 500 + 2."
+    },
+    {
+      "id": "1(d)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Write 2,000 + 900 + 70 + 5 in short form.",
+      "steps": [
+        "2,000 + 900 = 2,900.",
+        "2,900 + 70 + 5 = 2,975."
+      ],
+      "answer": "2,975."
+    },
+    {
+      "id": "1(e)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Write 435 in words.",
+      "steps": [
+        "400 = four hundred.",
+        "35 = thirty-five."
+      ],
+      "answer": "Four hundred and thirty-five."
+    },
+    {
+      "id": "2(a)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Find the missing number: 50, 40, 30, __, 10.",
+      "steps": [
+        "The sequence decreases by 10.",
+        "30 - 10 = 20."
+      ],
+      "answer": "20."
+    },
+    {
+      "id": "2(b)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Arrange 23, 64, 32, 46, 29, 38, 54 from largest to smallest.",
+      "steps": [
+        "Compare the tens digits first.",
+        "Within the same tens group, compare the ones digits."
+      ],
+      "answer": "64, 54, 46, 38, 32, 29, 23."
+    },
+    {
+      "id": "2(c)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Find the next Roman numeral: V, XVI, XXVII, XXXVIII, __.",
+      "steps": [
+        "Convert to 5, 16, 27, 38.",
+        "Each term increases by 11, so 38 + 11 = 49.",
+        "49 = 40 + 9 = XL + IX."
+      ],
+      "answer": "XLIX."
+    },
+    {
+      "id": "2(d)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "The English paper lists heights 112 cm, 124 cm and 136 cm for Mrisho, Samwel and Rose respectively. Find Rose's height.",
+      "steps": [
+        "The word 'respectively' matches the heights to the names in order.",
+        "Rose is third, so her given height is 136 cm."
+      ],
+      "answer": "136 cm.",
+      "tip": "This English version differs from the Kiswahili paper, which names Zalia and asks for Rose's next height."
+    },
+    {
+      "id": "2(e)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Starting at 20, add 5 each time. Find the fifth number.",
+      "steps": [
+        "Four increases are needed after the first term.",
+        "20 + 4 x 5 = 40."
+      ],
+      "answer": "40."
+    },
+    {
+      "id": "3(a)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Add 14 hours 30 minutes and 8 hours 40 minutes.",
+      "steps": [
+        "30 + 40 = 70 minutes = 1 hour 10 minutes.",
+        "14 + 8 + 1 = 23 hours."
+      ],
+      "answer": "23 hours 10 minutes."
+    },
+    {
+      "id": "3(b)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Add 340 boys and 318 girls.",
+      "steps": [
+        "340 + 300 = 640.",
+        "640 + 18 = 658."
+      ],
+      "answer": "658 pupils."
+    },
+    {
+      "id": "3(c)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Subtract 4 hours 50 minutes from 6 hours 45 minutes.",
+      "steps": [
+        "Borrow 1 hour: 6 h 45 min = 5 h 105 min.",
+        "105 - 50 = 55 minutes; 5 - 4 = 1 hour."
+      ],
+      "answer": "1 hour 55 minutes."
+    },
+    {
+      "id": "3(d)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Convert two hours into minutes.",
+      "steps": [
+        "1 hour = 60 minutes.",
+        "2 x 60 = 120."
+      ],
+      "answer": "120 minutes."
+    },
+    {
+      "id": "3(e)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Ronaldo played 40 minutes of a 90-minute match. How long did he not play?",
+      "steps": [
+        "Subtract the time played from the full match time.",
+        "90 - 40 = 50."
+      ],
+      "answer": "50 minutes."
+    },
+    {
+      "id": "4(a)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "Draw an equilateral triangle.",
+      "steps": [
+        "Choose a side length, for example 3 cm, and draw a 3 cm base.",
+        "Using a compass set to 3 cm, draw arcs from both endpoints and mark their intersection.",
+        "Join the intersection to the endpoints; all three sides are 3 cm."
+      ],
+      "answer": "An equilateral triangle, with all three sides equal.",
+      "drawing": "equilateral"
+    },
+    {
+      "id": "4(b)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "Find the perimeter of the rectangle with sides 8 cm and 5 cm.",
+      "steps": [
+        "Opposite sides of a rectangle are equal.",
+        "Add all four sides: 8 + 5 + 8 + 5."
+      ],
+      "answer": "26 cm."
+    },
+    {
+      "id": "4(c)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "An equilateral triangle has perimeter 57 cm. Find one side.",
+      "steps": [
+        "There are three equal sides.",
+        "Divide the perimeter by 3: 57 / 3 = 19."
+      ],
+      "answer": "19 cm."
+    },
+    {
+      "id": "4(d)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "Find the perimeter of a square with side 6 cm.",
+      "steps": [
+        "A square has four equal sides.",
+        "4 x 6 = 24."
+      ],
+      "answer": "24 cm."
+    },
+    {
+      "id": "4(e)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "A triangle has perimeter 45 cm and two sides 12 cm and 15 cm. Find the third side.",
+      "steps": [
+        "Known sides: 12 + 15 = 27 cm.",
+        "Third side = 45 - 27."
+      ],
+      "answer": "18 cm."
+    },
+    {
+      "id": "5(a)",
+      "section": "Question 5: Reading Data",
+      "prompt": "Find the total pupils in the pictograph: Dodoma has 3 symbols, Tanga 1.5, Iringa 2; one full symbol = 50,000 pupils.",
+      "steps": [
+        "Dodoma: 150,000; Tanga: 75,000; Iringa: 100,000.",
+        "Add 150,000 + 75,000 + 100,000."
+      ],
+      "answer": "325,000 pupils."
+    },
+    {
+      "id": "5(b)",
+      "section": "Question 5: Reading Data",
+      "prompt": "Find the pupils in Iringa and Tanga together.",
+      "steps": [
+        "Iringa has 2 x 50,000 = 100,000 pupils.",
+        "Tanga has 1.5 x 50,000 = 75,000 pupils.",
+        "100,000 + 75,000 = 175,000."
+      ],
+      "answer": "175,000 pupils."
+    },
+    {
+      "id": "5(c)",
+      "section": "Question 5: Reading Data",
+      "prompt": "Which region has the least pupils?",
+      "steps": [
+        "Compare Dodoma 150,000, Tanga 75,000 and Iringa 100,000.",
+        "The smallest count is 75,000."
+      ],
+      "answer": "Tanga."
+    },
+    {
+      "id": "5(d)",
+      "section": "Question 5: Reading Data",
+      "prompt": "What fraction of all pupils are in Tanga and Iringa together?",
+      "steps": [
+        "Their combined count is 175,000; the total is 325,000.",
+        "175,000/325,000 = 175/325.",
+        "Divide numerator and denominator by 25."
+      ],
+      "answer": "7/13."
+    },
+    {
+      "id": "5(e)",
+      "section": "Question 5: Reading Data",
+      "prompt": "Find the difference between the greatest and least regional pupil counts.",
+      "steps": [
+        "The greatest count is Dodoma's 150,000; the least is Tanga's 75,000.",
+        "150,000 - 75,000 = 75,000."
+      ],
+      "answer": "75,000 pupils."
+    }
+  ],
+  "summaries": {
+    "Question 1: Numbers and Place Value": "Read each digit's place and distinguish ordinary numbers from Roman numerals.",
+    "Question 2: Sequences and Comparison": "Find the repeated change first; count the gaps between terms.",
+    "Question 3: Operations and Time": "Keep the units consistent. Regroup every 60 minutes as one hour.",
+    "Question 4: Shapes and Measurement": "Use the shape's sides, perimeter formula and metric units carefully.",
+    "Question 5: Reading Data": "Read the key, count every symbol, and distinguish the year from the numerical value."
+  },
+  "sha256": "b7534cfb8adc9e5540f17624f5d498579c008ca9c86a7b2f74e211e28de47de6"
+}

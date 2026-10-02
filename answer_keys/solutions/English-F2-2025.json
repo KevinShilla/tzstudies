@@ -1,0 +1,783 @@
+{
+  "exam": "English-F2-2025.pdf",
+  "output": "English-F2-2025-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Form Two",
+  "year": "2025",
+  "code": "022",
+  "exam_type": "Form Two National Assessment (FTNA)",
+  "question_count": "10 compulsory questions; 66 answered parts",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "a956fd65662a1f92247699036d31329c7080546e25dbe6c0988fbc97bf8d39cb",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(ix)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "3(vi)",
+    "3(vii)",
+    "3(viii)",
+    "3(ix)",
+    "3(x)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)",
+    "6(vi)",
+    "6(vii)",
+    "6(viii)",
+    "6(ix)",
+    "6(x)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)",
+    "7(v)",
+    "8(i)",
+    "8(ii)",
+    "8(iii)",
+    "8(iv)",
+    "8(v)",
+    "8(vi)",
+    "8(vii)",
+    "8(viii)",
+    "8(ix)",
+    "8(x)",
+    "9(i)",
+    "9(ii)",
+    "9(iii)",
+    "9(iv)",
+    "9(v)",
+    "10"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Section A — Objective questions",
+      "prompt": "Add a tag to “Samson married Rukia last year.”",
+      "answer": "C — Didn’t he?",
+      "steps": [
+        "Identify the tense, purpose or implication being tested.",
+        "The statement is positive past simple; use negative did and pronoun he."
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Section A — Objective questions",
+      "prompt": "A Mathematics test will occur every Friday from today. What activity is this?",
+      "answer": "B — Habitual activity.",
+      "steps": [
+        "Identify the tense, purpose or implication being tested.",
+        "Every Friday specifies repetition, even though the routine begins in the future."
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Section A — Objective questions",
+      "prompt": "“By this time tomorrow I will have finished my homework” means what?",
+      "answer": "B — By that time I will finish the homework, is the closest option: it will already be completed by the stated time.",
+      "steps": [
+        "Identify the tense, purpose or implication being tested.",
+        "Future perfect will have finished expresses completion no later than the reference time, rather than starting or still working."
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Section A — Objective questions",
+      "prompt": "“The guests are staying with us for two months” expresses what?",
+      "answer": "D — Their stay will last temporarily, is the best answer for the limited duration. A also correctly recognises a current stay.",
+      "steps": [
+        "Identify the tense, purpose or implication being tested.",
+        "For two months limits the stay, so B, permanent, is false and C, already completed, is false. Present continuous can describe the current temporary situation."
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Section A — Objective questions",
+      "prompt": "How should you politely oppose a claim that girls’ education is unimportant?",
+      "answer": "B — I can see your point. But …",
+      "steps": [
+        "Identify the tense, purpose or implication being tested.",
+        "This acknowledges the speaker before presenting disagreement; the alternatives insult the speaker or agree with the claim."
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Section A — Objective questions",
+      "prompt": "Which opening fits a formal telephone conversation?",
+      "answer": "A — Hello, am I speaking to Jimmy?",
+      "steps": [
+        "Identify the tense, purpose or implication being tested.",
+        "It greets politely and checks the recipient’s identity; the others are abrupt or assume the conversation has already begun."
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Why use straightforward language in a telephone message?",
+      "answer": "D — To ensure the message is understood.",
+      "steps": [
+        "Identify the tense, purpose or implication being tested.",
+        "Clarity allows the intended recipient to understand and act on it."
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Express Sangatiti’s gift-giving habit.",
+      "answer": "C — Sangatiti buys a present for his wife.",
+      "steps": [
+        "Identify the tense, purpose or implication being tested.",
+        "Present simple buys describes a habit; the other forms express completion or a current action."
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Section A — Objective questions",
+      "prompt": "“Had Yusuph paid the dowry, he would have married Sikitu” implies what?",
+      "answer": "C is the intended choice: he did not pay the dowry and therefore did not marry her in that past situation.",
+      "steps": [
+        "Identify the tense, purpose or implication being tested.",
+        "Had Yusuph paid is an inverted third conditional, equivalent to if he had paid. It describes an unreal past condition."
+      ],
+      "tip": "The printed option says “cannot marry”, but the conditional concerns an unreal past event. It does not prove that a future marriage is impossible."
+    },
+    {
+      "id": "1(x)",
+      "section": "Section A — Objective questions",
+      "prompt": "Which technique helps you capture a lecture efficiently?",
+      "answer": "A — Use symbols, short forms and main ideas.",
+      "steps": [
+        "Identify the tense, purpose or implication being tested.",
+        "Concise notes allow attention to meaning without trying to transcribe every sentence."
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the travel term: A seat beside the passage in a bus, train or aircraft.",
+      "answer": "D — Aisle seat.",
+      "steps": [
+        "Compare the description with the listed term’s meaning.",
+        "The aisle is the passage between seats."
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the travel term: Showing your ticket when arriving at the airport.",
+      "answer": "A — Check in.",
+      "steps": [
+        "Compare the description with the listed term’s meaning.",
+        "Check-in registers a passenger for the journey."
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the travel term: Leaving a hotel at the end of a stay.",
+      "answer": "F — Check out.",
+      "steps": [
+        "Compare the description with the listed term’s meaning.",
+        "Check-out completes the departure arrangements."
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the travel term: An advance arrangement for a seat or hotel room.",
+      "answer": "B — Reservation.",
+      "steps": [
+        "Compare the description with the listed term’s meaning.",
+        "A reservation books the place before arrival."
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the travel term: A holiday involving travel away from home for pleasure.",
+      "answer": "C — Vacation.",
+      "steps": [
+        "Compare the description with the listed term’s meaning.",
+        "Vacation is a holiday or break from regular work."
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Section B — Language use",
+      "prompt": "Anita ___ (want) to go outside.",
+      "answer": "wanted",
+      "steps": [
+        "Place the verb in the completed yesterday narrative and check auxiliaries.",
+        "Use regular past simple wanted."
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Section B — Language use",
+      "prompt": "She read until the electricity ___ (go) off.",
+      "answer": "went",
+      "steps": [
+        "Place the verb in the completed yesterday narrative and check auxiliaries.",
+        "The past form of go is went."
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Section B — Language use",
+      "prompt": "After lunch she ___ (sit) by the window.",
+      "answer": "sat",
+      "steps": [
+        "Place the verb in the completed yesterday narrative and check auxiliaries.",
+        "The past form of sit is sat."
+      ]
+    },
+    {
+      "id": "3(iv)",
+      "section": "Section B — Language use",
+      "prompt": "While she watched the rain, the phone ___ (ring).",
+      "answer": "rang",
+      "steps": [
+        "Place the verb in the completed yesterday narrative and check auxiliaries.",
+        "The event interrupting the background action takes past simple rang."
+      ]
+    },
+    {
+      "id": "3(v)",
+      "section": "Section B — Language use",
+      "prompt": "When her mother ___ (arrive) …",
+      "answer": "arrived",
+      "steps": [
+        "Place the verb in the completed yesterday narrative and check auxiliaries.",
+        "The finished arrival uses past simple."
+      ]
+    },
+    {
+      "id": "3(vi)",
+      "section": "Section B — Language use",
+      "prompt": "… they ___ (eat) ice cream.",
+      "answer": "ate",
+      "steps": [
+        "Place the verb in the completed yesterday narrative and check auxiliaries.",
+        "The past form of eat is ate."
+      ]
+    },
+    {
+      "id": "3(vii)",
+      "section": "Section B — Language use",
+      "prompt": "… which her mother ___ (bring).",
+      "answer": "had brought; brought is also grammatical in a straightforward past narrative.",
+      "steps": [
+        "Place the verb in the completed yesterday narrative and check auxiliaries.",
+        "Had brought makes the earlier bringing explicit: it happened before they ate the ice cream."
+      ]
+    },
+    {
+      "id": "3(viii)",
+      "section": "Section B — Language use",
+      "prompt": "Then the rain ___ (stop).",
+      "answer": "stopped",
+      "steps": [
+        "Place the verb in the completed yesterday narrative and check auxiliaries.",
+        "Double final p before -ed: stopped."
+      ]
+    },
+    {
+      "id": "3(ix)",
+      "section": "Section B — Language use",
+      "prompt": "Anita did not ___ (notice).",
+      "answer": "notice",
+      "steps": [
+        "Place the verb in the completed yesterday narrative and check auxiliaries.",
+        "After did not, use the base form rather than noticed."
+      ]
+    },
+    {
+      "id": "3(x)",
+      "section": "Section B — Language use",
+      "prompt": "She ___ (be) having a good time.",
+      "answer": "was",
+      "steps": [
+        "Place the verb in the completed yesterday narrative and check auxiliaries.",
+        "Singular she takes was in the past continuous."
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Section B — Language use",
+      "prompt": "Give a category name for Car, lorry, tractor, motorcycle.",
+      "answer": "vehicles",
+      "steps": [
+        "Find the class shared by the items, rather than a number of them.",
+        "These are means of transport."
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Give a category name for Pen, pencil, ruler, exercise book.",
+      "answer": "stationery",
+      "steps": [
+        "Find the class shared by the items, rather than a number of them.",
+        "Stationery names writing and related office or school materials; stationary means not moving."
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Give a category name for Table, chair, cupboard, door.",
+      "answer": "Furniture is the intended category for table, chair and cupboard; a door is normally a building fixture.",
+      "steps": [
+        "Find the class shared by the items, rather than a number of them.",
+        "The first three are furniture. The inclusion of door makes the set imprecise in ordinary classification."
+      ]
+    },
+    {
+      "id": "4(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Give a category name for Dog, cow, cat, goat.",
+      "answer": "domestic animals",
+      "steps": [
+        "Find the class shared by the items, rather than a number of them.",
+        "These animals are commonly kept by people."
+      ]
+    },
+    {
+      "id": "4(v)",
+      "section": "Section B — Language use",
+      "prompt": "Give a category name for Housefly, bee, cockroach, ant.",
+      "answer": "insects",
+      "steps": [
+        "Find the class shared by the items, rather than a number of them.",
+        "All four belong to the insect group."
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Section B — Language use",
+      "prompt": "What is the role of 23 October 2024 in the letter?",
+      "answer": "It is the date the letter was written.",
+      "steps": [
+        "Read the relevant letter component and distinguish sender, recipient and event.",
+        "The date appears beneath the sender’s address."
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Who wrote the letter?",
+      "answer": "Makombo.",
+      "steps": [
+        "Read the relevant letter component and distinguish sender, recipient and event.",
+        "The writer signs this name at the end."
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Section B — Language use",
+      "prompt": "What does “Dear Sunguti” refer to?",
+      "answer": "The salutation addressing the recipient, Sunguti.",
+      "steps": [
+        "Read the relevant letter component and distinguish sender, recipient and event.",
+        "Dear introduces the opening greeting; Sunguti is the person addressed."
+      ]
+    },
+    {
+      "id": "5(iv)",
+      "section": "Section B — Language use",
+      "prompt": "What is the letter about?",
+      "answer": "Accepting an invitation to Omolo’s graduation ceremony.",
+      "steps": [
+        "Read the relevant letter component and distinguish sender, recipient and event.",
+        "The opening body sentence states that the invitation has been accepted."
+      ]
+    },
+    {
+      "id": "5(v)",
+      "section": "Section B — Language use",
+      "prompt": "Why state the event’s day and date?",
+      "answer": "To confirm when the ceremony will occur and help the guest plan to attend.",
+      "steps": [
+        "Read the relevant letter component and distinguish sender, recipient and event.",
+        "A specific date reduces uncertainty about the event."
+      ],
+      "tip": "The example letter pairs Thursday with 12 November 2024, which was a Tuesday. This is an internal calendar error in the supplied letter."
+    },
+    {
+      "id": "6(i)",
+      "section": "Section B — Language use",
+      "prompt": "Classify the supplied sentence: COVID-19 is caused by SARS-CoV-2.",
+      "answer": "FACT.",
+      "steps": [
+        "Look for a verifiable description or wording signalling belief, uncertainty or recommendation.",
+        "This is an objectively verifiable description of the disease’s cause."
+      ],
+      "tip": "This question tests the language of fact and opinion. A factual-sounding sentence still needs evidence; a cautious phrase can describe a scientifically supported idea."
+    },
+    {
+      "id": "6(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Classify the supplied sentence: The disease affects people in different ways.",
+      "answer": "FACT.",
+      "steps": [
+        "Look for a verifiable description or wording signalling belief, uncertainty or recommendation.",
+        "Variation in symptoms and severity is observable."
+      ],
+      "tip": "This question tests the language of fact and opinion. A factual-sounding sentence still needs evidence; a cautious phrase can describe a scientifically supported idea."
+    },
+    {
+      "id": "6(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Classify the supplied sentence: Some doctors believe the disease is man-made.",
+      "answer": "OPINION, for the expressed belief in this exercise.",
+      "steps": [
+        "Look for a verifiable description or wording signalling belief, uncertainty or recommendation.",
+        "Believe identifies the claim as a belief rather than evidence establishing its content."
+      ],
+      "tip": "This question tests the language of fact and opinion. A factual-sounding sentence still needs evidence; a cautious phrase can describe a scientifically supported idea."
+    },
+    {
+      "id": "6(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Classify the supplied sentence: Most infected people develop mild to moderate illness.",
+      "answer": "FACT, in the examination’s general description.",
+      "steps": [
+        "Look for a verifiable description or wording signalling belief, uncertainty or recommendation.",
+        "This is a testable population-level statement, also reflected in WHO’s general overview."
+      ],
+      "tip": "This question tests the language of fact and opinion. A factual-sounding sentence still needs evidence; a cautious phrase can describe a scientifically supported idea."
+    },
+    {
+      "id": "6(v)",
+      "section": "Section B — Language use",
+      "prompt": "Classify the supplied sentence: It seems that many recover without hospitalisation.",
+      "answer": "OPINION, under the exercise’s wording-based distinction.",
+      "steps": [
+        "Look for a verifiable description or wording signalling belief, uncertainty or recommendation.",
+        "It seems frames the statement as the speaker’s impression, even though recovery without hospitalisation can also be measured."
+      ],
+      "tip": "This question tests the language of fact and opinion. A factual-sounding sentence still needs evidence; a cautious phrase can describe a scientifically supported idea."
+    },
+    {
+      "id": "6(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Classify the supplied sentence: People should keep a safe distance, including from people without visible illness.",
+      "answer": "FACT is the likely intended classification as evidence-based preventive guidance; the word should also makes this a recommendation rather than a purely descriptive fact.",
+      "steps": [
+        "Look for a verifiable description or wording signalling belief, uncertainty or recommendation.",
+        "Distinguish support for a preventive measure from the grammatical form of advice. A strict fact-versus-value classification could call the recommendation an opinion."
+      ],
+      "tip": "This question tests the language of fact and opinion. A factual-sounding sentence still needs evidence; a cautious phrase can describe a scientifically supported idea."
+    },
+    {
+      "id": "6(vii)",
+      "section": "Section B — Language use",
+      "prompt": "Classify the supplied sentence: Dar es Salaam might be the most affected region.",
+      "answer": "OPINION.",
+      "steps": [
+        "Look for a verifiable description or wording signalling belief, uncertainty or recommendation.",
+        "Might expresses an unverified possibility; no regional data is supplied."
+      ],
+      "tip": "This question tests the language of fact and opinion. A factual-sounding sentence still needs evidence; a cautious phrase can describe a scientifically supported idea."
+    },
+    {
+      "id": "6(viii)",
+      "section": "Section B — Language use",
+      "prompt": "Classify the supplied sentence: There is a great possibility it is a respiratory disease.",
+      "answer": "OPINION, because of the speculative framing.",
+      "steps": [
+        "Look for a verifiable description or wording signalling belief, uncertainty or recommendation.",
+        "Possibility marks uncertainty in the sentence; this classification concerns the wording, not whether COVID-19 actually causes respiratory illness."
+      ],
+      "tip": "This question tests the language of fact and opinion. A factual-sounding sentence still needs evidence; a cautious phrase can describe a scientifically supported idea."
+    },
+    {
+      "id": "6(ix)",
+      "section": "Section B — Language use",
+      "prompt": "Classify the supplied sentence: Symptoms include fever, tiredness, cough and loss of taste or smell.",
+      "answer": "FACT, as a description of recognised symptoms.",
+      "steps": [
+        "Look for a verifiable description or wording signalling belief, uncertainty or recommendation.",
+        "These symptoms can be clinically observed. Their relative frequency varies, so the supplied wording should not be treated as a current ranking."
+      ],
+      "tip": "This question tests the language of fact and opinion. A factual-sounding sentence still needs evidence; a cautious phrase can describe a scientifically supported idea."
+    },
+    {
+      "id": "6(x)",
+      "section": "Section B — Language use",
+      "prompt": "Classify the supplied sentence: My view is that lockdown cannot help much.",
+      "answer": "OPINION.",
+      "steps": [
+        "Look for a verifiable description or wording signalling belief, uncertainty or recommendation.",
+        "My view explicitly marks a personal judgement."
+      ],
+      "tip": "This question tests the language of fact and opinion. A factual-sounding sentence still needs evidence; a cautious phrase can describe a scientifically supported idea."
+    },
+    {
+      "id": "7(i)",
+      "section": "Section B — Language use",
+      "prompt": "What do / / indicate in the extract?",
+      "answer": "The pronunciation in phonetic transcription.",
+      "steps": [
+        "Locate the requested notation or sense in the provided entry.",
+        "Slash marks enclose the sounds of the word."
+      ]
+    },
+    {
+      "id": "7(ii)",
+      "section": "Section B — Language use",
+      "prompt": "What is the headword?",
+      "answer": "material",
+      "steps": [
+        "Locate the requested notation or sense in the provided entry.",
+        "The headword appears at the start of the dictionary entry."
+      ]
+    },
+    {
+      "id": "7(iii)",
+      "section": "Section B — Language use",
+      "prompt": "What does SYN stand for?",
+      "answer": "synonym",
+      "steps": [
+        "Locate the requested notation or sense in the provided entry.",
+        "It labels another word with the same or a closely related meaning."
+      ]
+    },
+    {
+      "id": "7(iv)",
+      "section": "Section B — Language use",
+      "prompt": "What synonym is given for material?",
+      "answer": "fabric",
+      "steps": [
+        "Locate the requested notation or sense in the provided entry.",
+        "Fabric appears beside the cloth sense of material."
+      ]
+    },
+    {
+      "id": "7(v)",
+      "section": "Section B — Language use",
+      "prompt": "What does “good university material” mean?",
+      "answer": "A person with the ability or qualities to succeed at university.",
+      "steps": [
+        "Locate the requested notation or sense in the provided entry.",
+        "This is a figurative use of material, not a reference to cloth or building supplies."
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Section B — Language use",
+      "prompt": "We love ___ (go) to the park.",
+      "answer": "going",
+      "steps": [
+        "Use an -ing activity after the preference verb to match the passage’s construction.",
+        "Add -ing to go."
+      ],
+      "tip": "Love, like and hate can also take to-infinitives in many of these sentences. The -ing forms give a consistent model; enjoy would require an -ing complement."
+    },
+    {
+      "id": "8(ii)",
+      "section": "Section B — Language use",
+      "prompt": "We like ___ (have) picnics.",
+      "answer": "having",
+      "steps": [
+        "Use an -ing activity after the preference verb to match the passage’s construction.",
+        "Drop the final e before adding -ing."
+      ],
+      "tip": "Love, like and hate can also take to-infinitives in many of these sentences. The -ing forms give a consistent model; enjoy would require an -ing complement."
+    },
+    {
+      "id": "8(iii)",
+      "section": "Section B — Language use",
+      "prompt": "We love ___ (be) near animals.",
+      "answer": "being",
+      "steps": [
+        "Use an -ing activity after the preference verb to match the passage’s construction.",
+        "The -ing form of be is being."
+      ],
+      "tip": "Love, like and hate can also take to-infinitives in many of these sentences. The -ing forms give a consistent model; enjoy would require an -ing complement."
+    },
+    {
+      "id": "8(iv)",
+      "section": "Section B — Language use",
+      "prompt": "My father hates ___ (cook).",
+      "answer": "cooking",
+      "steps": [
+        "Use an -ing activity after the preference verb to match the passage’s construction.",
+        "The activity after hates is expressed by cooking."
+      ],
+      "tip": "Love, like and hate can also take to-infinitives in many of these sentences. The -ing forms give a consistent model; enjoy would require an -ing complement."
+    },
+    {
+      "id": "8(v)",
+      "section": "Section B — Language use",
+      "prompt": "My mother likes ___ (make) sandwiches.",
+      "answer": "making",
+      "steps": [
+        "Use an -ing activity after the preference verb to match the passage’s construction.",
+        "Drop final e in make before -ing."
+      ],
+      "tip": "Love, like and hate can also take to-infinitives in many of these sentences. The -ing forms give a consistent model; enjoy would require an -ing complement."
+    },
+    {
+      "id": "8(vi)",
+      "section": "Section B — Language use",
+      "prompt": "My sister and I love ___ (play) in the park.",
+      "answer": "playing",
+      "steps": [
+        "Use an -ing activity after the preference verb to match the passage’s construction.",
+        "Add -ing without changing final y."
+      ],
+      "tip": "Love, like and hate can also take to-infinitives in many of these sentences. The -ing forms give a consistent model; enjoy would require an -ing complement."
+    },
+    {
+      "id": "8(vii)",
+      "section": "Section B — Language use",
+      "prompt": "… and ___ (feed) the animals.",
+      "answer": "feeding",
+      "steps": [
+        "Use an -ing activity after the preference verb to match the passage’s construction.",
+        "Use a parallel -ing complement coordinated with playing."
+      ],
+      "tip": "Love, like and hate can also take to-infinitives in many of these sentences. The -ing forms give a consistent model; enjoy would require an -ing complement."
+    },
+    {
+      "id": "8(viii)",
+      "section": "Section B — Language use",
+      "prompt": "My mother does not like ___ (lay) on a blanket.",
+      "answer": "lying is correct natural English. Laying is the mechanical -ing form of printed lay, but it needs an object and does not fit the intended resting meaning.",
+      "steps": [
+        "Use an -ing activity after the preference verb to match the passage’s construction.",
+        "The correct base verb for resting on a blanket is lie, whose -ing form is lying. Lay means put something down: laying a blanket, for example."
+      ],
+      "tip": "Love, like and hate can also take to-infinitives in many of these sentences. The -ing forms give a consistent model; enjoy would require an -ing complement."
+    },
+    {
+      "id": "8(ix)",
+      "section": "Section B — Language use",
+      "prompt": "She loves ___ (watch) us.",
+      "answer": "watching",
+      "steps": [
+        "Use an -ing activity after the preference verb to match the passage’s construction.",
+        "Add -ing to watch."
+      ],
+      "tip": "Love, like and hate can also take to-infinitives in many of these sentences. The -ing forms give a consistent model; enjoy would require an -ing complement."
+    },
+    {
+      "id": "8(x)",
+      "section": "Section B — Language use",
+      "prompt": "We love ___ (listen) to birds.",
+      "answer": "listening",
+      "steps": [
+        "Use an -ing activity after the preference verb to match the passage’s construction.",
+        "Add -ing to listen."
+      ],
+      "tip": "Love, like and hate can also take to-infinitives in many of these sentences. The -ing forms give a consistent model; enjoy would require an -ing complement."
+    },
+    {
+      "id": "9(i)",
+      "section": "Section B — Language use",
+      "prompt": "Join the woman and her daughter’s examination success using whose.",
+      "answer": "That woman, whose daughter passed her final examination outstandingly, is our family friend.",
+      "steps": [
+        "Preserve the original participants and meaning while applying the requested linker.",
+        "Whose links the daughter to the woman. Commas mark the added information."
+      ]
+    },
+    {
+      "id": "9(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Join the cloudy weather and absence of rain using despite.",
+      "answer": "Despite the cloudy weather, it did not rain.",
+      "steps": [
+        "Preserve the original participants and meaning while applying the requested linker.",
+        "Despite takes a noun phrase, not a bare finite clause."
+      ]
+    },
+    {
+      "id": "9(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Begin “If they had time, they would visit us” with Unless.",
+      "answer": "Unless they had time, they would not visit us.",
+      "steps": [
+        "Preserve the original participants and meaning while applying the requested linker.",
+        "Unless means if not. In the intended transformation, retain the past condition and negate the result."
+      ]
+    },
+    {
+      "id": "9(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Join the shoe-brushing and radio-listening actions using while.",
+      "answer": "He was brushing his shoes while he was listening to the radio.",
+      "steps": [
+        "Preserve the original participants and meaning while applying the requested linker.",
+        "While links two simultaneous past-continuous actions."
+      ]
+    },
+    {
+      "id": "9(v)",
+      "section": "Section B — Language use",
+      "prompt": "Join the letter being sent and failure to attend using though.",
+      "answer": "Though we sent them a letter, they did not attend the meeting.",
+      "steps": [
+        "Preserve the original participants and meaning while applying the requested linker.",
+        "Though introduces the contrast between the invitation and their absence."
+      ]
+    },
+    {
+      "id": "10",
+      "section": "Section C — Letter writing",
+      "prompt": "As Kulwa, write to your sister Milembe about Masanja’s graduation in Language Teaching at the University of Dar es Salaam next month, which all the family plans to attend.",
+      "answer": "P.O. Box 120,\nDar es Salaam.\n10 October 2025\n\nDear Milembe,\nHow are you? I hope you are well. I am writing to share the good news that our brother, Masanja, will graduate in Language Teaching at the University of Dar es Salaam next month. We are very proud of his hard work.\nAll the members of our family are planning to attend the graduation ceremony. We would be happy if you could join us to celebrate his achievement. Please let us know your travel plans so that we can make arrangements together.\nI will send you the exact date and time as soon as the university confirms the details. Give my greetings to everyone at home. I look forward to seeing you at the ceremony.\n\nYour loving brother,\nKulwa",
+      "steps": [
+        "Use a personal address and date, Dear Milembe, a friendly body and a suitable closing. The example address and writing date may be replaced.",
+        "Include the brother’s name, programme, university, next-month timing and the whole family’s intention to attend.",
+        "Sign Kulwa. Since the paper supplies no ceremony date or time, promise to share them when confirmed rather than present invented event details as facts."
+      ],
+      "tip": "The sender’s address and writing date are model details. The graduation information is retained exactly from the question."
+    }
+  ],
+  "summaries": {
+    "Section A — Objective questions": "Match question tags to tense. A third conditional describes an unreal past event; it does not determine every future possibility.",
+    "Section B — Language use": "Fact and opinion depend on both wording and evidence. Check the meaning of lie and lay, and use noun phrases after despite.",
+    "Section C — Letter writing": "An informal letter combines clear information with a personal greeting and closing. Preserve supplied event details and sign the requested name."
+  },
+  "labelling_note": "The key explains overlapping options in 1(iv), the past-time meaning of 1(ix), the calendar mismatch in 5, and the inaccurate printed verb lay in 8(viii). Fact/opinion answers distinguish the exercise’s intended classification from strict descriptive versus advisory wording.",
+  "references": [
+    {
+      "title": "WHO — general COVID-19 overview supporting the descriptive statements",
+      "url": "https://www.who.int/health-topics/coronavirus"
+    },
+    {
+      "title": "WHO — COVID-19 questions and answers, including prevention context",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-covid-19"
+    }
+  ]
+}

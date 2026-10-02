@@ -1,0 +1,421 @@
+{
+  "exam": "English-S7-2024.pdf",
+  "output": "English-S7-2024-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Seven",
+  "year": "2024",
+  "code": "02",
+  "exam_type": "NECTA PSLE Sample Examination",
+  "question_count": "7 questions, 35 answered items",
+  "language": "en",
+  "reviewed": true,
+  "labelling_note": "This library PDF is the 2024 sample paper, as stated on its cover. The listening passage is not included in the pupil’s paper; its answers were checked against the accompanying TETEA sample solutions.",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)",
+    "7(v)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Section A — Listening",
+      "prompt": "Who took Uadilifu to hospital?",
+      "steps": [
+        "Identify the person who accompanied the patient, rather than the hospital staff.",
+        "The checked listening answers identify Uadilifu’s mother."
+      ],
+      "answer": "A — His mother."
+    },
+    {
+      "id": "1(ii)",
+      "section": "Section A — Listening",
+      "prompt": "What happened to the doctor’s family after he was jailed?",
+      "steps": [
+        "Focus on the family’s circumstances after the imprisonment.",
+        "The consequence was difficulty obtaining everyday necessities, rather than the family also being imprisoned."
+      ],
+      "answer": "E — They lacked basic necessities."
+    },
+    {
+      "id": "1(iii)",
+      "section": "Section A — Listening",
+      "prompt": "What did the doctor demand before treating Uadilifu?",
+      "steps": [
+        "Distinguish a lawful salary from an unofficial payment demanded for a service.",
+        "The doctor was asking for an unlawful payment."
+      ],
+      "answer": "D — A bribe."
+    },
+    {
+      "id": "1(iv)",
+      "section": "Section A — Listening",
+      "prompt": "Why did the doctor delay attending to Uadilifu?",
+      "steps": [
+        "Connect the delay with the demand described in the preceding item.",
+        "Treatment was withheld until an unofficial payment was made."
+      ],
+      "answer": "A — He wanted a bribe."
+    },
+    {
+      "id": "1(v)",
+      "section": "Section A — Listening",
+      "prompt": "Why is corruption harmful?",
+      "steps": [
+        "Consider how demanding money affects access to essential public services.",
+        "A person who cannot make the unofficial payment may be refused a service they are entitled to receive."
+      ],
+      "answer": "B — It denies people their basic rights."
+    },
+    {
+      "id": "2(i)",
+      "section": "Section A — Grammar",
+      "prompt": "The boys saw a snake and ran ___ a nearby room.",
+      "steps": [
+        "The sentence describes movement from outside to inside.",
+        "Use the preposition into for entry into an enclosed place."
+      ],
+      "answer": "E — into."
+    },
+    {
+      "id": "2(ii)",
+      "section": "Section A — Grammar",
+      "prompt": "Here is the book ___ was written by Mwalimu J. K. Nyerere.",
+      "steps": [
+        "The relative pronoun refers to the thing book.",
+        "Which can introduce a clause describing a thing."
+      ],
+      "answer": "A — which."
+    },
+    {
+      "id": "2(iii)",
+      "section": "Section A — Grammar",
+      "prompt": "Upendo prefers singing ___ playing netball.",
+      "steps": [
+        "Use the pattern prefer one activity to another.",
+        "Both activities are expressed with -ing forms."
+      ],
+      "answer": "C — to."
+    },
+    {
+      "id": "2(iv)",
+      "section": "Section A — Grammar",
+      "prompt": "The lost ball belongs to me: The lost ball is ___.",
+      "steps": [
+        "The answer stands alone after is, without a following noun.",
+        "Use the possessive pronoun mine; my must be followed by a noun."
+      ],
+      "answer": "D — mine."
+    },
+    {
+      "id": "2(v)",
+      "section": "Section A — Grammar",
+      "prompt": "Add a confirmation tag to: You all ate a lot yesterday.",
+      "steps": [
+        "Ate is a positive simple-past verb, so use the negative auxiliary didn’t.",
+        "Keep the same subject pronoun you."
+      ],
+      "answer": "C — didn’t you?"
+    },
+    {
+      "id": "3(i)",
+      "section": "Section A — Vocabulary",
+      "prompt": "My neighbour’s laziness caused him to live a ___ life.",
+      "steps": [
+        "Choose an adjective to describe life.",
+        "The negative consequence of laziness fits miserable, meaning unhappy or very uncomfortable."
+      ],
+      "answer": "miserable."
+    },
+    {
+      "id": "3(ii)",
+      "section": "Section A — Vocabulary",
+      "prompt": "They thought drinking would make them feel ___, until they became unhealthy.",
+      "steps": [
+        "The first part states their expectation; the later part contrasts with it.",
+        "Good describes the positive feeling they expected."
+      ],
+      "answer": "good."
+    },
+    {
+      "id": "3(iii)",
+      "section": "Section A — Vocabulary",
+      "prompt": "Neema grows maize on a ten-acre farm, and the ___ improved yearly.",
+      "steps": [
+        "Look for the noun naming crops collected from farming.",
+        "Harvest is the crop yield gathered from the farm."
+      ],
+      "answer": "harvest."
+    },
+    {
+      "id": "3(iv)",
+      "section": "Section A — Vocabulary",
+      "prompt": "Bahati wept because she could not control her own ___.",
+      "steps": [
+        "A possessive adjective such as her own needs a noun after it.",
+        "Misfortune means bad luck or an unfortunate event and explains her distress."
+      ],
+      "answer": "misfortune."
+    },
+    {
+      "id": "3(v)",
+      "section": "Section A — Vocabulary",
+      "prompt": "I ___ that I would never lie again. Choose from the printed word bank.",
+      "steps": [
+        "A finite past-tense verb is required before that.",
+        "Admitted is the available past-tense reporting verb; the other options do not fit this structure."
+      ],
+      "answer": "admitted.",
+      "tip": "Promised would be more natural for a commitment about future behaviour, but it is not in the supplied word bank."
+    },
+    {
+      "id": "4(i)",
+      "section": "Section A — Places",
+      "prompt": "Match the place where sick people receive medical treatment.",
+      "steps": [
+        "Identify the service: care and treatment for ill people.",
+        "A hospital supplies that service."
+      ],
+      "answer": "G — Hospital."
+    },
+    {
+      "id": "4(ii)",
+      "section": "Section A — Places",
+      "prompt": "Match the place where pupils receive education.",
+      "steps": [
+        "Identify the activity as organised teaching and learning.",
+        "That place is a school."
+      ],
+      "answer": "D — School."
+    },
+    {
+      "id": "4(iii)",
+      "section": "Section A — Places",
+      "prompt": "Match a place where one buys a meal.",
+      "steps": [
+        "A prepared meal is bought and served in a restaurant.",
+        "Choose the option for that eating place."
+      ],
+      "answer": "B — Restaurant."
+    },
+    {
+      "id": "4(iv)",
+      "section": "Section A — Places",
+      "prompt": "Match the place for reading and borrowing books.",
+      "steps": [
+        "The important clue is borrowing books.",
+        "A library lends books and provides reading space."
+      ],
+      "answer": "F — Library."
+    },
+    {
+      "id": "4(v)",
+      "section": "Section A — Places",
+      "prompt": "Match the place where milk is sold.",
+      "steps": [
+        "A dairy supplies milk and dairy products.",
+        "Select dairy rather than unrelated institutions such as a bank or mint."
+      ],
+      "answer": "A — Dairy."
+    },
+    {
+      "id": "5(i)",
+      "section": "Section B — Verb forms",
+      "prompt": "The Director is (provide) ___ the reward to his employees.",
+      "steps": [
+        "Is introduces the present continuous: is + verb-ing.",
+        "Remove the final e from provide, then add -ing."
+      ],
+      "answer": "providing."
+    },
+    {
+      "id": "5(ii)",
+      "section": "Section B — Verb forms",
+      "prompt": "If my mother (wake up) ___ early, she will catch the bus.",
+      "steps": [
+        "A first conditional uses present simple after if and will in the main clause.",
+        "Mother is third-person singular, so wake becomes wakes."
+      ],
+      "answer": "wakes up."
+    },
+    {
+      "id": "5(iii)",
+      "section": "Section B — Verb forms",
+      "prompt": "Have Bahati and Jema (speak) ___ to their teacher yet?",
+      "steps": [
+        "Have introduces the present perfect, which requires a past participle.",
+        "The forms are speak, spoke, spoken."
+      ],
+      "answer": "spoken."
+    },
+    {
+      "id": "5(iv)",
+      "section": "Section B — Verb forms",
+      "prompt": "My children rarely (play) ___ with their toys.",
+      "steps": [
+        "Rarely describes a habit, so use present simple.",
+        "Children is plural: use the base form play, without -s."
+      ],
+      "answer": "play."
+    },
+    {
+      "id": "5(v)",
+      "section": "Section B — Verb forms",
+      "prompt": "He checked the tube by (put) ___ it into water.",
+      "steps": [
+        "After the preposition by, use the -ing form.",
+        "Double the final t in put before adding -ing."
+      ],
+      "answer": "putting."
+    },
+    {
+      "id": "6(i)",
+      "section": "Section B — Poetry",
+      "prompt": "What is the poem about?",
+      "steps": [
+        "Notice the repeated question about what the speaker wants to do in life.",
+        "Each stanza names a future profession and explains its benefit to other people."
+      ],
+      "answer": "It is about career ambitions and serving the community."
+    },
+    {
+      "id": "6(ii)",
+      "section": "Section B — Poetry",
+      "prompt": "Why does the speaker want to become a lawyer?",
+      "steps": [
+        "Read the first stanza’s reasons for choosing law.",
+        "The speaker connects that profession with children who have suffered abuse and people’s rights."
+      ],
+      "answer": "To help abused children and defend people’s rights."
+    },
+    {
+      "id": "6(iii)",
+      "section": "Section B — Poetry",
+      "prompt": "What kind of person is the speaker?",
+      "steps": [
+        "Use the motives in all three stanzas as evidence.",
+        "The speaker puts other people’s welfare, protection and health first."
+      ],
+      "answer": "A caring, responsible and ambitious person.",
+      "tip": "Support character descriptions with actions or ideas from the poem."
+    },
+    {
+      "id": "6(iv)",
+      "section": "Section B — Poetry",
+      "prompt": "Why does the speaker ask, If not me, who else?",
+      "steps": [
+        "This repeated rhetorical question does not request a person’s name.",
+        "It emphasises that the speaker should take personal responsibility rather than wait for someone else."
+      ],
+      "answer": "To express personal responsibility and readiness to help others."
+    },
+    {
+      "id": "6(v)",
+      "section": "Section B — Poetry",
+      "prompt": "Suggest a suitable title.",
+      "steps": [
+        "Choose a short title covering the shared idea across all three careers.",
+        "A title about future ambitions fits the whole poem."
+      ],
+      "answer": "My Career Ambitions.",
+      "tip": "Other relevant titles, such as Serving My Community, can also earn credit."
+    },
+    {
+      "id": "7(i)",
+      "section": "Section C — Identity card",
+      "prompt": "Fill in the pupil’s name on Misongo’s identity card.",
+      "steps": [
+        "Find the full name in the opening sentence.",
+        "Copy both names with initial capital letters."
+      ],
+      "answer": "PUPIL’S NAME: Misongo Masata."
+    },
+    {
+      "id": "7(ii)",
+      "section": "Section C — Identity card",
+      "prompt": "Fill in the school.",
+      "steps": [
+        "Find the institution named in the description.",
+        "Write its full name rather than shortening it to Upepo."
+      ],
+      "answer": "SCHOOL: Upepo Primary School."
+    },
+    {
+      "id": "7(iii)",
+      "section": "Section C — Identity card",
+      "prompt": "Fill in the class.",
+      "steps": [
+        "Read the class stated in the question.",
+        "Use the stated information even though the dates and class in the sample are unusual."
+      ],
+      "answer": "CLASS: Standard Five."
+    },
+    {
+      "id": "7(iv)",
+      "section": "Section C — Identity card",
+      "prompt": "Fill in the date of birth.",
+      "steps": [
+        "Select the birth date, not the school entry date.",
+        "Write the day, month and year clearly."
+      ],
+      "answer": "DATE OF BIRTH: 22 May 2018."
+    },
+    {
+      "id": "7(v)",
+      "section": "Section C — Identity card",
+      "prompt": "Fill in the school entry date.",
+      "steps": [
+        "Find the date describing his first day at school.",
+        "Keep it separate from the birth date."
+      ],
+      "answer": "SCHOOL ENTRY DATE: 8 January 2024."
+    }
+  ],
+  "summaries": {
+    "Section A — Listening": "Listen for who, what happened and why. Keep actions, motives and consequences separate.",
+    "Section A — Grammar": "Choose pronouns by what they replace, prepositions by meaning, and question tags by tense and subject.",
+    "Section A — Vocabulary": "Check meaning and grammatical function before selecting from a word bank.",
+    "Section A — Places": "Match each service to the institution that provides it.",
+    "Section B — Verb forms": "Use present continuous after is, the present simple after if in a first conditional, and a participle after have.",
+    "Section B — Poetry": "Use the speaker’s repeated ideas and stated motives to support interpretations. Suitable alternative wording is acceptable.",
+    "Section C — Identity card": "Copy the given facts into the correct fields. Do not invent different dates to repair the sample’s unusual chronology."
+  },
+  "references": [
+    {
+      "title": "TETEA: accompanying English 2024 sample solutions (listening check)",
+      "url": "https://maktaba.tetea.org/past-papers/psle/english/English-S7-2024-Sample-Solutions.pdf"
+    }
+  ],
+  "sha256": "9c118a5aa41448e93d805ad718ef40920d3917ea9e885fafb28fd5088e0cb390"
+}

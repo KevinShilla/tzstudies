@@ -1,0 +1,526 @@
+{
+  "exam": "Kiswahili-S7-2022.pdf",
+  "output": "Kiswahili-S7-2022-AnswerKey.pdf",
+  "subject": "Kiswahili",
+  "level": "Darasa la Saba",
+  "year": "2022",
+  "code": "01",
+  "exam_type": "Mtihani wa Kumaliza Elimu ya Msingi (PSLE)",
+  "question_count": "Maswali 45",
+  "language": "sw",
+  "reviewed": true,
+  "labelling_note": "Ukurasa wa maswali 26–35 unajirudia katika nakala ya maktaba. Majibu yametolewa mara moja kwa kila swali.",
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Sehemu A: Kusikiliza",
+      "prompt": "Hadithi ya kusikiliza inahusu nini?",
+      "steps": [
+        "Tambua uhusiano unaobadilika baada ya matukio ya malezi.",
+        "Tukio la watoto wa Mwewe linasababisha ugomvi kati ya ndege hao."
+      ],
+      "answer": "B — Uadui wa Kuku na Mwewe."
+    },
+    {
+      "id": "2",
+      "section": "Sehemu A: Kusikiliza",
+      "prompt": "Kwa nini Kuku alikubali malezi kwa shingo upande?",
+      "steps": [
+        "Shingo upande inaonesha kutokuwa na hiari kamili.",
+        "Kuku alikuwa ameelemewa na kazi nyingine za malezi."
+      ],
+      "answer": "B — Alikuwa na majukumu mengi."
+    },
+    {
+      "id": "3",
+      "section": "Sehemu A: Kusikiliza",
+      "prompt": "Mwewe alikuta jambo gani aliporudi?",
+      "steps": [
+        "Fuata matokeo ya watoto aliowaacha kwa Kuku.",
+        "Watoto wake hawakuwa hai alipowakuta."
+      ],
+      "answer": "A — Kifo cha watoto wake."
+    },
+    {
+      "id": "4",
+      "section": "Sehemu A: Kusikiliza",
+      "prompt": "Kwa nini Mwewe aliomba watoto wake walelewe?",
+      "steps": [
+        "Tambua sababu ya kutokuwepo kwake.",
+        "Alihitaji kusafiri mbali na hakuweza kuwa pamoja nao."
+      ],
+      "answer": "D — Alipata safari ya mbali."
+    },
+    {
+      "id": "5",
+      "section": "Sehemu A: Kusikiliza",
+      "prompt": "Janga gani lilitokea kijijini?",
+      "steps": [
+        "Tofautisha tatizo la kijiji na ugomvi wa ndege wawili.",
+        "Tatizo lilikuwa ukosefu mkubwa wa chakula."
+      ],
+      "answer": "A — Njaa kali."
+    },
+    {
+      "id": "6",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Badili Bibi anaosha vyombo kuwa kauli ya kutendwa.",
+      "steps": [
+        "Fanya vyombo kuwa kiima kinachopokea tendo.",
+        "Osha huwa oshwa; vyombo hupatana na vina-, na mtendaji hutajwa baada ya na."
+      ],
+      "answer": "C — Vyombo vinaoshwa na bibi."
+    },
+    {
+      "id": "7",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Hapo ___ alipojificha mwizi. Jaza nafasi.",
+      "steps": [
+        "Hapo na alipo- hutaja mahali kwa -po-.",
+        "Tumia ndipo ili kudumisha upatanisho huo."
+      ],
+      "answer": "C — ndipo."
+    },
+    {
+      "id": "8",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Neno jumuishi la mshale, panga, kisu na upinde ni lipi?",
+      "steps": [
+        "Vitu hivi vinaweza kutumiwa kama vifaa vya kazi au shughuli.",
+        "Katika machaguo, zana ndilo jina la vifaa hivyo kwa pamoja."
+      ],
+      "answer": "A — Zana."
+    },
+    {
+      "id": "9",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Kichwa maji inaeleza hali gani ya Ndoni?",
+      "steps": [
+        "Nahau hii hutumika kwa mtu asiyeelewa jambo hata akifafanuliwa.",
+        "Katika muktadha wa swali, inaeleza ujinga."
+      ],
+      "answer": "C — Ujinga."
+    },
+    {
+      "id": "10",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Tegua: Akitokea watu wote humwona.",
+      "steps": [
+        "Fumbo linahusu kitu kinacholeta mwanga unaoonekana kila siku.",
+        "Jua ndilo linalolingana na kitendawili kilichozoeleka."
+      ],
+      "answer": "D — Jua."
+    },
+    {
+      "id": "11",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Tegua: Mwarabu wangu mkali hana panga wala kisu.",
+      "steps": [
+        "Ukali hapa unafananisha uwezo wa kuunguza bila silaha.",
+        "Moto huunguza ingawa hauna panga wala kisu."
+      ],
+      "answer": "A — Moto."
+    },
+    {
+      "id": "12",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Tegua: Teketeke huzaa gumugumu, gumugumu huzaa teketeke.",
+      "steps": [
+        "Mmea wa mahindi huwa laini ukichipua na huzaa punje ngumu zinapokomaa.",
+        "Punje ngumu zikipandwa huchipua mimea mipya laini."
+      ],
+      "answer": "E — Mhindi."
+    },
+    {
+      "id": "13",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Kujipalia makaa ina maana gani?",
+      "steps": [
+        "Makaa huunguza; hapa ni picha ya kuleta matatizo mwenyewe.",
+        "Ando alijiletea hatari kwa kuwatukana askari."
+      ],
+      "answer": "E — Kujitia matatani."
+    },
+    {
+      "id": "14",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Timba mali ina maana gani?",
+      "steps": [
+        "Nahau inaeleza matumizi yasiyojali thamani ya mali.",
+        "Mali inatumika ovyo, bila kuisitiri."
+      ],
+      "answer": "B — Kutumia mali ovyo."
+    },
+    {
+      "id": "15",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Mama hupenda kusafiri kila mwezi ni hali gani?",
+      "steps": [
+        "Hu- na kila mwezi huonesha tendo linalojirudia.",
+        "Hii ni hali ya mazoea."
+      ],
+      "answer": "B — Mazoea."
+    },
+    {
+      "id": "16",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Kiambishi cha nafsi ya kwanza wingi katika tulicheza ni kipi?",
+      "steps": [
+        "Gawa neno: tu-li-chez-a.",
+        "Tu- ni sisi; -li- ni wakati uliopita."
+      ],
+      "answer": "A — tu-."
+    },
+    {
+      "id": "17",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Kanusha: Mimi niliunda kanuni za Kiswahili.",
+      "steps": [
+        "Dumisha nafsi ya kwanza na wakati uliopita.",
+        "Niliunda hukanushwa kuwa sikuunda."
+      ],
+      "answer": "C — Mimi sikuunda kanuni za Lugha ya Kiswahili."
+    },
+    {
+      "id": "18",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Walipata vikwazo, hatimaye walifika salama: ni wakati gani?",
+      "steps": [
+        "Vitenzi walipata na walifika vina kiambishi -li-.",
+        "-Li- hutaja wakati uliopita."
+      ],
+      "answer": "B — Uliopita."
+    },
+    {
+      "id": "19",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Ripoti kauli: Yeye alisema, Siwezi kuja kwenu.",
+      "steps": [
+        "Siwezi hubadilika kuwa hawezi kwa kumzungumzia mtu wa tatu.",
+        "Mpokeaji wa mwanzo akiripoti kuhusu kwake, kwenu huwa kwetu."
+      ],
+      "answer": "E — Yeye alisema kwamba hawezi kuja kwetu.",
+      "tip": "Mabadiliko ya kwenu kwenda kwetu yanategemea msimulizi kuwa upande wa walioambiwa; huu ndio muktadha uliokusudiwa na mtihani."
+    },
+    {
+      "id": "20",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Kiambishi tamati katika anaimba ni kipi?",
+      "steps": [
+        "Gawa neno: a-na-imb-a.",
+        "Kiambishi kinachofunga neno upande wa mwisho ni -a."
+      ],
+      "answer": "C — -a."
+    },
+    {
+      "id": "21",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Katika Baba alikuwa anakula ugali jana, kitenzi kisaidizi ni kipi?",
+      "steps": [
+        "Anakula ndilo tendo kuu.",
+        "Alikuwa husaidia kuweka tendo hilo katika wakati uliopita unaoendelea."
+      ],
+      "answer": "C — alikuwa."
+    },
+    {
+      "id": "22",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Neno gani linaonesha umiliki katika Mwalimu alikwenda kijijini kwao kuhani msiba?",
+      "steps": [
+        "Kwao hutaja mahali panapohusishwa na watu hao.",
+        "Hiki ndicho kipengele chenye uhusiano wa umiliki."
+      ],
+      "answer": "C — kwao."
+    },
+    {
+      "id": "23",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Panga: Anapenda kula mtoto wangu chakula.",
+      "steps": [
+        "Anza kwa kiima mtoto wangu.",
+        "Fuata kwa tendo anapenda kula na kitu chakula."
+      ],
+      "answer": "A — Mtoto wangu anapenda kula chakula."
+    },
+    {
+      "id": "24",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Neno lipi halilandani: mkuyu, msonobari, mkaratusi, waridi, mninga?",
+      "steps": [
+        "Mkuyu, msonobari, mkaratusi na mninga ni majina ya miti.",
+        "Waridi ni ua/mmea wa maua unaotofautiana na miti hiyo katika makundi ya swali."
+      ],
+      "answer": "D — Waridi."
+    },
+    {
+      "id": "25",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Kulwa alikwenda haraka ___ hakutaka kuchelewa.",
+      "steps": [
+        "Sehemu ya pili inatoa sababu ya kwenda haraka.",
+        "Kwa kuwa huunganisha tendo na sababu yake."
+      ],
+      "answer": "A — kwa kuwa."
+    },
+    {
+      "id": "26",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Chombo cha majini cha kuvusha watu na mizigo huitwaje?",
+      "steps": [
+        "Maelezo yanahusu kivuko cha kuvuka kutoka upande mmoja hadi mwingine.",
+        "Pantoni ndiyo aina ya kivuko iliyo kwenye machaguo."
+      ],
+      "answer": "C — Pantoni."
+    },
+    {
+      "id": "27",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Mtaalamu wa kubuni na kurekebisha majengo, barabara au mitambo huitwaje?",
+      "steps": [
+        "Kazi hizi zinahitaji taaluma ya uhandisi.",
+        "Mtaalamu wake ni mhandisi."
+      ],
+      "answer": "D — Mhandisi."
+    },
+    {
+      "id": "28",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Kisawe cha koroboi ni kipi?",
+      "steps": [
+        "Koroboi ni taa ndogo inayotumia mafuta na utambi.",
+        "Jina lingine mahsusi ni kibatari."
+      ],
+      "answer": "C — Kibatari."
+    },
+    {
+      "id": "29",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Kisawe cha mbogo ni kipi?",
+      "steps": [
+        "Mbogo ni jina la mnyama mkubwa wa porini mwenye pembe.",
+        "Jina lake jingine ni nyati."
+      ],
+      "answer": "C — Nyati."
+    },
+    {
+      "id": "30",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Unda neno kwa herufi zilizochanganywa haborai.",
+      "steps": [
+        "Tumia herufi zote bila kuondoa o au kuongeza herufi nyingine.",
+        "Mpangilio bo-ha-ri-a huunda jina la mtunza bidhaa boharini."
+      ],
+      "answer": "D — Boharia."
+    },
+    {
+      "id": "31",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Ungalifika mapema ___ ndugu yako.",
+      "steps": [
+        "Sharti lenye ungali- huendana na matokeo yenye ungali-.",
+        "Ungalimkuta ndiyo kauli chanya inayolingana."
+      ],
+      "answer": "E — ungalimkuta."
+    },
+    {
+      "id": "32",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Bibi aliangusha kuni ___ alijikwaa.",
+      "steps": [
+        "Kujikwaa ndiyo sababu ya kuangusha mzigo.",
+        "Tumia kwa kuwa kuunganisha sababu."
+      ],
+      "answer": "E — kwa kuwa."
+    },
+    {
+      "id": "33",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Charaza maneno ina maana gani katika kumjibu baba?",
+      "steps": [
+        "Nahau hii haihusu kasi ya kawaida peke yake.",
+        "Katika muktadha huu, msemaji anaongea upesi kwa kusudi la kuficha ukweli."
+      ],
+      "answer": "D — Sema harakaharaka kwa nia ya kudanganya."
+    },
+    {
+      "id": "34",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Humu ___ wanamoishi panya.",
+      "steps": [
+        "Humu na wanamo- zina upatanisho wa ndani ya mahali.",
+        "Tumia ndimo."
+      ],
+      "answer": "C — ndimo."
+    },
+    {
+      "id": "35",
+      "section": "Sehemu A: Sarufi na Msamiati",
+      "prompt": "Watu wamejenga nyumba zao ___ ya barabara kuu.",
+      "steps": [
+        "Nyumba zinazotajwa ziko pembezoni mwa barabara.",
+        "Kando ya ni muundo wa kuonesha upande wa kitu."
+      ],
+      "answer": "B — kando."
+    },
+    {
+      "id": "36",
+      "section": "Sehemu B: Kukamilisha Kifungu",
+      "prompt": "Jaza nafasi 36: viongozi ___ ndani ya Uwanja wa Jamhuri.",
+      "steps": [
+        "Sentensi inahitaji kitenzi cha kufika.",
+        "Waliwasili kinaeleza kuingia kwa viongozi uwanjani."
+      ],
+      "answer": "E — waliwasili."
+    },
+    {
+      "id": "37",
+      "section": "Sehemu B: Kukamilisha Kifungu",
+      "prompt": "Jaza nafasi 37: viongozi wa ___.",
+      "steps": [
+        "Baada ya wa, inahitajika sehemu wanakotoka viongozi.",
+        "Nchi jirani linakamilisha maana."
+      ],
+      "answer": "C — nchi jirani."
+    },
+    {
+      "id": "38",
+      "section": "Sehemu B: Kukamilisha Kifungu",
+      "prompt": "Jaza nafasi 38: ___ aliwasili saa nne na nusu.",
+      "steps": [
+        "Aliwasili ni umoja, hivyo jina la mtu mmoja linafaa.",
+        "Cheo kilichotolewa katika kisanduku ni Makamu wa Rais."
+      ],
+      "answer": "D — Makamu wa Rais."
+    },
+    {
+      "id": "39",
+      "section": "Sehemu B: Kukamilisha Kifungu",
+      "prompt": "Jaza nafasi 39: Rais alipigiwa ___ ishirini na moja.",
+      "steps": [
+        "Katika hafla hii idadi 21 inahusu saluti ya heshima.",
+        "Saluti hiyo hutolewa kwa mizinga."
+      ],
+      "answer": "A — mizinga."
+    },
+    {
+      "id": "40",
+      "section": "Sehemu B: Kukamilisha Kifungu",
+      "prompt": "Jaza nafasi 40: Rais alienda kula ___.",
+      "steps": [
+        "Kula kiapo ni usemi unaomaanisha kuapa rasmi.",
+        "Chagua kiapo, si chakula cha kawaida."
+      ],
+      "answer": "B — kiapo."
+    },
+    {
+      "id": "41",
+      "section": "Sehemu C: Ufahamu wa Shairi",
+      "prompt": "Mshairi anamaanisha nini kwa acha kubenua kidari?",
+      "steps": [
+        "Kubenua kidari ni picha ya kujionesha au kujiona bora.",
+        "Ubeti huo pia unakemea kutakabari."
+      ],
+      "answer": "Acha majivuno au kujiona bora kuliko wengine."
+    },
+    {
+      "id": "42",
+      "section": "Sehemu C: Ufahamu wa Shairi",
+      "prompt": "Ubeti wa pili unataja athari gani ya wizi?",
+      "steps": [
+        "Udokozi unafuatwa na onyo kuhusu kupoteza maisha.",
+        "Mshairi anasema tabia hiyo inaweza kumletea mtu kifo."
+      ],
+      "answer": "Mtu mwenye tabia ya wizi anaweza kufa."
+    },
+    {
+      "id": "43",
+      "section": "Sehemu C: Ufahamu wa Shairi",
+      "prompt": "Kicheche ina maana gani katika shairi?",
+      "steps": [
+        "Tumia tabia zinazokemewa katika beti, si maana ya mnyama.",
+        "Hapa ni mtu mwenye tabia mbaya kama uchokozi, udokozi, uchochezi au umbea."
+      ],
+      "answer": "Mtu mwenye tabia mbaya, kwa mfano uchokozi au udokozi."
+    },
+    {
+      "id": "44",
+      "section": "Sehemu C: Ufahamu wa Shairi",
+      "prompt": "Acha na huo mdomo inaonya tabia gani?",
+      "steps": [
+        "Ubeti unaunganisha mdomo na kusambaza taarifa kuhusu wengine.",
+        "Onyo ni dhidi ya umbea."
+      ],
+      "answer": "Tabia ya umbea."
+    },
+    {
+      "id": "45",
+      "section": "Sehemu C: Ufahamu wa Shairi",
+      "prompt": "Mshairi anatoa ujumbe gani?",
+      "steps": [
+        "Beti zote zinaomba kuacha tabia zinazoweza kuleta madhara.",
+        "Ujumbe uunganishe tabia njema, ushauri na maisha salama."
+      ],
+      "answer": "Tuache tabia mbaya, tusikilize ushauri na tuishi kwa maadili mema ili kuepuka madhara."
+    }
+  ],
+  "summaries": {
+    "Sehemu A: Kusikiliza": "Kusikiliza kwa makini husaidia kutenganisha sababu ya mwanzo, janga lililotokea na matokeo yake.",
+    "Sehemu A: Sarufi na Msamiati": "Zingatia nafsi, wakati, kauli na upatanisho. Katika herufi zilizochanganywa, tumia herufi zote zilizotolewa.",
+    "Sehemu B: Kukamilisha Kifungu": "Soma kifungu chote baada ya kujaza nafasi; kiwe na mtiririko wa matukio na sarufi inayopatana.",
+    "Sehemu C: Ufahamu wa Shairi": "Eleza lugha ya picha kwa kuzingatia ujumbe wa ubeti. Funzo lieleze mwenendo unaohimizwa au unaokemewa."
+  },
+  "references": [
+    {
+      "title": "NECTA: Hadithi na uchambuzi wa Kiswahili PSLE 2022",
+      "url": "https://onlinesys.necta.go.tz/cira/psle/2022/01_KISWAHILI.pdf"
+    }
+  ],
+  "sha256": "c60e1adee90e314e1467371f9cd5e974c2e94e6dd1115521581a225cbdee9f0d"
+}

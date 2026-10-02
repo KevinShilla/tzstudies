@@ -1,0 +1,529 @@
+{
+  "exam": "English-S7-2021.pdf",
+  "output": "English-S7-2021-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Seven",
+  "year": "2021",
+  "code": "02",
+  "exam_type": "Primary School Leaving Examination (PSLE)",
+  "question_count": "45 questions",
+  "language": "en",
+  "reviewed": true,
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Section A — Listening",
+      "prompt": "What does Sheila do when she has a problem?",
+      "steps": [
+        "The passage distinguishes seeking help from asking to go out.",
+        "She approaches her teachers for assistance with a problem."
+      ],
+      "answer": "D — She asks her teachers for help."
+    },
+    {
+      "id": "2",
+      "section": "Section A — Listening",
+      "prompt": "What makes Sheila a good example?",
+      "steps": [
+        "Notice the polite behaviour described across different situations.",
+        "She treats other people respectfully."
+      ],
+      "answer": "A — She respects everyone."
+    },
+    {
+      "id": "3",
+      "section": "Section A — Listening",
+      "prompt": "Whom should children respect according to the story?",
+      "steps": [
+        "The example includes teachers, pupils, family and neighbours.",
+        "The lesson therefore extends to everybody, not just one group."
+      ],
+      "answer": "C — All people."
+    },
+    {
+      "id": "4",
+      "section": "Section A — Listening",
+      "prompt": "Which class was Sheila in?",
+      "steps": [
+        "Find the class stated when Sheila is introduced.",
+        "The passage identifies her as a class-six pupil."
+      ],
+      "answer": "D — Class Six."
+    },
+    {
+      "id": "5",
+      "section": "Section A — Listening",
+      "prompt": "What should a child do after receiving help?",
+      "steps": [
+        "Sheila responds politely after permission or assistance.",
+        "The suitable response is to express gratitude."
+      ],
+      "answer": "D — Be thankful."
+    },
+    {
+      "id": "6",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "The sun ___ in the morning.",
+      "steps": [
+        "This is a habitual fact in the present simple.",
+        "The singular subject sun takes the verb rises."
+      ],
+      "answer": "B — rises."
+    },
+    {
+      "id": "7",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "They ___ waiting when it began to rain.",
+      "steps": [
+        "An ongoing past action uses was/were + -ing.",
+        "They is plural, so use were."
+      ],
+      "answer": "C — were."
+    },
+    {
+      "id": "8",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Rose has a graduation ceremony. Are you ___?",
+      "steps": [
+        "The person receives an invitation rather than performing the inviting.",
+        "Use the passive participle invited after are."
+      ],
+      "answer": "E — invited."
+    },
+    {
+      "id": "9",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "During the slave trade, human beings ___ like animals.",
+      "steps": [
+        "Human beings receive the action, so use the passive.",
+        "The plural subject and past setting require were sold."
+      ],
+      "answer": "D — were sold."
+    },
+    {
+      "id": "10",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Every child ___ given cake after the song.",
+      "steps": [
+        "Every child is grammatically singular.",
+        "The past passive is was given."
+      ],
+      "answer": "C — was."
+    },
+    {
+      "id": "11",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Open the book ___ page 3.",
+      "steps": [
+        "The intended fixed phrase locates the opening at a page.",
+        "Use at."
+      ],
+      "answer": "C — at."
+    },
+    {
+      "id": "12",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Is there ___ water left in the jug?",
+      "steps": [
+        "Water is uncountable and this is a neutral question about existence.",
+        "Any is the intended quantifier in a general question."
+      ],
+      "answer": "A — any."
+    },
+    {
+      "id": "13",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "The car belongs to James. It is ___ car.",
+      "steps": [
+        "A possessive form is needed before car.",
+        "NECTA’s marking choice uses an apostrophe after the final s: James’."
+      ],
+      "answer": "C — James’.",
+      "tip": "E — James’s is also accepted in standard English. Cambridge Grammar allows either form for personal names ending in s; C is the expected exam choice."
+    },
+    {
+      "id": "14",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "I sit ___ Anna and Jane.",
+      "steps": [
+        "The position is in the space separating two named people.",
+        "Between expresses that relationship."
+      ],
+      "answer": "B — between."
+    },
+    {
+      "id": "15",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "One of ___ wore broken sunglasses.",
+      "steps": [
+        "The pronoun refers to the seven men.",
+        "After of, use the object form them."
+      ],
+      "answer": "C — them."
+    },
+    {
+      "id": "16",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "No sooner had she arrived ___ it began to rain.",
+      "steps": [
+        "The paired construction is no sooner … than.",
+        "Than introduces the immediately following event."
+      ],
+      "answer": "A — than."
+    },
+    {
+      "id": "17",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "The girl won ___ she had trained well.",
+      "steps": [
+        "Training is the cause of her success.",
+        "Because introduces that reason."
+      ],
+      "answer": "E — because."
+    },
+    {
+      "id": "18",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Put Musa is running to school into the past continuous.",
+      "steps": [
+        "Change the present auxiliary is to the past was.",
+        "Keep the -ing form running."
+      ],
+      "answer": "D — Musa was running to school."
+    },
+    {
+      "id": "19",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "The thief entered ___ the open window.",
+      "steps": [
+        "The route passes from one side of an opening to the other.",
+        "Through describes movement across that opening."
+      ],
+      "answer": "B — through."
+    },
+    {
+      "id": "20",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Report: They said, We work together.",
+      "steps": [
+        "Change the quoted we to they.",
+        "With the past reporting verb said, work normally backshifts to worked."
+      ],
+      "answer": "D — They said that they worked together."
+    },
+    {
+      "id": "21",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Where is a designated place to cross a road?",
+      "steps": [
+        "The question asks for a crossing specifically marked for pedestrians.",
+        "A zebra crossing is that marked point."
+      ],
+      "answer": "C — At the zebra crossing."
+    },
+    {
+      "id": "22",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Which prefix has a negative meaning?",
+      "steps": [
+        "Un- can mean not, as in unhappy or unfair.",
+        "The other listed prefixes concern repetition or time."
+      ],
+      "answer": "C — un-."
+    },
+    {
+      "id": "23",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Our grandparents were disciplined in their ___.",
+      "steps": [
+        "The blank needs the name of the period when they were children.",
+        "Childhood names that stage of life."
+      ],
+      "answer": "D — childhood."
+    },
+    {
+      "id": "24",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Ngole crossed despite a Do not cross poster because he ___ it.",
+      "steps": [
+        "The context indicates incorrect understanding.",
+        "Mis- + understood forms misunderstood."
+      ],
+      "answer": "A — misunderstood."
+    },
+    {
+      "id": "25",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Our well-decorated house is ___.",
+      "steps": [
+        "After is, use an adjective describing the house.",
+        "Beautiful is the adjective; beautifully is an adverb."
+      ],
+      "answer": "C — beautiful."
+    },
+    {
+      "id": "26",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "What is a person walking along a road called?",
+      "steps": [
+        "The question seeks the road-user category for someone on foot.",
+        "That person is a pedestrian."
+      ],
+      "answer": "A — Pedestrian."
+    },
+    {
+      "id": "27",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Julius performs medical operations. What profession is offered in the options?",
+      "steps": [
+        "Operations are performed by trained medical practitioners.",
+        "Doctor is the relevant option; surgeon is the more specific term for the specialist."
+      ],
+      "answer": "A — Doctor."
+    },
+    {
+      "id": "28",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Give a phrase with the same meaning as continue.",
+      "steps": [
+        "Continue means proceed with an activity.",
+        "Carry on is the matching phrasal verb."
+      ],
+      "answer": "A — carry on."
+    },
+    {
+      "id": "29",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Aisha is the oldest of three children. Complete: Aisha is ___.",
+      "steps": [
+        "Comparing three family members requires a superlative.",
+        "The eldest is the suitable family-age expression in the choices."
+      ],
+      "answer": "B — the eldest."
+    },
+    {
+      "id": "30",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Give the opposite of old in old English.",
+      "steps": [
+        "The context compares earlier and later language forms.",
+        "Modern contrasts with old."
+      ],
+      "answer": "B — modern."
+    },
+    {
+      "id": "31",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "What word class is quietly in The old man shut the door quietly?",
+      "steps": [
+        "Quietly tells how the door was shut.",
+        "A word modifying the manner of an action is an adverb."
+      ],
+      "answer": "C — An adverb."
+    },
+    {
+      "id": "32",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "A puppy unable to care for itself was left ___.",
+      "steps": [
+        "The suffix -less expresses absence of something.",
+        "Helpless means unable to help or protect itself."
+      ],
+      "answer": "E — helpless."
+    },
+    {
+      "id": "33",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "The sun rises in the east and sets in the ___.",
+      "steps": [
+        "Recall the two opposite cardinal directions in the usual statement.",
+        "The sunset direction is west."
+      ],
+      "answer": "A — West."
+    },
+    {
+      "id": "34",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "What is my sister’s son to me?",
+      "steps": [
+        "A sibling’s male child is called a nephew.",
+        "A female child would be a niece."
+      ],
+      "answer": "C — Nephew."
+    },
+    {
+      "id": "35",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Find a homophone of made.",
+      "steps": [
+        "A homophone sounds the same but differs in spelling and meaning.",
+        "Made and maid have the same pronunciation."
+      ],
+      "answer": "E — maid."
+    },
+    {
+      "id": "36",
+      "section": "Section B — Composition",
+      "prompt": "Order: In his speech, he promised to buy the pupils’ products.",
+      "steps": [
+        "The teacher must first be invited and speak.",
+        "His promise comes after the speech is introduced and before the pupils thank him."
+      ],
+      "answer": "D — Fourth sentence."
+    },
+    {
+      "id": "37",
+      "section": "Section B — Composition",
+      "prompt": "Order: Standard Seven pupils had a cooking project.",
+      "steps": [
+        "Introduce the participants and event first.",
+        "This supplies the opening of the composition."
+      ],
+      "answer": "A — First sentence."
+    },
+    {
+      "id": "38",
+      "section": "Section B — Composition",
+      "prompt": "Order: The head teacher talked to the pupils.",
+      "steps": [
+        "The invitation to view the project precedes the talk.",
+        "The content of his speech follows, so this is third."
+      ],
+      "answer": "C — Third sentence."
+    },
+    {
+      "id": "39",
+      "section": "Section B — Composition",
+      "prompt": "Order: The pupils thanked him and invited him again.",
+      "steps": [
+        "Thanks respond to the teacher’s visit and promise.",
+        "This closes the account."
+      ],
+      "answer": "E — Fifth sentence."
+    },
+    {
+      "id": "40",
+      "section": "Section B — Composition",
+      "prompt": "Order: They invited the head teacher to see the project.",
+      "steps": [
+        "They refers back to the pupils introduced in the opening.",
+        "The invitation comes before the teacher speaks."
+      ],
+      "answer": "B — Second sentence."
+    },
+    {
+      "id": "41",
+      "section": "Section C — Poetry comprehension",
+      "prompt": "What is the poem about?",
+      "steps": [
+        "The final stanza names Covid-19.",
+        "The remaining stanzas describe the disease and its effects."
+      ],
+      "answer": "Covid-19 and its effects on people."
+    },
+    {
+      "id": "42",
+      "section": "Section C — Poetry comprehension",
+      "prompt": "Who speaks in the poem?",
+      "steps": [
+        "The speaker addresses my clansmen and later says us.",
+        "These pronouns show membership in the affected community."
+      ],
+      "answer": "A member of the community affected by Covid-19."
+    },
+    {
+      "id": "43",
+      "section": "Section C — Poetry comprehension",
+      "prompt": "According to the poem, how does the virus spread?",
+      "steps": [
+        "Locate the opening line of the third stanza.",
+        "Answer the route stated by the poem rather than add information from outside it."
+      ],
+      "answer": "According to the poem, it spreads through contact."
+    },
+    {
+      "id": "44",
+      "section": "Section C — Poetry comprehension",
+      "prompt": "What measures does the poem suggest to prevent spread?",
+      "steps": [
+        "The third stanza mentions a protective measure.",
+        "The last stanza also stresses the value of information."
+      ],
+      "answer": "Wearing face masks and providing information about the disease."
+    },
+    {
+      "id": "45",
+      "section": "Section C — Poetry comprehension",
+      "prompt": "What impacts are mentioned?",
+      "steps": [
+        "Identify consequences in the opening and final stanzas.",
+        "The poem mentions deaths, fear of working and interruption of schooling."
+      ],
+      "answer": "Many people die, people fear going to work, and children stop attending school."
+    }
+  ],
+  "summaries": {
+    "Section A — Listening": "Distinguish what a person does in a problem from how they respond after receiving help.",
+    "Section A — Grammar and vocabulary": "Identify sentence function before choosing a word. Keep tense, subject agreement and pronoun case consistent.",
+    "Section B — Composition": "The complete order is 37 → 40 → 38 → 36 → 39: project, invitation, talk, promise and thanks.",
+    "Section C — Poetry comprehension": "Use the poem’s wording and pronouns as evidence. The speaking voice is a member of the affected community, not automatically the author."
+  },
+  "references": [
+    {
+      "title": "NECTA: PSLE 2021 English analysis",
+      "url": "https://onlinesys.necta.go.tz/cira/psle/2021/02_ENGLISH_LANGUAGE.pdf"
+    },
+    {
+      "title": "Cambridge Grammar: possessive names ending in s",
+      "url": "https://dictionary.cambridge.org/uk/grammar/british-grammar/possession"
+    }
+  ],
+  "sha256": "ad3a7db09bcd62c516a6ed2eeccab4bcfcc8e8d658aa4094c02f4e0dddc6b14e"
+}

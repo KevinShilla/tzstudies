@@ -2,19 +2,15 @@
 {% block title %}{{ paper.file_name }}|TZStudies{% endblock %}
 
 {% block content %}
-<div class="container">
+<div class="container content-section">
   <!-- Paper Header -->
-  <h2 class="section-heading">{{ paper.file_name }}</h2>
-  {% if paper.grade %}
-  <p style="text-align:center;color:#666;margin-bottom:1rem;">Grade: {{ paper.grade }}</p>
-  {% endif %}
-  <div style="text-align:center;margin-bottom:1.5rem;">
-    <a href="{{ url_for('papers.download', filename=paper.file_name) }}" class="btn">Download PDF</a>
-    <a href="{{ url_for('papers.index') }}" class="btn">Back to All Papers</a>
-  </div>
+  <a class="text-link back-link" href="{{ url_for('papers.index') }}#examSection">&larr; Back to the library</a>
+  <div class="viewer-heading"><div><span class="eyebrow">{{ exam.level }} &middot; {{ exam.year }} &middot; {{ exam.board }}</span><h1>{{ exam.subject }}</h1><p>{{ 'Answer key and worked solutions' if paper.category == 'key' else 'Past exam discussion' }}</p></div><div class="viewer-actions">
+    <a href="{{ url_for('papers.download_key' if paper.category == 'key' else 'papers.download', filename=paper.file_name) }}" class="btn">Download PDF</a>
+  </div></div>
 
   <!-- PDF Viewer -->
-  <iframe src="{{ url_for('papers.serve_pdf', filename=paper.file_name) }}#toolbar=0"
+  <iframe src="{{ url_for('papers.serve_key' if paper.category == 'key' else 'papers.serve_pdf', filename=paper.file_name) }}#toolbar=0"
           class="pdf-viewer"
           title="PDF preview of {{ paper.file_name }}"></iframe>
 
@@ -50,7 +46,7 @@
           <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
           <input type="hidden" name="parent_id" value="{{ comment.id }}">
           <div class="form-group">
-            <textarea name="body" rows="3" placeholder="Write a reply..." required></textarea>
+            <label class="sr-only" for="reply-{{ comment.id }}">Reply to {{ comment.user.name }}</label><textarea id="reply-{{ comment.id }}" name="body" rows="3" placeholder="Write a reply..." required maxlength="2000"></textarea>
           </div>
           <button type="submit" class="btn btn-sm">Submit Reply</button>
         </form>
@@ -77,7 +73,7 @@
         <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
         <div class="form-group">
           <label for="commentBody">Ask a question or leave a comment</label>
-          <textarea id="commentBody" name="body" rows="4" placeholder="Write your comment..." required></textarea>
+          <textarea id="commentBody" name="body" rows="4" placeholder="Write your comment..." required maxlength="2000"></textarea>
         </div>
         <button type="submit" class="btn">Post Comment</button>
       </form>

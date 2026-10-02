@@ -1,0 +1,697 @@
+{
+  "exam": "English-F4-2024.pdf",
+  "output": "English-F4-2024-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Form Four",
+  "year": "2024",
+  "code": "022",
+  "exam_type": "Certificate of Secondary Education Examination (CSEE)",
+  "question_count": "11 questions; every Section C option solved; 60 answered parts",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "2a1ff0dd0ebe9307de60af42d353c18bc93bb662a47801b28e31c2f6aea6f778",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(ix)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "3(vi)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "4(vi)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "5(vi)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)",
+    "6(vi)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)",
+    "7(v)",
+    "7(vi)",
+    "8(i)",
+    "8(ii)",
+    "8(iii)",
+    "8(iv)",
+    "8(v)",
+    "8(vi)",
+    "9(a)(i)",
+    "9(a)(ii)",
+    "9(a)(iii)",
+    "9(a)(iv)",
+    "9(b)(i)",
+    "9(b)(ii)",
+    "10",
+    "11"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Section A — Objective questions",
+      "prompt": "Give a synonym of adjacent.",
+      "answer": "B — Beside.",
+      "steps": [
+        "Select the alternative that fits both context and grammar.",
+        "Adjacent means next to; besides means in addition to and is different."
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Agree with a preference for studying in the morning.",
+      "answer": "E — So do I.",
+      "steps": [
+        "Select the alternative that fits both context and grammar.",
+        "Use do to echo the simple-present preference: I prefer it too. If explicitly echoing a past preference, so did I would be needed, but it is not offered."
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Why is RSVP important on an invitation?",
+      "answer": "E — It specifies the contact address for replies.",
+      "steps": [
+        "Select the alternative that fits both context and grammar.",
+        "RSVP requests a response; the following contact details tell guests where to reply."
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Section A — Objective questions",
+      "prompt": "Locate a dictionary word efficiently.",
+      "answer": "C — Use the words at the top of the page.",
+      "steps": [
+        "Select the alternative that fits both context and grammar.",
+        "Guide words identify the alphabetical range on the page."
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Section A — Objective questions",
+      "prompt": "Identify a repeated action.",
+      "answer": "B — She is always helping people.",
+      "steps": [
+        "Select the alternative that fits both context and grammar.",
+        "Always with a continuous form describes repeated behaviour."
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Section A — Objective questions",
+      "prompt": "Describe Jane’s likes in the table.",
+      "answer": "D — Jane likes both pets and chickens.",
+      "steps": [
+        "Select the alternative that fits both context and grammar.",
+        "Both columns have ticks, while giraffes and zebra have crosses."
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Put “The students will write the test on Friday” into past progressive.",
+      "answer": "A — The students were writing the test on Friday.",
+      "steps": [
+        "Select the alternative that fits both context and grammar.",
+        "Use plural were + writing."
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Identify the question that does not ask for an opinion.",
+      "answer": "D — Do you have a trip for family planning issues?",
+      "steps": [
+        "Select the alternative that fits both context and grammar.",
+        "As printed, it asks whether a trip exists, unlike the prompts for a view, suggestion or reasoned position."
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Section A — Objective questions",
+      "prompt": "Damas asks Sylvia about the Tsh 10,000 she borrowed.",
+      "answer": "D — Where is that ten thousand shillings you borrowed from me?",
+      "steps": [
+        "Select the alternative that fits both context and grammar.",
+        "Sylvia borrowed from Damas; a monetary amount is treated as singular here."
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Section A — Objective questions",
+      "prompt": "Explain a difficult test; nevertheless Pili earned a good grade.",
+      "answer": "B — The difficulty contrasts with Pili’s performance.",
+      "steps": [
+        "Select the alternative that fits both context and grammar.",
+        "Nevertheless introduces an outcome contrary to what the difficulty might suggest."
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the reservation to its setting: Accommodation.",
+      "answer": "G — Hotel.",
+      "steps": [
+        "Identify the purpose of the booking.",
+        "Hotels provide places to stay."
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the reservation to its setting: Flight tickets.",
+      "answer": "H — Airport.",
+      "steps": [
+        "Identify the purpose of the booking.",
+        "The relevant setting is air transport."
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the reservation to its setting: Land-transport tickets.",
+      "answer": "C — Bus terminal.",
+      "steps": [
+        "Identify the purpose of the booking.",
+        "A bus terminal serves road-passenger journeys."
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the reservation to its setting: Visiting nature.",
+      "answer": "E — National park.",
+      "steps": [
+        "Identify the purpose of the booking.",
+        "A park is the intended setting for a nature visit."
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the reservation to its setting: A wedding venue.",
+      "answer": "F — Hall.",
+      "steps": [
+        "Identify the purpose of the booking.",
+        "A hall can be booked for the ceremony."
+      ]
+    },
+    {
+      "id": "2(vi)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the reservation to its setting: A football match.",
+      "answer": "B — Stadium.",
+      "steps": [
+        "Identify the purpose of the booking.",
+        "A stadium hosts the match."
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Section B — Language use",
+      "prompt": "Explain Poet in poetry.",
+      "answer": "A poet is the person who composes a poem.",
+      "steps": [
+        "Define the term and distinguish it from a related concept.",
+        "Distinguish the actual writer from the poem’s speaking voice."
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Explain Persona in poetry.",
+      "answer": "The persona is the voice or speaker through whom a poem is presented.",
+      "steps": [
+        "Define the term and distinguish it from a related concept.",
+        "The persona need not be identical to the poet."
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Explain Verse in poetry.",
+      "answer": "In this question, a verse is a single line of poetry; the term can also mean poetry generally.",
+      "steps": [
+        "Define the term and distinguish it from a related concept.",
+        "A verse or line may form part of a stanza."
+      ]
+    },
+    {
+      "id": "3(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Explain Stanza in poetry.",
+      "answer": "A stanza is a grouped set of lines forming a unit within a poem.",
+      "steps": [
+        "Define the term and distinguish it from a related concept.",
+        "Stanzas are often separated visually by space."
+      ]
+    },
+    {
+      "id": "3(v)",
+      "section": "Section B — Language use",
+      "prompt": "Explain Tone in poetry.",
+      "answer": "Tone is the speaker’s attitude towards the subject or audience, conveyed by wording and expression.",
+      "steps": [
+        "Define the term and distinguish it from a related concept.",
+        "Examples include grief, admiration, anger and irony; explain it with textual evidence."
+      ]
+    },
+    {
+      "id": "3(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Explain Rhyme in poetry.",
+      "answer": "Rhyme is a correspondence of sounds, usually at line endings, such as day and way.",
+      "steps": [
+        "Define the term and distinguish it from a related concept.",
+        "Rhyme depends on sound, not merely matching spelling."
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a sentence in the simple present tense.",
+      "answer": "She reads every evening.",
+      "steps": [
+        "Choose a subject, the correct auxiliary or verb form, and a matching time context.",
+        "Reads expresses a habitual action."
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a sentence in the future perfect tense.",
+      "answer": "By Friday, she will have finished the book.",
+      "steps": [
+        "Choose a subject, the correct auxiliary or verb form, and a matching time context.",
+        "Will have + past participle marks completion before a future point."
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a sentence in the future continuous tense.",
+      "answer": "At eight tomorrow, she will be reading.",
+      "steps": [
+        "Choose a subject, the correct auxiliary or verb form, and a matching time context.",
+        "Will be + -ing marks an ongoing action at a future time."
+      ]
+    },
+    {
+      "id": "4(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a sentence in the past perfect tense.",
+      "answer": "She had finished the book before class began.",
+      "steps": [
+        "Choose a subject, the correct auxiliary or verb form, and a matching time context.",
+        "Had finished marks the earlier of two past events."
+      ]
+    },
+    {
+      "id": "4(v)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a sentence in the present continuous tense.",
+      "answer": "She is reading now.",
+      "steps": [
+        "Choose a subject, the correct auxiliary or verb form, and a matching time context.",
+        "Is + -ing marks an action ongoing now."
+      ]
+    },
+    {
+      "id": "4(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a sentence in the past continuous tense.",
+      "answer": "She was reading when I arrived.",
+      "steps": [
+        "Choose a subject, the correct auxiliary or verb form, and a matching time context.",
+        "Was + -ing gives the ongoing background to a past event."
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Section B — Language use",
+      "prompt": "Complete a future-work sentence for a barber.",
+      "answer": "A barber is going to cut customers’ hair tomorrow.",
+      "steps": [
+        "Use the model person + is going to + suitable work activity + tomorrow.",
+        "Cutting hair is a barber’s work."
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Complete a future-work sentence for a ambassador.",
+      "answer": "An ambassador is going to represent the country at a meeting tomorrow.",
+      "steps": [
+        "Use the model person + is going to + suitable work activity + tomorrow.",
+        "An ambassador represents a country diplomatically."
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Complete a future-work sentence for a butcher.",
+      "answer": "A butcher is going to prepare and sell meat tomorrow.",
+      "steps": [
+        "Use the model person + is going to + suitable work activity + tomorrow.",
+        "A butcher handles meat for sale."
+      ]
+    },
+    {
+      "id": "5(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Complete a future-work sentence for a clerk.",
+      "answer": "A clerk is going to organise office records tomorrow.",
+      "steps": [
+        "Use the model person + is going to + suitable work activity + tomorrow.",
+        "A clerk carries out administrative work."
+      ]
+    },
+    {
+      "id": "5(v)",
+      "section": "Section B — Language use",
+      "prompt": "Complete a future-work sentence for a cartographer.",
+      "answer": "A cartographer is going to draw a map tomorrow.",
+      "steps": [
+        "Use the model person + is going to + suitable work activity + tomorrow.",
+        "Cartographers make maps."
+      ]
+    },
+    {
+      "id": "5(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Complete a future-work sentence for a chandler.",
+      "answer": "A chandler is going to make and sell candles tomorrow.",
+      "steps": [
+        "Use the model person + is going to + suitable work activity + tomorrow.",
+        "Chandler traditionally means a candle maker or seller; a ship chandler supplies vessels, which is another legitimate meaning."
+      ]
+    },
+    {
+      "id": "6(i)",
+      "section": "Section B — Language use",
+      "prompt": "Who is Changarawe to Atupele?",
+      "answer": "Atupele’s great-grandchild.",
+      "steps": [
+        "Trace each relationship through the family described in the passage.",
+        "Atupele → Furaha → Majaliwa → Changarawe gives three generations downward."
+      ]
+    },
+    {
+      "id": "6(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Who is Halima to Baraka?",
+      "answer": "Baraka’s granddaughter.",
+      "steps": [
+        "Trace each relationship through the family described in the passage.",
+        "Halima is the child of Baraka’s child Furaha."
+      ]
+    },
+    {
+      "id": "6(iii)",
+      "section": "Section B — Language use",
+      "prompt": "How does Furaha relate to Atupele?",
+      "answer": "Furaha is Atupele’s daughter.",
+      "steps": [
+        "Trace each relationship through the family described in the passage.",
+        "The passage identifies Furaha and Amani as Atupele and Baraka’s children; Furaha is Majaliwa’s mother."
+      ]
+    },
+    {
+      "id": "6(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Who is Majaliwa’s father?",
+      "answer": "Ally.",
+      "steps": [
+        "Trace each relationship through the family described in the passage.",
+        "Furaha married Ally and their children include Majaliwa."
+      ]
+    },
+    {
+      "id": "6(v)",
+      "section": "Section B — Language use",
+      "prompt": "Why is Baraka Majaliwa’s grandfather?",
+      "answer": "Baraka is the father of Furaha, who is Majaliwa’s mother.",
+      "steps": [
+        "Trace each relationship through the family described in the passage.",
+        "Trace the parent-of-a-parent relationship."
+      ]
+    },
+    {
+      "id": "6(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Who is Furaha to Changarawe?",
+      "answer": "Changarawe’s grandmother.",
+      "steps": [
+        "Trace each relationship through the family described in the passage.",
+        "Furaha is the mother of Changarawe’s father Majaliwa."
+      ]
+    },
+    {
+      "id": "7(i)",
+      "section": "Section B — Language use",
+      "prompt": "Supply the article: I bought ___ orange at the market.",
+      "answer": "an",
+      "steps": [
+        "Decide whether the noun is indefinite, already known, specifically identified or unique.",
+        "Orange begins with a vowel sound."
+      ]
+    },
+    {
+      "id": "7(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Supply the article: Armstrong landed on ___ moon in 1952.",
+      "answer": "the",
+      "steps": [
+        "Decide whether the noun is indefinite, already known, specifically identified or unique.",
+        "The Moon is the particular astronomical body. The date in the sentence is incorrect: Apollo 11 landed in 1969."
+      ]
+    },
+    {
+      "id": "7(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Supply the article: Here is ___ man that I told you about.",
+      "answer": "the",
+      "steps": [
+        "Decide whether the noun is indefinite, already known, specifically identified or unique.",
+        "The following relative clause identifies the specific man."
+      ]
+    },
+    {
+      "id": "7(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Supply the article: ___ toy that I bought for my child was stolen.",
+      "answer": "The",
+      "steps": [
+        "Decide whether the noun is indefinite, already known, specifically identified or unique.",
+        "The relative clause identifies a particular toy."
+      ]
+    },
+    {
+      "id": "7(v)",
+      "section": "Section B — Language use",
+      "prompt": "Supply the article: I saw a woman. ___ woman is now playing tennis.",
+      "answer": "The",
+      "steps": [
+        "Decide whether the noun is indefinite, already known, specifically identified or unique.",
+        "The noun has already been introduced."
+      ]
+    },
+    {
+      "id": "7(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Supply the article: ___ sun is rising from north.",
+      "answer": "The",
+      "steps": [
+        "Decide whether the noun is indefinite, already known, specifically identified or unique.",
+        "The definite article fits the Sun. The geographical statement is faulty; the Sun generally rises in the east."
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Section B — Language use",
+      "prompt": "Write in indirect speech: Emillian said, “My mother has a cramp in her stomach.”",
+      "answer": "Emillian said that his mother had a cramp in her stomach.",
+      "steps": [
+        "Use said that, adjust viewpoint and apply the usual past reporting backshift.",
+        "Change my to his and has to had; her still refers to the mother."
+      ],
+      "tip": "If a reported condition is explicitly still true, retaining its present tense can be appropriate; these models use the standard examination backshift."
+    },
+    {
+      "id": "8(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Write in indirect speech: Sophia said, “I easily contract infectious diseases.”",
+      "answer": "Sophia said that she easily contracted infectious diseases.",
+      "steps": [
+        "Use said that, adjust viewpoint and apply the usual past reporting backshift.",
+        "Change I to she and present contract to past contracted."
+      ],
+      "tip": "If a reported condition is explicitly still true, retaining its present tense can be appropriate; these models use the standard examination backshift."
+    },
+    {
+      "id": "8(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Write in indirect speech: Victor said, “My young brother went into convulsions yesterday.”",
+      "answer": "Victor said that his younger brother had gone into convulsions the previous day.",
+      "steps": [
+        "Use said that, adjust viewpoint and apply the usual past reporting backshift.",
+        "Change my to his, went to had gone and yesterday to the previous day. Younger is the natural comparative for a sibling."
+      ],
+      "tip": "If a reported condition is explicitly still true, retaining its present tense can be appropriate; these models use the standard examination backshift."
+    },
+    {
+      "id": "8(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Write in indirect speech: Salma said, “I have got earache.”",
+      "answer": "Salma said that she had got earache.",
+      "steps": [
+        "Use said that, adjust viewpoint and apply the usual past reporting backshift.",
+        "Change I to she and have got to had got; had an earache is also natural."
+      ],
+      "tip": "If a reported condition is explicitly still true, retaining its present tense can be appropriate; these models use the standard examination backshift."
+    },
+    {
+      "id": "8(v)",
+      "section": "Section B — Language use",
+      "prompt": "Write in indirect speech: Abdul said, “My uncle suffered serious injuries when his car went off road and ran into a tree.”",
+      "answer": "Abdul said that his uncle had suffered serious injuries when his car had gone off the road and run into a tree.",
+      "steps": [
+        "Use said that, adjust viewpoint and apply the usual past reporting backshift.",
+        "Change my to his and backshift the past events. Had applies to both gone and run."
+      ],
+      "tip": "If a reported condition is explicitly still true, retaining its present tense can be appropriate; these models use the standard examination backshift."
+    },
+    {
+      "id": "8(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Write in indirect speech: Hassan said, “I ache all over my body.”",
+      "answer": "Hassan said that he ached all over his body.",
+      "steps": [
+        "Use said that, adjust viewpoint and apply the usual past reporting backshift.",
+        "Change I/my to he/his and ache to ached."
+      ],
+      "tip": "If a reported condition is explicitly still true, retaining its present tense can be appropriate; these models use the standard examination backshift."
+    },
+    {
+      "id": "9(a)(i)",
+      "section": "Section C — Literature",
+      "prompt": "Explain the theme of Love in My Mom.",
+      "answer": "The persona expresses deep love for the mother and values her as a unique person.",
+      "steps": [
+        "Identify a relevant statement in the supplied poem.",
+        "Use the opening declaration of affection and explain its sincerity."
+      ]
+    },
+    {
+      "id": "9(a)(ii)",
+      "section": "Section C — Literature",
+      "prompt": "Explain the theme of Poverty and hardship in My Mom.",
+      "answer": "The mother experiences a miserable life and the risk of hunger; the child hopes to remove this hardship.",
+      "steps": [
+        "Identify a relevant statement in the supplied poem.",
+        "Connect references to starvation and misery with material difficulties."
+      ]
+    },
+    {
+      "id": "9(a)(iii)",
+      "section": "Section C — Literature",
+      "prompt": "Explain the theme of Responsibility and cooperation in My Mom.",
+      "answer": "The persona plans to join with the brothers in providing the mother a better life.",
+      "steps": [
+        "Identify a relevant statement in the supplied poem.",
+        "Explain how the shared obligation turns affection into a duty of care."
+      ]
+    },
+    {
+      "id": "9(a)(iv)",
+      "section": "Section C — Literature",
+      "prompt": "Explain the theme of Hope and optimism in My Mom.",
+      "answer": "The persona believes that growing older will make it possible to improve the mother’s life.",
+      "steps": [
+        "Identify a relevant statement in the supplied poem.",
+        "The future promises show confidence that present difficulties need not continue."
+      ]
+    },
+    {
+      "id": "9(b)(i)",
+      "section": "Section C — Literature",
+      "prompt": "Give one message about parents.",
+      "answer": "Children should value their parents and show love through practical care.",
+      "steps": [
+        "Turn the poem’s experience into a general lesson supported by its wording.",
+        "The persona promises support beside the mother rather than offering affection only in words."
+      ]
+    },
+    {
+      "id": "9(b)(ii)",
+      "section": "Section C — Literature",
+      "prompt": "Give one message about family cooperation.",
+      "answer": "Family members should work together to help a parent overcome hardship.",
+      "steps": [
+        "Turn the poem’s experience into a general lesson supported by its wording.",
+        "The plan to involve the brothers supports shared responsibility."
+      ]
+    },
+    {
+      "id": "10",
+      "section": "Section C — Literature",
+      "prompt": "Show how conflict harms people physically or mentally, with three points from each of two plays.",
+      "answer": "Model response:\nConflict can damage people’s security, judgement and emotional wellbeing. Three Suitors: One Husband by Guillaume Oyono Mbia and This Time Tomorrow by Ngugi wa Thiong’o illustrate different pressures on individuals.\nIn Three Suitors: One Husband, Juliette’s conflict with her elders over a husband causes distress because her preference for Oko is denied. Being treated as a source of bride wealth makes her struggle to secure control of her future. The rivalry surrounding Ndi and Mbia also turns marriage into a competition over payments and prestige. Those who have paid face anger and disappointment when their expected agreement fails, showing how a commercial approach to marriage damages relationships. A third consequence concerns Atangana and the missing money. His anxiety produces dependence on Sangatiti’s supposed powers rather than sound judgement. Financial conflict therefore encourages further manipulation and emotional confusion.\nIn This Time Tomorrow, the authorities’ demolition plan places Njango under severe mental pressure. Her small business and shelter represent survival, so the threatened loss creates fear of destitution. Wanjiuru also suffers uncertainty about her future: conflict between the poor residents’ needs and official plans denies her a secure place from which to pursue a better life. Finally, the Stranger’s call for collective resistance raises hope, but the residents’ difficulty in sustaining unity leaves that hope disappointed. Their inability to protect the settlement exposes how powerlessness intensifies anxiety and frustration.\nBoth plays show that destructive conflict is more than an argument. It pressures personal choice, disrupts livelihoods and weakens clear judgement. Respectful negotiation and attention to the needs of vulnerable people would address the sources of these harms.",
+      "steps": [
+        "Choose the two plays and identify three distinct consequences in each.",
+        "For every point, link the conflict to a named character’s distress, insecurity or impaired judgement.",
+        "The question allows mental harm; do not invent physical injuries that the plays do not establish."
+      ]
+    },
+    {
+      "id": "11",
+      "section": "Section C — Literature",
+      "prompt": "Show that betrayal breaks an agreement or trust, giving three points from each of two novels.",
+      "answer": "Model response:\nBetrayal requires a relationship carrying an expectation of loyalty, honesty or care. Such an agreement may be explicit, as in marriage, or implicit in a trusted relationship. Passed Like a Shadow by B. M. Mapalala and Unanswered Cries by Osman Conteh demonstrate its breach.\nIn Passed Like a Shadow, Adyeri’s relationship with Birungi violates the faithfulness expected in his marriage to Amoti. The breach hurts the household and reveals that marital loyalty carries obligations. Birungi herself abandons Adyeri when he becomes ill after benefiting from his support. Her refusal to shelter him contradicts the expectation of mutual care in their partnership. John’s treatment of Abooki offers a third example. After gaining her trust, he drugs her drink and assaults her. This is a grave violation of the safety expected in friendship, rather than merely a disagreement between people.\nIn Unanswered Cries, Ade Jones’ relationships with other women betray Makalay’s expectation of fidelity in marriage. An existing partnership is the basis of the disloyalty. Eddy’s contrary testimony in court betrays Olabisi because it breaks the understanding on which she expected his support. His change of position exposes the difference between an honest disagreement and a reversal after trust has been established. Makalay’s attempt to force cutting on Olabisi can also be understood as a breach of parental trust. A mother is expected to safeguard her daughter, yet pressure to conform overrides the girl’s wishes and bodily security. This third agreement is an implicit duty of care, not a quoted formal promise.\nThe novels consequently show that betrayal depends on a prior obligation. Marriage, partnership, friendship and parental care make conduct morally significant because people rely on the loyalty and protection they imply.",
+      "steps": [
+        "Identify the prior promise or expectation before describing the act that violates it.",
+        "Use three supported examples in each novel and explain the harm to the person who relied on the relationship.",
+        "Distinguish explicit agreements from implicit duties; avoid inventing dialogue in which a promise was supposedly made."
+      ]
+    }
+  ],
+  "summaries": {
+    "Section A — Objective questions": "Guide words narrow a dictionary search. Neither … nor rejects both items; both … and includes them. Monetary amounts can take singular agreement.",
+    "Section B — Language use": "Separate poet from persona. Future perfect means completion before a future point. Trace kinship generation by generation, and do not let an incorrect factual statement affect the article needed.",
+    "Section C — Literature": "A theme is an issue developed in a poem; a message is a lesson inferred from it. Essays need named events and a clear link to conflict or betrayal."
+  },
+  "labelling_note": "All Section C questions are solved for revision. Question 7(ii) gives the wrong Moon-landing year, and 7(vi) gives the wrong general sunrise direction; grammar answers and factual corrections are separated.",
+  "references": [
+    {
+      "title": "NECTA English CSEE 2024 — assessment and literature checks",
+      "url": "https://necta.go.tz/publications/Performance%20Analysis%20Books/Candidates%27%20Item%20Response%20Analysis%20%28CIRA%29%20Reports%20/CSEE/2024/022_ENGLISH%20LANGUAGE.pdf"
+    }
+  ]
+}

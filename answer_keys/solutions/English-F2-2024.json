@@ -1,0 +1,610 @@
+{
+  "exam": "English-F2-2024.pdf",
+  "output": "English-F2-2024-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Form Two",
+  "year": "2024",
+  "code": "022",
+  "exam_type": "Form Two National Assessment (FTNA)",
+  "question_count": "10 compulsory questions; 52 answered parts",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "0cb716c0571976ac3f994ba936db67ad968e43f47cca69873f363b02109ce721",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(ix)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "5(vi)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)",
+    "7(v)",
+    "8(i)",
+    "8(ii)",
+    "8(iii)",
+    "8(iv)",
+    "8(v)",
+    "9(i)",
+    "9(ii)",
+    "9(iii)",
+    "9(iv)",
+    "9(v)",
+    "10"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Section A — Objective questions",
+      "prompt": "Which official-form item asks whether you are married?",
+      "answer": "D — Marital status.",
+      "steps": [
+        "Read the question’s key expression and compare the options.",
+        "Marital status describes marriage status; surname and other names identify a person."
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Section A — Objective questions",
+      "prompt": "What is a synonym of furious?",
+      "answer": "B — Angry.",
+      "steps": [
+        "Read the question’s key expression and compare the options.",
+        "Furious means extremely angry, rather than sad, happy or excited."
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Section A — Objective questions",
+      "prompt": "In “at the school gate”, what does at indicate?",
+      "answer": "A — A certain place.",
+      "steps": [
+        "Read the question’s key expression and compare the options.",
+        "The school gate is the specified meeting location."
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Section A — Objective questions",
+      "prompt": "“I didn’t find anybody in the classroom” means what?",
+      "answer": "D — Nobody was there.",
+      "steps": [
+        "Read the question’s key expression and compare the options.",
+        "Not anybody is equivalent to nobody."
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Section A — Objective questions",
+      "prompt": "What question should a father ask about a loud noise happening now?",
+      "answer": "C — What is happening outside?",
+      "steps": [
+        "Read the question’s key expression and compare the options.",
+        "Is happening uses present continuous for an event occurring at the moment."
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Section A — Objective questions",
+      "prompt": "Which set describes repeated actions?",
+      "answer": "C — Daily, usually, always.",
+      "steps": [
+        "Read the question’s key expression and compare the options.",
+        "All three indicate frequency; the other sets mix unrelated past or future time expressions."
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Which question does not directly ask a mango’s price?",
+      "answer": "A — How do you sell mangoes?",
+      "steps": [
+        "Read the question’s key expression and compare the options.",
+        "How do asks about manner. How much and cost directly ask about price."
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Which sentence expresses a future habit?",
+      "answer": "B — I will be eating lunch at 1:00 p.m. from next Monday.",
+      "steps": [
+        "Read the question’s key expression and compare the options.",
+        "From next Monday indicates a routine beginning then; the other choices describe one event or completion."
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Section A — Objective questions",
+      "prompt": "Halima and Sankole are going to marry in two weeks. What does this mean?",
+      "answer": "D — The ceremony will take place within two weeks, is the intended future option.",
+      "steps": [
+        "Read the question’s key expression and compare the options.",
+        "Going to marry points forward. A, B and C describe past events."
+      ],
+      "tip": "“In two weeks” means about two weeks from now; “within two weeks” means no later than two weeks from now. D is the only future option but is not an exact paraphrase."
+    },
+    {
+      "id": "1(x)",
+      "section": "Section A — Objective questions",
+      "prompt": "Which newspaper statement presents factual information?",
+      "answer": "B — 75% of Form II students passed their National Assessment last year.",
+      "steps": [
+        "Read the question’s key expression and compare the options.",
+        "This is a checkable numerical claim. I think, likely and might identify opinion or uncertainty."
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match: Causing pain and suffering.",
+      "answer": "E — Cruelty.",
+      "steps": [
+        "Identify the quality described and select its label.",
+        "Cruelty involves hurting others."
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match: Wanting more things than one needs.",
+      "answer": "A — Greed.",
+      "steps": [
+        "Identify the quality described and select its label.",
+        "Greed is excessive desire to acquire."
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match: Doing things quietly and carefully.",
+      "answer": "G — Gentleness.",
+      "steps": [
+        "Identify the quality described and select its label.",
+        "Gentleness contrasts with rough handling."
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match: Being willing to help other people.",
+      "answer": "C — Good-heartedness.",
+      "steps": [
+        "Identify the quality described and select its label.",
+        "Good-heartedness describes kindness and concern."
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match: Being willing to give freely.",
+      "answer": "B — Generosity.",
+      "steps": [
+        "Identify the quality described and select its label.",
+        "Generosity specifically involves giving willingly."
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Section B — Language use",
+      "prompt": "Give an important invitation-card element: Name the people involved.",
+      "answer": "The host’s name and the person or people invited.",
+      "steps": [
+        "Think about the information a guest needs in order to attend.",
+        "Guests should know who is inviting them and to whom the card is addressed."
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Give an important invitation-card element: State why the event is being held.",
+      "answer": "The occasion or purpose of the invitation.",
+      "steps": [
+        "Think about the information a guest needs in order to attend.",
+        "Identify whether it is a wedding, birthday or another event."
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Give an important invitation-card element: State where guests should go.",
+      "answer": "The venue, including an adequate location or address.",
+      "steps": [
+        "Think about the information a guest needs in order to attend.",
+        "A named place lets guests find the event."
+      ]
+    },
+    {
+      "id": "3(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Give an important invitation-card element: State the day of the event.",
+      "answer": "The event’s date.",
+      "steps": [
+        "Think about the information a guest needs in order to attend.",
+        "Give an unambiguous day, month and year where relevant."
+      ]
+    },
+    {
+      "id": "3(v)",
+      "section": "Section B — Language use",
+      "prompt": "Give an important invitation-card element: State when the event starts.",
+      "answer": "The starting time, and ending time if needed.",
+      "steps": [
+        "Think about the information a guest needs in order to attend.",
+        "Time allows guests to plan attendance; an RSVP contact is an additional useful field."
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Section B — Language use",
+      "prompt": "Which two word classes can horn belong to?",
+      "answer": "Noun and verb.",
+      "steps": [
+        "Locate the requested label or numbered sense in the dictionary extract.",
+        "The extract labels the headword noun, verb."
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Give the fifth noun meaning of horn.",
+      "answer": "A device in a vehicle that makes a loud sound as a warning or signal.",
+      "steps": [
+        "Locate the requested label or numbered sense in the dictionary extract.",
+        "Find sense number 5 rather than an earlier animal or musical meaning."
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Write the pronunciation of horn.",
+      "answer": "British /hɔːn/; American /hɔːrn/.",
+      "steps": [
+        "Locate the requested label or numbered sense in the dictionary extract.",
+        "The entry gives a long vowel, with a pronounced r in the American form."
+      ]
+    },
+    {
+      "id": "4(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Give one idiom from the extract.",
+      "answer": "“On the horns of a dilemma”: faced with two equally unpleasant alternatives.",
+      "steps": [
+        "Locate the requested label or numbered sense in the dictionary extract.",
+        "Choose one expression labelled as an idiom, rather than a literal animal horn. “Blow your own horn” is another acceptable example."
+      ]
+    },
+    {
+      "id": "4(v)",
+      "section": "Section B — Language use",
+      "prompt": "What does the phrasal verb horn in (on somebody/something) mean?",
+      "answer": "To interfere or involve oneself in a situation that does not concern one.",
+      "steps": [
+        "Locate the requested label or numbered sense in the dictionary extract.",
+        "Read the separate phrasal-verb section at the end of the entry."
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Section B — Language use",
+      "prompt": "Write a meaningful football-match sentence containing match / jogging (the supplied example).",
+      "answer": "Before the match, players were jogging.",
+      "steps": [
+        "Use both supplied expressions in one grammatical sentence.",
+        "The sentence includes both expressions and sets an action before the match."
+      ],
+      "tip": "These are example sentences, not claims about an actual Simba–Yanga match."
+    },
+    {
+      "id": "5(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Write a meaningful football-match sentence containing referee / whistle.",
+      "answer": "The referee blew the whistle to start the match.",
+      "steps": [
+        "Use both supplied expressions in one grammatical sentence.",
+        "Make referee the subject and whistle the object of blew."
+      ],
+      "tip": "These are example sentences, not claims about an actual Simba–Yanga match."
+    },
+    {
+      "id": "5(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Write a meaningful football-match sentence containing striker / goal.",
+      "answer": "The striker scored a goal in the second half.",
+      "steps": [
+        "Use both supplied expressions in one grammatical sentence.",
+        "Use the football expression scored a goal."
+      ],
+      "tip": "These are example sentences, not claims about an actual Simba–Yanga match."
+    },
+    {
+      "id": "5(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Write a meaningful football-match sentence containing spectators / stadium.",
+      "answer": "The spectators cheered their team in the stadium.",
+      "steps": [
+        "Use both supplied expressions in one grammatical sentence.",
+        "The plural spectators takes a suitable past action and a location."
+      ],
+      "tip": "These are example sentences, not claims about an actual Simba–Yanga match."
+    },
+    {
+      "id": "5(v)",
+      "section": "Section B — Language use",
+      "prompt": "Write a meaningful football-match sentence containing winger / goalkeeper.",
+      "answer": "The winger’s shot was saved by the goalkeeper.",
+      "steps": [
+        "Use both supplied expressions in one grammatical sentence.",
+        "Both player roles occur in one coherent match event."
+      ],
+      "tip": "These are example sentences, not claims about an actual Simba–Yanga match."
+    },
+    {
+      "id": "5(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Write a meaningful football-match sentence containing centre half / offside.",
+      "answer": "The centre half appealed when the opposing striker was offside.",
+      "steps": [
+        "Use both supplied expressions in one grammatical sentence.",
+        "The sentence gives the defender an action and correctly applies offside to an attacking player."
+      ],
+      "tip": "These are example sentences, not claims about an actual Simba–Yanga match."
+    },
+    {
+      "id": "6(i)",
+      "section": "Section B — Language use",
+      "prompt": "What does the team do on Tuesday?",
+      "answer": "Heavy training, followed by rest and soft drinks.",
+      "steps": [
+        "Read the weekly routine’s day, period and activity together.",
+        "Read the Tuesday morning row."
+      ]
+    },
+    {
+      "id": "6(ii)",
+      "section": "Section B — Language use",
+      "prompt": "What does the team do on Thursday?",
+      "answer": "A long run and watching videos of other teams’ games.",
+      "steps": [
+        "Read the weekly routine’s day, period and activity together.",
+        "Read both activities in the Thursday morning-and-evening row."
+      ]
+    },
+    {
+      "id": "6(iii)",
+      "section": "Section B — Language use",
+      "prompt": "When does the team receive injury treatment?",
+      "answer": "On Monday morning.",
+      "steps": [
+        "Read the weekly routine’s day, period and activity together.",
+        "Treatment is listed in Monday’s morning period."
+      ]
+    },
+    {
+      "id": "6(iv)",
+      "section": "Section B — Language use",
+      "prompt": "On which day does the team rest and take soft drinks?",
+      "answer": "Tuesday.",
+      "steps": [
+        "Read the weekly routine’s day, period and activity together.",
+        "Both are listed under Tuesday."
+      ]
+    },
+    {
+      "id": "6(v)",
+      "section": "Section B — Language use",
+      "prompt": "When do players receive the match plan?",
+      "answer": "Friday, in the morning-and-afternoon period shown.",
+      "steps": [
+        "Read the weekly routine’s day, period and activity together.",
+        "The Friday row says the coach gives the plan; the table does not specify a more exact hour."
+      ]
+    },
+    {
+      "id": "7(i)",
+      "section": "Section B — Language use",
+      "prompt": "Who left the telephone message?",
+      "answer": "Mr. Kingu.",
+      "steps": [
+        "Use the information explicitly stated in the telephone conversation.",
+        "He is the caller and explicitly says he left the message."
+      ]
+    },
+    {
+      "id": "7(ii)",
+      "section": "Section B — Language use",
+      "prompt": "For whom was the message intended?",
+      "answer": "Uledi’s mother, Mrs. Kingu.",
+      "steps": [
+        "Use the information explicitly stated in the telephone conversation.",
+        "Mr. Kingu first asks to speak to her, then asks Uledi to pass it on."
+      ]
+    },
+    {
+      "id": "7(iii)",
+      "section": "Section B — Language use",
+      "prompt": "At what time was the message left?",
+      "answer": "11:00 a.m.",
+      "steps": [
+        "Use the information explicitly stated in the telephone conversation.",
+        "The caller states this time directly."
+      ]
+    },
+    {
+      "id": "7(iv)",
+      "section": "Section B — Language use",
+      "prompt": "On what date was it given?",
+      "answer": "11 September 2024.",
+      "steps": [
+        "Use the information explicitly stated in the telephone conversation.",
+        "The caller gives this date after the time."
+      ]
+    },
+    {
+      "id": "7(v)",
+      "section": "Section B — Language use",
+      "prompt": "What was the message?",
+      "answer": "Mr. Kingu’s mobile phone had been stolen. His wife should contact him through Mr. Upatu, with whom he would be staying for the whole week.",
+      "steps": [
+        "Use the information explicitly stated in the telephone conversation.",
+        "Include both the reason ordinary contact will fail and the alternative way to reach him."
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Section B — Language use",
+      "prompt": "State one useful consideration when taking meeting notes.",
+      "answer": "Listen carefully and identify the main ideas.",
+      "steps": [
+        "Give a practical note-taking action rather than an unrelated classroom habit.",
+        "Understanding the speaker’s argument comes before writing details."
+      ]
+    },
+    {
+      "id": "8(ii)",
+      "section": "Section B — Language use",
+      "prompt": "State one useful consideration when taking meeting notes.",
+      "answer": "Record important facts, decisions, names and figures.",
+      "steps": [
+        "Give a practical note-taking action rather than an unrelated classroom habit.",
+        "These details support the main ideas and should be accurate."
+      ]
+    },
+    {
+      "id": "8(iii)",
+      "section": "Section B — Language use",
+      "prompt": "State one useful consideration when taking meeting notes.",
+      "answer": "Use brief phrases, familiar abbreviations and symbols.",
+      "steps": [
+        "Give a practical note-taking action rather than an unrelated classroom habit.",
+        "Concise notation helps keep up without trying to transcribe every word."
+      ]
+    },
+    {
+      "id": "8(iv)",
+      "section": "Section B — Language use",
+      "prompt": "State one useful consideration when taking meeting notes.",
+      "answer": "Organise notes with headings, numbers or clear indentation.",
+      "steps": [
+        "Give a practical note-taking action rather than an unrelated classroom habit.",
+        "Organisation preserves relationships between ideas and makes later reading easier."
+      ]
+    },
+    {
+      "id": "8(v)",
+      "section": "Section B — Language use",
+      "prompt": "State one useful consideration when taking meeting notes.",
+      "answer": "Review the notes promptly and clarify missing or unclear details.",
+      "steps": [
+        "Give a practical note-taking action rather than an unrelated classroom habit.",
+        "Expand ambiguous abbreviations and check questions while the meeting is still fresh."
+      ]
+    },
+    {
+      "id": "9(i)",
+      "section": "Section B — Language use",
+      "prompt": "Compose a sentence using Like.",
+      "answer": "I like reading storybooks.",
+      "steps": [
+        "Choose a complete subject-and-verb construction showing the word’s meaning.",
+        "Like can be followed by a noun or an -ing activity."
+      ]
+    },
+    {
+      "id": "9(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Compose a sentence using Dislike.",
+      "answer": "I dislike wasting time.",
+      "steps": [
+        "Choose a complete subject-and-verb construction showing the word’s meaning.",
+        "Dislike followed by wasting describes a negative preference."
+      ]
+    },
+    {
+      "id": "9(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Compose a sentence using Hobby.",
+      "answer": "My favourite hobby is gardening.",
+      "steps": [
+        "Choose a complete subject-and-verb construction showing the word’s meaning.",
+        "Hobby is a noun naming a leisure activity."
+      ]
+    },
+    {
+      "id": "9(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Compose a sentence using Enjoy.",
+      "answer": "I enjoy playing volleyball.",
+      "steps": [
+        "Choose a complete subject-and-verb construction showing the word’s meaning.",
+        "Enjoy takes an -ing complement here."
+      ]
+    },
+    {
+      "id": "9(v)",
+      "section": "Section B — Language use",
+      "prompt": "Compose a sentence using Prefer.",
+      "answer": "I prefer reading to watching television.",
+      "steps": [
+        "Choose a complete subject-and-verb construction showing the word’s meaning.",
+        "Use prefer A to B and keep parallel -ing forms."
+      ]
+    },
+    {
+      "id": "10",
+      "section": "Section C — Reading programme",
+      "prompt": "Explain three good practices from each of two prescribed readers that people should imitate.",
+      "answer": "Model response:\nLiterature offers examples of conduct that improves daily life. In Hawa the Bus Driver and Mabala the Farmer, R. S. Mabala presents practices worth imitating through Hawa and Mauja.\nFirst, Hawa shows dedication by working as a bus driver and transporting passengers. Her example encourages people to develop useful skills and take their duties seriously. Second, she acts courageously when a drunken man causes trouble on her bus: she removes him to protect the passengers. People should imitate her willingness to oppose behaviour that endangers others. Third, when a boy is knocked down by a vehicle, Hawa takes him to hospital. Helping an injured person shows compassion expressed through immediate action. Communities benefit when people respond to others' needs instead of simply watching.\nMauja demonstrates hard work by digging, planting and weeding on the farm. Her effort helps support the family, showing why people should contribute rather than expect others to do everything. She also weaves mats to earn income. This resourcefulness is worth imitating because using practical skills can improve a household's livelihood. Finally, she advises Mabala and other villagers. Sharing useful knowledge helps people solve problems, while her guidance encourages her husband to become more responsible. We should therefore offer constructive advice and be willing to learn from it.\nThe readers encourage dedication, protective courage, compassion, hard work, resourcefulness and helpful guidance. Following these practices can strengthen cooperation and reduce avoidable hardship in our own communities.",
+      "steps": [
+        "Plan exactly three good practices per reader and choose character actions to support them.",
+        "Use Hawa's professional work, removal of the drunken passenger and help for the injured boy; use Mauja's farm work, mat weaving and advice. Explain why each practice should be imitated.",
+        "Explain why each practice matters in real life. Finish with a conclusion bringing the six points together."
+      ],
+      "tip": "This independently written model may be adapted to other prescribed readers when the evidence is accurate."
+    }
+  ],
+  "summaries": {
+    "Section A — Objective questions": "Frequency words identify habits. Distinguish a location from a time and a factual assertion from an opinion.",
+    "Section B — Language use": "Use the numbered dictionary sense requested. Timetable and message answers must preserve dates, periods and names exactly.",
+    "Section C — Reading programme": "Connect a positive practice to a character’s action, then explain why the community would benefit from imitating it."
+  },
+  "labelling_note": "Some scanned pages are out of printed order; answers follow the question labels. Question 1(ix) has a future option that is less precise than “in two weeks”; the distinction is explained.",
+  "references": [
+    {
+      "title": "NECTA English FTNA 2023 — reader episodes and character roles",
+      "url": "https://onlinesys.necta.go.tz/cira/ftna/2023/022_ENGLISH_LANGUAGE.pdf"
+    }
+  ]
+}

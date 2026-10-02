@@ -11,10 +11,15 @@ ai_bp = Blueprint("ai", __name__)
 @csrf.exempt  # API endpoint uses JSON, not form submission
 def ask():
     data = request.get_json(silent=True) or {}
+    if not isinstance(data, dict) or not isinstance(data.get("query", ""), str):
+        return jsonify({"error": "Please enter a text question."}), 400
     query = data.get("query", "").strip()
 
     if not query:
         return jsonify({"error": "No query provided."}), 400
+
+    if len(query) > 4000:
+        return jsonify({"error": "Please keep your question under 4,000 characters."}), 400
 
     api_key = current_app.config.get("OPENAI_API_KEY")
     if not api_key:

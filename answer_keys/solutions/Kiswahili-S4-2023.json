@@ -1,0 +1,329 @@
+{
+  "exam": "Kiswahili-S4-2023.pdf",
+  "output": "Kiswahili-S4-2023-AnswerKey.pdf",
+  "subject": "Kiswahili",
+  "level": "Darasa la Nne",
+  "year": "2023",
+  "code": "01",
+  "exam_type": "Upimaji wa Kitaifa wa Darasa la Nne (SFNA)",
+  "question_count": "Maswali 5; vipengele 27 pamoja na mifano",
+  "language": "sw",
+  "reviewed": true,
+  "expected_parts": [
+    "A(i)",
+    "A(ii)",
+    "A(iii)",
+    "A(iv)",
+    "A(v)",
+    "B(i)",
+    "B(ii)",
+    "B(iii)",
+    "B(iv)",
+    "B(v)",
+    "B(vi)",
+    "C(i)",
+    "C(ii)",
+    "C(iii)",
+    "C(iv)",
+    "C(v)",
+    "D(i)",
+    "D(ii)",
+    "D(iii)",
+    "D(iv)",
+    "D(v)",
+    "D(vi)",
+    "E(i)",
+    "E(ii)",
+    "E(iii)",
+    "E(iv)",
+    "E(v)"
+  ],
+  "questions": [
+    {
+      "id": "A(i)",
+      "section": "Sehemu A: Imla",
+      "prompt": "Andika sentensi ya imla ya 1.",
+      "steps": [
+        "Sikiliza sentensi nzima kwanza, kisha tambua maneno yake na uyaandike kwa mpangilio ulioyasikia.",
+        "Anza kwa herufi kubwa, acha nafasi baina ya maneno, na malizia kwa nukta. Hakiki tahajia wakati wa kusoma kwa mara ya mwisho."
+      ],
+      "answer": "Nywele zako ni fupi."
+    },
+    {
+      "id": "A(ii)",
+      "section": "Sehemu A: Imla",
+      "prompt": "Andika sentensi ya imla ya 2.",
+      "steps": [
+        "Sikiliza sentensi nzima kwanza, kisha tambua maneno yake na uyaandike kwa mpangilio ulioyasikia.",
+        "Anza kwa herufi kubwa, acha nafasi baina ya maneno, na malizia kwa nukta. Hakiki tahajia wakati wa kusoma kwa mara ya mwisho."
+      ],
+      "answer": "Gharama ya umeme imezidi."
+    },
+    {
+      "id": "A(iii)",
+      "section": "Sehemu A: Imla",
+      "prompt": "Andika sentensi ya imla ya 3.",
+      "steps": [
+        "Sikiliza sentensi nzima kwanza, kisha tambua maneno yake na uyaandike kwa mpangilio ulioyasikia.",
+        "Anza kwa herufi kubwa, acha nafasi baina ya maneno, na malizia kwa nukta. Hakiki tahajia wakati wa kusoma kwa mara ya mwisho."
+      ],
+      "answer": "Mheshimiwa Rais amehutubia bunge."
+    },
+    {
+      "id": "A(iv)",
+      "section": "Sehemu A: Imla",
+      "prompt": "Andika sentensi ya imla ya 4.",
+      "steps": [
+        "Sikiliza sentensi nzima kwanza, kisha tambua maneno yake na uyaandike kwa mpangilio ulioyasikia.",
+        "Anza kwa herufi kubwa, acha nafasi baina ya maneno, na malizia kwa nukta. Hakiki tahajia wakati wa kusoma kwa mara ya mwisho."
+      ],
+      "answer": "Amesimama ng’ambo ya mto."
+    },
+    {
+      "id": "A(v)",
+      "section": "Sehemu A: Imla",
+      "prompt": "Andika sentensi ya imla ya 5.",
+      "steps": [
+        "Sikiliza sentensi nzima kwanza, kisha tambua maneno yake na uyaandike kwa mpangilio ulioyasikia.",
+        "Anza kwa herufi kubwa, acha nafasi baina ya maneno, na malizia kwa nukta. Hakiki tahajia wakati wa kusoma kwa mara ya mwisho."
+      ],
+      "answer": "Ndoo hii ni chafu."
+    },
+    {
+      "id": "B(i)",
+      "section": "Sehemu B: Sarufi na Msamiati",
+      "prompt": "Tambua wakati: Kaka anaimba nyimbo vizuri. (Mfano uliotolewa.)",
+      "steps": [
+        "Tafuta kiambishi cha wakati katika kitenzi anaimba.",
+        "Kiambishi -na- kinaonesha kitendo kinachofanyika sasa."
+      ],
+      "answer": "Wakati uliopo."
+    },
+    {
+      "id": "B(ii)",
+      "section": "Sehemu B: Sarufi na Msamiati",
+      "prompt": "Tambua wakati: Daktari alimtibu mgonjwa wetu.",
+      "steps": [
+        "Katika alimtibu, kiambishi cha wakati ni -li-.",
+        "Kiambishi hiki huonesha kitendo kilichofanyika kabla ya sasa."
+      ],
+      "answer": "Wakati uliopita."
+    },
+    {
+      "id": "B(iii)",
+      "section": "Sehemu B: Sarufi na Msamiati",
+      "prompt": "Tambua wakati: Baba yangu ataandika barua.",
+      "steps": [
+        "Tafuta -ta- katika ataandika.",
+        "Kiambishi kinaonesha kitendo ambacho hakijafanyika bado."
+      ],
+      "answer": "Wakati ujao."
+    },
+    {
+      "id": "B(iv)",
+      "section": "Sehemu B: Sarufi na Msamiati",
+      "prompt": "Tambua wakati: Wanafunzi wanafanya mtihani wao.",
+      "steps": [
+        "Kitenzi wanafanya kina kiambishi -na-.",
+        "Hiki kinaonesha kitendo cha sasa."
+      ],
+      "answer": "Wakati uliopo."
+    },
+    {
+      "id": "B(v)",
+      "section": "Sehemu B: Sarufi na Msamiati",
+      "prompt": "Tambua wakati: Kuku walitaga mayai mengi.",
+      "steps": [
+        "Kitenzi walitaga kina kiambishi -li-.",
+        "Kitendo cha kutaga kilifanyika katika kipindi kilichopita."
+      ],
+      "answer": "Wakati uliopita."
+    },
+    {
+      "id": "B(vi)",
+      "section": "Sehemu B: Sarufi na Msamiati",
+      "prompt": "Tambua wakati: Baba na mama watalima shamba lote.",
+      "steps": [
+        "Kitenzi watalima kina kiambishi -ta-.",
+        "Kitendo cha kulima kinatarajiwa kufanyika baadaye."
+      ],
+      "answer": "Wakati ujao."
+    },
+    {
+      "id": "C(i)",
+      "section": "Sehemu C: Methali, Nahau na Vitendawili",
+      "prompt": "Tegua: Askari wangu mpole lakini adui wanamhara. Chagua paka, mbwa au mbuzi.",
+      "steps": [
+        "Fikiria mnyama anayemlinda mwenye nyumba.",
+        "Mbwa anaweza kuwa mpole kwa mwenyewe lakini kuogopwa na wanaoivamia nyumba."
+      ],
+      "answer": "Mbwa."
+    },
+    {
+      "id": "C(ii)",
+      "section": "Sehemu C: Methali, Nahau na Vitendawili",
+      "prompt": "Tegua: Bibi hachoki kunibeba. Chagua kiti, kochi au kitanda.",
+      "steps": [
+        "Tafuta kifaa kinachokubeba kila unapolala bila kuchoka.",
+        "Kitanda kimepewa sifa za binadamu kwa lugha ya picha."
+      ],
+      "answer": "Kitanda."
+    },
+    {
+      "id": "C(iii)",
+      "section": "Sehemu C: Methali, Nahau na Vitendawili",
+      "prompt": "Tegua: Nyumba yangu ina nguzo moja. Chagua kalamu, uyoga au mlango.",
+      "steps": [
+        "Fikiria umbo lenye kifuniko juu na shina moja chini.",
+        "Uyoga una kofia inayoshikiliwa na shina moja."
+      ],
+      "answer": "Uyoga."
+    },
+    {
+      "id": "C(iv)",
+      "section": "Sehemu C: Methali, Nahau na Vitendawili",
+      "prompt": "Tegua: Mzungu katoka Ulaya na mkono kiunoni. Chagua mkoba, ndoo au kikombe.",
+      "steps": [
+        "Mkono kiunoni ni picha ya kishikio kilicho upande wa kifaa.",
+        "Kikombe kina kishikio cha pembeni kinachofanana na mkono uliowekwa kiunoni."
+      ],
+      "answer": "Kikombe."
+    },
+    {
+      "id": "C(v)",
+      "section": "Sehemu C: Methali, Nahau na Vitendawili",
+      "prompt": "Tegua: Tajiri wa rangi. Chagua nyumba, mawingu au kinyonga.",
+      "steps": [
+        "Tajiri wa rangi humaanisha mwenye uwezo wa kuwa na rangi mbalimbali.",
+        "Kinyonga ana uwezo wa kubadili rangi."
+      ],
+      "answer": "Kinyonga."
+    },
+    {
+      "id": "D(i)",
+      "section": "Sehemu D: Uandishi na Utungaji",
+      "prompt": "Thibitisha mfano (i): Hatimaye Kaposo alipelekwa hospitali.",
+      "steps": [
+        "Hatimaye huonesha tukio la mwisho.",
+        "Hospitali inakuja baada ya kuumwa na nyuki."
+      ],
+      "answer": "F."
+    },
+    {
+      "id": "D(ii)",
+      "section": "Sehemu D: Uandishi na Utungaji",
+      "prompt": "Panga (ii): Nyuki walikasirika, wakamfukuza na kumuuma Kaposo.",
+      "steps": [
+        "Nyuki humshambulia baada ya jiwe kupiga mzinga wao.",
+        "Tukio hili ni la tano, kabla ya kwenda hospitali."
+      ],
+      "answer": "E."
+    },
+    {
+      "id": "D(iii)",
+      "section": "Sehemu D: Uandishi na Utungaji",
+      "prompt": "Panga (iii): Siku moja Kaposo alitoroka shule na kwenda msituni.",
+      "steps": [
+        "Sentensi inaanzisha hadithi na kueleza safari kwenda msituni.",
+        "Kwa hiyo iwe ya kwanza."
+      ],
+      "answer": "A."
+    },
+    {
+      "id": "D(iv)",
+      "section": "Sehemu D: Uandishi na Utungaji",
+      "prompt": "Panga (iv): Alirusha jiwe likapiga kwenye mzinga wa nyuki.",
+      "steps": [
+        "Jiwe hutupwa baada ya kuanza kuwinda kwa manati.",
+        "Hili ni tukio la nne, kabla ya kushambuliwa na nyuki."
+      ],
+      "answer": "D."
+    },
+    {
+      "id": "D(v)",
+      "section": "Sehemu D: Uandishi na Utungaji",
+      "prompt": "Panga (v): Alikuwa akitumia manati yake kuwinda ndege.",
+      "steps": [
+        "Baada ya kutaja shughuli ya uwindaji, eleza kifaa alichotumia.",
+        "Hii iwe sentensi ya tatu."
+      ],
+      "answer": "C."
+    },
+    {
+      "id": "D(vi)",
+      "section": "Sehemu D: Uandishi na Utungaji",
+      "prompt": "Panga (vi): Huko msituni Kaposo alikwenda kuwinda ndege.",
+      "steps": [
+        "Huko msituni huunganisha sentensi na safari iliyotangulia.",
+        "Tukio la kuwinda liwe la pili."
+      ],
+      "answer": "B.",
+      "tip": "Mtiririko mzima: (iii), (vi), (v), (iv), (ii), (i)."
+    },
+    {
+      "id": "E(i)",
+      "section": "Sehemu E: Ufahamu",
+      "prompt": "Mwandishi anasisitiza tulitunze zao gani?",
+      "steps": [
+        "Shairi linarudia umuhimu wa mimea na miti.",
+        "Zao linalosisitizwa katika beti ni miti."
+      ],
+      "answer": "Miti."
+    },
+    {
+      "id": "E(ii)",
+      "section": "Sehemu E: Ufahamu",
+      "prompt": "Taja faida mbili za kutunza miti.",
+      "steps": [
+        "Ubeti wa kwanza unataja mvua zinazopatikana kutokana na miti.",
+        "Ubeti wa pili unataja samani zinazotokana na miti."
+      ],
+      "answer": "(i) Tunapata mvua. (ii) Tunapata samani."
+    },
+    {
+      "id": "E(iii)",
+      "section": "Sehemu E: Ufahamu",
+      "prompt": "Nini kinasababisha uharibifu wa mazingira?",
+      "steps": [
+        "Angalia ubeti wa tatu.",
+        "Mwandishi anataja shughuli zinazofanywa na binadamu."
+      ],
+      "answer": "Shughuli za binadamu."
+    },
+    {
+      "id": "E(iv)",
+      "section": "Sehemu E: Ufahamu",
+      "prompt": "Neno samani lina maana gani?",
+      "steps": [
+        "Samani ni vifaa vya matumizi ndani ya nyumba au ofisi.",
+        "Toa maana pamoja na mifano inayojulikana."
+      ],
+      "answer": "Vifaa kama meza, viti, vitanda na makabati vinavyotumika nyumbani au ofisini."
+    },
+    {
+      "id": "E(v)",
+      "section": "Sehemu E: Ufahamu",
+      "prompt": "Ubeti wa pili unatoa ujumbe gani?",
+      "steps": [
+        "Ubeti huo unasema miti yetu ya asili ilindwe na itunzwe.",
+        "Unganisha wazo hilo na faida ya samani."
+      ],
+      "answer": "Tuhifadhi na kuitunza miti ya asili kwa sababu ni muhimu na hutupatia samani."
+    }
+  ],
+  "labelling_note": "Majibu yametumia herufi za sehemu A–E ili kuepuka makosa ya namba katika baadhi ya nakala. Linganisha kila kipengele kwa maneno ya swali.",
+  "summaries": {
+    "Sehemu A: Imla": "Sikiliza kwa makini. Hakiki nafasi kati ya maneno, tahajia, herufi kubwa na alama ya mwisho.",
+    "Sehemu B: Sarufi na Msamiati": "Soma agizo kwanza: kutaja wingi, kubadili neno kuwa kitenzi, kutambua wakati au kudondosha silabi ni kazi tofauti.",
+    "Sehemu C: Methali, Nahau na Vitendawili": "Tambua lugha ya picha. Maana ya methali, nahau au kitendawili haiwezi kupatikana kwa kutafsiri kila neno peke yake.",
+    "Sehemu D: Uandishi na Utungaji": "Angalia maana ya sentensi, mfuatano wa matukio au sehemu za barua. Alama za uandishi zifuate matumizi ya kauli.",
+    "Sehemu E: Ufahamu": "Rudia sehemu husika ya habari na ujibu kwa sentensi wazi. Funzo liungwe mkono na matukio ya habari."
+  },
+  "references": [
+    {
+      "title": "Karatasi ya NECTA ya sentensi za imla",
+      "url": "https://maktaba.tetea.org/past-papers/std4/kiswahili/Kiswahili-Imla-S4-2023.pdf"
+    }
+  ],
+  "sha256": "ed940720f4ae8da3b72031979faa6d6146f9e71887e3c1c21dc8267dd84e198c"
+}

@@ -1,18 +1,5 @@
 {% extends "base.html" %}
-{% block title %}{{ filename }}|TZStudies{% endblock %}
-
+{% block title %}{{ exam.subject }} {{ exam.level }} {{ exam.year }} | MyTZStudies{% endblock %}
 {% block content %}
-<div class="container view-exam-container">
-  <h2 class="section-heading">{{ filename }}</h2>
-
-  <p class="pdf-tip">Tip: Pinch to zoom the PDF. <a href="{{ url_for('papers.download', filename=filename) }}">Download</a> for best experience on mobile.</p>
-
-  <iframe src="{{ url_for('papers.serve_pdf', filename=filename) }}#toolbar=0"
-          class="pdf-viewer"
-          title="PDF preview of {{ filename }}"></iframe>
-
-  <div class="text-right">
-    <a href="{{ url_for('papers.download', filename=filename) }}" class="btn">Download PDF</a>
-  </div>
-</div>
+<div class="container view-exam-container"><a class="text-link back-link" href="{{ url_for('papers.index') }}#examSection">&larr; Back to the library</a><div class="viewer-heading"><div><span class="eyebrow">{{ exam.level }} &middot; {{ exam.year }} &middot; {{ exam.board }}</span><h1>{{ exam.subject }}</h1><p>{{ 'Sample paper' if exam.sample else 'Past exam paper' }}</p></div><div class="viewer-actions"><a class="btn" href="{{ url_for('papers.download', filename=filename) }}">Download PDF</a>{% if exam.answer_key %}<a class="btn btn-outline" href="{{ url_for('papers.view_key', filename=exam.answer_key) }}">Open answer key</a>{% endif %}</div></div><p class="pdf-tip">For the best reading experience on your phone, download the PDF.</p><iframe src="{{ url_for('papers.serve_pdf', filename=filename) }}" class="pdf-viewer" title="{{ exam.subject }} {{ exam.level }} {{ exam.year }} exam PDF"></iframe><p class="helper-text">{{ filename }}</p></div>
 {% endblock %}

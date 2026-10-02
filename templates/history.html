@@ -2,14 +2,15 @@
 {% block title %}My Papers|TZStudies{% endblock %}
 
 {% block content %}
-<section class="hero">
-  <div class="hero-content">
+<section class="container page-intro">
+  <div>
+    <span class="eyebrow">Your study activity</span>
     <h1>My Papers</h1>
     <p>Your last 15 viewed or downloaded papers.</p>
   </div>
 </section>
 
-<div class="container">
+<div class="container content-section">
   {% if rows %}
   <div class="table-wrap">
     <table class="history-table">
@@ -18,13 +19,13 @@
           <th>Paper</th>
           <th>Event</th>
           <th>Date</th>
-          <th></th>
+          <th><span class="sr-only">Actions</span></th>
         </tr>
       </thead>
       <tbody>
       {% for row in rows %}
         <tr>
-          <td>{{ row.paper.file_name }}</td>
+          <td><a class="text-link" href="{{ url_for('papers.paper_detail', paper_id=row.paper.id) }}">{{ row.paper.file_name }}</a></td>
           <td class="capitalize">{{ row.event }}</td>
           <td>{{ row.viewed_at.strftime('%d %b %Y %H:%M') }}</td>
           <td class="text-right">

@@ -15,7 +15,7 @@
   <link rel="apple-touch-icon" href="{{ url_for('static', filename='tutors/tzstudies.png') }}">
 
   <!-- Theme color for browser chrome (matches navbar) -->
-  <meta name="theme-color" content="#1d3557">
+  <meta name="theme-color" content="#123b3a">
 
   <!-- Prevent phone number auto-detection -->
   <meta name="format-detection" content="telephone=no">
@@ -24,11 +24,12 @@
   <link rel="icon" href="{{ url_for('static', filename='tutors/tzstudies.png') }}" type="image/png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
   {% block extra_head %}{% endblock %}
 </head>
 <body>
+  <a class="skip-link" href="#mainContent">Skip to content</a>
   {% include 'navbar.html' %}
 
   {# Flash messages #}
@@ -42,11 +43,13 @@
     {% endif %}
   {% endwith %}
 
-  <main>
+  <main id="mainContent">
     {% block content %}{% endblock %}
   </main>
 
   {% include 'footer.html' %}
+
+  <script src="{{ url_for('static', filename='js/script.js') }}" defer></script>
 
   {% block extra_scripts %}{% endblock %}
 
@@ -58,7 +61,7 @@
     <div>
       <strong>Install TZStudies</strong>
       <p style="margin:0;font-size:0.85rem;opacity:0.85;">
-        Add to your home screen for quick access — works offline too!
+        Add to your home screen for quick access to the library.
       </p>
     </div>
     <div style="display:flex;gap:0.5rem;flex-shrink:0;">

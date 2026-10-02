@@ -1,0 +1,302 @@
+{
+  "exam": "Mathematics-S4-2023.pdf",
+  "output": "Mathematics-S4-2023-AnswerKey.pdf",
+  "subject": "Mathematics",
+  "level": "Standard Four",
+  "year": "2023",
+  "code": "04E",
+  "exam_type": "National Assessment",
+  "question_count": "5 questions, each with 5 parts",
+  "language": "en",
+  "reviewed": true,
+  "expected_parts": [
+    "1(a)",
+    "1(b)",
+    "1(c)",
+    "1(d)",
+    "1(e)",
+    "2(a)",
+    "2(b)",
+    "2(c)",
+    "2(d)",
+    "2(e)",
+    "3(a)",
+    "3(b)",
+    "3(c)",
+    "3(d)",
+    "3(e)",
+    "4(a)",
+    "4(b)",
+    "4(c)",
+    "4(d)",
+    "4(e)",
+    "5(a)",
+    "5(b)",
+    "5(c)",
+    "5(d)",
+    "5(e)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Write XLII in Arabic numerals.",
+      "steps": [
+        "XL means 50 - 10 = 40.",
+        "II = 2; 40 + 2 = 42."
+      ],
+      "answer": "42."
+    },
+    {
+      "id": "1(b)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Write the football team's age, 22 years, in Roman numerals.",
+      "steps": [
+        "20 = XX; 2 = II.",
+        "Join the symbols."
+      ],
+      "answer": "XXII."
+    },
+    {
+      "id": "1(c)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Write 2020 in words.",
+      "steps": [
+        "2,000 = two thousand.",
+        "20 = twenty."
+      ],
+      "answer": "Two thousand and twenty."
+    },
+    {
+      "id": "1(d)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Form a number with ten-thousands 1, thousands 7, hundreds 4, tens 1 and ones 3.",
+      "steps": [
+        "Write the digits in their specified places: 1, 7, 4, 1, 3.",
+        "Their values total 10,000 + 7,000 + 400 + 10 + 3."
+      ],
+      "answer": "17,413."
+    },
+    {
+      "id": "1(e)",
+      "section": "Question 1: Numbers and Place Value",
+      "prompt": "Write nine thousand and fifty shillings in figures.",
+      "steps": [
+        "Nine thousand = 9,000; fifty = 50.",
+        "9,000 + 50 = 9,050."
+      ],
+      "answer": "Sh. 9,050."
+    },
+    {
+      "id": "2(a)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Find the missing number: 90, 85, 80, 75, __, 65.",
+      "steps": [
+        "Each number decreases by 5.",
+        "75 - 5 = 70; 70 - 5 = 65 checks."
+      ],
+      "answer": "70."
+    },
+    {
+      "id": "2(b)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Which is greater: 84 x 6 or 86 x 4?",
+      "steps": [
+        "84 x 6 = 504.",
+        "86 x 4 = 344.",
+        "Compare 504 and 344."
+      ],
+      "answer": "84 x 6 is greater (504 > 344)."
+    },
+    {
+      "id": "2(c)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Find the missing fraction: 1/2, 1/4, __, 1/16.",
+      "steps": [
+        "The denominator doubles: 2, 4, 8, 16.",
+        "The numerator stays 1."
+      ],
+      "answer": "1/8."
+    },
+    {
+      "id": "2(d)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "A patient weighs 90 kg in the first month and loses 1 kg each month. Find the sixth month's weight.",
+      "steps": [
+        "From month 1 to month 6, there are five losses.",
+        "90 - 5 x 1 = 85."
+      ],
+      "answer": "85 kg."
+    },
+    {
+      "id": "2(e)",
+      "section": "Question 2: Sequences and Comparison",
+      "prompt": "Identify the operation in 99, 89, 79, 69, 59, 49, 39.",
+      "steps": [
+        "Compare adjacent terms: 99 - 89 = 10, 89 - 79 = 10.",
+        "Each term is found by subtracting ten from the previous one."
+      ],
+      "answer": "Subtract 10 each time."
+    },
+    {
+      "id": "3(a)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "A book has 91 pages with 13 pictures each. Find the total pictures.",
+      "steps": [
+        "Multiply pages by pictures per page.",
+        "91 x 13 = 91 x 10 + 91 x 3 = 910 + 273."
+      ],
+      "answer": "1,183 pictures."
+    },
+    {
+      "id": "3(b)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Calculate 36 x 8 (the expression confirmed in the Kiswahili paper).",
+      "steps": [
+        "36 = 30 + 6.",
+        "30 x 8 = 240; 6 x 8 = 48.",
+        "240 + 48 = 288."
+      ],
+      "answer": "288."
+    },
+    {
+      "id": "3(c)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Add 14 hours 30 minutes and 8 hours 40 minutes.",
+      "steps": [
+        "30 + 40 = 70 minutes = 1 hour 10 minutes.",
+        "14 + 8 + 1 = 23 hours."
+      ],
+      "answer": "23 hours 10 minutes."
+    },
+    {
+      "id": "3(d)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Convert 3 hours 45 minutes into minutes.",
+      "steps": [
+        "3 x 60 = 180 minutes.",
+        "180 + 45 = 225."
+      ],
+      "answer": "225 minutes."
+    },
+    {
+      "id": "3(e)",
+      "section": "Question 3: Operations and Time",
+      "prompt": "Subtract sh. 1,300 from sh. 1,980.",
+      "steps": [
+        "1,980 - 1,000 = 980.",
+        "980 - 300 = 680."
+      ],
+      "answer": "Sh. 680."
+    },
+    {
+      "id": "4(a)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "Find the perimeter of a rectangle 100 cm long and 50 cm wide.",
+      "steps": [
+        "P = 2 x (length + width).",
+        "2 x (100 + 50) = 2 x 150."
+      ],
+      "answer": "300 cm."
+    },
+    {
+      "id": "4(b)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "Name the shape with vertices A, B and C.",
+      "steps": [
+        "The figure has three straight sides and three corners.",
+        "A shape with three sides is a triangle."
+      ],
+      "answer": "A triangle."
+    },
+    {
+      "id": "4(c)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "A rectangle has perimeter 80 cm and length 25 cm. Find its width.",
+      "steps": [
+        "Length + width = perimeter / 2 = 40 cm.",
+        "Width = 40 - 25."
+      ],
+      "answer": "15 cm."
+    },
+    {
+      "id": "4(d)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "A rectangular football ground has perimeter 480 m and width 40 m. Find its length.",
+      "steps": [
+        "Length + width = 480 / 2 = 240 m.",
+        "Length = 240 - 40."
+      ],
+      "answer": "200 m."
+    },
+    {
+      "id": "4(e)",
+      "section": "Question 4: Shapes and Measurement",
+      "prompt": "A square has perimeter 60 cm. Find one side.",
+      "steps": [
+        "All four sides are equal.",
+        "Side = 60 / 4."
+      ],
+      "answer": "15 cm."
+    },
+    {
+      "id": "5(a)",
+      "section": "Question 5: Reading Data",
+      "prompt": "The harvest pictograph has 3 sacks in 2015, 6 in 2016 and 4 in 2017. Which year has the most?",
+      "steps": [
+        "Count each row carefully.",
+        "Six sacks is the largest count."
+      ],
+      "answer": "2016."
+    },
+    {
+      "id": "5(b)",
+      "section": "Question 5: Reading Data",
+      "prompt": "One sack represents 1,000 kg. Find the 2017 harvest.",
+      "steps": [
+        "There are four sacks in the 2017 row.",
+        "4 x 1,000 = 4,000."
+      ],
+      "answer": "4,000 kg.",
+      "tip": "Count the symbols in the source, rather than relying on a previous key."
+    },
+    {
+      "id": "5(c)",
+      "section": "Question 5: Reading Data",
+      "prompt": "Which year has the smallest harvest?",
+      "steps": [
+        "Compare 3, 6 and 4 sacks.",
+        "Three sacks is the smallest count and is shown for 2015."
+      ],
+      "answer": "2015."
+    },
+    {
+      "id": "5(d)",
+      "section": "Question 5: Reading Data",
+      "prompt": "Find the difference in harvest between 2015 and 2017.",
+      "steps": [
+        "2015: 3 x 1,000 = 3,000 kg; 2017: 4 x 1,000 = 4,000 kg.",
+        "4,000 - 3,000 = 1,000."
+      ],
+      "answer": "1,000 kg."
+    },
+    {
+      "id": "5(e)",
+      "section": "Question 5: Reading Data",
+      "prompt": "Which year had a 6,000 kg harvest?",
+      "steps": [
+        "6,000 / 1,000 = 6 sacks.",
+        "The six-sack row is 2016."
+      ],
+      "answer": "2016."
+    }
+  ],
+  "summaries": {
+    "Question 1: Numbers and Place Value": "Read each digit's place and distinguish ordinary numbers from Roman numerals.",
+    "Question 2: Sequences and Comparison": "Find the repeated change first; count the gaps between terms.",
+    "Question 3: Operations and Time": "Keep the units consistent. Regroup every 60 minutes as one hour.",
+    "Question 4: Shapes and Measurement": "Use the shape's sides, perimeter formula and metric units carefully.",
+    "Question 5: Reading Data": "Read the key, count every symbol, and distinguish the year from the numerical value."
+  },
+  "sha256": "2bd5c3c296bc8fb812993c5a0e16409060731837601e38cef78687f4b59dcc1f"
+}

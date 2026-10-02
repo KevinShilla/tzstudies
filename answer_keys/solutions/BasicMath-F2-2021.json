@@ -1,0 +1,356 @@
+{
+  "exam": "BasicMath-F2-2021.pdf",
+  "output": "BasicMath-F2-2021-AnswerKey.pdf",
+  "subject": "Basic Mathematics",
+  "level": "Form Two",
+  "year": "2021",
+  "code": "041",
+  "exam_type": "Form Two National Assessment (FTNA)",
+  "question_count": "10 compulsory questions; 28 answered parts",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "f49fd880dad4f4a3494625a5d944bbbef9f95a3379b8f15edf9906f51fe053ae",
+  "expected_parts": [
+    "1(a)(i)",
+    "1(a)(ii)",
+    "1(a)(iii)",
+    "1(b)(i)",
+    "1(b)(ii)",
+    "2(a)(i)",
+    "2(a)(ii)",
+    "2(b)",
+    "3(a)",
+    "3(b)",
+    "4(a)(i)",
+    "4(a)(ii)",
+    "4(b)",
+    "5(a)",
+    "5(b)",
+    "6(a)",
+    "6(b)(i)",
+    "6(b)(ii)",
+    "7(a)",
+    "7(b)",
+    "8(a)",
+    "8(b)",
+    "9(a)",
+    "9(b)",
+    "10(a)(i)",
+    "10(a)(ii)",
+    "10(b)(i)",
+    "10(b)(ii)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)(i)",
+      "section": "Question 1 — Numbers and approximation",
+      "prompt": "Write 498,030 in words.",
+      "answer": "Four hundred and ninety-eight thousand and thirty.",
+      "steps": [
+        "Split into thousands and the remainder: 498 thousand + 30.",
+        "Write each group in words and join them."
+      ]
+    },
+    {
+      "id": "1(a)(ii)",
+      "section": "Question 1 — Numbers and approximation",
+      "prompt": "Express 498,030 in standard notation.",
+      "answer": "4.9803 × 10⁵.",
+      "steps": [
+        "Move the decimal point five places left so the first factor is between 1 and 10.",
+        "The power of ten is positive because the original number is large."
+      ]
+    },
+    {
+      "id": "1(a)(iii)",
+      "section": "Question 1 — Numbers and approximation",
+      "prompt": "Use listing to find the LCM of 3, 10 and 15.",
+      "answer": "30.",
+      "steps": [
+        "Multiples of 3: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30. Multiples of 10: 10, 20, 30.",
+        "Multiples of 15: 15, 30. The first positive number common to all lists is 30."
+      ]
+    },
+    {
+      "id": "1(b)(i)",
+      "section": "Question 1 — Numbers and approximation",
+      "prompt": "Write nine hundred ninety-nine million nine hundred ninety-nine thousand nine hundred and one in numerals.",
+      "answer": "999,999,901.",
+      "steps": [
+        "Separate millions, thousands and units: 999 | 999 | 901.",
+        "Each group after the first has three digits; combine them with separators."
+      ]
+    },
+    {
+      "id": "1(b)(ii)",
+      "section": "Question 1 — Numbers and approximation",
+      "prompt": "Give the significant figures of 400,780 and 0.00606; round each to one significant figure.",
+      "answer": "400,780: 5 significant figures; to 1 s.f., 400,000 = 4 × 10⁵. 0.00606: 3 significant figures; to 1 s.f., 0.006 = 6 × 10⁻³.",
+      "steps": [
+        "Zeros between nonzero digits count; zeros before the first nonzero digit do not. In the usual convention for this written integer, the unmarked final zero is not counted.",
+        "For 400,780 keep 4 and inspect the next digit 0. For 0.00606 keep the first 6 and inspect the next digit 0."
+      ],
+      "tip": "Without a precision marker, the trailing zero in an integer can be ambiguous. If measured to the nearest unit, 400,780 would have six significant figures. Its one-significant-figure rounding is unchanged."
+    },
+    {
+      "id": "2(a)(i)",
+      "section": "Question 2 — Fractions and percentages",
+      "prompt": "Arrange 2/3, 3/4, 5/8 and 1/2 from smallest to largest.",
+      "answer": "1/2 < 5/8 < 2/3 < 3/4.",
+      "steps": [
+        "Use the common denominator 24: 16/24, 18/24, 15/24, 12/24 respectively.",
+        "Order the numerators 12, 15, 16, 18, then restore the original fractions."
+      ]
+    },
+    {
+      "id": "2(a)(ii)",
+      "section": "Question 2 — Fractions and percentages",
+      "prompt": "Find the product of 2/3, 3/4, 5/8 and 1/2.",
+      "answer": "5/32.",
+      "steps": [
+        "Multiply the numerators and denominators: (2 × 3 × 5 × 1)/(3 × 4 × 8 × 2) = 30/192.",
+        "Cancel common factors or divide both numerator and denominator by 6 to get 5/32."
+      ]
+    },
+    {
+      "id": "2(b)",
+      "section": "Question 2 — Fractions and percentages",
+      "prompt": "Subtract 0.02̇ of Tsh 270,000 from 36% of Tsh 50,000 (the digit 2 repeats).",
+      "answer": "Tsh 12,000.",
+      "steps": [
+        "Let d = 0.02222…; then 100d − 10d = 2, so 90d = 2 and d = 1/45.",
+        "(1/45) × 270,000 = 6,000; (36/100) × 50,000 = 18,000.",
+        "Subtract in the stated order: 18,000 − 6,000 = 12,000."
+      ],
+      "tip": "The dot above 2 means recurring. Reading the number as the terminating decimal 0.02 changes the answer."
+    },
+    {
+      "id": "3(a)",
+      "section": "Question 3 — Units and simple interest",
+      "prompt": "Find 500 cm + 3150 mm + 3.5 m, in metres.",
+      "answer": "11.65 m.",
+      "steps": [
+        "Convert: 500 cm = 5 m; 3150 mm = 3.15 m.",
+        "Add: 5 + 3.15 + 3.5 = 11.65 m."
+      ]
+    },
+    {
+      "id": "3(b)",
+      "section": "Question 3 — Units and simple interest",
+      "prompt": "For how many years will Tsh 20,000 earn Tsh 4,800 at 4% per annum?",
+      "answer": "6 years.",
+      "steps": [
+        "Use simple interest I = Prt/100.",
+        "Rearrange: t = 100I/(Pr) = (100 × 4,800)/(20,000 × 4) = 6."
+      ]
+    },
+    {
+      "id": "4(a)(i)",
+      "section": "Question 4 — Geometry",
+      "prompt": "Name polygon ABCD in the figure, whose opposite sides are parallel and all four sides have equal marks.",
+      "answer": "Rhombus.",
+      "steps": [
+        "Opposite sides are parallel, so it is a parallelogram.",
+        "All four sides are equal, identifying the special parallelogram as a rhombus."
+      ]
+    },
+    {
+      "id": "4(a)(ii)",
+      "section": "Question 4 — Geometry",
+      "prompt": "In the rhombus, B = 150°, A = x, C = (2x − 30)° and D = y. Find x and y.",
+      "answer": "x = 30°; y = 150°.",
+      "steps": [
+        "Opposite angles are equal: x = 2x − 30, hence x = 30.",
+        "D is opposite B, so y = 150°. Check adjacent angles: 30 + 150 = 180°."
+      ]
+    },
+    {
+      "id": "4(b)",
+      "section": "Question 4 — Geometry",
+      "prompt": "Find the area of the figure made from square OABC and the remaining three quarters of a circle centred at O; BC = 7 cm.",
+      "answer": "164.5 cm² (using π = 22/7).",
+      "steps": [
+        "The square has side 7 cm; OA and OC are radii, so the circle radius is 7 cm.",
+        "The square replaces the circle’s upper-right quarter. Required area = 7² + (3/4)π × 7².",
+        "Area = 49 + (3/4) × (22/7) × 49 = 49 + 115.5 = 164.5 cm²."
+      ],
+      "tip": "Adding the entire circle to the square would count the upper-right quarter twice."
+    },
+    {
+      "id": "5(a)",
+      "section": "Question 5 — Algebra",
+      "prompt": "A father is three times as old as his son; their total age is 64. Find their ages.",
+      "answer": "Son: 16 years; father: 48 years.",
+      "steps": [
+        "Let the son be s, so the father is 3s.",
+        "s + 3s = 64 gives 4s = 64 and s = 16. Then 3s = 48; 16 + 48 = 64."
+      ]
+    },
+    {
+      "id": "5(b)",
+      "section": "Question 5 — Algebra",
+      "prompt": "Factorise to solve x² + 7x + 12 = 0.",
+      "answer": "x = −3 or x = −4.",
+      "steps": [
+        "Find two numbers with sum 7 and product 12: 3 and 4.",
+        "(x + 3)(x + 4) = 0; set each factor equal to zero."
+      ]
+    },
+    {
+      "id": "6(a)",
+      "section": "Question 6 — Coordinates and transformations",
+      "prompt": "Find the slope and equation through A(6,4) and B(12,6).",
+      "answer": "Slope = 1/3; equation y = x/3 + 2 (or x − 3y + 6 = 0).",
+      "steps": [
+        "m = (6 − 4)/(12 − 6) = 2/6 = 1/3.",
+        "Point-slope form: y − 4 = (1/3)(x − 6), which simplifies to y = x/3 + 2."
+      ]
+    },
+    {
+      "id": "6(b)(i)",
+      "section": "Question 6 — Coordinates and transformations",
+      "prompt": "A translation takes (0,0) to (−3,−4). Find the image of Q(1,−2).",
+      "answer": "Q′ = (−2,−6).",
+      "steps": [
+        "The translation vector is (−3,−4).",
+        "Add it to Q: (1 − 3, −2 − 4) = (−2,−6)."
+      ]
+    },
+    {
+      "id": "6(b)(ii)",
+      "section": "Question 6 — Coordinates and transformations",
+      "prompt": "Reflect A(−5,2) and B(4,−7) in the y-axis.",
+      "answer": "A′(5,2); B′(−4,−7).",
+      "steps": [
+        "Reflection in the y-axis maps (x,y) to (−x,y).",
+        "Change only the sign of each x-coordinate."
+      ]
+    },
+    {
+      "id": "7(a)",
+      "section": "Question 7 — Indices and logarithms",
+      "prompt": "Solve (1/3)^(√x) = 81^(−x).",
+      "answer": "x = 0 or x = 1/16.",
+      "steps": [
+        "For real √x, x ≥ 0. Rewrite with base 3: 3^(−√x) = 3^(−4x), so √x = 4x.",
+        "Put u = √x ≥ 0: u = 4u² gives u(4u − 1) = 0, so u = 0 or 1/4.",
+        "Thus x = u² = 0 or 1/16; both satisfy the original equation."
+      ],
+      "tip": "Do not divide by √x before checking x = 0, or you will lose a valid solution."
+    },
+    {
+      "id": "7(b)",
+      "section": "Question 7 — Indices and logarithms",
+      "prompt": "If log₁₀(x/5) = log₁₀(2/x) + 1, find x.",
+      "answer": "x = 10.",
+      "steps": [
+        "The logarithms require x > 0. Replace 1 with log₁₀10.",
+        "Combine logs: log₁₀(x/5) = log₁₀(20/x), so x/5 = 20/x.",
+        "Multiply by 5x: x² = 100. The positive-domain condition keeps x = 10 and excludes −10."
+      ]
+    },
+    {
+      "id": "8(a)",
+      "section": "Question 8 — Congruence and similarity",
+      "prompt": "PX and QY are perpendicular to PQ, PX = QY, and X,A,Y are collinear. Prove triangles XPA and YQA congruent.",
+      "answer": "△XPA ≅ △YQA by AAS (equivalently ASA after finding the third angles).",
+      "steps": [
+        "∠XPA = ∠YQA = 90°, since both segments are perpendicular to PQ.",
+        "∠XAP = ∠YAQ because they are vertically opposite angles.",
+        "PX = QY is given. Two corresponding angles and a corresponding side prove congruence."
+      ]
+    },
+    {
+      "id": "8(b)",
+      "section": "Question 8 — Congruence and similarity",
+      "prompt": "Triangles ABC and DEF are similar. A = 60°, B = 90°, C = x; D = y, E = w, F = z. Find x,y,z,w.",
+      "answer": "x = 30°, y = 60°, z = 30°, w = 90°.",
+      "steps": [
+        "In ABC, x = 180 − 60 − 90 = 30°.",
+        "From the stated order of similar triangles, A ↔ D, B ↔ E and C ↔ F. Equal corresponding angles give y = 60, w = 90 and z = 30."
+      ]
+    },
+    {
+      "id": "9(a)",
+      "section": "Question 9 — Pythagoras and trigonometry",
+      "prompt": "PQ = 17 cm, QS = 15 cm, SR = 6 cm, PS ⊥ QR and PR = x. Find x.",
+      "answer": "x = 10 cm.",
+      "steps": [
+        "In right triangle PQS, PS² = 17² − 15² = 289 − 225 = 64, so PS = 8 cm.",
+        "In right triangle PSR, PR² = 8² + 6² = 100, so PR = 10 cm."
+      ]
+    },
+    {
+      "id": "9(b)",
+      "section": "Question 9 — Pythagoras and trigonometry",
+      "prompt": "A point is 80 m from a vertical building. The angle of elevation to its top is 25°. Sketch and find the height to one decimal place.",
+      "answer": "Height = 37.3 m.",
+      "steps": [
+        "Draw a horizontal ground segment of 80 m, a vertical height h at the far end, and a sloping line of sight making 25° with the ground.",
+        "tan 25° = opposite/adjacent = h/80; h = 80 tan 25°.",
+        "Using a trigonometric table, h ≈ 80 × 0.46631 = 37.3048 m, which rounds to 37.3 m."
+      ],
+      "image": "answer_keys/figures/BasicMath-F2-2021-building.png"
+    },
+    {
+      "id": "10(a)(i)",
+      "section": "Question 10 — Sets and statistics",
+      "prompt": "Of 30 students, 17 debate and 12 belong to both debate and Mathematics club. Find debate only.",
+      "answer": "5 students.",
+      "steps": [
+        "Debate total includes those in both activities.",
+        "Debate only = 17 − 12 = 5."
+      ]
+    },
+    {
+      "id": "10(a)(ii)",
+      "section": "Question 10 — Sets and statistics",
+      "prompt": "Every one of the 30 students participates in at least one activity. Find Mathematics club only.",
+      "answer": "13 students.",
+      "steps": [
+        "Divide the class into debate only, both and Mathematics only.",
+        "Mathematics only = 30 − 5 − 12 = 13; equivalently, 30 − 17 = 13."
+      ]
+    },
+    {
+      "id": "10(b)(i)",
+      "section": "Question 10 — Sets and statistics",
+      "prompt": "Prepare a frequency table for ages: 13,15,17,16,15,14,16,18,17,16,15,14,13,16,14,17,15,16,15,16.",
+      "answer": "Age (years): 13 | 14 | 15 | 16 | 17 | 18. Frequency: 2 | 3 | 5 | 6 | 3 | 1. Total: 20.",
+      "steps": [
+        "List distinct ages in ascending order and tally every occurrence.",
+        "The counts are 2,3,5,6,3,1; check 2 + 3 + 5 + 6 + 3 + 1 = 20."
+      ]
+    },
+    {
+      "id": "10(b)(ii)",
+      "section": "Question 10 — Sets and statistics",
+      "prompt": "Draw a frequency polygon from the age-frequency table.",
+      "answer": "Join (12,0), (13,2), (14,3), (15,5), (16,6), (17,3), (18,1), (19,0) with straight segments.",
+      "steps": [
+        "Label the horizontal axis Age (years) and the vertical axis Frequency (students). Use equal scales.",
+        "Plot one point for each age and its frequency, then join consecutive points with straight lines.",
+        "Add zero-frequency end points at 12 and 19 to close the polygon."
+      ],
+      "image": "answer_keys/figures/BasicMath-F2-2021-frequency.png"
+    }
+  ],
+  "summaries": {
+    "Question 1 — Numbers and approximation": "Check the method, units and conditions before writing your final answer. Substitute algebraic solutions back into the original equation and label all diagram measurements.",
+    "Question 2 — Fractions and percentages": "Check the method, units and conditions before writing your final answer. Substitute algebraic solutions back into the original equation and label all diagram measurements.",
+    "Question 3 — Units and simple interest": "Check the method, units and conditions before writing your final answer. Substitute algebraic solutions back into the original equation and label all diagram measurements.",
+    "Question 4 — Geometry": "Check the method, units and conditions before writing your final answer. Substitute algebraic solutions back into the original equation and label all diagram measurements.",
+    "Question 5 — Algebra": "Check the method, units and conditions before writing your final answer. Substitute algebraic solutions back into the original equation and label all diagram measurements.",
+    "Question 6 — Coordinates and transformations": "Check the method, units and conditions before writing your final answer. Substitute algebraic solutions back into the original equation and label all diagram measurements.",
+    "Question 7 — Indices and logarithms": "Check the method, units and conditions before writing your final answer. Substitute algebraic solutions back into the original equation and label all diagram measurements.",
+    "Question 8 — Congruence and similarity": "Check the method, units and conditions before writing your final answer. Substitute algebraic solutions back into the original equation and label all diagram measurements.",
+    "Question 9 — Pythagoras and trigonometry": "Check the method, units and conditions before writing your final answer. Substitute algebraic solutions back into the original equation and label all diagram measurements.",
+    "Question 10 — Sets and statistics": "Check the method, units and conditions before writing your final answer. Substitute algebraic solutions back into the original equation and label all diagram measurements."
+  },
+  "references": [
+    {
+      "title": "NECTA — FTNA 2021 Basic Mathematics: significant-figure convention and recurring-decimal notation",
+      "url": "https://onlinesys.necta.go.tz/cira/ftna/2021/041_BASIC_MATHEMATICS.pdf"
+    }
+  ]
+}

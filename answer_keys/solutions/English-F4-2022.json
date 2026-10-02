@@ -1,0 +1,704 @@
+{
+  "exam": "English-F4-2022.pdf",
+  "output": "English-F4-2022-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Form Four",
+  "year": "2022",
+  "code": "022",
+  "exam_type": "Certificate of Secondary Education Examination (CSEE)",
+  "question_count": "12 questions; all Section C options solved; 60 answered parts",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "24192f3c61e51e520ba9280a0fa02d3820e8c34b333e1fa159beab53aa5ed86f",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(ix)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "5(vi)",
+    "5(vii)",
+    "5(viii)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)",
+    "6(vi)",
+    "6(vii)",
+    "6(viii)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)",
+    "7(v)",
+    "7(vi)",
+    "7(vii)",
+    "7(viii)",
+    "8(i)",
+    "8(ii)",
+    "8(iii)",
+    "8(iv)",
+    "9",
+    "10(a)(i)",
+    "10(a)(ii)",
+    "10(a)(iii)",
+    "10(b)(i)",
+    "10(b)(ii)",
+    "10(b)(iii)",
+    "11",
+    "12"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Section A — Objective questions",
+      "prompt": "A goat is brown and cruel. What qualities are described?",
+      "answer": "A — Colour and quality.",
+      "steps": [
+        "Choose the meaning or construction matching the situation.",
+        "Brown names the colour; cruel describes a behavioural quality."
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Correct “a fleet of people at a crusade meeting”.",
+      "answer": "E — A congregation of people.",
+      "steps": [
+        "Choose the meaning or construction matching the situation.",
+        "A congregation gathers for religious worship; fleet describes vehicles or ships."
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Why is “prefers coffee than tea” wrong?",
+      "answer": "B — Prefer takes to in this construction: prefers coffee to tea.",
+      "steps": [
+        "Choose the meaning or construction matching the situation.",
+        "Use prefer A to B, with parallel nouns."
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Section A — Objective questions",
+      "prompt": "What does troop describe?",
+      "answer": "B — A large group of soldiers or monkeys.",
+      "steps": [
+        "Choose the meaning or construction matching the situation.",
+        "Troop is a collective term used for these groups."
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Section A — Objective questions",
+      "prompt": "Why do we say an hour?",
+      "answer": "C — The word begins with a vowel sound.",
+      "steps": [
+        "Choose the meaning or construction matching the situation.",
+        "The h in hour is silent. Articles depend on sound, not simply on the written first letter."
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Section A — Objective questions",
+      "prompt": "What does “When it rained, she had already taken lunch” mean?",
+      "answer": "D — She ate lunch before the rain started.",
+      "steps": [
+        "Choose the meaning or construction matching the situation.",
+        "Past perfect had taken marks the earlier action."
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Which wording places the thief’s death and the policeman’s arrival together?",
+      "answer": "E — The thief died when the policeman arrived.",
+      "steps": [
+        "Choose the meaning or construction matching the situation.",
+        "Both clauses use past simple with when; past perfect would place death earlier."
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Which sentence describes an action begun in the past and continuing now?",
+      "answer": "C — I have been doing this work for two days.",
+      "steps": [
+        "Choose the meaning or construction matching the situation.",
+        "Have been + -ing is present perfect continuous, with duration for two days."
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Section A — Objective questions",
+      "prompt": "Report Juma’s “I have moved to another flat”.",
+      "answer": "E — Juma said that he had moved to another flat.",
+      "steps": [
+        "Choose the meaning or construction matching the situation.",
+        "Backshift present perfect have moved to past perfect had moved and change I to he."
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Section A — Objective questions",
+      "prompt": "Ask a question whose answer identifies people doing the work.",
+      "answer": "B — By whom can they get this work done?",
+      "steps": [
+        "Choose the meaning or construction matching the situation.",
+        "By introduces the agent in the passive construction."
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the CV component: Full-time and part-time jobs previously done.",
+      "answer": "F — Work experience.",
+      "steps": [
+        "Identify what kind of information the description refers to.",
+        "This section records employment history."
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the CV component: Academic training attained.",
+      "answer": "E — Educational background.",
+      "steps": [
+        "Identify what kind of information the description refers to.",
+        "This lists education and qualifications."
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the CV component: Activities done for leisure.",
+      "answer": "B — Hobby.",
+      "steps": [
+        "Identify what kind of information the description refers to.",
+        "Hobbies are leisure interests."
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the CV component: Individual details including contacts.",
+      "answer": "D — Personal particulars.",
+      "steps": [
+        "Identify what kind of information the description refers to.",
+        "This section identifies the person and contact information."
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the CV component: A person able to endorse an applicant.",
+      "answer": "A — Referee.",
+      "steps": [
+        "Identify what kind of information the description refers to.",
+        "A referee can supply a reference about the person."
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Section B — Language use",
+      "prompt": "Replace the inappropriate collective expression: A bunch of naughty boys.",
+      "answer": "a gang of naughty boys",
+      "steps": [
+        "Consider the type of people or objects and the passage’s context.",
+        "Gang fits boys acting together to cause trouble."
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Replace the inappropriate collective expression: A group of cars on both sides of the road.",
+      "answer": "a fleet of cars",
+      "steps": [
+        "Consider the type of people or objects and the passage’s context.",
+        "Fleet is the intended collective noun for vehicles. In an actual traffic blockage, a queue of cars would also be natural."
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Replace the inappropriate collective expression: A gang of policemen arrived.",
+      "answer": "a squad of policemen; a team or a detachment is also suitable.",
+      "steps": [
+        "Consider the type of people or objects and the passage’s context.",
+        "A squad names an organised police unit; gang suggests an inappropriate criminal association here."
+      ]
+    },
+    {
+      "id": "3(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Replace the inappropriate collective expression: A flock of people gathered.",
+      "answer": "a crowd of people",
+      "steps": [
+        "Consider the type of people or objects and the passage’s context.",
+        "Crowd describes many people gathering in one place."
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Section B — Language use",
+      "prompt": "Construct an imperative using Be + noun.",
+      "answer": "Be a responsible student.",
+      "steps": [
+        "Use an instruction addressed to the listener, normally without an expressed subject.",
+        "After imperative be, the noun phrase names the role to adopt."
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Construct an imperative using Be + adjective.",
+      "answer": "Be careful.",
+      "steps": [
+        "Use an instruction addressed to the listener, normally without an expressed subject.",
+        "Careful describes the requested state."
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Construct an imperative using Be + past participle.",
+      "answer": "Be prepared for the meeting.",
+      "steps": [
+        "Use an instruction addressed to the listener, normally without an expressed subject.",
+        "Prepared is a past participle after be."
+      ]
+    },
+    {
+      "id": "4(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Construct an imperative using Do + negation + be.",
+      "answer": "Do not be late.",
+      "steps": [
+        "Use an instruction addressed to the listener, normally without an expressed subject.",
+        "A negative imperative uses do not followed by base be."
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Section B — Language use",
+      "prompt": "Change the reported statement to direct speech: The old man asked me if she required any help.",
+      "answer": "The old man asked me, “Does she require any help?”",
+      "steps": [
+        "Use quotation marks and reconstruct the speaker’s pronouns, tense and question form.",
+        "He asks me about a third woman, so retain she. Restore question inversion with does and base require."
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Change the reported statement to direct speech: I asked him who he was and what he wanted.",
+      "answer": "I asked him, “Who are you, and what do you want?”",
+      "steps": [
+        "Use quotation marks and reconstruct the speaker’s pronouns, tense and question form.",
+        "Restore the addressee as you and use direct-question word order."
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Change the reported statement to direct speech: She said she would tell him exactly what she thought.",
+      "answer": "She said, “I will tell him exactly what I think.”",
+      "steps": [
+        "Use quotation marks and reconstruct the speaker’s pronouns, tense and question form.",
+        "The speaker becomes I; would and thought return to will and think."
+      ]
+    },
+    {
+      "id": "5(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Change the reported statement to direct speech: He told me I should see a specialist.",
+      "answer": "He said to me, “You should see a specialist.”",
+      "steps": [
+        "Use quotation marks and reconstruct the speaker’s pronouns, tense and question form.",
+        "The person addressed is you; should stays unchanged."
+      ]
+    },
+    {
+      "id": "5(v)",
+      "section": "Section B — Language use",
+      "prompt": "Change the reported statement to direct speech: The doctor told him he ought to slow down.",
+      "answer": "The doctor said to him, “You ought to slow down a bit.”",
+      "steps": [
+        "Use quotation marks and reconstruct the speaker’s pronouns, tense and question form.",
+        "Change the addressed person to you; ought to remains unchanged."
+      ]
+    },
+    {
+      "id": "5(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Change the reported statement to direct speech: She said that if I passed my examination she would buy me a bicycle.",
+      "answer": "She said to me, “If you pass your examination, I will buy you a bicycle.”",
+      "steps": [
+        "Use quotation marks and reconstruct the speaker’s pronouns, tense and question form.",
+        "This reconstructs a first conditional before the usual reporting backshift. An original second conditional with passed/would is also possible without more context."
+      ]
+    },
+    {
+      "id": "5(vii)",
+      "section": "Section B — Language use",
+      "prompt": "Change the reported statement to direct speech: She said that she must have slept through the alarm.",
+      "answer": "She said, “I must have slept through the alarm.”",
+      "steps": [
+        "Use quotation marks and reconstruct the speaker’s pronouns, tense and question form.",
+        "Change she to I; must have slept expressing deduction remains unchanged."
+      ]
+    },
+    {
+      "id": "5(viii)",
+      "section": "Section B — Language use",
+      "prompt": "Change the reported statement to direct speech: He asked me if I was comfortable.",
+      "answer": "He asked me, “Are you comfortable?”",
+      "steps": [
+        "Use quotation marks and reconstruct the speaker’s pronouns, tense and question form.",
+        "Restore you, present are and direct-question inversion."
+      ]
+    },
+    {
+      "id": "6(i)",
+      "section": "Section B — Language use",
+      "prompt": "Write a fire-event sentence using Supermarket mall.",
+      "answer": "A fire broke out in the supermarket mall yesterday evening.",
+      "steps": [
+        "Build a grammatical sentence describing the imagined event.",
+        "The place and past event are clearly identified."
+      ],
+      "tip": "These are model sentences for a language task, not instructions for handling a real fire."
+    },
+    {
+      "id": "6(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Write a fire-event sentence using Fire smoke.",
+      "answer": "Thick fire smoke rose above the building.",
+      "steps": [
+        "Build a grammatical sentence describing the imagined event.",
+        "Smoke is an uncountable noun with a suitable past verb."
+      ],
+      "tip": "These are model sentences for a language task, not instructions for handling a real fire."
+    },
+    {
+      "id": "6(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Write a fire-event sentence using Fire extinguishers.",
+      "answer": "Staff used fire extinguishers on the small flames near the entrance.",
+      "steps": [
+        "Build a grammatical sentence describing the imagined event.",
+        "Use the supplied plural object in a complete event sentence."
+      ],
+      "tip": "These are model sentences for a language task, not instructions for handling a real fire."
+    },
+    {
+      "id": "6(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Write a fire-event sentence using Fire engines.",
+      "answer": "Two fire engines arrived at the scene.",
+      "steps": [
+        "Build a grammatical sentence describing the imagined event.",
+        "The plural subject agrees with the past verb arrived."
+      ],
+      "tip": "These are model sentences for a language task, not instructions for handling a real fire."
+    },
+    {
+      "id": "6(v)",
+      "section": "Section B — Language use",
+      "prompt": "Write a fire-event sentence using Fire men.",
+      "answer": "The firemen worked together to put out the blaze.",
+      "steps": [
+        "Build a grammatical sentence describing the imagined event.",
+        "The conventional spelling is firemen; firefighters is an inclusive modern alternative."
+      ],
+      "tip": "These are model sentences for a language task, not instructions for handling a real fire."
+    },
+    {
+      "id": "6(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Write a fire-event sentence using Escape.",
+      "answer": "Customers managed to escape through an emergency exit.",
+      "steps": [
+        "Build a grammatical sentence describing the imagined event.",
+        "To escape follows managed and describes leaving danger."
+      ],
+      "tip": "These are model sentences for a language task, not instructions for handling a real fire."
+    },
+    {
+      "id": "6(vii)",
+      "section": "Section B — Language use",
+      "prompt": "Write a fire-event sentence using Rescue.",
+      "answer": "The firefighters helped rescue people trapped inside.",
+      "steps": [
+        "Build a grammatical sentence describing the imagined event.",
+        "Rescue correctly takes people as its object."
+      ],
+      "tip": "These are model sentences for a language task, not instructions for handling a real fire."
+    },
+    {
+      "id": "6(viii)",
+      "section": "Section B — Language use",
+      "prompt": "Write a fire-event sentence using Victims.",
+      "answer": "The victims received assistance after the fire.",
+      "steps": [
+        "Build a grammatical sentence describing the imagined event.",
+        "Victims identifies those affected by the incident."
+      ],
+      "tip": "These are model sentences for a language task, not instructions for handling a real fire."
+    },
+    {
+      "id": "7(i)",
+      "section": "Section B — Language use",
+      "prompt": "Please ___ (short) the long skirt.",
+      "answer": "shorten",
+      "steps": [
+        "Identify the word class required by the sentence, then add the suitable suffix.",
+        "Suffix -en makes a verb meaning make shorter."
+      ]
+    },
+    {
+      "id": "7(ii)",
+      "section": "Section B — Language use",
+      "prompt": "You ought to ___ (class) the songs.",
+      "answer": "classify",
+      "steps": [
+        "Identify the word class required by the sentence, then add the suitable suffix.",
+        "Suffix -ify forms a verb meaning arrange into classes."
+      ]
+    },
+    {
+      "id": "7(iii)",
+      "section": "Section B — Language use",
+      "prompt": "He should ___ (social) with us.",
+      "answer": "socialise; socialize is also correct.",
+      "steps": [
+        "Identify the word class required by the sentence, then add the suitable suffix.",
+        "Suffix -ise or -ize makes the verb."
+      ]
+    },
+    {
+      "id": "7(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Stop your ___ (child) behaviour.",
+      "answer": "childish",
+      "steps": [
+        "Identify the word class required by the sentence, then add the suitable suffix.",
+        "Suffix -ish makes an adjective describing immature conduct."
+      ]
+    },
+    {
+      "id": "7(v)",
+      "section": "Section B — Language use",
+      "prompt": "The knife may be ___ (use) on the trip.",
+      "answer": "useful",
+      "steps": [
+        "Identify the word class required by the sentence, then add the suitable suffix.",
+        "Suffix -ful makes an adjective meaning of practical use."
+      ]
+    },
+    {
+      "id": "7(vi)",
+      "section": "Section B — Language use",
+      "prompt": "He asked for a summary ___ (dismiss).",
+      "answer": "dismissal",
+      "steps": [
+        "Identify the word class required by the sentence, then add the suitable suffix.",
+        "Suffix -al turns dismiss into a noun."
+      ]
+    },
+    {
+      "id": "7(vii)",
+      "section": "Section B — Language use",
+      "prompt": "She is a ___ (facilitate) in the seminar.",
+      "answer": "facilitator",
+      "steps": [
+        "Identify the word class required by the sentence, then add the suitable suffix.",
+        "The agent noun uses -or, with the verb’s final e removed."
+      ]
+    },
+    {
+      "id": "7(viii)",
+      "section": "Section B — Language use",
+      "prompt": "Workers are also called ___ (employ).",
+      "answer": "employees",
+      "steps": [
+        "Identify the word class required by the sentence, then add the suitable suffix.",
+        "Add -ee for the person employed, then plural -s."
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Section B — Language use",
+      "prompt": "Place a frequency adverb at the beginning.",
+      "answer": "Sometimes, I walk to school.",
+      "steps": [
+        "Keep the required adverb position visible in a complete sentence.",
+        "Sometimes precedes the whole clause."
+      ]
+    },
+    {
+      "id": "8(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Place a frequency expression at the end.",
+      "answer": "I visit my grandmother occasionally.",
+      "steps": [
+        "Keep the required adverb position visible in a complete sentence.",
+        "Occasionally follows the completed predicate."
+      ]
+    },
+    {
+      "id": "8(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Place a frequency adverb before an auxiliary.",
+      "answer": "She usually will help when asked.",
+      "steps": [
+        "Keep the required adverb position visible in a complete sentence.",
+        "Usually comes immediately before modal auxiliary will. “She will usually help …” is the more neutral mid-position alternative, but does not follow the specified order."
+      ]
+    },
+    {
+      "id": "8(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Place a frequency adverb in the middle of a negative sentence.",
+      "answer": "I do not usually watch television in the morning.",
+      "steps": [
+        "Keep the required adverb position visible in a complete sentence.",
+        "Usually follows do not and precedes main verb watch."
+      ]
+    },
+    {
+      "id": "9",
+      "section": "Section C — Writing and literature",
+      "prompt": "As English-club chairperson Nuru Eli of Nyamanga Secondary School, P.O. Box 52, Muleba, request permission from the Headmaster through the Head of English to attend Kaganga’s debate.",
+      "answer": "Nyamanga Secondary School,\nP.O. Box 52,\nMuleba.\n10 October 2022\n\nThe Headmaster,\nNyamanga Secondary School,\nP.O. Box 52,\nMuleba.\n\nThrough: The Head of the English Department\n\nDear Sir/Madam,\nRE: REQUEST FOR PERMISSION TO PARTICIPATE IN A DEBATE\nI am writing as the chairperson of our English Club to request permission for club members to participate in a debate organised by the English Club of Kaganga Secondary School. We have received an invitation to take part.\nThe debate would help members practise spoken English, prepare reasoned arguments and learn to respond respectfully to opposing views. It would also encourage cooperation with learners from another school.\nIf permission is granted, we will work with the English Department to confirm the date, transport and supervision arrangements. We will follow the school’s requirements and ensure that our participation is properly organised.\nI would be grateful for your approval. Thank you for considering our request.\n\nYours faithfully,\nNuru Eli\nChairperson, English Club",
+      "steps": [
+        "Use the given sender’s address, the Headmaster’s recipient address and the required Through line.",
+        "State the request, invitation and educational purpose. Identify practical arrangements to confirm without inventing a date or fee for the debate.",
+        "Use a formal salutation, clear subject and Yours faithfully. Sign Nuru Eli and give the club role."
+      ],
+      "tip": "The writing date is a model detail; the examination does not supply the debate date."
+    },
+    {
+      "id": "10(a)(i)",
+      "section": "Section C — Writing and literature",
+      "prompt": "Analyse cultural change or alienation as a theme in the supplied poem.",
+      "answer": "The change from breast and wild honey to powdered milk and sugar symbolises a replacement of familiar cultural nourishment. The speaker criticises uncritical imitation that leaves the child disconnected from inherited values.",
+      "steps": [
+        "Name the theme, cite the relevant image and explain what it reveals.",
+        "Connect the contrasted foods with the larger image of Africa and its child. Explain a cultural interpretation instead of asserting that a particular food necessarily causes death."
+      ],
+      "tip": "This poem uses provocative feeding imagery for a cultural and moral argument. Its imagery is not clinical evidence or advice about infant feeding."
+    },
+    {
+      "id": "10(a)(ii)",
+      "section": "Section C — Writing and literature",
+      "prompt": "Analyse parental or communal responsibility.",
+      "answer": "The speaker reminds the woman that she made choices shaping the child’s life. The refusal of the breast and the accusation of a committed “murder” make the mother’s responsibility central, rather than allowing her to blame the child alone.",
+      "steps": [
+        "Name the theme, cite the relevant image and explain what it reveals.",
+        "Use the contrast between mourning now and decisions made earlier. Interpret the severe accusation as the poem’s criticism of harmful guidance."
+      ],
+      "tip": "This poem uses provocative feeding imagery for a cultural and moral argument. Its imagery is not clinical evidence or advice about infant feeding."
+    },
+    {
+      "id": "10(a)(iii)",
+      "section": "Section C — Writing and literature",
+      "prompt": "Analyse disappointment and regret.",
+      "answer": "The opening presents crying and lamentation over a child considered lost. The ending insists that the mother must suffer with him, showing grief after choices whose consequences cannot simply be wished away.",
+      "steps": [
+        "Name the theme, cite the relevant image and explain what it reveals.",
+        "Compare the woman’s former satisfaction with the later lament; explain the reversal from pride to loss."
+      ],
+      "tip": "This poem uses provocative feeding imagery for a cultural and moral argument. Its imagery is not clinical evidence or advice about infant feeding."
+    },
+    {
+      "id": "10(b)(i)",
+      "section": "Section C — Writing and literature",
+      "prompt": "Identify symbolism and explain its purpose.",
+      "answer": "The woman of Africa can symbolise African society, and the child a generation shaped by that society. This makes the personal loss an image of a wider cultural problem.",
+      "steps": [
+        "Identify the device and give evidence from the supplied poem.",
+        "Explain what the two figures stand for and how the symbolic reading broadens the poem’s message."
+      ]
+    },
+    {
+      "id": "10(b)(ii)",
+      "section": "Section C — Writing and literature",
+      "prompt": "Identify metaphor and explain its purpose.",
+      "answer": "“The fire of life” presents vitality as fire; its absence conveys the child’s loss of energy and belonging. The metaphor makes an abstract decline visible.",
+      "steps": [
+        "Identify the device and give evidence from the supplied poem.",
+        "Identify the direct comparison without like or as and connect its disappearance with the sense of loss."
+      ]
+    },
+    {
+      "id": "10(b)(iii)",
+      "section": "Section C — Writing and literature",
+      "prompt": "Identify repetition and explain its purpose.",
+      "answer": "The recurring address “woman” and repeated “That” at the beginning of lines focus blame and accumulate the speaker’s accusations. Repetition intensifies the appeal to reflect on responsibility.",
+      "steps": [
+        "Identify the device and give evidence from the supplied poem.",
+        "Select repeated words actually appearing in the poem and explain their emphasis rather than calling them a fixed refrain."
+      ]
+    },
+    {
+      "id": "11",
+      "section": "Section C — Writing and literature",
+      "prompt": "Choose one character from each of two novels and explain three ways each educates African society.",
+      "answer": "Model response:\nCharacters educate readers through admirable actions and cautionary examples. Adyeri in Passed Like a Shadow by B. M. Mapalala and Oyah in Unanswered Cries by Osman Conteh offer lessons about responsibility and dignity.\nAdyeri’s role as a headmaster raises the issue of public trust. His misuse of school resources for private purposes and the loss of his position warn readers that authority must serve the institution rather than personal interests. His conduct as a father and husband also shows how irresponsible choices damage a household. Family members need dependable care and honest relationships, not merely the status of having a parent in an important job. Finally, the contrast between his professional opportunity and later decline teaches that achievement needs continuing discipline. A position gained through ability can be lost when a person stops acting responsibly.\nOyah’s legal work on Olabisi’s behalf shows the value of using knowledge to defend a vulnerable person. Readers learn that harmful demands should be challenged through reason and effective advocacy. Her treatment of Olabisi also teaches compassion: helping the girl as a person matters alongside arguing her case. Such care counters the tendency to treat an individual as merely the object of a dispute. A third lesson comes from Oyah’s competence as a woman professional. Her contribution challenges the assumption that serious public responsibilities belong only to men. Society benefits when people’s abilities are recognised without gender prejudice.\nThe two characters therefore teach complementary lessons. Adyeri warns against failures of trust and discipline, while Oyah demonstrates advocacy, compassion and professional competence. Their examples encourage accountable leadership and respect for human dignity.",
+      "steps": [
+        "Choose Adyeri and Oyah and organise three distinct educational roles for each.",
+        "Explain leadership accountability, family responsibility and continuing discipline through Adyeri; explain advocacy, care and women’s professional ability through Oyah.",
+        "Connect actions with lessons for society, rather than merely listing personality adjectives."
+      ]
+    },
+    {
+      "id": "12",
+      "section": "Section C — Writing and literature",
+      "prompt": "Show how life’s challenges cause disappointment in families and society, with three points from each of two plays.",
+      "answer": "Model response:\nDisappointment arises when hopes meet obstacles. Three Suitors: One Husband by Guillaume Oyono Mbia and This Time Tomorrow by Ngugi wa Thiong’o show how social pressures frustrate people’s plans.\nIn Three Suitors: One Husband, Juliette’s wish to choose her partner meets her family’s interest in bride wealth. This disappoints her because marriage is treated as a financial arrangement rather than her personal decision. The competing suitors also face disappointment when their payments do not secure the marriage they expect. The competition exposes the danger of treating consent as something money can purchase. A third challenge comes when the missing bride-wealth money creates accusations and dependence on Sangatiti’s supposed powers. His failure to solve the problem leaves the family without the certainty they wanted. The episode challenges the expectation that superstition can replace evidence and honest problem-solving.\nIn This Time Tomorrow, poverty leaves Njango with a fragile livelihood and little security. Her hard work does not guarantee a stable future, so the gap between effort and opportunity becomes a source of frustration. The threatened demolition of the settlement then destroys the residents’ hope of remaining in their homes. Njango’s uncertainty about where she will be the next day captures this disappointment directly. Finally, the Stranger’s attempt to organise resistance does not bring the protection people seek. The power used against the residents shows why hope based on collective protest can be frustrated when authorities refuse to address their needs.\nThe plays connect disappointment to greed, insecurity and unequal power. They suggest that lasting improvement requires respect for consent, reliable knowledge and fair treatment of vulnerable people.",
+      "steps": [
+        "Introduce the two plays and connect three distinct challenges in each with a particular frustrated expectation.",
+        "For Three Suitors use restricted marital choice, failed financial expectations and reliance on Sangatiti. For This Time Tomorrow use poverty, threatened housing and unsuccessful resistance.",
+        "Explain the link from challenge to disappointment rather than simply retelling the plots."
+      ]
+    }
+  ],
+  "summaries": {
+    "Section A — Objective questions": "Present perfect continuous links a past beginning with the present. Prefer takes to, and passive agents can be asked about with by whom.",
+    "Section B — Language use": "Direct speech restores viewpoint and question order. Match word-class needs before selecting a suffix, and distinguish standard adverb placement from the position specified by the exercise.",
+    "Section C — Writing and literature": "Use the required Through line in the formal letter. Poem analysis needs evidence plus interpretation, and character essays must explain lessons rather than only describe traits."
+  },
+  "labelling_note": "All Section C questions are answered for study; candidates were required to select three. Question 7 has eight parts despite its printed (i)–(iv) instruction. Direct-speech reconstruction can allow more than one original tense when context is absent.",
+  "references": [
+    {
+      "title": "NECTA English CSEE 2022 — assessment and prescribed-character checks",
+      "url": "https://onlinesys.necta.go.tz/cira/csee/2022/022_ENGLISH_LANGUAGE.pdf"
+    }
+  ]
+}

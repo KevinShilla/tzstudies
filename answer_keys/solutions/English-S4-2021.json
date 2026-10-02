@@ -1,0 +1,312 @@
+{
+  "exam": "English-S4-2021.pdf",
+  "output": "English-S4-2021-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Four",
+  "year": "2021",
+  "code": "02",
+  "exam_type": "Standard Four National Assessment (SFNA)",
+  "question_count": "5 questions; 25 parts",
+  "language": "en",
+  "reviewed": true,
+  "expected_parts": [
+    "A(i)",
+    "A(ii)",
+    "A(iii)",
+    "A(iv)",
+    "A(v)",
+    "B(i)",
+    "B(ii)",
+    "B(iii)",
+    "B(iv)",
+    "B(v)",
+    "C(i)",
+    "C(ii)",
+    "C(iii)",
+    "C(iv)",
+    "C(v)",
+    "D(i)",
+    "D(ii)",
+    "D(iii)",
+    "D(iv)",
+    "D(v)",
+    "E(i)",
+    "E(ii)",
+    "E(iii)",
+    "E(iv)",
+    "E(v)"
+  ],
+  "questions": [
+    {
+      "id": "A(i)",
+      "section": "Section A: Dictation",
+      "prompt": "Write dictation sentence 1.",
+      "steps": [
+        "Listen to the whole sentence before writing, then separate the spoken words carefully.",
+        "Begin with a capital letter, leave spaces between words, and finish with a full stop. Check your spelling when the sentence is read again."
+      ],
+      "answer": "His baby looks sick."
+    },
+    {
+      "id": "A(ii)",
+      "section": "Section A: Dictation",
+      "prompt": "Write dictation sentence 2.",
+      "steps": [
+        "Listen to the whole sentence before writing, then separate the spoken words carefully.",
+        "Begin with a capital letter, leave spaces between words, and finish with a full stop. Check your spelling when the sentence is read again."
+      ],
+      "answer": "Put your books there."
+    },
+    {
+      "id": "A(iii)",
+      "section": "Section A: Dictation",
+      "prompt": "Write dictation sentence 3.",
+      "steps": [
+        "Listen to the whole sentence before writing, then separate the spoken words carefully.",
+        "Begin with a capital letter, leave spaces between words, and finish with a full stop. Check your spelling when the sentence is read again."
+      ],
+      "answer": "Those are our teachers."
+    },
+    {
+      "id": "A(iv)",
+      "section": "Section A: Dictation",
+      "prompt": "Write dictation sentence 4.",
+      "steps": [
+        "Listen to the whole sentence before writing, then separate the spoken words carefully.",
+        "Begin with a capital letter, leave spaces between words, and finish with a full stop. Check your spelling when the sentence is read again."
+      ],
+      "answer": "We caused the accident."
+    },
+    {
+      "id": "A(v)",
+      "section": "Section A: Dictation",
+      "prompt": "Write dictation sentence 5.",
+      "steps": [
+        "Listen to the whole sentence before writing, then separate the spoken words carefully.",
+        "Begin with a capital letter, leave spaces between words, and finish with a full stop. Check your spelling when the sentence is read again."
+      ],
+      "answer": "They are watching television."
+    },
+    {
+      "id": "B(i)",
+      "section": "Section B: Vocabulary",
+      "prompt": "My father flies aeroplanes. What is his occupation?",
+      "steps": [
+        "A person trained to fly an aircraft is a pilot.",
+        "Select the occupation, rather than a road driver or the name of a bird."
+      ],
+      "answer": "A. A pilot."
+    },
+    {
+      "id": "B(ii)",
+      "section": "Section B: Vocabulary",
+      "prompt": "What do we call a female parent?",
+      "steps": [
+        "Identify the relationship to a child.",
+        "The female parent is the mother; an aunt is a parent's sister."
+      ],
+      "answer": "C. Your mother."
+    },
+    {
+      "id": "B(iii)",
+      "section": "Section B: Vocabulary",
+      "prompt": "He stole my car last night. What is he?",
+      "steps": [
+        "Stealing means taking another person's property without permission.",
+        "The person who steals is a thief."
+      ],
+      "answer": "A. A thief."
+    },
+    {
+      "id": "B(iv)",
+      "section": "Section B: Vocabulary",
+      "prompt": "Why does Hawa's young brother like sugar?",
+      "steps": [
+        "The question asks about taste.",
+        "Sugar tastes sweet; sweat is moisture from the skin."
+      ],
+      "answer": "B. Sweet."
+    },
+    {
+      "id": "B(v)",
+      "section": "Section B: Vocabulary",
+      "prompt": "Express 06:12 in words.",
+      "steps": [
+        "Read the hour as six and the minutes as twelve.",
+        "Twelve minutes after the hour is described as twelve minutes past six."
+      ],
+      "answer": "D. Twelve minutes past six o'clock."
+    },
+    {
+      "id": "C(i)",
+      "section": "Section C: Grammar",
+      "prompt": "She __ me yesterday. Choose visit, visited or visiting.",
+      "steps": [
+        "Yesterday places the action in the past.",
+        "Use the simple past form of visit."
+      ],
+      "answer": "Visited: She visited me yesterday."
+    },
+    {
+      "id": "C(ii)",
+      "section": "Section C: Grammar",
+      "prompt": "I think I left my pen in __ kitchen. Choose a, the or an.",
+      "steps": [
+        "The sentence refers to a particular kitchen known to the speaker.",
+        "Use the definite article."
+      ],
+      "answer": "The: I think I left my pen in the kitchen."
+    },
+    {
+      "id": "C(iii)",
+      "section": "Section C: Grammar",
+      "prompt": "How __ sugar does she want? Choose many, much or any.",
+      "steps": [
+        "Sugar is treated as an uncountable noun here.",
+        "Use how much for amounts; how many is for countable items."
+      ],
+      "answer": "Much: How much sugar does she want?"
+    },
+    {
+      "id": "C(iv)",
+      "section": "Section C: Grammar",
+      "prompt": "I wake up __ 5.00 a.m. every morning. Choose at, in or on.",
+      "steps": [
+        "5.00 a.m. is an exact clock time.",
+        "Use at before a specific time."
+      ],
+      "answer": "At: I wake up at 5.00 a.m. every morning."
+    },
+    {
+      "id": "C(v)",
+      "section": "Section C: Grammar",
+      "prompt": "An elephant is __ than a lion. Choose big, bigger or biggest.",
+      "steps": [
+        "The sentence compares two animals and includes than.",
+        "Use the comparative form, doubling the final consonant in big."
+      ],
+      "answer": "Bigger: An elephant is bigger than a lion."
+    },
+    {
+      "id": "D(i)",
+      "section": "Section D: Composition",
+      "prompt": "Complete the first story blank: One day I was __ in the forest.",
+      "steps": [
+        "Was requires an -ing form to describe an action in progress in the past.",
+        "Choose the movement that fits being in a forest."
+      ],
+      "answer": "Walking."
+    },
+    {
+      "id": "D(ii)",
+      "section": "Section D: Composition",
+      "prompt": "Complete: A snake __ me on my foot.",
+      "steps": [
+        "The story is narrated in the past.",
+        "The simple past of bite is bit."
+      ],
+      "answer": "Bit."
+    },
+    {
+      "id": "D(iii)",
+      "section": "Section D: Composition",
+      "prompt": "Complete: I cried __ and my friends came.",
+      "steps": [
+        "The blank describes how the narrator cried, so it needs an adverb.",
+        "A loud cry would attract the friends' attention."
+      ],
+      "answer": "Loudly."
+    },
+    {
+      "id": "D(iv)",
+      "section": "Section D: Composition",
+      "prompt": "Complete: They gave me __ and took me to hospital.",
+      "steps": [
+        "Identify the immediate assistance provided before hospital treatment.",
+        "That assistance is called first aid."
+      ],
+      "answer": "First aid."
+    },
+    {
+      "id": "D(v)",
+      "section": "Section D: Composition",
+      "prompt": "Complete: The snake which had bitten me was very __.",
+      "steps": [
+        "After very, this sentence needs an adjective describing the snake.",
+        "The retyped word bank has poison, a noun. The official examiner report confirms the intended adjective poisonous."
+      ],
+      "answer": "Poisonous.",
+      "tip": "The original exam uses poisonous. Correct the transcription before practising; poison does not fit this sentence."
+    },
+    {
+      "id": "E(i)",
+      "section": "Section E: Comprehension",
+      "prompt": "Who invited Mr. Hyena?",
+      "steps": [
+        "Find the two hosts at the beginning of the passage.",
+        "The birthday belonged to Mr. Elephant and the wedding to Mr. Lion."
+      ],
+      "answer": "Mr. Elephant and Mr. Lion invited Mr. Hyena."
+    },
+    {
+      "id": "E(ii)",
+      "section": "Section E: Comprehension",
+      "prompt": "Which party did Mr. Hyena attend first?",
+      "steps": [
+        "Locate the passage's first visit.",
+        "He went to the wedding before trying the birthday celebration."
+      ],
+      "answer": "He first attended Mr. Lion's wedding party."
+    },
+    {
+      "id": "E(iii)",
+      "section": "Section E: Comprehension",
+      "prompt": "What did he find when he reached the birthday party?",
+      "steps": [
+        "Read what had happened before his arrival.",
+        "The guests had already eaten."
+      ],
+      "answer": "He found that all the guests had finished eating."
+    },
+    {
+      "id": "E(iv)",
+      "section": "Section E: Comprehension",
+      "prompt": "Why did he want to attend both parties?",
+      "steps": [
+        "The passage directly states his motive.",
+        "Relate his wish to eat at both celebrations to that motive."
+      ],
+      "answer": "He wanted to attend both parties because he was greedy."
+    },
+    {
+      "id": "E(v)",
+      "section": "Section E: Comprehension",
+      "prompt": "What do we learn from the story?",
+      "steps": [
+        "Hyena's attempt to obtain food at both parties left him with none.",
+        "State a lesson connected to the outcome."
+      ],
+      "answer": "We should avoid greed and be content with what we have.",
+      "tip": "This is a model response. Another clearly explained lesson about avoiding greed can also answer the question."
+    }
+  ],
+  "summaries": {
+    "Section A: Dictation": "Practise listening, word spacing, capital letters and punctuation. Ask someone to read each sentence aloud before you check it.",
+    "Section B: Vocabulary": "Read the complete sentence. Check the exact meaning, relationship, occupation or collective noun before choosing its letter.",
+    "Section C: Grammar": "Check the subject, time expression, noun type and any auxiliary verb before selecting the correct grammatical form.",
+    "Section D: Composition": "Use context and grammar together. Read the whole composition again to check that the completed ideas connect logically.",
+    "Section E: Comprehension": "Locate evidence in the passage, then answer in your own clear sentence. Support a moral or lesson with what happened in the story."
+  },
+  "references": [
+    {
+      "title": "NECTA dictation teacher sheet",
+      "url": "https://maktaba.tetea.org/past-papers/std4/english/English-Dictation-S4-2021.pdf"
+    },
+    {
+      "title": "NECTA examiner report (source transcription checked)",
+      "url": "https://onlinesys.necta.go.tz/cira/sfna/2021/02_ENGLISH_LANGUAGE.pdf"
+    }
+  ],
+  "sha256": "9bb6bef847674f03a119ac91efc1f0fc63ca7deaaf0023a0b94412af196fb8e3",
+  "labelling_note": "Parts are labelled by section A-E because the main question numbers in the library transcription are inconsistent."
+}

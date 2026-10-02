@@ -1,0 +1,550 @@
+{
+  "exam": "Kiswahili-F2-2021.pdf",
+  "output": "Kiswahili-F2-2021-AnswerKey.pdf",
+  "subject": "Kiswahili",
+  "level": "Form Two",
+  "year": "2021",
+  "code": "021",
+  "exam_type": "Form Two National Assessment (FTNA)",
+  "question_count": "10 questions; 47 answered parts",
+  "language": "sw",
+  "reviewed": true,
+  "sha256": "fde5c735289120f48e2a879f0e08348bf4d01115a97f3977161fa3570ab41808",
+  "expected_parts": [
+    "1(a)",
+    "1(b)",
+    "1(c)",
+    "1(d)(i)",
+    "1(d)(ii)",
+    "2",
+    "3(a)",
+    "3(b)",
+    "3(c)",
+    "3(d)",
+    "3(e)",
+    "4(a)(i)",
+    "4(a)(ii)",
+    "4(a)(iii)",
+    "4(a)(iv)",
+    "4(a)(v)",
+    "4(b)(i)",
+    "4(b)(ii)",
+    "4(b)(iii)",
+    "4(b)(iv)",
+    "4(b)(v)",
+    "5(a)",
+    "5(b)",
+    "5(c)",
+    "5(d)",
+    "5(e)",
+    "6(b)",
+    "6(c)",
+    "6(d)",
+    "6(e)",
+    "6(f)",
+    "7(a)",
+    "7(b)",
+    "7(c)",
+    "7(d)",
+    "7(e)",
+    "8(a)",
+    "8(b)",
+    "8(c)",
+    "8(d)",
+    "8(e)",
+    "9(a)",
+    "9(b)",
+    "9(c)",
+    "9(d)",
+    "9(e)",
+    "10"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Sehemu A — Ufahamu",
+      "prompt": "Andika kichwa cha habari kwa maneno yasiyozidi matano.",
+      "answer": "VVU na UKIMWI",
+      "steps": [
+        "Tambua kiini cha habari: virusi, kinga ya mwili na tofauti ya maambukizi na hali ya ugonjwa.",
+        "Hesabu VVU (1), na (2), UKIMWI (3); hivyo kichwa kinakidhi kikomo cha maneno matano."
+      ]
+    },
+    {
+      "id": "1(b)",
+      "section": "Sehemu A — Ufahamu",
+      "prompt": "Andika kirefu cha UKIMWI.",
+      "answer": "Upungufu wa Kinga Mwilini.",
+      "steps": [
+        "Rejea ufafanuzi wa sentensi ya kwanza.",
+        "Panua kifupisho bila kubadilisha maana."
+      ]
+    },
+    {
+      "id": "1(c)",
+      "section": "Sehemu A — Ufahamu",
+      "prompt": "Virusi vinavyoelezwa vina madhara gani mwilini?",
+      "answer": "Hushambulia na kuharibu chembechembe nyeupe zinazosaidia kinga ya mwili, hivyo kudhoofisha uwezo wa mwili kupambana na magonjwa.",
+      "steps": [
+        "Tambua sehemu inayoshambuliwa kulingana na kifungu.",
+        "Unganisha uharibifu huo na kupungua kwa kinga; jibu kwa mujibu wa habari."
+      ]
+    },
+    {
+      "id": "1(d)(i)",
+      "section": "Sehemu A — Ufahamu",
+      "prompt": "Tofautisha mtu mwenye VVU na mgonjwa wa UKIMWI kwa mujibu wa habari.",
+      "answer": "Mtu mwenye VVU ana maambukizi ya virusi na anaweza asiwe na dalili zinazoonekana. UKIMWI ni hatua ya kudhoofika sana kwa kinga inayomwezesha mtu kushambuliwa na magonjwa mbalimbali.",
+      "steps": [
+        "Tofautisha kuwepo kwa virusi na hali ya kudhoofika sana kwa kinga.",
+        "Usitumie sura ya mtu kama uthibitisho wa hali yake; kifungu kinaeleza kuwa mtu anaweza kutokuwa na dalili."
+      ]
+    },
+    {
+      "id": "1(d)(ii)",
+      "section": "Sehemu A — Ufahamu",
+      "prompt": "Chembechembe nyeupe zina kazi gani?",
+      "answer": "Husaidia kujenga na kulinda kinga ya mwili dhidi ya vimelea na magonjwa.",
+      "steps": [
+        "Rejea aya ya kwanza.",
+        "Taja kazi ya ulinzi wa mwili, si kubeba oksijeni ambako ni kazi kuu ya chembechembe nyekundu."
+      ]
+    },
+    {
+      "id": "2",
+      "section": "Sehemu A — Ufahamu",
+      "prompt": "Fupisha habari kwa maneno 50–60.",
+      "answer": "UKIMWI ni upungufu wa kinga mwilini unaohusishwa na virusi vinavyoshambulia chembechembe nyeupe za damu. Chembechembe hizi hulinda mwili dhidi ya magonjwa. VVU na UKIMWI si kitu kilekile; mwenye virusi anaweza kutokuwa na dalili, lakini mwenye UKIMWI ana kinga iliyodhoofika sana. Kifungu kinaeleza kwamba kuangalia sura ya mtu pekee hakutoshi kutambua kama ana virusi hivyo.",
+      "steps": [
+        "Chagua hoja kuu: maana, uharibifu wa kinga, tofauti na kutokuwepo kwa dalili zinazoonekana.",
+        "Unganisha hoja bila mifano mipya; muhtasari huu una maneno 54."
+      ],
+      "tip": "Hili ni zoezi la ufahamu wa kifungu cha mtihani. Usihitimishe hali ya afya ya mtu kwa kuangalia sura yake."
+    },
+    {
+      "id": "3(a)",
+      "section": "Sehemu B — Sarufi",
+      "prompt": "Eleza maana ya Mzizi wa neno.",
+      "answer": "Sehemu ya msingi ya neno inayobeba maana yake kuu na kubaki baada ya kuondoa viambishi. Mfano: lim- katika analima.",
+      "steps": [
+        "Fasili dhana na utoe mfano mfupi.",
+        "Gawa a-na-lim-a na utambue msingi lim-."
+      ]
+    },
+    {
+      "id": "3(b)",
+      "section": "Sehemu B — Sarufi",
+      "prompt": "Eleza maana ya Mofimu.",
+      "answer": "Kipashio kidogo kabisa cha lugha chenye maana ya kileksika au kazi ya kisarufi. Mfano: -na- katika anasoma huonesha wakati uliopo.",
+      "steps": [
+        "Fasili dhana na utoe mfano mfupi.",
+        "Maana ya mofimu inaweza kuwa ya neno au taarifa kama wakati na nafsi."
+      ]
+    },
+    {
+      "id": "3(c)",
+      "section": "Sehemu B — Sarufi",
+      "prompt": "Eleza maana ya Mnyambuliko.",
+      "answer": "Neno jipya linalotokana na kuongeza au kubadilisha viambishi vya mzizi au shina. Mfano: soma → somesha.",
+      "steps": [
+        "Fasili dhana na utoe mfano mfupi.",
+        "Tofautisha mzizi na neno lililozalishwa kutokana nao."
+      ]
+    },
+    {
+      "id": "3(d)",
+      "section": "Sehemu B — Sarufi",
+      "prompt": "Eleza maana ya Kamusi.",
+      "answer": "Kitabu au hazina ya kidijitali yenye vidahizo na maelezo yake, kama maana, matamshi na aina za maneno.",
+      "steps": [
+        "Fasili dhana na utoe mfano mfupi.",
+        "Vidahizo hupangwa kwa utaratibu unaorahisisha kutafuta, mara nyingi alfabeti."
+      ]
+    },
+    {
+      "id": "3(e)",
+      "section": "Sehemu B — Sarufi",
+      "prompt": "Eleza maana ya Kidahizo.",
+      "answer": "Neno au kichwa cha ingizo linalofafanuliwa katika kamusi.",
+      "steps": [
+        "Fasili dhana na utoe mfano mfupi.",
+        "Kidahizo hutambulisha neno linalotafutwa; maelezo yote ya ingizo ni kitomeo."
+      ]
+    },
+    {
+      "id": "4(a)(i)",
+      "section": "Sehemu B — Sarufi",
+      "prompt": "Nyambua Imba katika kauli ya kutendesha.",
+      "answer": "Imbisha",
+      "steps": [
+        "Kauli ya kutendesha huonesha mtu kusababisha mwingine afanye tendo.",
+        "Ongeza -ish- ili kuonesha kumfanya mwingine aimbe."
+      ]
+    },
+    {
+      "id": "4(a)(ii)",
+      "section": "Sehemu B — Sarufi",
+      "prompt": "Nyambua Lima katika kauli ya kutendesha.",
+      "answer": "Limisha",
+      "steps": [
+        "Kauli ya kutendesha huonesha mtu kusababisha mwingine afanye tendo.",
+        "Lim- + -ish- + -a huonesha usababishi."
+      ]
+    },
+    {
+      "id": "4(a)(iii)",
+      "section": "Sehemu B — Sarufi",
+      "prompt": "Nyambua Zoa katika kauli ya kutendesha.",
+      "answer": "Zolesha",
+      "steps": [
+        "Kauli ya kutendesha huonesha mtu kusababisha mwingine afanye tendo.",
+        "Mzizi wa kitenzi hiki hupokea -lesh-: zoa → zolesha, yaani kumfanya mtu azoe."
+      ]
+    },
+    {
+      "id": "4(a)(iv)",
+      "section": "Sehemu B — Sarufi",
+      "prompt": "Nyambua Piga katika kauli ya kutendesha.",
+      "answer": "Pigisha",
+      "steps": [
+        "Kauli ya kutendesha huonesha mtu kusababisha mwingine afanye tendo.",
+        "Pig- + -ish- + -a huonesha kumfanya mwingine apige."
+      ]
+    },
+    {
+      "id": "4(a)(v)",
+      "section": "Sehemu B — Sarufi",
+      "prompt": "Nyambua Soma katika kauli ya kutendesha.",
+      "answer": "Somesha",
+      "steps": [
+        "Kauli ya kutendesha huonesha mtu kusababisha mwingine afanye tendo.",
+        "Som- + -esh- + -a huonesha kusababisha kusoma."
+      ]
+    },
+    {
+      "id": "4(b)(i)",
+      "section": "Sehemu B — Sarufi",
+      "prompt": "Bainisha kivumishi na aina yake: Mti mkavu umekatwa.",
+      "answer": "mkavu — kivumishi cha sifa.",
+      "steps": [
+        "Tambua neno au kirai kinachoeleza nomino.",
+        "Mkavu hueleza hali ya mti."
+      ]
+    },
+    {
+      "id": "4(b)(ii)",
+      "section": "Sehemu B — Sarufi",
+      "prompt": "Bainisha kivumishi na aina yake: Watoto wanne wameondoka.",
+      "answer": "wanne — kivumishi cha idadi.",
+      "steps": [
+        "Tambua neno au kirai kinachoeleza nomino.",
+        "Wanne hutaja hesabu ya watoto."
+      ]
+    },
+    {
+      "id": "4(b)(iii)",
+      "section": "Sehemu B — Sarufi",
+      "prompt": "Bainisha kivumishi na aina yake: Mtu yule ni mwizi.",
+      "answer": "yule — kivumishi kioneshi.",
+      "steps": [
+        "Tambua neno au kirai kinachoeleza nomino.",
+        "Yule humtambulisha mtu anayerejelewa."
+      ]
+    },
+    {
+      "id": "4(b)(iv)",
+      "section": "Sehemu B — Sarufi",
+      "prompt": "Bainisha kivumishi na aina yake: Banda la kuku limejengwa vizuri.",
+      "answer": "la kuku — kivumishi cha a-unganifu/uhusiano.",
+      "steps": [
+        "Tambua neno au kirai kinachoeleza nomino.",
+        "La huunganisha banda na kuku na kueleza uhusiano au matumizi yake."
+      ]
+    },
+    {
+      "id": "4(b)(v)",
+      "section": "Sehemu B — Sarufi",
+      "prompt": "Bainisha kivumishi na aina yake: Wanafunzi wangu wamefaulu mtihani.",
+      "answer": "wangu — kivumishi kimilikishi.",
+      "steps": [
+        "Tambua neno au kirai kinachoeleza nomino.",
+        "Wangu huonesha uhusiano wa umiliki au kuhusika na msemaji."
+      ]
+    },
+    {
+      "id": "5(a)",
+      "section": "Sehemu C — Mawasiliano",
+      "prompt": "Toa maana mbili za tungo tata: Amempigia nini?",
+      "answer": "1. Ametumia kitu gani kumpiga?\n2. Amempiga kwa sababu gani?",
+      "steps": [
+        "Tambua neno au muundo unaoruhusu maana zaidi ya moja.",
+        "Kutendea katika kupigia kunaweza kutaja kifaa au sababu ya kupiga."
+      ]
+    },
+    {
+      "id": "5(b)",
+      "section": "Sehemu C — Mawasiliano",
+      "prompt": "Toa maana mbili za tungo tata: Nimenunua mbuzi.",
+      "answer": "1. Nimenunua mnyama anayeitwa mbuzi.\n2. Nimenunua kifaa cha kukunia nazi.",
+      "steps": [
+        "Tambua neno au muundo unaoruhusu maana zaidi ya moja.",
+        "Mbuzi lina maana mbili za kileksika."
+      ]
+    },
+    {
+      "id": "5(c)",
+      "section": "Sehemu C — Mawasiliano",
+      "prompt": "Toa maana mbili za tungo tata: Eda ameshinda shuleni.",
+      "answer": "1. Eda amepata ushindi katika mashindano shuleni.\n2. Eda amekaa shuleni kwa muda wa mchana.",
+      "steps": [
+        "Tambua neno au muundo unaoruhusu maana zaidi ya moja.",
+        "Shinda linaweza kumaanisha kupata ushindi au kukaa mahali kwa muda."
+      ]
+    },
+    {
+      "id": "5(d)",
+      "section": "Sehemu C — Mawasiliano",
+      "prompt": "Toa maana mbili za tungo tata: Ukija njoo na nyanya.",
+      "answer": "1. Njoo na bibi yako.\n2. Njoo na matunda ya nyanya yanayotumiwa kama kiungo cha chakula.",
+      "steps": [
+        "Tambua neno au muundo unaoruhusu maana zaidi ya moja.",
+        "Nyanya humaanisha bibi au zao la chakula."
+      ]
+    },
+    {
+      "id": "5(e)",
+      "section": "Sehemu C — Mawasiliano",
+      "prompt": "Toa maana mbili za tungo tata: Nyumbani kwao kuna tembo.",
+      "answer": "1. Kuna mnyama au wanyama aina ya tembo.\n2. Kuna pombe ya mnazi inayoitwa tembo.",
+      "steps": [
+        "Tambua neno au muundo unaoruhusu maana zaidi ya moja.",
+        "Tembo ni homonimu yenye maana ya mnyama na aina ya kinywaji."
+      ]
+    },
+    {
+      "id": "6(b)",
+      "section": "Sehemu C — Mawasiliano",
+      "prompt": "Bainisha kosa na sahihisha: Sisi hatuna nyumba tumepangisha kwa mzee Juma.",
+      "answer": "Kosa: tumepangisha.\nSahihi: Sisi hatuna nyumba; tumepanga kwa Mzee Juma.",
+      "steps": [
+        "Chunguza maana, tahajia au upatanisho wa kisarufi.",
+        "Wapangaji hupanga nyumba; mwenye nyumba humpangisha mwingine."
+      ]
+    },
+    {
+      "id": "6(c)",
+      "section": "Sehemu C — Mawasiliano",
+      "prompt": "Bainisha kosa na sahihisha: Diwani alihutubia kwa muda wa masaa sita.",
+      "answer": "Kosa: masaa.\nSahihi: Diwani alihutubia kwa muda wa saa sita.",
+      "steps": [
+        "Chunguza maana, tahajia au upatanisho wa kisarufi.",
+        "Saa ni neno linalotumia umbo lilelile katika umoja na wingi."
+      ]
+    },
+    {
+      "id": "6(d)",
+      "section": "Sehemu C — Mawasiliano",
+      "prompt": "Bainisha kosa na sahihisha: Amenunua dazani mbili za sufuria.",
+      "answer": "Kosa: dazani.\nSahihi: Amenunua dazeni mbili za sufuria.",
+      "steps": [
+        "Chunguza maana, tahajia au upatanisho wa kisarufi.",
+        "Tumia tahajia sanifu dazeni."
+      ]
+    },
+    {
+      "id": "6(e)",
+      "section": "Sehemu C — Mawasiliano",
+      "prompt": "Bainisha kosa na sahihisha: Sisi wote tu abiria, kelele za nini?",
+      "answer": "Kosa: tu.\nSahihi: Sisi wote ni abiria; kelele za nini?",
+      "steps": [
+        "Chunguza maana, tahajia au upatanisho wa kisarufi.",
+        "Ni ndicho kitenzi kishirikishi kinachotakiwa hapa."
+      ]
+    },
+    {
+      "id": "6(f)",
+      "section": "Sehemu C — Mawasiliano",
+      "prompt": "Bainisha kosa na sahihisha: Mwalimu alisahihisha daftari za wanafunzi wake.",
+      "answer": "Kosa: daftari za.\nSahihi: Mwalimu alisahihisha madaftari ya wanafunzi wake.",
+      "steps": [
+        "Chunguza maana, tahajia au upatanisho wa kisarufi.",
+        "Wingi wa daftari ni madaftari na upatanisho wake ni ya. Kwa daftari moja, tumia daftari la."
+      ]
+    },
+    {
+      "id": "7(a)",
+      "section": "Sehemu D — Fasihi",
+      "prompt": "Fafanua kipera Ngano.",
+      "answer": "Hadithi za kubuni zinazoweza kutumia binadamu, wanyama au viumbe wa ajabu ili kufundisha na kuburudisha.",
+      "steps": [
+        "Eleza sifa inayokitofautisha na vipera vingine.",
+        "Mfano ni hadithi ya sungura na fisi inayofunza kuhusu ujanja na tamaa."
+      ]
+    },
+    {
+      "id": "7(b)",
+      "section": "Sehemu D — Fasihi",
+      "prompt": "Fafanua kipera Vigano.",
+      "answer": "Hadithi fupi zenye mfano au fumbo linalotoa funzo la kimaadili.",
+      "steps": [
+        "Eleza sifa inayokitofautisha na vipera vingine.",
+        "Kisa cha mtu mchoyo anayepoteza alicho nacho kinaweza kutoa onyo dhidi ya tamaa."
+      ]
+    },
+    {
+      "id": "7(c)",
+      "section": "Sehemu D — Fasihi",
+      "prompt": "Fafanua kipera Soga.",
+      "answer": "Masimulizi mafupi yanayohusu watu au matukio ya kawaida, mara nyingi ya kuchekesha au kukejeli.",
+      "steps": [
+        "Eleza sifa inayokitofautisha na vipera vingine.",
+        "Soga husimuliwa katika mazungumzo na huhusisha hali zinazotambulika katika jamii."
+      ]
+    },
+    {
+      "id": "7(d)",
+      "section": "Sehemu D — Fasihi",
+      "prompt": "Fafanua kipera Tarihi.",
+      "answer": "Masimulizi ya matukio ya kihistoria, watu au asili ya jamii yanayodaiwa kuwa yalitokea.",
+      "steps": [
+        "Eleza sifa inayokitofautisha na vipera vingine.",
+        "Mfano ni masimulizi ya kuanzishwa kwa kijiji au maisha ya kiongozi wa zamani."
+      ]
+    },
+    {
+      "id": "7(e)",
+      "section": "Sehemu D — Fasihi",
+      "prompt": "Fafanua kipera Visasili.",
+      "answer": "Masimulizi yanayoeleza asili ya jambo, desturi au hali ya ulimwengu kwa imani na ubunifu wa jamii.",
+      "steps": [
+        "Eleza sifa inayokitofautisha na vipera vingine.",
+        "Mfano ni hadithi inayoeleza kwa nini kobe ana gamba."
+      ]
+    },
+    {
+      "id": "8(a)",
+      "section": "Sehemu D — Fasihi",
+      "prompt": "Toa maana ya semi Kujitia kitanzi.",
+      "answer": "Kujiingiza mwenyewe katika tatizo au hatari.",
+      "steps": [
+        "Tafuta maana ya kimajazi badala ya maana ya kila neno pekee.",
+        "Kitanzi ni taswira ya jambo linalomtega mhusika."
+      ]
+    },
+    {
+      "id": "8(b)",
+      "section": "Sehemu D — Fasihi",
+      "prompt": "Toa maana ya semi Kuwa kinyonga.",
+      "answer": "Kubadili msimamo au tabia kulingana na mazingira ili kujinufaisha.",
+      "steps": [
+        "Tafuta maana ya kimajazi badala ya maana ya kila neno pekee.",
+        "Linganisha mabadiliko ya msimamo na taswira ya kinyonga."
+      ]
+    },
+    {
+      "id": "8(c)",
+      "section": "Sehemu D — Fasihi",
+      "prompt": "Toa maana ya semi Kumpaka mtu matope.",
+      "answer": "Kumchafulia mtu jina au kumwondolea heshima kwa tuhuma.",
+      "steps": [
+        "Tafuta maana ya kimajazi badala ya maana ya kila neno pekee.",
+        "Matope yanaonesha kuchafua sifa, si kumwagia udongo kihalisi."
+      ]
+    },
+    {
+      "id": "8(d)",
+      "section": "Sehemu D — Fasihi",
+      "prompt": "Toa maana ya semi Mla mbuzi hulipa ng’ombe.",
+      "answer": "Kosa linaweza kulipiwa kwa adhabu au fidia kubwa kuliko faida aliyopata mkosaji.",
+      "steps": [
+        "Tafuta maana ya kimajazi badala ya maana ya kila neno pekee.",
+        "Linganisho la mbuzi na ng’ombe linasisitiza ukubwa wa matokeo."
+      ]
+    },
+    {
+      "id": "8(e)",
+      "section": "Sehemu D — Fasihi",
+      "prompt": "Toa maana ya semi Ulimi wa pilipili.",
+      "answer": "Tabia ya kusema maneno makali, ya kuudhi au kuumiza.",
+      "steps": [
+        "Tafuta maana ya kimajazi badala ya maana ya kila neno pekee.",
+        "Ukali wa pilipili umehamishwa kwenda kwenye maneno."
+      ]
+    },
+    {
+      "id": "9(a)",
+      "section": "Sehemu D — Fasihi",
+      "prompt": "Tegua kitendawili: Nasuka mkeka lakini nalala chini.",
+      "answer": "Buibui.",
+      "steps": [
+        "Linganisha picha ya fumbo na sifa ya kitu kinachorejelewa.",
+        "Utando wake unafananishwa na mkeka uliosukwa; yeye hukaa chini yake."
+      ]
+    },
+    {
+      "id": "9(b)",
+      "section": "Sehemu D — Fasihi",
+      "prompt": "Tegua kitendawili: Kila aendapo huacha alama.",
+      "answer": "Kalamu.",
+      "steps": [
+        "Linganisha picha ya fumbo na sifa ya kitu kinachorejelewa.",
+        "Kalamu hupita kwenye karatasi na kuacha maandishi au alama."
+      ]
+    },
+    {
+      "id": "9(c)",
+      "section": "Sehemu D — Fasihi",
+      "prompt": "Tegua kitendawili: Nikimpiga mwanangu watu hucheza.",
+      "answer": "Ngoma.",
+      "steps": [
+        "Linganisha picha ya fumbo na sifa ya kitu kinachorejelewa.",
+        "Kupiga ngoma hutengeneza midundo inayofuatwa na wachezaji."
+      ]
+    },
+    {
+      "id": "9(d)",
+      "section": "Sehemu D — Fasihi",
+      "prompt": "Tegua kitendawili: Anatembea na nyumba yake.",
+      "answer": "Konokono; kobe pia anaweza kuteguliwa katika toleo linalorejelea gamba.",
+      "steps": [
+        "Linganisha picha ya fumbo na sifa ya kitu kinachorejelewa.",
+        "Gamba analobeba hufananishwa na nyumba ya kujisitiri."
+      ]
+    },
+    {
+      "id": "9(e)",
+      "section": "Sehemu D — Fasihi",
+      "prompt": "Tegua kitendawili: Nyumba yangu ina nguzo moja.",
+      "answer": "Uyoga.",
+      "steps": [
+        "Linganisha picha ya fumbo na sifa ya kitu kinachorejelewa.",
+        "Kofia ya uyoga hufananishwa na paa na shina lake na nguzo moja."
+      ]
+    },
+    {
+      "id": "10",
+      "section": "Sehemu E — Utungaji",
+      "prompt": "Bwana na Bibi Furahisha waalike Sikitu Mwala katika sherehe ya kuzaliwa ya Faraja tarehe 22 Desemba.",
+      "answer": "KADI YA MWALIKO\nBwana na Bibi Furahisha\nwanamwalika kwa furaha rafiki yao mpendwa\nSIKITU MWALA\nkuhudhuria sherehe ya kumbukumbu ya kuzaliwa kwa mtoto wao\nFARAJA\nTarehe: 22 Desemba 2021\nMuda: Saa 10:00 jioni\nMahali: Nyumbani kwa familia ya Furahisha\nUwepo wako utazidisha furaha yetu.\nTafadhali thibitisha kuhudhuria kwa familia ya Furahisha.",
+      "steps": [
+        "Tumia majina, mtoto anayesherehekewa na tarehe iliyopewa.",
+        "Panga madhumuni, muda na mahali kwa mistari inayoonekana wazi.",
+        "Mwaka, muda na mahali hapa ni maelezo ya mfano yaliyoongezwa ili kadi iwe kamili; swali halijavibainisha."
+      ],
+      "tip": "Usibadilishe jina la mwalikwa kuwa Faraja; Faraja ndiye mtoto anayefanyiwa sherehe."
+    }
+  ],
+  "summaries": {
+    "Sehemu A — Ufahamu": "Muhtasari huhifadhi hoja kuu na kikomo cha maneno. Jibu ufahamu kwa kuzingatia kifungu.",
+    "Sehemu B — Sarufi": "Kauli ya kutendesha huonesha usababishi. Kivumishi huambatana na nomino na kueleza sifa, idadi, umiliki au uhusiano.",
+    "Sehemu C — Mawasiliano": "Utata unaweza kutokana na maana nyingi za neno au kauli ya kitenzi. Sahihisha kosa bila kubadilisha ujumbe wa sentensi.",
+    "Sehemu D — Fasihi": "Tofautisha ngano, vigano, soga, tarihi na visasili. Semi na vitendawili hutumia picha kufikisha maana.",
+    "Sehemu E — Utungaji": "Kadi ihusishe mwenye sherehe, mwalikwa, tukio, tarehe, muda na mahali."
+  },
+  "references": [
+    {
+      "title": "Utafiti wa Chuo Kikuu cha Nairobi — mfano wa zoa → zolesha",
+      "url": "https://erepository.uonbi.ac.ke/bitstream/handle/11295/155518/Chisia%20M_Uchanganuzi%20Wa%20Kauli%20Katika%20Sentensi%20Elekezi%20Ya%20Kiswahili%20Sanifu-%20Mtazamo%20Wa%20Nadharia%20Ya%20Ubanifu.pdf?isAllowed=y&sequence=1"
+    }
+  ]
+}

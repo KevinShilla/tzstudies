@@ -1,0 +1,300 @@
+{
+  "exam": "BasicMath-F2-2023.pdf",
+  "output": "BasicMath-F2-2023-AnswerKey.pdf",
+  "subject": "Basic Mathematics",
+  "level": "Form Two",
+  "year": "2023",
+  "code": "041",
+  "exam_type": "Form Two National Assessment (FTNA)",
+  "question_count": "10 compulsory questions; 23 answered parts",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "36062acc4e5981a33edd8da643baccd3ee7430944517df26b4016fcd47268038",
+  "expected_parts": [
+    "1(a)",
+    "1(b)(i)",
+    "1(b)(ii)",
+    "2(a)",
+    "2(b)",
+    "3(a)",
+    "3(b)",
+    "4(a)",
+    "4(b)",
+    "5(a)",
+    "5(b)",
+    "6(a)",
+    "6(b)",
+    "7(a)",
+    "7(b)",
+    "8(a)",
+    "8(b)",
+    "9(a)",
+    "9(b)",
+    "10(a)",
+    "10(b)(i)",
+    "10(b)(ii)",
+    "10(b)(iii)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Question 1 — Multiples and approximation",
+      "prompt": "List the first twelve multiples of 4 and 5; identify the common multiples.",
+      "answer": "4: 4,8,12,16,20,24,28,32,36,40,44,48. 5: 5,10,15,20,25,30,35,40,45,50,55,60. Common in the lists: 20 and 40.",
+      "steps": [
+        "Multiply 4 by each integer 1–12; repeat with 5.",
+        "Compare both lists and keep the values appearing in each. The LCM is 20; 60 is not in the first twelve multiples of 4."
+      ]
+    },
+    {
+      "id": "1(b)(i)",
+      "section": "Question 1 — Multiples and approximation",
+      "prompt": "Evaluate (2/25) × 0.737 to one significant figure.",
+      "answer": "0.06.",
+      "steps": [
+        "2/25 = 0.08; exact product = 0.08 × 0.737 = 0.05896.",
+        "The first significant digit is 5 and the next digit is 8; round it up to 6 in the hundredths place."
+      ]
+    },
+    {
+      "id": "1(b)(ii)",
+      "section": "Question 1 — Multiples and approximation",
+      "prompt": "Give the same product to three decimal places.",
+      "answer": "0.059.",
+      "steps": [
+        "The exact product is 0.05896.",
+        "Keep three digits after the decimal point, 058; the fourth digit is 9, so round 058 up to 059."
+      ]
+    },
+    {
+      "id": "2(a)",
+      "section": "Question 2 — Fractions and percentage change",
+      "prompt": "Arrange 2/3, 4/7, 3/8 and 5/9 in ascending order.",
+      "answer": "3/8 < 5/9 < 4/7 < 2/3.",
+      "steps": [
+        "Use common denominator 504: 2/3 = 336/504, 4/7 = 288/504, 3/8 = 189/504, 5/9 = 280/504.",
+        "Order numerators: 189 < 280 < 288 < 336, then write the corresponding original fractions."
+      ]
+    },
+    {
+      "id": "2(b)",
+      "section": "Question 2 — Fractions and percentage change",
+      "prompt": "Mericho’s population was 2,800 in 2016 and increased by 8% in 2017. Find the 2017 population.",
+      "answer": "3024 people.",
+      "steps": [
+        "Increase = (8/100) × 2800 = 224.",
+        "New population = 2800 + 224 = 3024."
+      ]
+    },
+    {
+      "id": "3(a)",
+      "section": "Question 3 — Units, profit and loss",
+      "prompt": "1000 tonnes of maize are shared equally among 25 schools. How many kilograms does each receive?",
+      "answer": "40,000 kg per school.",
+      "steps": [
+        "1000 tonnes = 1,000,000 kg because 1 tonne = 1000 kg.",
+        "Divide 1,000,000 by 25 to obtain 40,000 kg."
+      ]
+    },
+    {
+      "id": "3(b)",
+      "section": "Question 3 — Units, profit and loss",
+      "prompt": "A radio cost Tsh 80,000 and was sold at 20% profit. Find profit and selling price.",
+      "answer": "Profit: Tsh 16,000; selling price: Tsh 96,000.",
+      "steps": [
+        "Profit percentage is calculated on cost: 0.20 × 80,000 = 16,000.",
+        "Selling price = cost + profit = 80,000 + 16,000 = 96,000."
+      ]
+    },
+    {
+      "id": "4(a)",
+      "section": "Question 4 — Geometry",
+      "prompt": "In trapezium ABCD, AD ∥ BC, A = 60°, D = 40°. At C, a is the upper exterior angle and c the interior angle; B = b. Find a,b,c.",
+      "answer": "a = 40°, b = 120°, c = 140°.",
+      "steps": [
+        "Co-interior angles on AB give b + 60 = 180, hence b = 120°.",
+        "Co-interior angles on CD give c + 40 = 180, hence c = 140°.",
+        "a and c form a straight angle, so a = 180 − 140 = 40° (also alternate interior to D)."
+      ]
+    },
+    {
+      "id": "4(b)",
+      "section": "Question 4 — Geometry",
+      "prompt": "A square room has side 5 m. Find its perimeter and area.",
+      "answer": "Perimeter = 20 m; area = 25 m².",
+      "steps": [
+        "Perimeter = 4 × side = 4 × 5 = 20 m.",
+        "Area = side² = 5² = 25 m². Use squared units for area."
+      ]
+    },
+    {
+      "id": "5(a)",
+      "section": "Question 5 — Algebra",
+      "prompt": "If (6y + 1)/4 = 5(y + 5)/6, find y to three significant figures.",
+      "answer": "y = 5.88 (exactly 47/8).",
+      "steps": [
+        "Multiply by 12 to remove denominators: 3(6y + 1) = 10(y + 5).",
+        "Expand: 18y + 3 = 10y + 50, so 8y = 47 and y = 47/8 = 5.875.",
+        "Retain the first three significant digits 5,8,7; the following 5 rounds 7 up to 8."
+      ]
+    },
+    {
+      "id": "5(b)",
+      "section": "Question 5 — Algebra",
+      "prompt": "Solve 3x² − 7x − 6 = 0 by completing the square.",
+      "answer": "x = 3 or x = −2/3.",
+      "steps": [
+        "Divide by 3: x² − (7/3)x = 2.",
+        "Add (7/6)² to both sides: (x − 7/6)² = 2 + 49/36 = 121/36.",
+        "Take both square roots: x − 7/6 = ±11/6, so x = 18/6 = 3 or −4/6 = −2/3."
+      ]
+    },
+    {
+      "id": "6(a)",
+      "section": "Question 6 — Coordinates and reflection",
+      "prompt": "Find the gradient through (−1,2) and (3,−5).",
+      "answer": "−7/4.",
+      "steps": [
+        "Gradient = change in y divided by change in x.",
+        "m = (−5 − 2)/(3 − (−1)) = −7/4."
+      ]
+    },
+    {
+      "id": "6(b)",
+      "section": "Question 6 — Coordinates and reflection",
+      "prompt": "Find the image of P(−3,7) after reflection in the x-axis and y-axis.",
+      "answer": "In the x-axis: (−3,−7). In the y-axis: (3,7). If applied successively in both axes: (3,−7).",
+      "steps": [
+        "Reflection in the x-axis maps (x,y) to (x,−y); reflection in the y-axis maps (x,y) to (−x,y).",
+        "Apply each to P for separate images. If both transformations are applied one after the other, both signs change."
+      ],
+      "tip": "The wording can mean separate reflections or successive reflections, so the distinction is shown explicitly."
+    },
+    {
+      "id": "7(a)",
+      "section": "Question 7 — Indices and logarithms",
+      "prompt": "Solve 16^(3 − n) × 2^(1 + n) = 1/2; express n as an improper fraction.",
+      "answer": "n = 14/3.",
+      "steps": [
+        "Rewrite 16 = 2⁴ and 1/2 = 2⁻¹.",
+        "Combine equal bases: 2^[4(3 − n) + (1 + n)] = 2⁻¹.",
+        "Equate exponents: 13 − 3n = −1, giving 3n = 14 and n = 14/3. Check 4(3 − 14/3) + 1 + 14/3 = −1."
+      ],
+      "tip": "The faint first exponent is 3 − n. The original wording and a clearer reproduction in the NECTA report confirm it."
+    },
+    {
+      "id": "7(b)",
+      "section": "Question 7 — Indices and logarithms",
+      "prompt": "Solve log(2x² + 1) + log 4 = log(7x² + 8).",
+      "answer": "x = 2 or x = −2.",
+      "steps": [
+        "Combine logarithms: log[4(2x² + 1)] = log(7x² + 8).",
+        "Equal logarithms of positive quantities have equal arguments: 8x² + 4 = 7x² + 8.",
+        "x² = 4, so x = ±2. Both arguments are positive for these values, so both are valid."
+      ]
+    },
+    {
+      "id": "8(a)",
+      "section": "Question 8 — Similarity and congruence",
+      "prompt": "DE ∥ BC, AD:BD = 3:5 and AC = 9.6 cm. Find AE.",
+      "answer": "AE = 3.6 cm.",
+      "steps": [
+        "AB contains 3 + 5 = 8 ratio parts, so AD/AB = 3/8.",
+        "△ADE ∼ △ABC by AA; AE/AC = AD/AB = 3/8.",
+        "AE = (3/8) × 9.6 = 3.6 cm."
+      ],
+      "tip": "Use AD/AB = 3/8, not AD/BD = 3/5, when comparing the small triangle to the whole triangle."
+    },
+    {
+      "id": "8(b)",
+      "section": "Question 8 — Similarity and congruence",
+      "prompt": "AB = AC and D is the midpoint of BC. Prove ∠ABD = ∠ACD.",
+      "answer": "∠ABD = ∠ACD.",
+      "steps": [
+        "AB = AC is given; BD = DC because D is the midpoint; AD is shared.",
+        "Therefore △ABD ≅ △ACD by SSS. Corresponding angles at B and C are equal, establishing the required angle equality."
+      ]
+    },
+    {
+      "id": "9(a)",
+      "section": "Question 9 — Trigonometry and Pythagoras",
+      "prompt": "A point is 80 m from a building and its angle of elevation is 25°. Find the height to one decimal place.",
+      "answer": "37.3 m.",
+      "steps": [
+        "Use the right triangle: height is opposite 25° and ground distance 80 m is adjacent.",
+        "tan 25° = h/80; h = 80 tan 25° ≈ 37.3046 m.",
+        "To one decimal place, the height is 37.3 m."
+      ],
+      "image": "answer_keys/figures/BasicMath-F2-2023-building.png"
+    },
+    {
+      "id": "9(b)",
+      "section": "Question 9 — Trigonometry and Pythagoras",
+      "prompt": "In right triangle ABC, AB = 6 m, AC = 8 m and the right angle is at A. Find BC.",
+      "answer": "10 m.",
+      "steps": [
+        "BC is the hypotenuse; apply Pythagoras: BC² = AB² + AC².",
+        "BC² = 6² + 8² = 100; take the positive square root to obtain 10 m."
+      ]
+    },
+    {
+      "id": "10(a)",
+      "section": "Question 10 — Sets and statistics",
+      "prompt": "250 students attended the first day, 350 the second, 150 both, and 10 neither. Without a Venn diagram find total enrolment.",
+      "answer": "460 students.",
+      "steps": [
+        "Add the daily totals, then remove the overlap counted twice: attended at least once = 250 + 350 − 150 = 450.",
+        "Include students absent on both days: total = 450 + 10 = 460."
+      ]
+    },
+    {
+      "id": "10(b)(i)",
+      "section": "Question 10 — Sets and statistics",
+      "prompt": "The pie-chart sectors are Kiswahili 210°, Mathematics 120°, Chemistry 30°. Find the fraction who passed Kiswahili.",
+      "answer": "7/12.",
+      "steps": [
+        "A complete pie chart represents 360°.",
+        "Fraction = 210/360 = 7/12."
+      ]
+    },
+    {
+      "id": "10(b)(ii)",
+      "section": "Question 10 — Sets and statistics",
+      "prompt": "Find the percentage who passed Mathematics.",
+      "answer": "33⅓%.",
+      "steps": [
+        "Mathematics fraction = 120/360 = 1/3.",
+        "Multiply by 100%: (1/3) × 100% = 33⅓%."
+      ]
+    },
+    {
+      "id": "10(b)(iii)",
+      "section": "Question 10 — Sets and statistics",
+      "prompt": "Find the percentage who passed Mathematics and Chemistry, as represented by their combined sectors.",
+      "answer": "41⅔%.",
+      "steps": [
+        "Add the sector angles: 120 + 30 = 150°.",
+        "Percentage = (150/360) × 100% = (5/12) × 100% = 41⅔%."
+      ],
+      "tip": "The pie chart partitions students into separate categories. Here “and” asks for the combined categories; it does not provide data on individuals passing both subjects."
+    }
+  ],
+  "summaries": {
+    "Question 1 — Multiples and approximation": "Use the stated method, retain exact values until the final rounding, and check the original diagram or equation before calculating.",
+    "Question 2 — Fractions and percentage change": "Use the stated method, retain exact values until the final rounding, and check the original diagram or equation before calculating.",
+    "Question 3 — Units, profit and loss": "Use the stated method, retain exact values until the final rounding, and check the original diagram or equation before calculating.",
+    "Question 4 — Geometry": "Use the stated method, retain exact values until the final rounding, and check the original diagram or equation before calculating.",
+    "Question 5 — Algebra": "Use the stated method, retain exact values until the final rounding, and check the original diagram or equation before calculating.",
+    "Question 6 — Coordinates and reflection": "Use the stated method, retain exact values until the final rounding, and check the original diagram or equation before calculating.",
+    "Question 7 — Indices and logarithms": "Use the stated method, retain exact values until the final rounding, and check the original diagram or equation before calculating.",
+    "Question 8 — Similarity and congruence": "Use the stated method, retain exact values until the final rounding, and check the original diagram or equation before calculating.",
+    "Question 9 — Trigonometry and Pythagoras": "Use the stated method, retain exact values until the final rounding, and check the original diagram or equation before calculating.",
+    "Question 10 — Sets and statistics": "Use the stated method, retain exact values until the final rounding, and check the original diagram or equation before calculating."
+  },
+  "references": [
+    {
+      "title": "NECTA — FTNA 2023 Basic Mathematics: original index-equation notation",
+      "url": "https://onlinesys.necta.go.tz/cira/ftna/2023/041_BASIC_MATHEMATICS.pdf"
+    }
+  ]
+}

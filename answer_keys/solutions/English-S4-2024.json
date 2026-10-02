@@ -1,0 +1,306 @@
+{
+  "exam": "English-S4-2024.pdf",
+  "output": "English-S4-2024-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Four",
+  "year": "2024",
+  "code": "02",
+  "exam_type": "Standard Four National Assessment (SFNA)",
+  "question_count": "5 questions; 25 parts",
+  "language": "en",
+  "reviewed": true,
+  "expected_parts": [
+    "A(i)",
+    "A(ii)",
+    "A(iii)",
+    "A(iv)",
+    "A(v)",
+    "B(i)",
+    "B(ii)",
+    "B(iii)",
+    "B(iv)",
+    "B(v)",
+    "C(i)",
+    "C(ii)",
+    "C(iii)",
+    "C(iv)",
+    "C(v)",
+    "D(i)",
+    "D(ii)",
+    "D(iii)",
+    "D(iv)",
+    "D(v)",
+    "E(i)",
+    "E(ii)",
+    "E(iii)",
+    "E(iv)",
+    "E(v)"
+  ],
+  "questions": [
+    {
+      "id": "A(i)",
+      "section": "Section A: Dictation",
+      "prompt": "Write dictation sentence 1.",
+      "steps": [
+        "Listen to the whole sentence before writing, then separate the spoken words carefully.",
+        "Begin with a capital letter, leave spaces between words, and finish with a full stop. Check your spelling when the sentence is read again."
+      ],
+      "answer": "The baby is crying."
+    },
+    {
+      "id": "A(ii)",
+      "section": "Section A: Dictation",
+      "prompt": "Write dictation sentence 2.",
+      "steps": [
+        "Listen to the whole sentence before writing, then separate the spoken words carefully.",
+        "Begin with a capital letter, leave spaces between words, and finish with a full stop. Check your spelling when the sentence is read again."
+      ],
+      "answer": "We are going home."
+    },
+    {
+      "id": "A(iii)",
+      "section": "Section A: Dictation",
+      "prompt": "Write dictation sentence 3.",
+      "steps": [
+        "Listen to the whole sentence before writing, then separate the spoken words carefully.",
+        "Begin with a capital letter, leave spaces between words, and finish with a full stop. Check your spelling when the sentence is read again."
+      ],
+      "answer": "It will rain tomorrow."
+    },
+    {
+      "id": "A(iv)",
+      "section": "Section A: Dictation",
+      "prompt": "Write dictation sentence 4.",
+      "steps": [
+        "Listen to the whole sentence before writing, then separate the spoken words carefully.",
+        "Begin with a capital letter, leave spaces between words, and finish with a full stop. Check your spelling when the sentence is read again."
+      ],
+      "answer": "Dora studies very hard."
+    },
+    {
+      "id": "A(v)",
+      "section": "Section A: Dictation",
+      "prompt": "Write dictation sentence 5.",
+      "steps": [
+        "Listen to the whole sentence before writing, then separate the spoken words carefully.",
+        "Begin with a capital letter, leave spaces between words, and finish with a full stop. Check your spelling when the sentence is read again."
+      ],
+      "answer": "She came here yesterday."
+    },
+    {
+      "id": "B(i)",
+      "section": "Section B: Vocabulary",
+      "prompt": "Choose the opposite of right (meaning correct).",
+      "steps": [
+        "The options show that right refers to correctness, rather than direction.",
+        "The opposite of correct is wrong."
+      ],
+      "answer": "D. Wrong."
+    },
+    {
+      "id": "B(ii)",
+      "section": "Section B: Vocabulary",
+      "prompt": "What did the shopkeeper give me after I paid for a pen?",
+      "steps": [
+        "Payment is recorded by a document acknowledging the purchase.",
+        "That document is a receipt."
+      ],
+      "answer": "C. A receipt."
+    },
+    {
+      "id": "B(iii)",
+      "section": "Section B: Vocabulary",
+      "prompt": "What is water called when it is frozen into a solid?",
+      "steps": [
+        "Identify the solid state of water.",
+        "Solid water is ice; steam and vapour are gases."
+      ],
+      "answer": "A. Ice."
+    },
+    {
+      "id": "B(iv)",
+      "section": "Section B: Vocabulary",
+      "prompt": "Complete: Lions ate a __ of goats yesterday.",
+      "steps": [
+        "The blank asks for a collective noun for goats.",
+        "Among these choices, herd is appropriate."
+      ],
+      "answer": "A. Herd."
+    },
+    {
+      "id": "B(v)",
+      "section": "Section B: Vocabulary",
+      "prompt": "Where did my uncle take his car for repairs?",
+      "steps": [
+        "Identify a place where vehicles are maintained and repaired.",
+        "A garage fits that purpose."
+      ],
+      "answer": "A. Garage."
+    },
+    {
+      "id": "C(i)",
+      "section": "Section C: Grammar",
+      "prompt": "They __ late for school. Choose is, was or were.",
+      "steps": [
+        "They is a plural subject.",
+        "Use the plural past form of be."
+      ],
+      "answer": "Were: They were late for school."
+    },
+    {
+      "id": "C(ii)",
+      "section": "Section C: Grammar",
+      "prompt": "Musa is __ a bicycle. Choose rides, riding or ride.",
+      "steps": [
+        "Is introduces the present continuous tense.",
+        "Use the -ing form of ride, dropping its final e."
+      ],
+      "answer": "Riding: Musa is riding a bicycle."
+    },
+    {
+      "id": "C(iii)",
+      "section": "Section C: Grammar",
+      "prompt": "We go for a break __ 10:00 a.m. Choose on, in or at.",
+      "steps": [
+        "The blank precedes an exact clock time.",
+        "Use the preposition at."
+      ],
+      "answer": "At: We go for a break at 10:00 a.m."
+    },
+    {
+      "id": "C(iv)",
+      "section": "Section C: Grammar",
+      "prompt": "There is __ milk for you. Choose enough, many or plenty.",
+      "steps": [
+        "Milk is uncountable, so many cannot modify it.",
+        "Enough can directly modify milk; plenty would require of."
+      ],
+      "answer": "Enough: There is enough milk for you."
+    },
+    {
+      "id": "C(v)",
+      "section": "Section C: Grammar",
+      "prompt": "I wake up at six o'clock and __ to school. Choose goes, go or going.",
+      "steps": [
+        "The subject I takes the base verb in the simple present.",
+        "Keep the two habitual actions in the same tense."
+      ],
+      "answer": "Go: I wake up at six o'clock and go to school."
+    },
+    {
+      "id": "D(i)",
+      "section": "Section D: Composition",
+      "prompt": "Last Wednesday __ sports day at Muungano Primary School.",
+      "steps": [
+        "Last Wednesday places the event in the past.",
+        "Use was to link the day with its description."
+      ],
+      "answer": "Was."
+    },
+    {
+      "id": "D(ii)",
+      "section": "Section D: Composition",
+      "prompt": "Many __ were played on that day.",
+      "steps": [
+        "Many requires a plural countable noun.",
+        "Games fits the sports-day activity."
+      ],
+      "answer": "Games."
+    },
+    {
+      "id": "D(iii)",
+      "section": "Section D: Composition",
+      "prompt": "Standard Four pupils competed __ Standard Five pupils.",
+      "steps": [
+        "The blank links the two groups taking part in the competition.",
+        "With is the suitable preposition in the provided word bank."
+      ],
+      "answer": "With."
+    },
+    {
+      "id": "D(iv)",
+      "section": "Section D: Composition",
+      "prompt": "The competition started __ 10 o'clock in the morning.",
+      "steps": [
+        "10 o'clock is a specific time.",
+        "Use at before the time."
+      ],
+      "answer": "At."
+    },
+    {
+      "id": "D(v)",
+      "section": "Section D: Composition",
+      "prompt": "Pupils wanted to know __ would win the football match.",
+      "steps": [
+        "The unknown is the person or team that would win.",
+        "Use who to introduce the indirect question."
+      ],
+      "answer": "Who."
+    },
+    {
+      "id": "E(i)",
+      "section": "Section E: Comprehension",
+      "prompt": "What is the story about?",
+      "steps": [
+        "Identify the central event involving both animals.",
+        "The hare and tortoise compete in a race."
+      ],
+      "answer": "The story is about a race between a hare and a tortoise."
+    },
+    {
+      "id": "E(ii)",
+      "section": "Section E: Comprehension",
+      "prompt": "Where did the hare and tortoise live?",
+      "steps": [
+        "Look at the opening location.",
+        "Both animals lived in a forest."
+      ],
+      "answer": "They lived in a forest."
+    },
+    {
+      "id": "E(iii)",
+      "section": "Section E: Comprehension",
+      "prompt": "How did the tortoise run in the race?",
+      "steps": [
+        "The passage describes its pace and its continued effort.",
+        "Include both slowness and steadiness."
+      ],
+      "answer": "The tortoise ran slowly but steadily."
+    },
+    {
+      "id": "E(iv)",
+      "section": "Section E: Comprehension",
+      "prompt": "Why did the hare fail to win?",
+      "steps": [
+        "The hare stopped to eat and then slept, believing its lead was safe.",
+        "The tortoise kept moving and reached the finish first."
+      ],
+      "answer": "The hare failed to win because it became overconfident and slept during the race."
+    },
+    {
+      "id": "E(v)",
+      "section": "Section E: Comprehension",
+      "prompt": "What do we learn from the story?",
+      "steps": [
+        "The tortoise's consistent effort overcame the hare's careless confidence.",
+        "State a lesson supported by that contrast."
+      ],
+      "answer": "We should work steadily, persevere and avoid overconfidence.",
+      "tip": "This is a model response. A relevant lesson about patience or consistent effort is also acceptable."
+    }
+  ],
+  "summaries": {
+    "Section A: Dictation": "Practise listening, word spacing, capital letters and punctuation. Ask someone to read each sentence aloud before you check it.",
+    "Section B: Vocabulary": "Read the complete sentence. Check the exact meaning, relationship, occupation or collective noun before choosing its letter.",
+    "Section C: Grammar": "Check the subject, time expression, noun type and any auxiliary verb before selecting the correct grammatical form.",
+    "Section D: Composition": "Use context and grammar together. Read the whole composition again to check that the completed ideas connect logically.",
+    "Section E: Comprehension": "Locate evidence in the passage, then answer in your own clear sentence. Support a moral or lesson with what happened in the story."
+  },
+  "references": [
+    {
+      "title": "NECTA dictation teacher sheet",
+      "url": "https://maktaba.tetea.org/past-papers/std4/english/English-Dictation-S4-2024.pdf"
+    }
+  ],
+  "sha256": "be8e5911d6f38d4d6c2f37a6d71fbfaa33b5cb3b0ee426b5169ccf04e49ed9e6"
+}

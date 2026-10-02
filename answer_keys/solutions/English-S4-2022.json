@@ -1,0 +1,324 @@
+{
+  "exam": "English-S4-2022.pdf",
+  "output": "English-S4-2022-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Four",
+  "year": "2022",
+  "code": "02 (library transcription prints 01)",
+  "exam_type": "Standard Four National Assessment (SFNA)",
+  "question_count": "5 questions; 26 parts including the given example",
+  "language": "en",
+  "reviewed": true,
+  "expected_parts": [
+    "A(i)",
+    "A(ii)",
+    "A(iii)",
+    "A(iv)",
+    "A(v)",
+    "B(i)",
+    "B(ii)",
+    "B(iii)",
+    "B(iv)",
+    "B(v)",
+    "C(i)",
+    "C(ii)",
+    "C(iii)",
+    "C(iv)",
+    "C(v)",
+    "D(i)",
+    "D(ii)",
+    "D(iii)",
+    "D(iv)",
+    "D(v)",
+    "D(vi)",
+    "E(i)",
+    "E(ii)",
+    "E(iii)",
+    "E(iv)",
+    "E(v)"
+  ],
+  "questions": [
+    {
+      "id": "A(i)",
+      "section": "Section A: Dictation",
+      "prompt": "Write dictation sentence 1.",
+      "steps": [
+        "Listen to the whole sentence before writing, then separate the spoken words carefully.",
+        "Begin with a capital letter, leave spaces between words, and finish with a full stop. Check your spelling when the sentence is read again."
+      ],
+      "answer": "These eggs are broken."
+    },
+    {
+      "id": "A(ii)",
+      "section": "Section A: Dictation",
+      "prompt": "Write dictation sentence 2.",
+      "steps": [
+        "Listen to the whole sentence before writing, then separate the spoken words carefully.",
+        "Begin with a capital letter, leave spaces between words, and finish with a full stop. Check your spelling when the sentence is read again."
+      ],
+      "answer": "He arrived late yesterday."
+    },
+    {
+      "id": "A(iii)",
+      "section": "Section A: Dictation",
+      "prompt": "Write dictation sentence 3.",
+      "steps": [
+        "Listen to the whole sentence before writing, then separate the spoken words carefully.",
+        "Begin with a capital letter, leave spaces between words, and finish with a full stop. Check your spelling when the sentence is read again."
+      ],
+      "answer": "They come from America."
+    },
+    {
+      "id": "A(iv)",
+      "section": "Section A: Dictation",
+      "prompt": "Write dictation sentence 4.",
+      "steps": [
+        "Listen to the whole sentence before writing, then separate the spoken words carefully.",
+        "Begin with a capital letter, leave spaces between words, and finish with a full stop. Check your spelling when the sentence is read again."
+      ],
+      "answer": "Elizabeth can speak English."
+    },
+    {
+      "id": "A(v)",
+      "section": "Section A: Dictation",
+      "prompt": "Write dictation sentence 5.",
+      "steps": [
+        "Listen to the whole sentence before writing, then separate the spoken words carefully.",
+        "Begin with a capital letter, leave spaces between words, and finish with a full stop. Check your spelling when the sentence is read again."
+      ],
+      "answer": "Our grandfather walks slowly."
+    },
+    {
+      "id": "B(i)",
+      "section": "Section B: Vocabulary",
+      "prompt": "What do we call the son of my sister?",
+      "steps": [
+        "A sister's child is a niece or nephew.",
+        "A male child is a nephew."
+      ],
+      "answer": "C. My nephew."
+    },
+    {
+      "id": "B(ii)",
+      "section": "Section B: Vocabulary",
+      "prompt": "Choose the synonym of dislike.",
+      "steps": [
+        "A synonym has a similar meaning and should fit the same grammatical role.",
+        "Hate is a verb expressing a stronger dislike."
+      ],
+      "answer": "A. Hate."
+    },
+    {
+      "id": "B(iii)",
+      "section": "Section B: Vocabulary",
+      "prompt": "Which word means sad?",
+      "steps": [
+        "Sad describes someone who does not feel happy.",
+        "Unhappy matches that meaning."
+      ],
+      "answer": "D. Unhappy."
+    },
+    {
+      "id": "B(iv)",
+      "section": "Section B: Vocabulary",
+      "prompt": "My uncle attends and takes care of the sick in hospital. What is his occupation?",
+      "steps": [
+        "The description focuses on nursing care of patients.",
+        "In this question, the intended occupation is nurse."
+      ],
+      "answer": "A. A nurse.",
+      "tip": "This is the answer identified in NECTA's examiner report. Several medical professions care for patients, so read the specific role described."
+    },
+    {
+      "id": "B(v)",
+      "section": "Section B: Vocabulary",
+      "prompt": "Complete: The crops were attacked by a __ of locusts.",
+      "steps": [
+        "The blank needs the collective noun for locusts.",
+        "A large group of these insects is a swarm."
+      ],
+      "answer": "D. Swarm."
+    },
+    {
+      "id": "C(i)",
+      "section": "Section C: Grammar",
+      "prompt": "Do you __ any help? Choose need, needed or needing.",
+      "steps": [
+        "The auxiliary do is followed by the base form of the main verb.",
+        "Use need without an ending."
+      ],
+      "answer": "Need: Do you need any help?"
+    },
+    {
+      "id": "C(ii)",
+      "section": "Section C: Grammar",
+      "prompt": "I __ to the market last Saturday. Choose go, gone or went.",
+      "steps": [
+        "Last Saturday indicates a completed past action.",
+        "The simple past of go is went."
+      ],
+      "answer": "Went: I went to the market last Saturday."
+    },
+    {
+      "id": "C(iii)",
+      "section": "Section C: Grammar",
+      "prompt": "Jumanne and Bakari are __ my sons. Choose all, both or either.",
+      "steps": [
+        "The sentence names exactly two people.",
+        "Both includes the two together; either refers to one of them."
+      ],
+      "answer": "Both: Jumanne and Bakari are both my sons."
+    },
+    {
+      "id": "C(iv)",
+      "section": "Section C: Grammar",
+      "prompt": "May I __ the window? Choose close, closing or closed.",
+      "steps": [
+        "The modal verb may is followed by the base form.",
+        "Choose close."
+      ],
+      "answer": "Close: May I close the window?"
+    },
+    {
+      "id": "C(v)",
+      "section": "Section C: Grammar",
+      "prompt": "It is very __ to drive too fast. Choose danger, dangerous or dangerously.",
+      "steps": [
+        "The blank describes driving too fast after it is very.",
+        "Use an adjective, rather than a noun or adverb."
+      ],
+      "answer": "Dangerous: It is very dangerous to drive too fast."
+    },
+    {
+      "id": "D(i)",
+      "section": "Section D: Composition",
+      "prompt": "Assign the order letter to (i): I brush my teeth and take a bath.",
+      "steps": [
+        "Introduce Florian first, then describe waking up.",
+        "Brushing and bathing follow waking, making this the third sentence."
+      ],
+      "answer": "C."
+    },
+    {
+      "id": "D(ii)",
+      "section": "Section D: Composition",
+      "prompt": "Assign the order letter to (ii): After taking a bath, I eat my breakfast.",
+      "steps": [
+        "The phrase after taking a bath places this after sentence (i).",
+        "Breakfast is the fourth event in the completed sequence."
+      ],
+      "answer": "D."
+    },
+    {
+      "id": "D(iii)",
+      "section": "Section D: Composition",
+      "prompt": "Confirm the given example (iii): My name is Florian.",
+      "steps": [
+        "A self-introduction opens the account.",
+        "It is the first sentence."
+      ],
+      "answer": "A."
+    },
+    {
+      "id": "D(iv)",
+      "section": "Section D: Composition",
+      "prompt": "Assign the order letter to (iv): Thereafter, I put on my school uniform.",
+      "steps": [
+        "Dressing follows breakfast and precedes leaving for school.",
+        "It is the fifth sentence."
+      ],
+      "answer": "E.",
+      "tip": "The library's retyped paper says put on my breakfast. NECTA's examiner report gives school uniform; the order remains E."
+    },
+    {
+      "id": "D(v)",
+      "section": "Section D: Composition",
+      "prompt": "Assign the order letter to (v): I wake up early in the morning.",
+      "steps": [
+        "Waking begins the day's actions after the introduction.",
+        "It precedes bathing and breakfast."
+      ],
+      "answer": "B."
+    },
+    {
+      "id": "D(vi)",
+      "section": "Section D: Composition",
+      "prompt": "Assign the order letter to (vi): Then I take my bag and leave for school.",
+      "steps": [
+        "Leaving happens after waking, washing, breakfast and dressing.",
+        "This is the sixth and final sentence."
+      ],
+      "answer": "F.",
+      "tip": "Complete order: (iii), (v), (i), (ii), (iv), (vi)."
+    },
+    {
+      "id": "E(i)",
+      "section": "Section E: Comprehension",
+      "prompt": "What is the passage about?",
+      "steps": [
+        "Identify the subject repeated throughout the passage.",
+        "It describes wild animals, their features and their behaviour."
+      ],
+      "answer": "The passage is about wild animals and their behaviour."
+    },
+    {
+      "id": "E(ii)",
+      "section": "Section E: Comprehension",
+      "prompt": "Which animal has beautiful black spots?",
+      "steps": [
+        "Locate the animal described with spots.",
+        "The passage assigns this feature to the cheetah."
+      ],
+      "answer": "The cheetah has beautiful black spots."
+    },
+    {
+      "id": "E(iii)",
+      "section": "Section E: Comprehension",
+      "prompt": "How does a giraffe eat leaves on tall trees?",
+      "steps": [
+        "Find the body part named in the giraffe's description.",
+        "Its long neck helps it reach the leaves."
+      ],
+      "answer": "A giraffe uses its long neck to reach and eat leaves on tall trees."
+    },
+    {
+      "id": "E(iv)",
+      "section": "Section E: Comprehension",
+      "prompt": "Why does the lion kill other animals?",
+      "steps": [
+        "The printed question omits lion, but the passage identifies the animal.",
+        "The passage gives obtaining food as the reason."
+      ],
+      "answer": "The lion kills other animals for food."
+    },
+    {
+      "id": "E(v)",
+      "section": "Section E: Comprehension",
+      "prompt": "What do we learn from the behaviour of the zebra and the giraffe?",
+      "steps": [
+        "In the passage, these animals are described as kind.",
+        "Turn that description into a lesson about our behaviour."
+      ],
+      "answer": "We should be kind and gentle towards others.",
+      "tip": "Answer according to the passage. Observe wild animals safely; the story's description is not advice to touch them."
+    }
+  ],
+  "summaries": {
+    "Section A: Dictation": "Practise listening, word spacing, capital letters and punctuation. Ask someone to read each sentence aloud before you check it.",
+    "Section B: Vocabulary": "Read the complete sentence. Check the exact meaning, relationship, occupation or collective noun before choosing its letter.",
+    "Section C: Grammar": "Check the subject, time expression, noun type and any auxiliary verb before selecting the correct grammatical form.",
+    "Section D: Composition": "Use context and grammar together. Read the whole composition again to check that the completed ideas connect logically.",
+    "Section E: Comprehension": "Locate evidence in the passage, then answer in your own clear sentence. Support a moral or lesson with what happened in the story."
+  },
+  "references": [
+    {
+      "title": "NECTA dictation teacher sheet",
+      "url": "https://maktaba.tetea.org/past-papers/std4/english/English-Dictation-S4-2022.pdf"
+    },
+    {
+      "title": "NECTA examiner report (source transcription checked)",
+      "url": "https://onlinesys.necta.go.tz/cira/sfna/2022/02_ENGLISH_LANGUAGE.pdf"
+    }
+  ],
+  "sha256": "196072506a44bf3a6bfbf8b76da92e9ffe6a4809a2bdb1531a7f6798b1945309"
+}

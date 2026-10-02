@@ -25,6 +25,11 @@ def create_app(config_name=None):
         raise ValueError(f"Unknown config: {config_name}")
     app.config.from_object(cfg)
 
+    @app.context_processor
+    def shared_context():
+        from datetime import datetime
+        return {"current_year": datetime.now().year}
+
     # Initialise extensions
     _init_extensions(app)
 

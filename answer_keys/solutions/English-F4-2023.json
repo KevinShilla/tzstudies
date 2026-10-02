@@ -1,0 +1,620 @@
+{
+  "exam": "English-F4-2023.pdf",
+  "output": "English-F4-2023-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Form Four",
+  "year": "2023",
+  "code": "022",
+  "exam_type": "Certificate of Secondary Education Examination (CSEE)",
+  "question_count": "11 questions; every Section C option solved; 53 answered parts",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "4baf3a6eb0ebf60cb26b748131258b37525ea9837b9ed639c157bc0b8aae9041",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(ix)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "3(a)(i)",
+    "3(a)(ii)",
+    "3(a)(iii)",
+    "3(a)(iv)",
+    "3(b)(i)",
+    "3(b)(ii)",
+    "3(b)(iii)",
+    "3(b)(iv)",
+    "3(b)(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "4(vi)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "5(vi)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)",
+    "6(vi)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)",
+    "7(v)",
+    "7(vi)",
+    "8",
+    "9",
+    "10",
+    "11"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Section A — Objective questions",
+      "prompt": "Replace popular in a village popular for growing coffee.",
+      "answer": "D — Famous.",
+      "steps": [
+        "Compare the wording and grammatical function of the alternatives.",
+        "Famous means widely known for something."
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Name an account of your own life.",
+      "answer": "C is the intended option, but the correct word is autobiography, not the printed autography.",
+      "steps": [
+        "Compare the wording and grammatical function of the alternatives.",
+        "Auto- means self and biography means a life account. Autography means writing in one’s own hand, so the option contains an error."
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Name the description of someone as tall, black, fat, bearded and muscular.",
+      "answer": "B — Portrayal.",
+      "steps": [
+        "Compare the wording and grammatical function of the alternatives.",
+        "Portrayal is a description or representation of a person. The listed features contribute to that portrayal."
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Section A — Objective questions",
+      "prompt": "Identify home in “the birds home their way”.",
+      "answer": "C — An action.",
+      "steps": [
+        "Compare the wording and grammatical function of the alternatives.",
+        "Home functions as a verb indicating movement towards a destination, rather than as the noun for a dwelling."
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Section A — Objective questions",
+      "prompt": "Give the intended long form of RE in an application-letter heading.",
+      "answer": "D — Refer, as intended by this paper. In standard correspondence Re: means regarding or in the matter of.",
+      "steps": [
+        "Compare the wording and grammatical function of the alternatives.",
+        "Use the letters in this exam, where Refer is D. Re: introduces the subject and is not properly an acronym that expands to Reference."
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Section A — Objective questions",
+      "prompt": "Report “The teacher said, I can see Ali now.”",
+      "answer": "Standard answer: The teacher said that he could see Ali then. None of the printed options gives this exact form; B is possible only if now still refers to the reporting moment.",
+      "steps": [
+        "Compare the wording and grammatical function of the alternatives.",
+        "Keep said, change I to he and can to could. Normally now becomes then when the time viewpoint moves into the past."
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Identify cotton statements marked as opinions.",
+      "answer": "E — 2, 4 and 5.",
+      "steps": [
+        "Compare the wording and grammatical function of the alternatives.",
+        "Believed, assumed and thought mark a view rather than asserting an established fact. This classifies the wording, not the truth of the cotton claim."
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Introduce a second or third debate point.",
+      "answer": "A — Furthermore or Moreover.",
+      "steps": [
+        "Compare the wording and grammatical function of the alternatives.",
+        "Both link an additional argument to the preceding point."
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Section A — Objective questions",
+      "prompt": "Restate “Seeing the door open, the stranger entered the house.”",
+      "answer": "C — When he saw the door open, the stranger entered the house.",
+      "steps": [
+        "Compare the wording and grammatical function of the alternatives.",
+        "The participle seeing has the stranger as its subject and introduces the circumstance of entry."
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Section A — Objective questions",
+      "prompt": "Identify the summary-writing sequence.",
+      "answer": "C — Listen carefully, identify main ideas, make notes, write a first draft, then write the summary.",
+      "steps": [
+        "Compare the wording and grammatical function of the alternatives.",
+        "Understand and select essential information before drafting; revise the draft into a concise final summary."
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the service description: Groceries and other goods sold in a small area.",
+      "answer": "H — Shop.",
+      "steps": [
+        "Identify the kind of products or shopping arrangement.",
+        "A small retail shop fits the description."
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the service description: Goods sold in a large enclosed shopping area.",
+      "answer": "D — Shopping mall.",
+      "steps": [
+        "Identify the kind of products or shopping arrangement.",
+        "A mall contains shops in a larger complex."
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the service description: A wide variety of items bought by self-service.",
+      "answer": "E — Supermarket.",
+      "steps": [
+        "Identify the kind of products or shopping arrangement.",
+        "Self-service is characteristic of a supermarket."
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the service description: Milk, cheese and butter for sale.",
+      "answer": "G — Dairy.",
+      "steps": [
+        "Identify the kind of products or shopping arrangement.",
+        "These are dairy products."
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the service description: Seeds and fertilisers for sale.",
+      "answer": "C — Agrovet.",
+      "steps": [
+        "Identify the kind of products or shopping arrangement.",
+        "An agricultural-input shop supplies these goods."
+      ]
+    },
+    {
+      "id": "2(vi)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the service description: Food for chickens, ducks and geese for sale.",
+      "answer": "A — Poultry feed, the intended listed choice.",
+      "steps": [
+        "Identify the kind of products or shopping arrangement.",
+        "The goods are poultry feed; strictly, a service point would be a poultry-feed shop, rather than the product name itself."
+      ]
+    },
+    {
+      "id": "3(a)(i)",
+      "section": "Section B — Language use",
+      "prompt": "Why did people attend the meeting?",
+      "answer": "D — To listen to the candidates for councillor.",
+      "steps": [
+        "Find the relevant statement in the election passage.",
+        "The meeting introduces contestants for the local election."
+      ]
+    },
+    {
+      "id": "3(a)(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Why did they clap enthusiastically for Sikujua?",
+      "answer": "A — They liked her so much.",
+      "steps": [
+        "Find the relevant statement in the election passage.",
+        "The passage states this reason directly."
+      ]
+    },
+    {
+      "id": "3(a)(iii)",
+      "section": "Section B — Language use",
+      "prompt": "How many candidates contested?",
+      "answer": "C — Three.",
+      "steps": [
+        "Find the relevant statement in the election passage.",
+        "Count Sikujua Juma, Siamini Juma and Kauni Widambe."
+      ]
+    },
+    {
+      "id": "3(a)(iv)",
+      "section": "Section B — Language use",
+      "prompt": "What was Kauni’s main proposal?",
+      "answer": "A — Youths should hold the position.",
+      "steps": [
+        "Find the relevant statement in the election passage.",
+        "She argues that the older generation has had its chance and young people should govern."
+      ]
+    },
+    {
+      "id": "3(b)(i)",
+      "section": "Section B — Language use",
+      "prompt": "Why listen to candidates despite heavy rain?",
+      "answer": "They wanted a better councillor who would develop the village after the previous councillor had disappointed them.",
+      "steps": [
+        "Read the relevant event or expression in context.",
+        "Connect the opening criticism of the former councillor with the purpose of choosing a replacement."
+      ]
+    },
+    {
+      "id": "3(b)(ii)",
+      "section": "Section B — Language use",
+      "prompt": "What caused the trouble?",
+      "answer": "Kauni’s supporters rushed towards the stage; security guards beat them with sticks, and the confrontation escalated.",
+      "steps": [
+        "Read the relevant event or expression in context.",
+        "Distinguish the supporters’ disruption from the violence that followed the guards’ response."
+      ]
+    },
+    {
+      "id": "3(b)(iii)",
+      "section": "Section B — Language use",
+      "prompt": "How did the youths react to the blows?",
+      "answer": "They fought back by throwing stones at the security guards.",
+      "steps": [
+        "Read the relevant event or expression in context.",
+        "Use the passage’s description of the counterattack."
+      ]
+    },
+    {
+      "id": "3(b)(iv)",
+      "section": "Section B — Language use",
+      "prompt": "What weapons did police find?",
+      "answer": "Machetes and catapults.",
+      "steps": [
+        "Read the relevant event or expression in context.",
+        "Name the two weapons found with the apprehended people, not equipment belonging to police."
+      ]
+    },
+    {
+      "id": "3(b)(v)",
+      "section": "Section B — Language use",
+      "prompt": "Give a synonym of haphazardly.",
+      "answer": "Randomly; disorderly or unsystematically also fits.",
+      "steps": [
+        "Read the relevant event or expression in context.",
+        "The word describes action without a planned or orderly arrangement."
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Section B — Language use",
+      "prompt": "Change to passive: Honey tastes sweet.",
+      "answer": "There is no direct passive: tastes is a linking verb with no object. An intended explanatory paraphrase is “Honey is sweet when it is tasted.”",
+      "steps": [
+        "First check whether the original verb has an object. Preserve tense when a direct passive is possible.",
+        "Sweet is a subject complement, not an object that can become a passive subject."
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Change to passive: Ali made us laugh.",
+      "answer": "We were made to laugh by Ali.",
+      "steps": [
+        "First check whether the original verb has an object. Preserve tense when a direct passive is possible.",
+        "Move us to subject we, use were made and add to before laugh in the passive causative."
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Change to passive: Who gave you the ice-cream?",
+      "answer": "By whom were you given the ice cream?",
+      "steps": [
+        "First check whether the original verb has an object. Preserve tense when a direct passive is possible.",
+        "Make you the recipient-subject; keep past time with were given and ask about the agent with by whom."
+      ]
+    },
+    {
+      "id": "4(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Change to passive: Let him buy a camera.",
+      "answer": "Let a camera be bought by him.",
+      "steps": [
+        "First check whether the original verb has an object. Preserve tense when a direct passive is possible.",
+        "Keep let and use object + be + past participle bought."
+      ]
+    },
+    {
+      "id": "4(v)",
+      "section": "Section B — Language use",
+      "prompt": "Change to passive: I do not like people telling me what to do.",
+      "answer": "I do not like being told what to do.",
+      "steps": [
+        "First check whether the original verb has an object. Preserve tense when a direct passive is possible.",
+        "Transform the subordinate -ing clause to passive being told; retain the main clause."
+      ]
+    },
+    {
+      "id": "4(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Change to passive: The trumpets are sounding.",
+      "answer": "No direct passive is possible with intransitive sounding. “The trumpets are being sounded” is the likely intended paraphrase, but it assumes someone is playing them.",
+      "steps": [
+        "First check whether the original verb has an object. Preserve tense when a direct passive is possible.",
+        "There is no object in the original sentence. The paraphrase changes to the transitive use of sound and therefore slightly changes the construction."
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a sentence using as much as: degree or comparison.",
+      "answer": "I enjoy reading as much as my sister does.",
+      "steps": [
+        "Choose a complete main clause and a subordinate clause with the required relationship.",
+        "The clauses compare equal degrees of enjoyment."
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a sentence using lest: purpose.",
+      "answer": "He wrote careful notes lest he should forget the details.",
+      "steps": [
+        "Choose a complete main clause and a subordinate clause with the required relationship.",
+        "Lest introduces the unwanted result to be prevented."
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a sentence using as: contrast.",
+      "answer": "Young as she is, she is very wise.",
+      "steps": [
+        "Choose a complete main clause and a subordinate clause with the required relationship.",
+        "The concessive construction means although she is young."
+      ]
+    },
+    {
+      "id": "5(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a sentence using notwithstanding: concession.",
+      "answer": "Notwithstanding that the road was rough, we continued our journey.",
+      "steps": [
+        "Choose a complete main clause and a subordinate clause with the required relationship.",
+        "Notwithstanding that introduces the obstacle despite which the journey continued."
+      ]
+    },
+    {
+      "id": "5(v)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a sentence using as: manner.",
+      "answer": "Do as I have shown you.",
+      "steps": [
+        "Choose a complete main clause and a subordinate clause with the required relationship.",
+        "The as-clause specifies the manner of doing the action."
+      ]
+    },
+    {
+      "id": "5(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Construct a sentence using such … that: effect.",
+      "answer": "It was such a loud noise that everyone turned round.",
+      "steps": [
+        "Choose a complete main clause and a subordinate clause with the required relationship.",
+        "Use such + adjective + noun, followed by the resulting effect in a that-clause."
+      ]
+    },
+    {
+      "id": "6(i)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite Zainabu is reading a book to show an action completed days ago.",
+      "answer": "Zainabu read a book three days ago.",
+      "steps": [
+        "Identify the required time and whether the action is ongoing, habitual or complete.",
+        "Simple past fits a finished past time."
+      ]
+    },
+    {
+      "id": "6(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite Zainabu is reading a book to show an action in progress in the past.",
+      "answer": "Zainabu was reading a book yesterday afternoon.",
+      "steps": [
+        "Identify the required time and whether the action is ongoing, habitual or complete.",
+        "Use was + reading for past continuous."
+      ]
+    },
+    {
+      "id": "6(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite Zainabu is reading a book to show a repeated action.",
+      "answer": "Zainabu reads books every week.",
+      "steps": [
+        "Identify the required time and whether the action is ongoing, habitual or complete.",
+        "Simple present reads and every week express a habit."
+      ]
+    },
+    {
+      "id": "6(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite Zainabu is reading a book to show a future action.",
+      "answer": "Zainabu will read a book tomorrow.",
+      "steps": [
+        "Identify the required time and whether the action is ongoing, habitual or complete.",
+        "Will + base read expresses future time."
+      ]
+    },
+    {
+      "id": "6(v)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite Zainabu is reading a book to show an action completed a few minutes ago.",
+      "answer": "Zainabu read a book a few minutes ago. If present perfect is intended: Zainabu has just read a book.",
+      "steps": [
+        "Identify the required time and whether the action is ongoing, habitual or complete.",
+        "Ago specifies a finished past time and takes simple past. Present perfect has read can express recent completion, but should not be combined with a few minutes ago."
+      ]
+    },
+    {
+      "id": "6(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite Zainabu is reading a book to show an action in progress in the future.",
+      "answer": "Zainabu will be reading a book at this time tomorrow.",
+      "steps": [
+        "Identify the required time and whether the action is ongoing, habitual or complete.",
+        "Use will be + reading with a future time reference."
+      ]
+    },
+    {
+      "id": "7(i)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite with a modal verb: Perhaps my daughter will show up. Begin My daughter.",
+      "answer": "My daughter may show up; might is also suitable.",
+      "steps": [
+        "Preserve the degree of certainty, obligation or habitual meaning.",
+        "May or might preserves uncertainty."
+      ]
+    },
+    {
+      "id": "7(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite with a modal verb: Eating is forbidden in class. Begin You.",
+      "answer": "You must not eat in class.",
+      "steps": [
+        "Preserve the degree of certainty, obligation or habitual meaning.",
+        "Must not expresses prohibition."
+      ]
+    },
+    {
+      "id": "7(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite with a modal verb: I am sure he is poor, based on his dirty clothes. Begin He.",
+      "answer": "He must be a poor person.",
+      "steps": [
+        "Preserve the degree of certainty, obligation or habitual meaning.",
+        "Must expresses the speaker’s strong deduction. The grammar task reports an assumption; dirty clothing does not establish someone’s economic status."
+      ]
+    },
+    {
+      "id": "7(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite with a modal verb: I do not believe the legend of Hercules is true because of contradictions.",
+      "answer": "The legend of Hercules cannot be true because there are many contradictions.",
+      "steps": [
+        "Preserve the degree of certainty, obligation or habitual meaning.",
+        "Cannot expresses the speaker’s negative deduction."
+      ]
+    },
+    {
+      "id": "7(v)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite with a modal verb: Each of us has to study hard for our betterment. Begin We.",
+      "answer": "We must study hard for our betterment.",
+      "steps": [
+        "Preserve the degree of certainty, obligation or habitual meaning.",
+        "Must expresses the stated obligation."
+      ]
+    },
+    {
+      "id": "7(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite with a modal verb: Mr Hussein habitually visited orphanages when young.",
+      "answer": "Mr Hussein would visit orphanage centres when he was young.",
+      "steps": [
+        "Preserve the degree of certainty, obligation or habitual meaning.",
+        "Would expresses repeated past action; used to visit is also a natural alternative."
+      ]
+    },
+    {
+      "id": "8",
+      "section": "Section B — Language use",
+      "prompt": "Use Makame’s letter to invite Omary to his sixteenth birthday on 10 December 2023 at 7 p.m. in Pemba North.",
+      "answer": "BIRTHDAY INVITATION\nMakame and his family warmly invite\nOMARY\nto celebrate Makame’s sixteenth birthday.\nDate: 10 December 2023\nTime: 7:00 p.m.\nVenue: Makame’s family home, Pemba North\nJoin us for dinner and birthday celebrations.\nYour presence will be warmly appreciated.\nMakame\nCorrespondence: P.O. Box 2057, Pemba North",
+      "steps": [
+        "Identify the host, guest, purpose, event date, time and home venue from the letter.",
+        "Use 10 December for the celebration; 9 November is the letter’s writing date. Do not treat the postal box as a street venue.",
+        "Arrange the invitation clearly and do not invent an RSVP telephone number."
+      ]
+    },
+    {
+      "id": "9",
+      "section": "Section C — Literature",
+      "prompt": "Evaluate the position of women in the supplied Song of Lawino excerpt in six points.",
+      "answer": "Model response:\nThe excerpt presents women as both subject to unfair judgement and capable of defending their dignity. Lawino’s husband criticises her, but she answers with a confident account of her identity.\nFirst, women suffer verbal humiliation. Her husband’s insults reduce her to a supposedly backward person rather than treating her as an equal partner. Such speech reveals an unequal relationship. Second, women’s intelligence is undervalued. His assertion that she lacks ideas dismisses her ability to think, whereas her reasoned response demonstrates that she has ideas worth hearing. Third, women face imported standards of beauty. His rejection of her hairstyle and her comparison with white women show pressure to judge an African woman by another culture’s appearance.\nFourth, women preserve cultural identity. Lawino names her parents’ communities and identifies herself with Acoli life. Her defence challenges the assumption that inherited culture must be abandoned to gain respect. Fifth, women claim personal dignity. The images of capture by a spear and exchange for millet are rejected; she insists that she is neither a slave nor a commodity. This resistance questions the treatment of women as objects. Sixth, women deserve a voice in defining their own experience. Her final invitation to ask about Acoli beauty shows readiness to teach and explain. The request for a chance exposes how readily that voice has been silenced.\nThus the poem depicts oppression alongside resistance. Lawino is criticised and denied authority, but her defence of intelligence, identity and dignity presents women as people who can speak for themselves.",
+      "steps": [
+        "Identify six distinct positions: humiliation, intellectual dismissal, beauty pressure, cultural preservation, dignity and a right to speak.",
+        "Connect each position to an actual image or statement in the supplied excerpt.",
+        "Write an introduction, developed analytical points and a conclusion; distinguish the husband’s prejudice from the poem’s overall message."
+      ]
+    },
+    {
+      "id": "10",
+      "section": "Section C — Literature",
+      "prompt": "Show how figures of speech deliver messages, using three points from each of two plays.",
+      "answer": "Model response:\nFigures of speech make social attitudes vivid rather than merely naming them. Three Suitors: One Husband by Guillaume Oyono Mbia and The Lion and the Jewel by Wole Soyinka use them to expose prejudice, power and contradiction.\nIn Three Suitors: One Husband, the comparison of Mbaga’s speech to a crowd of women is a simile. It uses a gender stereotype to belittle a speaker, allowing readers to recognise the prejudice in everyday language. Personification occurs when Atangana treats the clock as if it speaks. Giving a timepiece a voice reinforces his impatience about Makrita’s return from work and reveals the pressure placed on her labour. Situational irony shapes Juliette’s solution to the marriage dispute. Money prized by her elders ultimately enables Oko to meet their demand, frustrating their attempt to control her choice. The device exposes the weakness of greed as a basis for marriage.\nIn The Lion and the Jewel, the symbolic title sets Baroka’s powerful lion against Sidi’s valued jewel. These images reveal an unequal pursuit and invite reflection on who controls beauty and power. Baroka’s metaphor connecting his voice with sand between grinding stones gives ageing a harsh, physical quality. It makes the passage of time audible and conveys his anxiety about fading vitality. Irony also appears in Lakunle’s claim to enlightened modernity while he belittles women’s intelligence. The gap between his public ideals and his speech warns that modern language alone does not produce equality.\nThe plays therefore depend on more than literal description. Simile, personification, symbolism, metaphor and irony make prejudice and power recognisable through memorable comparisons and contradictions.",
+      "steps": [
+        "Choose two prescribed plays and three identifiable devices in each.",
+        "For each device, identify a scene or image and explain the social message it communicates.",
+        "Do not invent quotations; accurate paraphrases of events can support an essay."
+      ]
+    },
+    {
+      "id": "11",
+      "section": "Section C — Literature",
+      "prompt": "Demonstrate that exploitation should be discouraged, giving three points from each of two novels.",
+      "answer": "Model response:\nExploitation occurs when people use power or another person’s vulnerability for their own advantage. Weep Not, Child by Ngugi wa Thiong’o and Passed Like a Shadow by B. M. Mapalala show its harm through economic and personal relationships.\nIn Weep Not, Child, dispossession separates Ngotho’s family from land they regard as ancestral. Howlands’ control enables him to benefit from land whose earlier occupants have little power over it. This injustice breeds bitterness and conflict. Exploitation also appears in farm labour: Ngotho works on the settler’s property while the owner gains from the unequal arrangement. Dependence on employment makes resistance costly, showing why fair terms and dignity at work matter. Later, Njoroge’s low-paid employment in an Indian-owned shop offers another example. His need for work allows the employer to obtain labour cheaply, limiting the young man’s prospects after his schooling collapses.\nIn Passed Like a Shadow, Adyeri’s diversion of school resources for private interests exploits an institution entrusted to his care. Personal gain comes at the expense of learners and public trust. His demand for a high bride price from Akena treats Vicky’s marriage as an opportunity for gain. Her preference becomes secondary to a guardian’s financial demands, showing how exploitation can enter family customs. John’s attack on Abooki after drugging her drink is a further abuse of power and trust. It violates her consent and demonstrates why a vulnerable person’s dignity must be protected.\nThese examples show that exploitation damages livelihoods, institutions and intimate relationships. Fair employment, accountable leadership and respect for consent and personal choice directly challenge the behaviour portrayed in the novels.",
+      "steps": [
+        "Define exploitation and identify who gains power or benefit at another’s expense.",
+        "Develop land dispossession, unequal farm work and low-paid shop work in Weep Not, Child; develop institutional misuse, bride-price demands and abuse of Abooki’s trust in Passed Like a Shadow.",
+        "Explain why each example is harmful, then conclude with the values needed to oppose exploitation."
+      ]
+    }
+  ],
+  "summaries": {
+    "Section A — Objective questions": "Check the option lettering against this exact paper. Autobiography is misspelled in one option, and the reported-speech item lacks the standard backshifted answer.",
+    "Section B — Language use": "A direct passive needs a transitive verb. Ago normally requires simple past; recent present perfect uses just without a finished-time expression.",
+    "Section C — Literature": "Literary analysis connects a precise textual feature or event to its social meaning. Develop all six points when the question asks for three from each of two works."
+  },
+  "labelling_note": "This study key answers all Section C choices. The paper contains faulty wording in Questions 1(ii), 1(vi), 2(vi), 4(i), 4(vi) and 6(v); the relevant answers explain the limitations.",
+  "references": [
+    {
+      "title": "NECTA English CSEE 2023 — item analysis and literary checks",
+      "url": "https://necta.go.tz/publications/Performance%20Analysis%20Books/Candidates%27%20Item%20Response%20Analysis%20%28CIRA%29%20Reports%20/CSEE/2023/022%20ENGLISH%20%20%20LANGUAGE.pdf"
+    },
+    {
+      "title": "Passed Like a Shadow — Dar es Salaam University Press edition details",
+      "url": "https://books.google.co.uk/books/about/Passed_Like_a_Shadow.html?id=S2sgAQAAIAAJ"
+    }
+  ]
+}

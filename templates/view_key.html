@@ -1,0 +1,5 @@
+{% extends "base.html" %}
+{% block title %}{{ exam.subject }} {{ exam.level }} {{ exam.year }} Answer Key | MyTZStudies{% endblock %}
+{% block content %}
+<div class="container view-exam-container"><a class="text-link back-link" href="{{ url_for('papers.answer_keys_page') }}">&larr; All answer keys</a><div class="viewer-heading"><div><span class="eyebrow">{{ exam.level }} &middot; {{ exam.year }} &middot; {{ exam.board }}</span><h1>{{ exam.subject }}</h1><p>Answer key and worked solutions</p></div><a class="btn" href="{{ url_for('papers.download_key', filename=filename) }}">Download answer key</a></div><p class="pdf-tip">Download the PDF to study comfortably on your phone.</p><iframe src="{{ url_for('papers.serve_key', filename=filename) }}" class="pdf-viewer" title="{{ exam.subject }} {{ exam.year }} worked answer key"></iframe><p class="helper-text">Try each question yourself before checking the worked answer.</p></div>
+{% endblock %}

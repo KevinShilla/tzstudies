@@ -1,0 +1,394 @@
+{
+  "exam": "BasicMath-F4-2025.pdf",
+  "output": "BasicMath-F4-2025-AnswerKey.pdf",
+  "subject": "Basic Mathematics",
+  "level": "Form Four",
+  "year": "2025",
+  "code": "041",
+  "exam_type": "Certificate of Secondary Education Examination (CSEE)",
+  "question_count": "14 compulsory questions; 33 answered parts",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "ba51673a2bbe22033fbf40dee5b47973ab4cd300e7310b2cd31bdd3b015a1270",
+  "expected_parts": [
+    "1(a)",
+    "1(b)(i)",
+    "1(b)(ii)",
+    "1(c)",
+    "2(a)",
+    "2(b)",
+    "2(c)",
+    "3(a)(i)",
+    "3(a)(ii)",
+    "3(b)",
+    "4(a)",
+    "4(b)",
+    "5(a)",
+    "5(b)",
+    "6(a)",
+    "6(b)",
+    "7(a)",
+    "7(b)",
+    "8(a)",
+    "8(b)",
+    "9(a)",
+    "9(b)",
+    "10(a)",
+    "10(b)",
+    "11(a)",
+    "11(b)",
+    "12(a)",
+    "12(b)(i)",
+    "12(b)(ii)",
+    "13(a)",
+    "13(b)",
+    "14(a)",
+    "14(b)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Express 0.11363636… as a fraction in its simplest form; only 36 recurs.",
+      "answer": "5/44.",
+      "steps": [
+        "Let p = 0.11363636… . Moving two and four decimal places gives 100p = 11.363636… and 10,000p = 1136.363636… .",
+        "Subtract to cancel the recurring tail: 9900p = 1125. Thus p = 1125/9900 = 5/44."
+      ],
+      "tip": "The two initial 1s do not repeat. Keep the recurring block aligned before subtracting."
+    },
+    {
+      "id": "1(b)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Write 0.00070482 to three significant figures.",
+      "answer": "0.000705, or 7.05 × 10⁻⁴.",
+      "steps": [
+        "Start counting significant digits at the first nonzero digit: 7,0,4. The following digit is 8.",
+        "Round 704 up to 705, keeping the original decimal position."
+      ]
+    },
+    {
+      "id": "1(b)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Round 1,233,388 to the nearest ten thousand.",
+      "answer": "1,230,000.",
+      "steps": [
+        "The ten-thousands digit is 3; the following thousands digit is 3.",
+        "Since the following digit is below 5, retain the ten-thousands digit and replace all smaller places with zero."
+      ]
+    },
+    {
+      "id": "1(c)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Three-fifths of Tanzania’s people live in cities in the stated model. What percentage does not live in cities?",
+      "answer": "40%.",
+      "steps": [
+        "The complement is 1 − 3/5 = 2/5.",
+        "Convert to a percentage: (2/5) × 100 = 40%."
+      ]
+    },
+    {
+      "id": "2(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Express 27ⁿ × 9²ⁿ × 3 as a single power of 3.",
+      "answer": "3⁷ⁿ⁺¹.",
+      "steps": [
+        "27ⁿ = (3³)ⁿ = 3³ⁿ and 9²ⁿ = (3²)²ⁿ = 3⁴ⁿ.",
+        "When multiplying powers with the same base, add exponents: 3n + 4n + 1 = 7n + 1."
+      ]
+    },
+    {
+      "id": "2(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Rationalise the denominator of (√2 + 1)/(√2 − √5).",
+      "answer": "−(2 + √10 + √2 + √5)/3.",
+      "steps": [
+        "Multiply numerator and denominator by the conjugate √2 + √5.",
+        "The denominator becomes 2 − 5 = −3. Expanding the numerator gives 2 + √10 + √2 + √5. Divide by −3."
+      ]
+    },
+    {
+      "id": "2(c)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Given log₁₀2 = 0.3010 and log₁₀3 = 0.4771, find log₁₀72.",
+      "answer": "1.8572.",
+      "steps": [
+        "Factor 72 = 2³ × 3². Apply the product and power rules: log72 = 3log2 + 2log3.",
+        "Calculate 3(0.3010) + 2(0.4771) = 0.9030 + 0.9542 = 1.8572."
+      ]
+    },
+    {
+      "id": "3(a)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Of 260 students, 130 take Physics, 150 Chemistry and 40 both. How many take Physics only?",
+      "answer": "90 students.",
+      "steps": [
+        "The Physics total includes those taking both subjects.",
+        "Subtract the overlap: 130 − 40 = 90."
+      ]
+    },
+    {
+      "id": "3(a)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "How many of those students take neither subject?",
+      "answer": "20 students.",
+      "steps": [
+        "Union = 130 + 150 − 40 = 240. The overlap is subtracted because it was counted twice.",
+        "Neither = total − union = 260 − 240 = 20."
+      ]
+    },
+    {
+      "id": "3(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Among 35 livestock keepers, 18 keep goats, 20 cows and 3 both. Draw a Venn diagram and find P(goats only).",
+      "answer": "Goats only 15; both 3; cows only 17; neither 0. P(goats only) = 3/7.",
+      "steps": [
+        "Place 3 in the intersection. Goats only = 18 − 3 = 15; cows only = 20 − 3 = 17.",
+        "Union = 15 + 3 + 17 = 35, so none lie outside both circles. Favourable keepers = 15; probability = 15/35 = 3/7."
+      ],
+      "image": "answer_keys/figures/BasicMath-F4-2025-venn.png"
+    },
+    {
+      "id": "4(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "In triangle ABC, AB = 8 cm, exterior angle ABD = 150° and area = 22.6 cm². Find BC.",
+      "answer": "11.3 cm.",
+      "steps": [
+        "Interior ∠ABC = 180° − 150° = 30°. Use area = ½ AB × BC × sin∠ABC.",
+        "22.6 = ½ × 8 × BC × ½ = 2BC. Therefore BC = 22.6/2 = 11.3 cm."
+      ]
+    },
+    {
+      "id": "4(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Find the perimeter of a regular pentagon inscribed in a circle of radius 10 m.",
+      "answer": "100 sin36° ≈ 58.78 m.",
+      "steps": [
+        "Each central angle is 360°/5 = 72°. Bisecting one isosceles triangle gives a right triangle with angle 36° and hypotenuse 10 m.",
+        "Half a side = 10sin36°, so a side = 20sin36°. Multiply by five sides: perimeter = 100sin36°."
+      ]
+    },
+    {
+      "id": "5(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Using the stated exchange rate Tsh 2300 per US dollar, convert Tsh 27,600,000 to dollars.",
+      "answer": "US $12,000.",
+      "steps": [
+        "One dollar costs Tsh 2300, so divide the shilling amount by 2300.",
+        "27,600,000 ÷ 2300 = 12,000. Check: 12,000 × 2300 = 27,600,000."
+      ]
+    },
+    {
+      "id": "5(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Cylinder height varies directly as volume and inversely as radius squared. Height 3 cm corresponds to volume 900 cm³ and radius 10 cm. Find height for 1200 cm³ and radius 5 cm.",
+      "answer": "16 cm.",
+      "steps": [
+        "Write h = kV/r². Substitute the first conditions: 3 = k × 900/100 = 9k, so k = 1/3.",
+        "For the new cylinder, h = (1/3)(1200)/25 = 400/25 = 16 cm."
+      ]
+    },
+    {
+      "id": "6(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "For a = 2i − j, b = −i + 3j and c = 3i − 4j, find the magnitude of a + b + c.",
+      "answer": "2√5, approximately 4.47.",
+      "steps": [
+        "Add corresponding components: a + b + c = (2 − 1 + 3)i + (−1 + 3 − 4)j = 4i − 2j.",
+        "Magnitude = √(4² + (−2)²) = √20 = 2√5."
+      ]
+    },
+    {
+      "id": "6(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "A line segment has midpoint (3,5) and one endpoint (6,7). Find the other endpoint.",
+      "answer": "(0,3).",
+      "steps": [
+        "Let the missing endpoint be (x,y). The midpoint formula gives (6 + x)/2 = 3 and (7 + y)/2 = 5.",
+        "Thus x = 6 − 6 = 0 and y = 10 − 7 = 3. Check the averages are (3,5)."
+      ]
+    },
+    {
+      "id": "7(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Sand, gravel and cement are mixed in ratio 500:600:200. How much cement is in 39,000 kg of mixture?",
+      "answer": "6000 kg of cement.",
+      "steps": [
+        "Total ratio parts = 500 + 600 + 200 = 1300. Cement contributes 200/1300 of the mixture.",
+        "Cement mass = (200/1300) × 39,000 = 200 × 30 = 6000 kg."
+      ]
+    },
+    {
+      "id": "7(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Opening stock Tsh 2000, purchases 13,000, closing stock 500, sales 30,000 and expenses 6500: find net profit.",
+      "answer": "Tsh 9000.",
+      "steps": [
+        "Cost of goods sold = opening stock + purchases − closing stock = 2000 + 13,000 − 500 = 14,500.",
+        "Gross profit = sales − cost of goods sold = 30,000 − 14,500 = 15,500.",
+        "Net profit = gross profit − expenses = 15,500 − 6500 = 9000."
+      ]
+    },
+    {
+      "id": "8(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Calculate the amount after investing Tsh 10,000 at 5% compound interest per year for three years.",
+      "answer": "Tsh 11,576.25.",
+      "steps": [
+        "For annual compounding, A = P(1 + r)ⁿ with P = 10,000, r = 0.05 and n = 3.",
+        "A = 10,000 × 1.05³ = 10,000 × 1.157625 = 11,576.25. The interest earned is Tsh 1576.25."
+      ]
+    },
+    {
+      "id": "8(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "The numbers 3, x − 1 and 27 form a geometric progression. Find x.",
+      "answer": "x = 10 or x = −8.",
+      "steps": [
+        "For consecutive GP terms, the middle term squared equals first × third: (x − 1)² = 3 × 27 = 81.",
+        "x − 1 = ±9, so x = 10 or −8. Check the sequences 3,9,27 and 3,−9,27 have ratios 3 and −3 respectively."
+      ],
+      "tip": "A geometric progression can have a negative common ratio. Retain both solutions unless a positive ratio is required."
+    },
+    {
+      "id": "9(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Find the largest angle in a triangle with side lengths 6,7 and 8 cm.",
+      "answer": "Approximately 75.52°.",
+      "steps": [
+        "The largest angle is opposite the longest side, 8 cm. Apply the cosine rule: 8² = 6² + 7² − 2(6)(7)cosθ.",
+        "cosθ = (36 + 49 − 64)/84 = 21/84 = 1/4. Thus θ = cos⁻¹(1/4) ≈ 75.52°."
+      ]
+    },
+    {
+      "id": "9(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "ABC is right-angled at B, with AC = 6 cm and AB = 3 cm. Find tan∠C.",
+      "answer": "√3/3, or 1/√3.",
+      "steps": [
+        "AC is the hypotenuse. By Pythagoras, BC = √(6² − 3²) = √27 = 3√3.",
+        "Relative to angle C, the opposite side is AB and the adjacent side is BC. Therefore tanC = 3/(3√3) = √3/3."
+      ]
+    },
+    {
+      "id": "10(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Given x = 1/t⁵, rewrite 2/t¹⁰ − 3/t⁵ + 1 = 0 in terms of x.",
+      "answer": "2x² − 3x + 1 = 0.",
+      "steps": [
+        "Since x = t⁻⁵, x² = t⁻¹⁰. The original equation requires t ≠ 0.",
+        "Replace 1/t¹⁰ with x² and 1/t⁵ with x."
+      ]
+    },
+    {
+      "id": "10(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Solve the resulting quadratic 2x² − 3x + 1 = 0.",
+      "answer": "x = 1 or x = 1/2.",
+      "steps": [
+        "Factor: 2x² − 3x + 1 = (2x − 1)(x − 1).",
+        "Set each factor to zero: 2x − 1 = 0 gives x = 1/2; x − 1 = 0 gives x = 1. If t is also needed, t = 1 or ⁵√2."
+      ]
+    },
+    {
+      "id": "11(a)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Marks 65–69,70–74,75–79,80–84,85–89,90–94 have frequencies 10,12,55,10,5,8. How many pupils scored 75–79?",
+      "answer": "55 pupils.",
+      "steps": [
+        "Find the class interval 75–79 in the table.",
+        "Its frequency is 55. Frequencies count pupils; do not use the class midpoint or cumulative total."
+      ]
+    },
+    {
+      "id": "11(b)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Calculate the grouped median of the marks to the nearest whole number.",
+      "answer": "77 marks.",
+      "steps": [
+        "Total N = 100; cumulative frequencies are 10,22,77,87,92,100. N/2 = 50 lies in the 75–79 class.",
+        "Use continuous lower boundary L = 74.5, preceding cumulative frequency 22, class frequency 55 and width 5.",
+        "Median = 74.5 + [(50 − 22)/55] × 5 = 77.04545… . Round to the nearest whole mark: 77."
+      ]
+    },
+    {
+      "id": "12(a)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Find the distance between X(60°N,30°E) and Y(60°N,40°E), taking a degree at the equator as 111.6 km.",
+      "answer": "558 km along the parallel of latitude.",
+      "steps": [
+        "Longitude difference = 40° − 30° = 10°. At latitude 60°, the parallel’s radius is the equatorial radius multiplied by cos60° = 1/2.",
+        "Distance along that parallel = 10 × 111.6 × 1/2 = 558 km."
+      ],
+      "tip": "This is the parallel-arc distance requested by the latitude model, rather than a great-circle route."
+    },
+    {
+      "id": "12(b)(i)",
+      "section": "Section B — Worked solutions",
+      "prompt": "A closed rectangular box has dimensions 40 cm by 30 cm by 50 cm. Find its space diagonal AG.",
+      "answer": "50√2 cm, approximately 70.71 cm.",
+      "steps": [
+        "The base diagonal squared is 40² + 30² = 2500.",
+        "The space diagonal squared adds the height squared: AG² = 2500 + 50² = 5000. Therefore AG = √5000 = 50√2."
+      ]
+    },
+    {
+      "id": "12(b)(ii)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Find the outside surface area of the closed box.",
+      "answer": "9400 cm² for all six outer faces.",
+      "steps": [
+        "There are two faces of each size: 40 × 30, 40 × 50 and 30 × 50.",
+        "Total = 2(1200 + 2000 + 1500) = 9400 cm²."
+      ],
+      "tip": "If “the sides” is restricted to the four vertical faces, their lateral area is 2(40 + 30) × 50 = 7000 cm². The complete closed-box outside area includes its top and bottom."
+    },
+    {
+      "id": "13(a)",
+      "section": "Section B — Worked solutions",
+      "prompt": "G = [[−1,11],[a,3]] is singular. Find a.",
+      "answer": "a = −3/11.",
+      "steps": [
+        "A singular square matrix has determinant zero. detG = (−1)(3) − 11a = −3 − 11a.",
+        "Set −3 − 11a = 0, giving a = −3/11."
+      ]
+    },
+    {
+      "id": "13(b)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Use a matrix method to solve 5x + 3y = 9 and 10x + 7y = 11.",
+      "answer": "x = 6, y = −7.",
+      "steps": [
+        "Write A = [[5,3],[10,7]], u = [x,y]ᵀ and b = [9,11]ᵀ, so Au = b. detA = 35 − 30 = 5.",
+        "A⁻¹ = (1/5)[[7,−3],[−10,5]]. Multiply by b: u = (1/5)[63 − 33,−90 + 55]ᵀ = [6,−7]ᵀ.",
+        "Check: 5(6) + 3(−7) = 9 and 10(6) + 7(−7) = 11."
+      ]
+    },
+    {
+      "id": "14(a)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Given f(x) = x + 2 and g(x) = 3x − 2, find the product of f⁻¹(x) and g⁻¹(x).",
+      "answer": "f⁻¹(x)g⁻¹(x) = (x² − 4)/3.",
+      "steps": [
+        "To invert f, write y = x + 2 and solve x = y − 2: f⁻¹(x) = x − 2. To invert g, y = 3x − 2 gives g⁻¹(x) = (x + 2)/3.",
+        "Multiply the inverse values: (x − 2)(x + 2)/3 = (x² − 4)/3."
+      ],
+      "tip": "The paper asks for the product of the inverse functions. A product multiplies their values; a composition would substitute one function into the other."
+    },
+    {
+      "id": "14(b)",
+      "section": "Section B — Worked solutions",
+      "prompt": "A tailor has 150 m² cotton and 90 m² wool. A suit needs 1 m² cotton and 2 m² wool; a gown needs 3 m² cotton and 1 m² wool. Revenues are Tsh 40,000 per suit and 60,000 per gown. Formulate the revenue-maximising problem.",
+      "answer": "Maximise Z = 40,000x + 60,000y, subject to x + 3y ≤ 150; 2x + y ≤ 90; x,y ≥ 0, with x,y whole numbers.",
+      "steps": [
+        "Let x be the number of suits and y the number of gowns. Cotton used = x + 3y and wool used = 2x + y.",
+        "Usage cannot exceed available cloth, so both constraints use ≤. Multiply each garment count by its revenue to form the objective. Nonnegative whole numbers reflect garment counts."
+      ]
+    }
+  ],
+  "summaries": {
+    "Section A — Worked solutions": "Align recurring decimals before subtracting. Complements and Venn diagrams avoid double counting; ratios and variation equations must use consistent units.",
+    "Section B — Worked solutions": "Use class boundaries for grouped medians. A space diagonal includes all three squared dimensions. Inverse functions, products and matrix inverses are different operations."
+  },
+  "labelling_note": "Question 12(b)(ii) includes the complete outside area of the closed box and identifies the alternative lateral-area reading of “sides”."
+}

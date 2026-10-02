@@ -1,0 +1,616 @@
+{
+  "exam": "English-F2-2022.pdf",
+  "output": "English-F2-2022-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Form Two",
+  "year": "2022",
+  "code": "022",
+  "exam_type": "Form Two National Assessment (FTNA)",
+  "question_count": "10 compulsory questions; 53 answered parts",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "680db929a54820567cbf9b8b39de65aeee6242f6bb8745119dcb39e90b6945b6",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(ix)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "6(i)",
+    "6(ii)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)",
+    "7(v)",
+    "8(i)",
+    "8(ii)",
+    "8(iii)",
+    "8(iv)",
+    "8(v)",
+    "8(vi)",
+    "8(vii)",
+    "8(viii)",
+    "8(ix)",
+    "8(x)",
+    "9(i)",
+    "9(ii)",
+    "9(iii)",
+    "9(iv)",
+    "9(v)",
+    "10"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Section A — Objective questions",
+      "prompt": "Majengo watches a football match. What is he?",
+      "answer": "D — Spectator.",
+      "steps": [
+        "Read the situation and identify the meaning or grammatical rule being tested.",
+        "A spectator watches; a referee officiates and strikers and defenders play."
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Section A — Objective questions",
+      "prompt": "What form item asks about the country to which a person belongs?",
+      "answer": "B — Nationality.",
+      "steps": [
+        "Read the situation and identify the meaning or grammatical rule being tested.",
+        "Nationality identifies a person’s national affiliation. Marital status concerns marriage."
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Neema is east of a ball, and Baraka sees that ball to his south. In which direction is Baraka from Neema?",
+      "answer": "B — North-West.",
+      "steps": [
+        "Read the situation and identify the meaning or grammatical rule being tested.",
+        "Put the ball at the centre. Neema is east of it and Baraka north of it, so travelling from Neema towards Baraka goes north and west."
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Section A — Objective questions",
+      "prompt": "What is negotiating a discount with a shopkeeper called?",
+      "answer": "D — Bargaining.",
+      "steps": [
+        "Read the situation and identify the meaning or grammatical rule being tested.",
+        "Bargaining is negotiating price; requesting and asking are broader activities."
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Section A — Objective questions",
+      "prompt": "Anna likes reading, and her mother does too. How should the mother reply?",
+      "answer": "D — So do I.",
+      "steps": [
+        "Read the situation and identify the meaning or grammatical rule being tested.",
+        "For agreement with a positive present-simple statement, use so + auxiliary do + subject I."
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Section A — Objective questions",
+      "prompt": "Replace “Women are inferior” with its lexical opposite.",
+      "answer": "C — Women are superior.",
+      "steps": [
+        "Read the situation and identify the meaning or grammatical rule being tested.",
+        "Superior is the antonym of inferior. This answers a vocabulary task and does not endorse a ranking of people."
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Section A — Objective questions",
+      "prompt": "What does having enough money to buy a new car mean?",
+      "answer": "C — He is able to buy a new car.",
+      "steps": [
+        "Read the situation and identify the meaning or grammatical rule being tested.",
+        "Enough describes sufficient means, which expresses ability rather than a definite future purchase."
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Choose the correct “hear” sentence intended to show an ongoing activity.",
+      "answer": "A — I hear noises from outside, is the grammatical ordinary-perception sentence. No option correctly supplies the requested ongoing-action form.",
+      "steps": [
+        "Read the situation and identify the meaning or grammatical rule being tested.",
+        "Hear in the sense of perceiving sound normally takes the simple form. “We are hearing them singing”, “He is hearing what you say” and “I am not hearing you” are inappropriate ordinary-perception forms here."
+      ],
+      "tip": "A is the best grammatical option, but the instruction asking for an ongoing activity is inconsistent with the choices."
+    },
+    {
+      "id": "1(ix)",
+      "section": "Section A — Objective questions",
+      "prompt": "Why is “an hour” correct but “an university” incorrect?",
+      "answer": "A — Use a before a consonant sound and an before a vowel sound.",
+      "steps": [
+        "Read the situation and identify the meaning or grammatical rule being tested.",
+        "Hour begins with a vowel sound because h is silent; university begins with the consonant sound /j/, so it takes a."
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Section A — Objective questions",
+      "prompt": "Which explanation for Taifa Stars’ poor results is presented as a fact rather than speculation?",
+      "answer": "C — The statement directly attributes the result to an inadequate preparation budget.",
+      "steps": [
+        "Read the situation and identify the meaning or grammatical rule being tested.",
+        "The other choices are qualified by probably, could or likely. C is phrased as a definite assertion; the question supplies no evidence proving the real sporting cause."
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the occupation: A person caring for people’s teeth.",
+      "answer": "D — Dentist.",
+      "steps": [
+        "Match the duties to the occupation’s definition.",
+        "A dentist treats teeth and oral problems."
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the occupation: A person writing books.",
+      "answer": "E — Author.",
+      "steps": [
+        "Match the duties to the occupation’s definition.",
+        "An author creates written works."
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the occupation: A person connecting and repairing electrical equipment.",
+      "answer": "G — Electrician.",
+      "steps": [
+        "Match the duties to the occupation’s definition.",
+        "An electrician works with electrical installations."
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the occupation: A person building with stones or blocks.",
+      "answer": "F — Mason.",
+      "steps": [
+        "Match the duties to the occupation’s definition.",
+        "Masonry is construction using bricks, stones or blocks."
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the occupation: An office worker handling correspondence, calls, typing, records and meetings.",
+      "answer": "B — Secretary.",
+      "steps": [
+        "Match the duties to the occupation’s definition.",
+        "These administrative duties describe a secretary."
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite in the passive voice: China makes cheap mobile phones.",
+      "answer": "Cheap mobile phones are made by China.",
+      "steps": [
+        "Move the active object into the subject position; retain the present-simple tense.",
+        "Mobile phones is plural, so present-simple passive uses are made."
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite in the passive voice: My grandfather keeps sheep.",
+      "answer": "Sheep are kept by my grandfather.",
+      "steps": [
+        "Move the active object into the subject position; retain the present-simple tense.",
+        "Sheep is unchanged in the plural; use are + past participle kept."
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite in the passive voice: People in East Africa and northern Mozambique speak Kiswahili.",
+      "answer": "Kiswahili is spoken by people in East Africa and northern Mozambique.",
+      "steps": [
+        "Move the active object into the subject position; retain the present-simple tense.",
+        "Kiswahili becomes the singular subject, followed by is spoken."
+      ]
+    },
+    {
+      "id": "3(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite in the passive voice: This restaurant sells nice coffee.",
+      "answer": "Nice coffee is sold by this restaurant.",
+      "steps": [
+        "Move the active object into the subject position; retain the present-simple tense.",
+        "Coffee is an uncountable singular subject, so use is sold."
+      ]
+    },
+    {
+      "id": "3(v)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite in the passive voice: The farmer kills crop-destructive mice.",
+      "answer": "Crop-destructive mice are killed by the farmer.",
+      "steps": [
+        "Move the active object into the subject position; retain the present-simple tense.",
+        "Mice is plural; use are killed and retain the agent after by."
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Section B — Language use",
+      "prompt": "Choose the message type: Monica intends to invite friends for dinner every weekend when she grows up.",
+      "answer": "habit",
+      "steps": [
+        "Use the context and wording, not just the presence of will.",
+        "Every weekend describes a repeated future activity."
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Choose the message type: Neema says she will visit her hospitalised friend tomorrow.",
+      "answer": "arrangement",
+      "steps": [
+        "Use the context and wording, not just the presence of will.",
+        "The specific visit tomorrow is presented as a planned action."
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Choose the message type: A learner assures a doubting father that hard work means he will pass.",
+      "answer": "certainty",
+      "steps": [
+        "Use the context and wording, not just the presence of will.",
+        "The speaker expresses confidence with “I assure you”."
+      ]
+    },
+    {
+      "id": "4(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Choose the message type: A parent tells a daughter who has repeatedly requested a gift that she will buy a doll today.",
+      "answer": "promise",
+      "steps": [
+        "Use the context and wording, not just the presence of will.",
+        "The statement commits the parent to providing the gift."
+      ]
+    },
+    {
+      "id": "4(v)",
+      "section": "Section B — Language use",
+      "prompt": "Choose the message type: Halima says Ashura will presumably change her negative attitude.",
+      "answer": "possibility",
+      "steps": [
+        "Use the context and wording, not just the presence of will.",
+        "Presumably marks an expected but uncertain outcome."
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Section B — Language use",
+      "prompt": "Give the dictionary abbreviation’s full form: sb.",
+      "answer": "somebody",
+      "steps": [
+        "Recognise this as dictionary notation.",
+        "Dictionary sb stands for a person."
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Give the dictionary abbreviation’s full form: sth.",
+      "answer": "something",
+      "steps": [
+        "Recognise this as dictionary notation.",
+        "Dictionary sth stands for a thing."
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Give the dictionary abbreviation’s full form: adj.",
+      "answer": "adjective",
+      "steps": [
+        "Recognise this as dictionary notation.",
+        "It labels a word describing or modifying a noun."
+      ]
+    },
+    {
+      "id": "5(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Give the dictionary abbreviation’s full form: AmE.",
+      "answer": "American English",
+      "steps": [
+        "Recognise this as dictionary notation.",
+        "It labels a usage associated with American English."
+      ]
+    },
+    {
+      "id": "5(v)",
+      "section": "Section B — Language use",
+      "prompt": "Give the dictionary abbreviation’s full form: adv.",
+      "answer": "adverb",
+      "steps": [
+        "Recognise this as dictionary notation.",
+        "It labels a word modifying a verb, adjective or other adverb."
+      ]
+    },
+    {
+      "id": "6(i)",
+      "section": "Section B — Language use",
+      "prompt": "Identify important information missing from the Masanja wedding invitation card.",
+      "answer": "The date, starting time and venue of the wedding ceremony.",
+      "steps": [
+        "The card already supplies hosts, invitees, the occasion, the couple and an RSVP contact.",
+        "Check whether a guest can determine when and where to attend. Date, time and place are absent."
+      ]
+    },
+    {
+      "id": "6(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Rewrite the wedding invitation correctly, supplying its missing information.",
+      "answer": "INVITATION\nMr. and Mrs. Masanja cordially invite Mr. and Mrs. Onyango to the wedding ceremony of their son, Kulwa, and his bride, Amalia.\nDate: Saturday, 19 November 2022\nTime: 3:00 p.m.\nVenue: Community Hall, Dodoma\nYour presence will be greatly appreciated.\nRSVP: Mr. Masanja, telephone 0255600017.",
+      "steps": [
+        "Preserve the hosts, guests, couple and response contact stated on the original card.",
+        "Insert a clearly stated date, time and place; use a formal, welcoming tone."
+      ],
+      "tip": "The date, time and venue above are example details supplied to complete the model card; the examination does not specify them."
+    },
+    {
+      "id": "7(i)",
+      "section": "Section B — Language use",
+      "prompt": "Express a habitual action: Athletics (impress) me.",
+      "answer": "Athletics impresses me.",
+      "steps": [
+        "Use the present simple for habits and check subject–verb agreement.",
+        "Athletics names one sporting field, so treat it as singular."
+      ]
+    },
+    {
+      "id": "7(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Express a habitual action: Our teacher (conduct) a class meeting every Friday.",
+      "answer": "Our teacher conducts a class meeting every Friday.",
+      "steps": [
+        "Use the present simple for habits and check subject–verb agreement.",
+        "The singular teacher takes conducts in the habitual present simple."
+      ]
+    },
+    {
+      "id": "7(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Express a habitual action: This student (speak) fluent English.",
+      "answer": "This student speaks fluent English.",
+      "steps": [
+        "Use the present simple for habits and check subject–verb agreement.",
+        "The singular student takes speaks."
+      ]
+    },
+    {
+      "id": "7(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Express a habitual action: My mother always (cook) delicious meals.",
+      "answer": "My mother always cooks delicious meals.",
+      "steps": [
+        "Use the present simple for habits and check subject–verb agreement.",
+        "Always signals a habit; use cooks for the singular subject."
+      ]
+    },
+    {
+      "id": "7(v)",
+      "section": "Section B — Language use",
+      "prompt": "Express a habitual action: Our President often (give) speeches about precautions against COVID-19.",
+      "answer": "Our President often gives speeches about the precautions against COVID-19.",
+      "steps": [
+        "Use the present simple for habits and check subject–verb agreement.",
+        "Often marks repetition; singular President takes gives."
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Section B — Language use",
+      "prompt": "Mother spent fewer dollars than expected: the car was ___.",
+      "answer": "cheap",
+      "steps": [
+        "Choose the boxed word matching the description and grammatical position.",
+        "Cheap describes the low purchase price."
+      ]
+    },
+    {
+      "id": "8(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Many people like the car’s appearance: it is ___.",
+      "answer": "beautiful",
+      "steps": [
+        "Choose the boxed word matching the description and grammatical position.",
+        "Beautiful concerns appearance."
+      ]
+    },
+    {
+      "id": "8(iii)",
+      "section": "Section B — Language use",
+      "prompt": "The car is easy to drive on muddy, slippery roads: it is a ___ car.",
+      "answer": "four-wheel drive",
+      "steps": [
+        "Choose the boxed word matching the description and grammatical position.",
+        "Four-wheel drive powers all four wheels, matching the terrain description."
+      ]
+    },
+    {
+      "id": "8(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Mother is the first person to use it: it is a ___ car.",
+      "answer": "brand-new",
+      "steps": [
+        "Choose the boxed word matching the description and grammatical position.",
+        "Brand-new means new and previously unused."
+      ]
+    },
+    {
+      "id": "8(v)",
+      "section": "Section B — Language use",
+      "prompt": "It uses less fuel than other cars: it is ___.",
+      "answer": "economical",
+      "steps": [
+        "Choose the boxed word matching the description and grammatical position.",
+        "Economical means efficient in its use of fuel or money; economic relates to an economy."
+      ]
+    },
+    {
+      "id": "8(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Everyone wishes to have the car: they ___ it.",
+      "answer": "admire",
+      "steps": [
+        "Choose the boxed word matching the description and grammatical position.",
+        "Admire fits appreciation of the car."
+      ]
+    },
+    {
+      "id": "8(vii)",
+      "section": "Section B — Language use",
+      "prompt": "The car has big headlights: it ___ bright light at night.",
+      "answer": "sheds",
+      "steps": [
+        "Choose the boxed word matching the description and grammatical position.",
+        "To shed light means to cast or give off light."
+      ]
+    },
+    {
+      "id": "8(viii)",
+      "section": "Section B — Language use",
+      "prompt": "Its seats are very ___ and enjoyable to sit on.",
+      "answer": "comfortable",
+      "steps": [
+        "Choose the boxed word matching the description and grammatical position.",
+        "Comfortable describes physical ease."
+      ]
+    },
+    {
+      "id": "8(ix)",
+      "section": "Section B — Language use",
+      "prompt": "Mother uses a ___ mechanic to service it.",
+      "answer": "well-trained",
+      "steps": [
+        "Choose the boxed word matching the description and grammatical position.",
+        "Well-trained means having the necessary skills and preparation."
+      ]
+    },
+    {
+      "id": "8(x)",
+      "section": "Section B — Language use",
+      "prompt": "It can carry seven people: it is a ___ car.",
+      "answer": "seven-seater",
+      "steps": [
+        "Choose the boxed word matching the description and grammatical position.",
+        "Seven-seater states its passenger capacity."
+      ]
+    },
+    {
+      "id": "9(i)",
+      "section": "Section B — Language use",
+      "prompt": "Mother cooked ugali earlier, then I arrived. Join to show the earlier past action.",
+      "answer": "My mother had cooked ugali before I arrived from school.",
+      "steps": [
+        "Keep the original meaning while applying the requested transformation.",
+        "Use past perfect had cooked for the earlier action and past simple arrived for the later one."
+      ]
+    },
+    {
+      "id": "9(ii)",
+      "section": "Section B — Language use",
+      "prompt": "The train left before Wednesday. Make negative.",
+      "answer": "The train did not leave before Wednesday.",
+      "steps": [
+        "Keep the original meaning while applying the requested transformation.",
+        "Negate the past simple with did not and restore leave to its base form."
+      ]
+    },
+    {
+      "id": "9(iii)",
+      "section": "Section B — Language use",
+      "prompt": "“Yes, children had not eaten ugali before their parents did.” Turn the statement into a question.",
+      "answer": "Had the children not eaten ugali before their parents did?",
+      "steps": [
+        "Keep the original meaning while applying the requested transformation.",
+        "Remove the introductory Yes and place auxiliary had before the subject, retaining not and eaten."
+      ]
+    },
+    {
+      "id": "9(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Students waited for the teacher for almost an hour. Add a tag.",
+      "answer": "Students waited for the teacher for almost an hour, didn’t they?",
+      "steps": [
+        "Keep the original meaning while applying the requested transformation.",
+        "A positive past-simple statement takes negative did not; students becomes they."
+      ]
+    },
+    {
+      "id": "9(v)",
+      "section": "Section B — Language use",
+      "prompt": "My sister used to cook dinner for me. Use “no longer”.",
+      "answer": "My sister no longer cooks dinner for me.",
+      "steps": [
+        "Keep the original meaning while applying the requested transformation.",
+        "No longer contrasts a former habit with its present cessation; use present-simple cooks."
+      ]
+    },
+    {
+      "id": "10",
+      "section": "Section C — Reading programme",
+      "prompt": "Using two prescribed readers, explain three bad habits from each and why people should avoid them.",
+      "answer": "Model response:\nBad habits can harm individuals, families and the wider community. Mabala the Farmer and Hawa the Bus Driver, both by R. S. Mabala, show why people should examine their conduct.\nIn Mabala the Farmer, Mabala’s laziness prevents him from treating farming as sustained work. People should avoid this habit because crops and other responsibilities cannot succeed through wishes alone. His wastefulness also weakens the family’s resources. Careful spending would leave more for necessities and future plans. His stubbornness makes useful advice seem like an insult. Listening to experienced people would help him correct mistakes and improve his work.\nIn Hawa the Bus Driver, Selemani’s jealousy makes his wife’s success a source of tension. People should avoid jealousy because another person’s achievement can benefit the whole family. His prejudice against women’s capabilities also discourages Hawa. Judging workers by their skill would permit more people to contribute to society. Finally, his attempt to control her employment disregards her contribution and choice. Cooperation and discussion would create a fairer partnership than restricting a capable person.\nThese readers encourage responsible work, sensible use of resources, willingness to learn and respect for others. Rejecting the six habits would strengthen both personal relationships and community development.",
+      "steps": [
+        "Plan three distinct habits per reader, identifying the character showing each.",
+        "For Mabala use laziness, wastefulness and stubbornness; explain the practical harm of each. For Selemani use jealousy, gender prejudice and controlling conduct.",
+        "Develop each point into explanation and advice. Finish by connecting the two texts to a shared lesson."
+      ],
+      "tip": "This is an independently written model essay. Other relevant habits or prescribed readers can receive credit when supported with accurate textual examples."
+    }
+  ],
+  "summaries": {
+    "Section A — Objective questions": "Distinguish a statement’s grammatical certainty from evidence that it is true. Articles depend on sound, and stative perception verbs usually use simple forms.",
+    "Section B — Language use": "Preserve tense when changing voice. Invitation cards must tell guests when and where to attend; habitual present verbs agree with the subject.",
+    "Section C — Reading programme": "A literature essay needs the requested number of distinct points, character evidence and an explanation of the lesson each point offers."
+  },
+  "labelling_note": "Question 1(viii) has no option that both uses ordinary-perception hear correctly and meets the instruction for ongoing aspect; the best grammatical choice is explained. Question 6(ii) uses clearly identified example event details.",
+  "references": [
+    {
+      "title": "NECTA English FTNA 2022 — reader and assessment clarification",
+      "url": "https://onlinesys.necta.go.tz/cira/ftna/2022/022_ENGLISH_LANGUAGE.pdf"
+    }
+  ]
+}

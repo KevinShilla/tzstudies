@@ -1,0 +1,306 @@
+{
+  "exam": "English-S4-2023.pdf",
+  "output": "English-S4-2023-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Four",
+  "year": "2023",
+  "code": "02",
+  "exam_type": "Standard Four National Assessment (SFNA)",
+  "question_count": "5 questions; 25 parts",
+  "language": "en",
+  "reviewed": true,
+  "expected_parts": [
+    "A(i)",
+    "A(ii)",
+    "A(iii)",
+    "A(iv)",
+    "A(v)",
+    "B(i)",
+    "B(ii)",
+    "B(iii)",
+    "B(iv)",
+    "B(v)",
+    "C(i)",
+    "C(ii)",
+    "C(iii)",
+    "C(iv)",
+    "C(v)",
+    "D(i)",
+    "D(ii)",
+    "D(iii)",
+    "D(iv)",
+    "D(v)",
+    "E(i)",
+    "E(ii)",
+    "E(iii)",
+    "E(iv)",
+    "E(v)"
+  ],
+  "questions": [
+    {
+      "id": "A(i)",
+      "section": "Section A: Dictation",
+      "prompt": "Write dictation sentence 1.",
+      "steps": [
+        "Listen to the whole sentence before writing, then separate the spoken words carefully.",
+        "Begin with a capital letter, leave spaces between words, and finish with a full stop. Check your spelling when the sentence is read again."
+      ],
+      "answer": "This mango is big."
+    },
+    {
+      "id": "A(ii)",
+      "section": "Section A: Dictation",
+      "prompt": "Write dictation sentence 2.",
+      "steps": [
+        "Listen to the whole sentence before writing, then separate the spoken words carefully.",
+        "Begin with a capital letter, leave spaces between words, and finish with a full stop. Check your spelling when the sentence is read again."
+      ],
+      "answer": "Look at that picture."
+    },
+    {
+      "id": "A(iii)",
+      "section": "Section A: Dictation",
+      "prompt": "Write dictation sentence 3.",
+      "steps": [
+        "Listen to the whole sentence before writing, then separate the spoken words carefully.",
+        "Begin with a capital letter, leave spaces between words, and finish with a full stop. Check your spelling when the sentence is read again."
+      ],
+      "answer": "I can speak English."
+    },
+    {
+      "id": "A(iv)",
+      "section": "Section A: Dictation",
+      "prompt": "Write dictation sentence 4.",
+      "steps": [
+        "Listen to the whole sentence before writing, then separate the spoken words carefully.",
+        "Begin with a capital letter, leave spaces between words, and finish with a full stop. Check your spelling when the sentence is read again."
+      ],
+      "answer": "Those are my friends."
+    },
+    {
+      "id": "A(v)",
+      "section": "Section A: Dictation",
+      "prompt": "Write dictation sentence 5.",
+      "steps": [
+        "Listen to the whole sentence before writing, then separate the spoken words carefully.",
+        "Begin with a capital letter, leave spaces between words, and finish with a full stop. Check your spelling when the sentence is read again."
+      ],
+      "answer": "They are good parents."
+    },
+    {
+      "id": "B(i)",
+      "section": "Section B: Vocabulary",
+      "prompt": "Edward is the son of the Queen. What is he?",
+      "steps": [
+        "A queen's son belongs to the royal family.",
+        "The male title among the options is prince."
+      ],
+      "answer": "A. A prince."
+    },
+    {
+      "id": "B(ii)",
+      "section": "Section B: Vocabulary",
+      "prompt": "A box contains nothing. How do we describe it?",
+      "steps": [
+        "Containing nothing means there are no contents.",
+        "The word for that condition is empty."
+      ],
+      "answer": "C. Empty."
+    },
+    {
+      "id": "B(iii)",
+      "section": "Section B: Vocabulary",
+      "prompt": "Complete: We saw a __ of cattle on his farm.",
+      "steps": [
+        "Identify the animals before choosing a collective noun.",
+        "A group of cattle is a herd."
+      ],
+      "answer": "B. Herd."
+    },
+    {
+      "id": "B(iv)",
+      "section": "Section B: Vocabulary",
+      "prompt": "Complete: Musa was given a __ of soap.",
+      "steps": [
+        "Soap commonly comes as a solid rectangular piece.",
+        "That unit is called a bar."
+      ],
+      "answer": "D. Bar."
+    },
+    {
+      "id": "B(v)",
+      "section": "Section B: Vocabulary",
+      "prompt": "People buy things from Mr. Mwaka. What is he?",
+      "steps": [
+        "Someone who provides goods in exchange for payment sells them.",
+        "Choose seller rather than buyer or customer."
+      ],
+      "answer": "B. A seller."
+    },
+    {
+      "id": "C(i)",
+      "section": "Section C: Grammar",
+      "prompt": "__ police will arrive here soon. Choose A, An or The.",
+      "steps": [
+        "Police is used as a plural collective noun here.",
+        "The appropriate article in this sentence is the."
+      ],
+      "answer": "The: The police will arrive here soon."
+    },
+    {
+      "id": "C(ii)",
+      "section": "Section C: Grammar",
+      "prompt": "Would you like __ apple? Choose this, these or those.",
+      "steps": [
+        "Apple is singular.",
+        "This agrees with a singular noun; these and those are plural."
+      ],
+      "answer": "This: Would you like this apple?"
+    },
+    {
+      "id": "C(iii)",
+      "section": "Section C: Grammar",
+      "prompt": "She __ to close the door last night. Choose forget, forgot or forgotten.",
+      "steps": [
+        "Last night places the action in the past.",
+        "Use the simple past form forgot; forgotten normally needs an auxiliary."
+      ],
+      "answer": "Forgot: She forgot to close the door last night."
+    },
+    {
+      "id": "C(iv)",
+      "section": "Section C: Grammar",
+      "prompt": "We visit __ often. Choose us, they or them to refer to our grandparents.",
+      "steps": [
+        "The pronoun follows the verb visit and receives the action.",
+        "Use the object pronoun them."
+      ],
+      "answer": "Them: We visit them often."
+    },
+    {
+      "id": "C(v)",
+      "section": "Section C: Grammar",
+      "prompt": "Mr. Kato is __ English at the moment. Choose teach, teaching or teaches.",
+      "steps": [
+        "At the moment signals an action in progress.",
+        "Use is plus the -ing form."
+      ],
+      "answer": "Teaching: Mr. Kato is teaching English at the moment."
+    },
+    {
+      "id": "D(i)",
+      "section": "Section D: Composition",
+      "prompt": "Choose the letter's opening: __ John.",
+      "steps": [
+        "A friendly letter begins by addressing its recipient.",
+        "Dear is the standard greeting."
+      ],
+      "answer": "Dear."
+    },
+    {
+      "id": "D(ii)",
+      "section": "Section D: Composition",
+      "prompt": "I am very __ to inform you that I cannot attend.",
+      "steps": [
+        "The writer regrets missing the invitation.",
+        "Sorry expresses that regret; happy and glad do not fit."
+      ],
+      "answer": "Sorry."
+    },
+    {
+      "id": "D(iii)",
+      "section": "Section D: Composition",
+      "prompt": "I will not be able to __ the birthday celebration.",
+      "steps": [
+        "Be able to takes a base verb.",
+        "Attend means to be present at an event."
+      ],
+      "answer": "Attend."
+    },
+    {
+      "id": "D(iv)",
+      "section": "Section D: Composition",
+      "prompt": "Complete: the birthday __.",
+      "steps": [
+        "The invitation is to a birthday celebration.",
+        "Choose party from the options."
+      ],
+      "answer": "Party."
+    },
+    {
+      "id": "D(v)",
+      "section": "Section D: Composition",
+      "prompt": "Thank you for __ me.",
+      "steps": [
+        "After the preposition for, use an -ing form.",
+        "Inviting refers to asking Joyce to the party."
+      ],
+      "answer": "Inviting."
+    },
+    {
+      "id": "E(i)",
+      "section": "Section E: Comprehension",
+      "prompt": "What is the story about?",
+      "steps": [
+        "Identify the main character and problem.",
+        "The crow is thirsty and finds a way to reach water."
+      ],
+      "answer": "The story is about a thirsty crow that used stones to reach water in a pot."
+    },
+    {
+      "id": "E(ii)",
+      "section": "Section E: Comprehension",
+      "prompt": "Where was the pot of water?",
+      "steps": [
+        "Find the location given when the crow noticed the pot.",
+        "The passage says it was in a thick bush."
+      ],
+      "answer": "The pot of water was in a thick bush."
+    },
+    {
+      "id": "E(iii)",
+      "section": "Section E: Comprehension",
+      "prompt": "Why could the crow not push the pot over?",
+      "steps": [
+        "Locate the failed attempt to spill the water.",
+        "The pot's weight prevented the crow from moving it."
+      ],
+      "answer": "The crow could not push the pot over because it was too heavy."
+    },
+    {
+      "id": "E(iv)",
+      "section": "Section E: Comprehension",
+      "prompt": "How did the crow finally drink the water?",
+      "steps": [
+        "The crow dropped small stones into the pot.",
+        "The stones raised the water level until its beak could reach it."
+      ],
+      "answer": "It dropped stones into the pot to raise the water level, then drank the water."
+    },
+    {
+      "id": "E(v)",
+      "section": "Section E: Comprehension",
+      "prompt": "What did you learn from the story?",
+      "steps": [
+        "The crow solved the problem through thought and repeated effort.",
+        "State a lesson linked to that solution."
+      ],
+      "answer": "We should think carefully and persevere when solving problems.",
+      "tip": "This is a model lesson; another relevant lesson supported by the story is acceptable."
+    }
+  ],
+  "summaries": {
+    "Section A: Dictation": "Practise listening, word spacing, capital letters and punctuation. Ask someone to read each sentence aloud before you check it.",
+    "Section B: Vocabulary": "Read the complete sentence. Check the exact meaning, relationship, occupation or collective noun before choosing its letter.",
+    "Section C: Grammar": "Check the subject, time expression, noun type and any auxiliary verb before selecting the correct grammatical form.",
+    "Section D: Composition": "Use context and grammar together. Read the whole composition again to check that the completed ideas connect logically.",
+    "Section E: Comprehension": "Locate evidence in the passage, then answer in your own clear sentence. Support a moral or lesson with what happened in the story."
+  },
+  "references": [
+    {
+      "title": "NECTA dictation teacher sheet",
+      "url": "https://maktaba.tetea.org/past-papers/std4/english/English-Dictation-S4-2023.pdf"
+    }
+  ],
+  "sha256": "6daf372f09d68bef5c3d0ce4f81b4743af424b089b71b96319b5df9de9f380ca"
+}

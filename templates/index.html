@@ -1,146 +1,62 @@
 {% extends "base.html" %}
-{% block title %}TZStudies|Exam Papers for Tanzanian Students{% endblock %}
-
-{% block extra_head %}
-<style>.hidden{display:none!important}</style>
-{% endblock %}
-
+{% block title %}Free Tanzania Exam Library | MyTZStudies{% endblock %}
 {% block content %}
-<!-- Hero -->
-<section class="hero parallax">
-  <div class="hero-content">
-    <span class="hero-badge">Free for all students</span>
-    <h1 class="hero-title">Unlock Your Exam&nbsp;<span class="hero-title-accent">Success</span></h1>
-    <p class="hero-subtitle">Free past papers, worked solutions &amp; trusted tutors — everything you need to excel in your studies.</p>
-    <div class="hero-actions">
-      <a href="#examSection" class="btn cta-btn">Browse Exams</a>
-      <a href="{{ url_for('tutors.tutors_page') }}" class="btn cta-btn-outline">Find a Tutor</a>
+<section class="library-hero">
+  <div class="container hero-layout">
+    <div class="hero-copy">
+      <span class="eyebrow"><span class="status-dot"></span> YOUR FREE TANZANIA EXAM LIBRARY</span>
+      <h1>A little practice.<br>A brighter <span>future.</span></h1>
+      <p>Build your confidence, one paper at a time. Find past national exams and clear, worked answers for your next step.</p>
+      <div class="hero-actions">
+        <a href="#examSection" class="btn btn-primary">Explore past papers <span aria-hidden="true">&rarr;</span></a>
+        <a href="{{ url_for('papers.answer_keys_page') }}" class="btn btn-outline">View answer keys</a>
+      </div>
+      <div class="hero-proof"><span>&check; Free PDF downloads</span><span>&check; NECTA past papers</span><span>&check; Learn at your pace</span></div>
     </div>
-    <div class="hero-stats">
-      <div class="hero-stat">
-        <span class="hero-stat-number">500+</span>
-        <span class="hero-stat-label">Past Papers</span>
+    <div class="hero-illustration" aria-hidden="true">
+      <div class="illustration-orbit"></div>
+      <div class="practice-sheet">
+        <div class="sheet-brand">my<span>TZ</span>Studies <span class="sheet-dot"></span></div>
+        <div class="sheet-kicker">YOUR NEXT CHAPTER STARTS HERE</div>
+        <h2>Practice. Understand.<br>Move forward.</h2>
+        <div class="sheet-question"><span class="sheet-number">01</span><div><strong>A clearer way to learn</strong><div class="sheet-line"></div><div class="sheet-line short"></div></div></div>
+        <div class="sheet-question"><span class="sheet-number">02</span><div><strong>Every step matters</strong><div class="sheet-line"></div><div class="sheet-line short"></div></div></div>
+        <div class="sheet-answer"><span>&check;</span> Small steps. Real progress.</div>
+        <div class="sheet-footer">MyTZStudies.com <span>Made for your future</span></div>
       </div>
-      <div class="hero-stat">
-        <span class="hero-stat-number">3</span>
-        <span class="hero-stat-label">Grade Levels</span>
-      </div>
-      <div class="hero-stat">
-        <span class="hero-stat-number">100%</span>
-        <span class="hero-stat-label">Free Access</span>
-      </div>
+      <div class="floating-note note-top"><span class="note-icon">&check;</span><div><strong>You've got this.</strong><small>Keep learning, keep growing.</small></div></div>
+      <div class="floating-note note-bottom"><span class="note-icon">PDF</span><div><strong>Ready when you are</strong><small>Download. Practise. Repeat.</small></div></div>
     </div>
   </div>
 </section>
-
-<!-- Features -->
-<section class="features reveal" aria-label="What we offer">
-  <div class="feature">
-    <div class="feature-icon">&#128196;</div>
-    <h2>Past Papers</h2>
-    <p>Instant PDF downloads for Standard 4, Form 2 &amp; Form 4 national exams.</p>
-  </div>
-  <div class="feature">
-    <div class="feature-icon">&#9989;</div>
-    <h2>Answer Keys</h2>
-    <p>Learn faster with detailed marking schemes and worked solutions.</p>
-  </div>
-  <div class="feature">
-    <div class="feature-icon">&#127891;</div>
-    <h2>Expert Tutors</h2>
-    <p>Connect with vetted teachers in every major city across Tanzania.</p>
-  </div>
-</section>
-
-<!-- Search & Filters -->
-<section class="search-section reveal">
+<div class="library-stats container" aria-label="Library at a glance">
+  <div><strong>{{ exams|length }}</strong><span>unique past papers</span></div>
+  <div><strong>{{ level_count }}</strong><span>school levels</span></div>
+  <div><strong>{{ key_count }}</strong><span>answer keys available</span></div>
+  <div><strong>Always free</strong><span>because opportunity matters</span></div>
+</div>
+<section id="examSection" class="library-section">
   <div class="container">
-    <h2 class="section-heading">Find Your Paper</h2>
-    <p class="section-subtext">Search thousands of past exam papers by subject, year, or grade level.</p>
-    <div class="search-container">
-      <form method="GET" action="{{ url_for('papers.search') }}">
-        <input type="text" id="searchInput" name="q" placeholder="Search by subject, year, or exam name..." aria-label="Search exams">
-      </form>
+    <div class="section-topline"><div><span class="eyebrow">THE PAPER LIBRARY</span><h2 class="section-heading">Find your next practice paper</h2><p class="section-subtext">Choose your level, pick a subject, and get started.</p></div><a class="text-link" href="{{ url_for('upload.upload_exams') }}">Contribute a paper <span aria-hidden="true">&nearr;</span></a></div>
+    <form class="library-filters" method="get" action="{{ url_for('papers.search') }}" role="search">
+      <div class="library-search"><label for="searchInput" class="sr-only">Search Exam Papers</label><span aria-hidden="true">&#9906;</span><input id="searchInput" name="q" type="search" placeholder="Search a subject, year, or level..." autocomplete="off"><button type="submit" class="btn btn-sm">Search</button></div>
+      <div class="filter-selects"><label for="subjectFilter" class="sr-only">Subject</label><select id="subjectFilter"><option value="">All subjects</option>{% for subject in subjects %}<option>{{ subject }}</option>{% endfor %}</select><label for="yearFilter" class="sr-only">Year</label><select id="yearFilter"><option value="">All years</option>{% for year in years %}<option>{{ year }}</option>{% endfor %}</select></div>
+    </form>
+    <div class="library-toolbar"><div id="gradeFilters" class="grade-filter" role="group" aria-label="School level"><button class="grade-btn active" type="button" data-grade="" aria-pressed="true">All levels</button>{% for grade, label in [('S4','Standard 4'),('S7','Standard 7'),('F2','Form 2'),('F4','Form 4')] %}<button class="grade-btn" type="button" data-grade="{{ grade }}" aria-pressed="false">{{ label }}</button>{% endfor %}</div><p id="resultCount" class="result-count" role="status" aria-live="polite">{{ exams|length }} papers</p></div>
+    <div id="examGrid" class="exam-grid library-grid">
+      {% for exam in exams %}{% include 'exam_card.html' %}{% endfor %}
     </div>
-    <div id="gradeFilters" class="grade-filter">
-      <button class="btn grade-btn active" data-grade="">All Grades</button>
-      <button class="btn grade-btn" data-grade="S4">Standard 4</button>
-      <button class="btn grade-btn" data-grade="F4">Form 4</button>
-      <button class="btn grade-btn" data-grade="F2">Form 2</button>
-    </div>
-    <div class="upload-cta">
-      <a href="{{ url_for('upload.upload_exams') }}" class="btn">Upload Past Exams</a>
-    </div>
+    <div id="noResults" class="empty-state" hidden><h3>No papers match these filters</h3><p>Try another subject or clear the filters to see the full library.</p><button id="clearFilters" class="btn" type="button">Clear filters</button></div>
+    {% if not exams %}<p class="empty-state">The library is being prepared. Please check back soon.</p>{% endif %}
   </div>
 </section>
-
-<!-- AI Study Assistant -->
-<section class="ai-section reveal">
-  <div class="container">
-    <h2 class="section-heading">AI Study Assistant</h2>
-    <p class="ai-description">Ask any exam question and get a detailed explanation instantly.</p>
-    <div class="ai-chat">
-      <div class="ai-input-group">
-        <input type="text" id="aiQuery" placeholder="e.g. Explain photosynthesis for Form 2 Biology..." aria-label="Ask a question">
-        <button id="askButton" class="btn">Ask</button>
-      </div>
-      <div id="aiResponse" class="ai-response" aria-live="polite"></div>
-    </div>
+<section class="study-path container">
+  <div><span class="eyebrow">MAKE PRACTICE COUNT</span><h2>A simple routine.<br>A stronger understanding.</h2><a class="text-link" href="{{ url_for('papers.answer_keys_page') }}">Explore worked solutions &rarr;</a></div>
+  <ol><li><span>01</span><div><h3>Try it on your own</h3><p>Download a paper and give yourself time to think.</p></div></li><li><span>02</span><div><h3>Understand every step</h3><p>Use the answer key to see where your method can improve.</p></div></li><li><span>03</span><div><h3>Come back stronger</h3><p>Revisit the questions you missed and track your progress.</p></div></li></ol>
+</section>
+<section class="ai-section">
+  <div class="container assistant-layout"><div><span class="eyebrow">A LITTLE EXTRA HELP</span><h2 class="section-heading">AI Study Assistant</h2><p>Work through a tricky concept or ask for another explanation.</p></div>
+    {% if ai_available %}<form id="aiForm" class="ai-chat"><label for="aiQuery" class="sr-only">Your study question</label><div class="ai-input-group"><input id="aiQuery" type="text" placeholder="What would you like to understand?" maxlength="4000" required><button id="askButton" class="btn" type="submit">Ask &rarr;</button></div><div id="aiResponse" class="ai-response" aria-live="polite" hidden></div><p class="helper-text">Use explanations as a study aid and check them against your class notes.</p></form>{% else %}<div class="assistant-alternative"><h3>Start with a worked answer</h3><p>Our answer keys help you review your method and learn from each question.</p><a class="text-link" href="{{ url_for('papers.answer_keys_page') }}">Browse answer keys &rarr;</a></div>{% endif %}
   </div>
 </section>
-
-<!-- Exam Papers Grid -->
-<section id="examSection" class="exam-list-section reveal">
-  <div class="container">
-    <h2 class="section-heading">Exam Papers</h2>
-    <p class="section-subtext">Browse and download past papers for all grade levels.</p>
-    <div id="examGrid" class="exam-grid">
-      {% for file in exam_files %}
-      <div class="exam-card" data-grade="{{ file.split('-')[1]|default('') }}">
-        <p class="exam-title">{{ file }}</p>
-        <div class="exam-actions">
-          <a href="{{ url_for('papers.view_exam', filename=file) }}" class="btn exam-link">View</a>
-          {% if file in answer_key_files %}
-          <a href="{{ url_for('papers.download_key', filename=answer_key_files[file]) }}" class="btn answer-link">Answer Key</a>
-          {% endif %}
-          {% if file in paper_ids %}
-          <a href="{{ url_for('papers.paper_detail', paper_id=paper_ids[file]) }}" class="btn">Discuss</a>
-          {% endif %}
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-</section>
-{% endblock %}
-
-{% block extra_scripts %}
-<script src="{{ url_for('static', filename='js/script.js') }}"></script>
-<script>
-// Parallax effect on hero text
-window.addEventListener('scroll', function() {
-  var hero = document.querySelector('.hero-content');
-  if (hero) hero.style.transform = 'translateY(' + (window.scrollY * 0.4) + 'px)';
-});
-
-// Reveal-on-scroll
-var observer = new IntersectionObserver(function(entries, obs) {
-  entries.forEach(function(e) {
-    if (e.isIntersecting) { e.target.classList.add('visible'); obs.unobserve(e.target); }
-  });
-}, { threshold: 0.15 });
-document.querySelectorAll('.reveal').forEach(function(el) { observer.observe(el); });
-
-// Grade filtering
-document.querySelectorAll('.grade-btn').forEach(function(btn) {
-  btn.addEventListener('click', function() {
-    document.querySelectorAll('.grade-btn').forEach(function(b) { b.classList.remove('active'); });
-    btn.classList.add('active');
-    var grade = btn.dataset.grade;
-    document.querySelectorAll('#examGrid .exam-card').forEach(function(card) {
-      card.classList.toggle('hidden', grade && card.dataset.grade !== grade);
-    });
-  });
-});
-</script>
 {% endblock %}

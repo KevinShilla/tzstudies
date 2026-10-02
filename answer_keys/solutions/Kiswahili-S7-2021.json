@@ -1,0 +1,531 @@
+{
+  "exam": "Kiswahili-S7-2021.pdf",
+  "output": "Kiswahili-S7-2021-AnswerKey.pdf",
+  "subject": "Kiswahili",
+  "level": "Standard Seven",
+  "year": "2021",
+  "code": "01",
+  "exam_type": "Primary School Leaving Examination (PSLE)",
+  "question_count": "45 questions",
+  "language": "sw",
+  "reviewed": true,
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Sehemu A — Kusikiliza",
+      "prompt": "Malkia wa nyuki alikuwa analindwa na nani?",
+      "steps": [
+        "Tafuta kazi ya ulinzi katika simulizi.",
+        "Walinzi ni askari; wajumbe na watafuta chakula wana kazi tofauti."
+      ],
+      "answer": "B — Askari hodari."
+    },
+    {
+      "id": "2",
+      "section": "Sehemu A — Kusikiliza",
+      "prompt": "Ni kitu gani ambacho malkia wa nyuki hakukipenda?",
+      "steps": [
+        "Malkia alitaka wakazi wafanye kazi.",
+        "Hohehahe wanaotajwa hapa wanapingana na bidii aliyosisitiza."
+      ],
+      "answer": "A — Wanakijiji hohehahe."
+    },
+    {
+      "id": "3",
+      "section": "Sehemu A — Kusikiliza",
+      "prompt": "Nani alijishughulisha kutafuta nekta kwenye maua?",
+      "steps": [
+        "Tenganisha makundi kwa wajibu wake.",
+        "Kazi ya kukusanya chakula ilifanywa na wafanyakazi, si wajumbe."
+      ],
+      "answer": "C — Wafanyakazi."
+    },
+    {
+      "id": "4",
+      "section": "Sehemu A — Kusikiliza",
+      "prompt": "Utajiri katika kijiji cha nyuki ulitokana na nini?",
+      "steps": [
+        "Swali linauliza shughuli iliyoleta mapato.",
+        "Bidhaa iliyouzwa katika hadithi ni asali."
+      ],
+      "answer": "A — Kuuza asali."
+    },
+    {
+      "id": "5",
+      "section": "Sehemu A — Kusikiliza",
+      "prompt": "Nani walitumika kupeleka habari mbalimbali katika vijiji vya jirani?",
+      "steps": [
+        "Tambua kundi lililotumwa kupeleka ujumbe.",
+        "Vibaraka walikuwa wajumbe wa malkia katika hadithi hii."
+      ],
+      "answer": "C — Vibaraka."
+    },
+    {
+      "id": "6",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Wanakijiji walifanya juu chini ili kuleta maendeleo. Fanya juu chini maana yake nini?",
+      "steps": [
+        "Soma nahau pamoja na lengo la maendeleo.",
+        "Juu chini si mwelekeo wa mwili hapa; ni kufanya kila juhudi."
+      ],
+      "answer": "A — Walijitahidi kwa kila njia."
+    },
+    {
+      "id": "7",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Nahau ipi ina maana ya kunywa pombe?",
+      "steps": [
+        "Usitumie maana ya kawaida ya kupiga kitu.",
+        "Piga maji ni nahau ya kunywa pombe."
+      ],
+      "answer": "E — Piga maji."
+    },
+    {
+      "id": "8",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Dada alimwambia kuwa atakapopata muda atakuja nyumbani. Nafsi gani imetumika?",
+      "steps": [
+        "Viambishi a- na ata- vinamrejelea mtu anayezungumziwa.",
+        "Mtu huyo ni mmoja: yeye, si mimi, wewe au wao."
+      ],
+      "answer": "C — Nafsi ya tatu umoja."
+    },
+    {
+      "id": "9",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Sisi ni wanafunzi hodari wa somo la Kiswahili. Kauli hii inawakilisha nafsi gani?",
+      "steps": [
+        "Sisi humhusisha mzungumzaji na wengine.",
+        "Mzungumzaji akiwa katika kundi hutumia nafsi ya kwanza wingi."
+      ],
+      "answer": "D — Nafsi ya kwanza wingi."
+    },
+    {
+      "id": "10",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Daktari alisema kwamba mgonjwa wetu amepata ahueni. Hii ni aina gani ya kauli?",
+      "steps": [
+        "Maneno kwamba yanaanzisha taarifa ya alichosema mtu.",
+        "Maneno ya daktari hayajanukuliwa moja kwa moja ndani ya alama za kunukuu."
+      ],
+      "answer": "D — Kauli taarifa."
+    },
+    {
+      "id": "11",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Masumbuko aliwaambia kuwa hataingia darasani tena. Geuza kuwa kauli halisi.",
+      "steps": [
+        "Kauli halisi hurudisha maneno ya msemaji mwenyewe.",
+        "Hataingia, anayezungumziwa, hubadilika kuwa sitaingia, anayezungumza; weka alama za kunukuu."
+      ],
+      "answer": "C — Masumbuko aliwaambia, “Sitaingia darasani tena.”"
+    },
+    {
+      "id": "12",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Nyamante alikata shauri. Kata shauri ina maana gani?",
+      "steps": [
+        "Husisha nahau na kutoa msimamo baada ya kufikiri.",
+        "Kata shauri ni kufanya uamuzi."
+      ],
+      "answer": "A — Kuamua."
+    },
+    {
+      "id": "13",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Chekacheka anataka watoto wake wawe na tabia njema hadi ukubwani. Methali ipi inafaa?",
+      "steps": [
+        "Jambo kuu ni athari ya malezi katika maisha ya baadaye.",
+        "Methali hii inaunganisha malezi ya utotoni na tabia ya mtu anapokua."
+      ],
+      "answer": "C — Mtoto umleavyo ndivyo akuavyo."
+    },
+    {
+      "id": "14",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Nikitembea walio wafu huamka na walio hai hukaa kimya. Tegua kitendawili.",
+      "steps": [
+        "Majani makavu ni mfano wa walio wafu; mabichi ni walio hai.",
+        "Makavu hukoroma yakikanyagwa, lakini mabichi hayatoi mlio huo."
+      ],
+      "answer": "C — Majani makavu na mabichi."
+    },
+    {
+      "id": "15",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Methali ipi ina maana sawa na akufaaye kwa dhiki ndiye rafiki?",
+      "steps": [
+        "Urafiki hapa hupimwa kwa msaada wakati wa shida.",
+        "Undugu wa kweli nao unaoneshwa kwa kusaidiana, si kufanana sura."
+      ],
+      "answer": "C — Undugu kufaana si kufanana."
+    },
+    {
+      "id": "16",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Neno jumuishi la nyanya, vitunguu, pilipili na tangawizi ni lipi?",
+      "steps": [
+        "Vitu hivi huongezwa kwenye chakula kuongeza ladha.",
+        "Jina la kundi kwa matumizi hayo ni viungo."
+      ],
+      "answer": "E — Viungo."
+    },
+    {
+      "id": "17",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Mwalimu Nyerere aling’atuka madarakani. Kung’atuka kunamaanisha nini katika swali hili?",
+      "steps": [
+        "Tazama kitendo cha kuacha nafasi kwa hiari.",
+        "Kung’atuka madarakani hapa ni kuachia madaraka, si mapumziko ya muda."
+      ],
+      "answer": "D — Kujiuzulu madaraka."
+    },
+    {
+      "id": "18",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Neno jumuishi la almasi, dhahabu, Tanzanaiti na lulu ni lipi katika chaguo?",
+      "steps": [
+        "Chagua kundi pana zaidi lililotolewa.",
+        "Dhahabu, almasi na tanzanaiti ni madini; lulu imejumuishwa kama vito katika orodha ya swali."
+      ],
+      "answer": "E — Madini.",
+      "tip": "Kwa usahihi wa kisayansi, lulu huundwa na viumbe baharini; katika swali hili imewekwa pamoja na vito. Chagua kundi lililokusudiwa kati ya chaguo ulizopewa."
+    },
+    {
+      "id": "19",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Katika ninakula, kiambishi cha wakati uliopo ni kipi?",
+      "steps": [
+        "Gawa neno: ni- + -na- + -kul- + -a.",
+        "Ni- ni nafsi; -na- huonesha wakati uliopo."
+      ],
+      "answer": "C — -na-."
+    },
+    {
+      "id": "20",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Muda ulipowadia wanafunzi tulisimama foleni. Wadia inafanana na neno gani?",
+      "steps": [
+        "Swali linahitaji kisawe kinachofaa katika muktadha wa muda.",
+        "Muda ulipowadia ni muda ulipofika."
+      ],
+      "answer": "A — Fika."
+    },
+    {
+      "id": "21",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Wimbo wa Taifa umeimbwa kwa ustadi. Neno lipi ni kitenzi?",
+      "steps": [
+        "Tafuta neno linaloeleza tendo.",
+        "Umeimbwa hutokana na imba; wimbo na Taifa ni nomino."
+      ],
+      "answer": "E — Umeimbwa."
+    },
+    {
+      "id": "22",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Kuku, bata, kaa, mwewe, kunguru: lipi halilandani?",
+      "steps": [
+        "Kuku, bata, mwewe na kunguru ni ndege.",
+        "Kaa ni mnyama wa kundi tofauti, si ndege."
+      ],
+      "answer": "C — Kaa."
+    },
+    {
+      "id": "23",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Mtoto mzuri anajua kupangilia ratiba. Neno lipi ni kivumishi?",
+      "steps": [
+        "Kivumishi hueleza sifa ya nomino.",
+        "Mzuri hueleza mtoto ni wa aina gani."
+      ],
+      "answer": "A — Mzuri."
+    },
+    {
+      "id": "24",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Hawa ndio wapole darasani mwetu. Neno lipi ni kiwakilishi?",
+      "steps": [
+        "Kiwakilishi hutumika mahali pa jina la watu au vitu.",
+        "Hawa inawataja watu bila kurudia majina yao."
+      ],
+      "answer": "B — Hawa."
+    },
+    {
+      "id": "25",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Nikisoma kwa bidii ____ mtihani wangu. Kamilisha.",
+      "steps": [
+        "Niki- huweka sharti linaloweza kutimizwa.",
+        "Matokeo yake ya baadaye hutumia nita-: nikisoma, nitafaulu."
+      ],
+      "answer": "B — Nitafaulu."
+    },
+    {
+      "id": "26",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Nitakula uji wangu kesho asubuhi. Rekebisha kitenzi.",
+      "steps": [
+        "Uji ni kinywaji katika matumizi yanayopimwa.",
+        "Kitenzi kinacholingana na uji ni kunywa, si kutafuna."
+      ],
+      "answer": "C — Nitakunywa uji wangu kesho asubuhi."
+    },
+    {
+      "id": "27",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Maendeleo duni: kinyume chake katika chaguo ni kipi?",
+      "steps": [
+        "Duni hueleza hali ya kiwango cha chini.",
+        "Imara ni chaguo lenye hali nzuri iliyo kinyume; dhaifu na hafifu bado ni hali ya chini."
+      ],
+      "answer": "A — Imara."
+    },
+    {
+      "id": "28",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Panga fana, fani, faraja, farasi kwa utaratibu wa kamusi.",
+      "steps": [
+        "Fa- zinafanana; linganisha herufi inayofuata: n huja kabla ya r.",
+        "Kati ya fana na fani, a huja kabla ya i; kati ya faraja na farasi, j huja kabla ya s."
+      ],
+      "answer": "A — Fana, fani, faraja, farasi."
+    },
+    {
+      "id": "29",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Kitenzi kinachotokana na nomino mchemsho ni kipi?",
+      "steps": [
+        "Ondoa kiambishi cha nomino m- na urudishe umbo la tendo.",
+        "Mchemsho hutokana na tendo la kuchemsha."
+      ],
+      "answer": "B — Chemsha."
+    },
+    {
+      "id": "30",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Ni nomino ipi hutokana na chunga?",
+      "steps": [
+        "Tafuta jina la mtu anayefanya tendo.",
+        "M- na -ji huunda nomino ya mtendaji: mchungaji."
+      ],
+      "answer": "C — Mchungaji."
+    },
+    {
+      "id": "31",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Polepole ndio mwendo inahusiana na methali ipi?",
+      "steps": [
+        "Polepole huhimiza maendeleo kwa hatua ndogo.",
+        "Chembe zikikusanywa taratibu huleta kitu kikubwa; ujumbe huo unafanana."
+      ],
+      "answer": "B — Chembe na chembe mkate huwa."
+    },
+    {
+      "id": "32",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Charubuma alipuuza onyo la kuacha wizi na akafungwa. Methali ipi inafaa?",
+      "steps": [
+        "Kosa ni kupuuza ushauri mzuri.",
+        "Matokeo ya kutosikiliza ni madhara, kama kuvunjika guu katika methali."
+      ],
+      "answer": "C — Asiyesikia la mkuu huvunjika guu."
+    },
+    {
+      "id": "33",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Kamilisha: Hakuna msiba ____.",
+      "steps": [
+        "Tambua umbo linalotumika katika methali.",
+        "Methali humaanisha matatizo yanaweza kuambatana na matatizo mengine."
+      ],
+      "answer": "B — Usiokuwa na mwenziwe."
+    },
+    {
+      "id": "34",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Kirefu cha BAKITA ni kipi?",
+      "steps": [
+        "BAKITA ni taasisi inayoshughulikia Kiswahili kitaifa.",
+        "Chaguo D linakaribia jina hilo, lakini karatasi imechapisha Tanzania badala ya la Taifa."
+      ],
+      "answer": "D ndilo chaguo lililokusudiwa. Kirefu sahihi: Baraza la Kiswahili la Taifa."
+    },
+    {
+      "id": "35",
+      "section": "Sehemu A — Lugha",
+      "prompt": "Katika kumbukumbu za mkutano, saini ya mwenyekiti hukaa wapi?",
+      "steps": [
+        "Kumbukumbu huandikwa hadi mwisho wa maamuzi kabla ya uthibitisho.",
+        "Katika mpangilio unaopimwa, mwenyekiti husaini kushoto na katibu kulia."
+      ],
+      "answer": "D — Mwishoni mwa kumbukumbu upande wa kushoto."
+    },
+    {
+      "id": "36",
+      "section": "Sehemu B — Uandishi wa tangazo",
+      "prompt": "Kamilisha nafasi 36: kichwa cha tangazo.",
+      "steps": [
+        "Kichwa hueleza jambo linalotangazwa.",
+        "Maelezo yanahusu kukosekana kwa huduma ya umeme."
+      ],
+      "answer": "C — KUKATIKA KWA UMEME."
+    },
+    {
+      "id": "37",
+      "section": "Sehemu B — Uandishi wa tangazo",
+      "prompt": "Kamilisha nafasi 37: shirika linalotangaza.",
+      "steps": [
+        "Nafasi hii inahitaji jina la taasisi kabla ya wilaya ya Bagamoyo.",
+        "Shirika la umeme ndilo linalotoa taarifa hiyo."
+      ],
+      "answer": "E — Shirika la Umeme Tanzania."
+    },
+    {
+      "id": "38",
+      "section": "Sehemu B — Uandishi wa tangazo",
+      "prompt": "Kamilisha nafasi 38: muda wa kuanza kukatika kwa umeme.",
+      "steps": [
+        "Maneno kuanzia ... hadi yanaanzisha muda wa tukio.",
+        "Chaguo A ndilo pekee lenye saa ya kuanzia."
+      ],
+      "answer": "A — Saa 5:00 asubuhi."
+    },
+    {
+      "id": "39",
+      "section": "Sehemu B — Uandishi wa tangazo",
+      "prompt": "Kamilisha nafasi 39: aliyetoa tangazo.",
+      "steps": [
+        "Baada ya taarifa huwekwa mtoa tangazo.",
+        "Chaguo D lina jina la nafasi ya mtoa tangazo."
+      ],
+      "answer": "D — Limetolewa na meneja wa TANESCO."
+    },
+    {
+      "id": "40",
+      "section": "Sehemu B — Uandishi wa tangazo",
+      "prompt": "Kamilisha nafasi 40: namna ya kuwasiliana.",
+      "steps": [
+        "Wasiliana nasi kupitia inahitaji mawasiliano.",
+        "Namba ya simu ndiyo taarifa inayofaa kwenye nafasi hii."
+      ],
+      "answer": "B — +255222333767."
+    },
+    {
+      "id": "41",
+      "section": "Sehemu C — Ufahamu",
+      "prompt": "Andika kichwa kinachofaa kwa hadithi uliyoisoma.",
+      "steps": [
+        "Tambua wahusika na matukio yanayounganisha hadithi nzima.",
+        "Hadithi inafuatilia familia hiyo kabla na baada ya kifo cha baba; kichwa kifupi kinawakilisha matukio hayo."
+      ],
+      "answer": "FAMILIA YA MZEE BEBERU.",
+      "tip": "Vichwa vingine vinavyolingana na maudhui, kama Matumizi Mabaya ya Mali ya Familia, vinaweza kukubalika."
+    },
+    {
+      "id": "42",
+      "section": "Sehemu C — Ufahamu",
+      "prompt": "Mwandishi anamaanisha nini akisema alikata kamba?",
+      "steps": [
+        "Soma kinachotokea baada ya kauli hiyo.",
+        "Hadithi inataja kifo cha Mzee Beberu mara baada yake, hivyo nahau inamaanisha kufa."
+      ],
+      "answer": "Alifariki dunia."
+    },
+    {
+      "id": "43",
+      "section": "Sehemu C — Ufahamu",
+      "prompt": "Kwa nini Chakupewa alichuma majani na kuyadondosha njiani?",
+      "steps": [
+        "Hadithi inaeleza kuwa njia haikuwa ikifahamika vyema kwake.",
+        "Majani yaliyodondoshwa yalikuwa alama za kufuatilia katika safari ya kurudi."
+      ],
+      "answer": "Ili kuweka alama za njia na kuweza kurudi, kwa sababu hakuijua vizuri njia ya msituni."
+    },
+    {
+      "id": "44",
+      "section": "Sehemu C — Ufahamu",
+      "prompt": "Nini kilisababisha kifo cha Mzee Beberu?",
+      "steps": [
+        "Ajali ilitokea alipokuwa akitoka kukagua miradi.",
+        "Uti wa mgongo ulivunjika; alikaa kitandani kwa takribani miaka mitatu, akaugua na hatimaye akafariki."
+      ],
+      "answer": "Maradhi aliyopata baada ya ajali ya gari iliyomvunja uti wa mgongo."
+    },
+    {
+      "id": "45",
+      "section": "Sehemu C — Ufahamu",
+      "prompt": "Hadithi hii inatufundisha nini katika maisha ya kila siku?",
+      "steps": [
+        "Ulevi na kuuza mali viliwaingiza Mahangaiko na Shida katika umaskini.",
+        "Chandachema alimtunza mama yake; ndugu zake waliporudi walikiri makosa. Mafunzo yatokane na vitendo hivyo."
+      ],
+      "answer": "Tutunze mali za familia, tuepuke ulevi na matumizi mabaya, tuwasaidie wanafamilia na tuombe msamaha tunapokosea."
+    }
+  ],
+  "sha256": "5c3043d9199b639e2a20b2469d73f3d3f294e4c547e55d73cbc8662a5c078f78",
+  "summaries": {
+    "Sehemu A — Kusikiliza": "Andika kwa ufupi mhusika na jukumu lake wakati wa kusikiliza; hutenganisha walinzi, wafanyakazi na wajumbe.",
+    "Sehemu A — Lugha": "Tafsiri nahau katika muktadha, changanua viambishi na panga maneno kwa herufi moja baada ya nyingine.",
+    "Sehemu B — Uandishi wa tangazo": "Tangazo lina kichwa, mtoa taarifa, jambo, muda na mawasiliano. Linganisha kila nafasi na aina ya taarifa inayohitajika.",
+    "Sehemu C — Ufahamu": "Majibu ya sababu yatokane na matukio ya hadithi. Funzo liunganishwe na kitendo cha mhusika na matokeo yake."
+  },
+  "labelling_note": "Maelekezo ya kusikiliza yameandika 1–3, lakini maswali ya kusikiliza ni 1–5. Katika swali 34, jina la BAKITA limerekebishwa. Katika tangazo, tarehe 13/8/2021 ilikuwa Ijumaa, ingawa karatasi imeandika Jumapili; hitilafu hiyo haibadili majibu ya nafasi 36–40.",
+  "references": [
+    {
+      "title": "NECTA — PSLE 2021 Kiswahili: uchambuzi wa majibu na kifungu cha kusikiliza",
+      "url": "https://onlinesys.necta.go.tz/cira/psle/2021/01_KISWAHILI.pdf"
+    },
+    {
+      "title": "BAKITA — jina rasmi la taasisi",
+      "url": "https://www.bakita.go.tz/"
+    }
+  ]
+}

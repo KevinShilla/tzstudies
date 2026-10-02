@@ -1,0 +1,525 @@
+{
+  "exam": "English-S7-2023.pdf",
+  "output": "English-S7-2023-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Seven",
+  "year": "2023",
+  "code": "02",
+  "exam_type": "Primary School Leaving Examination (PSLE)",
+  "question_count": "45 questions",
+  "language": "en",
+  "reviewed": true,
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Section A — Listening",
+      "prompt": "According to the listening passage, when did education begin?",
+      "steps": [
+        "The passage places learning at the beginning of human life, before books or formal schools.",
+        "Select the earliest event named in the options."
+      ],
+      "answer": "B — When human beings were created."
+    },
+    {
+      "id": "2",
+      "section": "Section A — Listening",
+      "prompt": "What helps a person become self-reliant and self-aware?",
+      "steps": [
+        "Identify the tool linked to independence and awareness in the passage.",
+        "The answer is the state of having received education."
+      ],
+      "answer": "D — Educated."
+    },
+    {
+      "id": "3",
+      "section": "Section A — Listening",
+      "prompt": "What two categories of education are described?",
+      "steps": [
+        "Separate learning through ordinary family life from structured schooling.",
+        "The passage contrasts these two kinds rather than individual activities."
+      ],
+      "answer": "C — Formal and informal."
+    },
+    {
+      "id": "4",
+      "section": "Section A — Listening",
+      "prompt": "What education should young people receive to create well-educated citizens?",
+      "steps": [
+        "The question seeks the broad preparation described in the passage.",
+        "Include learning both inside and outside formal institutions."
+      ],
+      "answer": "D — Both formal and informal education."
+    },
+    {
+      "id": "5",
+      "section": "Section A — Listening",
+      "prompt": "What basic benefit did formal education bring?",
+      "steps": [
+        "Recall the three elementary skills named for the new schooling.",
+        "They concern literacy and numeracy."
+      ],
+      "answer": "A — Reading, writing and counting."
+    },
+    {
+      "id": "6",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "I ___ practise cooking next Saturday.",
+      "steps": [
+        "Next Saturday refers to the future.",
+        "Use will + base verb to express the planned future action."
+      ],
+      "answer": "E — will."
+    },
+    {
+      "id": "7",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "He used to ___ sports programmes.",
+      "steps": [
+        "Used to is followed by the base form of a verb.",
+        "The required base form is watch."
+      ],
+      "answer": "C — watch."
+    },
+    {
+      "id": "8",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "The train ___ late three times this week.",
+      "steps": [
+        "This week is an unfinished period, so the present perfect fits repeated events.",
+        "The train is singular: use has + past participle been."
+      ],
+      "answer": "C — has been."
+    },
+    {
+      "id": "9",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Mussa and Abdul ___ tennis now.",
+      "steps": [
+        "Now indicates an action in progress.",
+        "With a plural subject, use are + playing."
+      ],
+      "answer": "A — are playing."
+    },
+    {
+      "id": "10",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Our former teacher ___ us happy during his classes.",
+      "steps": [
+        "The account concerns a former teacher’s past behaviour.",
+        "The simple past of keep is kept."
+      ],
+      "answer": "D — kept."
+    },
+    {
+      "id": "11",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Rajabu and Paul were mopping ___ their sister was washing dishes.",
+      "steps": [
+        "The two activities happened at the same time.",
+        "While links simultaneous actions."
+      ],
+      "answer": "B — while."
+    },
+    {
+      "id": "12",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Janeth went to school ___ foot.",
+      "steps": [
+        "The fixed expression for walking as transport is on foot.",
+        "By is used with many vehicles, but not in this expression."
+      ],
+      "answer": "D — on."
+    },
+    {
+      "id": "13",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Bats are more active ___ night.",
+      "steps": [
+        "The standard expression is at night.",
+        "Use at for this time phrase."
+      ],
+      "answer": "B — at."
+    },
+    {
+      "id": "14",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "The man was sentenced to two years ___ jail.",
+      "steps": [
+        "The sentence describes being inside prison.",
+        "The established phrase is in jail."
+      ],
+      "answer": "D — in."
+    },
+    {
+      "id": "15",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "The thief jumped ___ the gate.",
+      "steps": [
+        "The movement goes across the top of an obstacle.",
+        "Over expresses that crossing."
+      ],
+      "answer": "B — over."
+    },
+    {
+      "id": "16",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "The beast was not only ugly ___ dirty.",
+      "steps": [
+        "Complete the paired structure not only … but also.",
+        "Both adjectives add information about the same beast."
+      ],
+      "answer": "E — but also."
+    },
+    {
+      "id": "17",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "___ I won’t be able to attend the birthday party.",
+      "steps": [
+        "Choose a polite introductory expression for unwelcome information.",
+        "I am afraid softens the refusal."
+      ],
+      "answer": "D — I am afraid."
+    },
+    {
+      "id": "18",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Neither John ___ Mary sat for the mock examination.",
+      "steps": [
+        "The negative pair is neither … nor.",
+        "Or belongs to either … or instead."
+      ],
+      "answer": "C — nor."
+    },
+    {
+      "id": "19",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Change He said that he was watering the flowers into direct speech.",
+      "steps": [
+        "Restore the speaker’s own pronoun I.",
+        "In the usual reported-speech conversion, was watering is the backshift of am watering."
+      ],
+      "answer": "C — He said, “I am watering the flowers.”"
+    },
+    {
+      "id": "20",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Add a question tag: He is a Standard Seven pupil.",
+      "steps": [
+        "A positive statement takes a negative tag.",
+        "Repeat the auxiliary is and subject he: isn’t he?"
+      ],
+      "answer": "B — isn’t he?"
+    },
+    {
+      "id": "21",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Reply positively to Excuse me, sir, may I come in?",
+      "steps": [
+        "May asks for permission.",
+        "Grant permission with the same auxiliary: Yes, you may."
+      ],
+      "answer": "E — Yes, you may."
+    },
+    {
+      "id": "22",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "We prefer eating rice ___ potatoes.",
+      "steps": [
+        "Use the construction prefer X to Y.",
+        "To introduces the less-preferred alternative."
+      ],
+      "answer": "A — to."
+    },
+    {
+      "id": "23",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Children without a balanced diet become ___.",
+      "steps": [
+        "The context describes a harmful consequence.",
+        "Add un- to healthy to form the appropriate opposite."
+      ],
+      "answer": "E — unhealthy."
+    },
+    {
+      "id": "24",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Cooks who are ___ have many burn marks.",
+      "steps": [
+        "After are, an adjective describes the cooks.",
+        "Careless means not taking enough care; it fits the stated accidents."
+      ],
+      "answer": "A — careless."
+    },
+    {
+      "id": "25",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Nina is the ___ of the two intelligent girls.",
+      "steps": [
+        "A comparison of two people uses a comparative.",
+        "For intelligent, form the comparative with more."
+      ],
+      "answer": "B — more intelligent."
+    },
+    {
+      "id": "26",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Breaking off a relationship means deciding to ___ it.",
+      "steps": [
+        "Break off means discontinue something.",
+        "The matching verb is end."
+      ],
+      "answer": "D — end."
+    },
+    {
+      "id": "27",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "What word is closest to instructions?",
+      "steps": [
+        "Instructions tell someone what to do and how to do it.",
+        "Directions is the closest word in this context."
+      ],
+      "answer": "C — directions."
+    },
+    {
+      "id": "28",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Give the opposite of clean.",
+      "steps": [
+        "Clean means free from dirt.",
+        "Its direct opposite is dirty."
+      ],
+      "answer": "D — dirty."
+    },
+    {
+      "id": "29",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "A chameleon does not move fast; it walks ___.",
+      "steps": [
+        "The blank describes how the animal walks, so use an adverb.",
+        "The opposite of quickly is slowly."
+      ],
+      "answer": "E — slowly."
+    },
+    {
+      "id": "30",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Bad pupils ___ their teachers, unlike good pupils who respect them.",
+      "steps": [
+        "Choose a verb opposite in meaning to respect.",
+        "Disrespect means fail to show respect."
+      ],
+      "answer": "A — disrespect."
+    },
+    {
+      "id": "31",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "At her birthday celebration, my sister has dressed ___.",
+      "steps": [
+        "The blank describes the manner of dressing.",
+        "Smartly is the adverb expressing a neat appearance."
+      ],
+      "answer": "C — smartly."
+    },
+    {
+      "id": "32",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "There are ___ oranges left in the fridge.",
+      "steps": [
+        "Oranges is a plural countable noun.",
+        "Few is used with plural countable things and is the intended quantifier here."
+      ],
+      "answer": "E — few.",
+      "tip": "More can also form a grammatical sentence in a comparison context, but few is NECTA’s expected answer for this item."
+    },
+    {
+      "id": "33",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "A farmer tills the soil using ___.",
+      "steps": [
+        "Tilling means loosening and turning the soil.",
+        "A hoe is the agricultural tool intended in the options."
+      ],
+      "answer": "C — a hoe."
+    },
+    {
+      "id": "34",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Besides jewellery, ring can refer to the sound of what?",
+      "steps": [
+        "Ring has more than one meaning.",
+        "A bell rings; its ringing sound is also called a ring."
+      ],
+      "answer": "C — a bell."
+    },
+    {
+      "id": "35",
+      "section": "Section A — Grammar and vocabulary",
+      "prompt": "Kaunda cut ___ with a knife.",
+      "steps": [
+        "The subject and injured person are the same male person.",
+        "Use the reflexive pronoun himself."
+      ],
+      "answer": "E — himself."
+    },
+    {
+      "id": "36",
+      "section": "Section B — Composition",
+      "prompt": "Order the sentence: At the end, each team had one goal.",
+      "steps": [
+        "Introduce the match before recounting its goals.",
+        "The phrase at the end concludes the composition, so this sentence is fifth."
+      ],
+      "answer": "E — Fifth sentence."
+    },
+    {
+      "id": "37",
+      "section": "Section B — Composition",
+      "prompt": "Order the sentence: Dogo boys scored first in the first half.",
+      "steps": [
+        "The match introduction comes first.",
+        "The first goal is the next event, before the equalising goal."
+      ],
+      "answer": "B — Second sentence."
+    },
+    {
+      "id": "38",
+      "section": "Section B — Composition",
+      "prompt": "Order the sentence: There was a match between Dogo boys and Goma boys.",
+      "steps": [
+        "A composition first introduces the event and participants.",
+        "This sentence supplies that opening information."
+      ],
+      "answer": "A — First sentence."
+    },
+    {
+      "id": "39",
+      "section": "Section B — Composition",
+      "prompt": "Order the sentence: Both teams played tirelessly as time was nearly over.",
+      "steps": [
+        "This happens after the first-half goal and second-half equaliser.",
+        "It precedes the final result."
+      ],
+      "answer": "D — Fourth sentence."
+    },
+    {
+      "id": "40",
+      "section": "Section B — Composition",
+      "prompt": "Order the sentence: Goma boys equalised in the second half.",
+      "steps": [
+        "The first-half goal must come before the second-half equaliser.",
+        "This is followed by the final effort and result."
+      ],
+      "answer": "C — Third sentence."
+    },
+    {
+      "id": "41",
+      "section": "Section C — Comprehension",
+      "prompt": "What was Mr Kikuko’s occupation?",
+      "steps": [
+        "The passage says he made furniture.",
+        "A person who makes furniture from wood is a carpenter."
+      ],
+      "answer": "He was a carpenter."
+    },
+    {
+      "id": "42",
+      "section": "Section C — Comprehension",
+      "prompt": "Why did Mbuto engage in child labour?",
+      "steps": [
+        "His father died and his mother could no longer work.",
+        "He was the eldest child and had to seek money for the household."
+      ],
+      "answer": "He worked to support his family after his father died and his mother became too ill to work."
+    },
+    {
+      "id": "43",
+      "section": "Section C — Comprehension",
+      "prompt": "Why did Mbuto cry after breaking his leg?",
+      "steps": [
+        "Look beyond physical pain to the fear stated in the passage.",
+        "He knew the injury could prevent him from providing for his family."
+      ],
+      "answer": "He was in pain and feared he could no longer support his family."
+    },
+    {
+      "id": "44",
+      "section": "Section C — Comprehension",
+      "prompt": "Why did Mbuto work in the mine instead of attending school?",
+      "steps": [
+        "He had left school to earn a living for his family.",
+        "Selling on the street did not provide enough money, so he sought paid work at the mine."
+      ],
+      "answer": "His family needed income, and street sales were insufficient, so he took a mining job."
+    },
+    {
+      "id": "45",
+      "section": "Section C — Comprehension",
+      "prompt": "What enabled Mbuto to return to school?",
+      "steps": [
+        "Identify the person who offered help after his injury.",
+        "A nurse promised to care for his family and arrange his return to education."
+      ],
+      "answer": "A nurse’s support for his family enabled him to return to school."
+    }
+  ],
+  "summaries": {
+    "Section A — Listening": "Record the main idea and key contrasts while listening. Answer from the passage, rather than guessing from an option that sounds reasonable.",
+    "Section A — Grammar and vocabulary": "Notice tense markers, subject agreement and fixed expressions. Check whether the blank requires a verb, adjective, adverb or pronoun.",
+    "Section B — Composition": "The complete order is 38 → 37 → 40 → 39 → 36: introduction, first goal, equaliser, final effort, result.",
+    "Section C — Comprehension": "Use facts from the passage and answer the exact question. Causes, motives and consequences may require different sentences."
+  },
+  "references": [
+    {
+      "title": "NECTA: PSLE 2023 English analysis and listening passage",
+      "url": "https://onlinesys.necta.go.tz/cira/psle/2023/02_ENGLISH_LANGUAGE.pdf"
+    }
+  ],
+  "sha256": "cef932b6c91c6a1d68e593156e843e0700603640c2e84b17d82200ecc256b7e0"
+}

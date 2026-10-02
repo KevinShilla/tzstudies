@@ -1,55 +1,13 @@
-<header class="navbar" role="banner">
-  <div class="navbar-left">
-    <a href="{{ url_for('papers.index') }}" class="logo" aria-label="TZStudies Home">
-      <img src="{{ url_for('static', filename='tutors/tzstudies.png') }}"
-           class="logo-img" alt="TZStudies logo" width="40" height="40">
-      <span class="logo-text">TZStudies</span>
-    </a>
-  </div>
-
-  <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
-    <span class="hamburger"></span>
-  </button>
-
-  <div class="navbar-center" id="navMenu">
+<header class="navbar">
+  <a href="{{ url_for('papers.index') }}" class="logo" aria-label="MyTZStudies home"><img src="{{ url_for('static', filename='tutors/tzstudies.png') }}" class="logo-img" alt="" width="38" height="38"><span class="logo-text">my<span>TZ</span>Studies<span class="brand-dot">.</span></span></a>
+  <button class="nav-toggle" aria-label="Open navigation" aria-controls="navMenu" aria-expanded="false"><span class="hamburger"></span></button>
+  <div class="nav-menu" id="navMenu">
     <nav class="nav-links" aria-label="Main navigation">
-      <a href="{{ url_for('papers.index') }}" class="nav-link">Home</a>
-      <a href="{{ url_for('papers.about') }}" class="nav-link">About</a>
-      <a href="{{ url_for('tutors.tutors_page') }}" class="nav-link">Find Tutors</a>
-      <a href="{{ url_for('tutors.become_tutor') }}" class="nav-link">Become a Tutor</a>
-      <a href="{{ url_for('papers.answer_keys_page') }}" class="nav-link">Answer Keys</a>
+      <a href="{{ url_for('papers.index') }}#examSection" class="nav-link {{ 'current' if request.endpoint == 'papers.index' else '' }}">Past papers</a>
+      <a href="{{ url_for('papers.answer_keys_page') }}" class="nav-link {{ 'current' if request.endpoint == 'papers.answer_keys_page' else '' }}">Answer keys</a>
+      <a href="{{ url_for('tutors.tutors_page') }}" class="nav-link {{ 'current' if request.endpoint == 'tutors.tutors_page' else '' }}">Find tutors</a>
+      <a href="{{ url_for('papers.about') }}" class="nav-link {{ 'current' if request.endpoint == 'papers.about' else '' }}">Our story</a>
     </nav>
-  </div>
-
-  <form method="GET" action="/search" class="navbar-search">
-    <input type="text" name="q" placeholder="Search papers..." aria-label="Search papers">
-    <button type="submit" class="btn btn-sm">Go</button>
-  </form>
-
-  <div class="nav-auth">
-    {% if current_user.is_authenticated %}
-      <span class="nav-user">Hello, {{ current_user.name.split(' ')[0] }}</span>
-      <a href="{{ url_for('papers.history') }}" class="nav-link">My Papers</a>
-      <a href="{{ url_for('auth.logout') }}" class="nav-link">Logout</a>
-    {% else %}
-      <a href="{{ url_for('auth.login') }}" class="nav-link">Login</a>
-      <a href="{{ url_for('auth.signup') }}" class="nav-link nav-link-signup">Sign Up</a>
-    {% endif %}
+    <div class="nav-auth">{% if current_user.is_authenticated %}<span class="nav-user">Hello, {{ current_user.name.split(' ')[0] }}</span><a href="{{ url_for('papers.history') }}" class="nav-link">My Papers</a><a href="{{ url_for('auth.logout') }}" class="nav-link">Log out</a>{% else %}<a href="{{ url_for('auth.login') }}" class="nav-link">Log In</a><a href="{{ url_for('auth.signup') }}" class="btn btn-sm">Get started <span aria-hidden="true">&rarr;</span></a>{% endif %}</div>
   </div>
 </header>
-
-<script>
-(function() {
-  var toggle = document.querySelector('.nav-toggle');
-  var menu = document.getElementById('navMenu');
-  var auth = document.querySelector('.nav-auth');
-  if (toggle) {
-    toggle.addEventListener('click', function() {
-      var expanded = this.getAttribute('aria-expanded') === 'true';
-      this.setAttribute('aria-expanded', String(!expanded));
-      menu.classList.toggle('nav-open');
-      auth.classList.toggle('nav-open');
-    });
-  }
-})();
-</script>

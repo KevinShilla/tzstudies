@@ -1,0 +1,301 @@
+{
+  "exam": "Hisabati-S4-2022.pdf",
+  "output": "Hisabati-S4-2022-AnswerKey.pdf",
+  "subject": "Hisabati",
+  "level": "Standard Four / Darasa la Nne",
+  "year": "2022",
+  "code": "03 (kama ilivyo katika karatasi)",
+  "exam_type": "National Assessment",
+  "question_count": "Maswali 5, kila moja lina vipengele 5",
+  "language": "sw",
+  "reviewed": true,
+  "expected_parts": [
+    "1(a)",
+    "1(b)",
+    "1(c)",
+    "1(d)",
+    "1(e)",
+    "2(a)",
+    "2(b)",
+    "2(c)",
+    "2(d)",
+    "2(e)",
+    "3(a)",
+    "3(b)",
+    "3(c)",
+    "3(d)",
+    "3(e)",
+    "4(a)",
+    "4(b)",
+    "4(c)",
+    "4(d)",
+    "4(e)",
+    "5(a)",
+    "5(b)",
+    "5(c)",
+    "5(d)",
+    "5(e)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Swali 1: Namba na Thamani ya Tarakimu",
+      "prompt": "Ana amekula 1/4 ya chungwa. Ni sehemu gani imebaki?",
+      "steps": [
+        "Chungwa zima ni 4/4.",
+        "4/4 - 1/4 = 3/4."
+      ],
+      "answer": "3/4."
+    },
+    {
+      "id": "1(b)",
+      "section": "Swali 1: Namba na Thamani ya Tarakimu",
+      "prompt": "Andika 99,001 kwa kirefu.",
+      "steps": [
+        "9 makumi elfu = 90,000; 9 maelfu = 9,000; 1 moja = 1.",
+        "Mamia na makumi ni sifuri."
+      ],
+      "answer": "90,000 + 9,000 + 1."
+    },
+    {
+      "id": "1(c)",
+      "section": "Swali 1: Namba na Thamani ya Tarakimu",
+      "prompt": "Thamani ya X katika XVIII ni ngapi?",
+      "steps": [
+        "X ni alama ya Kirumi ya 10.",
+        "XVIII inaundwa na 10 + 5 + 3."
+      ],
+      "answer": "10."
+    },
+    {
+      "id": "1(d)",
+      "section": "Swali 1: Namba na Thamani ya Tarakimu",
+      "prompt": "Andika kwa Kirumi namba kati ya 48 na 50.",
+      "steps": [
+        "Namba hiyo ni 49.",
+        "40 ni XL na 9 ni IX."
+      ],
+      "answer": "XLIX."
+    },
+    {
+      "id": "1(e)",
+      "section": "Swali 1: Namba na Thamani ya Tarakimu",
+      "prompt": "Ni namba gani ikijumlishwa na 4,392 hupata 7,005?",
+      "steps": [
+        "Namba inayotafutwa = 7,005 - 4,392.",
+        "Tofauti ni 2,613; hakiki 4,392 + 2,613 = 7,005."
+      ],
+      "answer": "2,613."
+    },
+    {
+      "id": "2(a)",
+      "section": "Swali 2: Mpangilio na Ulinganisho",
+      "prompt": "Hatua ya kobe ni sm 5. Anahitaji hatua ngapi kwenda sm 30?",
+      "steps": [
+        "Gawanya umbali wote kwa umbali wa hatua moja.",
+        "30 / 5 = 6."
+      ],
+      "answer": "Hatua 6."
+    },
+    {
+      "id": "2(b)",
+      "section": "Swali 2: Mpangilio na Ulinganisho",
+      "prompt": "Watoto watano wanapishana kwa miaka 5. Wa kwanza ana miaka 35. Wa nne ana miaka mingapi?",
+      "steps": [
+        "Kutoka wa kwanza hadi wa nne kuna tofauti mara tatu.",
+        "35 - 3 x 5 = 20."
+      ],
+      "answer": "Miaka 20."
+    },
+    {
+      "id": "2(c)",
+      "section": "Swali 2: Mpangilio na Ulinganisho",
+      "prompt": "Kwa miaka iliyotolewa katika swali, nchi gani ilikuwa ya kwanza kupata uhuru?",
+      "steps": [
+        "Linganisha 1962, 1961, 1963 na 1980.",
+        "Mwaka wa kwanza ni 1961, uliotajwa kwa Tanganyika."
+      ],
+      "answer": "Tanganyika."
+    },
+    {
+      "id": "2(d)",
+      "section": "Swali 2: Mpangilio na Ulinganisho",
+      "prompt": "Gladness alipata alama 186 mwezi wa kwanza na huongeza 12 kila mwezi. Mwezi wa nne ana alama ngapi?",
+      "steps": [
+        "Kuna ongezeko mara tatu.",
+        "186 + 3 x 12 = 186 + 36 = 222."
+      ],
+      "answer": "Alama 222."
+    },
+    {
+      "id": "2(e)",
+      "section": "Swali 2: Mpangilio na Ulinganisho",
+      "prompt": "Uchaguzi ni kila miaka 2. Wa mwisho ulikuwa 2018. Ufuatao ni lini?",
+      "steps": [
+        "Jumlisha kipindi cha miaka miwili.",
+        "2018 + 2 = 2020."
+      ],
+      "answer": "Mwaka 2020."
+    },
+    {
+      "id": "3(a)",
+      "section": "Swali 3: Matendo na Vipimo vya Muda",
+      "prompt": "Tafuta tofauti ya 39,365 na 33,868.",
+      "steps": [
+        "Toa ndogo katika kubwa.",
+        "39,365 - 33,868 = 5,497."
+      ],
+      "answer": "5,497."
+    },
+    {
+      "id": "3(b)",
+      "section": "Swali 3: Matendo na Vipimo vya Muda",
+      "prompt": "Gawa maembe 350 sawa katika mafungu 10.",
+      "steps": [
+        "Ugawaji sawa unahitaji tendo la kugawanya.",
+        "350 / 10 = 35."
+      ],
+      "answer": "Maembe 35 kila fungu."
+    },
+    {
+      "id": "3(c)",
+      "section": "Swali 3: Matendo na Vipimo vya Muda",
+      "prompt": "Baraka hulipwa sh. 4,000 kwa siku kwa siku 40. Tafuta jumla.",
+      "steps": [
+        "Malipo yote = malipo kwa siku x idadi ya siku.",
+        "4,000 x 40 = 160,000."
+      ],
+      "answer": "Sh. 160,000."
+    },
+    {
+      "id": "3(d)",
+      "section": "Swali 3: Matendo na Vipimo vya Muda",
+      "prompt": "Redio iliuzwa sh. 60,500 kwa faida sh. 20,000. Ilinunuliwa bei gani?",
+      "steps": [
+        "Bei ya kununulia = bei ya kuuzia - faida.",
+        "60,500 - 20,000 = 40,500."
+      ],
+      "answer": "Sh. 40,500."
+    },
+    {
+      "id": "3(e)",
+      "section": "Swali 3: Matendo na Vipimo vya Muda",
+      "prompt": "Badili siku 21 kuwa majuma.",
+      "steps": [
+        "Juma moja lina siku 7.",
+        "21 / 7 = 3."
+      ],
+      "answer": "Majuma 3."
+    },
+    {
+      "id": "4(a)",
+      "section": "Swali 4: Maumbo na Vipimo",
+      "prompt": "Panga m 900, sm 2, km 3, mm 400 kuanzia kikubwa hadi kidogo.",
+      "steps": [
+        "Badili kuwa mita: 900, 0.02, 3,000 na 0.4.",
+        "Panga 3,000 > 900 > 0.4 > 0.02."
+      ],
+      "answer": "Km 3, m 900, mm 400, sm 2."
+    },
+    {
+      "id": "4(b)",
+      "section": "Swali 4: Maumbo na Vipimo",
+      "prompt": "Kipi kirefu: waya sm 20 au uzi m 2?",
+      "steps": [
+        "Mita 2 = sm 200.",
+        "Sm 200 ni zaidi ya sm 20."
+      ],
+      "answer": "Uzi wa m 2."
+    },
+    {
+      "id": "4(c)",
+      "section": "Swali 4: Maumbo na Vipimo",
+      "prompt": "Kuna vipande vingapi kati ya pointi W, X, Y na Z?",
+      "steps": [
+        "Kutoka W: WX, WY, WZ.",
+        "Kutoka X: XY, XZ; kutoka Y: YZ.",
+        "Jumla ni 3 + 2 + 1 = 6."
+      ],
+      "answer": "Vipande 6.",
+      "tip": "Hesabu kila jozi tofauti ya ncha, pamoja na vipande vinavyopita pointi nyingine."
+    },
+    {
+      "id": "4(d)",
+      "section": "Swali 4: Maumbo na Vipimo",
+      "prompt": "Tafuta mzingo wa pembetatu yenye pande m 13, m 14 na m 15.",
+      "steps": [
+        "Jumlisha urefu wa pande zote.",
+        "13 + 14 + 15 = 42."
+      ],
+      "answer": "M 42."
+    },
+    {
+      "id": "4(e)",
+      "section": "Swali 4: Maumbo na Vipimo",
+      "prompt": "Mzingo wa mraba ni sm 196. Tafuta upande mmoja.",
+      "steps": [
+        "Mraba una pande nne sawa.",
+        "196 / 4 = 49."
+      ],
+      "answer": "Sm 49."
+    },
+    {
+      "id": "5(a)",
+      "section": "Swali 5: Kusoma Takwimu",
+      "prompt": "Katika jedwali 2014:80, 2015:90, 2016:95, 2017:98, mwaka gani una wanafunzi wengi?",
+      "steps": [
+        "Linganisha idadi zote.",
+        "98 ndiyo kubwa, nayo ni ya 2017."
+      ],
+      "answer": "2017."
+    },
+    {
+      "id": "5(b)",
+      "section": "Swali 5: Kusoma Takwimu",
+      "prompt": "Jumlisha wanafunzi waliomaliza mwaka 2014 na 2015.",
+      "steps": [
+        "2014 ina 80 na 2015 ina 90.",
+        "80 + 90 = 170."
+      ],
+      "answer": "Wanafunzi 170."
+    },
+    {
+      "id": "5(c)",
+      "section": "Swali 5: Kusoma Takwimu",
+      "prompt": "Mwaka gani una wanafunzi wachache?",
+      "steps": [
+        "Idadi ndogo zaidi ni 80.",
+        "Hiyo ni ya mwaka 2014."
+      ],
+      "answer": "2014."
+    },
+    {
+      "id": "5(d)",
+      "section": "Swali 5: Kusoma Takwimu",
+      "prompt": "Tafuta tofauti ya wanafunzi wa 2014 na 2017.",
+      "steps": [
+        "2014 ina 80; 2017 ina 98.",
+        "98 - 80 = 18."
+      ],
+      "answer": "Wanafunzi 18."
+    },
+    {
+      "id": "5(e)",
+      "section": "Swali 5: Kusoma Takwimu",
+      "prompt": "Tafuta jumla ya wanafunzi katika miaka minne.",
+      "steps": [
+        "80 + 90 = 170; 95 + 98 = 193.",
+        "170 + 193 = 363."
+      ],
+      "answer": "Wanafunzi 363."
+    }
+  ],
+  "summaries": {
+    "Swali 1: Namba na Thamani ya Tarakimu": "Zingatia nafasi ya tarakimu na kanuni za namba za Kirumi.",
+    "Swali 2: Mpangilio na Ulinganisho": "Tambua ongezeko au upungufu; hesabu nafasi kati ya namba.",
+    "Swali 3: Matendo na Vipimo vya Muda": "Weka vipimo sawa; dakika 60 ni saa moja.",
+    "Swali 4: Maumbo na Vipimo": "Tumia idadi ya pande, kanuni ya mzingo na ubadilishaji wa vipimo.",
+    "Swali 5: Kusoma Takwimu": "Soma ufunguo wa picha na hesabu kila alama kwa makini."
+  },
+  "sha256": "91b301fa89dd053ee3cb8d5fdfd9f3cc910cf8bbb0f909158e1e7b5170ff6bb7"
+}

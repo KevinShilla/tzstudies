@@ -1,0 +1,621 @@
+{
+  "exam": "English-F2-2023.pdf",
+  "output": "English-F2-2023-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Form Two",
+  "year": "2023",
+  "code": "022",
+  "exam_type": "Form Two National Assessment (FTNA)",
+  "question_count": "10 compulsory questions; 53 answered parts",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "123e2d83eb82b0aaf957715fbe5fb35f537253225f2ba3b23a973cc5796825bf",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(ix)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(1)",
+    "3(2)",
+    "3(3)",
+    "3(4)",
+    "3(5)",
+    "3(6)",
+    "3(7)",
+    "3(8)",
+    "3(9)",
+    "3(10)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "4(vi)",
+    "4(vii)",
+    "4(viii)",
+    "4(ix)",
+    "4(x)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "6",
+    "7",
+    "8(i)",
+    "8(ii)",
+    "8(iii)",
+    "8(iv)",
+    "8(v)",
+    "9(i)",
+    "9(ii)",
+    "9(iii)",
+    "9(iv)",
+    "9(v)",
+    "10"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Section A — Objective questions",
+      "prompt": "Uncle Swedi is generous. What does this mean?",
+      "answer": "D — He is good-hearted.",
+      "steps": [
+        "Identify the meaning or grammar required by the situation.",
+        "Generosity means willingness to give or help, contrasting with meanness."
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Mayele scored in spite of being injured. When was he injured relative to scoring?",
+      "answer": "A — Before he scored the goal.",
+      "steps": [
+        "Identify the meaning or grammar required by the situation.",
+        "In spite of introduces an existing obstacle he overcame while scoring."
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Which use of “at” does not show location?",
+      "answer": "D — The meeting will start at noon.",
+      "steps": [
+        "Identify the meaning or grammar required by the situation.",
+        "Noon is a time. Post office, bus stop and airport are places."
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Section A — Objective questions",
+      "prompt": "The teacher gives exercises almost every Friday. What kind of action is this?",
+      "answer": "B — Habitual.",
+      "steps": [
+        "Identify the meaning or grammar required by the situation.",
+        "Every Friday expresses repetition rather than an action happening at this moment."
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Section A — Objective questions",
+      "prompt": "Which headline describes a natural disaster?",
+      "answer": "C — Thousands killed in an earthquake.",
+      "steps": [
+        "Identify the meaning or grammar required by the situation.",
+        "An earthquake is a natural event; the other headlines concern human actions or accidents."
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Section A — Objective questions",
+      "prompt": "Which “understand” sentence is correct when asked to show an ongoing activity?",
+      "answer": "D — I understand what you say. It is the correct ordinary stative form, although the instruction wrongly requests ongoing aspect.",
+      "steps": [
+        "Identify the meaning or grammar required by the situation.",
+        "Understand normally describes a mental state. A and C incorrectly use am understanding here; B has incorrect negative word order."
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Section A — Objective questions",
+      "prompt": "“There was no water left in the bucket” means what?",
+      "answer": "B — There wasn’t any water in the bucket.",
+      "steps": [
+        "Identify the meaning or grammar required by the situation.",
+        "No water means zero, equivalent to not any, rather than merely not much."
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Which response fails to show consideration when unable to attend a friend’s birthday?",
+      "answer": "D — Keeping quiet because the friend will not know.",
+      "steps": [
+        "Identify the meaning or grammar required by the situation.",
+        "The question asks for the exception: silence leaves the host uninformed, while the other choices attempt an appropriate response."
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Section A — Objective questions",
+      "prompt": "How should Fiona say she cannot attend a future party?",
+      "answer": "D — I will not be able to attend the party.",
+      "steps": [
+        "Identify the meaning or grammar required by the situation.",
+        "Future inability uses will not be able to. Past or completed attendance does not fit."
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Section A — Objective questions",
+      "prompt": "When should a learner take lesson notes?",
+      "answer": "C — When listening to lesson presentations.",
+      "steps": [
+        "Identify the meaning or grammar required by the situation.",
+        "Notes capture important information presented in teaching."
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the dictionary term: Words with the same or nearly the same meaning.",
+      "answer": "F — Synonym.",
+      "steps": [
+        "Compare the definition with the available terms.",
+        "Synonyms share similar meanings."
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the dictionary term: A word with the opposite meaning of another.",
+      "answer": "A — Antonym.",
+      "steps": [
+        "Compare the definition with the available terms.",
+        "Antonyms express opposing meanings."
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the dictionary term: A word’s origin and history.",
+      "answer": "D — Etymology.",
+      "steps": [
+        "Compare the definition with the available terms.",
+        "Etymology traces how words originated and developed."
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the dictionary term: The guideword showing a dictionary page’s last word.",
+      "answer": "G — Right guide word.",
+      "steps": [
+        "Compare the definition with the available terms.",
+        "The right guideword indicates the last entry on the page."
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Section A — Objective questions",
+      "prompt": "Match the dictionary term: A word together with its dictionary information.",
+      "answer": "C — Entry.",
+      "steps": [
+        "Compare the definition with the available terms.",
+        "An entry includes the headword and the information supplied for it."
+      ]
+    },
+    {
+      "id": "3(1)",
+      "section": "Section B — Language use",
+      "prompt": "Last holiday my father and I ___ (go) to Kigoma.",
+      "answer": "went",
+      "steps": [
+        "Set the verb in the past holiday narrative, checking whether an earlier event needs past perfect.",
+        "Go has irregular past tense went."
+      ]
+    },
+    {
+      "id": "3(2)",
+      "section": "Section B — Language use",
+      "prompt": "His car ___ (be, not) working properly.",
+      "answer": "was not",
+      "steps": [
+        "Set the verb in the past holiday narrative, checking whether an earlier event needs past perfect.",
+        "The singular car takes was; not supplies the negative."
+      ]
+    },
+    {
+      "id": "3(3)",
+      "section": "Section B — Language use",
+      "prompt": "We both ___ (travel) by train.",
+      "answer": "travelled",
+      "steps": [
+        "Set the verb in the past holiday narrative, checking whether an earlier event needs past perfect.",
+        "The finished holiday uses the past simple. Traveled is also correct American spelling."
+      ]
+    },
+    {
+      "id": "3(4)",
+      "section": "Section B — Language use",
+      "prompt": "I ___ (have) never been on a train before.",
+      "answer": "had",
+      "steps": [
+        "Set the verb in the past holiday narrative, checking whether an earlier event needs past perfect.",
+        "Past perfect had never been describes the earlier absence of train experience."
+      ]
+    },
+    {
+      "id": "3(5)",
+      "section": "Section B — Language use",
+      "prompt": "As I ___ (be) in the train …",
+      "answer": "was",
+      "steps": [
+        "Set the verb in the past holiday narrative, checking whether an earlier event needs past perfect.",
+        "Use past singular was for I."
+      ]
+    },
+    {
+      "id": "3(6)",
+      "section": "Section B — Language use",
+      "prompt": "I ___ (stand) near the window.",
+      "answer": "stood",
+      "steps": [
+        "Set the verb in the past holiday narrative, checking whether an earlier event needs past perfect.",
+        "Stand has irregular past tense stood."
+      ]
+    },
+    {
+      "id": "3(7)",
+      "section": "Section B — Language use",
+      "prompt": "I ___ (ask) many questions.",
+      "answer": "asked",
+      "steps": [
+        "Set the verb in the past holiday narrative, checking whether an earlier event needs past perfect.",
+        "Add -ed for this completed narrative action."
+      ]
+    },
+    {
+      "id": "3(8)",
+      "section": "Section B — Language use",
+      "prompt": "… about things I ___ (see).",
+      "answer": "saw",
+      "steps": [
+        "Set the verb in the past holiday narrative, checking whether an earlier event needs past perfect.",
+        "See has irregular past tense saw."
+      ]
+    },
+    {
+      "id": "3(9)",
+      "section": "Section B — Language use",
+      "prompt": "It ___ (take) us two days to arrive.",
+      "answer": "took",
+      "steps": [
+        "Set the verb in the past holiday narrative, checking whether an earlier event needs past perfect.",
+        "Take has irregular past tense took."
+      ]
+    },
+    {
+      "id": "3(10)",
+      "section": "Section B — Language use",
+      "prompt": "I ___ (enjoy) every part of the journey.",
+      "answer": "enjoyed",
+      "steps": [
+        "Set the verb in the past holiday narrative, checking whether an earlier event needs past perfect.",
+        "Enjoy is regular: enjoyed."
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Section B — Language use",
+      "prompt": "Complete the supplied dialogue: I am not ___ well.",
+      "answer": "feeling",
+      "steps": [
+        "Use each suitable boxed word in the dialogue context.",
+        "Am + feeling completes the expression feeling well."
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Complete the supplied dialogue: All the ___ are aching.",
+      "answer": "joints",
+      "steps": [
+        "Use each suitable boxed word in the dialogue context.",
+        "Joints are parts of the body that can ache; the plural agrees with are."
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Complete the supplied dialogue: I have a bad ___.",
+      "answer": "headache",
+      "steps": [
+        "Use each suitable boxed word in the dialogue context.",
+        "Headache names the symptom paired with dizziness in the next clause."
+      ]
+    },
+    {
+      "id": "4(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Complete the supplied dialogue: The headache causes the ___ I feel.",
+      "answer": "dizziness",
+      "steps": [
+        "Use each suitable boxed word in the dialogue context.",
+        "Dizziness means a sensation of unsteadiness."
+      ]
+    },
+    {
+      "id": "4(v)",
+      "section": "Section B — Language use",
+      "prompt": "Complete the supplied dialogue: Do you have a ___?",
+      "answer": "stomach-ache",
+      "steps": [
+        "Use each suitable boxed word in the dialogue context.",
+        "This asks about pain in the stomach."
+      ]
+    },
+    {
+      "id": "4(vi)",
+      "section": "Section B — Language use",
+      "prompt": "Complete the supplied dialogue: Are you eating well? Not that ___.",
+      "answer": "much",
+      "steps": [
+        "Use each suitable boxed word in the dialogue context.",
+        "Not that much describes a small quantity."
+      ]
+    },
+    {
+      "id": "4(vii)",
+      "section": "Section B — Language use",
+      "prompt": "Complete the supplied dialogue: After eating I feel ___.",
+      "answer": "nausea",
+      "steps": [
+        "Use each suitable boxed word in the dialogue context.",
+        "Nausea is the boxed noun for feeling sick before vomiting."
+      ],
+      "tip": "The more natural English phrase is “I feel nauseous” or “I feel nausea”; the question’s word box supplies the noun nausea."
+    },
+    {
+      "id": "4(viii)",
+      "section": "Section B — Language use",
+      "prompt": "Complete the supplied dialogue: Then I ___.",
+      "answer": "vomit",
+      "steps": [
+        "Use each suitable boxed word in the dialogue context.",
+        "Vomit is the action verb fitting after I."
+      ]
+    },
+    {
+      "id": "4(ix)",
+      "section": "Section B — Language use",
+      "prompt": "Complete the supplied dialogue: We will take some ___ to identify the problem.",
+      "answer": "tests",
+      "steps": [
+        "Use each suitable boxed word in the dialogue context.",
+        "Tests are the investigations mentioned by the doctor."
+      ]
+    },
+    {
+      "id": "4(x)",
+      "section": "Section B — Language use",
+      "prompt": "Complete the supplied dialogue: I do not want an ___; I would rather take pills.",
+      "answer": "injection",
+      "steps": [
+        "Use each suitable boxed word in the dialogue context.",
+        "The article an fits injection; it contrasts with taking pills."
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Section B — Language use",
+      "prompt": "Write a sentence using a suitable group or quantity expression for shoes.",
+      "answer": "I bought a pair of shoes.",
+      "steps": [
+        "Use the model structure “I bought a … of …”.",
+        "A pair consists of two matching shoes."
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Write a sentence using a suitable group or quantity expression for chairs.",
+      "answer": "I bought a set of chairs.",
+      "steps": [
+        "Use the model structure “I bought a … of …”.",
+        "A coordinated group of chairs can be called a set."
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Write a sentence using a suitable group or quantity expression for bananas.",
+      "answer": "I bought a bunch of bananas.",
+      "steps": [
+        "Use the model structure “I bought a … of …”.",
+        "Bananas growing or sold together form a bunch."
+      ]
+    },
+    {
+      "id": "5(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Write a sentence using a suitable group or quantity expression for matchboxes.",
+      "answer": "I bought a packet of matchboxes.",
+      "steps": [
+        "Use the model structure “I bought a … of …”.",
+        "Packet gives a suitable packaged quantity of several boxes."
+      ]
+    },
+    {
+      "id": "5(v)",
+      "section": "Section B — Language use",
+      "prompt": "Write a sentence using a suitable group or quantity expression for bread.",
+      "answer": "I bought a loaf of bread.",
+      "steps": [
+        "Use the model structure “I bought a … of …”.",
+        "Loaf is the usual unit for bread."
+      ]
+    },
+    {
+      "id": "6",
+      "section": "Section B — Language use",
+      "prompt": "Write a five-sentence routine paragraph using assembly, early, inspection, line up and brush: two home activities and three school activities before class.",
+      "answer": "I wake up early every morning. I brush my teeth before leaving home. At school, I line up with my classmates. We attend the morning assembly. Afterwards, we take part in the inspection before going to class.",
+      "steps": [
+        "Plan exactly five sentences: two at home, followed by three at school.",
+        "Use the habitual present simple and include all five supplied expressions. Check that every school action occurs before class."
+      ]
+    },
+    {
+      "id": "7",
+      "section": "Section B — Language use",
+      "prompt": "As Hope, take a telephone message for your father, Mr. Mpenja, about Amani Secondary School’s parents’ meeting on 8 December at 09:00.",
+      "answer": "TELEPHONE MESSAGE\nTo: Mr. Mpenja\nFrom: The Headmaster, Amani Secondary School\nMessage: The Headmaster called to inform you that you are required to attend the parents’ meeting at Amani Secondary School on 8 December at 9:00 a.m.\nTaken by: Hope",
+      "steps": [
+        "Identify the recipient, caller and institution before writing the content.",
+        "Preserve the specified date and starting time. Sign Hope as requested; do not invent a telephone number or a time when the call was received."
+      ],
+      "tip": "The paper does not specify the call’s date or time. Those message fields can be added when the actual information is available."
+    },
+    {
+      "id": "8(i)",
+      "section": "Section B — Language use",
+      "prompt": "Write a factual sentence from the article beginning “Tanzania …”.",
+      "answer": "Tanzania has rivers including Kagera, Malagarasi, Pangani, Ruaha, Ruvuma and Rufiji.",
+      "steps": [
+        "Select a stated fact and begin with the exact required country name.",
+        "The passage explicitly lists these rivers."
+      ]
+    },
+    {
+      "id": "8(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Write a factual sentence from the article beginning “Tanzania …”.",
+      "answer": "Tanzania has large lakes including Tanganyika, Victoria and Nyasa.",
+      "steps": [
+        "Select a stated fact and begin with the exact required country name.",
+        "The passage identifies these three major lakes."
+      ]
+    },
+    {
+      "id": "8(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Write a factual sentence from the article beginning “Tanzania …”.",
+      "answer": "Tanzania uses water from rivers and lakes for domestic needs and irrigation.",
+      "steps": [
+        "Select a stated fact and begin with the exact required country name.",
+        "Both uses are given in the benefits paragraph."
+      ]
+    },
+    {
+      "id": "8(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Write a factual sentence from the article beginning “Tanzania …”.",
+      "answer": "Tanzania has islands including Unguja, Pemba and Mafia.",
+      "steps": [
+        "Select a stated fact and begin with the exact required country name.",
+        "These islands are explicitly named."
+      ]
+    },
+    {
+      "id": "8(v)",
+      "section": "Section B — Language use",
+      "prompt": "Write a factual sentence from the article beginning “Tanzania …”.",
+      "answer": "Tanzania has mountains including Kilimanjaro, Meru and Rungwe.",
+      "steps": [
+        "Select a stated fact and begin with the exact required country name.",
+        "These mountains are listed in the final sentences."
+      ]
+    },
+    {
+      "id": "9(i)",
+      "section": "Section B — Language use",
+      "prompt": "Identify an informal feature in the salutation.",
+      "answer": "The personal greeting “Dear Seth”.",
+      "steps": [
+        "Name a feature and point to evidence in this letter.",
+        "The recipient is addressed by first name, signalling a personal relationship."
+      ],
+      "tip": "An address and a date are useful letter components, but they occur in formal letters too; by themselves they do not distinguish informality."
+    },
+    {
+      "id": "9(ii)",
+      "section": "Section B — Language use",
+      "prompt": "Identify an informal feature in the opening.",
+      "answer": "A friendly enquiry about the recipient’s wellbeing.",
+      "steps": [
+        "Name a feature and point to evidence in this letter.",
+        "The writer asks how Seth is and shares family news."
+      ],
+      "tip": "An address and a date are useful letter components, but they occur in formal letters too; by themselves they do not distinguish informality."
+    },
+    {
+      "id": "9(iii)",
+      "section": "Section B — Language use",
+      "prompt": "Identify an informal feature in the subject matter.",
+      "answer": "Personal examination wishes and holiday plans.",
+      "steps": [
+        "Name a feature and point to evidence in this letter.",
+        "These concerns are private friendship matters rather than official business."
+      ],
+      "tip": "An address and a date are useful letter components, but they occur in formal letters too; by themselves they do not distinguish informality."
+    },
+    {
+      "id": "9(iv)",
+      "section": "Section B — Language use",
+      "prompt": "Identify an informal feature in the language.",
+      "answer": "A conversational tone and contractions such as “can’t”.",
+      "steps": [
+        "Name a feature and point to evidence in this letter.",
+        "The writing resembles a friendly conversation and uses an abbreviated form."
+      ],
+      "tip": "An address and a date are useful letter components, but they occur in formal letters too; by themselves they do not distinguish informality."
+    },
+    {
+      "id": "9(v)",
+      "section": "Section B — Language use",
+      "prompt": "Identify an informal feature in the ending.",
+      "answer": "The friendly closing “Yours” followed by the first name Frank.",
+      "steps": [
+        "Name a feature and point to evidence in this letter.",
+        "The personal sign-off contrasts with an official title and formal business closing."
+      ],
+      "tip": "An address and a date are useful letter components, but they occur in formal letters too; by themselves they do not distinguish informality."
+    },
+    {
+      "id": "10",
+      "section": "Section C — Reading programme",
+      "prompt": "Using two readers, show that women’s responsibilities extend beyond kitchen work, giving three points from each.",
+      "answer": "Model response:\nWomen contribute to economic and social life as well as to their households. Hawa the Bus Driver and Mabala the Farmer, both by R. S. Mabala, illustrate this through Hawa and Mauja.\nFirst, Hawa earns her living as a bus driver. She transports passengers in a demanding occupation and demonstrates that women can perform skilled public work. Second, she protects passengers by removing a drunken man who causes trouble on her bus. This shows courage and the ability to maintain order, responsibilities extending beyond household duties. Third, when a boy is knocked down by a vehicle, Hawa takes him to hospital. Her practical response makes her a contributor to community welfare rather than someone concerned only with her own home.\nIn Mabala the Farmer, Mauja supports the family economically by weaving mats. Selling what she makes provides income and shows productive skill. She also works on the farm: she digs, plants and weeds while Mabala struggles with the demands of farming. Her labour helps produce food and demonstrates an important agricultural role. Finally, she advises Mabala and other villagers, sharing practical knowledge. Guiding her husband towards responsible work shows that she contributes ideas and judgement as well as labour.\nThe six examples challenge the belief that women belong only in kitchens. Hawa and Mauja earn, protect, care, produce and guide. Their communities benefit when these contributions are recognised and women have opportunities to develop their abilities.",
+      "steps": [
+        "Choose Hawa and Mauja from the two prescribed readers and organise three distinct contributions for each.",
+        "Use Hawa's driving, removal of the drunken passenger and help for the injured boy; use Mauja's mat weaving, farm work and advice. Explain each contribution.",
+        "Relate every example to the claim about women’s wider roles. End with a conclusion about opportunity and recognition."
+      ],
+      "tip": "This is a model literary argument. Use accurate episodes from the reader studied; other prescribed female characters can also support the statement."
+    }
+  ],
+  "summaries": {
+    "Section A — Objective questions": "Synonyms share meanings; antonyms oppose them. A time expression can use at without locating a place. Stative mental verbs normally take simple forms.",
+    "Section B — Language use": "A past narrative can include past perfect for earlier experience. Match supplied vocabulary to context, and obey sentence-count and opening-word instructions.",
+    "Section C — Reading programme": "Organise literary essays around the exact claim. Give distinct contributions for each character and explain their importance."
+  },
+  "labelling_note": "Question 1(vi) incorrectly asks for ongoing aspect with ordinary stative understand; the correct grammatical option is explained. Question 7 retains only the event details given in the paper.",
+  "references": [
+    {
+      "title": "NECTA English FTNA 2023 — literature assessment context",
+      "url": "https://onlinesys.necta.go.tz/cira/ftna/2023/022_ENGLISH_LANGUAGE.pdf"
+    }
+  ]
+}

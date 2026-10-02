@@ -2,10 +2,12 @@
 {% block title %}Become a Tutor|TZStudies{% endblock %}
 
 {% block content %}
-<section class="hero">
-  <div class="hero-content">
+<section class="container page-intro">
+  <div>
+    <span class="eyebrow">SHARE WHAT YOU KNOW</span>
     <h1>Become a Tutor</h1>
-    <p>Fill out the form below to apply as a tutor.</p>
+    <p>Help students build confidence in your subject. Tell us about your experience and the lessons you offer.</p>
+    <p class="helper-text">Your application and CV are sent for review before a profile is published.</p>
   </div>
 </section>
 
@@ -15,7 +17,7 @@
 
     <div class="form-group">
       <label for="name">Name:</label>
-      <input type="text" id="name" name="name" required>
+      <input type="text" id="name" name="name" autocomplete="name" maxlength="255" required>
       <small>Enter your full name.</small>
     </div>
     <div class="form-group">
@@ -45,12 +47,12 @@
     </div>
     <div class="form-group">
       <label for="phone">Phone (Optional):</label>
-      <input type="text" id="phone" name="phone">
+      <input type="tel" id="phone" name="phone" autocomplete="tel" maxlength="50">
       <small>If available, provide your contact phone number.</small>
     </div>
     <div class="form-group">
       <label for="email">Email (Required):</label>
-      <input type="email" id="email" name="email" required>
+      <input type="email" id="email" name="email" autocomplete="email" maxlength="255" required>
       <small>Please provide your email address.</small>
     </div>
     <div class="form-group">
@@ -60,9 +62,9 @@
     </div>
     <div class="form-group">
       <label for="profile_bio">Profile Description:</label>
-      <textarea id="profile_bio" name="profile_bio" required rows="4"
+      <textarea id="profile_bio" name="profile_bio" required rows="4" maxlength="4000"
                 placeholder="Write a short description for your public profile..."></textarea>
-      <small>This description will be shown on your public profile.</small>
+      <small>This description can be used on your profile after review.</small>
     </div>
 
     <button type="submit" class="btn">Submit Application</button>

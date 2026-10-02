@@ -1,0 +1,465 @@
+{
+  "exam": "BasicMath-F4-2023.pdf",
+  "output": "BasicMath-F4-2023-AnswerKey.pdf",
+  "subject": "Basic Mathematics",
+  "level": "Form Four",
+  "year": "2023",
+  "code": "041",
+  "exam_type": "Certificate of Secondary Education Examination (CSEE)",
+  "question_count": "14 compulsory questions; 39 answered parts",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "a83e09ae83e3d418b585de41b7296ad1f027fef4e988781858625d9fa5137818",
+  "expected_parts": [
+    "1(a)(i)",
+    "1(a)(ii)",
+    "1(b)",
+    "2(a)",
+    "2(b)",
+    "3(a)",
+    "3(b)(i)",
+    "3(b)(ii)",
+    "4(a)",
+    "4(b)(i)",
+    "4(b)(ii)",
+    "5(a)",
+    "5(b)",
+    "6(a)",
+    "6(b)(i)",
+    "6(b)(ii)",
+    "7(a)",
+    "7(b)",
+    "8(a)",
+    "8(b)",
+    "9(a)",
+    "9(b)(i)",
+    "9(b)(ii)",
+    "10(a)",
+    "10(b)",
+    "11(a)",
+    "11(b)",
+    "11(c)",
+    "12(a)(i)",
+    "12(a)(ii)",
+    "12(b)",
+    "13(a)",
+    "13(b)(i)",
+    "13(b)(ii)",
+    "13(c)(i)",
+    "13(c)(ii)",
+    "14(a)(i)",
+    "14(a)(iii)",
+    "14(b)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Arrange 0.6̇, 3/5, and 20% of 13/4 in ascending order.",
+      "answer": "3/5 < 20% of 13/4 < 0.6̇.",
+      "steps": [
+        "0.6̇ = 0.6666…; 3/5 = 0.6; (20/100) × (13/4) = 13/20 = 0.65.",
+        "Compare decimal values: 0.6 < 0.65 < 0.6666… ."
+      ],
+      "tip": "The dot above 6 indicates a repeating decimal; it is not the terminating decimal 0.6."
+    },
+    {
+      "id": "1(a)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Evaluate 13 − 2 × 3 + 14 ÷ (2 + 5).",
+      "answer": "9.",
+      "steps": [
+        "Bracket first: 2 + 5 = 7. Then multiplication and division: 2 × 3 = 6 and 14/7 = 2.",
+        "Now 13 − 6 + 2 = 9."
+      ]
+    },
+    {
+      "id": "1(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Find the LCM of 2,3,5 by listing.",
+      "answer": "30.",
+      "steps": [
+        "Multiples of 2: 2,4,6,…,30; of 3: 3,6,9,…,30; of 5: 5,10,15,20,25,30.",
+        "The first positive value in all three lists is 30."
+      ]
+    },
+    {
+      "id": "2(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Solve 5^(x − 2y) = 25 and 3^(2x) ÷ 3ʸ = 3⁴.",
+      "answer": "x = 2; y = 0.",
+      "steps": [
+        "The first equation gives x − 2y = 2 because 25 = 5². The quotient in the second gives 2x − y = 4.",
+        "Double the first: 2x − 4y = 4. Subtract from the second to obtain 3y = 0, so y = 0.",
+        "Then x = 2. Check 5² = 25 and 3⁴/3⁰ = 3⁴."
+      ]
+    },
+    {
+      "id": "2(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Solve 4 + 3 log₃x = log₃24.",
+      "answer": "x = 2/3.",
+      "steps": [
+        "For x > 0, write 4 = log₃81 and 3 log₃x = log₃x³.",
+        "Thus log₃(81x³) = log₃24, giving x³ = 24/81 = 8/27.",
+        "The positive cube root is x = 2/3."
+      ]
+    },
+    {
+      "id": "3(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Universal set = {15,30,45,60,75}, A = {15,45}, B = {30,60}. Find (A ∪ B)′ and draw a Venn diagram.",
+      "answer": "(A ∪ B)′ = {75}. A and B are disjoint; put 75 outside both circles, within the universal set.",
+      "steps": [
+        "A ∪ B = {15,30,45,60}.",
+        "The complement consists of universal elements not in that union: {75}."
+      ],
+      "image": "answer_keys/figures/BasicMath-F4-2023-venn.png"
+    },
+    {
+      "id": "3(b)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Of 50 students, 35 are boys and 15 girls. Find the probability of choosing a boy randomly.",
+      "answer": "7/10.",
+      "steps": [
+        "Favourable outcomes = 35 boys; total equally likely outcomes = 50 students.",
+        "Probability = 35/50 = 7/10."
+      ]
+    },
+    {
+      "id": "3(b)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Jonika has two shirts (blue, red) and three trousers (black, green, yellow). Use a tree diagram to find P(blue shirt and black trousers).",
+      "answer": "1/6, assuming equally likely independent choices.",
+      "steps": [
+        "First branch to blue or red, each probability 1/2. From each, branch to black, green or yellow trousers, each probability 1/3.",
+        "Only one of the six equally likely outfits is blue-black. Multiply branch probabilities: (1/2)(1/3) = 1/6."
+      ],
+      "image": "answer_keys/figures/BasicMath-F4-2023-outfits.png"
+    },
+    {
+      "id": "4(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Show that A(4,−4), B(−6,−2), C(2,6) form an isosceles triangle.",
+      "answer": "AB = AC = √104 = 2√26, so the triangle is isosceles with vertex A.",
+      "steps": [
+        "AB² = (−6 − 4)² + (−2 + 4)² = 100 + 4 = 104.",
+        "AC² = (2 − 4)² + (6 + 4)² = 4 + 100 = 104. Equal squares imply equal positive lengths."
+      ]
+    },
+    {
+      "id": "4(b)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "A man walks PQ = 4 km on bearing N60°E, then QR = 3 km on N30°W. Draw a labelled diagram.",
+      "answer": "The diagram shows a 4 km north-east leg and a 3 km north-west leg, with north directions at P and Q.",
+      "steps": [
+        "Use north-up axes. From P draw PQ 60° clockwise from north.",
+        "From Q draw QR 30° west of north and label it 3 km. Join P to R for resultant displacement."
+      ],
+      "image": "answer_keys/figures/BasicMath-F4-2023-bearings.png"
+    },
+    {
+      "id": "4(b)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Find resultant displacement from P to R.",
+      "answer": "5 km, direction N23.13°E (bearing approximately 023.13°).",
+      "steps": [
+        "The leg directions are perpendicular. Thus resultant length = √(4² + 3²) = 5 km.",
+        "East component = 4 sin60° − 3 sin30° = 2√3 − 1.5 ≈ 1.9641 km; north component = 4 cos60° + 3 cos30° = 2 + 1.5√3 ≈ 4.5981 km.",
+        "Angle east of north = arctan(1.9641/4.5981) ≈ 23.13°. Displacement must include direction."
+      ]
+    },
+    {
+      "id": "5(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "∠RPQ = ∠PQR = 72° and ∠SPQ = ∠SQP; ∠PSQ = 112°. Find ∠RPS.",
+      "answer": "106°.",
+      "steps": [
+        "In lower isosceles triangle PSQ, base angles = (180 − 112)/2 = 34°.",
+        "At P, ∠RPS spans ∠RPQ plus ∠QPS: 72 + 34 = 106°."
+      ]
+    },
+    {
+      "id": "5(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "A rectangle 72 m by 40 m and a triangle with base 60 m have equal area. Find the triangle height.",
+      "answer": "96 m.",
+      "steps": [
+        "Rectangle area = 72 × 40 = 2880 m².",
+        "(1/2) × 60 × h = 2880, so 30h = 2880 and h = 96 m."
+      ]
+    },
+    {
+      "id": "6(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Anna walks 24 km each day. Find her distance in 2 days in metres.",
+      "answer": "48,000 m.",
+      "steps": [
+        "Distance = 24 × 2 = 48 km.",
+        "Multiply by 1000 to convert kilometres into metres."
+      ]
+    },
+    {
+      "id": "6(b)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Buying price C is proportional to selling price s; when s = 20,000, C = 18,000. Give the equation.",
+      "answer": "C = 0.9s.",
+      "steps": [
+        "Write C = ks, then k = 18,000/20,000 = 0.9.",
+        "Substitute the constant into the proportionality equation."
+      ]
+    },
+    {
+      "id": "6(b)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Find the new selling price if buying price rises by 15%.",
+      "answer": "Tsh 23,000.",
+      "steps": [
+        "New buying price = 18,000 × 1.15 = 20,700.",
+        "Keep C = 0.9s, so s = 20,700/0.9 = 23,000."
+      ]
+    },
+    {
+      "id": "7(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Ally and Jane share Tsh 64,000 in ratio 3:5. Find the difference in their shares.",
+      "answer": "Tsh 16,000.",
+      "steps": [
+        "Total parts = 8; one part = 64,000/8 = 8,000.",
+        "Shares are 24,000 and 40,000; difference = 16,000."
+      ]
+    },
+    {
+      "id": "7(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Extract Mrisho’s trial balance as at 28 February 2022 from his cash account.",
+      "answer": "Debits: Purchases 2,400,000; Transport 200,000; Cash 900,000. Credits: Capital 1,500,000; Sales 2,000,000. Each total = Tsh 3,500,000.",
+      "steps": [
+        "Total purchases = 1,000,000 + 1,400,000 = 2,400,000; sales = 1,200,000 + 800,000 = 2,000,000.",
+        "Expenses, purchases and remaining cash have debit balances; sales and capital have credit balances.",
+        "Check debits 2,400,000 + 200,000 + 900,000 = 3,500,000 and credits 1,500,000 + 2,000,000 = 3,500,000."
+      ]
+    },
+    {
+      "id": "8(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Write the first four terms of aₙ = n(2n − 1) and say whether it is an AP or GP.",
+      "answer": "1,6,15,28; neither an AP nor a GP.",
+      "steps": [
+        "Substitute n = 1,2,3,4: 1×1,2×3,3×5,4×7.",
+        "Differences are 5,9,13, which are unequal; ratios 6,15/6,28/15 are also unequal. There is neither constant difference nor constant ratio."
+      ]
+    },
+    {
+      "id": "8(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "The first eleven AP terms sum to 517 and the first term is 7. Find the sum of the fourth and ninth terms.",
+      "answer": "102.",
+      "steps": [
+        "S₁₁ = (11/2)[2(7) + 10d] = 517; divide by 11/2 to obtain 14 + 10d = 94, so d = 8.",
+        "T₄ = 7 + 3(8) = 31; T₉ = 7 + 8(8) = 71; sum = 31 + 71 = 102."
+      ]
+    },
+    {
+      "id": "9(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "A rectangular plot is 40 m long with diagonal 50 m. Find its width.",
+      "answer": "30 m.",
+      "steps": [
+        "Pythagoras gives width² = 50² − 40² = 2500 − 1600 = 900.",
+        "Take the positive square root: width = 30 m."
+      ]
+    },
+    {
+      "id": "9(b)(i)",
+      "section": "Section A — Worked solutions",
+      "prompt": "A is acute and 13 cos A − 5 = 0. Find tan A without tables.",
+      "answer": "12/5.",
+      "steps": [
+        "cos A = 5/13, so take adjacent = 5 and hypotenuse = 13.",
+        "The opposite side is √(13² − 5²) = 12. Hence tan A = opposite/adjacent = 12/5."
+      ]
+    },
+    {
+      "id": "9(b)(ii)",
+      "section": "Section A — Worked solutions",
+      "prompt": "AB = 8 m, AC = 5 m and ∠BAC = 60°. Find BC.",
+      "answer": "7 m.",
+      "steps": [
+        "Cosine rule: BC² = 8² + 5² − 2(8)(5)cos60°.",
+        "BC² = 64 + 25 − 80(1/2) = 49; BC = 7 m."
+      ]
+    },
+    {
+      "id": "10(a)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Roots of ax² + bx + c = 0 are −3 and 1/3; a,b,c are integers. Find a,b,c.",
+      "answer": "Simplest integer coefficients: a = 3, b = 8, c = −3. Any common nonzero integer multiple gives the same roots.",
+      "steps": [
+        "Form factors (x + 3)(3x − 1) = 0.",
+        "Expand to 3x² + 8x − 3 = 0 and compare coefficients."
+      ],
+      "tip": "The roots alone do not uniquely fix a,b,c unless a normalisation is specified. The displayed answer uses coprime integer coefficients."
+    },
+    {
+      "id": "10(b)",
+      "section": "Section A — Worked solutions",
+      "prompt": "Solve 10 − x ≤ 3(x + 10) for integer x; state the first four values.",
+      "answer": "x ≥ −5, x ∈ ℤ; first four: −5,−4,−3,−2.",
+      "steps": [
+        "Expand: 10 − x ≤ 3x + 30. Move terms: −20 ≤ 4x.",
+        "Divide by positive 4 without reversing the inequality: x ≥ −5."
+      ]
+    },
+    {
+      "id": "11(a)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Classes 40–49,…,90–99 have frequencies 2,4,7,9,5,3. Find the median to 2 decimal places.",
+      "answer": "71.72 marks.",
+      "steps": [
+        "Cumulative frequencies are 2,6,13,22,27,30. N/2 = 15 lies in 70–79.",
+        "Use boundaries and interpolation: median = 69.5 + [(15 − 13)/9] × 10 = 71.7222…, so 71.72."
+      ]
+    },
+    {
+      "id": "11(b)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Find the grouped mean to four significant figures.",
+      "answer": "71.17 marks.",
+      "steps": [
+        "Midpoints are 44.5,54.5,64.5,74.5,84.5,94.5. Products with frequencies are 89,218,451.5,670.5,422.5,283.5; sum = 2135.",
+        "Mean = 2135/30 = 71.1666… . To four significant figures, retain 7,1,1,6 and round the last 6 up to 7."
+      ]
+    },
+    {
+      "id": "11(c)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Draw a histogram and estimate its mode.",
+      "answer": "Mode ≈ 72.83 marks.",
+      "steps": [
+        "Use continuous class boundaries 39.5,49.5,…,99.5 and adjacent bars of heights 2,4,7,9,5,3.",
+        "The modal class is 70–79. d₁ = 9 − 7 = 2, d₂ = 9 − 5 = 4.",
+        "Mode = 69.5 + [2/(2 + 4)] × 10 = 72.8333… . The histogram includes the graphical interpolation."
+      ],
+      "image": "answer_keys/figures/BasicMath-F4-2023-histogram.png"
+    },
+    {
+      "id": "12(a)(i)",
+      "section": "Section B — Worked solutions",
+      "prompt": "A cube has edge 8 cm. Find total surface area.",
+      "answer": "384 cm².",
+      "steps": [
+        "Each of six faces has area 8² = 64 cm².",
+        "Total area = 6 × 64 = 384 cm²."
+      ]
+    },
+    {
+      "id": "12(a)(ii)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Find the angle between space diagonal AF and base plane ABCD, to the nearest degree.",
+      "answer": "35°.",
+      "steps": [
+        "F projects onto C in the base. AC = 8√2 and CF = 8, so the line-plane angle is ∠FAC.",
+        "tan ∠FAC = CF/AC = 1/√2; ∠FAC ≈ 35.264°, rounding to 35°."
+      ]
+    },
+    {
+      "id": "12(b)",
+      "section": "Section B — Worked solutions",
+      "prompt": "A plane flies from 7°S,45°E to 9°N,45°E at 500 km/h, departing 8:00 a.m. Use 112 km per degree. Find arrival time.",
+      "answer": "Approximately 11:35 a.m. the same day (exactly 11:35:02.4 a.m. in the stated model).",
+      "steps": [
+        "Latitude difference = 7 + 9 = 16°. Distance = 16 × 112 = 1792 km.",
+        "Time = 1792/500 = 3.584 hours = 3 hours 35.04 minutes. Add to 8:00 a.m."
+      ]
+    },
+    {
+      "id": "13(a)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Solve [[x,4],[3,y]] + [[3x,5],[−3,7]] = [[8,9],[0,9]].",
+      "answer": "x = 2; y = 2.",
+      "steps": [
+        "Equate corresponding entries: x + 3x = 8 and y + 7 = 9.",
+        "Thus 4x = 8 and x = 2; y = 2. The other entries check: 4 + 5 = 9 and 3 − 3 = 0."
+      ]
+    },
+    {
+      "id": "13(b)(i)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Anna answers 49 questions, scoring +2 per correct and −1 per incorrect for total 62. Represent in matrix form.",
+      "answer": "[[1,1],[2,−1]][[x],[y]] = [[49],[62]].",
+      "steps": [
+        "Counts give x + y = 49. Scores give 2x − y = 62.",
+        "Put the coefficients of x and y in rows, and totals in the right-hand column vector."
+      ]
+    },
+    {
+      "id": "13(b)(ii)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Use the inverse matrix method to find the correct answers.",
+      "answer": "37 correct answers (and 12 incorrect).",
+      "steps": [
+        "A = [[1,1],[2,−1]] has determinant −3. A⁻¹ = (1/−3)[[−1,−1],[−2,1]].",
+        "Multiply by [[49],[62]]: (1/−3)[[−111],[−36]] = [[37],[12]]. Check 2(37) − 12 = 62."
+      ]
+    },
+    {
+      "id": "13(c)(i)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Rotate A(1,3),B(2,5),C(4,1) by 180° anticlockwise about the origin.",
+      "answer": "A′(−1,−3), B′(−2,−5), C′(−4,−1).",
+      "steps": [
+        "A 180° rotation has matrix [[−1,0],[0,−1]].",
+        "It maps (x,y) to (−x,−y); change both signs of every vertex."
+      ]
+    },
+    {
+      "id": "13(c)(ii)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Draw ABC and A′B′C′ on the same axes.",
+      "answer": "The labelled original triangle is in quadrant I and its 180° image is in quadrant III.",
+      "steps": [
+        "Plot A(1,3),B(2,5),C(4,1) and join them.",
+        "Plot the three negative-coordinate images and join them, using a distinct line style. Use equal horizontal and vertical scales."
+      ],
+      "image": "answer_keys/figures/BasicMath-F4-2023-rotation.png"
+    },
+    {
+      "id": "14(a)(i)",
+      "section": "Section B — Worked solutions",
+      "prompt": "For integer x, f(x) = −2 when 0 < x ≤ 5; f(x) = x + 1 when −6 ≤ x < 0. Find f(4), f(−5).",
+      "answer": "f(4) = −2; f(−5) = −4.",
+      "steps": [
+        "4 lies in the positive branch, where the function is the constant −2.",
+        "−5 lies in the negative branch, so f(−5) = −5 + 1 = −4."
+      ]
+    },
+    {
+      "id": "14(a)(iii)",
+      "section": "Section B — Worked solutions",
+      "prompt": "State the integer domain and range of that piecewise function.",
+      "answer": "Domain = {−6,−5,−4,−3,−2,−1,1,2,3,4,5}. Range = {−5,−4,−3,−2,−1,0}.",
+      "steps": [
+        "The two input intervals include the integers −6 through −1 and 1 through 5; zero is excluded.",
+        "The negative branch outputs −5 through 0; the positive branch adds only −2, already in that set."
+      ],
+      "tip": "The paper labels this part (iii) after (i); the original label is retained."
+    },
+    {
+      "id": "14(b)",
+      "section": "Section B — Worked solutions",
+      "prompt": "Type A aircraft need 6 dam² parking and cost 20 billion; B need 2 dam² and cost 30 billion. Limits are 60 dam² and 480 billion. Find the greatest aircraft count.",
+      "answer": "18 aircraft: 6 of type A and 12 of type B.",
+      "steps": [
+        "For nonnegative integer counts x,y, constraints are 3x + y ≤ 30 and 2x + 3y ≤ 48. Objective = x + y.",
+        "Feasible vertices are (0,0),(10,0),(6,12),(0,16), giving totals 0,10,18,16. The intersection is obtained from 3x + y = 30 and 2x + 3y = 48.",
+        "At (6,12), parking = 6(6) + 2(12) = 60 and cost = 20(6) + 30(12) = 480. The integer solution reaches both limits.",
+        "For a direct optimality bound, add 1/7 of the first inequality and 2/7 of the second: x + y ≤ 18."
+      ]
+    }
+  ],
+  "summaries": {
+    "Section A — Worked solutions": "Inspect recurring-decimal dots and operation signs before calculating. Match every answer to the stated method and explain when coefficients are determined only up to a common factor.",
+    "Section B — Worked solutions": "Use continuous class boundaries for grouped interpolation. Draw graphs with equal scales, respect integer domains, and test all relevant feasible vertices."
+  }
+}

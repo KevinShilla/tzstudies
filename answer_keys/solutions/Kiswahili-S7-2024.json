@@ -1,0 +1,376 @@
+{
+  "exam": "Kiswahili-S7-2024.pdf",
+  "output": "Kiswahili-S7-2024-AnswerKey.pdf",
+  "subject": "Kiswahili",
+  "level": "Darasa la Saba",
+  "year": "2024",
+  "code": "01",
+  "exam_type": "Mtihani wa Kumaliza Elimu ya Msingi (PSLE)",
+  "question_count": "Maswali 6, vipengele 31",
+  "language": "sw",
+  "reviewed": true,
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "2(vii)",
+    "2(viii)",
+    "2(ix)",
+    "2(x)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "6"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Sehemu A: Kusikiliza",
+      "prompt": "Mazungumzo ya Mbayuwayu na Kong’ota yalifanyika wapi?",
+      "steps": [
+        "Tofautisha mahali bibi aliposimulia na mahali ndege wawili walipozungumza.",
+        "Mbayuwayu alimtembelea Kong’ota na akakaribishwa ndani."
+      ],
+      "answer": "C — Nyumbani kwa Kong’ota."
+    },
+    {
+      "id": "1(ii)",
+      "section": "Sehemu A: Kusikiliza",
+      "prompt": "Kwa nini Mbayuwayu alitaka mdomo mgumu?",
+      "steps": [
+        "Tambua uwezo aliouvutia kwa Kong’ota.",
+        "Alitaka kutumia mdomo kwa vitu vigumu kama alivyoona kwa mwenzake."
+      ],
+      "answer": "A — Ili aweze kutoboa vitu vigumu."
+    },
+    {
+      "id": "1(iii)",
+      "section": "Sehemu A: Kusikiliza",
+      "prompt": "Nani alisimulia hadithi?",
+      "steps": [
+        "Angalia mwanzo na mwisho wa hadithi ya kusikiliza.",
+        "Bibi ndiye aliyekuwa anasimulia kwa waliokaa naye."
+      ],
+      "answer": "C — Bibi."
+    },
+    {
+      "id": "1(iv)",
+      "section": "Sehemu A: Kusikiliza",
+      "prompt": "Kong’ota alimshauri Mbayuwayu afanye nini?",
+      "steps": [
+        "Tambua kitendo kilichokusudiwa kufanya mdomo kuwa mgumu.",
+        "Ushauri ulimwelekeza kuugonga mdomo kwenye jiwe kubwa."
+      ],
+      "answer": "B — Agonge mdomo kwenye jabali."
+    },
+    {
+      "id": "1(v)",
+      "section": "Sehemu A: Kusikiliza",
+      "prompt": "Kwa nini Mbayuwayu alisita kufuata ushauri?",
+      "steps": [
+        "Angalia alichotambua alipokaribia jabali.",
+        "Alijiondoa kwenye hatari alipoona matokeo yake."
+      ],
+      "answer": "E — Alihofia kufa."
+    },
+    {
+      "id": "2(i)",
+      "section": "Sehemu A: Lugha",
+      "prompt": "Picha ya mkanda inategua kitendawili kipi?",
+      "steps": [
+        "Mkanda hupitia vitanzi vinavyozunguka kiuno.",
+        "Ncha zake hukutana sehemu ya kufunga, kwa kawaida mbele."
+      ],
+      "answer": "A — Pita huku nipite kule tukutane katikati."
+    },
+    {
+      "id": "2(ii)",
+      "section": "Sehemu A: Lugha",
+      "prompt": "Picha ya nazi kwenye mnazi inategua kitendawili kipi?",
+      "steps": [
+        "Tambua nazi kama matunda yaliyo juu ya mnazi.",
+        "Nazi hufananishwa na mayai, na matawi ya mnazi na miiba."
+      ],
+      "answer": "E — Kuku wangu hutagia miibani.",
+      "tip": "Chaguo C, Kuku wangu katagia mibani, pia limetumia fumbo hilo hilo. Picha ni nazi; C na E zina maana inayofanana, hivyo swali lina chaguo linalojirudia."
+    },
+    {
+      "id": "2(iii)",
+      "section": "Sehemu A: Lugha",
+      "prompt": "Nahau hatukufua dafu ina maana gani?",
+      "steps": [
+        "Fua dafu humaanisha kufanikiwa au kushinda.",
+        "Hatukufua ni ukanushi, hivyo kazi haikufanikiwa."
+      ],
+      "answer": "C — Tulishindwa."
+    },
+    {
+      "id": "2(iv)",
+      "section": "Sehemu A: Lugha",
+      "prompt": "Gobosi ni mchoyo; angehitaji sifa gani ili apewe zawadi?",
+      "steps": [
+        "Kuchoyo ni kutopenda kuwapa wengine.",
+        "Sifa ya kinyume ni ukarimu, yaani moyo wa kutoa."
+      ],
+      "answer": "B — Ukarimu."
+    },
+    {
+      "id": "2(v)",
+      "section": "Sehemu A: Lugha",
+      "prompt": "Kwa nini uwasilishaji wa shairi na ngonjera hutofautiana?",
+      "steps": [
+        "Shairi huwasilishwa kwa kughani.",
+        "Ngonjera hutambwa kwa majibizano ya wahusika."
+      ],
+      "answer": "C — Shairi linaghanwa na ngonjera inatambwa."
+    },
+    {
+      "id": "2(vi)",
+      "section": "Sehemu A: Lugha",
+      "prompt": "Ninyi ni wanafunzi wastahimilivu. Ninyi ni nafsi ipi?",
+      "steps": [
+        "Ninyi humrejelea kundi linalozungumziwa moja kwa moja.",
+        "Kuzungumza na watu ni nafsi ya pili; ninyi ni wingi."
+      ],
+      "answer": "A — Nafsi ya pili wingi."
+    },
+    {
+      "id": "2(vii)",
+      "section": "Sehemu A: Lugha",
+      "prompt": "Badili kauli ya Ngunga, Siwezi kushindwa kujibu mtihani, kuwa taarifa.",
+      "steps": [
+        "Badili nafsi ya kwanza siwezi kwenda nafsi ya tatu hawezi.",
+        "Tumia kwamba na uondoe alama za kunukuu."
+      ],
+      "answer": "D — Ngunga alisema kwamba hawezi kushindwa kujibu mtihani."
+    },
+    {
+      "id": "2(viii)",
+      "section": "Sehemu A: Lugha",
+      "prompt": "Methali ipi ina maana sawa na aliye juu mngoje chini?",
+      "steps": [
+        "Methali inaonya kuwa nafasi ya juu au mafanikio hayadumu daima.",
+        "Mpanda ngazi hushuka inaeleza kupanda na baadaye kushuka."
+      ],
+      "answer": "A — Mpanda ngazi hushuka."
+    },
+    {
+      "id": "2(ix)",
+      "section": "Sehemu A: Lugha",
+      "prompt": "Kanusha: Wewe ulikuwa mpole kupitiliza.",
+      "steps": [
+        "Dumisha nafsi ya pili umoja na wakati uliopita.",
+        "Ukanushi wa ulikuwa ni haukuwa."
+      ],
+      "answer": "D — Wewe haukuwa mpole kupitiliza."
+    },
+    {
+      "id": "2(x)",
+      "section": "Sehemu A: Lugha",
+      "prompt": "Yakinisha: Mgonjwa hawezi kunywa uji mwenyewe.",
+      "steps": [
+        "Hawezi hukanusha uwezo wa sasa.",
+        "Uyakinishi wake ni anaweza; usibadili wakati kuwa uliopita au ujao."
+      ],
+      "answer": "C — Mgonjwa anaweza kunywa uji mwenyewe."
+    },
+    {
+      "id": "3(i)",
+      "section": "Sehemu A: Alama za Uandishi",
+      "prompt": "Alama ipi hutenganisha vitu vilivyoorodheshwa?",
+      "steps": [
+        "Katika orodha, pumziko dogo hutenganisha kipengele kimoja na kingine.",
+        "Alama hiyo ni mkato."
+      ],
+      "answer": "E — Mkato (,)."
+    },
+    {
+      "id": "3(ii)",
+      "section": "Sehemu A: Alama za Uandishi",
+      "prompt": "Alama ipi huonesha maneno halisi ya mzungumzaji?",
+      "steps": [
+        "Kauli halisi hufunguliwa na kufungwa kwa alama za kunukuu.",
+        "Chagua funguana na funga semi."
+      ],
+      "answer": "G — Funguana na funga semi (“ ”)."
+    },
+    {
+      "id": "3(iii)",
+      "section": "Sehemu A: Alama za Uandishi",
+      "prompt": "Alama ipi huonesha pumziko kubwa katika usomaji?",
+      "steps": [
+        "Mwisho wa sentensi kamili huleta pumziko kubwa.",
+        "Nukta hufunga sentensi hiyo."
+      ],
+      "answer": "A — Nukta (.)."
+    },
+    {
+      "id": "3(iv)",
+      "section": "Sehemu A: Alama za Uandishi",
+      "prompt": "Alama ipi hutumika kutafuta jibu kuhusu jambo?",
+      "steps": [
+        "Sentensi inayouliza jambo ni swali.",
+        "Swali la moja kwa moja huisha kwa kiulizo."
+      ],
+      "answer": "C — Kiulizo (?)."
+    },
+    {
+      "id": "3(v)",
+      "section": "Sehemu A: Alama za Uandishi",
+      "prompt": "Alama ipi huonesha hisia za furaha au huzuni?",
+      "steps": [
+        "Kauli yenye hisia kubwa hutumia alama ya mshangao.",
+        "Chagua alama ya !."
+      ],
+      "answer": "B — Mshangao (!)."
+    },
+    {
+      "id": "4(i)",
+      "section": "Sehemu B: Uundaji wa Majina",
+      "prompt": "Badili ongoza kuwa jina.",
+      "steps": [
+        "Ongoza ni tendo la kuelekeza wengine.",
+        "Jina la hali au shughuli hiyo ni uongozi."
+      ],
+      "answer": "Uongozi."
+    },
+    {
+      "id": "4(ii)",
+      "section": "Sehemu B: Uundaji wa Majina",
+      "prompt": "Badili tamka kuwa jina.",
+      "steps": [
+        "Tamka ni kutoa sauti za maneno.",
+        "Jina la namna ya kuyatoa ni matamshi."
+      ],
+      "answer": "Matamshi."
+    },
+    {
+      "id": "4(iii)",
+      "section": "Sehemu B: Uundaji wa Majina",
+      "prompt": "Badili saka kuwa jina.",
+      "steps": [
+        "Saka ni kutafuta kwa juhudi.",
+        "Jina linalotokana na tendo hilo ni msako."
+      ],
+      "answer": "Msako."
+    },
+    {
+      "id": "4(iv)",
+      "section": "Sehemu B: Uundaji wa Majina",
+      "prompt": "Badili lima kuwa jina.",
+      "steps": [
+        "Lima ni kufanya kazi shambani.",
+        "Jina la shughuli hiyo ni kilimo."
+      ],
+      "answer": "Kilimo."
+    },
+    {
+      "id": "4(v)",
+      "section": "Sehemu B: Uundaji wa Majina",
+      "prompt": "Badili cheka kuwa jina.",
+      "steps": [
+        "Cheka ni tendo la kutoa sauti kwa furaha au mzaha.",
+        "Jina linalotokana na tendo ni kicheko."
+      ],
+      "answer": "Kicheko."
+    },
+    {
+      "id": "5(i)",
+      "section": "Sehemu B: Ufahamu wa Ngonjera",
+      "prompt": "Pendekeza kichwa cha ngonjera ya mchwa, panya na binadamu.",
+      "steps": [
+        "Mchwa na panya wanajisifu kuhusu uharibifu wanaosababisha.",
+        "Binadamu anataka kuondoa uharibifu huo; chagua kichwa kinachojumuisha wote."
+      ],
+      "answer": "Waharibifu wa Mali.",
+      "tip": "Kichwa kingine kinachoendana na maudhui, kama Mchwa na Panya, kinaweza kukubalika."
+    },
+    {
+      "id": "5(ii)",
+      "section": "Sehemu B: Ufahamu wa Ngonjera",
+      "prompt": "Fanicha ina maana gani?",
+      "steps": [
+        "Mchwa anataja vifaa vinavyotengenezwa hasa kwa mbao.",
+        "Fanicha ni samani kama meza, viti na makabati."
+      ],
+      "answer": "Samani, kwa mfano meza, viti na makabati."
+    },
+    {
+      "id": "5(iii)",
+      "section": "Sehemu B: Ufahamu wa Ngonjera",
+      "prompt": "Nafaka ina maana gani?",
+      "steps": [
+        "Panya anazungumzia vyakula anavyokula.",
+        "Nafaka ni mbegu za mazao ya chakula, kwa mfano mahindi, mchele na mtama."
+      ],
+      "answer": "Mbegu za mazao ya chakula, kama mahindi, mchele na mtama."
+    },
+    {
+      "id": "5(iv)",
+      "section": "Sehemu B: Ufahamu wa Ngonjera",
+      "prompt": "Binadamu alikusudia kufanya nini kwa mchwa na panya?",
+      "steps": [
+        "Soma ubeti wa mwisho, ambapo binadamu anawajibu.",
+        "Anaeleza nia ya kuwatokomeza kwa kuwa wanamsababishia hasara."
+      ],
+      "answer": "Aliamua kuwatokomeza kwa kuwa waliharibu mali yake."
+    },
+    {
+      "id": "5(v)",
+      "section": "Sehemu B: Ufahamu wa Ngonjera",
+      "prompt": "Taja funzo ulilopata.",
+      "steps": [
+        "Fikiria hasara za kuharibu samani na vyakula.",
+        "Funzo lifafanue namna ya kulinda mali dhidi ya viumbe waharibifu."
+      ],
+      "answer": "Tunapaswa kulinda mali na chakula dhidi ya viumbe waharibifu.",
+      "tip": "Hili ni funzo la ngonjera; si maelekezo ya kushughulikia sumu."
+    },
+    {
+      "id": "6",
+      "section": "Sehemu C: Kadi ya Mwaliko",
+      "prompt": "Andaa kadi ya Shukuru Amani kwa Zawadi Baraka: mahafali ya Shule ya Msingi Mzizima, viwanja vya shule, 25/10/2024, saa 2:00 asubuhi hadi 6:00 mchana.",
+      "steps": [
+        "Andika kichwa cha kadi na jina la anayealikwa.",
+        "Eleza hafla, jina la shule, mahali, tarehe na muda uliotolewa.",
+        "Malizia kwa mwaliko wa heshima na jina la mwalikaji. Mfano ufuatao ni kadi kamili."
+      ],
+      "answer": "KADI YA MWALIKO\nKwa: Zawadi Baraka\nNinakualika kwa furaha kwenye Mahafali ya Kuhitimu Elimu ya Msingi ya Shule ya Msingi Mzizima.\nMahali: Viwanja vya Shule ya Msingi Mzizima.\nTarehe: 25 Oktoba 2024.\nMuda: Saa 2:00 asubuhi hadi saa 6:00 mchana.\nKaribu tusherehekee pamoja.\nMwalikaji: Shukuru Amani."
+    }
+  ],
+  "summaries": {
+    "Sehemu A: Kusikiliza": "Tenganisha msimulizi na wahusika, na tambua sababu pamoja na mahali pa tukio.",
+    "Sehemu A: Lugha": "Tambua kitu katika picha kabla ya kutegua kitendawili. Dumisha nafsi na wakati unapokanusha au kuripoti kauli.",
+    "Sehemu A: Alama za Uandishi": "Mkato hutenganisha orodha; nukta humaliza sentensi; kiulizo huuliza; mshangao huonesha hisia.",
+    "Sehemu B: Uundaji wa Majina": "Jina linalotokana na tendo linaweza kutaja shughuli, hali au kitu kinachotokana na tendo hilo.",
+    "Sehemu B: Ufahamu wa Ngonjera": "Tumia matendo na kauli za wahusika kujibu; funzo liendane na maudhui.",
+    "Sehemu C: Kadi ya Mwaliko": "Kadi kamili hutaja anayealikwa, hafla, mahali, tarehe, muda na mwalikaji."
+  },
+  "references": [
+    {
+      "title": "NECTA: Hadithi ya kusikiliza Kiswahili PSLE 2024",
+      "url": "https://maktaba.tetea.org/past-papers/psle/kiswahili/Kiswahili-Imla-S7-2024.pdf"
+    }
+  ],
+  "sha256": "cb1668dea7f272e4e55e2962f14bcc59d6092870241c5a6bb59a8243e4fd73d6"
+}

@@ -1,0 +1,470 @@
+{
+  "exam": "BasicMath-F2-2022.pdf",
+  "output": "BasicMath-F2-2022-AnswerKey.pdf",
+  "subject": "Basic Mathematics",
+  "level": "Form Two",
+  "year": "2022",
+  "code": "041",
+  "exam_type": "Form Two National Assessment (FTNA)",
+  "question_count": "10 compulsory questions; 39 answered parts",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "36814d4db68b74071d091711f3d678ed68c459ffa74a029f7dec4568c3cead11",
+  "expected_parts": [
+    "1(a)(i)",
+    "1(a)(ii)",
+    "1(b)",
+    "2(a)(i)",
+    "2(a)(ii)",
+    "2(b)(i)",
+    "2(b)(ii)",
+    "3(a)(i)",
+    "3(a)(ii)",
+    "3(a)(iii)",
+    "3(a)(iv)",
+    "3(b)(i)",
+    "3(b)(ii)",
+    "4(a)",
+    "4(b)",
+    "5(a)",
+    "5(b)(i)",
+    "5(b)(ii)",
+    "6(a)",
+    "6(b)(i)",
+    "6(b)(ii)",
+    "7(a)(i)",
+    "7(a)(ii)",
+    "7(b)",
+    "8(a)(i)",
+    "8(a)(ii)",
+    "8(b)(i)",
+    "8(b)(ii)",
+    "9(a)",
+    "9(b)",
+    "10(a)(i)",
+    "10(a)(ii)",
+    "10(a)(iii)",
+    "10(a)(iv)",
+    "10(b)(i)",
+    "10(b)(ii)",
+    "10(b)(iii)",
+    "10(b)(iv)",
+    "10(b)(v)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)(i)",
+      "section": "Question 1 — Numbers and fractions",
+      "prompt": "Mwajuma deposits Tsh 360,000. Each withdrawal costs Tsh 1,000. What remains after withdrawing Tsh 106,000?",
+      "answer": "Tsh 253,000.",
+      "steps": [
+        "Total account deduction = 106,000 + 1,000 = 107,000.",
+        "Balance = 360,000 − 107,000 = 253,000."
+      ]
+    },
+    {
+      "id": "1(a)(ii)",
+      "section": "Question 1 — Numbers and fractions",
+      "prompt": "What remains after a further withdrawal of Tsh 50,000?",
+      "answer": "Tsh 202,000.",
+      "steps": [
+        "Begin with the previous balance of 253,000.",
+        "Deduct the second withdrawal and its fee: 253,000 − 50,000 − 1,000 = 202,000."
+      ]
+    },
+    {
+      "id": "1(b)",
+      "section": "Question 1 — Numbers and fractions",
+      "prompt": "Rewrite 2.43̇ as a mixed fraction; only the digit 3 repeats.",
+      "answer": "2 13/30.",
+      "steps": [
+        "Let x = 2.43333… . Then 100x = 243.333… and 10x = 24.333… .",
+        "Subtract: 90x = 219, hence x = 219/90 = 73/30.",
+        "Divide 73 by 30 to obtain 2 13/30."
+      ],
+      "tip": "The dot is over 3 only: this is 2.4333…, not the terminating 2.43 or repeating 2.4343… ."
+    },
+    {
+      "id": "2(a)(i)",
+      "section": "Question 2 — Units and approximation",
+      "prompt": "Find the total of 30.7 kg, 13.44 kg and 18.26 kg to the nearest whole number.",
+      "answer": "62 kg.",
+      "steps": [
+        "Add exactly: 30.70 + 13.44 + 18.26 = 62.40 kg.",
+        "The tenths digit is 4, so round down to 62 kg."
+      ]
+    },
+    {
+      "id": "2(a)(ii)",
+      "section": "Question 2 — Units and approximation",
+      "prompt": "Round dog 30.7 kg to ones, cat 13.44 kg to 1 decimal place, and goat 18.26 kg to 3 significant figures.",
+      "answer": "Dog: 31 kg; cat: 13.4 kg; goat: 18.3 kg.",
+      "steps": [
+        "30.7 rounds up because 7 ≥ 5; 13.44 rounds down at tenths because the next digit is 4.",
+        "In 18.26, retain 1,8,2 and inspect the following 6; raise the last retained digit to 3."
+      ]
+    },
+    {
+      "id": "2(b)(i)",
+      "section": "Question 2 — Units and approximation",
+      "prompt": "Add 8 km 799 m 400 mm and 5 km 300 m 609 mm.",
+      "answer": "14 km 100 m 9 mm.",
+      "steps": [
+        "400 + 609 = 1009 mm = 1 m 9 mm.",
+        "799 + 300 + 1 = 1100 m = 1 km 100 m.",
+        "8 + 5 + 1 = 14 km; retain the 100 m and 9 mm."
+      ]
+    },
+    {
+      "id": "2(b)(ii)",
+      "section": "Question 2 — Units and approximation",
+      "prompt": "Convert 14 km 100 m 9 mm into metres.",
+      "answer": "14,100.009 m.",
+      "steps": [
+        "14 km = 14,000 m; 9 mm = 0.009 m.",
+        "Add 14,000 + 100 + 0.009 = 14,100.009 m."
+      ]
+    },
+    {
+      "id": "3(a)(i)",
+      "section": "Question 3 — Circles and area",
+      "prompt": "Draw a circle centred at O and indicate arc AB.",
+      "answer": "Arc AB is the curved part of the circumference between A and B, shown in green.",
+      "steps": [
+        "Draw a circle and mark its centre O.",
+        "Place A and B on the circumference and highlight the curve joining them."
+      ],
+      "image": "answer_keys/figures/BasicMath-F2-2022-circle.png"
+    },
+    {
+      "id": "3(a)(ii)",
+      "section": "Question 3 — Circles and area",
+      "prompt": "Indicate chord CD on your circle.",
+      "answer": "Chord CD is the straight segment joining C and D on the circumference.",
+      "steps": [
+        "Mark C and D as two points on the circle.",
+        "Join them by a straight line; this is a chord, not the curved arc."
+      ]
+    },
+    {
+      "id": "3(a)(iii)",
+      "section": "Question 3 — Circles and area",
+      "prompt": "Indicate sector AOB.",
+      "answer": "Sector AOB is the region bounded by OA, OB and arc AB (shaded in the diagram).",
+      "steps": [
+        "Draw radii OA and OB from the centre.",
+        "Shade the region enclosed by those radii and the arc, rather than the region cut off by a chord."
+      ]
+    },
+    {
+      "id": "3(a)(iv)",
+      "section": "Question 3 — Circles and area",
+      "prompt": "Indicate radius AO.",
+      "answer": "AO is a radius.",
+      "steps": [
+        "The centre is O and A lies on the circumference.",
+        "The straight line from centre to circumference is a radius."
+      ]
+    },
+    {
+      "id": "3(b)(i)",
+      "section": "Question 3 — Circles and area",
+      "prompt": "A square carpet has side 14 m. Find the area of the largest circular carpet cut from it.",
+      "answer": "154 m² (using π = 22/7).",
+      "steps": [
+        "The largest inscribed circle has diameter 14 m and radius 7 m.",
+        "A = πr² = (22/7) × 7² = 154 m²."
+      ]
+    },
+    {
+      "id": "3(b)(ii)",
+      "section": "Question 3 — Circles and area",
+      "prompt": "Find the area remaining after cutting the circular carpet.",
+      "answer": "42 m².",
+      "steps": [
+        "Square area = 14² = 196 m².",
+        "Remaining area = 196 − 154 = 42 m²."
+      ]
+    },
+    {
+      "id": "4(a)",
+      "section": "Question 4 — Algebra",
+      "prompt": "Solve a/2 − b/5 = 1 and 3b = 24 + a using elimination.",
+      "answer": "a = 6; b = 10.",
+      "steps": [
+        "Multiply the first equation by 10: 5a − 2b = 10. Rewrite the second as a − 3b = −24.",
+        "Multiply the second by 5: 5a − 15b = −120. Subtract it from the first: 13b = 130, so b = 10.",
+        "Then a = 3(10) − 24 = 6. Check 6/2 − 10/5 = 1."
+      ]
+    },
+    {
+      "id": "4(b)",
+      "section": "Question 4 — Algebra",
+      "prompt": "A book’s length exceeds its width by 5 cm and its area is 50 cm². Find its dimensions.",
+      "answer": "Width = 5 cm; length = 10 cm.",
+      "steps": [
+        "Let width be w > 0 and length w + 5. Then w(w + 5) = 50.",
+        "w² + 5w − 50 = 0 becomes (w + 10)(w − 5) = 0.",
+        "Reject w = −10 because a length is positive; w = 5 gives length 10 cm."
+      ]
+    },
+    {
+      "id": "5(a)",
+      "section": "Question 5 — Ratio and interest",
+      "prompt": "Asha gets twice Juma’s share of Tsh 630,000. How much does Asha receive?",
+      "answer": "Tsh 420,000.",
+      "steps": [
+        "The ratio Asha:Juma = 2:1, giving 3 equal parts.",
+        "Asha receives (2/3) × 630,000 = 420,000."
+      ]
+    },
+    {
+      "id": "5(b)(i)",
+      "section": "Question 5 — Ratio and interest",
+      "prompt": "A deposit earns simple interest of Tsh 900,000 in 4 years at 3% per annum. Find the principal.",
+      "answer": "Tsh 7,500,000.",
+      "steps": [
+        "Use I = Prt/100; solve for P = 100I/(rt).",
+        "P = (100 × 900,000)/(3 × 4) = 7,500,000."
+      ]
+    },
+    {
+      "id": "5(b)(ii)",
+      "section": "Question 5 — Ratio and interest",
+      "prompt": "Find the amount accumulated after those four years.",
+      "answer": "Tsh 8,400,000.",
+      "steps": [
+        "The amount is the principal plus the simple interest.",
+        "A = 7,500,000 + 900,000 = 8,400,000."
+      ]
+    },
+    {
+      "id": "6(a)",
+      "section": "Question 6 — Coordinates and scale",
+      "prompt": "y = 3x − p passes through (6,10) and (q,22). Find integers p and q.",
+      "answer": "p = 8; q = 10.",
+      "steps": [
+        "Substitute (6,10): 10 = 18 − p, so p = 8.",
+        "Substitute (q,22): 22 = 3q − 8, giving 3q = 30 and q = 10."
+      ]
+    },
+    {
+      "id": "6(b)(i)",
+      "section": "Question 6 — Coordinates and scale",
+      "prompt": "Draw a 500 cm by 200 cm room at scale 1:100.",
+      "answer": "Draw a rectangle of length 5 cm and width 2 cm, labelled with the scale 1:100.",
+      "steps": [
+        "At 1:100, drawing length = actual length ÷ 100.",
+        "500/100 = 5 cm and 200/100 = 2 cm. Use a ruler and right angles."
+      ],
+      "image": "answer_keys/figures/BasicMath-F2-2022-scale.png"
+    },
+    {
+      "id": "6(b)(ii)",
+      "section": "Question 6 — Coordinates and scale",
+      "prompt": "Use the scaled diagram to calculate the actual room area.",
+      "answer": "100,000 cm² = 10 m².",
+      "steps": [
+        "Diagram area = 5 × 2 = 10 cm². An area scale is the square of the length scale.",
+        "Actual area = 10 × 100² = 100,000 cm²; divide by 10,000 to convert to 10 m²."
+      ]
+    },
+    {
+      "id": "7(a)(i)",
+      "section": "Question 7 — Radicals and formulae",
+      "prompt": "P = √2 − 3 and Q = √2 + 1. Show PQ = −1 − 2√2.",
+      "answer": "PQ = −1 − 2√2.",
+      "steps": [
+        "Expand: (√2 − 3)(√2 + 1) = 2 + √2 − 3√2 − 3.",
+        "Collect ordinary terms and radical terms: 2 − 3 = −1 and √2 − 3√2 = −2√2."
+      ]
+    },
+    {
+      "id": "7(a)(ii)",
+      "section": "Question 7 — Radicals and formulae",
+      "prompt": "Show P/Q = 5 − 4√2.",
+      "answer": "P/Q = 5 − 4√2.",
+      "steps": [
+        "Rationalise: (√2 − 3)/(√2 + 1) × (√2 − 1)/(√2 − 1).",
+        "Denominator = 2 − 1 = 1. Numerator = 2 − √2 − 3√2 + 3 = 5 − 4√2."
+      ]
+    },
+    {
+      "id": "7(b)",
+      "section": "Question 7 — Radicals and formulae",
+      "prompt": "Express x in terms of p and q if p = √(q + x); evaluate when p = 3, q = −1.",
+      "answer": "x = p² − q; for p = 3 and q = −1, x = 10.",
+      "steps": [
+        "Square both sides: p² = q + x. Rearrange to x = p² − q.",
+        "Substitute: x = 3² − (−1) = 9 + 1 = 10. Check √(−1 + 10) = 3."
+      ]
+    },
+    {
+      "id": "8(a)(i)",
+      "section": "Question 8 — Similarity and congruence",
+      "prompt": "In the building diagram, NM ∥ EF, E,N,G are collinear and F,M,G are collinear. State the similar triangles with reasons.",
+      "answer": "△MNG ∼ △FEG by AA.",
+      "steps": [
+        "∠MNG = ∠FEG because NM ∥ EF and NG lies along EG.",
+        "∠MGN = ∠FGE is the shared angle at G. Two equal corresponding angles establish similarity."
+      ]
+    },
+    {
+      "id": "8(a)(ii)",
+      "section": "Question 8 — Similarity and congruence",
+      "prompt": "EN = 6 cm, NG = 18 cm and MN = 12 cm. Find FE.",
+      "answer": "FE = 16 cm.",
+      "steps": [
+        "EG = EN + NG = 6 + 18 = 24 cm.",
+        "Corresponding side ratio: MN/FE = NG/EG, so 12/FE = 18/24.",
+        "FE = 12 × 24/18 = 16 cm."
+      ]
+    },
+    {
+      "id": "8(b)(i)",
+      "section": "Question 8 — Similarity and congruence",
+      "prompt": "Using the side marks and angles, explain why triangles ABC and PQR are congruent.",
+      "answer": "△ABC ≅ △QRP by SAS (equivalently △CBA ≅ △PRQ).",
+      "steps": [
+        "The double marks show AC = PQ; the single marks show BC = PR.",
+        "The included angles ∠ACB and ∠QPR both equal 48°. Two sides and their included angle match."
+      ],
+      "tip": "Match vertices by the side marks: C ↔ P, A ↔ Q and B ↔ R. Keep that correspondence in the order used to name congruent triangles."
+    },
+    {
+      "id": "8(b)(ii)",
+      "section": "Question 8 — Similarity and congruence",
+      "prompt": "In triangle PQR, P = 48° and R = 72°. Find angle RQP.",
+      "answer": "∠RQP = 60°.",
+      "steps": [
+        "Interior angles of a triangle add to 180°.",
+        "Q = 180 − 48 − 72 = 60°."
+      ]
+    },
+    {
+      "id": "9(a)",
+      "section": "Question 9 — Pythagoras and trigonometry",
+      "prompt": "A photograph has diagonal 7.8 cm; the frame is 6 cm by 5 cm. Show whether it fits.",
+      "answer": "The examination’s diagonal comparison gives “yes”: the frame diagonal is approximately 7.81 cm, slightly longer than 7.8 cm.",
+      "steps": [
+        "By Pythagoras, frame diagonal = √(6² + 5²) = √61 ≈ 7.810 cm.",
+        "7.8 < 7.810, so the photograph diagonal does not exceed the frame diagonal."
+      ],
+      "tip": "A diagonal alone does not establish a rectangle’s length and width. The intended answer assumes compatible proportions; guaranteeing an actual fit requires both photograph dimensions."
+    },
+    {
+      "id": "9(b)",
+      "section": "Question 9 — Pythagoras and trigonometry",
+      "prompt": "A square tile has diagonal 8 cm making 45° with a side. Find the side length.",
+      "answer": "4√2 cm ≈ 5.66 cm.",
+      "steps": [
+        "The diagonal is the hypotenuse of a right triangle. A side s = 8 cos 45°.",
+        "Since cos 45° = √2/2, s = 8 × √2/2 = 4√2 cm. Check s² + s² = 64."
+      ]
+    },
+    {
+      "id": "10(a)(i)",
+      "section": "Question 10 — Sets and statistics",
+      "prompt": "In a village of 1500, 600 keep goats, 700 keep cows and 300 keep neither. Find those keeping both using a Venn diagram.",
+      "answer": "100 villagers.",
+      "steps": [
+        "Total in at least one set = 1500 − 300 = 1200.",
+        "Goats + cows double-count the overlap: both = 600 + 700 − 1200 = 100."
+      ],
+      "image": "answer_keys/figures/BasicMath-F2-2022-venn.png"
+    },
+    {
+      "id": "10(a)(ii)",
+      "section": "Question 10 — Sets and statistics",
+      "prompt": "Find the number keeping goats only.",
+      "answer": "500 villagers.",
+      "steps": [
+        "The 600 goat keepers include the 100 who also keep cows.",
+        "Goats only = 600 − 100 = 500."
+      ]
+    },
+    {
+      "id": "10(a)(iii)",
+      "section": "Question 10 — Sets and statistics",
+      "prompt": "Find the number keeping cows only.",
+      "answer": "600 villagers.",
+      "steps": [
+        "The 700 cow keepers include the overlap of 100.",
+        "Cows only = 700 − 100 = 600."
+      ]
+    },
+    {
+      "id": "10(a)(iv)",
+      "section": "Question 10 — Sets and statistics",
+      "prompt": "Find the number keeping goats or cows.",
+      "answer": "1200 villagers.",
+      "steps": [
+        "Or means the union: goats only, both and cows only.",
+        "500 + 100 + 600 = 1200, also 1500 − 300."
+      ]
+    },
+    {
+      "id": "10(b)(i)",
+      "section": "Question 10 — Sets and statistics",
+      "prompt": "For mark classes 50–59, 60–69, 70–79, 80–89, 90–99, give the class interval size.",
+      "answer": "10 marks.",
+      "steps": [
+        "Adjacent lower class limits differ by 60 − 50 = 10.",
+        "Equivalently, continuous boundaries 49.5 and 59.5 differ by 10, not 9."
+      ]
+    },
+    {
+      "id": "10(b)(ii)",
+      "section": "Question 10 — Sets and statistics",
+      "prompt": "Frequencies are 3,21,32,27,17 respectively. Which class has the most students?",
+      "answer": "70–79 marks, with 32 students.",
+      "steps": [
+        "Compare the five frequencies.",
+        "The largest frequency is 32, belonging to 70–79."
+      ]
+    },
+    {
+      "id": "10(b)(iii)",
+      "section": "Question 10 — Sets and statistics",
+      "prompt": "Find the class mark of the highest class interval.",
+      "answer": "94.5 marks.",
+      "steps": [
+        "Highest class interval means the greatest score interval, 90–99, not the most frequent interval.",
+        "Class mark = (90 + 99)/2 = 94.5."
+      ]
+    },
+    {
+      "id": "10(b)(iv)",
+      "section": "Question 10 — Sets and statistics",
+      "prompt": "Find how many passed if the pass mark was 70.",
+      "answer": "76 students.",
+      "steps": [
+        "Include all classes at or above 70: 70–79, 80–89 and 90–99.",
+        "Passed = 32 + 27 + 17 = 76."
+      ]
+    },
+    {
+      "id": "10(b)(v)",
+      "section": "Question 10 — Sets and statistics",
+      "prompt": "Find how many failed with pass mark 70.",
+      "answer": "24 students.",
+      "steps": [
+        "The failing classes are 50–59 and 60–69.",
+        "Failed = 3 + 21 = 24; check passed + failed = 76 + 24 = 100."
+      ]
+    }
+  ],
+  "summaries": {
+    "Question 1 — Numbers and fractions": "Keep units consistent, check each condition, and explain the rule used. Drawings need clear labels; area scales use the square of the length scale.",
+    "Question 2 — Units and approximation": "Keep units consistent, check each condition, and explain the rule used. Drawings need clear labels; area scales use the square of the length scale.",
+    "Question 3 — Circles and area": "Keep units consistent, check each condition, and explain the rule used. Drawings need clear labels; area scales use the square of the length scale.",
+    "Question 4 — Algebra": "Keep units consistent, check each condition, and explain the rule used. Drawings need clear labels; area scales use the square of the length scale.",
+    "Question 5 — Ratio and interest": "Keep units consistent, check each condition, and explain the rule used. Drawings need clear labels; area scales use the square of the length scale.",
+    "Question 6 — Coordinates and scale": "Keep units consistent, check each condition, and explain the rule used. Drawings need clear labels; area scales use the square of the length scale.",
+    "Question 7 — Radicals and formulae": "Keep units consistent, check each condition, and explain the rule used. Drawings need clear labels; area scales use the square of the length scale.",
+    "Question 8 — Similarity and congruence": "Keep units consistent, check each condition, and explain the rule used. Drawings need clear labels; area scales use the square of the length scale.",
+    "Question 9 — Pythagoras and trigonometry": "Keep units consistent, check each condition, and explain the rule used. Drawings need clear labels; area scales use the square of the length scale.",
+    "Question 10 — Sets and statistics": "Keep units consistent, check each condition, and explain the rule used. Drawings need clear labels; area scales use the square of the length scale."
+  },
+  "labelling_note": "Question 9(a) supplies only the photograph diagonal. The intended diagonal comparison is shown, with the information needed to guarantee a real rectangular fit explained in its study tip."
+}

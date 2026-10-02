@@ -1,0 +1,302 @@
+{
+  "exam": "BasicMath-F2-2025.pdf",
+  "output": "BasicMath-F2-2025-AnswerKey.pdf",
+  "subject": "Basic Mathematics",
+  "level": "Form Two",
+  "year": "2025",
+  "code": "041",
+  "exam_type": "Form Two National Assessment (FTNA)",
+  "question_count": "10 compulsory questions; 24 answered parts",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "200032d2d5376daf1882823a8847b9d4f17ac21fe1309f63062cc8ffbda099fb",
+  "expected_parts": [
+    "1(a)",
+    "1(b)",
+    "2(a)",
+    "2(b)",
+    "3(a)",
+    "3(b)(i)",
+    "3(b)(ii)",
+    "4(a)",
+    "4(b)",
+    "5(a)(i)",
+    "5(a)(ii)",
+    "5(b)",
+    "6(a)(i)",
+    "6(a)(ii)",
+    "6(b)",
+    "7(a)",
+    "7(b)",
+    "8(a)",
+    "8(b)",
+    "9(a)",
+    "9(b)(i)",
+    "9(b)(ii)",
+    "10(a)",
+    "10(b)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Question 1 — Arithmetic and rounding",
+      "prompt": "Evaluate (1/5) of [(50 ÷ 5 + 5) − (8 × 4 − 2)].",
+      "answer": "−3.",
+      "steps": [
+        "Inside each bracket perform division or multiplication first: 50 ÷ 5 + 5 = 10 + 5 = 15; 8 × 4 − 2 = 32 − 2 = 30.",
+        "The bracket difference is 15 − 30 = −15. Multiply by 1/5: −15/5 = −3."
+      ]
+    },
+    {
+      "id": "1(b)",
+      "section": "Question 1 — Arithmetic and rounding",
+      "prompt": "Town populations are 65,600, 13,400 and 29,700, given to the nearest hundred. Approximate their total to the nearest thousand.",
+      "answer": "109,000 people.",
+      "steps": [
+        "Add the stated populations first: 65,600 + 13,400 + 29,700 = 108,700.",
+        "The hundreds digit is 7, so round 108,700 up to 109,000."
+      ]
+    },
+    {
+      "id": "2(a)",
+      "section": "Question 2 — Fractions and percentages",
+      "prompt": "Of 15 children, 2/5 drink tea and 1/3 drink coffee. How many drink neither?",
+      "answer": "4 children if no child drinks both; with an overlap of t children, the answer is 4 + t.",
+      "steps": [
+        "Tea drinkers = (2/5) × 15 = 6; coffee drinkers = (1/3) × 15 = 5.",
+        "If the groups are disjoint, drinkers = 6 + 5 = 11, leaving 15 − 11 = 4.",
+        "In general, tea or coffee = 6 + 5 − t, so neither = 15 − (11 − t) = 4 + t."
+      ],
+      "tip": "The question does not state whether the groups overlap. The usual intended arithmetic answer assumes no overlap; otherwise an exact count cannot be determined from the given facts."
+    },
+    {
+      "id": "2(b)",
+      "section": "Question 2 — Fractions and percentages",
+      "prompt": "Of 40 students, 25 passed English. Find the percentage who failed.",
+      "answer": "37.5%.",
+      "steps": [
+        "Failed = 40 − 25 = 15.",
+        "Percentage failed = (15/40) × 100 = 37.5%."
+      ]
+    },
+    {
+      "id": "3(a)",
+      "section": "Question 3 — Profit, loss and ratio",
+      "prompt": "A textbook bought for Tsh 8,500 was sold for Tsh 6,000. Find the percentage loss.",
+      "answer": "29 7/17% ≈ 29.41%.",
+      "steps": [
+        "Loss = 8,500 − 6,000 = 2,500.",
+        "Loss percentage uses cost price: (2,500/8,500) × 100 = 500/17% ≈ 29.4118%."
+      ]
+    },
+    {
+      "id": "3(b)(i)",
+      "section": "Question 3 — Profit, loss and ratio",
+      "prompt": "Share 33 kg of meat among A,B,C,D in ratio 4:5:6:7. Find the largest share.",
+      "answer": "10.5 kg.",
+      "steps": [
+        "Total ratio parts = 4 + 5 + 6 + 7 = 22.",
+        "One part = 33/22 = 1.5 kg. Largest share = 7 × 1.5 = 10.5 kg."
+      ]
+    },
+    {
+      "id": "3(b)(ii)",
+      "section": "Question 3 — Profit, loss and ratio",
+      "prompt": "Which family receives the largest share?",
+      "answer": "Family D.",
+      "steps": [
+        "Compare the ratio parts 4,5,6,7.",
+        "The largest part, 7, belongs to D."
+      ]
+    },
+    {
+      "id": "4(a)",
+      "section": "Question 4 — Angles and perimeter",
+      "prompt": "AB ∥ PQ and RS is a transversal. Find a,b,w,x,y,z using the given 60° and 120°.",
+      "answer": "a = 60°, b = 120°, w = 120°, x = 60°, y = 120°, z = 60°.",
+      "steps": [
+        "At PQ, a is vertically opposite the given 60°, so a = 60°. The adjacent angles b and w each equal 180 − 60 = 120°.",
+        "At AB, y is vertically opposite the given 120°, so y = 120°. Each adjacent angle x and z is 180 − 120 = 60°.",
+        "Corresponding angles across the parallel lines confirm the same acute and obtuse values."
+      ]
+    },
+    {
+      "id": "4(b)",
+      "section": "Question 4 — Angles and perimeter",
+      "prompt": "Triangle ABC has perimeter 16 cm, AB = (5 + x) cm, AC = (2 + x) cm and BC = 5 cm. Find x, AB and AC.",
+      "answer": "x = 2; AB = 7 cm; AC = 4 cm.",
+      "steps": [
+        "Add the sides: (5 + x) + (2 + x) + 5 = 16.",
+        "12 + 2x = 16, so x = 2. Substitute into each variable side."
+      ]
+    },
+    {
+      "id": "5(a)(i)",
+      "section": "Question 5 — Algebra",
+      "prompt": "Simplify 7m − 2(5n − 4m) + 11n − 5m.",
+      "answer": "10m + n.",
+      "steps": [
+        "Expand the bracket with its negative multiplier: −2(5n − 4m) = −10n + 8m.",
+        "Collect m: 7m + 8m − 5m = 10m. Collect n: −10n + 11n = n."
+      ]
+    },
+    {
+      "id": "5(a)(ii)",
+      "section": "Question 5 — Algebra",
+      "prompt": "Simplify (5x − 2y) − 2(4x − 3y).",
+      "answer": "−3x + 4y.",
+      "steps": [
+        "Expand: 5x − 2y − 8x + 6y.",
+        "Collect like terms: 5x − 8x = −3x and −2y + 6y = 4y."
+      ]
+    },
+    {
+      "id": "5(b)",
+      "section": "Question 5 — Algebra",
+      "prompt": "Two numbers sum to 19 and differ by 5. Find them.",
+      "answer": "12 and 7.",
+      "steps": [
+        "Let the larger number be a and smaller b: a + b = 19, a − b = 5.",
+        "Add equations: 2a = 24, so a = 12. Then b = 19 − 12 = 7."
+      ]
+    },
+    {
+      "id": "6(a)(i)",
+      "section": "Question 6 — Straight lines",
+      "prompt": "The line ky = kx + x + 7 has gradient 2. Find k.",
+      "answer": "k = 1.",
+      "steps": [
+        "For k ≠ 0, divide by k: y = [(k + 1)/k]x + 7/k.",
+        "Set gradient (k + 1)/k = 2. Then k + 1 = 2k, so k = 1."
+      ]
+    },
+    {
+      "id": "6(a)(ii)",
+      "section": "Question 6 — Straight lines",
+      "prompt": "Write the y-intercept of the line.",
+      "answer": "7, at the point (0,7).",
+      "steps": [
+        "Substitute k = 1: y = 2x + 7.",
+        "At x = 0 the y-coordinate is 7."
+      ]
+    },
+    {
+      "id": "6(b)",
+      "section": "Question 6 — Straight lines",
+      "prompt": "Kx − My − 4 = 0 passes through A(−2,5) and B(2,−3). Find K and M.",
+      "answer": "K = 8; M = −4.",
+      "steps": [
+        "Substitute A: −2K − 5M = 4. Substitute B: 2K + 3M = 4.",
+        "Add the equations: −2M = 8, giving M = −4.",
+        "Then 2K + 3(−4) = 4 gives 2K = 16 and K = 8. Check both points in 8x + 4y − 4 = 0."
+      ]
+    },
+    {
+      "id": "7(a)",
+      "section": "Question 7 — Indices and radicals",
+      "prompt": "Evaluate 8^(−2/3) + (3⁻²)/(2⁻³).",
+      "answer": "41/36 = 1 5/36.",
+      "steps": [
+        "8^(−2/3) = 1/(∛8)² = 1/4. Also 3⁻² = 1/9 and 2⁻³ = 1/8.",
+        "The quotient is (1/9)/(1/8) = 8/9.",
+        "Add with denominator 36: 1/4 + 8/9 = 9/36 + 32/36 = 41/36."
+      ]
+    },
+    {
+      "id": "7(b)",
+      "section": "Question 7 — Indices and radicals",
+      "prompt": "Rationalise √2/(√3 + √2).",
+      "answer": "√6 − 2.",
+      "steps": [
+        "Multiply numerator and denominator by the conjugate √3 − √2.",
+        "Numerator = √6 − 2; denominator = (√3)² − (√2)² = 3 − 2 = 1."
+      ]
+    },
+    {
+      "id": "8(a)",
+      "section": "Question 8 — Similarity and congruence",
+      "prompt": "In right triangle ABC, A = 90°, AD ⊥ BC and D lies on BC. Prove the large and smaller triangle ABD are similar.",
+      "answer": "△ABC ∼ △DBA by AA.",
+      "steps": [
+        "∠BAC = ∠BDA = 90°.",
+        "∠ABC = ∠DBA since BD lies on BC. Two corresponding angles match, establishing similarity."
+      ],
+      "tip": "The paper names the two triangles as ABC and ABD without matching the order. The correct ordered correspondence is A ↔ D, B ↔ B, C ↔ A."
+    },
+    {
+      "id": "8(b)",
+      "section": "Question 8 — Similarity and congruence",
+      "prompt": "BE bisects ∠DEF and DE = FE. Prove △BEF ≅ △BED.",
+      "answer": "△BEF ≅ △BED by SAS.",
+      "steps": [
+        "EF = ED is given and BE is a common side.",
+        "Because BE bisects the angle at E, ∠BEF = ∠BED. The equal angle lies between the two equal sides, so SAS applies."
+      ]
+    },
+    {
+      "id": "9(a)",
+      "section": "Question 9 — Trigonometry and Pythagoras",
+      "prompt": "In the right triangle, the hypotenuse is 30 cm and the opposite side to 70° is y. Find y to one decimal place.",
+      "answer": "28.2 cm.",
+      "steps": [
+        "sin 70° = opposite/hypotenuse = y/30.",
+        "y = 30 sin 70° ≈ 30 × 0.9396926 = 28.1908 cm; round to 28.2 cm."
+      ]
+    },
+    {
+      "id": "9(b)(i)",
+      "section": "Question 9 — Trigonometry and Pythagoras",
+      "prompt": "Draw a ladder leaning against a 5 m vertical wall, with its foot 12 m from the wall.",
+      "answer": "A right triangle with vertical side 5 m, horizontal side 12 m and the ladder as the hypotenuse.",
+      "steps": [
+        "Draw the wall perpendicular to the ground and label their meeting point as a right angle.",
+        "Join the wall’s top to the foot of the ladder; label the vertical and horizontal distances."
+      ],
+      "image": "answer_keys/figures/BasicMath-F2-2025-ladder.png"
+    },
+    {
+      "id": "9(b)(ii)",
+      "section": "Question 9 — Trigonometry and Pythagoras",
+      "prompt": "Find the ladder length.",
+      "answer": "13 m.",
+      "steps": [
+        "Pythagoras gives ladder² = 5² + 12² = 25 + 144 = 169.",
+        "The positive square root of 169 is 13, so the ladder is 13 m long."
+      ]
+    },
+    {
+      "id": "10(a)",
+      "section": "Question 10 — Sets and grouped data",
+      "prompt": "Of 120 students, 40 learn English, 60 Kiswahili, and 30 both. How many learn neither?",
+      "answer": "50 students.",
+      "steps": [
+        "Union = 40 + 60 − 30 = 70; subtract the overlap once.",
+        "Neither = 120 − 70 = 50."
+      ]
+    },
+    {
+      "id": "10(b)",
+      "section": "Question 10 — Sets and grouped data",
+      "prompt": "Group the 30 History marks into 30–39, 40–49, 50–59, etc.; find the percentage scoring 50–69.",
+      "answer": "Frequencies: 30–39: 7; 40–49: 10; 50–59: 8; 60–69: 2; 70–79: 3. Total 30. Percentage scoring 50–69 = 33⅓%.",
+      "steps": [
+        "Tally each listed mark into exactly one class: counts 7,10,8,2,3. Check their sum is 30.",
+        "Scores from 50 through 69 lie in two classes: 8 + 2 = 10 students.",
+        "Percentage = (10/30) × 100% = 33⅓%."
+      ]
+    }
+  ],
+  "summaries": {
+    "Question 1 — Arithmetic and rounding": "Apply the stated mathematical rule and show intermediate calculations. In geometry, match corresponding vertices carefully; in sets, account for any overlap.",
+    "Question 2 — Fractions and percentages": "Apply the stated mathematical rule and show intermediate calculations. In geometry, match corresponding vertices carefully; in sets, account for any overlap.",
+    "Question 3 — Profit, loss and ratio": "Apply the stated mathematical rule and show intermediate calculations. In geometry, match corresponding vertices carefully; in sets, account for any overlap.",
+    "Question 4 — Angles and perimeter": "Apply the stated mathematical rule and show intermediate calculations. In geometry, match corresponding vertices carefully; in sets, account for any overlap.",
+    "Question 5 — Algebra": "Apply the stated mathematical rule and show intermediate calculations. In geometry, match corresponding vertices carefully; in sets, account for any overlap.",
+    "Question 6 — Straight lines": "Apply the stated mathematical rule and show intermediate calculations. In geometry, match corresponding vertices carefully; in sets, account for any overlap.",
+    "Question 7 — Indices and radicals": "Apply the stated mathematical rule and show intermediate calculations. In geometry, match corresponding vertices carefully; in sets, account for any overlap.",
+    "Question 8 — Similarity and congruence": "Apply the stated mathematical rule and show intermediate calculations. In geometry, match corresponding vertices carefully; in sets, account for any overlap.",
+    "Question 9 — Trigonometry and Pythagoras": "Apply the stated mathematical rule and show intermediate calculations. In geometry, match corresponding vertices carefully; in sets, account for any overlap.",
+    "Question 10 — Sets and grouped data": "Apply the stated mathematical rule and show intermediate calculations. In geometry, match corresponding vertices carefully; in sets, account for any overlap."
+  },
+  "labelling_note": "Question 2(a) omits the overlap between tea and coffee drinkers. Both the intended disjoint-group answer and the general expression are explained. Question 8(a) requires a corrected vertex order when writing the similarity statement."
+}

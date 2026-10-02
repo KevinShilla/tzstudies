@@ -1,8 +1,14 @@
 from flask import (
-    Blueprint, current_app, flash, redirect, render_template,
-    request, url_for,
+    Blueprint,
+    current_app,
+    flash,
+    redirect,
+    render_template,
+    request,
+    url_for,
 )
 from flask_mail import Message
+from werkzeug.utils import secure_filename
 
 from tzstudies.extensions import mail
 
@@ -17,18 +23,29 @@ def upload_exams():
             flash("Please upload a valid PDF file.", "error")
             return redirect(url_for("upload.upload_exams"))
 
+        if pdf.read(5) != b"%PDF-":
+            flash("Please choose a readable PDF file.", "error")
+            return redirect(url_for("upload.upload_exams"))
+        pdf.seek(0)
+
         recipient = current_app.config.get("MAIL_USERNAME")
         if not recipient:
-            flash("Email service is not configured.", "error")
+            flash("Paper submissions are temporarily unavailable. Please try again later.", "error")
             return redirect(url_for("upload.upload_exams"))
 
         msg = Message(
             subject="New exam uploaded",
             recipients=[recipient],
         )
-        msg.body = f"A user uploaded: {pdf.filename}"
-        msg.attach(pdf.filename, pdf.mimetype, pdf.read())
-        mail.send(msg)
+        filename = secure_filename(pdf.filename) or "exam.pdf"
+        msg.body = f"A user uploaded: {filename}"
+        msg.attach(filename, "application/pdf", pdf.read())
+        try:
+            mail.send(msg)
+        except Exception:
+            current_app.logger.exception("Could not send contributed exam")
+            flash("We couldn't send your paper. Please try again later.", "error")
+            return redirect(url_for("upload.upload_exams"))
 
         flash("Thank you! Your file has been sent to the team.", "success")
         return redirect(url_for("papers.index"))

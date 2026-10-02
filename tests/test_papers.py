@@ -85,3 +85,24 @@ class TestHistory:
         resp = auth_client.get("/history")
         assert resp.status_code == 200
         assert b"My Papers" in resp.data
+
+
+class TestPaperDetail:
+    def test_key_detail_requires_login(self, client, db):
+        from tzstudies.models import Paper
+        paper = Paper(file_name="BasicMath-F2-2021-AnswerKey.pdf", category="key", grade="F2")
+        db.session.add(paper)
+        db.session.commit()
+        response = client.get(f"/paper/{paper.id}")
+        assert response.status_code == 302
+        assert "/login?next=" in response.location
+
+    def test_key_detail_uses_key_viewer_and_download(self, auth_client, db):
+        from tzstudies.models import Paper
+        paper = Paper(file_name="BasicMath-F2-2021-AnswerKey.pdf", category="key", grade="F2")
+        db.session.add(paper)
+        db.session.commit()
+        response = auth_client.get(f"/paper/{paper.id}")
+        assert response.status_code == 200
+        assert b"/serve_key/BasicMath-F2-2021-AnswerKey.pdf" in response.data
+        assert b"/download_key/BasicMath-F2-2021-AnswerKey.pdf" in response.data

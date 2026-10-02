@@ -1,0 +1,304 @@
+{
+  "exam": "Hisabati-S4-2021.pdf",
+  "output": "Hisabati-S4-2021-AnswerKey.pdf",
+  "subject": "Hisabati",
+  "level": "Standard Four / Darasa la Nne",
+  "year": "2021",
+  "code": "04",
+  "exam_type": "National Assessment",
+  "question_count": "Maswali 5, kila moja lina vipengele 5",
+  "language": "sw",
+  "reviewed": true,
+  "expected_parts": [
+    "1(a)",
+    "1(b)",
+    "1(c)",
+    "1(d)",
+    "1(e)",
+    "2(a)",
+    "2(b)",
+    "2(c)",
+    "2(d)",
+    "2(e)",
+    "3(a)",
+    "3(b)",
+    "3(c)",
+    "3(d)",
+    "3(e)",
+    "4(a)",
+    "4(b)",
+    "4(c)",
+    "4(d)",
+    "4(e)",
+    "5(a)",
+    "5(b)",
+    "5(c)",
+    "5(d)",
+    "5(e)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Swali 1: Namba na Thamani ya Tarakimu",
+      "prompt": "Andika thamani ya tarakimu ya nne kutoka kulia katika 49,051.",
+      "steps": [
+        "Kutoka kulia, tarakimu ni 1, 5, 0, 9, 4.",
+        "Tarakimu 9 iko nafasi ya maelfu: 9 x 1,000."
+      ],
+      "answer": "9,000."
+    },
+    {
+      "id": "1(b)",
+      "section": "Swali 1: Namba na Thamani ya Tarakimu",
+      "prompt": "Andika 32 kwa namba za Kirumi.",
+      "steps": [
+        "30 ni XXX na 2 ni II.",
+        "Unganisha alama hizo."
+      ],
+      "answer": "XXXII."
+    },
+    {
+      "id": "1(c)",
+      "section": "Swali 1: Namba na Thamani ya Tarakimu",
+      "prompt": "Andika 76,502 kwa kirefu.",
+      "steps": [
+        "7 iko makumi elfu, 6 maelfu, 5 mamia, 0 makumi, 2 mamoja.",
+        "Andika thamani za tarakimu zisizo sifuri."
+      ],
+      "answer": "70,000 + 6,000 + 500 + 2."
+    },
+    {
+      "id": "1(d)",
+      "section": "Swali 1: Namba na Thamani ya Tarakimu",
+      "prompt": "Andika 2,000 + 900 + 70 + 5 kwa kifupi.",
+      "steps": [
+        "2,000 + 900 = 2,900.",
+        "2,900 + 70 + 5 = 2,975."
+      ],
+      "answer": "2,975."
+    },
+    {
+      "id": "1(e)",
+      "section": "Swali 1: Namba na Thamani ya Tarakimu",
+      "prompt": "Andika 435 kwa maneno.",
+      "steps": [
+        "400 ni mia nne.",
+        "35 ni thelathini na tano."
+      ],
+      "answer": "Mia nne thelathini na tano."
+    },
+    {
+      "id": "2(a)",
+      "section": "Swali 2: Mpangilio na Ulinganisho",
+      "prompt": "Jaza nafasi: 50, 40, 30, __, 10.",
+      "steps": [
+        "Kila namba inapungua kwa 10.",
+        "30 - 10 = 20."
+      ],
+      "answer": "20."
+    },
+    {
+      "id": "2(b)",
+      "section": "Swali 2: Mpangilio na Ulinganisho",
+      "prompt": "Panga 23, 64, 32, 46, 29, 38, 54 kuanzia kubwa hadi ndogo.",
+      "steps": [
+        "Linganisha kwanza makumi.",
+        "Katika namba zenye makumi sawa, linganisha mamoja."
+      ],
+      "answer": "64, 54, 46, 38, 32, 29, 23."
+    },
+    {
+      "id": "2(c)",
+      "section": "Swali 2: Mpangilio na Ulinganisho",
+      "prompt": "Jaza namba ya Kirumi: V, XVI, XXVII, XXXVIII, __.",
+      "steps": [
+        "Badili kuwa 5, 16, 27, 38.",
+        "Kila namba inaongezeka kwa 11; 38 + 11 = 49.",
+        "49 ni 40 + 9, yaani XL + IX."
+      ],
+      "answer": "XLIX."
+    },
+    {
+      "id": "2(d)",
+      "section": "Swali 2: Mpangilio na Ulinganisho",
+      "prompt": "Mrisho, Samweli na Zalia wana urefu sm 112, 124, 136. Rose anafuata katika mfululizo huo. Tafuta urefu wake.",
+      "steps": [
+        "Tofauti ya kila urefu ni sm 12.",
+        "Rose anafuata Zalia: 136 + 12 = 148."
+      ],
+      "answer": "Sm 148."
+    },
+    {
+      "id": "2(e)",
+      "section": "Swali 2: Mpangilio na Ulinganisho",
+      "prompt": "Namba ya kwanza ni 20; kila inayofuata inaongezeka kwa 5. Tafuta ya tano.",
+      "steps": [
+        "Kuna ongezeko mara nne kutoka ya kwanza hadi ya tano.",
+        "20 + 4 x 5 = 40."
+      ],
+      "answer": "40."
+    },
+    {
+      "id": "3(a)",
+      "section": "Swali 3: Matendo na Vipimo vya Muda",
+      "prompt": "Jumlisha saa 14 dakika 30 na saa 8 dakika 40.",
+      "steps": [
+        "30 + 40 = dakika 70 = saa 1 dakika 10.",
+        "14 + 8 + 1 = saa 23."
+      ],
+      "answer": "Saa 23 dakika 10."
+    },
+    {
+      "id": "3(b)",
+      "section": "Swali 3: Matendo na Vipimo vya Muda",
+      "prompt": "Jumlisha wavulana 340 na wasichana 318.",
+      "steps": [
+        "340 + 300 = 640.",
+        "640 + 18 = 658."
+      ],
+      "answer": "Wanafunzi 658."
+    },
+    {
+      "id": "3(c)",
+      "section": "Swali 3: Matendo na Vipimo vya Muda",
+      "prompt": "Toa saa 4 dakika 50 kutoka saa 6 dakika 45.",
+      "steps": [
+        "Azima saa moja: saa 6 dakika 45 = saa 5 dakika 105.",
+        "Dakika: 105 - 50 = 55; saa: 5 - 4 = 1."
+      ],
+      "answer": "Saa 1 dakika 55."
+    },
+    {
+      "id": "3(d)",
+      "section": "Swali 3: Matendo na Vipimo vya Muda",
+      "prompt": "Badili saa mbili kuwa dakika.",
+      "steps": [
+        "Saa 1 ni dakika 60.",
+        "2 x 60 = 120."
+      ],
+      "answer": "Dakika 120."
+    },
+    {
+      "id": "3(e)",
+      "section": "Swali 3: Matendo na Vipimo vya Muda",
+      "prompt": "Ronaldo alicheza dakika 40 katika mchezo wa dakika 90. Hakuchaza dakika ngapi?",
+      "steps": [
+        "Toa muda aliocheza katika muda wote.",
+        "90 - 40 = 50."
+      ],
+      "answer": "Dakika 50."
+    },
+    {
+      "id": "4(a)",
+      "section": "Swali 4: Maumbo na Vipimo",
+      "prompt": "Chora pembetatu yenye pande zote sawa.",
+      "steps": [
+        "Chora msingi wenye urefu unaouchagua, kwa mfano sm 3.",
+        "Kwa dira yenye kipimo sm 3, chora tao kutoka kila mwisho wa msingi; yaunganishe kwenye makutano.",
+        "Unganisha makutano na ncha za msingi; pande zote ni sm 3."
+      ],
+      "answer": "Pembetatu yenye pande tatu sawa.",
+      "drawing": "equilateral"
+    },
+    {
+      "id": "4(b)",
+      "section": "Swali 4: Maumbo na Vipimo",
+      "prompt": "Tafuta mzingo wa mstatili wenye urefu sm 8 na upana sm 5.",
+      "steps": [
+        "Mzingo ni jumla ya pande zote.",
+        "8 + 5 + 8 + 5 = 26."
+      ],
+      "answer": "Sm 26."
+    },
+    {
+      "id": "4(c)",
+      "section": "Swali 4: Maumbo na Vipimo",
+      "prompt": "Pembetatu yenye pande sawa ina mzingo sm 57. Tafuta upande mmoja.",
+      "steps": [
+        "Pembetatu ina pande tatu.",
+        "57 / 3 = 19."
+      ],
+      "answer": "Sm 19."
+    },
+    {
+      "id": "4(d)",
+      "section": "Swali 4: Maumbo na Vipimo",
+      "prompt": "Tafuta mzingo wa mraba wenye upande sm 6.",
+      "steps": [
+        "Mraba una pande nne sawa.",
+        "4 x 6 = 24."
+      ],
+      "answer": "Sm 24."
+    },
+    {
+      "id": "4(e)",
+      "section": "Swali 4: Maumbo na Vipimo",
+      "prompt": "Mzingo wa pembetatu ni sm 45; pande mbili ni sm 12 na sm 15. Tafuta ya tatu.",
+      "steps": [
+        "12 + 15 = 27.",
+        "45 - 27 = 18."
+      ],
+      "answer": "Sm 18."
+    },
+    {
+      "id": "5(a)",
+      "section": "Swali 5: Kusoma Takwimu",
+      "prompt": "Tafuta jumla ya wanafunzi: Dodoma picha 3, Tanga picha 1 na nusu, Iringa picha 2; picha 1 ni wanafunzi 50,000.",
+      "steps": [
+        "Dodoma: 150,000; Tanga: 75,000; Iringa: 100,000.",
+        "150,000 + 75,000 + 100,000 = 325,000."
+      ],
+      "answer": "Wanafunzi 325,000."
+    },
+    {
+      "id": "5(b)",
+      "section": "Swali 5: Kusoma Takwimu",
+      "prompt": "Tafuta jumla ya wanafunzi Iringa na Tanga.",
+      "steps": [
+        "Iringa: 2 x 50,000 = 100,000.",
+        "Tanga: 1.5 x 50,000 = 75,000.",
+        "100,000 + 75,000 = 175,000."
+      ],
+      "answer": "Wanafunzi 175,000."
+    },
+    {
+      "id": "5(c)",
+      "section": "Swali 5: Kusoma Takwimu",
+      "prompt": "Mkoa gani una wanafunzi wachache zaidi?",
+      "steps": [
+        "Linganisha 150,000, 75,000 na 100,000.",
+        "Idadi ndogo zaidi ni 75,000 ya Tanga."
+      ],
+      "answer": "Tanga."
+    },
+    {
+      "id": "5(d)",
+      "section": "Swali 5: Kusoma Takwimu",
+      "prompt": "Wanafunzi wa Tanga ni sehemu gani ya wanafunzi wote?",
+      "steps": [
+        "Tanga ina wanafunzi 75,000 kati ya 325,000.",
+        "75,000/325,000 = 75/325.",
+        "Gawanya juu na chini kwa 25."
+      ],
+      "answer": "3/13."
+    },
+    {
+      "id": "5(e)",
+      "section": "Swali 5: Kusoma Takwimu",
+      "prompt": "Tafuta tofauti kati ya idadi kubwa zaidi na ndogo zaidi ya wanafunzi.",
+      "steps": [
+        "Dodoma ina 150,000; Tanga ina 75,000.",
+        "150,000 - 75,000 = 75,000."
+      ],
+      "answer": "Wanafunzi 75,000."
+    }
+  ],
+  "summaries": {
+    "Swali 1: Namba na Thamani ya Tarakimu": "Zingatia nafasi ya tarakimu na kanuni za namba za Kirumi.",
+    "Swali 2: Mpangilio na Ulinganisho": "Tambua ongezeko au upungufu; hesabu nafasi kati ya namba.",
+    "Swali 3: Matendo na Vipimo vya Muda": "Weka vipimo sawa; dakika 60 ni saa moja.",
+    "Swali 4: Maumbo na Vipimo": "Tumia idadi ya pande, kanuni ya mzingo na ubadilishaji wa vipimo.",
+    "Swali 5: Kusoma Takwimu": "Soma ufunguo wa picha na hesabu kila alama kwa makini."
+  },
+  "sha256": "a2be904738e5b972df54e29ef4528f0e0c13613aed1a4311c664f0f70a0c4969"
+}
