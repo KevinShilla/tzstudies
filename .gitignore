@@ -4,8 +4,13 @@ __pycache__/
 *.pyc
 *.pyo
 *.sqlite3
+*.db
 .DS_Store
 .env
+.env.*
+!.env.example
+*.db-wal
+*.db-shm
 *.php
 uploads/cvs/*
 !uploads/cvs/.gitkeep
@@ -17,3 +22,4 @@ build/
 htmlcov/
 .coverage
 tmp/
+.ruff_cache/

@@ -1,0 +1,23 @@
+MyTZStudies.com | Free Tanzania Exam Library
+Page 4
+Basic Mathematics | Form Two | 2024 | Answer Key
+2(b). Change 1.2̇3̇ to a mixed number; the block 23 repeats.
+Step 1: Let x = 1.232323… . Then 100x = 123.232323… .
+Step 2: Subtract x from 100x: 99x = 122, so x = 122/99 = 1 23/99.
+Final Answer: 1 23/99.
+Section Summary: Follow the operation and notation shown in the original paper. Keep fractions or
+radicals exact, and round only when an accuracy is requested.
+Question 3 — Interest and units
+3(a). How much must be lent to earn Tsh 36,000 simple interest at 5% per
+annum in 6 months?
+Step 1: Use t = 6/12 = 1/2 year and I = Prt/100.
+Step 2: P = 100I/(rt) = (100 × 36,000)/(5 × 1/2) = 1,440,000.
+Final Answer: Tsh 1,440,000.
+3(b). Nyanjara bought 50 bottles of milk, each holding 300 ml, for 70 children.
+Find the total litres bought.
+Step 1: Total volume = 50 × 300 = 15,000 ml.
+Step 2: Since 1000 ml = 1 litre, 15,000 ml = 15 litres; the number of children does not change
+the volume bought.
+Final Answer: 15 litres.
+Section Summary: Follow the operation and notation shown in the original paper. Keep fractions or
+radicals exact, and round only when an accuracy is requested.

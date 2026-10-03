@@ -1,6 +1,5 @@
 """Tests for authentication routes (signup, login, logout)."""
 
-import pytest
 from tzstudies.models import User
 
 
@@ -16,7 +15,7 @@ class TestSignup:
         resp = client.post("/signup", data={
             "name": "New User",
             "email": "new@example.com",
-            "password": "secret123",
+            "password": "orbit mango river lantern",
         }, follow_redirects=True)
         assert resp.status_code == 200
         with app.app_context():
@@ -28,9 +27,9 @@ class TestSignup:
         resp = client.post("/signup", data={
             "name": "Dup User",
             "email": "test@example.com",
-            "password": "password123",
+            "password": "orbit mango river lantern",
         }, follow_redirects=True)
-        assert b"already registered" in resp.data
+        assert b"couldn&#39;t create an account" in resp.data
 
     def test_signup_rejects_short_password(self, client):
         resp = client.post("/signup", data={
@@ -38,13 +37,13 @@ class TestSignup:
             "email": "short@example.com",
             "password": "abc",
         }, follow_redirects=True)
-        assert b"at least 6 characters" in resp.data
+        assert b"at least 15 characters" in resp.data
 
     def test_signup_rejects_missing_fields(self, client):
         resp = client.post("/signup", data={
             "name": "",
             "email": "x@x.com",
-            "password": "secret123",
+            "password": "orbit mango river lantern",
         }, follow_redirects=True)
         assert b"required" in resp.data
 
@@ -81,16 +80,16 @@ class TestLogin:
 
 
 class TestLogout:
-    """GET /logout — session termination."""
+    """POST /logout — session termination."""
 
     def test_logout_redirects_home(self, auth_client):
-        resp = auth_client.get("/logout", follow_redirects=True)
+        resp = auth_client.post("/logout", follow_redirects=True)
         assert resp.status_code == 200
         # After logout, login link should appear
         assert b"Login" in resp.data or b"Log In" in resp.data
 
     def test_logout_requires_auth(self, client):
-        resp = client.get("/logout", follow_redirects=True)
+        resp = client.post("/logout", follow_redirects=True)
         assert resp.status_code == 200
         # Should redirect to login
         assert b"Log In" in resp.data

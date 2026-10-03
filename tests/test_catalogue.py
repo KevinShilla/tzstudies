@@ -74,5 +74,5 @@ def test_homepage_does_not_cache_account_state(client, sample_user):
     assert b"Hello, Test" not in client.get("/").data
     client.post("/login", data={"email": "test@example.com", "password": "password123"})
     assert b"Hello, Test" in client.get("/").data
-    client.get("/logout")
+    client.post("/logout")
     assert b"Hello, Test" not in client.get("/").data

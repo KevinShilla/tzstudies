@@ -1,4 +1,6 @@
 import os
+import secrets
+from datetime import timedelta
 
 from dotenv import load_dotenv
 
@@ -43,13 +45,31 @@ class Config:
 
     # Security
     WTF_CSRF_ENABLED = True
+    MAX_CONTENT_LENGTH = 12 * 1024 * 1024
+    MAX_FORM_MEMORY_SIZE = 32 * 1024
+    MAX_FORM_PARTS = 24
+    MAX_UPLOAD_BYTES = 10 * 1024 * 1024
+    SESSION_COOKIE_HTTPONLY = True
+    SESSION_COOKIE_SAMESITE = "Lax"
+    REMEMBER_COOKIE_HTTPONLY = True
+    REMEMBER_COOKIE_SAMESITE = "Lax"
+    PERMANENT_SESSION_LIFETIME = timedelta(hours=2)
+    SESSION_REFRESH_EACH_REQUEST = False
+    PUBLIC_BASE_URL = os.getenv("PUBLIC_BASE_URL", "https://mytzstudies.com").rstrip("/")
+    TRUSTED_PROXY_HOPS = int(os.getenv("TRUSTED_PROXY_HOPS", "0"))
+    TRUSTED_HOSTS = [host.strip() for host in (os.getenv("TRUSTED_HOSTS", "") + "," + os.getenv("RENDER_EXTERNAL_HOSTNAME", "")).split(",") if host.strip()] or None
+    RATELIMIT_SWALLOW_ERRORS = False
+    RATELIMIT_IN_MEMORY_FALLBACK_ENABLED = False
+    RATELIMIT_HEADERS_ENABLED = True
+    MAIL_DEBUG = False
 
 
 class DevelopmentConfig(Config):
     """Development overrides — allows missing SECRET_KEY."""
 
-    SECRET_KEY = os.getenv("SECRET_KEY", "dev-insecure-key-change-me")
+    SECRET_KEY = os.getenv("SECRET_KEY") or secrets.token_hex(32)
     DEBUG = True
+    TRUSTED_HOSTS = None
 
 
 class TestingConfig(Config):
@@ -62,12 +82,16 @@ class TestingConfig(Config):
     RATELIMIT_ENABLED = False
     CACHE_TYPE = "NullCache"
     MAIL_SUPPRESS_SEND = True
+    TRUSTED_HOSTS = None
 
 
 class ProductionConfig(Config):
     """Production — SECRET_KEY must be set via environment."""
 
-    pass
+    DEBUG = False
+    SESSION_COOKIE_SECURE = True
+    REMEMBER_COOKIE_SECURE = True
+    PREFERRED_URL_SCHEME = "https"
 
 
 config_by_name = {

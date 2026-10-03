@@ -1,6 +1,7 @@
 FROM python:3.13-slim AS base
 
 WORKDIR /app
+ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1
 
 # Install system deps
 RUN apt-get update && apt-get install -y --no-install-recommends gcc libpq-dev && rm -rf /var/lib/apt/lists/*
@@ -13,7 +14,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Create non-root user
-RUN useradd -m appuser && chown -R appuser:appuser /app
+RUN useradd -m appuser && mkdir -p /app/instance /app/uploads/cvs && chown -R appuser:appuser /app/instance /app/uploads && chmod 700 /app/instance /app/uploads/cvs
 USER appuser
 
 EXPOSE 5000

@@ -1,0 +1,23 @@
+MyTZStudies.com | Free Tanzania Exam Library
+Page 3
+Basic Mathematics | Form Two | 2024 | Answer Key
+Question 1 — Factors and estimation
+1(a). Find the GCF and LCM of 90 and 240.
+Step 1: Prime factors: 90 = 2 × 3² × 5 and 240 = 2⁴ × 3 × 5.
+Step 2: GCF uses minimum shared powers: 2 × 3 × 5 = 30. LCM uses maximum powers: 2⁴ ×
+3² × 5 = 720.
+Final Answer: GCF = 30; LCM = 720.
+1(b). Estimate 8108 ÷ 37.
+Step 1: Round 8108 to 8000 and 37 to 40 for an easy estimate.
+Step 2: 8000 ÷ 40 = 200.
+Final Answer: Approximately 200, using one-significant-figure estimation.
+Study Tip: No precision is specified. A compatible-number estimate 8140 ÷ 37 = 220 is also
+reasonable and closer to the exact quotient, about 219.135. State the approximation you use.
+Section Summary: Follow the operation and notation shown in the original paper. Keep fractions or
+radicals exact, and round only when an accuracy is requested.
+Question 2 — Fractions and recurring decimals
+2(a). Simplify 3 9/10 ÷ (3 3/5 − 1 1/2).
+Step 1: Convert mixed numbers: 39/10 ÷ (18/5 − 3/2).
+Step 2: Bracket first: 18/5 − 3/2 = 36/10 − 15/10 = 21/10.
+Step 3: Divide by multiplying the reciprocal: (39/10) × (10/21) = 39/21 = 13/7.
+Final Answer: 13/7 = 1 6/7.

@@ -21,7 +21,25 @@ class User(UserMixin, db.Model):
     history = db.relationship("History", backref="user", lazy="dynamic")
 
     def __repr__(self):
-        return f"<User {self.email}>"
+        return f"<User {self.id}>"
+
+
+class LoginSession(db.Model):
+    """Only a hash of the random browser session token is stored."""
+    __tablename__ = "login_session"
+    token_hash = db.Column(db.String(64), primary_key=True)
+    user_id = db.Column(db.Integer, db.ForeignKey("user.id"), nullable=False, index=True)
+    expires_at = db.Column(db.BigInteger, nullable=False, index=True)
+
+
+class AuthToken(db.Model):
+    """Expiring, purpose-bound, one-use verification and reset tokens."""
+    __tablename__ = "auth_token"
+    token_hash = db.Column(db.String(64), primary_key=True)
+    user_id = db.Column(db.Integer, db.ForeignKey("user.id"), nullable=False, index=True)
+    purpose = db.Column(db.String(20), nullable=False)
+    credential_hash = db.Column(db.String(64), nullable=False)
+    expires_at = db.Column(db.BigInteger, nullable=False, index=True)
 
 
 class Paper(db.Model):

@@ -1,0 +1,11 @@
+{
+  "capturedAt": "2026-10-03T07:34:15.042Z",
+  "origin": "http://127.0.0.1:5050",
+  "keyHref": "/view_key/BasicMath-F2-2024-AnswerKey.pdf",
+  "counts": {
+    "papers": 60,
+    "answerKeys": 60,
+    "levels": 4
+  },
+  "account": "Isolated local preview account; no production data"
+}

@@ -91,7 +91,7 @@
       try {
         const response = await fetch('/ask', {
           method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
+          headers: { 'Content-Type': 'application/json', 'X-CSRFToken': document.querySelector('meta[name="csrf-token"]').content },
           body: JSON.stringify({ query }),
           signal: controller.signal
         });

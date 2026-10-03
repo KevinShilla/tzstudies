@@ -1,12 +1,30 @@
 import functools
 
-from flask import Blueprint, abort, current_app, jsonify, render_template
+from flask import Blueprint, abort, jsonify, render_template, send_file
 from flask_login import current_user, login_required
 
 from tzstudies.extensions import db
+from tzstudies.file_security import cv_folder
 from tzstudies.models import History, Paper, TutorApplication, User
 
 admin_bp = Blueprint("admin", __name__, url_prefix="/admin")
+
+
+@admin_bp.route("/cv/<int:application_id>")
+@login_required
+def download_cv(application_id):
+    if not current_user.is_admin:
+        abort(403)
+    application = db.get_or_404(TutorApplication, application_id)
+    if not application.cv_filename:
+        abort(404)
+    folder = cv_folder()
+    path = (folder / application.cv_filename).resolve()
+    if path.parent != folder or not path.is_file() or path.suffix not in (".pdf", ".docx", ".doc"):
+        abort(404)
+    response = send_file(path, as_attachment=True, download_name="tutor-cv" + path.suffix)
+    response.headers["Cache-Control"] = "no-store, private"
+    return response
 
 
 def admin_required(f):

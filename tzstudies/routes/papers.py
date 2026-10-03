@@ -12,10 +12,12 @@ from flask import (
     url_for,
 )
 from flask_login import current_user, login_required
+from sqlalchemy.exc import IntegrityError
 
 from tzstudies.catalogue import build_catalogue, identity, matches_query, metadata
 from tzstudies.extensions import db, limiter
 from tzstudies.models import Comment, History, Paper
+from tzstudies.security import valid_text
 
 papers_bp = Blueprint("papers", __name__)
 
@@ -36,7 +38,13 @@ def _ensure_paper(filename, folder, category):
         grade = metadata(filename)["grade"]
         paper = Paper(file_name=filename, category=category, grade=grade)
         db.session.add(paper)
-        db.session.commit()
+        try:
+            db.session.commit()
+        except IntegrityError:
+            db.session.rollback()
+            paper = Paper.query.filter_by(file_name=filename).first()
+            if not paper:
+                raise
     return paper
 
 
@@ -53,15 +61,16 @@ def _require_pdf(filename, folder):
     from pathlib import Path
     root = Path(folder).resolve()
     path = (root / filename).resolve()
-    if not path.is_relative_to(root) or not path.is_file() or path.suffix.lower() != ".pdf":
+    if len(filename) > 200 or "/" in filename or "\\" in filename or not path.is_relative_to(root) or not path.is_file() or path.suffix.lower() != ".pdf":
         abort(404)
+    return path
 
 
 def _catalogue():
     return build_catalogue(_get_exams_folder(), _get_answer_keys_folder())
 
 
-def _sync_papers(exams):
+def _sync_papers(exams, retry=True):
     existing = {p.file_name: p for p in Paper.query.filter_by(category="exam").all()}
     for exam in exams:
         paper = existing.get(exam["filename"])
@@ -69,7 +78,13 @@ def _sync_papers(exams):
             paper = Paper(file_name=exam["filename"], category="exam", grade=exam["grade"])
             db.session.add(paper)
         exam["paper"] = paper
-    db.session.commit()
+    try:
+        db.session.commit()
+    except IntegrityError:
+        db.session.rollback()
+        if not retry:
+            raise
+        return _sync_papers(exams, retry=False)
     for exam in exams:
         exam["paper_id"] = exam.pop("paper").id
 
@@ -102,6 +117,7 @@ def view_exam(filename):
 def serve_pdf(filename):
     """Serve a PDF inline for embedding in iframes (no download prompt)."""
     folder = _get_exams_folder()
+    _require_pdf(filename, folder)
     return send_from_directory(
         os.path.abspath(folder), filename, as_attachment=False
     )
@@ -144,6 +160,7 @@ def view_key(filename):
 @papers_bp.route("/serve_key/<path:filename>")
 @login_required
 def serve_key(filename):
+    _require_pdf(filename, _get_answer_keys_folder())
     return send_from_directory(os.path.abspath(_get_answer_keys_folder()), filename, as_attachment=False)
 
 
@@ -163,6 +180,8 @@ def history():
 @papers_bp.route("/search")
 def search():
     q = request.args.get("q", "").strip()
+    if len(q) > 200 or (q and not valid_text(q, 200)):
+        abort(400)
     if not q:
         return redirect(url_for("papers.index"))
     exams = _catalogue()
@@ -197,11 +216,14 @@ def post_comment(paper_id):
     if not body:
         flash("Comment cannot be empty.", "error")
         return redirect(url_for("papers.paper_detail", paper_id=paper_id))
-    if len(body) > 2000:
+    if not valid_text(body, 2000, multiline=True):
         flash("Comment is too long (max 2000 characters).", "error")
         return redirect(url_for("papers.paper_detail", paper_id=paper_id))
 
-    parent_id = request.form.get("parent_id", type=int)
+    raw_parent = request.form.get("parent_id", "")
+    if raw_parent and (not raw_parent.isascii() or not raw_parent.isdigit() or len(raw_parent) > 10 or not 1 <= int(raw_parent) <= 2147483647):
+        abort(400)
+    parent_id = int(raw_parent) if raw_parent else None
     if parent_id:
         parent = Comment.query.filter_by(id=parent_id, paper_id=paper.id).first()
         if not parent:

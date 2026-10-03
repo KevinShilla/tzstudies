@@ -8,6 +8,9 @@ let browser;
   const page = await context.newPage();
   const errors = [];
   page.on('pageerror', err => errors.push(err.message));
+  page.on('console', message => {
+    if (message.type() === 'error' && /Content Security Policy|violates.*directive/.test(message.text())) errors.push(message.text());
+  });
   fs.mkdirSync('tmp/website', { recursive: true });
   await page.goto('http://127.0.0.1:5050', { waitUntil: 'networkidle' });
   await page.screenshot({ path: 'tmp/website/home-desktop.png', fullPage: true });
@@ -42,10 +45,12 @@ let browser;
   await page.locator('#name').fill('Website Review');
   const email = 'website-review-' + Date.now() + '@example.com';
   await page.locator('#email').fill(email);
-  await page.locator('#password').fill('ReviewPass123');
+  await page.locator('#password').fill('Review orbit mango lantern 123');
   await page.locator('button[type=submit]').click();
   await page.waitForURL('**/view_key/**');
   assert(await page.getByRole('link', { name: 'Download answer key' }).isVisible());
+  await page.waitForLoadState('networkidle');
+  await page.screenshot({ path: 'tmp/website/answer-key-security.png', fullPage: true });
   const pdf = await context.request.get('http://127.0.0.1:5050/serve_key/BasicMath-F2-2023%20(Answer%20Key).pdf');
   assert.strictEqual(pdf.status(), 200);
   assert((await pdf.body()).subarray(0, 4).toString() === '%PDF');
@@ -98,10 +103,13 @@ let browser;
       assert.strictEqual((await context.request.get('http://127.0.0.1:5050' + iframe.split('#')[0])).status(), 200);
     }
   }
-  await page.goto('http://127.0.0.1:5050/logout');
+  if (!(await page.locator('.nav-action button').isVisible())) {
+    await page.getByRole('button', { name: 'Open navigation' }).click();
+  }
+  await page.getByRole('button', { name: 'Log out', exact: true }).click();
   await page.goto('http://127.0.0.1:5050/login');
   await page.locator('#email').fill(email);
-  await page.locator('#password').fill('ReviewPass123');
+  await page.locator('#password').fill('Review orbit mango lantern 123');
   await page.locator('button[type=submit]').click();
   await page.waitForURL('http://127.0.0.1:5050/');
   assert(await page.getByText('Hello, Website').isVisible() === false); // mobile menu is closed

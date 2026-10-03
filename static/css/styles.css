@@ -1807,3 +1807,6 @@ button,a,input,select,textarea { -webkit-tap-highlight-color:transparent; }
   .history-table td,.history-table th { padding:12px 8px; }
   #installBanner { padding:18px!important; }
 }
+
+.nav-action { margin: 0; display: inline-flex; }
+.nav-action button { border: 0; background: transparent; font: inherit; cursor: pointer; }

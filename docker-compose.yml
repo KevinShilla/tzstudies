@@ -4,7 +4,7 @@ services:
   web:
     build: .
     ports:
-      - "5000:5000"
+      - "127.0.0.1:5000:5000"
     environment:
       - FLASK_ENV=development
       - SECRET_KEY=docker-dev-secret-key-change-me
@@ -23,7 +23,7 @@ services:
       POSTGRES_PASSWORD: tzstudies
       POSTGRES_DB: tzstudies
     ports:
-      - "5432:5432"
+      - "127.0.0.1:5432:5432"
     volumes:
       - pgdata:/var/lib/postgresql/data
     healthcheck:

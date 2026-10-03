@@ -1,5 +1,8 @@
 name: CI
 
+permissions:
+  contents: read
+
 on:
   push:
     branches: [main]
@@ -18,3 +21,15 @@ jobs:
       - run: pip install -r requirements.txt pytest pytest-cov ruff
       - run: python -m pytest tests/ -v --tb=short --cov=tzstudies --cov-report=term-missing
       - run: ruff check tzstudies/ tests/ --ignore=E501
+
+  security:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+      - run: pip install -r requirements.txt pip-audit==2.10.1 bandit==1.9.4
+      - run: python -m pip_audit -r requirements.txt
+      - run: python -m bandit -r tzstudies -ll

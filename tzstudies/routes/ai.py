@@ -1,14 +1,13 @@
 from flask import Blueprint, current_app, jsonify, request
 from openai import OpenAI
 
-from tzstudies.extensions import csrf, limiter
+from tzstudies.extensions import limiter
 
 ai_bp = Blueprint("ai", __name__)
 
 
 @ai_bp.route("/ask", methods=["POST"])
 @limiter.limit("20 per hour")
-@csrf.exempt  # API endpoint uses JSON, not form submission
 def ask():
     data = request.get_json(silent=True) or {}
     if not isinstance(data, dict) or not isinstance(data.get("query", ""), str):
@@ -26,7 +25,7 @@ def ask():
         return jsonify({"error": "AI service is not configured."}), 503
 
     try:
-        client = OpenAI(api_key=api_key)
+        client = OpenAI(api_key=api_key, base_url="https://api.openai.com/v1", timeout=20.0, max_retries=1)
         response = client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
@@ -47,6 +46,6 @@ def ask():
         answer = response.choices[0].message.content.strip()
         return jsonify({"answer": answer})
 
-    except Exception as exc:
-        current_app.logger.error("OpenAI API error: %s", exc)
+    except Exception:
+        current_app.logger.error("Study assistant request failed")
         return jsonify({"error": "Failed to get a response. Please try again."}), 502

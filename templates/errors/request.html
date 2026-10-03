@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}Please try again | MyTZStudies{% endblock %}
+{% block content %}
+<div class="error-page container">
+  <span class="eyebrow">MYTZSTUDIES.COM · {{ status }}</span>
+  <h1>Let's try again.</h1>
+  <p>{{ message }}</p>
+  <a class="btn" href="{{ url_for('papers.index') }}">Back to the library</a>
+</div>
+{% endblock %}

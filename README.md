@@ -24,7 +24,7 @@
 | **Database** | PostgreSQL + SQLAlchemy ORM + Alembic migrations |
 | **Authentication** | Flask-Login (session-based) + itsdangerous tokens |
 | **AI** | OpenAI GPT-4o-mini via official Python SDK |
-| **Security** | Flask-WTF (CSRF), Flask-Limiter (rate limiting), Flask-Talisman (headers) |
+| **Security** | Flask-WTF, shared Redis rate limits, nonce-based CSP, revocable sessions and one-use recovery tokens |
 | **Caching** | Flask-Caching (SimpleCache / Redis) |
 | **Email** | Flask-Mail (Gmail SMTP) |
 | **Testing** | pytest + pytest-cov, plus browser checks |
@@ -122,9 +122,14 @@ python -m pytest tests/ -v --cov=tzstudies --cov-report=term-missing
 | `OPENAI_API_KEY` | No | OpenAI API key for AI Study Assistant |
 | `MAIL_USERNAME` | No | Gmail address for email features |
 | `MAIL_PASSWORD` | No | Gmail App Password |
-| `REDIS_URL` | No | Redis URL for rate limiter storage |
+| `REDIS_URL` | Production | Shared Redis rate limiter storage; private network or verified TLS |
+| `PUBLIC_BASE_URL` | Production | Canonical HTTPS origin for email links and HTTPS redirects |
+| `TRUSTED_HOSTS` | Production | Comma-separated allowed website/deployment hostnames |
+| `TRUSTED_PROXY_HOPS` | Behind proxy | Exact count of trusted reverse proxies; defaults to 0 |
 
 ## API Endpoints
+
+Read [SECURITY.md](SECURITY.md) before production deployment. New/reset passwords require 15-128 characters. Logout and resend-verification use CSRF-protected POST requests; JSON `/ask` requests also require `X-CSRFToken` from the page meta tag. Redis, a strong secret and correct HTTPS/proxy settings are required in production.
 
 | Method | Endpoint | Auth | Description |
 |--------|----------|------|-------------|

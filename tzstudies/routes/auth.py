@@ -1,258 +1,265 @@
+import secrets
 import threading
-from urllib.parse import urlsplit
+import time
+from urllib.parse import unquote, urlsplit
 
-from flask import Blueprint, current_app, flash, redirect, render_template, request, url_for
+from flask import Blueprint, current_app, flash, redirect, render_template, request, session, url_for
 from flask_login import current_user, login_required, login_user, logout_user
 from flask_mail import Message
-from itsdangerous import BadSignature, SignatureExpired, URLSafeTimedSerializer
-from werkzeug.security import check_password_hash, generate_password_hash
+from sqlalchemy import delete, update
+from sqlalchemy.exc import IntegrityError
+from werkzeug.security import check_password_hash
 
 from tzstudies.extensions import db, limiter, mail
-from tzstudies.models import User
+from tzstudies.models import AuthToken, LoginSession, User
+from tzstudies.security import (
+    PASSWORD_MAX,
+    PASSWORD_METHOD,
+    account_limit_key,
+    hash_password,
+    password_error,
+    token_digest,
+    valid_email,
+    valid_text,
+)
 
 auth_bp = Blueprint("auth", __name__)
+_DUMMY_HASH = hash_password(secrets.token_urlsafe(32))
 
 
 def _safe_next():
     target = request.args.get("next", "")
     try:
-        parts = urlsplit(target)
+        decoded = unquote(target)
+        parts = urlsplit(decoded)
     except ValueError:
         return url_for("papers.index")
-    if target.startswith("/") and not target.startswith("//") and not parts.scheme and not parts.netloc and "\\" not in target:
+    if len(target) <= 2000 and decoded.startswith("/") and not decoded.startswith("//") and not parts.scheme and not parts.netloc and "\\" not in decoded and all(ord(c) >= 32 and ord(c) != 127 for c in decoded):
         return target
     return url_for("papers.index")
 
 
-# ---------------------------------------------------------------------------
-# Token helpers
-# ---------------------------------------------------------------------------
+def _start_session(user):
+    raw = secrets.token_urlsafe(32)
+    now = int(time.time())
+    db.session.execute(delete(LoginSession).where(LoginSession.expires_at <= now))
+    db.session.add(LoginSession(
+        token_hash=token_digest(raw), user_id=user.id,
+        expires_at=now + int(current_app.permanent_session_lifetime.total_seconds()),
+    ))
+    db.session.commit()
+    session.clear()
+    session.permanent = True
+    session["login_token"] = raw
+    login_user(user, remember=False)
 
-def _get_serializer():
-    return URLSafeTimedSerializer(current_app.config["SECRET_KEY"])
+
+def _generate_token(user, salt):
+    raw = secrets.token_urlsafe(32)
+    now = int(time.time())
+    # Serialize token replacement against login, verification and password reset.
+    db.session.execute(update(User).where(User.id == user.id).values(pw_hash=User.pw_hash))
+    db.session.refresh(user)
+    db.session.execute(delete(AuthToken).where(AuthToken.expires_at <= now))
+    db.session.execute(delete(AuthToken).where(AuthToken.user_id == user.id, AuthToken.purpose == salt))
+    db.session.add(AuthToken(
+        token_hash=token_digest(raw), user_id=user.id, purpose=salt,
+        credential_hash=token_digest(user.pw_hash), expires_at=now + 3600,
+    ))
+    db.session.commit()
+    return raw
 
 
-def _generate_token(email, salt):
-    return _get_serializer().dumps(email, salt=salt)
-
-
-def _verify_token(token, salt, max_age=3600):
-    """Return email or None."""
-    try:
-        return _get_serializer().loads(token, salt=salt, max_age=max_age)
-    except (SignatureExpired, BadSignature):
+def _verify_token(token, salt):
+    if not isinstance(token, str) or len(token) != 43:
         return None
+    row = db.session.get(AuthToken, token_digest(token))
+    if not row or row.purpose != salt or row.expires_at <= time.time():
+        return None
+    user = db.session.get(User, row.user_id)
+    if not user or not secrets.compare_digest(row.credential_hash, token_digest(user.pw_hash)):
+        return None
+    return user
 
 
-# ---------------------------------------------------------------------------
-# Signup
-# ---------------------------------------------------------------------------
+def _consume_token(token, purpose):
+    result = db.session.execute(delete(AuthToken).where(
+        AuthToken.token_hash == token_digest(token), AuthToken.purpose == purpose,
+        AuthToken.expires_at > int(time.time()),
+    ))
+    return result.rowcount == 1
+
+
+def _send_email(msg):
+    app = current_app._get_current_object()
+
+    def send():
+        with app.app_context():
+            try:
+                mail.send(msg)
+            except Exception:
+                app.logger.warning("Account email delivery failed")
+
+    if app.testing:
+        send()
+    else:
+        threading.Thread(target=send, daemon=True).start()
+
+
+def _send_verification_email(user):
+    if not current_app.config.get("MAIL_USERNAME"):
+        return
+    token = _generate_token(user, "email-verify")
+    link = current_app.config["PUBLIC_BASE_URL"] + url_for("auth.verify_email", token=token)
+    msg = Message(subject="Verify your TZStudies account", recipients=[user.email])
+    msg.body = f"Hi {user.name},\n\nVerify your TZStudies account:\n\n{link}\n\nThis link expires in 1 hour.\n\nTZStudies Team"
+    _send_email(msg)
+
 
 @auth_bp.route("/signup", methods=["GET", "POST"])
 @limiter.limit("10 per hour", methods=["POST"])
 def signup():
     if current_user.is_authenticated:
         return redirect(_safe_next())
-
     if request.method == "POST":
         email = request.form.get("email", "").strip().lower()
         name = request.form.get("name", "").strip()
         password = request.form.get("password", "")
-
         if not email or not name or not password:
             flash("All fields are required.", "error")
-            return redirect(url_for("auth.signup"))
-
-        if len(name) > 100 or len(email) > 120 or "@" not in email or any(c.isspace() for c in email):
+        elif not valid_text(name, 100) or not valid_email(email):
             flash("Please enter a valid name and email address.", "error")
-            return redirect(url_for("auth.signup"))
-
-        if len(password) < 6:
-            flash("Password must be at least 6 characters.", "error")
-            return redirect(url_for("auth.signup"))
-
-        if User.query.filter_by(email=email).first():
-            flash("Email already registered.", "error")
-            return redirect(url_for("auth.signup"))
-
-        user = User(
-            email=email,
-            name=name,
-            pw_hash=generate_password_hash(password),
-        )
-        db.session.add(user)
-        db.session.commit()
-
-        # Send verification email (best-effort)
-        _send_verification_email(user)
-
-        login_user(user)
-        flash("Welcome to TZStudies! Check your email to verify your account.", "success")
-        return redirect(_safe_next())
-
+        elif password_error(password):
+            flash(password_error(password), "error")
+        else:
+            user = User(email=email, name=name, pw_hash=hash_password(password))
+            db.session.add(user)
+            try:
+                db.session.commit()
+            except IntegrityError:
+                db.session.rollback()
+                flash("We couldn't create an account with those details. Try logging in or resetting your password.", "error")
+                return redirect(url_for("auth.signup", next=_safe_next()))
+            _start_session(user)
+            _send_verification_email(user)
+            message = "Welcome to TZStudies! Your free study account is ready."
+            if current_app.config.get("MAIL_USERNAME"):
+                message += " Check your inbox for a verification link."
+            flash(message, "success")
+            return redirect(_safe_next())
+        return redirect(url_for("auth.signup", next=_safe_next()))
     return render_template("signup.html")
 
 
-# ---------------------------------------------------------------------------
-# Login
-# ---------------------------------------------------------------------------
-
 @auth_bp.route("/login", methods=["GET", "POST"])
-@limiter.limit("15 per hour", methods=["POST"])
+@limiter.limit("50 per hour; 10 per minute", methods=["POST"])
+@limiter.limit("20 per hour", key_func=account_limit_key, methods=["POST"])
 def login():
     if current_user.is_authenticated:
-        return redirect(url_for("papers.index"))
-
+        return redirect(_safe_next())
     if request.method == "POST":
         email = request.form.get("email", "").strip().lower()
         password = request.form.get("password", "")
-
-        user = User.query.filter_by(email=email).first()
-        if user and check_password_hash(user.pw_hash, password):
-            login_user(user)
-            return redirect(_safe_next())
-
+        user = User.query.filter_by(email=email).first() if valid_email(email) else None
+        if len(password) <= PASSWORD_MAX:
+            stored = user.pw_hash if user else _DUMMY_HASH
+            try:
+                correct = check_password_hash(stored, password)
+            except (ValueError, TypeError):
+                correct = False
+            if user and correct:
+                # Hold the account write lock until the new session commits.
+                upgraded = user.pw_hash if user.pw_hash.startswith(PASSWORD_METHOD + "$") else hash_password(password)
+                result = db.session.execute(update(User).where(User.id == user.id, User.pw_hash == stored).values(pw_hash=upgraded))
+                if result.rowcount == 1:
+                    _start_session(user)
+                    return redirect(_safe_next())
+                db.session.rollback()
         flash("Invalid email or password.", "error")
-
     return render_template("login.html")
 
 
-# ---------------------------------------------------------------------------
-# Logout
-# ---------------------------------------------------------------------------
-
-@auth_bp.route("/logout")
+@auth_bp.route("/logout", methods=["POST"])
 @login_required
 def logout():
+    token = session.get("login_token", "")
+    db.session.execute(delete(LoginSession).where(LoginSession.token_hash == token_digest(token)))
+    db.session.commit()
     logout_user()
+    session.clear()
     flash("You have been logged out.", "info")
     return redirect(url_for("papers.index"))
 
 
-# ---------------------------------------------------------------------------
-# Email verification
-# ---------------------------------------------------------------------------
-
-def _send_verification_email(user):
-    """Send a verification email to the user in a background thread (best-effort)."""
-    try:
-        token = _generate_token(user.email, salt="email-verify")
-        verify_url = url_for("auth.verify_email", token=token, _external=True)
-        msg = Message(
-            subject="Verify your TZStudies account",
-            recipients=[user.email],
-        )
-        msg.body = (
-            f"Hi {user.name},\n\n"
-            f"Welcome to TZStudies! Please verify your email:\n\n"
-            f"{verify_url}\n\n"
-            f"This link expires in 1 hour.\n\n"
-            f"— TZStudies Team"
-        )
-        # Send in background so the user isn't stuck waiting
-        app = current_app._get_current_object()
-
-        def _send():
-            with app.app_context():
-                try:
-                    mail.send(msg)
-                except Exception as exc:
-                    app.logger.warning("Failed to send verification email: %s", exc)
-
-        threading.Thread(target=_send, daemon=True).start()
-    except Exception as exc:
-        current_app.logger.warning("Failed to prepare verification email: %s", exc)
-
-
 @auth_bp.route("/verify/<token>")
+@limiter.limit("20 per hour")
 def verify_email(token):
-    email = _verify_token(token, salt="email-verify", max_age=3600)
-    if not email:
-        flash("Invalid or expired verification link.", "error")
-        return redirect(url_for("papers.index"))
-
-    user = User.query.filter_by(email=email).first()
-    if user and not user.email_verified:
-        user.email_verified = True
-        db.session.commit()
-        flash("Email verified! Thank you.", "success")
-    elif user:
-        flash("Email already verified.", "info")
-    else:
-        flash("User not found.", "error")
-
+    user = _verify_token(token, "email-verify")
+    if user:
+        db.session.execute(update(User).where(User.id == user.id).values(email_verified=True))
+        if _consume_token(token, "email-verify"):
+            db.session.commit()
+            flash("Email verified! Thank you.", "success")
+            return redirect(url_for("papers.index"))
+    db.session.rollback()
+    flash("Invalid or expired verification link.", "error")
     return redirect(url_for("papers.index"))
 
 
-@auth_bp.route("/resend-verification")
+@auth_bp.route("/resend-verification", methods=["POST"])
 @login_required
+@limiter.limit("3 per hour")
 def resend_verification():
     if current_user.email_verified:
         flash("Your email is already verified.", "info")
     else:
         _send_verification_email(current_user)
-        flash("Verification email sent! Check your inbox.", "success")
+        flash("If email is available, check your inbox for a verification link.", "info")
     return redirect(url_for("papers.index"))
 
 
-# ---------------------------------------------------------------------------
-# Password reset
-# ---------------------------------------------------------------------------
-
 @auth_bp.route("/forgot-password", methods=["GET", "POST"])
 @limiter.limit("5 per hour", methods=["POST"])
+@limiter.limit("3 per hour", key_func=account_limit_key, methods=["POST"])
 def forgot_password():
     if request.method == "POST":
         email = request.form.get("email", "").strip().lower()
-        user = User.query.filter_by(email=email).first()
-
-        if user:
-            try:
-                token = _generate_token(user.email, salt="password-reset")
-                reset_url = url_for("auth.reset_password", token=token, _external=True)
-                msg = Message(
-                    subject="Reset your TZStudies password",
-                    recipients=[user.email],
-                )
-                msg.body = (
-                    f"Hi {user.name},\n\n"
-                    f"You requested a password reset:\n\n"
-                    f"{reset_url}\n\n"
-                    f"This link expires in 1 hour. If you didn't request this, ignore this email.\n\n"
-                    f"— TZStudies Team"
-                )
-                mail.send(msg)
-            except Exception as exc:
-                current_app.logger.warning("Failed to send reset email: %s", exc)
-
-        # Always show same message (don't reveal if email exists)
+        user = User.query.filter_by(email=email).first() if valid_email(email) else None
+        if user and current_app.config.get("MAIL_USERNAME"):
+            token = _generate_token(user, "password-reset")
+            link = current_app.config["PUBLIC_BASE_URL"] + url_for("auth.reset_password", token=token)
+            msg = Message(subject="Reset your TZStudies password", recipients=[user.email])
+            msg.body = f"Hi {user.name},\n\nReset your password:\n\n{link}\n\nThis link expires in 1 hour and works once. If you didn't request it, ignore this email.\n\nTZStudies Team"
+            _send_email(msg)
         flash("If that email is registered, you'll receive a reset link shortly.", "info")
         return redirect(url_for("auth.login"))
-
     return render_template("forgot_password.html")
 
 
 @auth_bp.route("/reset-password/<token>", methods=["GET", "POST"])
+@limiter.limit("20 per hour")
 def reset_password(token):
-    email = _verify_token(token, salt="password-reset", max_age=3600)
-    if not email:
+    user = _verify_token(token, "password-reset")
+    if not user:
         flash("Invalid or expired reset link.", "error")
         return redirect(url_for("auth.forgot_password"))
-
     if request.method == "POST":
         password = request.form.get("password", "")
-        if len(password) < 6:
-            flash("Password must be at least 6 characters.", "error")
+        error = password_error(password)
+        if error:
+            flash(error, "error")
             return redirect(url_for("auth.reset_password", token=token))
-
-        user = User.query.filter_by(email=email).first()
-        if user:
-            user.pw_hash = generate_password_hash(password)
-            db.session.commit()
-            flash("Password updated! You can now log in.", "success")
-            return redirect(url_for("auth.login"))
-        else:
-            flash("User not found.", "error")
+        old_hash, user_id = user.pw_hash, user.id
+        new_hash = hash_password(password)
+        changed = db.session.execute(update(User).where(User.id == user_id, User.pw_hash == old_hash).values(pw_hash=new_hash))
+        if changed.rowcount != 1 or not _consume_token(token, "password-reset"):
+            db.session.rollback()
+            flash("Invalid or expired reset link.", "error")
             return redirect(url_for("auth.forgot_password"))
-
+        db.session.execute(delete(LoginSession).where(LoginSession.user_id == user_id))
+        db.session.execute(delete(AuthToken).where(AuthToken.user_id == user_id))
+        db.session.commit()
+        session.clear()
+        flash("Password updated! Your previous sessions have been signed out. You can now log in.", "success")
+        return redirect(url_for("auth.login"))
     return render_template("reset_password.html", token=token)

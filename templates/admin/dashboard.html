@@ -182,6 +182,7 @@
             <th>School</th>
             <th>Rate</th>
             <th>Applied</th>
+            <th>CV</th>
           </tr>
         </thead>
         <tbody>
@@ -193,6 +194,7 @@
             <td>{{ app.school }}</td>
             <td>{{ app.hourly_rate }}</td>
             <td>{{ app.created_at.strftime('%d %b %Y') if app.created_at else '—' }}</td>
+            <td>{% if app.cv_filename %}<a href="{{ url_for('admin.download_cv', application_id=app.id) }}">Download CV</a>{% else %}—{% endif %}</td>
           </tr>
           {% endfor %}
         </tbody>

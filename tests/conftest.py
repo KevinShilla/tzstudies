@@ -1,12 +1,11 @@
 """Shared test fixtures for TZStudies."""
 
-import os
 import pytest
+from werkzeug.security import generate_password_hash
 
 from tzstudies import create_app
 from tzstudies.extensions import db as _db
-from tzstudies.models import User, Paper
-from werkzeug.security import generate_password_hash
+from tzstudies.models import Paper, User
 
 
 @pytest.fixture(scope="session")
@@ -21,7 +20,8 @@ def _setup_db(app):
     """Create tables before each test, drop after."""
     with app.app_context():
         _db.create_all()
-        yield
+    yield
+    with app.app_context():
         _db.session.remove()
         _db.drop_all()
 

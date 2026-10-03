@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="csrf-token" content="{{ csrf_token() }}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="TZStudies — Free past exam papers, answer keys, and tutors for Tanzanian students.">
 
@@ -49,7 +50,7 @@
 
   {% include 'footer.html' %}
 
-  <script src="{{ url_for('static', filename='js/script.js') }}" defer></script>
+  <script src="{{ url_for('static', filename='js/script.js', v='3') }}" defer></script>
 
   {% block extra_scripts %}{% endblock %}
 
@@ -75,7 +76,7 @@
     </div>
   </div>
 
-  <script>
+  <script nonce="{{ csp_nonce }}">
   (function() {
     var deferredPrompt;
     var banner = document.getElementById('installBanner');

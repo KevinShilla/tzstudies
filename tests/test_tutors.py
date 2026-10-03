@@ -1,6 +1,5 @@
 """Tests for tutor pages and tutor application."""
 
-import pytest
 
 
 class TestTutorsPage:

@@ -5,6 +5,7 @@ import sys
 from flask import Flask
 
 from tzstudies.config import config_by_name
+from tzstudies.security import configure_security
 
 
 def create_app(config_name=None):
@@ -24,6 +25,7 @@ def create_app(config_name=None):
     if cfg is None:
         raise ValueError(f"Unknown config: {config_name}")
     app.config.from_object(cfg)
+    configure_security(app, production=config_name == "production")
 
     @app.context_processor
     def shared_context():
@@ -48,13 +50,42 @@ def create_app(config_name=None):
     # Ensure tables exist and schema is up-to-date
     with app.app_context():
         from tzstudies.extensions import db
-        db.create_all()
-        _fix_schema(db)
+        _initialise_database(app, db)
 
     # Configure logging
     _configure_logging(app)
 
     return app
+
+
+def _initialise_database(app, db):
+    """Serialize compatibility bootstrap across application workers."""
+    from pathlib import Path
+
+    from filelock import FileLock
+    from sqlalchemy import text
+
+    instance = Path(app.instance_path)
+    instance.mkdir(parents=True, exist_ok=True, mode=0o700)
+    if not app.debug and not app.testing and os.name != "nt":
+        instance.chmod(0o700)
+        (Path(app.root_path).parent / "uploads" / "cvs").chmod(0o700)
+
+    def initialise():
+        db.create_all()
+        _fix_schema(db)
+
+    if db.engine.dialect.name == "postgresql":
+        with db.engine.begin() as connection:
+            connection.execute(text("SELECT pg_advisory_xact_lock(:key)"), {"key": 1987253301})
+            initialise()
+    elif db.engine.dialect.name == "sqlite" and db.engine.url.database not in (None, "", ":memory:"):
+        with FileLock(str(instance / "schema.lock"), timeout=30):
+            initialise()
+            if os.name != "nt":
+                Path(db.engine.url.database).chmod(0o600)
+    else:
+        initialise()
 
 
 def _fix_schema(db):
@@ -122,7 +153,13 @@ def _fix_schema(db):
 
 def _init_extensions(app):
     from tzstudies.extensions import (
-        cache, csrf, db, limiter, login_manager, mail, migrate,
+        cache,
+        csrf,
+        db,
+        limiter,
+        login_manager,
+        mail,
+        migrate,
     )
     from tzstudies.models import User
 
@@ -138,16 +175,31 @@ def _init_extensions(app):
 
     @login_manager.user_loader
     def load_user(user_id):
+        import time
+
+        from flask import session
+
+        from tzstudies.models import LoginSession
+        from tzstudies.security import token_digest
+
+        if not str(user_id).isascii() or not str(user_id).isdigit() or len(str(user_id)) > 18:
+            return None
+        token = session.get("login_token")
+        if not isinstance(token, str) or len(token) > 128:
+            return None
+        browser_session = db.session.get(LoginSession, token_digest(token))
+        if not browser_session or browser_session.user_id != int(user_id) or browser_session.expires_at <= time.time():
+            return None
         return db.session.get(User, int(user_id))
 
 
 def _register_blueprints(app):
+    from tzstudies.routes.admin import admin_bp
+    from tzstudies.routes.ai import ai_bp
     from tzstudies.routes.auth import auth_bp
     from tzstudies.routes.papers import papers_bp
     from tzstudies.routes.tutors import tutors_bp
-    from tzstudies.routes.ai import ai_bp
     from tzstudies.routes.upload import upload_bp
-    from tzstudies.routes.admin import admin_bp
 
     app.register_blueprint(auth_bp)
     app.register_blueprint(papers_bp)
@@ -165,9 +217,12 @@ def _register_error_handlers(app):
 
     @app.errorhandler(500)
     def internal_error(error):
-        from flask import render_template
+        from flask import jsonify, render_template, request
+
         from tzstudies.extensions import db
         db.session.rollback()
+        if request.is_json or request.path.startswith(("/api/", "/ask")):
+            return jsonify({"error": "Something went wrong. Please try again shortly."}), 500
         return render_template("errors/500.html"), 500
 
     @app.errorhandler(403)
@@ -177,7 +232,9 @@ def _register_error_handlers(app):
 
     @app.errorhandler(429)
     def rate_limited(error):
-        from flask import render_template
+        from flask import jsonify, render_template, request
+        if request.is_json or request.path.startswith(("/api/", "/ask")):
+            return jsonify({"error": "Too many requests. Please wait before trying again."}), 429
         return render_template("errors/429.html"), 429
 
     # Health check endpoint (for load balancers / uptime monitors)
@@ -188,8 +245,10 @@ def _register_error_handlers(app):
             from tzstudies.extensions import db
             db.session.execute(db.text("SELECT 1"))
             return jsonify({"status": "healthy", "database": "connected"})
-        except Exception as exc:
-            return jsonify({"status": "unhealthy", "error": str(exc)}), 503
+        except Exception:
+            db.session.rollback()
+            app.logger.error("Health check failed")
+            return jsonify({"status": "unhealthy"}), 503
 
 
 def _configure_logging(app):
