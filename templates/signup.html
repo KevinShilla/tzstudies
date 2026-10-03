@@ -8,6 +8,7 @@
     <p class="auth-description">A free account. A world of practice. Make it yours.</p>
     <form method="post" class="auth-form">
       <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+      {% if g.analytics %}<input type="hidden" name="analytics_ticket" value="{{ g.analytics.ticket }}">{% endif %}
 
       <div class="form-group">
         <label for="name">Full Name</label>

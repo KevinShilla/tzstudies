@@ -13,7 +13,8 @@
 - **Answer Keys** — Worked solutions for all 60 papers, with branded covers, steps, final answers and study notes; preview and download after login
 - **Tutor Directory** — Find listed tutors by subject, or submit an application for review
 - **User Accounts** — Secure signup/login with email verification and password reset
-- **Admin Dashboard** — Analytics, user management, and tutor application review
+- **Private Analytics** — Visitors, sources, page timing, entries/exits, signup attribution, funnels, journeys and date comparisons at `/admin/analytics`; [tracking and report definitions](docs/ANALYTICS.md)
+- **Admin Dashboard** — User management and tutor application review
 - **Activity History** — Track recently viewed and downloaded papers
 
 ## Tech Stack

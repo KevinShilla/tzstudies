@@ -10,6 +10,7 @@ from sqlalchemy import delete, update
 from sqlalchemy.exc import IntegrityError
 from werkzeug.security import check_password_hash
 
+from tzstudies.analytics import record_auth_event
 from tzstudies.extensions import db, limiter, mail
 from tzstudies.models import AuthToken, LoginSession, User
 from tzstudies.security import (
@@ -141,6 +142,7 @@ def signup():
                 flash("We couldn't create an account with those details. Try logging in or resetting your password.", "error")
                 return redirect(url_for("auth.signup", next=_safe_next()))
             _start_session(user)
+            record_auth_event("signup_complete", request.form.get("analytics_ticket", ""))
             _send_verification_email(user)
             message = "Welcome to TZStudies! Your free study account is ready."
             if current_app.config.get("MAIL_USERNAME"):
@@ -173,6 +175,7 @@ def login():
                 result = db.session.execute(update(User).where(User.id == user.id, User.pw_hash == stored).values(pw_hash=upgraded))
                 if result.rowcount == 1:
                     _start_session(user)
+                    record_auth_event("login", request.form.get("analytics_ticket", ""))
                     return redirect(_safe_next())
                 db.session.rollback()
         flash("Invalid email or password.", "error")

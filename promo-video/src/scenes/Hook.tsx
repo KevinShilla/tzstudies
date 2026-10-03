@@ -7,7 +7,7 @@ export const Hook=()=>{
   return <Stage dark>
     <Wordmark dark size={40} style={{position:'absolute',left:115,top:82,opacity:motion(f,5,20)}}/>
     <Label dark style={{position:'absolute',left:118,top:256,opacity:motion(f,8)}}>Your next chapter</Label>
-    <div style={{position:'absolute',left:105,top:340,zIndex:3,opacity:1-second,translate:`0 ${-second*65}px`}}><RevealText size={174} start={2}>Next exam?</RevealText></div>
+    <div style={{position:'absolute',left:105,top:340,zIndex:3,opacity:1-motion(f,65,12),translate:`0 ${-motion(f,65,12)*65}px`}}><RevealText size={174} start={2}>Next exam?</RevealText></div>
     <div style={{position:'absolute',left:105,top:340,zIndex:3,opacity:second}}><RevealText size={170} start={78}>Start <span style={{color:C.mint}}>ready.</span></RevealText></div>
     <div style={{position:'absolute',left:121,top:599,fontSize:36,opacity:motion(f,114,24),translate:`0 ${(1-motion(f,114))*20}px`,color:'#d9eadf'}}>A little practice goes a long way.</div>
     <div style={{position:'absolute',width:660,height:730,right:-32,top:335,rotate:`${interpolate(f,[0,195],[15,4])}deg`,translate:`${interpolate(f,[0,90,195],[120,45,0])}px ${interpolate(f,[0,195],[180,5])}px`,opacity:.13}}><CanvasImage src={staticFile('captures/answer-title.png')} style={{width:660,height:932}}/></div>

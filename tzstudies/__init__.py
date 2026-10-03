@@ -25,6 +25,16 @@ def create_app(config_name=None):
     if cfg is None:
         raise ValueError(f"Unknown config: {config_name}")
     app.config.from_object(cfg)
+    # Timestamp columns and analytics boundaries use UTC, even on a database host in another timezone.
+    from sqlalchemy.engine import make_url
+    database_url = make_url(app.config["SQLALCHEMY_DATABASE_URI"])
+    if database_url.get_backend_name() == "postgresql":
+        engine_options = dict(app.config.get("SQLALCHEMY_ENGINE_OPTIONS", {}))
+        connect_args = dict(engine_options.get("connect_args", {}))
+        prior_options = connect_args.get("options", database_url.query.get("options", ""))
+        connect_args["options"] = (prior_options + " -c timezone=UTC").strip()
+        engine_options["connect_args"] = connect_args
+        app.config["SQLALCHEMY_ENGINE_OPTIONS"] = engine_options
     configure_security(app, production=config_name == "production")
 
     @app.context_processor
@@ -37,6 +47,9 @@ def create_app(config_name=None):
 
     # Register blueprints
     _register_blueprints(app)
+
+    from tzstudies.analytics import init_analytics
+    init_analytics(app)
 
     # Register error handlers
     _register_error_handlers(app)
@@ -74,6 +87,9 @@ def _initialise_database(app, db):
     def initialise():
         db.create_all()
         _fix_schema(db)
+        from tzstudies.analytics import protect_postgres_tables
+        with db.engine.begin() as analytics_connection:
+            protect_postgres_tables(analytics_connection)
 
     if db.engine.dialect.name == "postgresql":
         with db.engine.begin() as connection:
@@ -196,6 +212,7 @@ def _init_extensions(app):
 def _register_blueprints(app):
     from tzstudies.routes.admin import admin_bp
     from tzstudies.routes.ai import ai_bp
+    from tzstudies.routes.analytics import analytics_bp
     from tzstudies.routes.auth import auth_bp
     from tzstudies.routes.papers import papers_bp
     from tzstudies.routes.tutors import tutors_bp
@@ -207,6 +224,7 @@ def _register_blueprints(app):
     app.register_blueprint(ai_bp)
     app.register_blueprint(upload_bp)
     app.register_blueprint(admin_bp)
+    app.register_blueprint(analytics_bp)
 
 
 def _register_error_handlers(app):

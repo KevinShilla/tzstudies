@@ -1,0 +1,27 @@
+{
+  "visitors": 5,
+  "visits": 5,
+  "exact_page_views": 19,
+  "observed_html_pages": 19,
+  "successful_signups": 1,
+  "conversion_percent": 20,
+  "abandonment": 1,
+  "sources": [
+    "Direct",
+    "Google",
+    "Instagram",
+    "YouTube",
+    "school.example.org"
+  ],
+  "entry_exit_visits": [
+    5,
+    5
+  ],
+  "date_presets": 5,
+  "custom_empty_and_today": true,
+  "mobile_overflow": false,
+  "browser_errors": [],
+  "collect_requests": 30,
+  "all_collect_requests_204": true,
+  "database": "isolated analytics-review.db"
+}

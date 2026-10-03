@@ -1,0 +1,32 @@
+[
+  {
+    "file": "MyTZStudies-Launch-1080p.mp4",
+    "durationSeconds": 72.0,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 30,
+    "decodedFrames": 2160,
+    "blackFrames": 0,
+    "integratedLoudnessLUFS": -15.69,
+    "truePeakDBTP": -1.37,
+    "streamingReady": true,
+    "sha256": "11f012987aca805b44f9f205a25ad8df479f76d331dba9bf1a13ae0febf311db"
+  },
+  {
+    "file": "MyTZStudies-Social-Vertical.mp4",
+    "durationSeconds": 26.005,
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": 30,
+    "decodedFrames": 780,
+    "blackFrames": 0,
+    "integratedLoudnessLUFS": -16.36,
+    "truePeakDBTP": -1.48,
+    "streamingReady": true,
+    "sha256": "289874ee0837ee384e3983adfacb6829fb19c6a3172f77e06b430212b284b880"
+  }
+]

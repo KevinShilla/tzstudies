@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}Privacy & analytics | MyTZStudies{% endblock %}
+{% block content %}
+<section class="container page-intro" style="max-width:760px;padding-bottom:4rem">
+  <span class="eyebrow">YOUR STUDY SPACE</span><h1>Privacy &amp; analytics</h1>
+  <p>We use first-party analytics to understand which parts of TZStudies help students and where the website can improve. Only the website administrator can open these reports.</p>
+  <h2>What the analytics records</h2>
+  <p>An anonymous browser identifier, pages visited, visible time on pages, traffic source, and actions such as searching, opening an exam, starting signup, or successfully creating an account. Referrers contain a website hostname only.</p>
+  <p>Analytics does not store your name, email, IP address, password, search words, messages, or form contents. We do not use browser fingerprinting or send analytics to a third-party service. Account information is stored separately to provide login and account features.</p>
+  <h2>Your choice</h2>
+  <p>The anonymous visitor cookie lasts up to 90 days after your last visit. A visit ends after 30 minutes of inactivity. We honour Do Not Track and Global Privacy Control signals. You can also turn analytics off for this browser; studying, signup and login will still work.</p>
+  <form method="post" action="{{ url_for('analytics.preferences') }}">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+    <input type="hidden" name="choice" value="{{ 'on' if opted_out else 'off' }}">
+    <p><strong>Browser preference: {{ 'analytics off' if opted_out else 'analytics allowed, unless your browser sends a privacy signal' }}.</strong></p>
+    <button class="btn" type="submit">{{ 'Allow analytics for this browser' if opted_out else 'Turn analytics off for this browser' }}</button>
+  </form>
+</section>
+{% endblock %}

@@ -62,6 +62,8 @@ class Config:
     RATELIMIT_IN_MEMORY_FALLBACK_ENABLED = False
     RATELIMIT_HEADERS_ENABLED = True
     MAIL_DEBUG = False
+    ANALYTICS_ENABLED = os.getenv("ANALYTICS_ENABLED", "true").lower() == "true"
+    ANALYTICS_SESSION_SECONDS = 1800
 
 
 class DevelopmentConfig(Config):

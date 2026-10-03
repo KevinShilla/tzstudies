@@ -54,7 +54,7 @@ async function videoContext(name, storageState, viewport={width:1440,height:900}
   await login.waitForURL(base+'/');
   const storage=await auth.storageState();
   await auth.close();
-  if (!fs.existsSync(path.join(raw,'library.webm'))) {
+  if (!process.argv.includes('--reuse-library') || !fs.existsSync(path.join(raw,'library.webm'))) {
   const library=await videoContext('library');
   await library.page.goto(base,{waitUntil:'networkidle'});
   await library.page.evaluate(()=>document.fonts.ready);
@@ -129,6 +129,12 @@ async function videoContext(name, storageState, viewport={width:1440,height:900}
   await pause(6500);
   await shot(mobile.page,'mobile-papers');
   await mobile.finish();
+  const stillContext=await browser.newContext({viewport:{width:1440,height:900},serviceWorkers:'block'});
+  const stillPage=await stillContext.newPage();
+  await stillPage.goto(base+'/tutors',{waitUntil:'networkidle'});
+  await stillPage.locator('#subjectSelect').selectOption('Math');
+  await shot(stillPage,'tutors-full',true);
+  await stillContext.close();
   fs.writeFileSync(path.join(captures,'manifest.json'),JSON.stringify({capturedAt:new Date().toISOString(),origin:base,keyHref,counts:{papers:60,answerKeys:60,levels:4},account:'Isolated local preview account; no production data'},null,2));
   await browser.close();
 })().catch(async error=>{console.error(error);if(browser)await browser.close();process.exitCode=1;});

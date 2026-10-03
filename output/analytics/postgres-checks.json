@@ -1,0 +1,10 @@
+{
+  "postgres_version": 17,
+  "public_operations_denied": 56,
+  "protected_tables": 7,
+  "service_role_read_preserved": true,
+  "existing_admin_count": 1,
+  "pg_tracking_and_signup_attribution": true,
+  "pg_report_and_funnel": true,
+  "cluster": "isolated tmp/analytics-postgres-review"
+}
