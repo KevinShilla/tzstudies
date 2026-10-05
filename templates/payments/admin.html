@@ -1,0 +1,20 @@
+{% extends 'payments/layout.html' %}
+{% block title %}Payments · TZStudies Admin{% endblock %}
+{% block payment_content %}
+<a class="payment-back" href="{{ url_for('admin.dashboard') }}">← Admin dashboard</a>
+<header class="payment-heading"><div><p class="payment-eyebrow">TZSTUDIES ADMIN</p><h1>Payments</h1><p>Manage checkout readiness and review recent orders.</p></div><span class="payment-badge {{ 'is-paid' if enabled else '' }}">{{ 'Payments enabled' if enabled else 'Payments paused' }}</span></header>
+<div class="payment-grid">
+  <article class="payment-card"><h2>Checkout readiness</h2>
+    <dl class="payment-settings"><dt>ClickPesa credentials</dt><dd>{{ 'Configured' if credentials_ready else 'Not configured' }}</dd><dt>Webhook validation</dt><dd>{{ 'Checksum + provider query' if checksum_enabled else 'Authenticated provider query' }}</dd><dt>Return URL</dt><dd>{{ return_url }}</dd><dt>Webhook URL</dt><dd>{{ webhook_url }}</dd></dl>
+    <p class="payment-note">Account activation and enabled payment methods must also be checked in ClickPesa. A return to the website never confirms a payment.</p>
+  </article>
+  <article class="payment-card payment-test"><p class="payment-eyebrow">PRIVATE CHECKOUT TEST</p><h2>Try a small payment</h2>
+    {% set plan_id = 'payment_test' %}{% set plan = plans.get(plan_id) %}
+    {% if plan %}<p>{{ plan.description }}</p><div class="payment-price">{{ plan.currency }} {{ '{:,.2f}'.format(plan.price|float) }}<small>One payment · provider fees may apply</small></div>
+    {% if enabled and plan.enabled and credentials_ready %}{% include 'payments/_checkout_form.html' %}
+    {% else %}<p class="payment-note">Test checkout is paused. Configure the server credentials and enable PAYMENTS_ENABLED and PAYMENT_TEST_PLAN_ENABLED when you are ready.</p>{% endif %}
+    {% else %}<p>No test plan configured.</p>{% endif %}
+  </article>
+</div>
+<article class="payment-card"><div class="payment-section-heading"><h2>Recent orders</h2><span>Latest 50</span></div>{% include 'payments/_orders.html' %}</article>
+{% endblock %}

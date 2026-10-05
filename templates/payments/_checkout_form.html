@@ -1,0 +1,5 @@
+<form action="{{ url_for('payments.checkout', plan_id=plan_id) }}" method="post">
+  <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+  <input type="hidden" name="intent" value="{{ intents[plan_id] }}">
+  <button class="payment-button" type="submit">Continue to ClickPesa · {{ plan.currency }} {{ '{:,.2f}'.format(plan.price|float) }}</button>
+</form>

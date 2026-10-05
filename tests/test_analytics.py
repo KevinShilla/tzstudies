@@ -128,8 +128,12 @@ def test_sources_are_recognised_and_sanitised(client, app, url, referrer, source
 
 
 def test_entry_exit_order_and_active_time_with_reordered_beacons(client, app, monkeypatch):
+    now = analytics.now_utc()
+    monkeypatch.setattr(analytics, "now_utc", lambda: now)
     first = ticket(client)
     send(client, first)
+    # Windows clocks can give consecutive requests identical timestamps.
+    monkeypatch.setattr(analytics, "now_utc", lambda: now + timedelta(seconds=1))
     second = ticket(client, "/about")
     send(client, second)
     now = analytics.now_utc()
@@ -197,9 +201,12 @@ def test_failed_signup_does_not_count_completion_and_abandonment_is_tracked(clie
     assert result["summary"]["signup_starts"] == result["summary"]["signup_abandoned"] == 1
 
 
-def test_navigation_away_from_signup_records_abandonment_without_exit_beacon(client, app):
+def test_navigation_away_from_signup_records_abandonment_without_exit_beacon(client, app, monkeypatch):
+    now = analytics.now_utc()
+    monkeypatch.setattr(analytics, "now_utc", lambda: now)
     token = ticket(client, "/signup")
     send(client, token, events=[event("signup_start")])
+    monkeypatch.setattr(analytics, "now_utc", lambda: now + timedelta(seconds=1))
     send(client, ticket(client, "/about"))
     assert snapshot(app)["summary"]["signup_abandoned"] == 1
 

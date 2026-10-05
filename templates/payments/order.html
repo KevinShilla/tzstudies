@@ -1,0 +1,23 @@
+{% extends 'payments/layout.html' %}
+{% block title %}Payment status · TZStudies{% endblock %}
+{% block payment_content %}
+<a class="payment-back" href="{{ url_for('payments.admin') if current_user.is_admin else url_for('payments.index') }}">← My payments</a>
+<article class="payment-card payment-centered">
+  <p class="payment-eyebrow">{{ 'WELCOME BACK TO TZSTUDIES' if returned else 'YOUR PAYMENT' }}</p>
+  {% if order %}
+    <div id="paymentState" data-status="{{ order.status }}" data-status-url="{{ url_for('payments.order_status', identifier=order.id) }}">
+      <div class="payment-symbol" aria-hidden="true">{{ '✓' if order.status == 'paid' else '…' }}</div>
+      <h1 id="paymentTitle">{{ 'Payment confirmed' if order.status == 'paid' else 'Payment refunded' if order.status == 'refunded' else 'Payment reversed' if order.status == 'reversed' else 'Payment not completed' if order.status == 'failed' else 'Awaiting payment confirmation' }}</h1>
+      <p id="paymentMessage" role="status" aria-live="polite">{{ 'ClickPesa has confirmed your payment. Your receipt details are below.' if order.status == 'paid' else 'Returning here does not confirm payment. We will update this page when ClickPesa confirms the result.' }}</p>
+    </div>
+    <div class="payment-receipt"><dl><dt>Item</dt><dd>{{ order.plan_name }}</dd><dt>Amount</dt><dd>{{ order.currency }} {{ '{:,.2f}'.format(order.amount) }}</dd><dt>Order reference</dt><dd>{{ order.order_reference }}</dd><dt>Status</dt><dd id="paymentStatus">{{ order.status|replace('_',' ')|title }}</dd><dt>Created (UTC)</dt><dd>{{ order.created_at.strftime('%d %b %Y, %H:%M') }}</dd>{% if order.payment_reference %}<dt>ClickPesa reference</dt><dd>{{ order.payment_reference }}</dd>{% endif %}{% if order.completed_at %}<dt>Confirmed (UTC)</dt><dd>{{ order.completed_at.strftime('%d %b %Y, %H:%M') }}</dd>{% endif %}</dl></div>
+    <div id="pendingActions" {% if order.status in ['paid','refunded','reversed'] %}hidden{% endif %}>
+      <form method="post" action="{{ url_for('payments.check_order', identifier=order.id) }}"><input type="hidden" name="csrf_token" value="{{ csrf_token() }}"><button class="payment-button" type="submit">Check payment status</button></form>
+      {% if order.status == 'pending' and order.checkout_url %}<a class="payment-secondary" href="{{ url_for('payments.continue_checkout', identifier=order.id) }}">Return to checkout</a>{% endif %}
+      <p class="payment-note">If you have already paid, please wait for confirmation before making another payment.</p>
+    </div>
+    {% if order.plan_id == 'payment_test' %}<p class="payment-note">This is a checkout test. It does not change your study access or start a subscription.</p>{% endif %}
+  {% else %}<h1>Welcome back</h1><p>Open your payments to view the confirmed status of your order.</p><a class="payment-button" href="{{ url_for('payments.index') }}">View my payments</a>{% endif %}
+</article>
+{% endblock %}
+{% block extra_scripts %}{% if order %}<script src="{{ url_for('static',filename='js/payment-status.js') }}" defer></script>{% endif %}{% endblock %}

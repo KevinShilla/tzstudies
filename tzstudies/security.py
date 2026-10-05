@@ -118,7 +118,7 @@ def configure_security(app, production=False):
         )
         response.headers["X-Content-Type-Options"] = "nosniff"
         response.headers["X-Frame-Options"] = "SAMEORIGIN"
-        response.headers["Referrer-Policy"] = "same-origin"
+        response.headers["Referrer-Policy"] = "no-referrer" if request.endpoint and request.endpoint.startswith("payments.") else "same-origin"
         response.headers["Permissions-Policy"] = "camera=(), microphone=(), geolocation=(), payment=(), usb=()"
         response.headers["Cross-Origin-Resource-Policy"] = "same-origin"
         if production and request.is_secure:

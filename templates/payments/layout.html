@@ -1,0 +1,3 @@
+{% extends 'base.html' %}
+{% block extra_head %}<link rel="stylesheet" href="{{ url_for('static', filename='css/payments.css') }}">{% endblock %}
+{% block content %}<section class="payment-shell">{% block payment_content %}{% endblock %}</section>{% endblock %}

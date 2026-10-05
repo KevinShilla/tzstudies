@@ -36,6 +36,8 @@ def create_app(config_name=None):
         engine_options["connect_args"] = connect_args
         app.config["SQLALCHEMY_ENGINE_OPTIONS"] = engine_options
     configure_security(app, production=config_name == "production")
+    from tzstudies.payment_config import configure_payments
+    configure_payments(app, production=config_name == "production")
 
     @app.context_processor
     def shared_context():
@@ -47,6 +49,10 @@ def create_app(config_name=None):
 
     # Register blueprints
     _register_blueprints(app)
+    from tzstudies.payments import init_payments
+    init_payments(app)
+    from tzstudies.routes.payments import register_payment_callbacks
+    register_payment_callbacks(app)
 
     from tzstudies.analytics import init_analytics
     init_analytics(app)
@@ -88,8 +94,10 @@ def _initialise_database(app, db):
         db.create_all()
         _fix_schema(db)
         from tzstudies.analytics import protect_postgres_tables
+        from tzstudies.payment_models import protect_payment_tables
         with db.engine.begin() as analytics_connection:
             protect_postgres_tables(analytics_connection)
+            protect_payment_tables(analytics_connection)
 
     if db.engine.dialect.name == "postgresql":
         with db.engine.begin() as connection:
@@ -215,6 +223,7 @@ def _register_blueprints(app):
     from tzstudies.routes.analytics import analytics_bp
     from tzstudies.routes.auth import auth_bp
     from tzstudies.routes.papers import papers_bp
+    from tzstudies.routes.payments import payments_bp
     from tzstudies.routes.tutors import tutors_bp
     from tzstudies.routes.upload import upload_bp
 
@@ -225,6 +234,7 @@ def _register_blueprints(app):
     app.register_blueprint(upload_bp)
     app.register_blueprint(admin_bp)
     app.register_blueprint(analytics_bp)
+    app.register_blueprint(payments_bp)
 
 
 def _register_error_handlers(app):

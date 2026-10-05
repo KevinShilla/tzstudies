@@ -1,0 +1,12 @@
+{% if orders %}
+<div class="payment-table-wrap"><table class="payment-table">
+  <caption class="sr-only">Recent payment orders</caption>
+  <thead><tr><th>Order</th><th>Amount</th><th>Status</th><th>Created (UTC)</th></tr></thead>
+  <tbody>{% for order in orders %}<tr>
+    <td><a href="{{ url_for('payments.order_page', identifier=order.id) }}">{{ order.plan_name }}</a><small>{{ order.order_reference }}</small></td>
+    <td>{{ order.currency }} {{ '{:,.2f}'.format(order.amount) }}</td>
+    <td><span class="payment-badge {{ 'is-paid' if order.status == 'paid' else '' }}">{{ order.status|replace('_', ' ')|title }}</span></td>
+    <td>{{ order.created_at.strftime('%d %b %Y, %H:%M') }}</td>
+  </tr>{% endfor %}</tbody>
+</table></div>
+{% else %}<div class="payment-empty">No payments yet. New orders will appear here.</div>{% endif %}

@@ -14,6 +14,7 @@
 - **Tutor Directory** — Find listed tutors by subject, or submit an application for review
 - **User Accounts** — Secure signup/login with email verification and password reset
 - **Private Analytics** — Visitors, sources, page timing, entries/exits, signup attribution, funnels, journeys and date comparisons at `/admin/analytics`; [tracking and report definitions](docs/ANALYTICS.md)
+- **Payment Foundation** — ClickPesa Hosted Checkout, verified callbacks, private orders and a single admin test at `/admin/payments`; charging is paused by default. [Render + Supabase setup and first payment test](docs/PAYMENTS.md)
 - **Admin Dashboard** — User management and tutor application review
 - **Activity History** — Track recently viewed and downloaded papers
 

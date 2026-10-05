@@ -1,0 +1,4 @@
+{% extends 'payments/layout.html' %}
+{% block title %}Opening secure checkout · TZStudies{% endblock %}
+{% block payment_content %}<article class="payment-card payment-centered"><p class="payment-eyebrow">SECURE CHECKOUT</p><h1>Opening ClickPesa…</h1><p>Complete your payment on ClickPesa, then return to TZStudies to view its status.</p><a class="payment-button" href="{{ checkout_url }}" rel="noreferrer">Continue to secure checkout</a><p class="payment-note">{{ order.currency }} {{ '{:,.2f}'.format(order.amount) }} · {{ order.plan_name }}</p></article>{% endblock %}
+{% block extra_scripts %}<script nonce="{{ csp_nonce }}">window.location.replace({{ checkout_url|tojson }});</script>{% endblock %}

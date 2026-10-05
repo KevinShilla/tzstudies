@@ -1,0 +1,7 @@
+{% extends 'payments/layout.html' %}
+{% block title %}My payments · TZStudies{% endblock %}
+{% block payment_content %}
+<header class="payment-heading"><div><p class="payment-eyebrow">YOUR TZSTUDIES ACCOUNT</p><h1>My payments</h1><p>Your orders and confirmed payment status, in one place.</p></div></header>
+{% if plans %}<div class="payment-grid">{% for plan_id, plan in plans.items() %}<article class="payment-card"><h2>{{ plan.name }}</h2><p>{{ plan.description }}</p>{% include 'payments/_checkout_form.html' %}</article>{% endfor %}</div>{% endif %}
+<article class="payment-card"><h2>Recent orders</h2>{% include 'payments/_orders.html' %}</article>
+{% endblock %}

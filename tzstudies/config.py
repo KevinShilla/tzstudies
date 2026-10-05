@@ -4,8 +4,12 @@ from datetime import timedelta
 
 from dotenv import load_dotenv
 
+from tzstudies.payment_config import environment_settings
+
 # Load .env before reading any env vars
 load_dotenv()
+
+PAYMENT_SETTINGS = environment_settings()
 
 
 def _get_database_url():
@@ -34,6 +38,8 @@ class Config:
 
     # OpenAI
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
+    # All payment environment settings are declared in payment_config.py.
+    locals().update(PAYMENT_SETTINGS)
 
     # Rate limiting
     RATELIMIT_STORAGE_URI = os.getenv("REDIS_URL", "memory://")
@@ -85,6 +91,12 @@ class TestingConfig(Config):
     CACHE_TYPE = "NullCache"
     MAIL_SUPPRESS_SEND = True
     TRUSTED_HOSTS = None
+    # Tests must never inherit live payment credentials or enable charging.
+    PAYMENTS_ENABLED = False
+    PAYMENT_TEST_PLAN_ENABLED = False
+    CLICKPESA_CLIENT_ID = ""
+    CLICKPESA_API_KEY = ""
+    CLICKPESA_CHECKSUM_KEY = ""
 
 
 class ProductionConfig(Config):
