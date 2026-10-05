@@ -101,7 +101,7 @@ def test_checkout_uses_snapshot_and_reuses_intent(app, db, payment_setup, paymen
     assert response.status_code == 200 and b"window.location.replace" in response.data
     assert "form-action 'self'" in response.headers["Content-Security-Policy"]
     assert response.headers["Cache-Control"] == "no-store, private"
-    assert response.headers["Referrer-Policy"] == "no-referrer"
+    assert response.headers["Referrer-Policy"] == "same-origin"
     with app.app_context():
         order = db.session.scalar(select(PaymentOrder))
         assert order.amount == Decimal("1000.00") and order.currency == "TZS"
@@ -268,6 +268,50 @@ def test_csrf_required_checkout_but_not_webhook(app, db, payment_setup, payment_
     assert payment_admin.post("/payments/checkout/payment_test", data={"intent": token}).status_code == 400
     payment_setup.records = [provider_record(reference)]
     assert client.post(WEBHOOK, json=notification(provider_record(reference))).status_code == 204
+
+
+def test_https_checkout_from_browser_keeps_strict_csrf(app, db, payment_setup, payment_admin, monkeypatch):
+    monkeypatch.setitem(app.config, "WTF_CSRF_ENABLED", True)
+    rejections = []
+    reject = app.extensions["csrf"]._error_response
+
+    def record_rejection(reason):
+        rejections.append(reason)
+        return reject(reason)
+
+    monkeypatch.setattr(app.extensions["csrf"], "_error_response", record_rejection)
+    page = payment_admin.get("/admin/payments", base_url="https://localhost")
+    assert page.status_code == 200
+    intent = re.search(rb'name="intent" value="([^"]+)"', page.data).group(1).decode()
+    csrf_token = re.search(rb'name="csrf_token" value="([^"]+)"', page.data).group(1).decode()
+    # Browsers omit Referer even for their own forms when the page says no-referrer.
+    headers = {"Referer": "https://localhost/admin/payments"} if page.headers["Referrer-Policy"] == "same-origin" else {}
+    response = payment_admin.post("/payments/checkout/payment_test", base_url="https://localhost",
+                                  data={"intent": intent, "csrf_token": csrf_token}, headers=headers)
+    assert response.status_code == 200, rejections
+    assert app.config["WTF_CSRF_SSL_STRICT"] is True
+    assert len(payment_setup.created) == 1
+    with app.app_context():
+        assert db.session.scalar(select(PaymentOrder)).status == "pending"
+
+
+@pytest.mark.parametrize("referrer, csrf_value", [
+    (None, "valid"), ("https://other.example/admin/payments", "valid"),
+    ("https://localhost/admin/payments", "invalid"), ("https://localhost/admin/payments", None),
+])
+def test_https_checkout_rejects_invalid_csrf_and_referrer(app, db, payment_setup, payment_admin, monkeypatch, referrer, csrf_value):
+    monkeypatch.setitem(app.config, "WTF_CSRF_ENABLED", True)
+    page = payment_admin.get("/admin/payments", base_url="https://localhost")
+    intent = re.search(rb'name="intent" value="([^"]+)"', page.data).group(1).decode()
+    data = {"intent": intent}
+    if csrf_value:
+        data["csrf_token"] = re.search(rb'name="csrf_token" value="([^"]+)"', page.data).group(1).decode() if csrf_value == "valid" else "invalid"
+    response = payment_admin.post("/payments/checkout/payment_test", base_url="https://localhost",
+                                  data=data, headers={"Referer": referrer} if referrer else {})
+    assert response.status_code == 400
+    assert not payment_setup.created
+    with app.app_context():
+        assert db.session.scalar(select(PaymentOrder)) is None
 
 
 @pytest.mark.parametrize("value", [float("nan"), "NaN", "1e3", "1000.001", True, "-1", "1,000", None])

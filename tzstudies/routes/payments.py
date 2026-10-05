@@ -40,7 +40,6 @@ def _orders(admin=False):
 def private_payment_responses(response):
     if request.endpoint and request.endpoint.startswith("payments."):
         response.headers["Cache-Control"] = "no-store, private"
-        response.headers["Referrer-Policy"] = "no-referrer"
         response.headers["X-Robots-Tag"] = "noindex, nofollow"
     return response
 
