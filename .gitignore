@@ -25,3 +25,7 @@ htmlcov/
 .coverage
 tmp/
 .ruff_cache/
+
+# Generated media stays on this PC; keep source projects in Git.
+/output/music/
+/output/shorts/

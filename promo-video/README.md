@@ -7,6 +7,7 @@ An editable product advertisement using the actual MyTZStudies website, real wor
 - `../output/video/MyTZStudies-Launch-1080p.mp4`: 72 seconds, 1920 × 1080, 30 fps.
 - `../output/video/MyTZStudies-Social-Vertical.mp4`: 26 seconds, 1080 × 1920, 30 fps.
 - `../output/video/MyTZStudies-Poster.png`: full-resolution poster.
+- `../output/shorts/TZStudies-Math-Short.mp4`: a 52-second, 1080 × 1920 educational Short solving CSEE 2024 Basic Mathematics question 10(b), with a short TZStudies call to action. See `../output/shorts/README.md` for its source, timings, audio rights and export commands.
 
 The MP4s use H.264, Rec.709, YUV 4:2:0, and stereo AAC at 48 kHz / 320 kbps. The films use short on-screen text instead of narration. The catalogue claims are 60 distinct papers, 60 worked answer keys and four levels, verified against the local website during capture. Answer keys are explicitly described as free with a MyTZStudies account. Tutor footage shows the real subject filter and directory; it does not promise bookings, availability, or results.
 
