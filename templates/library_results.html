@@ -1,0 +1,11 @@
+<div id="libraryResults" class="library-toolbar"><p id="resultCount" class="result-count" role="status">{% if result_total %}Showing <strong>{{ first_result }}–{{ last_result }}</strong> of <strong>{{ result_total }}</strong> paper{{ 's' if result_total != 1 else '' }}{% else %}No matching papers{% endif %}</p>{% if filters.grade %}<span class="library-selection">{{ dict(grade_options).get(filters.grade, filters.grade) }}{% if filters.subject %} &middot; {{ subject_options[filters.subject] }}{% endif %}{% if filters.year %} &middot; {{ filters.year }}{% endif %}</span>{% endif %}</div>
+<div id="examGrid" class="exam-grid library-grid">
+  {% for exam in exams %}{% include 'exam_card.html' %}{% else %}<div class="empty-state"><span class="eyebrow">KEEP EXPLORING</span><h3>No papers match these filters</h3><p>Try another year or subject, or reset the filters to explore the library.</p><a class="btn" href="{{ clear_url }}">Reset filters</a></div>{% endfor %}
+</div>
+{% if page_count > 1 %}
+<nav class="library-pagination" aria-label="Exam library pages">
+  <div>{% if previous_url %}<a class="pagination-direction" href="{{ previous_url }}" rel="prev">&larr; Previous</a>{% endif %}</div>
+  <div class="pagination-pages">{% for number, link in page_links %}<a href="{{ link }}" {% if number == page %}aria-current="page"{% endif %} aria-label="Page {{ number }}">{{ number }}</a>{% endfor %}<span class="pagination-label">Page {{ page }} of {{ page_count }}</span></div>
+  <div>{% if next_url %}<a class="pagination-direction" href="{{ next_url }}" rel="next">Next &rarr;</a>{% endif %}</div>
+</nav>
+{% endif %}

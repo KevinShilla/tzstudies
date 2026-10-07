@@ -1,6 +1,6 @@
 /* Cache public static resources only; account pages always use the network. */
-const CACHE_NAME = 'tzstudies-v3';
-const PRECACHE_URLS = ['/static/css/styles.css', '/static/js/script.js', '/static/tutors/tzstudies.png', '/offline'];
+const CACHE_NAME = 'tzstudies-v5';
+const PRECACHE_URLS = ['/static/css/styles.css?v=primary-2', '/static/js/script.js?v=4', '/static/tutors/tzstudies.png', '/offline'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(PRECACHE_URLS)).then(() => self.skipWaiting()));
 });

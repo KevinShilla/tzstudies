@@ -297,7 +297,7 @@ def test_docx_external_relationship_rejected(client, app):
 
 
 def test_stored_xss_is_escaped_and_reply_id_bounded(auth_client, app):
-    auth_client.get("/")
+    auth_client.get("/view/BasicMath-F2-2021.pdf")
     with app.app_context():
         paper_id = Paper.query.filter_by(category="exam").first().id
     body = '<img src=x onerror="alert(document.cookie)">'

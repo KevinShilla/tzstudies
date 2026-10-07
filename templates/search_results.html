@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block title %}Search: {{ query }} | MyTZStudies{% endblock %}
 {% block content %}
-<section class="container page-intro"><span class="eyebrow">THE PAPER LIBRARY</span><h1>Search results</h1><p>{{ results|length }} paper{{ 's' if results|length != 1 else '' }} found for &ldquo;{{ query }}&rdquo;</p><form method="get" action="{{ url_for('papers.search') }}" class="library-search" role="search"><label for="resultSearch" class="sr-only">Search papers</label><input id="resultSearch" type="search" name="q" value="{{ query }}" placeholder="Subject, year, or level"><button class="btn" type="submit">Search</button></form></section>
-<section class="container"><div class="exam-grid library-grid">{% for exam in results %}{% include 'exam_card.html' %}{% else %}<div class="empty-state"><h2>No matching papers yet</h2><p>Try a subject such as Mathematics or a level such as Form 2.</p><a class="btn" href="{{ url_for('papers.index') }}#examSection">Explore all papers</a></div>{% endfor %}</div></section>
+<section class="container page-intro"><span class="eyebrow">THE PAPER LIBRARY</span><h1>Search results</h1><p>{{ result_total }} paper{{ 's' if result_total != 1 else '' }} found for &ldquo;{{ query }}&rdquo;</p></section>
+<section id="examSection" class="container library-results-section">{% include 'library_filters.html' %}{% include 'library_results.html' %}</section>
 {% endblock %}

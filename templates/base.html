@@ -26,7 +26,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css', v='primary-2') }}">
   {% block extra_head %}{% endblock %}
   {% if g.analytics %}<meta name="analytics-ticket" content="{{ g.analytics.ticket }}">{% endif %}
 </head>
@@ -51,8 +51,8 @@
 
   {% include 'footer.html' %}
 
-  <script src="{{ url_for('static', filename='js/script.js', v='3') }}" defer></script>
-  {% if g.analytics %}<script src="{{ url_for('static', filename='js/analytics-track.js', v='1') }}" defer></script>{% endif %}
+  <script src="{{ url_for('static', filename='js/script.js', v='4') }}" defer></script>
+  {% if g.analytics %}<script src="{{ url_for('static', filename='js/analytics-track.js', v='2') }}" defer></script>{% endif %}
 
   {% block extra_scripts %}{% endblock %}
 

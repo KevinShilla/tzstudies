@@ -14,8 +14,9 @@ from flask import (
 from flask_login import current_user, login_required
 from sqlalchemy.exc import IntegrityError
 
-from tzstudies.catalogue import build_catalogue, identity, matches_query, metadata
+from tzstudies.catalogue import build_catalogue, identity, metadata
 from tzstudies.extensions import db, limiter
+from tzstudies.library import library_context
 from tzstudies.models import Comment, History, Paper
 from tzstudies.security import valid_text
 
@@ -79,7 +80,8 @@ def _sync_papers(exams, retry=True):
             db.session.add(paper)
         exam["paper"] = paper
     try:
-        db.session.commit()
+        if db.session.new:
+            db.session.commit()
     except IntegrityError:
         db.session.rollback()
         if not retry:
@@ -92,14 +94,9 @@ def _sync_papers(exams, retry=True):
 @papers_bp.route("/")
 def index():
     exams = _catalogue()
-    _sync_papers(exams)
     return render_template(
         "index.html",
-        exams=exams,
-        key_count=sum(bool(e["answer_key"]) for e in exams),
-        level_count=len({e["grade"] for e in exams}),
-        years=sorted({e["year"] for e in exams if e["year"]}, reverse=True),
-        subjects=sorted({e["subject"] for e in exams}),
+        **library_context(exams),
         ai_available=bool(current_app.config.get("OPENAI_API_KEY")),
     )
 
@@ -119,7 +116,7 @@ def serve_pdf(filename):
     folder = _get_exams_folder()
     _require_pdf(filename, folder)
     return send_from_directory(
-        os.path.abspath(folder), filename, as_attachment=False
+        os.path.abspath(folder), filename, as_attachment=False, conditional=True, max_age=86400
     )
 
 
@@ -147,7 +144,7 @@ def download_key(filename):
 @papers_bp.route("/answer_keys")
 def answer_keys_page():
     exams = _catalogue()
-    return render_template("answer_keys.html", exams=[e for e in exams if e["answer_key"]], total=len(exams))
+    return render_template("answer_keys.html", **library_context(exams, endpoint="papers.answer_keys_page", answer_keys=True))
 
 
 @papers_bp.route("/view_key/<path:filename>")
@@ -185,9 +182,7 @@ def search():
     if not q:
         return redirect(url_for("papers.index"))
     exams = _catalogue()
-    results = [e for e in exams if matches_query(e, q)]
-    _sync_papers(results)
-    return render_template("search_results.html", results=results, query=q)
+    return render_template("search_results.html", **library_context(exams, endpoint="papers.search"), query=q)
 
 
 @papers_bp.route("/paper/<int:paper_id>")
@@ -204,7 +199,8 @@ def paper_detail(paper_id):
         .order_by(Comment.created_at.asc())
         .all()
     )
-    return render_template("paper_detail.html", paper=paper, comments=comments, exam=metadata(paper.file_name))
+    exam = next((entry for entry in _catalogue() if identity(entry["filename"]) == identity(paper.file_name)), metadata(paper.file_name))
+    return render_template("paper_detail.html", paper=paper, comments=comments, exam=exam)
 
 
 @papers_bp.route("/paper/<int:paper_id>/comment", methods=["POST"])

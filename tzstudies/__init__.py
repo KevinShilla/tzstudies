@@ -93,6 +93,9 @@ def _initialise_database(app, db):
     def initialise():
         db.create_all()
         _fix_schema(db)
+        if not app.testing:
+            from tzstudies.routes.papers import _catalogue, _sync_papers
+            _sync_papers(_catalogue())
         from tzstudies.analytics import protect_postgres_tables
         from tzstudies.payment_models import protect_payment_tables
         with db.engine.begin() as analytics_connection:

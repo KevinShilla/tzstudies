@@ -28,50 +28,13 @@
     menu.querySelectorAll('a').forEach(link => link.addEventListener('click', closeMenu));
   }
 
-  const search = document.getElementById('searchInput');
-  const subject = document.getElementById('subjectFilter');
-  const year = document.getElementById('yearFilter');
-  const cards = Array.from(document.querySelectorAll('#examGrid .exam-card'));
-  const gradeButtons = Array.from(document.querySelectorAll('.grade-btn'));
-  const count = document.getElementById('resultCount');
-  const empty = document.getElementById('noResults');
-  let grade = '';
-  function filterPapers() {
-    const terms = (search ? search.value.toLowerCase().trim() : '').split(/\s+/).filter(Boolean);
-    let visible = 0;
-    cards.forEach(card => {
-      const show = (!grade || card.dataset.grade === grade)
-        && (!subject || !subject.value || card.dataset.subject === subject.value)
-        && (!year || !year.value || card.dataset.year === year.value)
-        && terms.every(term => /^\d+$/.test(term)
-          ? card.dataset.search.split(/\W+/).includes(term)
-          : card.dataset.search.includes(term));
-      card.hidden = !show;
-      if (show) visible++;
+  // Filter the full catalogue on the server, rather than only the cards on this page.
+  const libraryForm = document.querySelector('.library-filter-form');
+  if (libraryForm) {
+    libraryForm.querySelectorAll('select').forEach(select => {
+      select.addEventListener('change', () => libraryForm.requestSubmit());
     });
-    if (count) count.textContent = visible + (visible === 1 ? ' paper' : ' papers');
-    if (empty) empty.hidden = visible !== 0;
   }
-  [search, subject, year].filter(Boolean).forEach(el => el.addEventListener(el === search ? 'input' : 'change', filterPapers));
-  gradeButtons.forEach(button => button.addEventListener('click', () => {
-    grade = button.dataset.grade;
-    gradeButtons.forEach(b => {
-      b.classList.toggle('active', b === button);
-      b.setAttribute('aria-pressed', String(b === button));
-    });
-    filterPapers();
-  }));
-  const clear = document.getElementById('clearFilters');
-  if (clear) clear.addEventListener('click', () => {
-    [search, subject, year].filter(Boolean).forEach(el => { el.value = ''; });
-    grade = '';
-    gradeButtons.forEach(b => {
-      b.classList.toggle('active', b.dataset.grade === '');
-      b.setAttribute('aria-pressed', String(b.dataset.grade === ''));
-    });
-    filterPapers();
-    search.focus();
-  });
 
   const aiForm = document.getElementById('aiForm');
   const aiQuery = document.getElementById('aiQuery');

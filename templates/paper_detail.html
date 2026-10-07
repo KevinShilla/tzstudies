@@ -9,6 +9,8 @@
     <a href="{{ url_for('papers.download_key' if paper.category == 'key' else 'papers.download', filename=paper.file_name) }}" class="btn">Download PDF</a>
   </div></div>
 
+  {% if exam.source_url %}<div class="paper-provenance"><span>Source: <a href="{{ exam.source_url }}" target="_blank" rel="noopener noreferrer">{{ exam.source_name }}</a></span>{% if exam.section_note %}<p>{{ exam.section_note }}</p>{% endif %}</div>{% endif %}
+
   <!-- PDF Viewer -->
   <iframe src="{{ url_for('papers.serve_key' if paper.category == 'key' else 'papers.serve_pdf', filename=paper.file_name) }}#toolbar=0"
           class="pdf-viewer"

@@ -1,0 +1,9 @@
+<form id="libraryFilters" class="library-filters library-filter-form" method="get" action="{{ url_for(filter_endpoint) }}#libraryFilters" role="search">
+  <div class="library-search"><label for="searchInput" class="sr-only">Search Exam Papers</label><span aria-hidden="true">&#9906;</span><input id="searchInput" name="q" type="search" value="{{ filters.q }}" maxlength="200" placeholder="Search a subject, school, year, or exam..." autocomplete="off"><button type="submit" class="btn btn-sm">Search</button></div>
+  <div class="library-filter-grid">
+    <div><label for="gradeFilter">School level</label><select id="gradeFilter" name="grade"><option value="">All levels</option>{% for code, label in grade_options %}<option value="{{ code }}" {% if filters.grade == code %}selected{% endif %}>{{ label }}</option>{% endfor %}</select></div>
+    <div><label for="subjectFilter">Subject</label><select id="subjectFilter" name="subject"><option value="">All subjects</option>{% for code, label in subject_options.items() %}<option value="{{ code }}" {% if filters.subject == code %}selected{% endif %}>{{ label }}</option>{% endfor %}</select></div>
+    <div><label for="yearFilter">Exam year</label><select id="yearFilter" name="year"><option value="">All years</option>{% for year in years %}<option value="{{ year }}" {% if filters.year == year %}selected{% endif %}>{{ year }}</option>{% endfor %}</select></div>
+  </div>
+  <div class="library-filter-actions"><button type="submit" class="btn btn-sm">Apply filters</button><a class="text-link" href="{{ clear_url }}">Reset filters</a><span>Math includes Mathematics, Hisabati, and arithmetic papers.</span></div>
+</form>

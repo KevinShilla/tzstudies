@@ -64,7 +64,7 @@
   document.querySelectorAll('input[type="search"]').forEach(input => {
     input.addEventListener('input', () => { clearTimeout(searchTimer); searchTimer = setTimeout(() => track('search', 'library_search'), 1200); });
   });
-  document.querySelectorAll('.filter-selects select, #subjectFilter, #yearFilter').forEach(select => {
+  document.querySelectorAll('.filter-selects select, #gradeFilter, #subjectFilter, #yearFilter').forEach(select => {
     select.addEventListener('change', () => track('feature_use', select.id === 'subjectSelect' ? 'tutor_filter' : 'library_filter'));
   });
   document.getElementById('aiForm')?.addEventListener('submit', () => track('feature_use', 'study_assistant'));
@@ -83,7 +83,7 @@
     else if (href === '/answer_keys') label = 'browse_keys';
     else if (href === '/tutors') label = 'find_tutors';
     else if (href === '#examSection' || href === '/#examSection') label = 'browse_papers';
-    else if (el.matches('.grade-btn, #clearFilters')) label = 'library_filter';
+    else if (el.matches('.grade-btn, #clearFilters, .standard-shortcut, .library-filter-actions .text-link')) label = 'library_filter';
     else if (el.matches('.reply-toggle')) label = 'discussion';
     else if (el.id === 'installBtn') label = 'install_app';
     else if (el.matches('.nav-link, .text-link, .btn') && href.startsWith('/')) label = 'navigation';
