@@ -1,0 +1,661 @@
+{
+  "exam": "Kiswahili-S2-2023-Mbezi-Bwa-January-Monthly-test.pdf",
+  "output": "Kiswahili-S2-2023-Mbezi-Bwa-January-Monthly-test-AnswerKey.pdf",
+  "sha256": "e973db45b85c49e6a98b277d935fd87d5aeb42237e9723266ec2862cfd0827a2",
+  "subject": "Kiswahili",
+  "level": "Standard Two",
+  "year": "2023",
+  "code": "Not printed in source",
+  "board": "Mbezi Bwa",
+  "exam_type": "Monthly test - January",
+  "question_count": "Vipengele 50 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "Kuandika-1",
+    "Kuandika-2",
+    "Kuandika-3",
+    "Kuandika-4",
+    "Kuandika-5",
+    "Kuandika-6",
+    "Kuandika-7",
+    "Kuandika-8",
+    "Kuandika-9",
+    "Kuandika-10",
+    "Kuandika-11",
+    "Kuandika-12",
+    "Kuandika-13",
+    "Kuandika-14",
+    "Kuandika-15",
+    "Kuandika-16",
+    "Kuandika-17",
+    "Kuandika-18",
+    "Kuandika-19",
+    "Kuandika-20",
+    "Kuandika-21",
+    "Kuandika-22",
+    "Kuandika-23",
+    "Kuandika-24",
+    "Kuandika-25",
+    "Kusoma-1",
+    "Kusoma-2",
+    "Kusoma-3",
+    "Kusoma-4",
+    "Kusoma-5",
+    "Kusoma-6",
+    "Kusoma-7",
+    "Kusoma-8",
+    "Kusoma-9",
+    "Kusoma-10",
+    "Kusoma-11",
+    "Kusoma-12",
+    "Kusoma-13",
+    "Kusoma-14",
+    "Kusoma-15",
+    "Kusoma-16",
+    "Kusoma-17",
+    "Kusoma-18",
+    "Kusoma-19",
+    "Kusoma-20",
+    "Kusoma-21",
+    "Kusoma-22",
+    "Kusoma-23",
+    "Kusoma-24",
+    "Kusoma-25"
+  ],
+  "questions": [
+    {
+      "id": "Kuandika-1",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla Kuandika-1.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "Kuandika-2",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla Kuandika-2.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "Kuandika-3",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla Kuandika-3.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "Kuandika-4",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla Kuandika-4.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "Kuandika-5",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla Kuandika-5.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "Kuandika-6",
+      "section": "Ufahamu wa habari",
+      "prompt": "UKIMWI husababishwa na ____ (a virusi, b vipele, c vidonda).",
+      "steps": [
+        "Habari inataja virusi; VVU hushambulia mfumo wa kinga.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a - Virusi vya UKIMWI (VVU).",
+      "source_page": 1
+    },
+    {
+      "id": "Kuandika-7",
+      "section": "Ufahamu wa habari",
+      "prompt": "VVU vinaishi katika ____ (a maji, b damu, c mifupa).",
+      "steps": [
+        "Habari imetaja damu; VVU pia hupatikana katika baadhi ya majimaji mengine ya mwili.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Damu, kwa maelezo ya habari.",
+      "source_page": 1
+    },
+    {
+      "id": "Kuandika-8",
+      "section": "Ufahamu wa habari",
+      "prompt": "Kipindupindu ni kuhara na ____ (a kukohoa, b kutapika, c kuharisha).",
+      "steps": [
+        "Kuhara na kutapika ni dalili zinazotajwa katika swali.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Kutapika.",
+      "source_page": 1
+    },
+    {
+      "id": "Kuandika-9",
+      "section": "Ufahamu wa habari",
+      "prompt": "Utafanya nini ukiwa na joto kali? (a kulala, b kuoga maji baridi, c kwenda hospitali).",
+      "steps": [
+        "Machaguo yanahitaji kutafuta tathmini ya mtaalamu wa afya.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "c - Nitakwenda hospitali.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-10",
+      "section": "Ufahamu wa habari",
+      "prompt": "VVU vikishambulia chembechembe nyeupe mwili hukosa ____ (a afya, b damu, c kinga).",
+      "steps": [
+        "VVU hudhoofisha mfumo wa kinga ya mwili.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "c - Kinga.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-11",
+      "section": "Makundi",
+      "prompt": "Andika jina la kundi: Nanasi, chungwa, papai.",
+      "steps": [
+        "Vyote ni matunda.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Matunda.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-12",
+      "section": "Makundi",
+      "prompt": "Andika jina la kundi: Kipepeo, nzi, nyuki.",
+      "steps": [
+        "Vyote ni wadudu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Wadudu.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-13",
+      "section": "Makundi",
+      "prompt": "Andika jina la kundi: Mchicha, kabichi, kisamvu.",
+      "steps": [
+        "Majani yake hutumiwa kama mboga.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mboga za majani.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-14",
+      "section": "Makundi",
+      "prompt": "Andika jina la kundi: Mbuzi, kondoo, nguruwe.",
+      "steps": [
+        "Hawa ni wanyama wa kufugwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Wanyama wa kufugwa.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-15",
+      "section": "Makundi",
+      "prompt": "Andika jina la kundi: Kuku, bata, njiwa.",
+      "steps": [
+        "Hawa ni ndege wenye manyoya na mabawa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Ndege.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-16",
+      "section": "Vitendawili",
+      "prompt": "Tegua: Popo mbili zavuka mto.",
+      "steps": [
+        "Macho mawili yako pande za pua.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Macho.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-17",
+      "section": "Vitendawili",
+      "prompt": "Tegua: Bwana afya wa porini.",
+      "steps": [
+        "Fisi hula mizoga porini.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Fisi.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-18",
+      "section": "Vitendawili",
+      "prompt": "Tegua: Nyumba yangu haina mlango.",
+      "steps": [
+        "Ganda la yai limefunga kilichomo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Yai.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-19",
+      "section": "Vitendawili",
+      "prompt": "Tegua: Tajiri wa rangi.",
+      "steps": [
+        "Kinyonga hubadili rangi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kinyonga.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-20",
+      "section": "Vitendawili",
+      "prompt": "Tegua: Kuku wangu hutagia miibani.",
+      "steps": [
+        "Tunda la nanasi hukua katikati ya majani yenye miiba.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Nanasi.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-21",
+      "section": "Kuchora",
+      "prompt": "Chora na utaje kitu unachopenda katika nafasi 21.",
+      "steps": [
+        "Chagua kitu unachokijua; mfano huu ni kitabu.",
+        "Chora sifa zake zinazotambulika kisha andika jina Kitabu chini yake."
+      ],
+      "answer": "Mfano: Chora kitabu na uandike Kitabu.",
+      "source_page": 2,
+      "tip": "Hili ni jibu la mfano. Chora mwenyewe; vitu vingine sahihi vinakubalika."
+    },
+    {
+      "id": "Kuandika-22",
+      "section": "Kuchora",
+      "prompt": "Chora na utaje kitu unachopenda katika nafasi 22.",
+      "steps": [
+        "Chagua kitu unachokijua; mfano huu ni mpira.",
+        "Chora sifa zake zinazotambulika kisha andika jina Mpira chini yake."
+      ],
+      "answer": "Mfano: Chora mpira na uandike Mpira.",
+      "source_page": 2,
+      "tip": "Hili ni jibu la mfano. Chora mwenyewe; vitu vingine sahihi vinakubalika."
+    },
+    {
+      "id": "Kuandika-23",
+      "section": "Kuchora",
+      "prompt": "Chora na utaje kitu unachopenda katika nafasi 23.",
+      "steps": [
+        "Chagua kitu unachokijua; mfano huu ni kalamu.",
+        "Chora sifa zake zinazotambulika kisha andika jina Kalamu chini yake."
+      ],
+      "answer": "Mfano: Chora kalamu na uandike Kalamu.",
+      "source_page": 2,
+      "tip": "Hili ni jibu la mfano. Chora mwenyewe; vitu vingine sahihi vinakubalika."
+    },
+    {
+      "id": "Kuandika-24",
+      "section": "Kuchora",
+      "prompt": "Chora na utaje kitu unachopenda katika nafasi 24.",
+      "steps": [
+        "Chagua kitu unachokijua; mfano huu ni kikombe.",
+        "Chora sifa zake zinazotambulika kisha andika jina Kikombe chini yake."
+      ],
+      "answer": "Mfano: Chora kikombe na uandike Kikombe.",
+      "source_page": 2,
+      "tip": "Hili ni jibu la mfano. Chora mwenyewe; vitu vingine sahihi vinakubalika."
+    },
+    {
+      "id": "Kuandika-25",
+      "section": "Kuchora",
+      "prompt": "Chora na utaje kitu unachopenda katika nafasi 25.",
+      "steps": [
+        "Chagua kitu unachokijua; mfano huu ni meza.",
+        "Chora sifa zake zinazotambulika kisha andika jina Meza chini yake."
+      ],
+      "answer": "Mfano: Chora meza na uandike Meza.",
+      "source_page": 2,
+      "tip": "Hili ni jibu la mfano. Chora mwenyewe; vitu vingine sahihi vinakubalika."
+    },
+    {
+      "id": "Kusoma-1",
+      "section": "Ufahamu",
+      "prompt": "Zakaria na rafiki zake walipenda nini?",
+      "steps": [
+        "Habari imetaja kukimbia kama mchezo walioupenda.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mchezo wa kukimbia.",
+      "source_page": 4
+    },
+    {
+      "id": "Kusoma-2",
+      "section": "Ufahamu",
+      "prompt": "Nani alimweleza umuhimu wa kusoma kwa bidii?",
+      "steps": [
+        "Mjomba ndiye aliyeketi na Zakaria na kumshauri.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mjomba wake.",
+      "source_page": 4
+    },
+    {
+      "id": "Kusoma-3",
+      "section": "Ufahamu",
+      "prompt": "Kwa nini alifanya vizuri katika masomo na michezo?",
+      "steps": [
+        "Mabadiliko ya bidii ndiyo sababu inayotajwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Aliongeza juhudi katika masomo na michezo baada ya ushauri.",
+      "source_page": 4
+    },
+    {
+      "id": "Kusoma-4",
+      "section": "Ufahamu",
+      "prompt": "Alipata zawadi gani?",
+      "steps": [
+        "Habari imetaja aina hizo mbili.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Vyeti na pesa.",
+      "source_page": 4
+    },
+    {
+      "id": "Kusoma-5",
+      "section": "Ufahamu",
+      "prompt": "Habari inatufundisha nini?",
+      "steps": [
+        "Zakaria alifaulu baada ya kubadilika na kujitahidi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Tuwe na bidii katika masomo na michezo na tusikilize ushauri mzuri.",
+      "source_page": 4
+    },
+    {
+      "id": "Kusoma-6",
+      "section": "Kazi",
+      "prompt": "Mtu anayelima karanga, mahindi na maharage huitwaje?",
+      "steps": [
+        "Mkulima hupanda na kutunza mazao.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mkulima.",
+      "source_page": 4
+    },
+    {
+      "id": "Kusoma-7",
+      "section": "Kazi",
+      "prompt": "Mtu anayeiba mali huitwaje?",
+      "steps": [
+        "Mwizi huchukua mali bila ruhusa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mwizi.",
+      "source_page": 4
+    },
+    {
+      "id": "Kusoma-8",
+      "section": "Kazi",
+      "prompt": "Mtu anayetibu watu huitwaje?",
+      "steps": [
+        "Daktari hutibu wagonjwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Daktari.",
+      "source_page": 4
+    },
+    {
+      "id": "Kusoma-9",
+      "section": "Kazi",
+      "prompt": "Anayefundisha shuleni huitwaje?",
+      "steps": [
+        "Mwalimu huwafundisha wanafunzi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mwalimu.",
+      "source_page": 4
+    },
+    {
+      "id": "Kusoma-10",
+      "section": "Kazi",
+      "prompt": "Anayeendesha gari huitwaje?",
+      "steps": [
+        "Dereva huendesha gari.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Dereva.",
+      "source_page": 5
+    },
+    {
+      "id": "Kusoma-11",
+      "section": "Vinyume",
+      "prompt": "Andika kinyume cha Simama.",
+      "steps": [
+        "Maana ya kaa inapingana na simama.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kaa.",
+      "source_page": 5
+    },
+    {
+      "id": "Kusoma-12",
+      "section": "Vinyume",
+      "prompt": "Andika kinyume cha Lia.",
+      "steps": [
+        "Maana ya cheka inapingana na lia.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Cheka.",
+      "source_page": 5
+    },
+    {
+      "id": "Kusoma-13",
+      "section": "Vinyume",
+      "prompt": "Andika kinyume cha Juu.",
+      "steps": [
+        "Maana ya chini inapingana na juu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Chini.",
+      "source_page": 5
+    },
+    {
+      "id": "Kusoma-14",
+      "section": "Vinyume",
+      "prompt": "Andika kinyume cha Chafu.",
+      "steps": [
+        "Maana ya safi inapingana na chafu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Safi.",
+      "source_page": 5
+    },
+    {
+      "id": "Kusoma-15",
+      "section": "Vinyume",
+      "prompt": "Andika kinyume cha Nyuma.",
+      "steps": [
+        "Maana ya mbele inapingana na nyuma.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mbele.",
+      "source_page": 5
+    },
+    {
+      "id": "Kusoma-16",
+      "section": "Siku za wiki",
+      "prompt": "Taja siku ya wiki katika nafasi 16.",
+      "steps": [
+        "Jumatatu ni mojawapo ya siku saba za wiki.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Jumatatu.",
+      "source_page": 5,
+      "tip": "Siku nyingine sahihi inaweza kutajwa; usirudie siku moja."
+    },
+    {
+      "id": "Kusoma-17",
+      "section": "Siku za wiki",
+      "prompt": "Taja siku ya wiki katika nafasi 17.",
+      "steps": [
+        "Jumanne ni mojawapo ya siku saba za wiki.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Jumanne.",
+      "source_page": 5,
+      "tip": "Siku nyingine sahihi inaweza kutajwa; usirudie siku moja."
+    },
+    {
+      "id": "Kusoma-18",
+      "section": "Siku za wiki",
+      "prompt": "Taja siku ya wiki katika nafasi 18.",
+      "steps": [
+        "Jumatano ni mojawapo ya siku saba za wiki.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Jumatano.",
+      "source_page": 5,
+      "tip": "Siku nyingine sahihi inaweza kutajwa; usirudie siku moja."
+    },
+    {
+      "id": "Kusoma-19",
+      "section": "Siku za wiki",
+      "prompt": "Taja siku ya wiki katika nafasi 19.",
+      "steps": [
+        "Alhamisi ni mojawapo ya siku saba za wiki.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Alhamisi.",
+      "source_page": 5,
+      "tip": "Siku nyingine sahihi inaweza kutajwa; usirudie siku moja."
+    },
+    {
+      "id": "Kusoma-20",
+      "section": "Siku za wiki",
+      "prompt": "Taja siku ya wiki katika nafasi 20.",
+      "steps": [
+        "Ijumaa ni mojawapo ya siku saba za wiki.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Ijumaa.",
+      "source_page": 5,
+      "tip": "Siku nyingine sahihi inaweza kutajwa; usirudie siku moja."
+    },
+    {
+      "id": "Kusoma-21",
+      "section": "Konsonanti d",
+      "prompt": "Tunga neno kwa kutumia d.",
+      "steps": [
+        "dada huanza kwa konsonanti d.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: dada.",
+      "source_page": 5
+    },
+    {
+      "id": "Kusoma-22",
+      "section": "Konsonanti d",
+      "prompt": "Tunga neno kwa kutumia d.",
+      "steps": [
+        "duka huanza kwa konsonanti d.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: duka.",
+      "source_page": 5
+    },
+    {
+      "id": "Kusoma-23",
+      "section": "Konsonanti d",
+      "prompt": "Tunga neno kwa kutumia d.",
+      "steps": [
+        "dawa huanza kwa konsonanti d.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: dawa.",
+      "source_page": 5
+    },
+    {
+      "id": "Kusoma-24",
+      "section": "Kuchora",
+      "prompt": "Chora na taja kitu kilichomo darasani.",
+      "steps": [
+        "Kitu meza kinaweza kupatikana darasani.",
+        "Chora umbo lake linalotambulika na uweke jina Meza."
+      ],
+      "answer": "Mfano: Chora meza na andika Meza.",
+      "source_page": 5,
+      "tip": "Jibu la mfano; chora mwenyewe."
+    },
+    {
+      "id": "Kusoma-25",
+      "section": "Kuchora",
+      "prompt": "Chora na taja kitu kilichomo darasani.",
+      "steps": [
+        "Kitu kitabu kinaweza kupatikana darasani.",
+        "Chora umbo lake linalotambulika na uweke jina Kitabu."
+      ],
+      "answer": "Mfano: Chora kitabu na andika Kitabu.",
+      "source_page": 5,
+      "tip": "Jibu la mfano; chora mwenyewe."
+    }
+  ],
+  "summaries": {
+    "Imla": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ufahamu wa habari": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Makundi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Vitendawili": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kuchora": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ufahamu": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kazi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Vinyume": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Siku za wiki": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Konsonanti d": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "Standard Two Exams | 2010 - 2023 | Monthly, Midterm, Terminal and Annual Exams - Download All Subjects - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/standard-two-exams-2010-2023-monthly-midterm-terminal-and-annual-exams-download-all-subjects/"
+    },
+    {
+      "title": "WHO: HIV and AIDS - uhakiki wa taarifa za mfumo wa kinga",
+      "url": "https://www.who.int/en/news-room/fact-sheets/detail/hiv-aids"
+    },
+    {
+      "title": "WHO: Cholera - uhakiki wa dalili zilizoulizwa",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/cholera"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "Kuandika 1-5: maandishi ya mwalimu ya imla hayajapatikana."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "750bf128d88b5b73fe75a2ec3489528773b0a9478109c4fcd71bdfe57a433ab8"
+}

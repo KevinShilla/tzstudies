@@ -1,0 +1,467 @@
+{
+  "exam": "Kiswahili-S6-2024-VOPSO-April-Practice-assessment.pdf",
+  "output": "Kiswahili-S6-2024-VOPSO-April-Practice-assessment-AnswerKey.pdf",
+  "sha256": "ace88073a1a193131678ddd1f553315f32602fe662ddc956e16513e4059fb741",
+  "subject": "Kiswahili",
+  "level": "Standard Six",
+  "year": "2024",
+  "code": "04E",
+  "board": "VOPSO",
+  "exam_type": "Practice assessment - April",
+  "question_count": "Vipengele 35 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "reviewed": true,
+  "expected_parts": [
+    "1(1)",
+    "1(2)",
+    "1(3)",
+    "1(4)",
+    "1(5)",
+    "2(1)",
+    "2(2)",
+    "2(3)",
+    "2(4)",
+    "2(5)",
+    "2(6)",
+    "2(7)",
+    "2(8)",
+    "2(9)",
+    "2(10)",
+    "3(1)",
+    "3(2)",
+    "3(3)",
+    "3(4)",
+    "3(5)",
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "4(4)",
+    "4(5)",
+    "5(1)",
+    "5(2)",
+    "5(3)",
+    "5(4)",
+    "5(5)",
+    "6(1)",
+    "6(2)",
+    "6(3)",
+    "6(4)",
+    "6(5)"
+  ],
+  "questions": [
+    {
+      "id": "1(1)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Kutokana na habari uliyosikiliza, Fikitu alikuwa mwanafunzi wa darasa la ngapi? A saba, B tano, C sita, D nne, E tatu.",
+      "steps": [
+        "Kwa habari hiyo inayolingana: Sentensi ya kwanza inasema Fikitu ni mwanafunzi wa Darasa la Tano, Mawenzi.",
+        "Msimamizi athibitishe kwamba script iliyosomwa ilikuwa hiyo kabla ya kutumia jibu hili kutoa alama."
+      ],
+      "answer": "Script haimo katika VOPSO hii. Kwa sharti kwamba habari ya Fikitu/Diana inayolingana katika MESP Darasa la Tano Mei 2024 ndiyo iliyosomwa: B - Darasa la Tano.",
+      "source_page": 2,
+      "tip": "Hili ni jibu la masharti, si uthibitisho wa script tofauti ya VOPSO. Habari inayolingana ipo MESP Darasa la Tano Mei 2024, ukurasa 4."
+    },
+    {
+      "id": "1(2)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Wanafanya mashindano na shule mbalimbali kila baada ya muda gani? A siku moja, B siku 40, C siku saba, D siku 30, E mwaka.",
+      "steps": [
+        "Kwa habari hiyo inayolingana: Habari inasema mashindano hufanyika kila mwisho wa wiki.",
+        "Msimamizi athibitishe kwamba script iliyosomwa ilikuwa hiyo kabla ya kutumia jibu hili kutoa alama."
+      ],
+      "answer": "Script haimo katika VOPSO hii. Kwa sharti kwamba habari ya Fikitu/Diana inayolingana katika MESP Darasa la Tano Mei 2024 ndiyo iliyosomwa: C - Siku saba/kila mwisho wa wiki.",
+      "source_page": 2,
+      "tip": "Hili ni jibu la masharti, si uthibitisho wa script tofauti ya VOPSO. Habari inayolingana ipo MESP Darasa la Tano Mei 2024, ukurasa 4."
+    },
+    {
+      "id": "1(3)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Michezo hiyo huwa inasimamiwa na nani? A wanafunzi, B walimu, C wizara, D serikali, E wabunge.",
+      "steps": [
+        "Kwa habari hiyo inayolingana: Habari inasema mashindano yanasimamiwa na walimu wa shule shiriki.",
+        "Msimamizi athibitishe kwamba script iliyosomwa ilikuwa hiyo kabla ya kutumia jibu hili kutoa alama."
+      ],
+      "answer": "Script haimo katika VOPSO hii. Kwa sharti kwamba habari ya Fikitu/Diana inayolingana katika MESP Darasa la Tano Mei 2024 ndiyo iliyosomwa: B - Walimu wa shule shiriki.",
+      "source_page": 2,
+      "tip": "Hili ni jibu la masharti, si uthibitisho wa script tofauti ya VOPSO. Habari inayolingana ipo MESP Darasa la Tano Mei 2024, ukurasa 4."
+    },
+    {
+      "id": "1(4)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Walimu walimzawadia Diana kwa lipi? A kukata kuku vizuri, B kushinda mchezo wa mpira wa mkono, C kukimbiza kuku, D kushinda mchezo wa kumkamata kuku, E kushabikia vizuri.",
+      "steps": [
+        "Kwa habari hiyo inayolingana: Diana ndiye aliyefanikiwa kumkamata kuku na alizawadiwa.",
+        "Msimamizi athibitishe kwamba script iliyosomwa ilikuwa hiyo kabla ya kutumia jibu hili kutoa alama."
+      ],
+      "answer": "Script haimo katika VOPSO hii. Kwa sharti kwamba habari ya Fikitu/Diana inayolingana katika MESP Darasa la Tano Mei 2024 ndiyo iliyosomwa: D - Kushinda mchezo wa kumkamata kuku.",
+      "source_page": 2,
+      "tip": "Hili ni jibu la masharti, si uthibitisho wa script tofauti ya VOPSO. Habari inayolingana ipo MESP Darasa la Tano Mei 2024, ukurasa 4."
+    },
+    {
+      "id": "1(5)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Kwa mujibu wa habari, Fikitu alikuwa na marafiki wangapi? A wengi, B wanne, C watatu, D wawili, E mmoja.",
+      "steps": [
+        "Kwa habari hiyo inayolingana: Sentensi ya kwanza inataja marafiki wanne, wawili wa kike na wawili wa kiume.",
+        "Msimamizi athibitishe kwamba script iliyosomwa ilikuwa hiyo kabla ya kutumia jibu hili kutoa alama."
+      ],
+      "answer": "Script haimo katika VOPSO hii. Kwa sharti kwamba habari ya Fikitu/Diana inayolingana katika MESP Darasa la Tano Mei 2024 ndiyo iliyosomwa: B - Marafiki wanne.",
+      "source_page": 2,
+      "tip": "Hili ni jibu la masharti, si uthibitisho wa script tofauti ya VOPSO. Habari inayolingana ipo MESP Darasa la Tano Mei 2024, ukurasa 4."
+    },
+    {
+      "id": "2(1)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Maneno “mrefu, mweusi, mwerevu na mpole” yakitumika pamoja na majina hufanya kazi gani? A kivumishi, B kielezi, C kitenzi, D nomino, E kiwakilishi.",
+      "steps": [
+        "Maneno haya yanafafanua sifa za nomino.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Kivumishi.",
+      "source_page": 2
+    },
+    {
+      "id": "2(2)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kinyume cha “ughaibuni” ni kipi? A nchi jirani, B magharibi, C nchi za mbali, D mashariki, E nyumbani.",
+      "steps": [
+        "Ughaibuni ni nchi za nje; nyumbani ni kwao.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Nyumbani.",
+      "source_page": 2
+    },
+    {
+      "id": "2(3)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Mama anaendesha gari. Herufi “a” mwanzoni mwa anaendesha ni kiambishi gani? A njeo, B nafsi, C timilifu, D isiyodhihirika, E kimilikishi.",
+      "steps": [
+        "A- humrejelea mama, nafsi ya tatu umoja; na- ndiyo wakati uliopo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Nafsi.",
+      "source_page": 2
+    },
+    {
+      "id": "2(4)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Amina alipata ahueni baada ya kuugua muda mrefu. “Ahueni” lina maana gani? A kupona, B nafuu, C majeruhi, D nguvu, E utimamu.",
+      "steps": [
+        "Ahueni ni kupungua kwa maumivu/ugumu; si lazima kupona kabisa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Nafuu.",
+      "source_page": 2
+    },
+    {
+      "id": "2(5)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kitenzi piga katika kauli ya kutendeka kitakuwa nini? A pigana, B pigia, C pigwa, D pigika, E pigilia.",
+      "steps": [
+        "-ik- huonyesha uwezekano wa kitendo kutendeka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Pigika.",
+      "source_page": 2
+    },
+    {
+      "id": "2(6)",
+      "section": "Matumizi ya lugha",
+      "prompt": "“Wewe unasoma kwa bidii sana.” Wewe ni nafsi gani? A tatu wingi, B pili wingi, C kwanza umoja, D tatu umoja, E pili umoja.",
+      "steps": [
+        "Wewe humtaja anayesikiliza mmoja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Pili umoja.",
+      "source_page": 2
+    },
+    {
+      "id": "2(7)",
+      "section": "Matumizi ya lugha",
+      "prompt": "“Lazima tulipe kodi,” amesema mkuu wa nchi. Hiyo ni kauli gani? A halisi, B taarifa, C kutendana, D kutenda, E kutendeana.",
+      "steps": [
+        "Maneno ya mkuu wa nchi yamenukuliwa moja kwa moja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Halisi.",
+      "source_page": 2
+    },
+    {
+      "id": "2(8)",
+      "section": "Matumizi ya lugha",
+      "prompt": "“Msambamba ni umbo tata lisilohesabika.” Msambamba lina jumla ya silabi ngapi? A mbili, B tatu, C nne, D tano, E sita.",
+      "steps": [
+        "M ya mwanzo ni silabi ya konsonanti; -mba- ni silabi moja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Nne: m-sa-mba-mba.",
+      "source_page": 2
+    },
+    {
+      "id": "2(9)",
+      "section": "Matumizi ya lugha",
+      "prompt": "“Upele humuota asiye na kucha” ina maana sawa na methali ipi? A Penye miti hakuna wajenzi, B Penye nia pana njia, C Usimwage mchele penye kuku wengi, D Ukitaka cha uvunguni sharti uiname, E Chanda chema huvishwa pete.",
+      "steps": [
+        "Anayehitaji kitu anaweza kukikosa, ilhali mwenye rasilimali hana uwezo/hitaji linalolingana.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Penye miti hakuna wajenzi.",
+      "source_page": 2
+    },
+    {
+      "id": "2(10)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Malizia: Mtafunwa na nyoka akiona _____. A jani anatimua, B nyoka hushtuka, C nyasi huchomoka, D mtafunwa hukimbia, E ung’ongo hushituka.",
+      "steps": [
+        "Ung’ongo hufanana na nyoka; aliyewahi kudhurika huogopa kitu kinachofanana.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Ung’ongo hushituka.",
+      "source_page": 2
+    },
+    {
+      "id": "3(1)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha Mpofuka ukongweni. Machaguo: A Poteza matumaini, B Hodari wa jambo, C Mjinga, D Hupotea njia, E Kaa kitako, F Hapotei njia, G Chukua tahadhari, H Kata shauri, I Mzururaji, J Mpambanaji kweli kweli.",
+      "steps": [
+        "Methali hudokeza kuwa uzoefu wa zamani huendelea kusaidia mtu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "F - Hapotei njia.",
+      "source_page": 3
+    },
+    {
+      "id": "3(2)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha Kaa chonjo. Machaguo: A Poteza matumaini, B Hodari wa jambo, C Mjinga, D Hupotea njia, E Kaa kitako, F Hapotei njia, G Chukua tahadhari, H Kata shauri, I Mzururaji, J Mpambanaji kweli kweli.",
+      "steps": [
+        "Kaa chonjo ni kuwa macho na tayari.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "G - Chukua tahadhari.",
+      "source_page": 3
+    },
+    {
+      "id": "3(3)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha Kata tamaa. Machaguo: A Poteza matumaini, B Hodari wa jambo, C Mjinga, D Hupotea njia, E Kaa kitako, F Hapotei njia, G Chukua tahadhari, H Kata shauri, I Mzururaji, J Mpambanaji kweli kweli.",
+      "steps": [
+        "Kata tamaa ni kuacha kutarajia mafanikio.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Poteza matumaini.",
+      "source_page": 3
+    },
+    {
+      "id": "3(4)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha Gwiji. Machaguo: A Poteza matumaini, B Hodari wa jambo, C Mjinga, D Hupotea njia, E Kaa kitako, F Hapotei njia, G Chukua tahadhari, H Kata shauri, I Mzururaji, J Mpambanaji kweli kweli.",
+      "steps": [
+        "Gwiji ni mtu mwenye ustadi mkubwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Hodari wa jambo.",
+      "source_page": 3
+    },
+    {
+      "id": "3(5)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha Zuzu. Machaguo: A Poteza matumaini, B Hodari wa jambo, C Mjinga, D Hupotea njia, E Kaa kitako, F Hapotei njia, G Chukua tahadhari, H Kata shauri, I Mzururaji, J Mpambanaji kweli kweli.",
+      "steps": [
+        "Zuzu ni mwenye uelewa mdogo/mjinga.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Mjinga.",
+      "source_page": 3
+    },
+    {
+      "id": "4(1)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Kila mtu aliyekutana naye alimwambia kuwa umaskini ni jambo la kawaida.",
+      "steps": [
+        "Hufuatia kutambulishwa kwa familia maskini ya Mfaume.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B",
+      "source_page": 3
+    },
+    {
+      "id": "4(2)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Yeye aliamua kujifunza kilimo bora kisha akafanya kazi kwa bidii.",
+      "steps": [
+        "Hatua ya kufanya kazi hufuata kukataa kukatishwa tamaa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D",
+      "source_page": 3
+    },
+    {
+      "id": "4(3)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Mfaume alizaliwa kwenye familia ya kimaskini sana.",
+      "steps": [
+        "Inamtambulisha Mfaume na hali ya mwanzo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A",
+      "source_page": 3
+    },
+    {
+      "id": "4(4)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Mwishowe Mfaume alikuwa tajiri na kila mtu alimshangaa na kumheshimu na kusema “kumbe inawezekana”.",
+      "steps": [
+        "Mwishowe ni hitimisho la mafanikio.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E",
+      "source_page": 3
+    },
+    {
+      "id": "4(5)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Lakini Mfaume alikataa kuamini mawazo ya watu waliomkatisha tamaa.",
+      "steps": [
+        "Lakini hupinga maneno ya watu katika sentensi ya pili.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C",
+      "source_page": 3
+    },
+    {
+      "id": "5(1)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Mshairi anatueleza kuwa elimu inaweza kupatikana wapi?",
+      "steps": [
+        "Ubeti wa tatu unasema yeyote akiitaka, popote hujipatia.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Popote.",
+      "source_page": 3
+    },
+    {
+      "id": "5(2)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Shairi hili lina jumla ya beti ngapi?",
+      "steps": [
+        "Kuna mafungu matatu ya mishororo minne.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Beti tatu.",
+      "source_page": 3
+    },
+    {
+      "id": "5(3)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Taja vina vya kati katika ubeti wa mwisho.",
+      "steps": [
+        "Maneno kabla ya mkato ni akiitaka, huruka, wameshika, ninakwambia; mwisho wa ninakwambia ni -bia.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "ka, ka, ka, bia.",
+      "source_page": 3
+    },
+    {
+      "id": "5(4)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "“Kubarizi” lina maana gani katika shairi?",
+      "steps": [
+        "Mshairi anasema mtu anaenda kubarizi akiwa na elimu yake.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kupumzika/kustarehe nje au sehemu ya burudani.",
+      "source_page": 3
+    },
+    {
+      "id": "5(5)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Kichwa cha shairi kinafaa kuwa kipi?",
+      "steps": [
+        "Mkarara unaorudiwa unasema elimu ni hazina isiyokwisha.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Elimu ni hazina isiyokwisha.",
+      "source_page": 3
+    },
+    {
+      "id": "6(1)",
+      "section": "Barua",
+      "prompt": "Bainisha/jaza kipengele: Nafasi chini ya DAR ES SALAAM katika anwani ya mwandishi.",
+      "steps": [
+        "Tarehe huwekwa chini ya anwani ya mwandishi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tarehe; mfano: 24 Aprili 2024.",
+      "source_page": 4
+    },
+    {
+      "id": "6(2)",
+      "section": "Barua",
+      "prompt": "Bainisha/jaza kipengele: Nafasi chini ya S.L.P. 10 katika anwani ya Afisa Elimu Msingi.",
+      "steps": [
+        "Mji/wilaya ya mpokeaji ni Mkuranga, kama anwani iliyochapishwa inavyoeleza.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mkuranga.",
+      "source_page": 4
+    },
+    {
+      "id": "6(3)",
+      "section": "Barua",
+      "prompt": "Bainisha/jaza kipengele: Nafasi ya kichwa kabla ya “Husika na kichwa cha habari hapo juu”.",
+      "steps": [
+        "Kiini kinashukuru kupokea nakala 47 za vitabu vya Kiswahili kwa Darasa la Sita.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "YAH: SHUKRANI KWA KUPOKEA VITABU VYA KISWAHILI.",
+      "source_page": 4
+    },
+    {
+      "id": "6(4)",
+      "section": "Barua",
+      "prompt": "Bainisha/jaza kipengele: Nafasi ya kwanza chini ya “Wako katika utumishi”.",
+      "steps": [
+        "Sahihi huthibitisha mwandishi wa barua.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Sahihi ya mwandishi.",
+      "source_page": 4
+    },
+    {
+      "id": "6(5)",
+      "section": "Barua",
+      "prompt": "Bainisha/jaza kipengele: Nafasi ya pili chini ya “Wako katika utumishi”, juu ya MWALIMU MKUU.",
+      "steps": [
+        "Jina linalosomeka huandikwa baada ya sahihi na kabla ya cheo; jina halijaagizwa, hivyo hili ni mfano.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Jina la mwandishi; mfano: Asha Juma.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Ufahamu wa kusikiliza": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Matumizi ya lugha": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Kuonanisha": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Utungaji": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Ufahamu wa shairi": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Barua": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu."
+  },
+  "references": [
+    {
+      "title": "VOPSO Standard Six Assessment Examination April 2024",
+      "url": "https://darasahuru.ac.tz/vopso-standard-six-assessment-examination-april-2024-2/"
+    },
+    {
+      "title": "Habari inayolingana ya Fikitu/Diana - MESP Darasa la Tano Mei 2024, ukurasa 4",
+      "url": "https://darasahuru.ac.tz/mesp-tanzania-standard-five-terminal-examinations-may-2024/"
+    }
+  ],
+  "limitations": [
+    "6: nafasi tano hazina namba kwenye chanzo; zimepewa 6(1)-6(5) kutoka juu kwenda chini. Tarehe na jina ni mifano.",
+    "1(1-5): script haimo VOPSO. Maswali yote matano yanalingana na MESP Darasa la Tano Mei 2024, ukurasa 4; majibu yamepewa sharti la script hiyo kuwa ndiyo iliyosomwa."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "950ccf45b9f243cb2fecacfaa246dcd7702a91d8d2526c904439a70f5033bcb5"
+}

@@ -1,0 +1,703 @@
+{
+  "exam": "Mathematics-S5-2026-Arusha-region-May-Terminal-exam.pdf",
+  "output": "Mathematics-S5-2026-Arusha-region-May-Terminal-exam-AnswerKey.pdf",
+  "sha256": "6b532747cbf2676571461a8e6c816cb1953505ba370139aec2a7f4dd5006b074",
+  "subject": "Mathematics",
+  "level": "Standard Five",
+  "year": "2026",
+  "code": "Not printed in source",
+  "board": "Arusha region",
+  "exam_type": "Terminal exam - May",
+  "question_count": "33 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(ix)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "7(i)",
+    "7(iii)",
+    "8(i)",
+    "8(ii)",
+    "8(iii)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Calculations",
+      "prompt": "Add 2096 +209.",
+      "steps": [
+        "1 place: 6 + 9 = 15; write 5, carry 1.",
+        "10 place: 9 + 0 + carry 1 = 10; write 0, carry 1.",
+        "100 place: 0 + 2 + carry 1 = 3; write 3.",
+        "1000 place: 2 + 0 = 2; write 2.",
+        "2096 + 209 = 2305."
+      ],
+      "answer": "2305",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "2096+209",
+          "expected": "2305"
+        },
+        {
+          "expression": "6 + 9",
+          "expected": "15"
+        },
+        {
+          "expression": "2 + 0",
+          "expected": "2"
+        },
+        {
+          "expression": "2096 + 209",
+          "expected": "2305"
+        }
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Calculations",
+      "prompt": "Subtract 6222 -991.",
+      "steps": [
+        "1 place: 2 - 1 = 1.",
+        "10 place: regroup 1 from the next place; 12 - 9 = 3.",
+        "100 place: regroup 1 from the next place; 11 - 9 = 2.",
+        "1000 place: 5 - 0 = 5.",
+        "6222 - 991 = 5231; check 5231 + 991 = 6222."
+      ],
+      "answer": "5231",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "6222-991",
+          "expected": "5231"
+        },
+        {
+          "expression": "2 - 1",
+          "expected": "1"
+        },
+        {
+          "expression": "12 - 9",
+          "expected": "3"
+        },
+        {
+          "expression": "11 - 9",
+          "expected": "2"
+        },
+        {
+          "expression": "5 - 0",
+          "expected": "5"
+        },
+        {
+          "expression": "6222 - 991",
+          "expected": "5231"
+        },
+        {
+          "expression": "5231 + 991",
+          "expected": "6222"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Calculations",
+      "prompt": "Multiply 504 x 76.",
+      "steps": [
+        "Split into place values: 500 x 76 = 38000; 4 x 76 = 304.",
+        "Add the partial products: 38304."
+      ],
+      "answer": "38304",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "504*76",
+          "expected": "38304"
+        },
+        {
+          "expression": "500*76",
+          "expected": "38000"
+        },
+        {
+          "expression": "4*76",
+          "expected": "304"
+        }
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Calculations",
+      "prompt": "Divide 6250 by 25.",
+      "steps": [
+        "62 / 25: write 2; 2 x 25 = 50; 62 - 50 = 12.",
+        "125 / 25: write 5; 5 x 25 = 125; 125 - 125 = 0.",
+        "0 / 25: write 0; 0 x 25 = 0; 0 - 0 = 0.",
+        "25 x 250 = 6250.",
+        "6250 / 25 = 250."
+      ],
+      "answer": "250",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "6250/25",
+          "expected": "250"
+        },
+        {
+          "expression": "2*25",
+          "expected": "50"
+        },
+        {
+          "expression": "62 - 50",
+          "expected": "12"
+        },
+        {
+          "expression": "5*25",
+          "expected": "125"
+        },
+        {
+          "expression": "125 - 125",
+          "expected": "0"
+        },
+        {
+          "expression": "0*25",
+          "expected": "0"
+        },
+        {
+          "expression": "0 - 0",
+          "expected": "0"
+        },
+        {
+          "expression": "25*250",
+          "expected": "6250"
+        },
+        {
+          "expression": "6250 / 25",
+          "expected": "250"
+        }
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Mathematics",
+      "prompt": "Subtract 35.8 -24.3.",
+      "steps": [
+        "Tenths 8-3=5; whole 35-24=11."
+      ],
+      "answer": "11.5",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "35.8-24.3",
+          "expected": "23/2"
+        },
+        {
+          "expression": "8-3",
+          "expected": "5"
+        },
+        {
+          "expression": "35-24",
+          "expected": "11"
+        }
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Mathematics",
+      "prompt": "Divide 5/12 by 3/4.",
+      "steps": [
+        "Multiply by 4/3.",
+        "(5 x 4)/(12 x 3)=20/36=5/9."
+      ],
+      "answer": "5/9",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "(5/12)/(3/4)",
+          "expected": "5/9"
+        },
+        {
+          "expression": "(5*4)/(12*3)",
+          "expected": "5/9"
+        }
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Mathematics",
+      "prompt": "Add 3/8 +5/8.",
+      "steps": [
+        "3 + 5 = 8; denominator 8.",
+        "8/8=1."
+      ],
+      "answer": "1",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "3/8+5/8",
+          "expected": "1"
+        },
+        {
+          "expression": "3 + 5",
+          "expected": "8"
+        },
+        {
+          "expression": "8/8",
+          "expected": "1"
+        }
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Mathematics",
+      "prompt": "Multiply 4/6 x 8/16.",
+      "steps": [
+        "Simplify 4/6=2/3;8/16=1/2.",
+        "2/3 x 1/2=1/3."
+      ],
+      "answer": "1/3",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "(4/6)*(8/16)",
+          "expected": "1/3"
+        },
+        {
+          "expression": "4/6",
+          "expected": "2/3"
+        },
+        {
+          "expression": "8/16",
+          "expected": "1/2"
+        },
+        {
+          "expression": "2/3*1/2",
+          "expected": "1/3"
+        }
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Mathematics",
+      "prompt": "Add 66.23 +70.03.",
+      "steps": [
+        "Hundredths 3+3=6; tenths 2+0=2.",
+        "Whole 66+70=136."
+      ],
+      "answer": "136.26",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "66.23+70.03",
+          "expected": "6813/50"
+        },
+        {
+          "expression": "3+3",
+          "expected": "6"
+        },
+        {
+          "expression": "2+0",
+          "expected": "2"
+        },
+        {
+          "expression": "66+70",
+          "expected": "136"
+        }
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Mathematics",
+      "prompt": "Write two-thirds in figures.",
+      "steps": [
+        "Numerator 2, denominator 3."
+      ],
+      "answer": "2/3",
+      "source_page": 1
+    },
+    {
+      "id": "2(i)",
+      "section": "Mathematics",
+      "prompt": "Write 209505 in words.",
+      "steps": [
+        "209505=209000+505."
+      ],
+      "answer": "Two hundred and nine thousand five hundred and five",
+      "source_page": 1
+    },
+    {
+      "id": "2(ii)",
+      "section": "Mathematics",
+      "prompt": "Name place of 9 in 579316.",
+      "steps": [
+        "9 is fourth from right, thousands."
+      ],
+      "answer": "Thousands",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Mathematics",
+      "prompt": "Value of 4 in seventy-six thousand two hundred fifty-four?",
+      "steps": [
+        "76254;4 is ones."
+      ],
+      "answer": "4",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Mathematics",
+      "prompt": "Write 79 in Roman numerals.",
+      "steps": [
+        "70=LXX;9=IX."
+      ],
+      "answer": "LXXIX",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Mathematics",
+      "prompt": "Compare 1/4 and 2/7 using<or>.",
+      "steps": [
+        "Common denominator 28:1/4=7/28;2/7=8/28.",
+        "7<8."
+      ],
+      "answer": "<",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "1/4",
+          "expected": "1/4"
+        },
+        {
+          "expression": "2/7",
+          "expected": "2/7"
+        }
+      ]
+    },
+    {
+      "id": "2(vi)",
+      "section": "Mathematics",
+      "prompt": "Write five hundred twenty-five point two five in figures.",
+      "steps": [
+        "Whole 525; decimal digits 25."
+      ],
+      "answer": "525.25",
+      "source_page": 2
+    },
+    {
+      "id": "3(i)",
+      "section": "Mathematics",
+      "prompt": "Number immediately before 1000?",
+      "steps": [
+        "1000 - 1 = 999."
+      ],
+      "answer": "999",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "1000 - 1",
+          "expected": "999"
+        }
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Mathematics",
+      "prompt": "Convert 3 km to metres.",
+      "steps": [
+        "3 x 1000 = 3000."
+      ],
+      "answer": "3000 m",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "3*1000",
+          "expected": "3000"
+        }
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Mathematics",
+      "prompt": "How many quarters make 8?",
+      "steps": [
+        "8 / (1/4) = 32."
+      ],
+      "answer": "32",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "8 / (1/4)",
+          "expected": "32"
+        }
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Mathematics",
+      "prompt": "Sum of primes between 31 and 40?",
+      "steps": [
+        "Strictly between:37 alone, so sum 37.",
+        "If endpoints are inclusive:31 + 37 = 68."
+      ],
+      "answer": "37 strictly between;68 if 31 is included.",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "31 + 37",
+          "expected": "68"
+        }
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Mathematics",
+      "prompt": "Write DCXXII in Arabic numerals.",
+      "steps": [
+        "D=500; C=100; XX=20; II=2.",
+        "500 + 100 + 20 + 2 = 622."
+      ],
+      "answer": "622",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "500 + 100 + 20 + 2",
+          "expected": "622"
+        }
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Mathematics",
+      "prompt": "Zawadi walks 4/5 of journey. Fraction remaining?",
+      "steps": [
+        "1=5/5.",
+        "5 - 4 = 1."
+      ],
+      "answer": "1/5",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "1-4/5",
+          "expected": "1/5"
+        },
+        {
+          "expression": "5 - 4",
+          "expected": "1"
+        }
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Mathematics",
+      "prompt": "Give a prime which is even.",
+      "steps": [
+        "2 has factors 1 and 2; all larger even numbers have more than 2 factors."
+      ],
+      "answer": "2",
+      "source_page": 2
+    },
+    {
+      "id": "5(ii)",
+      "section": "Mathematics",
+      "prompt": "Arrange 323,456,656,235,145,543 in ascending order.",
+      "steps": [
+        "Compare hundreds then tens and ones."
+      ],
+      "answer": "145,235,323,456,543,656",
+      "source_page": 2
+    },
+    {
+      "id": "5(iii)",
+      "section": "Mathematics",
+      "prompt": "How many evens between 45 and 63?",
+      "steps": [
+        "46,48,50,52,54,56,58,60,62."
+      ],
+      "answer": "9",
+      "source_page": 2
+    },
+    {
+      "id": "6(i)",
+      "section": "Calculations",
+      "prompt": "Airplane speed 732.73 km/hfor 7 hours. Distance?",
+      "steps": [
+        "Multiply by each digit; carry when needed.",
+        "732.73 x 7 = 512911/100."
+      ],
+      "answer": "512911/100 km",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "732.73*7",
+          "expected": "512911/100"
+        }
+      ]
+    },
+    {
+      "id": "6(ii)",
+      "section": "Mathematics",
+      "prompt": "Write 7 +0 +200 +8000 in short form.",
+      "steps": [
+        "8000 + 200 + 0 + 7 = 8207."
+      ],
+      "answer": "8207",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "8000 + 200 + 0 + 7",
+          "expected": "8207"
+        }
+      ]
+    },
+    {
+      "id": "6(iii)",
+      "section": "Mathematics",
+      "prompt": "Convert 6/10 to decimal.",
+      "steps": [
+        "Six tenths is 0.6."
+      ],
+      "answer": "0.6",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "6/10",
+          "expected": "3/5"
+        }
+      ]
+    },
+    {
+      "id": "7(i)",
+      "section": "Mathematics",
+      "prompt": "Find boundary length of semicircle diameter 7 cm, pi 22/7.",
+      "steps": [
+        "Curved half-circumference=(22/7)x 7/2=11 cm.",
+        "Add straight diameter 7 cm:11 + 7 = 18."
+      ],
+      "answer": "18 cm total perimeter (11 cm curved arc)",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "(22/7)*7/2+7",
+          "expected": "18"
+        },
+        {
+          "expression": "(22/7)*7/2",
+          "expected": "11"
+        },
+        {
+          "expression": "11 + 7",
+          "expected": "18"
+        }
+      ]
+    },
+    {
+      "id": "7(iii)",
+      "section": "Mathematics",
+      "prompt": "Carpet 7 mby 5 m. Perimeter?",
+      "steps": [
+        "7 + 5 = 12.",
+        "2 x 12 = 24."
+      ],
+      "answer": "24 m",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "7 + 5",
+          "expected": "12"
+        },
+        {
+          "expression": "2*12",
+          "expected": "24"
+        }
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Mathematics",
+      "prompt": "Find area of the square whose equal sides are marked and one side is 12 cm.",
+      "steps": [
+        "Area=side².",
+        "12 x 12 = 144."
+      ],
+      "answer": "144 cm²",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "12*12",
+          "expected": "144"
+        }
+      ]
+    },
+    {
+      "id": "8(ii)",
+      "section": "Mathematics",
+      "prompt": "Draw an isosceles triangle.",
+      "steps": [
+        "Draw a triangle with two equal sloping sides.",
+        "Mark those sides with matching ticks."
+      ],
+      "answer": "Triangle with two sides equal.",
+      "source_page": 3
+    },
+    {
+      "id": "8(iii)",
+      "section": "Mathematics",
+      "prompt": "Simplify 6 n +n +2 n.",
+      "steps": [
+        "Coefficients 6 + 1 + 2 = 9.",
+        "Keep variable n."
+      ],
+      "answer": "9 n",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "6 + 1 + 2",
+          "expected": "9"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Mathematics": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - Arusha Region Standard Five Terminal Exams May 2026",
+      "url": "https://darasahuru.ac.tz/arusha-region-standard-five-terminal-exams-may-2026/"
+    }
+  ],
+  "limitations": [
+    "4(i)between can be strict or inclusive; both sums are stated.",
+    "7(i)semicircle total perimeter includes the diameter; curved arc length is also stated.",
+    "7(ii)is absent; both printed 7(i)and 7(iii)are answered."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "841a40e6c0d770370ee85d87a61996dc79d1218ab498875ca39125cab19479d8"
+}

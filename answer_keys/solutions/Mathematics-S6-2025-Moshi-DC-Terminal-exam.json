@@ -1,0 +1,651 @@
+{
+  "exam": "Mathematics-S6-2025-Moshi-DC-Terminal-exam.pdf",
+  "output": "Mathematics-S6-2025-Moshi-DC-Terminal-exam-AnswerKey.pdf",
+  "sha256": "b08f0ad3994e6e5e3f747fd9832fe3eea7dd896edf5fbaa6b693d774de140d06",
+  "subject": "Hisabati",
+  "level": "Standard Six",
+  "year": "2025",
+  "code": "Not printed in source",
+  "board": "Moshi DC",
+  "exam_type": "Midterm exam - First term",
+  "question_count": "33 numbered questions/subparts (8 main questions)",
+  "language": "sw",
+  "expected_parts": [
+    "1(i)-add",
+    "1(i)-subtract",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(ix)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "3-area",
+    "3(i)",
+    "3(ii)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "7(i)",
+    "7(ii)",
+    "8(i)",
+    "8(ii)",
+    "8(iii)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)-add",
+      "section": "Sehemu A: Matendo ya kihesabu",
+      "prompt": "Jumlisha 2213 + 6782.",
+      "steps": [
+        "1 nafasi: 3 + 2 = 5; andika 5.",
+        "10 nafasi: 1 + 8 = 9; andika 9.",
+        "100 nafasi: 2 + 7 = 9; andika 9.",
+        "1000 nafasi: 2 + 6 = 8; andika 8.",
+        "2213 + 6782 = 8995."
+      ],
+      "answer": "8995",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "2213+6782",
+          "expected": "8995"
+        }
+      ]
+    },
+    {
+      "id": "1(i)-subtract",
+      "section": "Sehemu A: Matendo ya kihesabu",
+      "prompt": "Toa 5794 - 2891 (tendo lisilo na namba chini ya 1(i)).",
+      "steps": [
+        "1 nafasi: 4 - 1 = 3.",
+        "10 nafasi: 9 - 9 = 0.",
+        "100 nafasi: azima 1 kutoka nafasi inayofuata; 17 - 8 = 9.",
+        "1000 nafasi: 4 - 2 = 2.",
+        "5794 - 2891 = 2903; hakiki 2903 + 2891 = 5794."
+      ],
+      "answer": "2903",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "5794-2891",
+          "expected": "2903"
+        }
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Sehemu A: Matendo ya kihesabu",
+      "prompt": "Zidisha 407 x 40.",
+      "steps": [
+        "Gawanya kwa thamani ya nafasi: 400 x 40 = 16000; 7 x 40 = 280.",
+        "Jumlisha matokeo: 16280."
+      ],
+      "answer": "16280",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "407*40",
+          "expected": "16280"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Sehemu A: Matendo ya kihesabu",
+      "prompt": "Jumlisha 9/10 + 2/9.",
+      "steps": [
+        "Asili ya pamoja ya 10 na 9 ni 90.",
+        "9/10 = 81/90 na 2/9 = 20/90.",
+        "81/90 + 20/90 = 101/90 = 1 11/90."
+      ],
+      "answer": "1 11/90",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "9/10+2/9",
+          "expected": "101/90"
+        }
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Sehemu A: Matendo ya kihesabu",
+      "prompt": "Zidisha 5/8 x 2/4.",
+      "steps": [
+        "Zidisha namba za juu: 5 x 2 = 10; zidisha asili: 8 x 4 = 32.",
+        "10/32 = 5/16 baada ya kugawa juu na chini kwa 2."
+      ],
+      "answer": "5/16",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "(5/8)*(2/4)",
+          "expected": "5/16"
+        }
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Sehemu A: Matendo ya kihesabu",
+      "prompt": "Jumlisha 6/8 + 5/6.",
+      "steps": [
+        "Asili ya pamoja ni 24.",
+        "6/8 = 18/24 na 5/6 = 20/24.",
+        "18/24 + 20/24 = 38/24 = 19/12 = 1 7/12."
+      ],
+      "answer": "1 7/12",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "6/8+5/6",
+          "expected": "19/12"
+        }
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Sehemu A: Matendo ya kihesabu",
+      "prompt": "Kokotoa alama iliyochapishwa 24√984.",
+      "steps": [
+        "Ikiwa √ imetumiwa badala ya alama ya mgawanyo mrefu, tendo ni 984/24.",
+        "24 x 40 = 960; 984 - 960 = 24; hivyo 984/24 = 41.",
+        "Ikiwa √ ni mzizi kama ilivyochapishwa, 24√984 = 24√(4 x 246) = 48√246, takriban 752.851.",
+        "Chanzo hakielezi maana ya alama; majibu haya yanatenganisha tafsiri hizo."
+      ],
+      "answer": "41 ikiwa maana ni 984 ÷ 24; 48√246 (takriban 752.851) ikiwa ni 24 mara mzizi wa 984.",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "984/24",
+          "expected": "41"
+        },
+        {
+          "expression": "4*246",
+          "expected": "984"
+        },
+        {
+          "expression": "24**2*984",
+          "expected": "566784"
+        },
+        {
+          "expression": "48**2*246",
+          "expected": "566784"
+        }
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Sehemu A: Matendo ya kihesabu",
+      "prompt": "Jumlisha 131646 + 127434.",
+      "steps": [
+        "1 nafasi: 6 + 4 = 10; andika 0, beba 1.",
+        "10 nafasi: 4 + 3 + beba 1 = 8; andika 8.",
+        "100 nafasi: 6 + 4 = 10; andika 0, beba 1.",
+        "1000 nafasi: 1 + 7 + beba 1 = 9; andika 9.",
+        "10000 nafasi: 3 + 2 = 5; andika 5.",
+        "100000 nafasi: 1 + 1 = 2; andika 2.",
+        "131646 + 127434 = 259080."
+      ],
+      "answer": "259080",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "131646+127434",
+          "expected": "259080"
+        }
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Sehemu A: Matendo ya kihesabu",
+      "prompt": "Toa 205745 - 276136.",
+      "steps": [
+        "276136 ni kubwa kuliko 205745, hivyo jibu ni hasi.",
+        "Toa thamani ndogo katika kubwa: 276136 - 205745 = 70391.",
+        "Kwa hiyo 205745 - 276136 = -70391.",
+        "Hakiki: -70391 + 276136 = 205745."
+      ],
+      "answer": "-70391",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "205745-276136",
+          "expected": "-70391"
+        },
+        {
+          "expression": "-70391+276136",
+          "expected": "205745"
+        }
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Sehemu A: Matendo ya kihesabu",
+      "prompt": "Zidisha 11308 x 52.",
+      "steps": [
+        "Gawanya kwa thamani ya nafasi: 10000 x 52 = 520000; 1000 x 52 = 52000; 300 x 52 = 15600; 8 x 52 = 416.",
+        "Jumlisha matokeo: 588016."
+      ],
+      "answer": "588016",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "11308*52",
+          "expected": "588016"
+        }
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Sehemu B: Mafumbo",
+      "prompt": "Andika kwa tarakimu: mia moja ishirini na tano elfu mia saba na mbili.",
+      "steps": [
+        "Mia moja ishirini na tano elfu = 125000.",
+        "Mia saba na mbili = 702.",
+        "125000 + 702 = 125702."
+      ],
+      "answer": "125702",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "125000+702",
+          "expected": "125702"
+        }
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Sehemu B: Mafumbo",
+      "prompt": "Andika kwa kifupi 200000 + 60000 + 1000 + 900 + 700 + 10 + 7.",
+      "steps": [
+        "200000 + 60000 = 260000.",
+        "1000 + 900 + 700 = 2600.",
+        "10 + 7 = 17; jumla = 260000 + 2600 + 17 = 262617."
+      ],
+      "answer": "262617",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "200000+60000+1000+900+700+10+7",
+          "expected": "262617"
+        }
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Sehemu B: Mafumbo",
+      "prompt": "Andika nafasi ya thamani ya 6 iliyopigiwa mstari katika 116370.",
+      "steps": [
+        "Kutoka kulia: 0 ni mamoja, 7 ni makumi, 3 ni mamia na 6 ni maelfu.",
+        "Hivyo nafasi ya 6 ni maelfu."
+      ],
+      "answer": "Maelfu",
+      "source_page": 1
+    },
+    {
+      "id": "2(iv)",
+      "section": "Sehemu B: Mafumbo",
+      "prompt": "Andika 3333 kwa maneno.",
+      "steps": [
+        "3333 = 3000 + 300 + 30 + 3.",
+        "Unganisha maneno ya maelfu, mamia, makumi na mamoja."
+      ],
+      "answer": "Elfu tatu mia tatu thelathini na tatu",
+      "source_page": 1
+    },
+    {
+      "id": "2(v)",
+      "section": "Sehemu B: Mafumbo",
+      "prompt": "Andika 874 kwa tarakimu za Kirumi.",
+      "steps": [
+        "874 = 800 + 70 + 4.",
+        "800 = DCCC; 70 = LXX; 4 = IV.",
+        "Unganisha: DCCCLXXIV."
+      ],
+      "answer": "DCCCLXXIV",
+      "source_page": 1
+    },
+    {
+      "id": "2(vi)",
+      "section": "Sehemu B: Mafumbo",
+      "prompt": "Andika namba inayofuata: 13, 11, 9, __.",
+      "steps": [
+        "13 - 11 = 2 na 11 - 9 = 2; kila hatua hupunguza 2.",
+        "9 - 2 = 7."
+      ],
+      "answer": "7",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "9-2",
+          "expected": "7"
+        }
+      ]
+    },
+    {
+      "id": "3-area",
+      "section": "Sehemu B: Mafumbo",
+      "prompt": "Tafuta eneo la mstatili wenye urefu sm 20 na upana sm 10 (tendo lisilo na namba katika swali 3).",
+      "steps": [
+        "Eneo la mstatili = urefu x upana.",
+        "20 x 10 = 200."
+      ],
+      "answer": "200 sm²",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "20*10",
+          "expected": "200"
+        }
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Sehemu B: Mafumbo",
+      "prompt": "Jumlisha saa 4 dakika 10 na saa 3 dakika 54.",
+      "steps": [
+        "Dakika: 10 + 54 = 64, sawa na saa 1 dakika 4.",
+        "Saa: 4 + 3 + 1 = 8.",
+        "Jumla ni saa 8 dakika 4."
+      ],
+      "answer": "Saa 8 dakika 4",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "(4*60+10)+(3*60+54)",
+          "expected": "484"
+        }
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Sehemu B: Mafumbo",
+      "prompt": "Dakika 239 ni sawa na saa ngapi?",
+      "steps": [
+        "Saa moja ina dakika 60.",
+        "60 x 3 = 180; 239 - 180 = 59.",
+        "Hivyo ni saa 3 dakika 59; kwa saa pekee ni 239/60 = 3 59/60."
+      ],
+      "answer": "Saa 3 dakika 59 (3 59/60 saa)",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "239/60",
+          "expected": "239/60"
+        },
+        {
+          "expression": "239-3*60",
+          "expected": "59"
+        }
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Sehemu B: Mafumbo",
+      "prompt": "Tafuta zao la 80 na 20.",
+      "steps": [
+        "Gawanya kwa thamani ya nafasi: 80 x 20 = 1600.",
+        "Jumlisha matokeo: 1600."
+      ],
+      "answer": "1600",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "80*20",
+          "expected": "1600"
+        }
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Sehemu B: Mafumbo",
+      "prompt": "Tafuta thamani ya (4 + 3) + 4 x 2.",
+      "steps": [
+        "4 + 3 = 7.",
+        "4  x  2 = 8.",
+        "4 + 3 + 4  x  2 = 15.",
+        "(4+3)+4 x 2 = 15."
+      ],
+      "answer": "15",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "(4+3)+4*2",
+          "expected": "15"
+        }
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Sehemu B: Mafumbo",
+      "prompt": "Tafuta tofauti ya muda kati ya saa 4:15 asubuhi hadi saa 7:45.",
+      "steps": [
+        "Kutoka saa 4:15 hadi saa 7:15 ni saa 3.",
+        "Kutoka saa 7:15 hadi saa 7:45 ni dakika 30.",
+        "Tofauti ni saa 3 dakika 30."
+      ],
+      "answer": "Saa 3 dakika 30",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "(7*60+45)-(4*60+15)",
+          "expected": "210"
+        }
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Sehemu B: Mafumbo",
+      "prompt": "Badili meta 800 kuwa sentimeta.",
+      "steps": [
+        "Meta 1 = sentimeta 100.",
+        "800 x 100 = 80000."
+      ],
+      "answer": "80000 sm",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "800*100",
+          "expected": "80000"
+        }
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Sehemu B: Mafumbo",
+      "prompt": "Tafuta kigawe kidogo cha shirika (K.D.S.) cha 18 na 20.",
+      "steps": [
+        "18 = 2 x 3² na 20 = 2² x 5.",
+        "Chukua vipeo vikubwa vya kila namba tasa: K.D.S. = 2² x 3² x 5.",
+        "4 x 9 x 5 = 180; hakiki 180/18 = 10 na 180/20 = 9."
+      ],
+      "answer": "180",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "2**2*3**2*5",
+          "expected": "180"
+        }
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Sehemu B: Mafumbo",
+      "prompt": "Tafuta \"kigawe kikubwa cha shirika\" (K.K.S.) cha 24 na 48, kama ilivyochapishwa.",
+      "steps": [
+        "K.K.S. kwa matumizi ya kawaida hapa ni kigawo kikubwa cha shirika.",
+        "24 hugawanya 24 na 48: 24/24 = 1 na 48/24 = 2.",
+        "Kwa kuwa hakuna kigawo cha 24 kikubwa kuliko 24, K.K.S. = 24.",
+        "Neno \"kigawe\" katika chanzo ni kosa la istilahi: vigawe vya pamoja havina kigawe kikubwa cha mwisho."
+      ],
+      "answer": "24 kwa maana ya kigawo kikubwa cha shirika; \"kigawe kikubwa\" hakipo.",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "24/24",
+          "expected": "1"
+        },
+        {
+          "expression": "48/24",
+          "expected": "2"
+        }
+      ]
+    },
+    {
+      "id": "6(i)",
+      "section": "Sehemu B: Mafumbo",
+      "prompt": "Julius Nyerere alizaliwa mwaka 1922 na alifariki akiwa na miaka 77. Andika umri wake kwa Kirumi.",
+      "steps": [
+        "77 = 70 + 7.",
+        "70 = LXX na 7 = VII.",
+        "77 = LXXVII."
+      ],
+      "answer": "LXXVII",
+      "source_page": 2
+    },
+    {
+      "id": "6(ii)",
+      "section": "Sehemu B: Mafumbo",
+      "prompt": "Andika namba witiri zote zilizopo kati ya 12 na 18.",
+      "steps": [
+        "Namba witiri hazigawanyiki kwa 2 bila baki.",
+        "Kati ya 12 na 18 ni 13, 15 na 17."
+      ],
+      "answer": "13, 15, 17",
+      "source_page": 2
+    },
+    {
+      "id": "6(iii)",
+      "section": "Sehemu B: Mafumbo",
+      "prompt": "Andika namba shufwa mbili zinazofuata: 542, 544, __, __.",
+      "steps": [
+        "544 - 542 = 2, hivyo ongeza 2 kila hatua.",
+        "544 + 2 = 546 na 546 + 2 = 548."
+      ],
+      "answer": "546, 548",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "544+2",
+          "expected": "546"
+        },
+        {
+          "expression": "546+2",
+          "expected": "548"
+        }
+      ]
+    },
+    {
+      "id": "7(i)",
+      "section": "Sehemu C: Maumbo na takwimu",
+      "prompt": "Kokotoa mzingo wa mstatili wenye urefu sm 8 na upana sm 6.",
+      "steps": [
+        "Mzingo = 2 x (urefu + upana).",
+        "8 + 6 = 14; 2 x 14 = 28."
+      ],
+      "answer": "28 sm",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2*(8+6)",
+          "expected": "28"
+        }
+      ]
+    },
+    {
+      "id": "7(ii)",
+      "section": "Sehemu C: Maumbo na takwimu",
+      "prompt": "Tafuta mzingo wa mraba wenye upande sm 4.",
+      "steps": [
+        "Mraba una pande 4 zenye urefu sawa.",
+        "Mzingo = 4 x 4 = 16."
+      ],
+      "answer": "16 sm",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "4*4",
+          "expected": "16"
+        }
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Sehemu C: Maumbo na takwimu",
+      "prompt": "Taja mazao mawili yanayolimwa katika maeneo yenye mvua nyingi.",
+      "steps": [
+        "Chagua mazao yanayohitaji maji mengi kwa ukuaji wake.",
+        "Mpunga na chai ni mifano inayokubalika."
+      ],
+      "answer": "Mpunga na chai",
+      "source_page": 2
+    },
+    {
+      "id": "8(ii)",
+      "section": "Sehemu C: Maumbo na takwimu",
+      "prompt": "Kwa grafu ya mvua Januari hadi Aprili katika wilaya ya Kilanga, Machi ilikuwa na mvua kiasi gani?",
+      "steps": [
+        "Nguzo ya Machi inafika kwenye mstari wa 80.",
+        "Chanzo kimeandika kizio \"Mita\" kwenye mhimili."
+      ],
+      "answer": "Mita 80, kwa kizio kilichoandikwa kwenye grafu.",
+      "source_page": 2
+    },
+    {
+      "id": "8(iii)",
+      "section": "Sehemu C: Maumbo na takwimu",
+      "prompt": "Je, kuna tofauti ya mvua ya Januari na Aprili? Toa sababu kwa kutumia grafu.",
+      "steps": [
+        "Januari: 40; Aprili: 60 kwa kizio kilichoandikwa.",
+        "60 - 40 = 20.",
+        "Hivyo mvua ya Aprili ilikuwa nyingi kuliko ya Januari kwa 20."
+      ],
+      "answer": "Ndiyo. Aprili ilikuwa na Mita 60 na Januari Mita 40; tofauti ni Mita 20 kwa lebo ya chanzo.",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "60-40",
+          "expected": "20"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Sehemu A: Matendo ya kihesabu": "Panga tarakimu kwa nafasi. Katika sehemu, tumia asili ya pamoja kwa kujumlisha na kizidishi kinyume kwa kugawa. Hakiki matokeo kwa tendo la kinyume.",
+    "Sehemu B: Mafumbo": "Badili vipimo kwanza. Dakika 60 ni saa 1; meta 1 ni sm 100. Kwa K.D.S. chukua vipeo vikubwa vya namba tasa, na kwa K.K.S. chukua vigawo vinavyoshirikiwa.",
+    "Sehemu C: Maumbo na takwimu": "Mzingo wa mstatili ni 2 x (urefu + upana), wa mraba ni 4 x upande. Soma grafu kwa mhimili na kizio kilichoandikwa."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - MOSHI DC Standard Six Terminal Exams 2025 With Answers",
+      "url": "https://darasahuru.ac.tz/moshi-dc-standard-six-terminal-exams-2025-with-answers/"
+    }
+  ],
+  "limitations": [
+    "Chanzo kinasema \"Mtihani wa robo mhula wa I 2025\"; jina la faili lenye \"Terminal\" limehifadhiwa.",
+    "Tendo la kutoa baada ya 1(i) na eneo la mstatili katika 3 havina namba ndogo; yote yamejibiwa kwa vitambulisho tofauti.",
+    "1(vi) inachapisha 24√984 bila kueleza kama √ ni mzizi au alama ya mgawanyo mrefu; majibu ya tafsiri zote mbili yametolewa.",
+    "5(iii) inaandika \"kigawe kikubwa\" badala ya \"kigawo kikubwa\"; K.K.S. = 24 kwa maana inayotumika shuleni.",
+    "Grafu ya mvua ina kizio \"Mita\"; majibu yamehifadhi lebo hiyo bila kuibadili kuwa milimita."
+  ],
+  "reviewed": true,
+  "review_notes": [
+    "Every source page was visually inspected; OCR was checked against the printed operands, diagram labels and graph scales."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "f0edcba922747b114fac00f78ecb81a45a6ff0754fe27ce9dca3bd5599a6dc4b"
+}

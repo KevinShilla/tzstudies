@@ -1,0 +1,644 @@
+{
+  "exam": "Kiswahili-S2-2024-MESP-Tanzania-November-Annual-exam.pdf",
+  "output": "Kiswahili-S2-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf",
+  "sha256": "edb85a2ef1f1e4e19137bfc5b974aedc76863f36afdfca6d23ef20c5ac02c05c",
+  "subject": "Kiswahili",
+  "level": "Standard Two",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Annual exam - November",
+  "question_count": "Vipengele 50 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike neno la imla 1.",
+      "steps": [
+        "Karatasi ya mwalimu katika ukurasa 6 inatoa neno Matofali.",
+        "Andika Matofali kwa mpangilio sahihi wa herufi."
+      ],
+      "answer": "Matofali",
+      "source_page": 1
+    },
+    {
+      "id": "2",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike neno la imla 2.",
+      "steps": [
+        "Karatasi ya mwalimu katika ukurasa 6 inatoa neno Mtama.",
+        "Andika Mtama kwa mpangilio sahihi wa herufi."
+      ],
+      "answer": "Mtama",
+      "source_page": 1
+    },
+    {
+      "id": "3",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike neno la imla 3.",
+      "steps": [
+        "Karatasi ya mwalimu katika ukurasa 6 inatoa neno Shamba.",
+        "Andika Shamba kwa mpangilio sahihi wa herufi."
+      ],
+      "answer": "Shamba",
+      "source_page": 1
+    },
+    {
+      "id": "4",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike neno la imla 4.",
+      "steps": [
+        "Karatasi ya mwalimu katika ukurasa 6 inatoa neno Jasho.",
+        "Andika Jasho kwa mpangilio sahihi wa herufi."
+      ],
+      "answer": "Jasho",
+      "source_page": 1
+    },
+    {
+      "id": "5",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike neno la imla 5.",
+      "steps": [
+        "Karatasi ya mwalimu katika ukurasa 6 inatoa neno Nyasi.",
+        "Andika Nyasi kwa mpangilio sahihi wa herufi."
+      ],
+      "answer": "Nyasi",
+      "source_page": 1
+    },
+    {
+      "id": "6",
+      "section": "Matumizi ya lugha",
+      "prompt": "Mnyama anayetupatia maziwa ni nani? a nyoka, b ng’ombe, c simba.",
+      "steps": [
+        "Ng’ombe hufugwa kwa ajili ya maziwa na matumizi mengine.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Ng’ombe.",
+      "source_page": 1
+    },
+    {
+      "id": "7",
+      "section": "Matumizi ya lugha",
+      "prompt": "Nani amekula chakula ____ kilichobaki? a chote, b yote, c vyote.",
+      "steps": [
+        "Chakula hupatana na ki-/ch-: chakula chote.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a - Chote.",
+      "source_page": 1
+    },
+    {
+      "id": "8",
+      "section": "Matumizi ya lugha",
+      "prompt": "Anayeiba huitwa ____ a mjanja, b mtu, c mwizi.",
+      "steps": [
+        "Mwizi huchukua mali ya wengine bila ruhusa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "c - Mwizi.",
+      "source_page": 2
+    },
+    {
+      "id": "9",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kaka alipasua kuni kwa ____ a jembe, b shoka, c kisu.",
+      "steps": [
+        "Shoka hutumiwa kupasua kuni.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Shoka.",
+      "source_page": 2
+    },
+    {
+      "id": "10",
+      "section": "Matumizi ya lugha",
+      "prompt": "Siku baada ya Jumatatu ni ipi? a Jumanne, b Jumatano, c Jumapili.",
+      "steps": [
+        "Jumanne hufuata Jumatatu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a - Jumanne.",
+      "source_page": 2
+    },
+    {
+      "id": "11",
+      "section": "Matumizi ya lugha",
+      "prompt": "Vitunguu, karoti na nyanya huuzwa wapi? a sokoni, b buchani, c shuleni.",
+      "steps": [
+        "Soko ni mahali pa kuuza mazao.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a - Sokoni.",
+      "source_page": 2
+    },
+    {
+      "id": "12",
+      "section": "Matumizi ya lugha",
+      "prompt": "Mtoto ____ hapendi kazi. a hodari, b mvivu, c mwema.",
+      "steps": [
+        "Mvivu huepuka kufanya kazi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Mvivu.",
+      "source_page": 2
+    },
+    {
+      "id": "13",
+      "section": "Matumizi ya lugha",
+      "prompt": "Umoja wa mayai: a kiyai, b yai, c mayai.",
+      "steps": [
+        "Moja huitwa yai.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Yai.",
+      "source_page": 2
+    },
+    {
+      "id": "14",
+      "section": "Matumizi ya lugha",
+      "prompt": "Matunda ni machungwa, maembe na ____ a mapapai, b maji, c ugali.",
+      "steps": [
+        "Mapapai ni matunda.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a - Mapapai.",
+      "source_page": 2
+    },
+    {
+      "id": "15",
+      "section": "Matumizi ya lugha",
+      "prompt": "Anayetibu wagonjwa ni nani? a seremala, b rubani, c daktari.",
+      "steps": [
+        "Daktari hutibu wagonjwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "c - Daktari.",
+      "source_page": 2
+    },
+    {
+      "id": "16",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kaptura, suruali, soksi, miguu: neno tofauti ni lipi? a soski, b jembe, c suruali.",
+      "steps": [
+        "Kaptura, suruali na soksi ni mavazi; miguu ni sehemu za mwili. Jembe ni tofauti pia lakini halimo katika orodha iliyoulizwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Miguu ndiyo tofauti katika orodha ya swali; hakuna chaguo sahihi lililochapishwa.",
+      "source_page": 2
+    },
+    {
+      "id": "17",
+      "section": "Matumizi ya lugha",
+      "prompt": "Asiye na kitu huitwa ____ a maskini, b tajiri, c mpishi.",
+      "steps": [
+        "Maskini ni mtu mwenye upungufu mkubwa wa mali au mahitaji.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a - Maskini.",
+      "source_page": 2
+    },
+    {
+      "id": "18",
+      "section": "Matumizi ya lugha",
+      "prompt": "a, e, i, o, u huitwa ____ a majina, b irabu, c konsonanti.",
+      "steps": [
+        "Hizi ni irabu tano.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Irabu.",
+      "source_page": 2
+    },
+    {
+      "id": "19",
+      "section": "Matumizi ya lugha",
+      "prompt": "Mama mgonjwa alipelekwa ____ a shuleni, b dukani, c hospitalini.",
+      "steps": [
+        "Hospitali hutoa huduma za afya.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "c - Hospitalini.",
+      "source_page": 2
+    },
+    {
+      "id": "20",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kalamu iko ____ ya meza. a juu, b ndani, c kwenye.",
+      "steps": [
+        "Kauli sahihi ni juu ya meza.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a - Juu.",
+      "source_page": 2
+    },
+    {
+      "id": "21",
+      "section": "Matumizi ya lugha",
+      "prompt": "Wiki moja ina siku ngapi? a tano, b saba, c tisa.",
+      "steps": [
+        "Siku saba hufanya wiki moja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Saba.",
+      "source_page": 3
+    },
+    {
+      "id": "22",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kinyume cha kubwa ni ____ a ndogo, b nene, c ndefu.",
+      "steps": [
+        "Ndogo ni kinyume cha ukubwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a - Ndogo.",
+      "source_page": 3
+    },
+    {
+      "id": "23",
+      "section": "Matumizi ya lugha",
+      "prompt": "Chumba ____ mgeni. a na, b vya, c cha.",
+      "steps": [
+        "Chumba hupatana na cha.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "c - Cha.",
+      "source_page": 3
+    },
+    {
+      "id": "24",
+      "section": "Matumizi ya lugha",
+      "prompt": "Katika angaza silabi mwambatano ni ipi? a za, b nga, c a.",
+      "steps": [
+        "Silabi nga ina konsonanti zinazoungana kabla ya irabu a.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Nga.",
+      "source_page": 3
+    },
+    {
+      "id": "25",
+      "section": "Matumizi ya lugha",
+      "prompt": "Mwezi wa kwanza ni ____ a Disemba, b Januari, c Jumatatu.",
+      "steps": [
+        "Januari huanza mwaka wa kalenda.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Januari.",
+      "source_page": 3
+    },
+    {
+      "id": "26",
+      "section": "Vinyume",
+      "prompt": "Andika kinyume cha Ndefu.",
+      "steps": [
+        "Fupi ina maana inayopingana na Ndefu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Fupi.",
+      "source_page": 4
+    },
+    {
+      "id": "27",
+      "section": "Vinyume",
+      "prompt": "Andika kinyume cha Safi.",
+      "steps": [
+        "Chafu ina maana inayopingana na Safi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Chafu.",
+      "source_page": 4
+    },
+    {
+      "id": "28",
+      "section": "Vinyume",
+      "prompt": "Andika kinyume cha Nenda.",
+      "steps": [
+        "Njoo ina maana inayopingana na Nenda.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Njoo.",
+      "source_page": 4
+    },
+    {
+      "id": "29",
+      "section": "Vinyume",
+      "prompt": "Andika kinyume cha Joto.",
+      "steps": [
+        "Baridi ina maana inayopingana na Joto.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Baridi.",
+      "source_page": 4
+    },
+    {
+      "id": "30",
+      "section": "Umoja na wingi",
+      "prompt": "Umoja wa watoto.",
+      "steps": [
+        "Badili wa- kuwa m-.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mtoto.",
+      "source_page": 4
+    },
+    {
+      "id": "31",
+      "section": "Umoja na wingi",
+      "prompt": "Wingi wa samaki.",
+      "steps": [
+        "Neno hili halibadili umbo katika wingi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Samaki.",
+      "source_page": 4
+    },
+    {
+      "id": "32",
+      "section": "Umoja na wingi",
+      "prompt": "Wingi wa jani.",
+      "steps": [
+        "Ongeza ma- kwa wingi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Majani.",
+      "source_page": 4
+    },
+    {
+      "id": "33",
+      "section": "Umoja na wingi",
+      "prompt": "Umoja wa milango.",
+      "steps": [
+        "Badili mi- kuwa m-.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mlango.",
+      "source_page": 4
+    },
+    {
+      "id": "34",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi/silabi: lakucha.",
+      "steps": [
+        "Tumia vipande vilivyotolewa kuunda chakula.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Chakula.",
+      "source_page": 4
+    },
+    {
+      "id": "35",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi/silabi: ofunguu.",
+      "steps": [
+        "Tumia vipande vilivyotolewa kuunda ufunguo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Ufunguo.",
+      "source_page": 4
+    },
+    {
+      "id": "36",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi/silabi: timi.",
+      "steps": [
+        "Tumia vipande vilivyotolewa kuunda miti.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Miti.",
+      "source_page": 4
+    },
+    {
+      "id": "37",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi/silabi: uchaku.",
+      "steps": [
+        "Tumia vipande vilivyotolewa kuunda chukua.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Chukua.",
+      "source_page": 4
+    },
+    {
+      "id": "38",
+      "section": "Kuunda maneno",
+      "prompt": "Unda neno linaloanza na Ba.",
+      "steps": [
+        "Bata huanza kwa ba.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Bata.",
+      "source_page": 4,
+      "tip": "Neno jingine sahihi linakubalika."
+    },
+    {
+      "id": "39",
+      "section": "Kuunda maneno",
+      "prompt": "Unda neno linaloanza na Se.",
+      "steps": [
+        "Sema huanza kwa se.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Sema.",
+      "source_page": 4,
+      "tip": "Neno jingine sahihi linakubalika."
+    },
+    {
+      "id": "40",
+      "section": "Kuunda maneno",
+      "prompt": "Unda neno linaloanza na Nga.",
+      "steps": [
+        "Ngazi huanza kwa nga.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Ngazi.",
+      "source_page": 4,
+      "tip": "Neno jingine sahihi linakubalika."
+    },
+    {
+      "id": "41",
+      "section": "Silabi",
+      "prompt": "Tenganisha silabi za Mchanga.",
+      "steps": [
+        "Gawanya sehemu zinazotamkwa: m-cha-nga.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "m-cha-nga.",
+      "source_page": 4
+    },
+    {
+      "id": "42",
+      "section": "Silabi",
+      "prompt": "Tenganisha silabi za Siafu.",
+      "steps": [
+        "Gawanya sehemu zinazotamkwa: si-a-fu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "si-a-fu.",
+      "source_page": 4
+    },
+    {
+      "id": "43",
+      "section": "Silabi",
+      "prompt": "Tenganisha silabi za Machungwa.",
+      "steps": [
+        "Gawanya sehemu zinazotamkwa: ma-chu-ngwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "ma-chu-ngwa.",
+      "source_page": 4
+    },
+    {
+      "id": "44",
+      "section": "Maneno ambatani",
+      "prompt": "Unganisha Kipima + joto.",
+      "steps": [
+        "Maneno haya huunda jina lenye maana moja: kipimajoto.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kipimajoto.",
+      "source_page": 5
+    },
+    {
+      "id": "45",
+      "section": "Maneno ambatani",
+      "prompt": "Unganisha Kifungua + kinywa.",
+      "steps": [
+        "Maneno haya huunda jina lenye maana moja: kifungua kinywa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kifungua kinywa.",
+      "source_page": 5,
+      "tip": "Kifunguakinywa huandikwa kama neno lililounganishwa katika baadhi ya vitabu; kifungua kinywa pia ni namna iliyoenea."
+    },
+    {
+      "id": "46",
+      "section": "Ufahamu",
+      "prompt": "Sisi ni akina nani?",
+      "steps": [
+        "Habari inaanza Sisi ni watoto.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Watoto.",
+      "source_page": 5
+    },
+    {
+      "id": "47",
+      "section": "Ufahamu",
+      "prompt": "Watoto wanapaswa kula chakula bora lini?",
+      "steps": [
+        "Habari imesema wanahitaji chakula bora kila siku.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kila siku.",
+      "source_page": 5
+    },
+    {
+      "id": "48",
+      "section": "Ufahamu",
+      "prompt": "Taja tunda moja lililotajwa.",
+      "steps": [
+        "Maembe yamo katika orodha ya matunda.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Maembe.",
+      "source_page": 5
+    },
+    {
+      "id": "49",
+      "section": "Ufahamu",
+      "prompt": "Taja tunda lingine lililotajwa.",
+      "steps": [
+        "Mapera yamo katika orodha; usirudie tunda ulilotaja kwanza.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Mapera.",
+      "source_page": 5
+    },
+    {
+      "id": "50",
+      "section": "Ufahamu",
+      "prompt": "Tukila chakula bora tutakuwa na nini?",
+      "steps": [
+        "Sentensi ya mwisho inasema tutakuwa na afya njema.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Afya njema.",
+      "source_page": 5
+    }
+  ],
+  "summaries": {
+    "Imla": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Matumizi ya lugha": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Vinyume": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Umoja na wingi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kupanga herufi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kuunda maneno": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Silabi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Maneno ambatani": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ufahamu": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "MESP Standard Two Annual Exams Nov 2024",
+      "url": "https://darasahuru.ac.tz/mesp-standard-two-annual-exams-nov-2024/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "Swali 16: jibu sahihi miguu halimo katika machaguo. Kosa limeelezwa badala ya kuchagua jibu lisilolingana."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "05c9daf1d87f932bd1d622b5f93e8b4251b8c3997d76019e0b0c36ad21d449ae"
+}

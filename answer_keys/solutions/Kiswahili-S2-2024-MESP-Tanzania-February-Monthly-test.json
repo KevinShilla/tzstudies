@@ -1,0 +1,345 @@
+{
+  "exam": "Kiswahili-S2-2024-MESP-Tanzania-February-Monthly-test.pdf",
+  "output": "Kiswahili-S2-2024-MESP-Tanzania-February-Monthly-test-AnswerKey.pdf",
+  "sha256": "d7c7f5af96fd41264faeba3c23db2cc618b20a83a8deb8d622ddc66e75fa4ee1",
+  "subject": "Kiswahili",
+  "level": "Standard Two",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Monthly test - February",
+  "question_count": "Vipengele 25 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "2",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 2.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "3",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 3.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "4",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 4.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "5",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 5.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "6",
+      "section": "Silabi",
+      "prompt": "Unganisha Fo + Fo kuunda neno.",
+      "steps": [
+        "Soma silabi Fo + Fo kwa mpangilio.",
+        "Ziunganishe bila nafasi: Fofo."
+      ],
+      "answer": "Fofo.",
+      "source_page": 1
+    },
+    {
+      "id": "7",
+      "section": "Silabi",
+      "prompt": "Unganisha Pa + Pa kuunda neno.",
+      "steps": [
+        "Soma silabi Pa + Pa kwa mpangilio.",
+        "Ziunganishe bila nafasi: Papa."
+      ],
+      "answer": "Papa.",
+      "source_page": 1
+    },
+    {
+      "id": "8",
+      "section": "Silabi",
+      "prompt": "Unganisha Zi + Zi kuunda neno.",
+      "steps": [
+        "Soma silabi Zi + Zi kwa mpangilio.",
+        "Ziunganishe bila nafasi: Zizi."
+      ],
+      "answer": "Zizi.",
+      "source_page": 1
+    },
+    {
+      "id": "9",
+      "section": "Silabi",
+      "prompt": "Unganisha Go + Go kuunda neno.",
+      "steps": [
+        "Soma silabi Go + Go kwa mpangilio.",
+        "Ziunganishe bila nafasi: Gogo."
+      ],
+      "answer": "Gogo.",
+      "source_page": 1
+    },
+    {
+      "id": "10",
+      "section": "Silabi",
+      "prompt": "Unganisha We + We kuunda neno.",
+      "steps": [
+        "Soma silabi We + We kwa mpangilio.",
+        "Ziunganishe bila nafasi: Wewe."
+      ],
+      "answer": "Wewe.",
+      "source_page": 1
+    },
+    {
+      "id": "11",
+      "section": "Herufi ndogo",
+      "prompt": "Andika kwa herufi ndogo: UGALI",
+      "steps": [
+        "Badili kila herufi kubwa katika UGALI kuwa ndogo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "ugali",
+      "source_page": 1
+    },
+    {
+      "id": "12",
+      "section": "Herufi ndogo",
+      "prompt": "Andika kwa herufi ndogo: SOMA",
+      "steps": [
+        "Badili kila herufi kubwa katika SOMA kuwa ndogo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "soma",
+      "source_page": 1
+    },
+    {
+      "id": "13",
+      "section": "Herufi ndogo",
+      "prompt": "Andika kwa herufi ndogo: KITABU",
+      "steps": [
+        "Badili kila herufi kubwa katika KITABU kuwa ndogo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "kitabu",
+      "source_page": 1
+    },
+    {
+      "id": "14",
+      "section": "Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: Tanga",
+      "steps": [
+        "Badili kila herufi ya Tanga kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "TANGA",
+      "source_page": 2
+    },
+    {
+      "id": "15",
+      "section": "Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: Segerea",
+      "steps": [
+        "Badili kila herufi ya Segerea kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "SEGEREA",
+      "source_page": 2
+    },
+    {
+      "id": "16",
+      "section": "Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: Gauni",
+      "steps": [
+        "Badili kila herufi ya Gauni kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "GAUNI",
+      "source_page": 2
+    },
+    {
+      "id": "17",
+      "section": "Picha na msamiati",
+      "prompt": "Andika jina la kitu katika picha 17.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: andika jina la kitu katika picha 17.",
+        "Tambua jina meza na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "meza.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S2-2024-MESP-Tanzania-February-Monthly-test--17.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "18",
+      "section": "Picha na msamiati",
+      "prompt": "Andika jina la kitu katika picha 18.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: andika jina la kitu katika picha 18.",
+        "Tambua jina mti na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "mti.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S2-2024-MESP-Tanzania-February-Monthly-test--18.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "19",
+      "section": "Picha na msamiati",
+      "prompt": "Andika jina la kitu katika picha 19.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: andika jina la kitu katika picha 19.",
+        "Tambua jina viatu na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "viatu.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S2-2024-MESP-Tanzania-February-Monthly-test--19.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "20",
+      "section": "Picha na msamiati",
+      "prompt": "Andika jina la kitu katika picha 20.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: andika jina la kitu katika picha 20.",
+        "Tambua jina nanasi na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "nanasi.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S2-2024-MESP-Tanzania-February-Monthly-test--20.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "21",
+      "section": "Ufahamu",
+      "prompt": "Vumi anasoma darasa la ngapi?",
+      "steps": [
+        "Sentensi ya kwanza imetaja darasa lake.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Darasa la pili.",
+      "source_page": 3
+    },
+    {
+      "id": "22",
+      "section": "Ufahamu",
+      "prompt": "Shule yake inaitwaje?",
+      "steps": [
+        "Dabaga ndilo jina katika habari.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Shule ya Msingi Dabaga.",
+      "source_page": 3
+    },
+    {
+      "id": "23",
+      "section": "Ufahamu",
+      "prompt": "Shule ya Dabaga ipo mkoa gani?",
+      "steps": [
+        "Habari inasema shule ipo Iringa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Iringa.",
+      "source_page": 3
+    },
+    {
+      "id": "24",
+      "section": "Ufahamu",
+      "prompt": "Taja miti ya maua iliyopo bustanini.",
+      "steps": [
+        "Habari imetaja aina hizi mbili za miti ya maua.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mijasmini na miwaridi.",
+      "source_page": 3
+    },
+    {
+      "id": "25",
+      "section": "Ufahamu",
+      "prompt": "Vumi anaishi na akina nani?",
+      "steps": [
+        "Habari imesema anaishi na wazazi wake.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Wazazi wake.",
+      "source_page": 3
+    }
+  ],
+  "summaries": {
+    "Imla": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Silabi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Herufi ndogo": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Herufi kubwa": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Picha na msamiati": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ufahamu": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "MESP Tanzania Pre To Standard Three Monthly Test - All Subjects February 2024",
+      "url": "https://darasahuru.ac.tz/mesp-tanzania-pre-to-standard-three-monthly-test-all-subjects-february-2024/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "Imla 1-5: maneno ya mwalimu hayajachapishwa."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "8989ef20322da685043a332c899503908851058cbed0f804347a16fdfea93538"
+}

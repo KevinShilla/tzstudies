@@ -1,0 +1,442 @@
+{
+  "exam": "Mathematics-S1-2026-MESP-Tanzania-March-Midterm-exam.pdf",
+  "output": "Mathematics-S1-2026-MESP-Tanzania-March-Midterm-exam-AnswerKey.pdf",
+  "sha256": "f532a149fa223c6443463498c3ad9c9ef5599ae9603869c330ebcee813168e0c",
+  "subject": "Mathematics",
+  "level": "Standard One",
+  "year": "2026",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Midterm exam - March · Numeracy",
+  "question_count": "33 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Numbers and calculations",
+      "prompt": "Write 23 in words.",
+      "steps": [
+        "23 = 20 + 3.",
+        "Read tens then ones."
+      ],
+      "answer": "Twenty-three",
+      "source_page": 1
+    },
+    {
+      "id": "2",
+      "section": "Numbers and calculations",
+      "prompt": "Write 40 in words.",
+      "steps": [
+        "40 = 40 + 0.",
+        "Read tens then ones."
+      ],
+      "answer": "Forty",
+      "source_page": 1
+    },
+    {
+      "id": "3",
+      "section": "Numbers and calculations",
+      "prompt": "Write 37 in words.",
+      "steps": [
+        "37 = 30 + 7.",
+        "Read tens then ones."
+      ],
+      "answer": "Thirty-seven",
+      "source_page": 1
+    },
+    {
+      "id": "4",
+      "section": "Numbers and calculations",
+      "prompt": "Write 47 in words.",
+      "steps": [
+        "47 = 40 + 7.",
+        "Read tens then ones."
+      ],
+      "answer": "Forty-seven",
+      "source_page": 1
+    },
+    {
+      "id": "5",
+      "section": "Numbers and calculations",
+      "prompt": "Write 68 in words.",
+      "steps": [
+        "68 = 60 + 8.",
+        "Read tens then ones."
+      ],
+      "answer": "Sixty-eight",
+      "source_page": 1
+    },
+    {
+      "id": "6",
+      "section": "Numbers and calculations",
+      "prompt": "Write fifteen in figures.",
+      "steps": [
+        "Fifteen means 1 tens and 5 ones."
+      ],
+      "answer": "15",
+      "source_page": 1
+    },
+    {
+      "id": "7",
+      "section": "Numbers and calculations",
+      "prompt": "Write seventy-eight in figures.",
+      "steps": [
+        "Seventy-eight means 7 tens and 8 ones."
+      ],
+      "answer": "78",
+      "source_page": 1
+    },
+    {
+      "id": "8",
+      "section": "Numbers and calculations",
+      "prompt": "Write eighty-one in figures.",
+      "steps": [
+        "Eighty-one means 8 tens and 1 ones."
+      ],
+      "answer": "81",
+      "source_page": 1
+    },
+    {
+      "id": "9",
+      "section": "Numbers and calculations",
+      "prompt": "Write sixty in figures.",
+      "steps": [
+        "Sixty means 6 tens and 0 ones."
+      ],
+      "answer": "60",
+      "source_page": 1
+    },
+    {
+      "id": "10",
+      "section": "Numbers and calculations",
+      "prompt": "Write ninety-six in figures.",
+      "steps": [
+        "Ninety-six means 9 tens and 6 ones."
+      ],
+      "answer": "96",
+      "source_page": 1
+    },
+    {
+      "id": "11",
+      "section": "Numbers and calculations",
+      "prompt": "Read the first abacus.",
+      "steps": [
+        "There are 4 tens beads and 0 ones.",
+        "40 + 0 = 40."
+      ],
+      "answer": "40",
+      "source_page": 1
+    },
+    {
+      "id": "12",
+      "section": "Numbers and calculations",
+      "prompt": "Read the second abacus.",
+      "steps": [
+        "There are 2 tens beads and 9 ones.",
+        "20 + 9 = 29."
+      ],
+      "answer": "29",
+      "source_page": 2
+    },
+    {
+      "id": "13",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 34 = [ ] tens [ ] ones.",
+      "steps": [
+        "34 = 30 + 4."
+      ],
+      "answer": "3 tens, 4 ones",
+      "source_page": 1
+    },
+    {
+      "id": "14",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 5 = [ ] tens [ ] ones.",
+      "steps": [
+        "5 has no complete group of ten."
+      ],
+      "answer": "0 tens, 5 ones",
+      "source_page": 1
+    },
+    {
+      "id": "15",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 73 = [ ] ones [ ] tens.",
+      "steps": [
+        "73 = 70 + 3.",
+        "The blanks request ones before tens."
+      ],
+      "answer": "3 ones, 7 tens",
+      "source_page": 1
+    },
+    {
+      "id": "16",
+      "section": "Numbers and calculations",
+      "prompt": "Write the number with 2 tens and 5 ones.",
+      "steps": [
+        "20 + 5 = 25."
+      ],
+      "answer": "25",
+      "source_page": 1
+    },
+    {
+      "id": "17",
+      "section": "Numbers and calculations",
+      "prompt": "Write the number with 4 ones and 3 tens.",
+      "steps": [
+        "30 + 4 = 34."
+      ],
+      "answer": "34",
+      "source_page": 1
+    },
+    {
+      "id": "18",
+      "section": "Numbers and calculations",
+      "prompt": "Arrange 28,0,98,13,22 in ascending order.",
+      "steps": [
+        "Start with zero.",
+        "Compare tens and ones for the remaining values."
+      ],
+      "answer": "0,13,22,28,98",
+      "source_page": 1
+    },
+    {
+      "id": "19",
+      "section": "Numbers and calculations",
+      "prompt": "Arrange 99,22,88,18,81 in ascending order.",
+      "steps": [
+        "Ascending means least to greatest."
+      ],
+      "answer": "18,22,81,88,99",
+      "source_page": 1
+    },
+    {
+      "id": "20",
+      "section": "Numbers and calculations",
+      "prompt": "Arrange 82,28,68,86,42 in ascending order.",
+      "steps": [
+        "Compare tens first.",
+        "82 < 86 because 2 < 6 in ones."
+      ],
+      "answer": "28,42,68,82,86",
+      "source_page": 1
+    },
+    {
+      "id": "21",
+      "section": "Numbers and calculations",
+      "prompt": "Arrange 8,10,0,13,31 in descending order.",
+      "steps": [
+        "Choose the greatest remaining value first."
+      ],
+      "answer": "31,13,10,8,0",
+      "source_page": 2
+    },
+    {
+      "id": "22",
+      "section": "Numbers and calculations",
+      "prompt": "Arrange 21,12,42,24,10 in descending order.",
+      "steps": [
+        "42 has 4 tens.",
+        "Among 24 and 21, 24 has more ones."
+      ],
+      "answer": "42,24,21,12,10",
+      "source_page": 2
+    },
+    {
+      "id": "23",
+      "section": "Numbers and calculations",
+      "prompt": "Compare 9 and 19 using <, > or =.",
+      "steps": [
+        "9 is less than 19."
+      ],
+      "answer": "<",
+      "source_page": 2
+    },
+    {
+      "id": "24",
+      "section": "Numbers and calculations",
+      "prompt": "Compare 20 and 10 using <, > or =.",
+      "steps": [
+        "20 is greater than 10."
+      ],
+      "answer": ">",
+      "source_page": 2
+    },
+    {
+      "id": "25",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 8,9,[ ],11,12,13.",
+      "steps": [
+        "Increase by 1.",
+        "9 + 1 = 10."
+      ],
+      "answer": "10",
+      "source_page": 2
+    },
+    {
+      "id": "26",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 20,19,18,17,16,[ ].",
+      "steps": [
+        "Decrease by 1.",
+        "16 - 1 = 15."
+      ],
+      "answer": "15",
+      "source_page": 2
+    },
+    {
+      "id": "27",
+      "section": "Numbers and calculations",
+      "prompt": "Write 98 in expanded form.",
+      "steps": [
+        "98 has 9 tens and 8 ones."
+      ],
+      "answer": "90 + 8",
+      "source_page": 2
+    },
+    {
+      "id": "28",
+      "section": "Calculations",
+      "prompt": "Calculate 30+0.",
+      "steps": [
+        "Ones column: 0 + 0 = 0. Write 0.",
+        "Tens column: 3 + 0 = 3. Write 3.",
+        "Read the digits from left to right: 30."
+      ],
+      "answer": "30",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "30+0",
+          "expected": "30"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "section": "Calculations",
+      "prompt": "Calculate 9+10.",
+      "steps": [
+        "Ones column: 9 + 0 = 9. Write 9.",
+        "Tens column: 0 + 1 = 1. Write 1.",
+        "Read the digits from left to right: 19."
+      ],
+      "answer": "19",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "9+10",
+          "expected": "19"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "section": "Calculations",
+      "prompt": "Calculate 89+19.",
+      "steps": [
+        "Ones column: 9 + 9 = 18. Write 8. Carry 1 to the next column.",
+        "Tens column: 8 + 1 + 1 = 10. Write 0. Carry 1 to the next column.",
+        "Write the remaining carry, 1, on the left.",
+        "Read the digits from left to right: 108."
+      ],
+      "answer": "108",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "89+19",
+          "expected": "108"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "section": "Calculations",
+      "prompt": "Calculate 29-21.",
+      "steps": [
+        "Ones column: 9 - 1 = 8; write 8.",
+        "Tens column: 2 - 2 = 0; write 0.",
+        "Read the result: 8. Check: 8 + 21 = 29."
+      ],
+      "answer": "8",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "29-21",
+          "expected": "8"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "section": "Numbers and calculations",
+      "prompt": "Asha sold 25 bananas and Beti sold 14. How many in total?",
+      "steps": [
+        "Add the sales.",
+        "25 + 14 = 39."
+      ],
+      "answer": "39 bananas",
+      "source_page": 2
+    },
+    {
+      "id": "33",
+      "section": "Numbers and calculations",
+      "prompt": "Juma took 60 mangoes and Sara 37 to the market. How many altogether?",
+      "steps": [
+        "Combine the two groups.",
+        "60 + 37 = 97."
+      ],
+      "answer": "97 mangoes",
+      "source_page": 2
+    }
+  ],
+  "summaries": {
+    "Numbers and calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - MESP TZ Standard One Midterm Examinations March 2026",
+      "url": "https://darasahuru.ac.tz/mesp-tz-standard-one-midterm-examinations-march-2026/"
+    }
+  ],
+  "limitations": [],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "5c82710c089f611f94b45e758aa64991cf6d1ebafe9399b323c424935a10c8eb"
+}

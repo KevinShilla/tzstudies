@@ -1,0 +1,533 @@
+{
+  "exam": "Kiswahili-S1-2022-Iramba-DC-July-Terminal-exam.pdf",
+  "output": "Kiswahili-S1-2022-Iramba-DC-July-Terminal-exam-AnswerKey.pdf",
+  "sha256": "0f3f7112808756dd1682168e95dbaadc76a8ae63adf9b993486b9bf96cab8ff9",
+  "subject": "Kiswahili",
+  "level": "Standard One",
+  "year": "2022",
+  "code": "Not printed in source",
+  "board": "Iramba DC",
+  "exam_type": "Terminal exam - July",
+  "question_count": "Vipengele 40 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "Kusoma-1",
+    "Kusoma-2",
+    "Kusoma-3",
+    "Kusoma-4",
+    "Kusoma-5",
+    "Kusoma-6",
+    "Kusoma-7",
+    "Kusoma-8",
+    "Kusoma-9",
+    "Kusoma-10",
+    "Kusoma-11",
+    "Kusoma-12",
+    "Kusoma-13",
+    "Kusoma-14",
+    "Kusoma-15",
+    "Kusoma-16",
+    "Kusoma-17",
+    "Kusoma-18",
+    "Kusoma-19",
+    "Kusoma-20",
+    "Kuandika-1",
+    "Kuandika-2",
+    "Kuandika-3",
+    "Kuandika-4",
+    "Kuandika-5",
+    "Kuandika-6",
+    "Kuandika-7",
+    "Kuandika-8",
+    "Kuandika-9",
+    "Kuandika-10",
+    "Kuandika-11",
+    "Kuandika-12",
+    "Kuandika-13",
+    "Kuandika-14",
+    "Kuandika-15",
+    "Kuandika-16",
+    "Kuandika-17",
+    "Kuandika-18",
+    "Kuandika-19",
+    "Kuandika-20"
+  ],
+  "questions": [
+    {
+      "id": "Kusoma-1",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: bata.",
+      "steps": [
+        "Tambua herufi na silabi katika bata.",
+        "Unganisha sauti hizo na utamke neno bata kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: bata.",
+      "source_page": 1
+    },
+    {
+      "id": "Kusoma-2",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: meno.",
+      "steps": [
+        "Tambua herufi na silabi katika meno.",
+        "Unganisha sauti hizo na utamke neno meno kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: meno.",
+      "source_page": 1
+    },
+    {
+      "id": "Kusoma-3",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: kitabu.",
+      "steps": [
+        "Tambua herufi na silabi katika kitabu.",
+        "Unganisha sauti hizo na utamke neno kitabu kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: kitabu.",
+      "source_page": 1
+    },
+    {
+      "id": "Kusoma-4",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: chuma.",
+      "steps": [
+        "Tambua herufi na silabi katika chuma.",
+        "Unganisha sauti hizo na utamke neno chuma kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: chuma.",
+      "source_page": 1
+    },
+    {
+      "id": "Kusoma-5",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: kutu.",
+      "steps": [
+        "Tambua herufi na silabi katika kutu.",
+        "Unganisha sauti hizo na utamke neno kutu kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: kutu.",
+      "source_page": 1
+    },
+    {
+      "id": "Kusoma-6",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: kitanda.",
+      "steps": [
+        "Tambua herufi na silabi katika kitanda.",
+        "Unganisha sauti hizo na utamke neno kitanda kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: kitanda.",
+      "source_page": 1
+    },
+    {
+      "id": "Kusoma-7",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: kifua.",
+      "steps": [
+        "Tambua herufi na silabi katika kifua.",
+        "Unganisha sauti hizo na utamke neno kifua kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: kifua.",
+      "source_page": 1
+    },
+    {
+      "id": "Kusoma-8",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: redio.",
+      "steps": [
+        "Tambua herufi na silabi katika redio.",
+        "Unganisha sauti hizo na utamke neno redio kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: redio.",
+      "source_page": 1
+    },
+    {
+      "id": "Kusoma-9",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: kuku.",
+      "steps": [
+        "Tambua herufi na silabi katika kuku.",
+        "Unganisha sauti hizo na utamke neno kuku kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: kuku.",
+      "source_page": 1
+    },
+    {
+      "id": "Kusoma-10",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: Mama.",
+      "steps": [
+        "Tambua herufi na silabi katika Mama.",
+        "Unganisha sauti hizo na utamke neno Mama kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: Mama.",
+      "source_page": 1
+    },
+    {
+      "id": "Kusoma-11",
+      "section": "Sauti za herufi",
+      "prompt": "Tamka sauti ya herufi r.",
+      "steps": [
+        "Toa sauti ya konsonanti r; usibadili kuwa neno au jina la herufi la Kiingereza.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Sauti /r/.",
+      "source_page": 1
+    },
+    {
+      "id": "Kusoma-12",
+      "section": "Sauti za herufi",
+      "prompt": "Tamka sauti ya herufi p.",
+      "steps": [
+        "Toa sauti ya konsonanti p; usibadili kuwa neno au jina la herufi la Kiingereza.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Sauti /p/.",
+      "source_page": 1
+    },
+    {
+      "id": "Kusoma-13",
+      "section": "Sauti za herufi",
+      "prompt": "Tamka sauti ya herufi f.",
+      "steps": [
+        "Toa sauti ya konsonanti f; usibadili kuwa neno au jina la herufi la Kiingereza.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Sauti /f/.",
+      "source_page": 1
+    },
+    {
+      "id": "Kusoma-14",
+      "section": "Sauti za herufi",
+      "prompt": "Tamka sauti ya herufi t.",
+      "steps": [
+        "Toa sauti ya konsonanti t; usibadili kuwa neno au jina la herufi la Kiingereza.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Sauti /t/.",
+      "source_page": 1
+    },
+    {
+      "id": "Kusoma-15",
+      "section": "Sauti za herufi",
+      "prompt": "Tamka sauti ya herufi m.",
+      "steps": [
+        "Toa sauti ya konsonanti m; usibadili kuwa neno au jina la herufi la Kiingereza.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Sauti /m/.",
+      "source_page": 1
+    },
+    {
+      "id": "Kusoma-16",
+      "section": "Kusoma sentensi",
+      "prompt": "Soma sentensi: Mama yuko jikoni.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Mama yuko jikoni.",
+      "source_page": 1,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi."
+    },
+    {
+      "id": "Kusoma-17",
+      "section": "Kusoma sentensi",
+      "prompt": "Soma sentensi: Zawadi anacheza.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Zawadi anacheza.",
+      "source_page": 1,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi."
+    },
+    {
+      "id": "Kusoma-18",
+      "section": "Kusoma sentensi",
+      "prompt": "Soma sentensi: Mtoto analia.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Mtoto analia.",
+      "source_page": 1,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi."
+    },
+    {
+      "id": "Kusoma-19",
+      "section": "Kusoma sentensi",
+      "prompt": "Soma sentensi: Mama anapika ugali.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Mama anapika ugali.",
+      "source_page": 1,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi."
+    },
+    {
+      "id": "Kusoma-20",
+      "section": "Kusoma sentensi",
+      "prompt": "Soma sentensi: Amina anasoma.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Amina anasoma.",
+      "source_page": 1,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi."
+    },
+    {
+      "id": "Kuandika-1",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla Kuandika-1.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-2",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla Kuandika-2.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-3",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla Kuandika-3.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-4",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla Kuandika-4.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-5",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla Kuandika-5.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-6",
+      "section": "Picha na msamiati",
+      "prompt": "Andika jina la kitu katika picha ya 6.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: andika jina la kitu katika picha ya 6.",
+        "Tambua jina chupa na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "chupa.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2022-Iramba-DC-July-Terminal-exam--Kuandika-6.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "Kuandika-7",
+      "section": "Picha na msamiati",
+      "prompt": "Andika jina la kitu katika picha ya 7.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: andika jina la kitu katika picha ya 7.",
+        "Tambua jina kuku na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "kuku.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2022-Iramba-DC-July-Terminal-exam--Kuandika-7.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "Kuandika-8",
+      "section": "Picha na msamiati",
+      "prompt": "Andika jina la kitu katika picha ya 8.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: andika jina la kitu katika picha ya 8.",
+        "Tambua jina mpira na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "mpira.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2022-Iramba-DC-July-Terminal-exam--Kuandika-8.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "Kuandika-9",
+      "section": "Picha na msamiati",
+      "prompt": "Andika jina la kitu katika picha ya 9.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: andika jina la kitu katika picha ya 9.",
+        "Tambua jina nyumba na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "nyumba.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2022-Iramba-DC-July-Terminal-exam--Kuandika-9.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "Kuandika-10",
+      "section": "Picha na msamiati",
+      "prompt": "Andika jina la kitu katika picha ya 10.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: andika jina la kitu katika picha ya 10.",
+        "Tambua jina kitabu na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "kitabu.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2022-Iramba-DC-July-Terminal-exam--Kuandika-10.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "Kuandika-11",
+      "section": "Silabi",
+      "prompt": "Unganisha ba + ba kuunda neno.",
+      "steps": [
+        "Soma silabi ba + ba kwa mpangilio.",
+        "Ziunganishe bila nafasi: baba."
+      ],
+      "answer": "baba.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-12",
+      "section": "Silabi",
+      "prompt": "Unganisha ka + ka kuunda neno.",
+      "steps": [
+        "Soma silabi ka + ka kwa mpangilio.",
+        "Ziunganishe bila nafasi: kaka."
+      ],
+      "answer": "kaka.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-13",
+      "section": "Silabi",
+      "prompt": "Unganisha da + ra + sa kuunda neno.",
+      "steps": [
+        "Soma silabi da + ra + sa kwa mpangilio.",
+        "Ziunganishe bila nafasi: darasa."
+      ],
+      "answer": "darasa.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-14",
+      "section": "Silabi",
+      "prompt": "Unganisha ka + ba + ti kuunda neno.",
+      "steps": [
+        "Soma silabi ka + ba + ti kwa mpangilio.",
+        "Ziunganishe bila nafasi: kabati."
+      ],
+      "answer": "kabati.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-15",
+      "section": "Silabi",
+      "prompt": "Unganisha la + la kuunda neno.",
+      "steps": [
+        "Soma silabi la + la kwa mpangilio.",
+        "Ziunganishe bila nafasi: lala."
+      ],
+      "answer": "lala.",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-16",
+      "section": "Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: r",
+      "steps": [
+        "Badili kila herufi ya r kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "R",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-17",
+      "section": "Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: t",
+      "steps": [
+        "Badili kila herufi ya t kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "T",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-18",
+      "section": "Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: f",
+      "steps": [
+        "Badili kila herufi ya f kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "F",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-19",
+      "section": "Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: a",
+      "steps": [
+        "Badili kila herufi ya a kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "A",
+      "source_page": 2
+    },
+    {
+      "id": "Kuandika-20",
+      "section": "Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: n",
+      "steps": [
+        "Badili kila herufi ya n kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "N",
+      "source_page": 2
+    }
+  ],
+  "summaries": {
+    "Kusoma maneno": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Sauti za herufi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kusoma sentensi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Imla": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Picha na msamiati": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Silabi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Herufi kubwa": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "Standard One Exams | 2010 - 2023 | Monthly, Midterm, Terminal and Annual Exams - Download All Subjects - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/standard-one-exams-2010-2023-monthly-midterm-terminal-and-annual-exams-download-all-subjects/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "Kuandika 1-5: karatasi haina maneno au sentensi za mwalimu za imla. Mwongozo umetolewa bila kubuni majibu."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "fc31374826989db097984dcf0d4c80df48a944e21174f4c6d2659f1972510c6f"
+}

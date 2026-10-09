@@ -1,0 +1,472 @@
+{
+  "exam": "English-S6-2024-Top-Abilities-November-Annual-exam.pdf",
+  "output": "English-S6-2024-Top-Abilities-November-Annual-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Six",
+  "year": "2024",
+  "code": "02",
+  "board": "Top Abilities",
+  "exam_type": "Annual exam - November",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "e0d1a96164f8cbab7056056c93cdb723686c877e663346e1ceb87b5e9c5cd06b",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Source-limited items",
+      "prompt": "Who gave the first flight announcement? (A pilots, B flight attendant, C passengers, D Q400, E ATCL managers)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The flight-announcement listening script is not included; the choices cannot establish the narrated event.",
+      "source_page": 2
+    },
+    {
+      "id": "1(ii)",
+      "section": "Source-limited items",
+      "prompt": "What was the destination? (A France, B Lusaka, C New York, D Q400, E 35000 feet)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The flight-announcement listening script is not included; the choices cannot establish the narrated event.",
+      "source_page": 2
+    },
+    {
+      "id": "1(iii)",
+      "section": "Source-limited items",
+      "prompt": "Why was the narrator frightened at take-off? (A plane tilted upward, B would die, C woman pilot, D ATCL neglect, E dangerous altitude)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The flight-announcement listening script is not included; the choices cannot establish the narrated event.",
+      "source_page": 2
+    },
+    {
+      "id": "1(iv)",
+      "section": "Source-limited items",
+      "prompt": "How long was the flight? (A 7 h 5 min, B 11 h 15 min, C 15 h 7 min, D 15 min, E 7 h 15 min)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The flight-announcement listening script is not included; the choices cannot establish the narrated event.",
+      "source_page": 2
+    },
+    {
+      "id": "1(v)",
+      "section": "Source-limited items",
+      "prompt": "How many announcement languages? (A Kiswahili/English/French, B two, C three, D one, E fifteen)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The flight-announcement listening script is not included; the choices cannot establish the narrated event.",
+      "source_page": 2
+    },
+    {
+      "id": "2(i)",
+      "section": "Grammar and vocabulary",
+      "prompt": "The mice ___ killed by a cat last year. (A is, B have, C was, D with, E were)",
+      "steps": [
+        "Plural mice takes were in the past passive.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Were.",
+      "source_page": 2
+    },
+    {
+      "id": "2(ii)",
+      "section": "Grammar and vocabulary",
+      "prompt": "Kiswahili is ___ across the continent. (A speaking, B spoken, C spoke, D speak, E now speaking)",
+      "steps": [
+        "Is spoken is the passive form.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Spoken.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Grammar and vocabulary",
+      "prompt": "Yanga played ___ Azam. (A on, B against, C over, D under, E across)",
+      "steps": [
+        "Against introduces the opposing team.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Against.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Grammar and vocabulary",
+      "prompt": "Answers were filled ___ pencil. (A with, B by, C for, D in, E on)",
+      "steps": [
+        "In pencil names the writing medium; with would require a pencil.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. In.",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Grammar and vocabulary",
+      "prompt": "Opposite of worst? (A very bad, B best, C worse, D good, E amazing)",
+      "steps": [
+        "Best is the opposite superlative of worst.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Best.",
+      "source_page": 2
+    },
+    {
+      "id": "3(i)",
+      "section": "Grammar and vocabulary",
+      "prompt": "A group of recruits is a ___. Bank: delegation, team, circle, batch, choir, committee, gang, panel.",
+      "steps": [
+        "A batch describes recruits joining together.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Batch.",
+      "source_page": 2
+    },
+    {
+      "id": "3(ii)",
+      "section": "Grammar and vocabulary",
+      "prompt": "A group of experts is a ___.",
+      "steps": [
+        "A panel comprises experts assembled for discussion or judgement.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Panel.",
+      "source_page": 2
+    },
+    {
+      "id": "3(iii)",
+      "section": "Grammar and vocabulary",
+      "prompt": "A group of singers is a ___.",
+      "steps": [
+        "A choir is an organised singing group.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Choir.",
+      "source_page": 2
+    },
+    {
+      "id": "3(iv)",
+      "section": "Grammar and vocabulary",
+      "prompt": "A group of decision-makers is a ___.",
+      "steps": [
+        "Committee is the bank's usual group appointed to make decisions.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Committee (intended); panel/team can also fit some settings.",
+      "source_page": 2
+    },
+    {
+      "id": "3(v)",
+      "section": "Grammar and vocabulary",
+      "prompt": "A group of ambassadors is a ___.",
+      "steps": [
+        "A delegation represents an organisation or country; ambassadors form one when sent together.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Delegation (intended official visiting group).",
+      "source_page": 2
+    },
+    {
+      "id": "4(i)",
+      "section": "Grammar",
+      "prompt": "Match skilful acrobatic movements: A revenue, B celebrate, C intelligent, D promote, E reply, F festival, G acrobatics.",
+      "steps": [
+        "Jumping and balancing on a rope are acrobatic skills.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "G. Acrobatics.",
+      "source_page": 3
+    },
+    {
+      "id": "4(ii)",
+      "section": "Grammar",
+      "prompt": "Match supporting progress.",
+      "steps": [
+        "Promote means support or encourage development.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Promote.",
+      "source_page": 3
+    },
+    {
+      "id": "4(iii)",
+      "section": "Grammar",
+      "prompt": "Match a period celebrating an event.",
+      "steps": [
+        "A festival is an organised celebration.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "F. Festival.",
+      "source_page": 3
+    },
+    {
+      "id": "4(iv)",
+      "section": "Grammar",
+      "prompt": "Match taking part in joyful events.",
+      "steps": [
+        "Celebrate means mark an occasion with enjoyment.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Celebrate.",
+      "source_page": 3
+    },
+    {
+      "id": "4(v)",
+      "section": "Grammar",
+      "prompt": "Match generated income.",
+      "steps": [
+        "Revenue is income received.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Revenue.",
+      "source_page": 3
+    },
+    {
+      "id": "5(i)",
+      "section": "Grammar",
+      "prompt": "Add a tag: Let us go out.",
+      "steps": [
+        "Let's/let us suggestions take shall we.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Let us go out, shall we?",
+      "source_page": 3
+    },
+    {
+      "id": "5(ii)",
+      "section": "Grammar",
+      "prompt": "Before police had ___, the thief escaped. (came, come)",
+      "steps": [
+        "Had takes the past participle come.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Come.",
+      "source_page": 3
+    },
+    {
+      "id": "5(iii)",
+      "section": "Grammar",
+      "prompt": "They will have ___ all bags in classrooms. (put, putted)",
+      "steps": [
+        "The past participle of put is unchanged.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Put.",
+      "source_page": 3
+    },
+    {
+      "id": "5(iv)",
+      "section": "Grammar",
+      "prompt": "Start with A letter: Pupils have written a letter.",
+      "steps": [
+        "Make present perfect passive with has been written.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A letter has been written by the pupils.",
+      "source_page": 3
+    },
+    {
+      "id": "5(v)",
+      "section": "Grammar",
+      "prompt": "Patients adhered ___ the doctor's prescriptions. (from, to)",
+      "steps": [
+        "The phrase is adhere to.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "To.",
+      "source_page": 3
+    },
+    {
+      "id": "6-Recitation",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following poem lines in the printed order: Arts and culture / Joy to the world / The style of my arts / Creativity! / With the aroma of my talent; / Art and culture / Facing the odds of life",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Arts and culture / Joy to the world / The style of my arts / Creativity! / With the aroma of my talent; / Art and culture / Facing the odds of life",
+      "source_page": 4
+    },
+    {
+      "id": "6(i)",
+      "section": "Poetry and composition",
+      "prompt": "Who is speaking in the arts-and-culture poem?",
+      "steps": [
+        "My arts and my talent support this interpretation; no personal name is printed.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "The poetic speaker/persona, apparently an artist or creative person.",
+      "source_page": 4
+    },
+    {
+      "id": "6(ii)",
+      "section": "Poetry and composition",
+      "prompt": "What is the poem about?",
+      "steps": [
+        "Connect the arts/talent lines with the joy and final challenge line.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Arts, culture and creative talent bringing joy and helping people face life's challenges.",
+      "source_page": 4
+    },
+    {
+      "id": "6(iii)",
+      "section": "Poetry and composition",
+      "prompt": "What do arts and culture bring to the world?",
+      "steps": [
+        "The second line explicitly says joy to the world.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Joy.",
+      "source_page": 4
+    },
+    {
+      "id": "6(iv)",
+      "section": "Poetry and composition",
+      "prompt": "Give a synonym of the bold word Joy.",
+      "steps": [
+        "These words express the same joyful feeling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Happiness/delight.",
+      "source_page": 4
+    },
+    {
+      "id": "6(v)",
+      "section": "Poetry and composition",
+      "prompt": "What lesson can be learned?",
+      "steps": [
+        "A supported interpretation is acceptable; explain it using the poem's ideas.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Model interpretation: Develop creative talents and value arts and culture because they bring happiness and help us face challenges.",
+      "source_page": 4
+    },
+    {
+      "id": "7(i)",
+      "section": "Poetry and composition",
+      "prompt": "Order A-E: The ceremony officially began.",
+      "steps": [
+        "Opening follows the guest's arrival and seating.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E.",
+      "source_page": 4
+    },
+    {
+      "id": "7(ii)",
+      "section": "Poetry and composition",
+      "prompt": "Order: We were asked to take our seats.",
+      "steps": [
+        "Seating precedes the formal opening.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D.",
+      "source_page": 4
+    },
+    {
+      "id": "7(iii)",
+      "section": "Poetry and composition",
+      "prompt": "Order: Guests began arriving at 10:30 AM.",
+      "steps": [
+        "Arrival follows preparation of the venue.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B.",
+      "source_page": 4
+    },
+    {
+      "id": "7(iv)",
+      "section": "Poetry and composition",
+      "prompt": "Order: At noon the Guest of Honour arrived.",
+      "steps": [
+        "Noon follows 10:30 arrival of other guests.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C.",
+      "source_page": 4
+    },
+    {
+      "id": "7(v)",
+      "section": "Poetry and composition",
+      "prompt": "Order: Tents and chairs were prepared on school grounds.",
+      "steps": [
+        "Set up the venue before guests arrive.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Source-limited items": "The required script, picture or other information is missing. Use the stated limitation and obtain the original material before expecting a unique answer.",
+    "Grammar and vocabulary": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Grammar": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Oral reading": "Read aloud in the printed order. Pronounce words clearly and pause at punctuation. Teachers assess accuracy and fluency; the printed text is the oral response.",
+    "Poetry and composition": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "TOP ABILITIES STANDARD SIX PRE-ANNUAL JOINT EXAMS 2024",
+      "url": "https://darasahuru.ac.tz/top-abilities-standard-six-pre-annual-joint-exams-2024/"
+    }
+  ],
+  "limitations": [
+    "1(i): The flight-announcement listening script is not included; the choices cannot establish the narrated event.",
+    "1(ii): The flight-announcement listening script is not included; the choices cannot establish the narrated event.",
+    "1(iii): The flight-announcement listening script is not included; the choices cannot establish the narrated event.",
+    "1(iv): The flight-announcement listening script is not included; the choices cannot establish the narrated event.",
+    "1(v): The flight-announcement listening script is not included; the choices cannot establish the narrated event."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "6-Recitation",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)",
+    "7(v)"
+  ],
+  "question_count": "36 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "0a64c1a8453653de1a496a28aa48289ffaf3c2b0f815a725bc206564aca97628"
+}

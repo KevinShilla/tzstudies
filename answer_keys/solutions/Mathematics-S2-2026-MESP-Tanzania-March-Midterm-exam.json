@@ -1,0 +1,1001 @@
+{
+  "exam": "Mathematics-S2-2026-MESP-Tanzania-March-Midterm-exam.pdf",
+  "output": "Mathematics-S2-2026-MESP-Tanzania-March-Midterm-exam-AnswerKey.pdf",
+  "sha256": "577607fd7c3d4d284c77ee4c0d3379d4b6995d5fd47244ca436ba6b2a82625ba",
+  "subject": "Mathematics",
+  "level": "Standard Two",
+  "year": "2026",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Midterm exam - March · Arithmetic",
+  "question_count": "50 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Calculations",
+      "prompt": "Calculate 160+100.",
+      "steps": [
+        "1 place: 0 + 0 = 0; write 0.",
+        "10 place: 6 + 0 = 6; write 6.",
+        "100 place: 1 + 1 = 2; write 2.",
+        "160 + 100 = 260."
+      ],
+      "answer": "260",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "160+100",
+          "expected": "260"
+        },
+        {
+          "expression": "0 + 0",
+          "expected": "0"
+        },
+        {
+          "expression": "6 + 0",
+          "expected": "6"
+        },
+        {
+          "expression": "1 + 1",
+          "expected": "2"
+        },
+        {
+          "expression": "160 + 100",
+          "expected": "260"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "section": "Calculations",
+      "prompt": "Calculate 189+771.",
+      "steps": [
+        "1 place: 9 + 1 = 10; write 0, carry 1.",
+        "10 place: 8 + 7 + carry 1 = 16; write 6, carry 1.",
+        "100 place: 1 + 7 + carry 1 = 9; write 9.",
+        "189 + 771 = 960."
+      ],
+      "answer": "960",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "189+771",
+          "expected": "960"
+        },
+        {
+          "expression": "9 + 1",
+          "expected": "10"
+        },
+        {
+          "expression": "189 + 771",
+          "expected": "960"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "section": "Calculations",
+      "prompt": "Calculate 166+126.",
+      "steps": [
+        "1 place: 6 + 6 = 12; write 2, carry 1.",
+        "10 place: 6 + 2 + carry 1 = 9; write 9.",
+        "100 place: 1 + 1 = 2; write 2.",
+        "166 + 126 = 292."
+      ],
+      "answer": "292",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "166+126",
+          "expected": "292"
+        },
+        {
+          "expression": "6 + 6",
+          "expected": "12"
+        },
+        {
+          "expression": "1 + 1",
+          "expected": "2"
+        },
+        {
+          "expression": "166 + 126",
+          "expected": "292"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "section": "Calculations",
+      "prompt": "Calculate 89+209.",
+      "steps": [
+        "1 place: 9 + 9 = 18; write 8, carry 1.",
+        "10 place: 8 + 0 + carry 1 = 9; write 9.",
+        "100 place: 0 + 2 = 2; write 2.",
+        "89 + 209 = 298."
+      ],
+      "answer": "298",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "89+209",
+          "expected": "298"
+        },
+        {
+          "expression": "9 + 9",
+          "expected": "18"
+        },
+        {
+          "expression": "0 + 2",
+          "expected": "2"
+        },
+        {
+          "expression": "89 + 209",
+          "expected": "298"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "section": "Calculations",
+      "prompt": "Calculate 314-208.",
+      "steps": [
+        "1 place: regroup 1 from the next place; 14 - 8 = 6.",
+        "10 place: 0 - 0 = 0.",
+        "100 place: 3 - 2 = 1.",
+        "314 - 208 = 106; check 106 + 208 = 314."
+      ],
+      "answer": "106",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "314-208",
+          "expected": "106"
+        },
+        {
+          "expression": "14 - 8",
+          "expected": "6"
+        },
+        {
+          "expression": "0 - 0",
+          "expected": "0"
+        },
+        {
+          "expression": "3 - 2",
+          "expected": "1"
+        },
+        {
+          "expression": "314 - 208",
+          "expected": "106"
+        },
+        {
+          "expression": "106 + 208",
+          "expected": "314"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "section": "Calculations",
+      "prompt": "Calculate 830-240.",
+      "steps": [
+        "1 place: 0 - 0 = 0.",
+        "10 place: regroup 1 from the next place; 13 - 4 = 9.",
+        "100 place: 7 - 2 = 5.",
+        "830 - 240 = 590; check 590 + 240 = 830."
+      ],
+      "answer": "590",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "830-240",
+          "expected": "590"
+        },
+        {
+          "expression": "0 - 0",
+          "expected": "0"
+        },
+        {
+          "expression": "13 - 4",
+          "expected": "9"
+        },
+        {
+          "expression": "7 - 2",
+          "expected": "5"
+        },
+        {
+          "expression": "830 - 240",
+          "expected": "590"
+        },
+        {
+          "expression": "590 + 240",
+          "expected": "830"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "section": "Calculations",
+      "prompt": "Calculate 888-99.",
+      "steps": [
+        "1 place: regroup 1 from the next place; 18 - 9 = 9.",
+        "10 place: regroup 1 from the next place; 17 - 9 = 8.",
+        "100 place: 7 - 0 = 7.",
+        "888 - 99 = 789; check 789 + 99 = 888."
+      ],
+      "answer": "789",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "888-99",
+          "expected": "789"
+        },
+        {
+          "expression": "18 - 9",
+          "expected": "9"
+        },
+        {
+          "expression": "17 - 9",
+          "expected": "8"
+        },
+        {
+          "expression": "7 - 0",
+          "expected": "7"
+        },
+        {
+          "expression": "888 - 99",
+          "expected": "789"
+        },
+        {
+          "expression": "789 + 99",
+          "expected": "888"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "section": "Calculations",
+      "prompt": "Calculate 900-333.",
+      "steps": [
+        "1 place: regroup 1 from the next place; 10 - 3 = 7.",
+        "10 place: regroup 1 from the next place; 9 - 3 = 6.",
+        "100 place: 8 - 3 = 5.",
+        "900 - 333 = 567; check 567 + 333 = 900."
+      ],
+      "answer": "567",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "900-333",
+          "expected": "567"
+        },
+        {
+          "expression": "10 - 3",
+          "expected": "7"
+        },
+        {
+          "expression": "9 - 3",
+          "expected": "6"
+        },
+        {
+          "expression": "8 - 3",
+          "expected": "5"
+        },
+        {
+          "expression": "900 - 333",
+          "expected": "567"
+        },
+        {
+          "expression": "567 + 333",
+          "expected": "900"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "section": "Numbers and calculations",
+      "prompt": "Write 527 in words.",
+      "steps": [
+        "Read hundreds, tens and ones in 527."
+      ],
+      "answer": "Five hundred and twenty-seven",
+      "source_page": 1
+    },
+    {
+      "id": "10",
+      "section": "Numbers and calculations",
+      "prompt": "Write 698 in words.",
+      "steps": [
+        "Read hundreds, tens and ones in 698."
+      ],
+      "answer": "Six hundred and ninety-eight",
+      "source_page": 2
+    },
+    {
+      "id": "11",
+      "section": "Numbers and calculations",
+      "prompt": "Write 908 in words.",
+      "steps": [
+        "Read hundreds, tens and ones in 908."
+      ],
+      "answer": "Nine hundred and eight",
+      "source_page": 2
+    },
+    {
+      "id": "12",
+      "section": "Numbers and calculations",
+      "prompt": "Write four hundred and twenty-seven in figures.",
+      "steps": [
+        "Combine hundreds, tens and ones to make 427."
+      ],
+      "answer": "427",
+      "source_page": 1
+    },
+    {
+      "id": "13",
+      "section": "Numbers and calculations",
+      "prompt": "Write nine hundred and thirty-six in figures.",
+      "steps": [
+        "Combine hundreds, tens and ones to make 936."
+      ],
+      "answer": "936",
+      "source_page": 1
+    },
+    {
+      "id": "14",
+      "section": "Numbers and calculations",
+      "prompt": "Write nine hundred and sixty-four in figures.",
+      "steps": [
+        "Combine hundreds, tens and ones to make 964."
+      ],
+      "answer": "964",
+      "source_page": 1
+    },
+    {
+      "id": "15",
+      "section": "Numbers and calculations",
+      "prompt": "Write two hundred and forty-four in figures.",
+      "steps": [
+        "Combine hundreds, tens and ones to make 244."
+      ],
+      "answer": "244",
+      "source_page": 1
+    },
+    {
+      "id": "16",
+      "section": "Numbers and calculations",
+      "prompt": "Arrange 189, 130, 198, 177, 199 from smallest to largest.",
+      "steps": [
+        "Compare hundreds first, then tens and ones."
+      ],
+      "answer": "130, 177, 189, 198, 199",
+      "source_page": 1
+    },
+    {
+      "id": "17",
+      "section": "Numbers and calculations",
+      "prompt": "Arrange 529, 440, 310, 500, 120 from smallest to largest.",
+      "steps": [
+        "Compare hundreds first, then tens and ones."
+      ],
+      "answer": "120, 310, 440, 500, 529",
+      "source_page": 1
+    },
+    {
+      "id": "18",
+      "section": "Numbers and calculations",
+      "prompt": "Arrange 325, 354, 312, 376, 310 from largest to smallest.",
+      "steps": [
+        "Compare hundreds first, then tens and ones."
+      ],
+      "answer": "376, 354, 325, 312, 310",
+      "source_page": 1
+    },
+    {
+      "id": "19",
+      "section": "Numbers and calculations",
+      "prompt": "Arrange 376, 909, 298, 921, 206 from largest to smallest.",
+      "steps": [
+        "Compare hundreds first, then tens and ones."
+      ],
+      "answer": "921, 909, 376, 298, 206",
+      "source_page": 2
+    },
+    {
+      "id": "20",
+      "section": "Numbers and calculations",
+      "prompt": "Arrange 622, 266, 322, 233, 505 from largest to smallest.",
+      "steps": [
+        "Compare hundreds first, then tens and ones."
+      ],
+      "answer": "622, 505, 322, 266, 233",
+      "source_page": 2
+    },
+    {
+      "id": "21",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 109,110,111,[ ],[ ].",
+      "steps": [
+        "Increase by 1; 111 + 1 = 112, 112 + 1 = 113."
+      ],
+      "answer": "112,113",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "111 + 1",
+          "expected": "112"
+        },
+        {
+          "expression": "112 + 1",
+          "expected": "113"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "section": "Numbers and calculations",
+      "prompt": "Fill [ ],[ ],203,204,205.",
+      "steps": [
+        "Count backwards from 203: 203 - 1 = 202; 202 - 1 = 201."
+      ],
+      "answer": "201,202",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "203 - 1",
+          "expected": "202"
+        },
+        {
+          "expression": "202 - 1",
+          "expected": "201"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 789,[ ],791,792,793,794.",
+      "steps": [
+        "Increase by 1; 789 + 1 = 790."
+      ],
+      "answer": "790",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "789 + 1",
+          "expected": "790"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "section": "Numbers and calculations",
+      "prompt": "Write the number immediately after 419.",
+      "steps": [
+        "419+1 = 420."
+      ],
+      "answer": "420",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "419+1",
+          "expected": "420"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "section": "Numbers and calculations",
+      "prompt": "Write the number immediately after 502.",
+      "steps": [
+        "502+1 = 503."
+      ],
+      "answer": "503",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "502+1",
+          "expected": "503"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "section": "Numbers and calculations",
+      "prompt": "Write the number immediately after 609.",
+      "steps": [
+        "609+1 = 610."
+      ],
+      "answer": "610",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "609+1",
+          "expected": "610"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "section": "Numbers and calculations",
+      "prompt": "Write the number immediately before 900.",
+      "steps": [
+        "900-1 = 899."
+      ],
+      "answer": "899",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "900-1",
+          "expected": "899"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "section": "Numbers and calculations",
+      "prompt": "Write the number immediately before 899.",
+      "steps": [
+        "899-1 = 898."
+      ],
+      "answer": "898",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "899-1",
+          "expected": "898"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "section": "Numbers and calculations",
+      "prompt": "Write the number immediately before 701.",
+      "steps": [
+        "701-1 = 700."
+      ],
+      "answer": "700",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "701-1",
+          "expected": "700"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "section": "Numbers and calculations",
+      "prompt": "Read the cups in the hundreds, tens and ones table; write the number in words.",
+      "steps": [
+        "There are 4 hundreds, 3 tens and 1 one.",
+        "400 + 30 + 1 = 431."
+      ],
+      "answer": "Four hundred and thirty-one",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "400 + 30 + 1",
+          "expected": "431"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "section": "Numbers and calculations",
+      "prompt": "Read the dice in the hundreds, tens and ones table; write the number in words.",
+      "steps": [
+        "Count dice, not their spots: 2 hundreds, 4 tens and 2 ones.",
+        "200 + 40 + 2 = 242."
+      ],
+      "answer": "Two hundred and forty-two",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "200 + 40 + 2",
+          "expected": "242"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "section": "Numbers and calculations",
+      "prompt": "Read the bottles in the place-value table; write the number in figures.",
+      "steps": [
+        "2 hundreds, 0 tens, 2 ones.",
+        "200 + 0 + 2 = 202."
+      ],
+      "answer": "202",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "200 + 0 + 2",
+          "expected": "202"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "section": "Numbers and calculations",
+      "prompt": "Read the mangoes in the place-value table; write the number in figures.",
+      "steps": [
+        "1 hundred, 4 tens, 0 ones.",
+        "100 + 40 + 0 = 140."
+      ],
+      "answer": "140",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "100 + 40 + 0",
+          "expected": "140"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "section": "Numbers and calculations",
+      "prompt": "Name the place value of every digit in 908.",
+      "steps": [
+        "Read three-digit numbers from left as hundreds, tens, ones."
+      ],
+      "answer": "9 hundreds; 0 tens; 8 ones.",
+      "source_page": 2
+    },
+    {
+      "id": "35",
+      "section": "Numbers and calculations",
+      "prompt": "Name the place value of every digit in 100.",
+      "steps": [
+        "Read three-digit numbers from left as hundreds, tens, ones."
+      ],
+      "answer": "1 hundreds; 0 tens; 0 ones.",
+      "source_page": 2
+    },
+    {
+      "id": "36",
+      "section": "Numbers and calculations",
+      "prompt": "Name the place value of every digit in 802.",
+      "steps": [
+        "Read three-digit numbers from left as hundreds, tens, ones."
+      ],
+      "answer": "8 hundreds; 0 tens; 2 ones.",
+      "source_page": 3
+    },
+    {
+      "id": "37",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 678 = [ ] hundreds, [ ] tens, [ ] ones.",
+      "steps": [
+        "678 = 600 + 70 + 8."
+      ],
+      "answer": "6,7,8",
+      "source_page": 3
+    },
+    {
+      "id": "38",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 709 = [ ] ones, [ ] hundreds, [ ] tens.",
+      "steps": [
+        "709 = 700 + 0 + 9.",
+        "Follow the requested order."
+      ],
+      "answer": "9,7,0",
+      "source_page": 3
+    },
+    {
+      "id": "39",
+      "section": "Numbers and calculations",
+      "prompt": "Write the number for 2 hundreds, 0 tens and 1 one.",
+      "steps": [
+        "200 + 0 + 1 = 201."
+      ],
+      "answer": "201",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "200 + 0 + 1",
+          "expected": "201"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "section": "Numbers and calculations",
+      "prompt": "Write the number for 8 tens, 7 tens and 4 hundreds, exactly as printed.",
+      "steps": [
+        "8 tens = 80; 7 tens = 70; 4 hundreds = 400.",
+        "80 + 70 + 400 = 550."
+      ],
+      "answer": "550",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "80 + 70 + 400",
+          "expected": "550"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "section": "Numbers and calculations",
+      "prompt": "Expand 209.",
+      "steps": [
+        "Separate hundreds, tens and ones."
+      ],
+      "answer": "200 + 0 + 9",
+      "source_page": 3
+    },
+    {
+      "id": "42",
+      "section": "Numbers and calculations",
+      "prompt": "Write 400 + 60 + 9 in short form.",
+      "steps": [
+        "400 + 60 + 9 = 469."
+      ],
+      "answer": "469",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "400 + 60 + 9",
+          "expected": "469"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "section": "Numbers and calculations",
+      "prompt": "Name the round plane figure.",
+      "steps": [
+        "Every boundary point is equally distant from its centre."
+      ],
+      "answer": "Circle",
+      "source_page": 4
+    },
+    {
+      "id": "44",
+      "section": "Numbers and calculations",
+      "prompt": "Name the four-sided figure with equal sides and right angles.",
+      "steps": [
+        "All four sides are equal."
+      ],
+      "answer": "Square",
+      "source_page": 4
+    },
+    {
+      "id": "45",
+      "section": "Numbers and calculations",
+      "prompt": "Name the stretched round plane figure.",
+      "steps": [
+        "It has an elongated curved boundary."
+      ],
+      "answer": "Oval",
+      "source_page": 4
+    },
+    {
+      "id": "46",
+      "section": "Numbers and calculations",
+      "prompt": "Name the four-sided figure with right angles and unequal adjacent sides.",
+      "steps": [
+        "Opposite sides are equal."
+      ],
+      "answer": "Rectangle",
+      "source_page": 4
+    },
+    {
+      "id": "47",
+      "section": "Calculations",
+      "prompt": "A fisherman catches 112 fish in the morning and 210 in the afternoon. Find the total.",
+      "steps": [
+        "1 place: 2 + 0 = 2; write 2.",
+        "10 place: 1 + 1 = 2; write 2.",
+        "100 place: 1 + 2 = 3; write 3.",
+        "112 + 210 = 322."
+      ],
+      "answer": "322 fish",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "112+210",
+          "expected": "322"
+        },
+        {
+          "expression": "2 + 0",
+          "expected": "2"
+        },
+        {
+          "expression": "1 + 1",
+          "expected": "2"
+        },
+        {
+          "expression": "1 + 2",
+          "expected": "3"
+        },
+        {
+          "expression": "112 + 210",
+          "expected": "322"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "section": "Calculations",
+      "prompt": "One family has 130 goats and another 110. How many altogether?",
+      "steps": [
+        "1 place: 0 + 0 = 0; write 0.",
+        "10 place: 3 + 1 = 4; write 4.",
+        "100 place: 1 + 1 = 2; write 2.",
+        "130 + 110 = 240."
+      ],
+      "answer": "240 goats",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "130+110",
+          "expected": "240"
+        },
+        {
+          "expression": "0 + 0",
+          "expected": "0"
+        },
+        {
+          "expression": "3 + 1",
+          "expected": "4"
+        },
+        {
+          "expression": "1 + 1",
+          "expected": "2"
+        },
+        {
+          "expression": "130 + 110",
+          "expected": "240"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "section": "Calculations",
+      "prompt": "A teacher has 596 books and gives out 421. How many remain?",
+      "steps": [
+        "1 place: 6 - 1 = 5.",
+        "10 place: 9 - 2 = 7.",
+        "100 place: 5 - 4 = 1.",
+        "596 - 421 = 175; check 175 + 421 = 596."
+      ],
+      "answer": "175 books",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "596-421",
+          "expected": "175"
+        },
+        {
+          "expression": "6 - 1",
+          "expected": "5"
+        },
+        {
+          "expression": "9 - 2",
+          "expected": "7"
+        },
+        {
+          "expression": "5 - 4",
+          "expected": "1"
+        },
+        {
+          "expression": "596 - 421",
+          "expected": "175"
+        },
+        {
+          "expression": "175 + 421",
+          "expected": "596"
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "section": "Calculations",
+      "prompt": "Of 210 students, 170 sit an examination. How many do not?",
+      "steps": [
+        "1 place: 0 - 0 = 0.",
+        "10 place: regroup 1 from the next place; 11 - 7 = 4.",
+        "100 place: 1 - 1 = 0.",
+        "210 - 170 = 40; check 40 + 170 = 210."
+      ],
+      "answer": "40 students",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "210-170",
+          "expected": "40"
+        },
+        {
+          "expression": "0 - 0",
+          "expected": "0"
+        },
+        {
+          "expression": "11 - 7",
+          "expected": "4"
+        },
+        {
+          "expression": "1 - 1",
+          "expected": "0"
+        },
+        {
+          "expression": "210 - 170",
+          "expected": "40"
+        },
+        {
+          "expression": "40 + 170",
+          "expected": "210"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Numbers and calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - MESP TZ Standard Two Midterm Examinations March 2026",
+      "url": "https://darasahuru.ac.tz/mesp-tz-standard-two-midterm-examinations-march-2026/"
+    }
+  ],
+  "limitations": [
+    "Q 40 repeats tens; its literal answer is 550. If the first term was intended as 8 ones, the answer would be 478, but that is not what is printed."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "a5178bd85845a24e38f0a19dab10fe10289723070cce1733028273f0eff872f5"
+}

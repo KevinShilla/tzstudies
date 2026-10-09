@@ -1,0 +1,781 @@
+{
+  "exam": "Mathematics-S5-2024-HEAGTON-July-Monthly-test.pdf",
+  "output": "Mathematics-S5-2024-HEAGTON-July-Monthly-test-AnswerKey.pdf",
+  "sha256": "ff6b2cd12dc36792fdd65f09a2fb3ce711356c32522746977554064691cee117",
+  "subject": "Mathematics",
+  "level": "Standard Five",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "HEAGTON",
+  "exam_type": "Monthly test - July",
+  "question_count": "33 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(a)",
+    "1(b)",
+    "1(c)",
+    "1(d)",
+    "1(e)",
+    "1(f)",
+    "1(g)",
+    "1(h)",
+    "1(i)",
+    "1(j)",
+    "2(a)",
+    "2(b)",
+    "2(c)",
+    "2(d)",
+    "2(e)",
+    "2(f)",
+    "3(a)",
+    "3(b)",
+    "3(c)",
+    "4(a)",
+    "4(b)",
+    "4(c)",
+    "5(a)",
+    "5(b)",
+    "5(c)",
+    "6(a)",
+    "6(b)",
+    "6(c)",
+    "7(a)",
+    "7(b)",
+    "8(a)",
+    "8(b)",
+    "8(c)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Calculations",
+      "prompt": "Add 37777 +63333.",
+      "steps": [
+        "1 place: 7 + 3 = 10; write 0, carry 1.",
+        "10 place: 7 + 3 + carry 1 = 11; write 1, carry 1.",
+        "100 place: 7 + 3 + carry 1 = 11; write 1, carry 1.",
+        "1000 place: 7 + 3 + carry 1 = 11; write 1, carry 1.",
+        "10000 place: 3 + 6 + carry 1 = 10; write 0, carry 1.",
+        "Write final carry 1 in the next place.",
+        "37777 + 63333 = 101110."
+      ],
+      "answer": "101110",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "37777+63333",
+          "expected": "101110"
+        },
+        {
+          "expression": "7 + 3",
+          "expected": "10"
+        },
+        {
+          "expression": "37777 + 63333",
+          "expected": "101110"
+        }
+      ]
+    },
+    {
+      "id": "1(b)",
+      "section": "Calculations",
+      "prompt": "Subtract 878984 -878844.",
+      "steps": [
+        "1 place: 4 - 4 = 0.",
+        "10 place: 8 - 4 = 4.",
+        "100 place: 9 - 8 = 1.",
+        "1000 place: 8 - 8 = 0.",
+        "10000 place: 7 - 7 = 0.",
+        "100000 place: 8 - 8 = 0.",
+        "878984 - 878844 = 140; check 140 + 878844 = 878984."
+      ],
+      "answer": "140",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "878984-878844",
+          "expected": "140"
+        },
+        {
+          "expression": "4 - 4",
+          "expected": "0"
+        },
+        {
+          "expression": "8 - 4",
+          "expected": "4"
+        },
+        {
+          "expression": "9 - 8",
+          "expected": "1"
+        },
+        {
+          "expression": "8 - 8",
+          "expected": "0"
+        },
+        {
+          "expression": "7 - 7",
+          "expected": "0"
+        },
+        {
+          "expression": "878984 - 878844",
+          "expected": "140"
+        },
+        {
+          "expression": "140 + 878844",
+          "expected": "878984"
+        }
+      ]
+    },
+    {
+      "id": "1(c)",
+      "section": "Calculations",
+      "prompt": "Multiply 197 x 86.",
+      "steps": [
+        "Split into place values: 100 x 86 = 8600; 90 x 86 = 7740; 7 x 86 = 602.",
+        "Add the partial products: 16942."
+      ],
+      "answer": "16942",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "197*86",
+          "expected": "16942"
+        },
+        {
+          "expression": "100*86",
+          "expected": "8600"
+        },
+        {
+          "expression": "90*86",
+          "expected": "7740"
+        },
+        {
+          "expression": "7*86",
+          "expected": "602"
+        }
+      ]
+    },
+    {
+      "id": "1(d)",
+      "section": "Calculations",
+      "prompt": "Divide 85000 by 5000.",
+      "steps": [
+        "8500 / 5000: write 1; 1 x 5000 = 5000; 8500 - 5000 = 3500.",
+        "35000 / 5000: write 7; 7 x 5000 = 35000; 35000 - 35000 = 0.",
+        "5000 x 17 = 85000.",
+        "85000 / 5000 = 17."
+      ],
+      "answer": "17",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "85000/5000",
+          "expected": "17"
+        },
+        {
+          "expression": "1*5000",
+          "expected": "5000"
+        },
+        {
+          "expression": "8500 - 5000",
+          "expected": "3500"
+        },
+        {
+          "expression": "7*5000",
+          "expected": "35000"
+        },
+        {
+          "expression": "35000 - 35000",
+          "expected": "0"
+        },
+        {
+          "expression": "5000*17",
+          "expected": "85000"
+        },
+        {
+          "expression": "85000 / 5000",
+          "expected": "17"
+        }
+      ]
+    },
+    {
+      "id": "1(e)",
+      "section": "Mathematics",
+      "prompt": "Calculate 2/7 +4/14.",
+      "steps": [
+        "Common denominator 14:2/7=4/14.",
+        "4 + 4 = 8.",
+        "8/14=4/7."
+      ],
+      "answer": "4/7",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "2/7+4/14",
+          "expected": "4/7"
+        },
+        {
+          "expression": "2/7",
+          "expected": "2/7"
+        },
+        {
+          "expression": "4 + 4",
+          "expected": "8"
+        },
+        {
+          "expression": "8/14",
+          "expected": "4/7"
+        }
+      ]
+    },
+    {
+      "id": "1(f)",
+      "section": "Mathematics",
+      "prompt": "Calculate 9/14 -8/28.",
+      "steps": [
+        "Common denominator 28:9/14=18/28.",
+        "18 - 8 = 10.",
+        "10/28=5/14."
+      ],
+      "answer": "5/14",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "9/14-8/28",
+          "expected": "5/14"
+        },
+        {
+          "expression": "9/14",
+          "expected": "9/14"
+        },
+        {
+          "expression": "18 - 8",
+          "expected": "10"
+        },
+        {
+          "expression": "10/28",
+          "expected": "5/14"
+        }
+      ]
+    },
+    {
+      "id": "1(g)",
+      "section": "Mathematics",
+      "prompt": "Multiply 5/6 x 6/12.",
+      "steps": [
+        "Cancel 6 in numerator and denominator.",
+        "5/12 remains."
+      ],
+      "answer": "5/12",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "(5/6)*(6/12)",
+          "expected": "5/12"
+        }
+      ]
+    },
+    {
+      "id": "1(h)",
+      "section": "Mathematics",
+      "prompt": "Find 72 x 5/6.",
+      "steps": [
+        "72 / 6 = 12.",
+        "12 x 5 = 60."
+      ],
+      "answer": "60",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "72 / 6",
+          "expected": "12"
+        },
+        {
+          "expression": "12*5",
+          "expected": "60"
+        }
+      ]
+    },
+    {
+      "id": "1(i)",
+      "section": "Calculations",
+      "prompt": "Subtract 999 from 9999.",
+      "steps": [
+        "1 place: 9 - 9 = 0.",
+        "10 place: 9 - 9 = 0.",
+        "100 place: 9 - 9 = 0.",
+        "1000 place: 9 - 0 = 9.",
+        "9999 - 999 = 9000; check 9000 + 999 = 9999."
+      ],
+      "answer": "9000",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "9999-999",
+          "expected": "9000"
+        },
+        {
+          "expression": "9 - 9",
+          "expected": "0"
+        },
+        {
+          "expression": "9 - 0",
+          "expected": "9"
+        },
+        {
+          "expression": "9999 - 999",
+          "expected": "9000"
+        },
+        {
+          "expression": "9000 + 999",
+          "expected": "9999"
+        }
+      ]
+    },
+    {
+      "id": "1(j)",
+      "section": "Calculations",
+      "prompt": "Multiply 6894 by 16.",
+      "steps": [
+        "Split into place values: 6000 x 16 = 96000; 800 x 16 = 12800; 90 x 16 = 1440; 4 x 16 = 64.",
+        "Add the partial products: 110304."
+      ],
+      "answer": "110304",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "6894*16",
+          "expected": "110304"
+        },
+        {
+          "expression": "6000*16",
+          "expected": "96000"
+        },
+        {
+          "expression": "800*16",
+          "expected": "12800"
+        },
+        {
+          "expression": "90*16",
+          "expected": "1440"
+        },
+        {
+          "expression": "4*16",
+          "expected": "64"
+        }
+      ]
+    },
+    {
+      "id": "2(a)",
+      "section": "Mathematics",
+      "prompt": "Form largest number from 1,5,9,2,6 each once.",
+      "steps": [
+        "Arrange greatest first:9,6,5,2,1."
+      ],
+      "answer": "96521",
+      "source_page": 2
+    },
+    {
+      "id": "2(b)",
+      "section": "Mathematics",
+      "prompt": "Write 611 pupils in Roman numerals.",
+      "steps": [
+        "600=DC;11=XI."
+      ],
+      "answer": "DCXI",
+      "source_page": 2
+    },
+    {
+      "id": "2(c)",
+      "section": "Mathematics",
+      "prompt": "Expand 53042.",
+      "steps": [
+        "Read all five place values."
+      ],
+      "answer": "50000 +3000 +0 +40 +2",
+      "source_page": 2
+    },
+    {
+      "id": "2(d)",
+      "section": "Mathematics",
+      "prompt": "Find the smallest digit value in 245034.",
+      "steps": [
+        "Values 200000,40000,5000,0,30,4.",
+        "0 is smallest."
+      ],
+      "answer": "0",
+      "source_page": 2
+    },
+    {
+      "id": "2(e)",
+      "section": "Mathematics",
+      "prompt": "Write 1308 in words.",
+      "steps": [
+        "1308=1000+300+8."
+      ],
+      "answer": "One thousand three hundred and eight",
+      "source_page": 2
+    },
+    {
+      "id": "2(f)",
+      "section": "Mathematics",
+      "prompt": "Find the LCM of 42 and 18.",
+      "steps": [
+        "42=2 x 3 x 7;18=2 x 3².",
+        "Use greatest prime powers:2 x 3² x 7 =126."
+      ],
+      "answer": "126",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2*3**2*7",
+          "expected": "126"
+        }
+      ]
+    },
+    {
+      "id": "3(a)",
+      "section": "Mathematics",
+      "prompt": "Continue 168,129,90,51,[ ].",
+      "steps": [
+        "Subtract 39 each step.",
+        "51 - 39 = 12."
+      ],
+      "answer": "12",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "51 - 39",
+          "expected": "12"
+        }
+      ]
+    },
+    {
+      "id": "3(b)",
+      "section": "Calculations",
+      "prompt": "100 chalk sticks per box;154 boxes. Total?",
+      "steps": [
+        "Split into place values: 100 x 154 = 15400.",
+        "Add the partial products: 15400."
+      ],
+      "answer": "15400 sticks",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "100*154",
+          "expected": "15400"
+        }
+      ]
+    },
+    {
+      "id": "3(c)",
+      "section": "Calculations",
+      "prompt": "One pair of tongs costs 2354 shillings. Cost of 19 pairs?",
+      "steps": [
+        "Split into place values: 2000 x 19 = 38000; 300 x 19 = 5700; 50 x 19 = 950; 4 x 19 = 76.",
+        "Add the partial products: 44726."
+      ],
+      "answer": "44726 shillings",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2354*19",
+          "expected": "44726"
+        },
+        {
+          "expression": "2000*19",
+          "expected": "38000"
+        },
+        {
+          "expression": "300*19",
+          "expected": "5700"
+        },
+        {
+          "expression": "50*19",
+          "expected": "950"
+        },
+        {
+          "expression": "4*19",
+          "expected": "76"
+        }
+      ]
+    },
+    {
+      "id": "4(a)",
+      "section": "Mathematics",
+      "prompt": "List primes in 79 through 95.",
+      "steps": [
+        "Reject even numbers and multiples of 3,5,7.",
+        "79,83,89 have no divisor up to their square roots."
+      ],
+      "answer": "79,83,89",
+      "source_page": 3
+    },
+    {
+      "id": "4(b)",
+      "section": "Mathematics",
+      "prompt": "Find difference between largest and least odd numbers in 79 through 95.",
+      "steps": [
+        "Greatest 95, least 79.",
+        "95 - 79 = 16."
+      ],
+      "answer": "16",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "95 - 79",
+          "expected": "16"
+        }
+      ]
+    },
+    {
+      "id": "4(c)",
+      "section": "Mathematics",
+      "prompt": "Write smallest even number from 79 through 95 in Roman numerals.",
+      "steps": [
+        "First even number 80.",
+        "80=LXXX."
+      ],
+      "answer": "LXXX",
+      "source_page": 3
+    },
+    {
+      "id": "5(a)",
+      "section": "Mathematics",
+      "prompt": "Difference between CMXLIV and DCLXXIX?",
+      "steps": [
+        "CMXLIV=900+40+4=944.",
+        "DCLXXIX=500+100+50+20+9=679.",
+        "944 - 679 = 265."
+      ],
+      "answer": "265 (CCLXV)",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "900+40+4",
+          "expected": "944"
+        },
+        {
+          "expression": "500+100+50+20+9",
+          "expected": "679"
+        },
+        {
+          "expression": "944 - 679",
+          "expected": "265"
+        }
+      ]
+    },
+    {
+      "id": "5(b)",
+      "section": "Mathematics",
+      "prompt": "Find the GCF of 42 and 18.",
+      "steps": [
+        "42=2 x 3 x 7;18=2 x 3².",
+        "Shared primes 2 x 3.",
+        "2 x 3 = 6."
+      ],
+      "answer": "6",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "2*3",
+          "expected": "6"
+        }
+      ]
+    },
+    {
+      "id": "5(c)",
+      "section": "Mathematics",
+      "prompt": "List factors of 45.",
+      "steps": [
+        "Factor pairs 1 x 45,3 x 15,5 x 9."
+      ],
+      "answer": "1,3,5,9,15,45",
+      "source_page": 3
+    },
+    {
+      "id": "6(a)",
+      "section": "Calculations",
+      "prompt": "Tree heights 355 cm,455 cm,204 cm. Sum?",
+      "steps": [
+        "355 + 455 = 810.",
+        "355 + 455 + 204 = 1014.",
+        "355+455+204 = 1014."
+      ],
+      "answer": "1014 cm",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "355+455+204",
+          "expected": "1014"
+        },
+        {
+          "expression": "355 + 455",
+          "expected": "810"
+        },
+        {
+          "expression": "355 + 455 + 204",
+          "expected": "1014"
+        }
+      ]
+    },
+    {
+      "id": "6(b)",
+      "section": "Calculations",
+      "prompt": "A phone rings 142 times daily for 1 week. Total?",
+      "steps": [
+        "Split into place values: 100 x 7 = 700; 40 x 7 = 280; 2 x 7 = 14.",
+        "Add the partial products: 994."
+      ],
+      "answer": "994 times",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "142*7",
+          "expected": "994"
+        },
+        {
+          "expression": "100*7",
+          "expected": "700"
+        },
+        {
+          "expression": "40*7",
+          "expected": "280"
+        },
+        {
+          "expression": "2*7",
+          "expected": "14"
+        }
+      ]
+    },
+    {
+      "id": "6(c)",
+      "section": "Calculations",
+      "prompt": "Juma walks 231 steps daily for 45 days. Total?",
+      "steps": [
+        "Split into place values: 200 x 45 = 9000; 30 x 45 = 1350; 1 x 45 = 45.",
+        "Add the partial products: 10395."
+      ],
+      "answer": "10395 steps",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "231*45",
+          "expected": "10395"
+        },
+        {
+          "expression": "200*45",
+          "expected": "9000"
+        },
+        {
+          "expression": "30*45",
+          "expected": "1350"
+        },
+        {
+          "expression": "1*45",
+          "expected": "45"
+        }
+      ]
+    },
+    {
+      "id": "7(a)",
+      "section": "Mathematics",
+      "prompt": "Complete factor tree 51 with branches 3 and[ ].",
+      "steps": [
+        "51 / 3 = 17."
+      ],
+      "answer": "17",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "51 / 3",
+          "expected": "17"
+        }
+      ]
+    },
+    {
+      "id": "7(b)",
+      "section": "Mathematics",
+      "prompt": "Factor tree 30 splits 2 and 15;15 splits 3 and[ ].",
+      "steps": [
+        "15 / 3 = 5.",
+        "30=2 x 3 x 5."
+      ],
+      "answer": "5",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "15 / 3",
+          "expected": "5"
+        }
+      ]
+    },
+    {
+      "id": "8(a)",
+      "section": "Mathematics",
+      "prompt": "Pentagon has 5 equal sides 21 cm. Find perimeter.",
+      "steps": [
+        "5 x 21 = 105."
+      ],
+      "answer": "105 cm",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "5*21",
+          "expected": "105"
+        }
+      ]
+    },
+    {
+      "id": "8(b)",
+      "section": "Mathematics",
+      "prompt": "Isosceles triangle sides 8 cm,8 cm,9 cm. Perimeter?",
+      "steps": [
+        "8 + 8 + 9 = 25."
+      ],
+      "answer": "25 cm",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "8 + 8 + 9",
+          "expected": "25"
+        }
+      ]
+    },
+    {
+      "id": "8(c)",
+      "section": "Mathematics",
+      "prompt": "Coffee pictogram:July 5 triangles, October 9 triangles, each 108 kg. Difference?",
+      "steps": [
+        "9 - 5 = 4 symbols.",
+        "4 x 108 = 432."
+      ],
+      "answer": "432 kg",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "9 - 5",
+          "expected": "4"
+        },
+        {
+          "expression": "4*108",
+          "expected": "432"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Mathematics": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - HEAGTON Standard Five (V) Monthly Test July 2024",
+      "url": "https://darasahuru.ac.tz/heagton-standard-five-v-monthly-test-july-2024/"
+    }
+  ],
+  "limitations": [],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "d4e30cd5dbba10652703c8c985d57d87764e9541a021a7aff66710d030ae05ac"
+}

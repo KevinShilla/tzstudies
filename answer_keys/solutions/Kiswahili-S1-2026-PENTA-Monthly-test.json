@@ -1,0 +1,459 @@
+{
+  "exam": "Kiswahili-S1-2026-PENTA-Monthly-test.pdf",
+  "output": "Kiswahili-S1-2026-PENTA-Monthly-test-AnswerKey.pdf",
+  "sha256": "bbf8cc6aaaed61f20518d5173510af44f18114f05cfae33ea411d9b6f14197be",
+  "subject": "Kiswahili",
+  "level": "Standard One",
+  "year": "2026",
+  "code": "Not printed in source",
+  "board": "PENTA",
+  "exam_type": "Monthly test",
+  "question_count": "Vipengele 33 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "2",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 2.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "3",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 3.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "4",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 4.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "5",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 5.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "6",
+      "section": "Konsonanti",
+      "prompt": "Pigia mstari konsonanti katika Bafu.",
+      "steps": [
+        "Irabu ni a, e, i, o, u; herufi nyingine katika Bafu ni B na f.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B na f.",
+      "source_page": 2
+    },
+    {
+      "id": "7",
+      "section": "Konsonanti",
+      "prompt": "Pigia mstari konsonanti katika Maji.",
+      "steps": [
+        "Irabu ni a, e, i, o, u; herufi nyingine katika Maji ni M na j.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "M na j.",
+      "source_page": 2
+    },
+    {
+      "id": "8",
+      "section": "Konsonanti",
+      "prompt": "Pigia mstari konsonanti katika Kiatu.",
+      "steps": [
+        "Irabu ni a, e, i, o, u; herufi nyingine katika Kiatu ni K na t.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "K na t.",
+      "source_page": 2
+    },
+    {
+      "id": "9",
+      "section": "Silabi",
+      "prompt": "Unganisha Mi + me + a kuunda neno.",
+      "steps": [
+        "Soma silabi Mi + me + a kwa mpangilio.",
+        "Ziunganishe bila nafasi: Mimea."
+      ],
+      "answer": "Mimea.",
+      "source_page": 2
+    },
+    {
+      "id": "10",
+      "section": "Silabi",
+      "prompt": "Unganisha M + to + to kuunda neno.",
+      "steps": [
+        "Soma silabi M + to + to kwa mpangilio.",
+        "Ziunganishe bila nafasi: Mtoto."
+      ],
+      "answer": "Mtoto.",
+      "source_page": 2
+    },
+    {
+      "id": "11",
+      "section": "Silabi",
+      "prompt": "Unganisha Za + bi + bu kuunda neno.",
+      "steps": [
+        "Soma silabi Za + bi + bu kwa mpangilio.",
+        "Ziunganishe bila nafasi: Zabibu."
+      ],
+      "answer": "Zabibu.",
+      "source_page": 2
+    },
+    {
+      "id": "12",
+      "section": "Silabi",
+      "prompt": "Unganisha U + wa + nja + ni kuunda neno.",
+      "steps": [
+        "Soma silabi U + wa + nja + ni kwa mpangilio.",
+        "Ziunganishe bila nafasi: Uwanjani."
+      ],
+      "answer": "Uwanjani.",
+      "source_page": 2
+    },
+    {
+      "id": "13",
+      "section": "Irabu",
+      "prompt": "Tazama picha na ujaze irabu: mt__",
+      "steps": [
+        "Picha inaonyesha mti, hivyo jaza i.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "i: mti.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2026-PENTA-Monthly-test--13.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "14",
+      "section": "Irabu",
+      "prompt": "Tazama picha na ujaze irabu: zab__bu",
+      "steps": [
+        "Picha inaonyesha zabibu; irabu i inakamilisha neno.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "i: zabibu.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2026-PENTA-Monthly-test--14.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "15",
+      "section": "Irabu",
+      "prompt": "Tazama picha na ujaze irabu: kitab__",
+      "steps": [
+        "Kitabu humalizia irabu u.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "u: kitabu.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2026-PENTA-Monthly-test--15.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "16",
+      "section": "Irabu",
+      "prompt": "Tazama picha na ujaze irabu: m__za",
+      "steps": [
+        "Picha ni meza; jaza e.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "e: meza.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2026-PENTA-Monthly-test--16.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "17",
+      "section": "Irabu",
+      "prompt": "Tazama picha na ujaze irabu: b__ta",
+      "steps": [
+        "Picha ni bata; jaza a.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a: bata.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2026-PENTA-Monthly-test--17.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "18",
+      "section": "Kuonanisha picha",
+      "prompt": "Oanisha picha 18 na jina lake.",
+      "steps": [
+        "Picha 18 inaonyesha gogo, hivyo chora mstari kuelekea jina Gogo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Gogo.",
+      "source_page": 3,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2026-PENTA-Monthly-test--18.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 3."
+    },
+    {
+      "id": "19",
+      "section": "Kuonanisha picha",
+      "prompt": "Oanisha picha 19 na jina lake.",
+      "steps": [
+        "Picha 19 inaonyesha kisu, hivyo chora mstari kuelekea jina Kisu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kisu.",
+      "source_page": 3,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2026-PENTA-Monthly-test--19.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 3."
+    },
+    {
+      "id": "20",
+      "section": "Kuonanisha picha",
+      "prompt": "Oanisha picha 20 na jina lake.",
+      "steps": [
+        "Picha 20 inaonyesha mpira, hivyo chora mstari kuelekea jina Mpira.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mpira.",
+      "source_page": 3,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2026-PENTA-Monthly-test--20.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 3."
+    },
+    {
+      "id": "21",
+      "section": "Kuonanisha picha",
+      "prompt": "Oanisha picha 21 na jina lake.",
+      "steps": [
+        "Picha 21 inaonyesha kijiko, hivyo chora mstari kuelekea jina Kijiko.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kijiko.",
+      "source_page": 3,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2026-PENTA-Monthly-test--21.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 3."
+    },
+    {
+      "id": "22",
+      "section": "Kuonanisha picha",
+      "prompt": "Oanisha picha 22 na jina lake.",
+      "steps": [
+        "Picha 22 inaonyesha miguu, hivyo chora mstari kuelekea jina Miguu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Miguu.",
+      "source_page": 3,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2026-PENTA-Monthly-test--22.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 3."
+    },
+    {
+      "id": "23",
+      "section": "Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: shangazi",
+      "steps": [
+        "Badili kila herufi ya shangazi kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "SHANGAZI",
+      "source_page": 3
+    },
+    {
+      "id": "24",
+      "section": "Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: ubaoni",
+      "steps": [
+        "Badili kila herufi ya ubaoni kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "UBAONI",
+      "source_page": 3
+    },
+    {
+      "id": "25",
+      "section": "Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: daftari",
+      "steps": [
+        "Badili kila herufi ya daftari kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "DAFTARI",
+      "source_page": 3
+    },
+    {
+      "id": "26",
+      "section": "Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: kiatu",
+      "steps": [
+        "Badili kila herufi ya kiatu kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "KIATU",
+      "source_page": 3
+    },
+    {
+      "id": "27",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: Mazao.",
+      "steps": [
+        "Tambua herufi na silabi katika Mazao.",
+        "Unganisha sauti hizo na utamke neno Mazao kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: Mazao.",
+      "source_page": 4
+    },
+    {
+      "id": "28",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: Bamia.",
+      "steps": [
+        "Tambua herufi na silabi katika Bamia.",
+        "Unganisha sauti hizo na utamke neno Bamia kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: Bamia.",
+      "source_page": 4
+    },
+    {
+      "id": "29",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: Kitabu.",
+      "steps": [
+        "Tambua herufi na silabi katika Kitabu.",
+        "Unganisha sauti hizo na utamke neno Kitabu kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: Kitabu.",
+      "source_page": 4
+    },
+    {
+      "id": "30",
+      "section": "Kusoma sentensi",
+      "prompt": "Soma sentensi: Dada ana kioo.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Dada ana kioo.",
+      "source_page": 4,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi."
+    },
+    {
+      "id": "31",
+      "section": "Kusoma sentensi",
+      "prompt": "Soma sentensi: Nazi yake imeoza.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Nazi yake imeoza.",
+      "source_page": 4,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi."
+    },
+    {
+      "id": "32",
+      "section": "Kusoma sentensi",
+      "prompt": "Soma sentensi: Ua lile linanukia.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Ua lile linanukia.",
+      "source_page": 4,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi."
+    },
+    {
+      "id": "33",
+      "section": "Kusoma sentensi",
+      "prompt": "Soma sentensi: Kiatu kichafu.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Kiatu kichafu.",
+      "source_page": 4,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi."
+    }
+  ],
+  "summaries": {
+    "Imla": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Konsonanti": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Silabi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Irabu": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kuonanisha picha": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Herufi kubwa": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kusoma maneno": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kusoma sentensi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "PENTA Standard One Monthly Exam 2026",
+      "url": "https://darasahuru.ac.tz/penta-standard-one-monthly-exam-2026/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "Imla 1-5: maneno yatakayosomwa na mwalimu hayajachapishwa kwenye PDF."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "e54d957ed9e572dfa42d73c68aaaef03a0a83d884e459633351ff709ac280714"
+}

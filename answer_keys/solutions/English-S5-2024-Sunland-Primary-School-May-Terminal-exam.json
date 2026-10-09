@@ -1,0 +1,465 @@
+{
+  "exam": "English-S5-2024-Sunland-Primary-School-May-Terminal-exam.pdf",
+  "output": "English-S5-2024-Sunland-Primary-School-May-Terminal-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Five",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "Sunland Primary School",
+  "exam_type": "Terminal exam - May",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "be2b8ff03bf97fe8ee99cbe5f8cd080eda700917c6ec38319c002cc90f8ab3bc",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Listening and grammar",
+      "prompt": "Which disease is mentioned? (A HIV, B AIDS, C TB, D diarrhoea, E diabetes)",
+      "steps": [
+        "The page 4 script describes AIDS as caused by HIV.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. AIDS is intended; HIV is also named as the virus/infection.",
+      "source_page": 1
+    },
+    {
+      "id": "1(ii)",
+      "section": "Listening and grammar",
+      "prompt": "In which week was the lesson heard? (A next, B this, C first, D last, E second)",
+      "steps": [
+        "The printed script cannot distinguish this week from last week without the missing word.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "No unique prescribed answer: the script starts Week we had a lesson and omits the qualifier. If the teacher reads Last week, choose D.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iii)",
+      "section": "Listening and grammar",
+      "prompt": "Who can be affected? (A old people, B young people, C all kinds of people, D pregnant women, E children/elders only)",
+      "steps": [
+        "The script explicitly says this.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. People of all kinds.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iv)",
+      "section": "Listening and grammar",
+      "prompt": "How many transmission routes does the script mention? (A 2, B 4, C 5, D 6, E 3)",
+      "steps": [
+        "Count sexual intercourse, sharing contaminated sharp objects and unsafe blood transfusion.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Three.",
+      "source_page": 1
+    },
+    {
+      "id": "1(v)",
+      "section": "Listening and grammar",
+      "prompt": "How can HIV status be determined? (A transfusion, B intercourse, C hospital blood test, D looking, E exercise)",
+      "steps": [
+        "Testing establishes HIV status; AIDS is a clinical stage and cannot be diagnosed merely by looking at someone.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. HIV testing at a hospital is the intended answer.",
+      "source_page": 1
+    },
+    {
+      "id": "2(i)",
+      "section": "Listening and grammar",
+      "prompt": "Father took me ___ his car. (A on, B with, C in, D by, E at)",
+      "steps": [
+        "Use in with the specified enclosed vehicle his car.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. In.",
+      "source_page": 1
+    },
+    {
+      "id": "2(ii)",
+      "section": "Listening and grammar",
+      "prompt": "The T-shirt was ___ expensive than the trousers. (A much, B most, C difficult, D more, E more much)",
+      "steps": [
+        "Than calls for the comparative more expensive.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. More.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iii)",
+      "section": "Vocabulary",
+      "prompt": "The doctor ___ treats eyes sells spectacles. (A whom, B whose, C which, D that, E who)",
+      "steps": [
+        "Both can introduce a defining relative clause with a human subject.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Who or D. that.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Vocabulary",
+      "prompt": "She studies at Mkwakwani ___ school. (A girl's, B girls', C girl, D girls, E girls's)",
+      "steps": [
+        "Place the apostrophe after plural girls to mean a school for girls.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Girls' (expected plural possessive).",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Vocabulary",
+      "prompt": "Do not put ___ salt in my soup. (A most, B any, C much, D many, E more)",
+      "steps": [
+        "Salt is uncountable; the source context does not prescribe a unique quantity.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Much is intended for limiting quantity; B. any means no salt and E. more means no additional salt.",
+      "source_page": 2
+    },
+    {
+      "id": "3(i)",
+      "section": "Vocabulary",
+      "prompt": "Income comes from ___ cattle. Bank: greed, greet, street, feed, feel, breeding, bleeding, read, trembling.",
+      "steps": [
+        "Breeding cattle means raising them to reproduce.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Breeding.",
+      "source_page": 2
+    },
+    {
+      "id": "3(ii)",
+      "section": "Vocabulary",
+      "prompt": "She handed over a letter with a ___ hand.",
+      "steps": [
+        "Trembling describes a shaking hand.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Trembling.",
+      "source_page": 2
+    },
+    {
+      "id": "3(iii)",
+      "section": "Vocabulary",
+      "prompt": "Amina and Asha never ___ each other.",
+      "steps": [
+        "Greet is the base verb after the plural subject.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Greet.",
+      "source_page": 2
+    },
+    {
+      "id": "3(iv)",
+      "section": "Vocabulary",
+      "prompt": "A ___ hyena was invited to two parties.",
+      "steps": [
+        "The blank before hyena needs the adjective greedy.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Greedy (intended), but the bank supplies greed, a noun.",
+      "source_page": 2
+    },
+    {
+      "id": "3(v)",
+      "section": "Vocabulary",
+      "prompt": "Homeless children are called ___ children.",
+      "steps": [
+        "Street children is the phrase intended by the paper.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Street.",
+      "source_page": 2
+    },
+    {
+      "id": "4(i)",
+      "section": "Vocabulary",
+      "prompt": "Match scared: A humorous, B demolish, C perilous, D fearful, E elaborate.",
+      "steps": [
+        "Scared and fearful both mean afraid.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Fearful.",
+      "source_page": 2
+    },
+    {
+      "id": "4(ii)",
+      "section": "Vocabulary",
+      "prompt": "Match funny.",
+      "steps": [
+        "Both mean amusing.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Humorous.",
+      "source_page": 2
+    },
+    {
+      "id": "4(iii)",
+      "section": "Vocabulary",
+      "prompt": "Match explain.",
+      "steps": [
+        "To elaborate can explain in more detail.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Elaborate.",
+      "source_page": 2
+    },
+    {
+      "id": "4(iv)",
+      "section": "Vocabulary",
+      "prompt": "Match destroy.",
+      "steps": [
+        "Demolish means destroy or knock down.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Demolish.",
+      "source_page": 2
+    },
+    {
+      "id": "4(v)",
+      "section": "Vocabulary",
+      "prompt": "Match dangerous.",
+      "steps": [
+        "Perilous means dangerous.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Perilous.",
+      "source_page": 2
+    },
+    {
+      "id": "5(i)",
+      "section": "Composition and comprehension",
+      "prompt": "He had been ___ pupils. (monitor)",
+      "steps": [
+        "Had been requires ing for past perfect continuous.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Monitoring.",
+      "source_page": 3
+    },
+    {
+      "id": "5(ii)",
+      "section": "Composition and comprehension",
+      "prompt": "We have not ___ an injured lion. (see)",
+      "steps": [
+        "Have requires the past participle seen.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Seen.",
+      "source_page": 3
+    },
+    {
+      "id": "5(iii)",
+      "section": "Composition and comprehension",
+      "prompt": "We will not ___ him. (wait)",
+      "steps": [
+        "Will takes the base verb; wait needs for before the person awaited.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Wait; corrected full phrase: wait for him.",
+      "source_page": 3
+    },
+    {
+      "id": "5(iv)",
+      "section": "Composition and comprehension",
+      "prompt": "We are ___ the accident now. (witness)",
+      "steps": [
+        "Are requires ing for present continuous.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Witnessing.",
+      "source_page": 3
+    },
+    {
+      "id": "5(v)",
+      "section": "Composition and comprehension",
+      "prompt": "They always ___ books in their bags. (preserve)",
+      "steps": [
+        "The plural habitual subject takes the base form.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Preserve.",
+      "source_page": 3
+    },
+    {
+      "id": "6(i)",
+      "section": "Composition and comprehension",
+      "prompt": "What is a place where people go to vote called?",
+      "steps": [
+        "The last sentence gives this term.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A polling station.",
+      "source_page": 3
+    },
+    {
+      "id": "6(ii)",
+      "section": "Composition and comprehension",
+      "prompt": "Who are people going to elect according to the passage?",
+      "steps": [
+        "The passage states the election's offices.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Local government leaders, such as village chairpersons.",
+      "source_page": 3
+    },
+    {
+      "id": "6(iii)",
+      "section": "Composition and comprehension",
+      "prompt": "What will people hear from aspirants?",
+      "steps": [
+        "The passage describes their campaign speeches.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Persuasive words and promises about basic needs and social services.",
+      "source_page": 3
+    },
+    {
+      "id": "6(iv)",
+      "section": "Composition and comprehension",
+      "prompt": "Give one basic need promised in the passage.",
+      "steps": [
+        "Choose one of the three listed basic needs.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Example: food. Shelter or clothes also acceptable.",
+      "source_page": 3
+    },
+    {
+      "id": "6(v)",
+      "section": "Composition and comprehension",
+      "prompt": "When will people vote according to the passage?",
+      "steps": [
+        "Separate the passage's claim from the official historical date.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "October 2024 is the passage answer. Factual correction: the official local-government election date was 27 November 2024.",
+      "source_page": 3
+    },
+    {
+      "id": "7(i)",
+      "section": "Composition and comprehension",
+      "prompt": "Order with A-E: Nasra says Nice to meet you Emmy, how have you been?",
+      "steps": [
+        "The greeting follows introduction and reunion.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C.",
+      "source_page": 3
+    },
+    {
+      "id": "7(ii)",
+      "section": "Composition and comprehension",
+      "prompt": "Order: Nasra and Emmy have been friends for a long time.",
+      "steps": [
+        "Introduce the friends first.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A.",
+      "source_page": 3
+    },
+    {
+      "id": "7(iii)",
+      "section": "Composition and comprehension",
+      "prompt": "Order: One day they met after a long separation.",
+      "steps": [
+        "The meeting precedes the conversation.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B.",
+      "source_page": 3
+    },
+    {
+      "id": "7(iv)",
+      "section": "Composition and comprehension",
+      "prompt": "Order: Emmy waves goodbye as they leave.",
+      "steps": [
+        "Farewell closes the meeting.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E.",
+      "source_page": 3
+    },
+    {
+      "id": "7(v)",
+      "section": "Composition and comprehension",
+      "prompt": "Order: Emmy replies Nice to see you Nasra.",
+      "steps": [
+        "The reply follows Nasra's greeting.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D.",
+      "source_page": 3
+    }
+  ],
+  "summaries": {
+    "Listening and grammar": "Listen to the supplied teacher text and identify the exact detail asked for. Check spelling and sentence punctuation; missing scripts are explicitly identified.",
+    "Vocabulary": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Composition and comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "Standard Five Terminal Examination May 2024 Sunland Pre & Primary School",
+      "url": "https://darasahuru.ac.tz/standard-five-terminal-examination-may-2024-sunland-pre-primary-school/"
+    },
+    {
+      "title": "WHO: HIV and AIDS",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids"
+    },
+    {
+      "title": "TAMISEMI: local-government election date, 27 November 2024",
+      "url": "https://www.tamisemi.go.tz/new/uchaguzi-wa-serikali-za-mitaa-kufanyika-mwezi-novemba-27-2024-mhe-mchengerwa"
+    }
+  ],
+  "limitations": [
+    "1(ii): Listening script omits the word before Week, preventing a unique answer.",
+    "3(iv): Bank gives noun greed where adjective greedy is needed.",
+    "6(v): Passage election month is historically incorrect; the official date is supplied separately.",
+    "Listening script: AIDS is advanced HIV disease, not simply a high viral level; testing identifies HIV, and treatment can prevent progression."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)",
+    "7(v)"
+  ],
+  "question_count": "35 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "6c9da78d3c482a0ab3767c7bedf181df57ebad8590f1efa635207d59d01dd82d"
+}

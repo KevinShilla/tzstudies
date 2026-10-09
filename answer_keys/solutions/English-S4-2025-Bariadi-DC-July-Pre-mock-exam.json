@@ -1,0 +1,424 @@
+{
+  "exam": "English-S4-2025-Bariadi-DC-July-Pre-mock-exam.pdf",
+  "output": "English-S4-2025-Bariadi-DC-July-Pre-mock-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Four",
+  "year": "2025",
+  "code": "Not printed in source",
+  "board": "Bariadi Town Council (UMEKTA)",
+  "exam_type": "Pre-mock exam - July",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "f62807e064c18cff6dab1f0d9c30eb86da1f247ec99966aed96a9eabcb9ce28b",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence i.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(ii)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence ii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iii)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence iii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iv)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence iv.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(v)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence v.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "2(i)",
+      "section": "Vocabulary",
+      "prompt": "My brother flies an aeroplane. He is a ___. (A doctor, B tailor, C pilot, D fish man)",
+      "steps": [
+        "A pilot flies an aircraft.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Pilot.",
+      "source_page": 1
+    },
+    {
+      "id": "2(ii)",
+      "section": "Vocabulary",
+      "prompt": "___ is the meal taken in the afternoon. (A breakfast, B lunch, C dinner, D brunch)",
+      "steps": [
+        "Lunch is the usual midday or afternoon meal.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Lunch.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iii)",
+      "section": "Vocabulary",
+      "prompt": "What is the plural pronoun corresponding to she? (A shes, B shees, C they, D hers)",
+      "steps": [
+        "They refers to more than one person.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. They.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iv)",
+      "section": "Vocabulary",
+      "prompt": "The son of your aunt is your ___. (A uncle, B cousin, C nephew, D father)",
+      "steps": [
+        "Your parent's sibling's child is a cousin.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Cousin.",
+      "source_page": 1
+    },
+    {
+      "id": "2(v)",
+      "section": "Vocabulary",
+      "prompt": "We ___ on the bed. (A cook, B dig, C sit, D sleep)",
+      "steps": [
+        "Sleeping is the usual purpose of a bed, but sitting on a bed is also grammatical and sensible.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Sleep (intended); C. sit is also possible.",
+      "source_page": 1
+    },
+    {
+      "id": "2(vi)",
+      "section": "Grammar and composition",
+      "prompt": "Our English teacher ___ us to study hard every day. (A tell, B tells, C telling, D told)",
+      "steps": [
+        "The singular subject takes tells for a daily habit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Tells.",
+      "source_page": 2
+    },
+    {
+      "id": "2(vii)",
+      "section": "Grammar and composition",
+      "prompt": "Last week our team Dreams FC ___ the match. (A win, B won, C wins, D wined)",
+      "steps": [
+        "Last week requires the past tense of win, won.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Won.",
+      "source_page": 2
+    },
+    {
+      "id": "2(viii)",
+      "section": "Grammar and composition",
+      "prompt": "When I arrived, she warmly ___ me at her house. (A welcome, B welcome, C welcomed, D welcome)",
+      "steps": [
+        "The past action requires welcomed.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Welcomed.",
+      "source_page": 2
+    },
+    {
+      "id": "2(ix)",
+      "section": "Grammar and composition",
+      "prompt": "It was ___ when I slept. (A rain, B shall rains, C raining, D been raining)",
+      "steps": [
+        "Was raining forms the past continuous.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Raining.",
+      "source_page": 2
+    },
+    {
+      "id": "2(x)",
+      "section": "Grammar and composition",
+      "prompt": "He failed the English examination ___ he did not study hard. (A so, B because, C but, D and)",
+      "steps": [
+        "Because introduces the reason for failure.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Because.",
+      "source_page": 2
+    },
+    {
+      "id": "3(i)",
+      "section": "Grammar and composition",
+      "prompt": "Match sea with A meet, B buy, C knew, D see, E write.",
+      "steps": [
+        "Sea and see have the same pronunciation.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. See.",
+      "source_page": 2
+    },
+    {
+      "id": "3(ii)",
+      "section": "Grammar and composition",
+      "prompt": "Match right with the word of the same sound.",
+      "steps": [
+        "Right and write are homophones.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Write.",
+      "source_page": 2
+    },
+    {
+      "id": "3(iii)",
+      "section": "Grammar and composition",
+      "prompt": "Match meat with the word of the same sound.",
+      "steps": [
+        "Meat and meet are homophones.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Meet.",
+      "source_page": 2
+    },
+    {
+      "id": "3(iv)",
+      "section": "Grammar and composition",
+      "prompt": "Match new with the word of the same sound.",
+      "steps": [
+        "New and knew are homophones.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Knew.",
+      "source_page": 2
+    },
+    {
+      "id": "3(v)",
+      "section": "Grammar and composition",
+      "prompt": "Match bye with the word of the same sound.",
+      "steps": [
+        "Bye and buy are homophones.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Buy.",
+      "source_page": 2
+    },
+    {
+      "id": "4(i)",
+      "section": "Grammar and composition",
+      "prompt": "She is a ___ girl in our school. Arrange odog.",
+      "steps": [
+        "Rearrange o-d-o-g as g-o-o-d.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Good.",
+      "source_page": 2
+    },
+    {
+      "id": "4(ii)",
+      "section": "Grammar and composition",
+      "prompt": "Mary ___ to Bariadi last year. Arrange newt.",
+      "steps": [
+        "Rearrange the letters to the past tense went.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Went.",
+      "source_page": 2
+    },
+    {
+      "id": "4(iii)",
+      "section": "Grammar and composition",
+      "prompt": "She ___ an email. Arrange rtowe.",
+      "steps": [
+        "Use every letter once to make wrote.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Wrote.",
+      "source_page": 2
+    },
+    {
+      "id": "5(i)",
+      "section": "Grammar and composition",
+      "prompt": "John ___ early in the morning every day. (wake up)",
+      "steps": [
+        "A singular third-person subject takes wakes for a present habit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Wakes up.",
+      "source_page": 2
+    },
+    {
+      "id": "5(ii)",
+      "section": "Grammar and composition",
+      "prompt": "He ___ his teeth. (brush)",
+      "steps": [
+        "Add es to brush after he.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Brushes.",
+      "source_page": 2
+    },
+    {
+      "id": "5(iii)",
+      "section": "Grammar and composition",
+      "prompt": "Then he ___ into the garden to water plants. (go)",
+      "steps": [
+        "The singular habitual form of go is goes.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Goes.",
+      "source_page": 2
+    },
+    {
+      "id": "5(iv)",
+      "section": "Grammar and composition",
+      "prompt": "After finishing he ___ back home for breakfast. (come)",
+      "steps": [
+        "He takes comes in the simple present.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Comes.",
+      "source_page": 2
+    },
+    {
+      "id": "6(i)",
+      "section": "Comprehension",
+      "prompt": "What is Angel's school called?",
+      "steps": [
+        "The passage names the school.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Twendepamoja Primary School.",
+      "source_page": 3
+    },
+    {
+      "id": "6(ii)",
+      "section": "Comprehension",
+      "prompt": "How many members are in Angel's family?",
+      "steps": [
+        "Count father, mother, brother, sister and Angel.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Five.",
+      "source_page": 3
+    },
+    {
+      "id": "6(iii)",
+      "section": "Comprehension",
+      "prompt": "What is Angel's mother's name?",
+      "steps": [
+        "The passage explicitly names her.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Sikujua.",
+      "source_page": 3
+    },
+    {
+      "id": "6(iv)",
+      "section": "Comprehension",
+      "prompt": "What is Angel's young sister called?",
+      "steps": [
+        "The final family sentence names Agnes.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Agnes.",
+      "source_page": 3
+    },
+    {
+      "id": "6(v)",
+      "section": "Comprehension",
+      "prompt": "Masanja is Angel's ___.",
+      "steps": [
+        "The passage calls Masanja her father.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Father.",
+      "source_page": 3
+    }
+  ],
+  "summaries": {
+    "Source-limited items": "The required script, picture or other information is missing. Use the stated limitation and obtain the original material before expecting a unique answer.",
+    "Vocabulary": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Grammar and composition": "Follow a clear sequence and keep the tense consistent. Introduce people and events before their pronouns, actions and final outcome.",
+    "Comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "Bariadi (UMEKTA) Standard Four Premock Exams July 2025",
+      "url": "https://darasahuru.ac.tz/bariadi-umekta-standard-four-premock-exams-july-2025/"
+    }
+  ],
+  "limitations": [
+    "1(i): The teacher dictation words or audio are not included in this source.",
+    "1(ii): The teacher dictation words or audio are not included in this source.",
+    "1(iii): The teacher dictation words or audio are not included in this source.",
+    "1(iv): The teacher dictation words or audio are not included in this source.",
+    "1(v): The teacher dictation words or audio are not included in this source.",
+    "2(v): Both sit and sleep make meaningful sentences; sleep is the likely intended answer."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "2(vii)",
+    "2(viii)",
+    "2(ix)",
+    "2(x)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)"
+  ],
+  "question_count": "32 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "f6ac9ba4393b7ba3bfb5cd9fb8f75d439918450d34a23bfcdcbe9731524d7f86"
+}

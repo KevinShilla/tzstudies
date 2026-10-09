@@ -1,0 +1,455 @@
+{
+  "exam": "English-S5-2024-SPES-November-Annual-exam.pdf",
+  "output": "English-S5-2024-SPES-November-Annual-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Five",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "SPES",
+  "exam_type": "Annual exam - November",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "fdea370cc6d88aa1368718a4bfb021f62e72902a57df37819c03ea1f6851387f",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Listening and grammar",
+      "prompt": "Which lesson began every school day? (A English, B Science, C Mathematics, D Civic, E Health)",
+      "steps": [
+        "The included page 6 script says the day begins with mathematics.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Mathematics.",
+      "source_page": 2
+    },
+    {
+      "id": "1(ii)",
+      "section": "Listening and grammar",
+      "prompt": "What was life in class like? (A happy, B entertaining, C lazy, D risky, E interesting)",
+      "steps": [
+        "The script describes falling walls and a pupil hit by a brick.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Risky.",
+      "source_page": 2
+    },
+    {
+      "id": "1(iii)",
+      "section": "Listening and grammar",
+      "prompt": "How many mathematics lessons were there daily? (A one, B two, C three, D four, E five)",
+      "steps": [
+        "The script states two mathematics lessons every day.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Two.",
+      "source_page": 2
+    },
+    {
+      "id": "1(iv)",
+      "section": "Listening and grammar",
+      "prompt": "How many pupils were in the class? (A 25, B 35, C 15, D 5, E 45)",
+      "steps": [
+        "The script gives forty-five pupils.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Forty-five.",
+      "source_page": 2
+    },
+    {
+      "id": "1(v)",
+      "section": "Listening and grammar",
+      "prompt": "Which teachers did pupils like? (A lazy/talkative, B good/hardworking, C tall/kind/humble, D cruel/hardworking, E poor/tall/humble)",
+      "steps": [
+        "These exact qualities appear in the script.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Good and hardworking.",
+      "source_page": 2
+    },
+    {
+      "id": "2(i)",
+      "section": "Listening and grammar",
+      "prompt": "Have you ___ your homework? (A finish, B finished, C finishing, D finishes, E will finish)",
+      "steps": [
+        "Have requires the past participle finished.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Finished.",
+      "source_page": 2
+    },
+    {
+      "id": "2(ii)",
+      "section": "Listening and grammar",
+      "prompt": "Our teacher ___ come tomorrow. (A will, B shall, C is, D had, E was)",
+      "steps": [
+        "Tomorrow indicates a future event.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Will is the usual future form; shall is possible in formal determination.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Listening and grammar",
+      "prompt": "Choose a simple-present sentence. (A she went, B she has gone, C she goes every day, D she is going now, E she will go)",
+      "steps": [
+        "Goes expresses a regular present habit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. She goes to school every day.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Listening and grammar",
+      "prompt": "___ our parents go to market yesterday? (A do, B does, C had, D have, E did)",
+      "steps": [
+        "A simple-past question uses did plus base verb go.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Did.",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Vocabulary",
+      "prompt": "Does Doreen ___ English daily? (A speak, B speaks, C speaking, D spoken, E spoke)",
+      "steps": [
+        "Does takes the base verb.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Speak.",
+      "source_page": 3
+    },
+    {
+      "id": "3(i)",
+      "section": "Vocabulary",
+      "prompt": "They have studied here ___ 2019. (for, since, in, at)",
+      "steps": [
+        "Since introduces the starting year.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Since.",
+      "source_page": 3
+    },
+    {
+      "id": "3(ii)",
+      "section": "Vocabulary",
+      "prompt": "Choose ___ playing netball ___ resting. (either/or, neither/nor, both/and)",
+      "steps": [
+        "Choosing between alternatives uses either...or.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Either...or.",
+      "source_page": 3
+    },
+    {
+      "id": "3(iii)",
+      "section": "Vocabulary",
+      "prompt": "Father bought the red car ___ the black ones. (besides, beside, with)",
+      "steps": [
+        "Besides expresses an additional purchase, whereas beside locates the car and with can link purchases.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Besides (intended: in addition to); beside/with allow different meanings.",
+      "source_page": 3
+    },
+    {
+      "id": "3(iv)",
+      "section": "Vocabulary",
+      "prompt": "Yesterday ___ night pupils washed utensils. (in, on, at, of)",
+      "steps": [
+        "At night is the fixed phrase; yesterday at night is less idiomatic than last night.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "At; natural corrected wording: last night.",
+      "source_page": 3
+    },
+    {
+      "id": "3(v)",
+      "section": "Vocabulary",
+      "prompt": "This is the son ___ father had an accident. (who, whose, whom, which)",
+      "steps": [
+        "Whose shows possession of father.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Whose.",
+      "source_page": 3
+    },
+    {
+      "id": "4(i)",
+      "section": "Vocabulary",
+      "prompt": "Match library: A directions, B same-class person, C written information, D room/building with books, E eyewitness, F important invited person, G crowd, H shaking in fear.",
+      "steps": [
+        "A library houses a collection of books.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. A building or room containing books.",
+      "source_page": 3
+    },
+    {
+      "id": "4(ii)",
+      "section": "Vocabulary",
+      "prompt": "Match classmate.",
+      "steps": [
+        "Classmate identifies a fellow member of one's class.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. A person in the same class as you.",
+      "source_page": 3
+    },
+    {
+      "id": "4(iii)",
+      "section": "Vocabulary",
+      "prompt": "Match witness.",
+      "steps": [
+        "A witness observes an event.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. A person who sees something happening.",
+      "source_page": 3
+    },
+    {
+      "id": "4(iv)",
+      "section": "Vocabulary",
+      "prompt": "Match instructions.",
+      "steps": [
+        "Instructions give directions.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Words telling you what to do and how.",
+      "source_page": 3
+    },
+    {
+      "id": "4(v)",
+      "section": "Vocabulary",
+      "prompt": "Match guest of honour.",
+      "steps": [
+        "The guest is specially honoured.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "F. The most important person invited to an event.",
+      "source_page": 3
+    },
+    {
+      "id": "5(i)",
+      "section": "Vocabulary",
+      "prompt": "Washel is the son of my aunt. He is my ___.",
+      "steps": [
+        "Your aunt's child is your cousin.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Cousin.",
+      "source_page": 4
+    },
+    {
+      "id": "5(ii)",
+      "section": "Vocabulary",
+      "prompt": "Who sells fish at the market?",
+      "steps": [
+        "A fishmonger sells fish; a fisherman catches fish.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A fishmonger.",
+      "source_page": 4
+    },
+    {
+      "id": "5(iii)",
+      "section": "Vocabulary",
+      "prompt": "What is a place where meat is sold called?",
+      "steps": [
+        "The place selling meat is a butcher's shop.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A butcher's/butcher's shop/butchery.",
+      "source_page": 4
+    },
+    {
+      "id": "5(iv)",
+      "section": "Vocabulary",
+      "prompt": "Write the plural of child.",
+      "steps": [
+        "This is an irregular plural.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Children.",
+      "source_page": 4
+    },
+    {
+      "id": "5(v)",
+      "section": "Vocabulary",
+      "prompt": "Write the opposite of sell.",
+      "steps": [
+        "Buying and selling are opposite sides of a transaction.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Buy.",
+      "source_page": 4
+    },
+    {
+      "id": "6(i)",
+      "section": "Comprehension and composition",
+      "prompt": "When did Salma and Prince travel to Mtongani?",
+      "steps": [
+        "The opening gives the period of their visit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Last holiday.",
+      "source_page": 5
+    },
+    {
+      "id": "6(ii)",
+      "section": "Comprehension and composition",
+      "prompt": "Where did they live with their parents?",
+      "steps": [
+        "The first sentence names the home district.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Ludewa district.",
+      "source_page": 5
+    },
+    {
+      "id": "6(iii)",
+      "section": "Comprehension and composition",
+      "prompt": "What were the monkeys doing when the children saw them? (question prints Salma and Pendo)",
+      "steps": [
+        "The passage states this action; Prince is the second child's name in the story.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Jumping from one tree to another.",
+      "source_page": 5
+    },
+    {
+      "id": "6(iv)",
+      "section": "Comprehension and composition",
+      "prompt": "Who cooked for the children at Mtongani?",
+      "steps": [
+        "The final paragraph identifies the cook.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Their grandmother.",
+      "source_page": 5
+    },
+    {
+      "id": "6(v)",
+      "section": "Comprehension and composition",
+      "prompt": "Which river did the bus cross?",
+      "steps": [
+        "The second paragraph names it.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Rau River.",
+      "source_page": 5
+    },
+    {
+      "id": "7(i)",
+      "section": "Comprehension and composition",
+      "prompt": "Order with A-E: She saw wild animals, hills and valleys along the road.",
+      "steps": [
+        "This observation follows taking a window seat.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D.",
+      "source_page": 5
+    },
+    {
+      "id": "7(ii)",
+      "section": "Comprehension and composition",
+      "prompt": "Order: On the bus she sat near the window.",
+      "steps": [
+        "She boards after waking early.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C.",
+      "source_page": 5
+    },
+    {
+      "id": "7(iii)",
+      "section": "Comprehension and composition",
+      "prompt": "Order: On the travelling day she woke early to catch the bus.",
+      "steps": [
+        "The early start follows introduction of the visit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B.",
+      "source_page": 5
+    },
+    {
+      "id": "7(iv)",
+      "section": "Comprehension and composition",
+      "prompt": "Order: Last year Catherine visited her father in Mtwara.",
+      "steps": [
+        "Introduce the traveller, purpose and destination first.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A.",
+      "source_page": 5
+    },
+    {
+      "id": "7(v)",
+      "section": "Comprehension and composition",
+      "prompt": "Order: She reached her father's home safely.",
+      "steps": [
+        "Arrival completes the journey.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E.",
+      "source_page": 5
+    }
+  ],
+  "summaries": {
+    "Listening and grammar": "Listen to the supplied teacher text and identify the exact detail asked for. Check spelling and sentence punctuation; missing scripts are explicitly identified.",
+    "Vocabulary": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Comprehension and composition": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "SPES Standard Five Annual Examination November 2024",
+      "url": "https://darasahuru.ac.tz/spes-standard-five-annual-examination-november-2024/"
+    }
+  ],
+  "limitations": [
+    "3(iii): Besides is the intended addition meaning, but other printed prepositions have grammatical interpretations.",
+    "6(iii): Question changes Prince to Pendo; answer uses the passage event."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)",
+    "7(v)"
+  ],
+  "question_count": "35 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "cfa10a7b6b6c87d9eff8acc946e2aeb15b0a6a2b8315729ac1d4b391e3074210"
+}

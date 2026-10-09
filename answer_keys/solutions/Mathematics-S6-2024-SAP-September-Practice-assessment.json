@@ -1,0 +1,770 @@
+{
+  "exam": "Mathematics-S6-2024-SAP-September-Practice-assessment.pdf",
+  "output": "Mathematics-S6-2024-SAP-September-Practice-assessment-AnswerKey.pdf",
+  "sha256": "4ce1811ef25cbe3ebb6ad7990b8b825bec34d6b7dbcaf10af47b452a035fa34a",
+  "subject": "Hisabati",
+  "level": "Standard Six",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "SAP",
+  "exam_type": "Practice assessment - September",
+  "question_count": "33 numbered questions/subparts",
+  "language": "sw",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(ix)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "7(i)",
+    "7(ii)",
+    "8(i)",
+    "8(ii)",
+    "8(iii)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Hesabu",
+      "prompt": "Jumlisha 33522 + 804 + 1256 + 52.",
+      "steps": [
+        "33522 + 804 = 34326.",
+        "33522 + 804 + 1256 = 35582.",
+        "33522 + 804 + 1256 + 52 = 35634.",
+        "33522+804+1256+52 = 35634."
+      ],
+      "answer": "35634",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "33522+804+1256+52",
+          "expected": "35634"
+        },
+        {
+          "expression": "33522 + 804",
+          "expected": "34326"
+        },
+        {
+          "expression": "33522 + 804 + 1256",
+          "expected": "35582"
+        },
+        {
+          "expression": "33522 + 804 + 1256 + 52",
+          "expected": "35634"
+        }
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Hesabu",
+      "prompt": "Toa 2801627 - 890478.",
+      "steps": [
+        "1 nafasi: azima 1 kutoka nafasi inayofuata; 17 - 8 = 9.",
+        "10 nafasi: azima 1 kutoka nafasi inayofuata; 11 - 7 = 4.",
+        "100 nafasi: 5 - 4 = 1.",
+        "1000 nafasi: 1 - 0 = 1.",
+        "10000 nafasi: azima 1 kutoka nafasi inayofuata; 10 - 9 = 1.",
+        "100000 nafasi: azima 1 kutoka nafasi inayofuata; 17 - 8 = 9.",
+        "1000000 nafasi: 1 - 0 = 1.",
+        "2801627 - 890478 = 1911149; hakiki 1911149 + 890478 = 2801627."
+      ],
+      "answer": "1911149",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2801627-890478",
+          "expected": "1911149"
+        },
+        {
+          "expression": "17 - 8",
+          "expected": "9"
+        },
+        {
+          "expression": "11 - 7",
+          "expected": "4"
+        },
+        {
+          "expression": "5 - 4",
+          "expected": "1"
+        },
+        {
+          "expression": "1 - 0",
+          "expected": "1"
+        },
+        {
+          "expression": "10 - 9",
+          "expected": "1"
+        },
+        {
+          "expression": "2801627 - 890478",
+          "expected": "1911149"
+        },
+        {
+          "expression": "1911149 + 890478",
+          "expected": "2801627"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Hesabu",
+      "prompt": "Zidisha 4128 x 335.",
+      "steps": [
+        "Gawanya kwa thamani ya nafasi: 4000 x 335 = 1340000; 100 x 335 = 33500; 20 x 335 = 6700; 8 x 335 = 2680.",
+        "Jumlisha matokeo: 1382880."
+      ],
+      "answer": "1382880",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "4128*335",
+          "expected": "1382880"
+        },
+        {
+          "expression": "4000*335",
+          "expected": "1340000"
+        },
+        {
+          "expression": "100*335",
+          "expected": "33500"
+        },
+        {
+          "expression": "20*335",
+          "expected": "6700"
+        },
+        {
+          "expression": "8*335",
+          "expected": "2680"
+        }
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Hesabu",
+      "prompt": "Gawa 28532 kwa 48.",
+      "steps": [
+        "285 / 48: andika 5; 5 x 48 = 240; 285 - 240 = 45.",
+        "453 / 48: andika 9; 9 x 48 = 432; 453 - 432 = 21.",
+        "212 / 48: andika 4; 4 x 48 = 192; 212 - 192 = 20.",
+        "48 x 594 = 28512.",
+        "28532 / 48 = 7133/12; mgawanyo wa namba nzima: 594 baki 20."
+      ],
+      "answer": "7133/12",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "28532/48",
+          "expected": "7133/12"
+        },
+        {
+          "expression": "5*48",
+          "expected": "240"
+        },
+        {
+          "expression": "285 - 240",
+          "expected": "45"
+        },
+        {
+          "expression": "9*48",
+          "expected": "432"
+        },
+        {
+          "expression": "453 - 432",
+          "expected": "21"
+        },
+        {
+          "expression": "4*48",
+          "expected": "192"
+        },
+        {
+          "expression": "212 - 192",
+          "expected": "20"
+        },
+        {
+          "expression": "48*594",
+          "expected": "28512"
+        },
+        {
+          "expression": "28532 / 48",
+          "expected": "7133/12"
+        }
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Hisabati",
+      "prompt": "Toa 56.52 - 18.8.",
+      "steps": [
+        "Andika 18.80.",
+        "Azima 1 kutoka namba nzima 56; ubaki 55 na sehemu ya desimali 1.52.",
+        "Sehemu ya desimali: 52/100 + 100/100 - 80/100 = 72/100; namba nzima: 55 - 18 = 37."
+      ],
+      "answer": "37.72",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "56.52-18.8",
+          "expected": "943/25"
+        },
+        {
+          "expression": "52/100+100/100-80/100",
+          "expected": "18/25"
+        },
+        {
+          "expression": "55-18",
+          "expected": "37"
+        }
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Hisabati",
+      "prompt": "Kokotoa 4 + (-4) + (-1).",
+      "steps": [
+        "4 na -4 hufutana, hivyo hubaki -1."
+      ],
+      "answer": "-1",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "4+(-4)+(-1)",
+          "expected": "-1"
+        }
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Hisabati",
+      "prompt": "Toa 20 18/19 - 1 9/19.",
+      "steps": [
+        "Namba nzima: 20 - 1 = 19.",
+        "Sehemu: 18/19 - 9/19 = 9/19."
+      ],
+      "answer": "19 9/19",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "(20+18/19)-(1+9/19)",
+          "expected": "370/19"
+        },
+        {
+          "expression": "20-1",
+          "expected": "19"
+        },
+        {
+          "expression": "18/19-9/19",
+          "expected": "9/19"
+        }
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Hisabati",
+      "prompt": "Jumlisha 3 1/7 + 10 7/7.",
+      "steps": [
+        "10 7/7 = 11.",
+        "3 + 11 = 14; ongeza 1/7."
+      ],
+      "answer": "14 1/7",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "3+1/7+10+7/7",
+          "expected": "99/7"
+        },
+        {
+          "expression": "3+11",
+          "expected": "14"
+        }
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Hisabati",
+      "prompt": "Gawa 1 2/3 kwa 2 1/4.",
+      "steps": [
+        "Badili namba mchanganyiko kuwa 5/3 na 9/4.",
+        "Zidisha (5/3) x (4/9) = 20/27."
+      ],
+      "answer": "20/27",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "(1+2/3)/(2+1/4)",
+          "expected": "20/27"
+        },
+        {
+          "expression": "(5/3)*(4/9)",
+          "expected": "20/27"
+        }
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Hisabati",
+      "prompt": "Zidisha 0.3 x 41.5.",
+      "steps": [
+        "3 x 415 = 1245.",
+        "Jumla ya nafasi za desimali ni 2; weka nukta baada ya kuhesabu nafasi 2 kutoka kulia."
+      ],
+      "answer": "12.45",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "0.3*41.5",
+          "expected": "249/20"
+        },
+        {
+          "expression": "3*415",
+          "expected": "1245"
+        }
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Hisabati",
+      "prompt": "Fafanua 8306 kwa thamani za nafasi.",
+      "steps": [
+        "Tenga maelfu 8, mamia 3, makumi 0 na mamoja 6."
+      ],
+      "answer": "8000 + 300 + 0 + 6",
+      "source_page": 2
+    },
+    {
+      "id": "2(ii)",
+      "section": "Hisabati",
+      "prompt": "Endeleza mpangilio: 93, 75, 57, 39, [ ].",
+      "steps": [
+        "Punguza 18; 39 - 18 = 21."
+      ],
+      "answer": "21",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "39 - 18",
+          "expected": "21"
+        }
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Hisabati",
+      "prompt": "Andika namba yenye maelfu 8, mamoja 6, mamia 4, makumi 5 na makumi elfu 2.",
+      "steps": [
+        "20000 + 8000 + 400 + 50 + 6 = 28456."
+      ],
+      "answer": "28456",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "20000 + 8000 + 400 + 50 + 6",
+          "expected": "28456"
+        }
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Hisabati",
+      "prompt": "Masalu ana maembe 88 na anauza 1/8 yake. Ameuza maembe mangapi?",
+      "steps": [
+        "88 / 8 = 11."
+      ],
+      "answer": "Maembe 11",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "88 / 8",
+          "expected": "11"
+        }
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Hisabati",
+      "prompt": "Taja vigawe vya 5 kati ya 30 na 47.",
+      "steps": [
+        "35, 40 na 45 hugawanyika kwa 5.",
+        "30 huongezwa ikiwa ncha ya mwanzo imekusudiwa kujumuishwa."
+      ],
+      "answer": "35, 40, 45 (na 30 ikiwa ncha ya 30 imejumuishwa).",
+      "source_page": 3
+    },
+    {
+      "id": "2(vi)",
+      "section": "Hisabati",
+      "prompt": "Tafuta K.D.S. ya 7 na 4.",
+      "steps": [
+        "7 ni namba tasa; 4 = 2².",
+        "7 x 4 = 28."
+      ],
+      "answer": "28",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "7*4",
+          "expected": "28"
+        }
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Hisabati",
+      "prompt": "Umri wa bibi ni kipeuo cha pili cha 625. Ana umri gani?",
+      "steps": [
+        "25 x 25 = 625."
+      ],
+      "answer": "Miaka 25",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "25*25",
+          "expected": "625"
+        }
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Hisabati",
+      "prompt": "Chupa moja ina ml 350. Chupa 24 zina lita ngapi?",
+      "steps": [
+        "350 x 24 = 8400 ml.",
+        "8400 / 1000 = 8.4."
+      ],
+      "answer": "Lita 8.4",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "350*24",
+          "expected": "8400"
+        },
+        {
+          "expression": "8400 / 1000",
+          "expected": "42/5"
+        }
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Hisabati",
+      "prompt": "Ni mwaka upi mfupi kati ya 1996, 2004, 1884 na 1994?",
+      "steps": [
+        "Miaka 1996, 2004 na 1884 hugawanyika kwa 4 na ina siku 366.",
+        "1994 haigawanyiki kwa 4 na ina siku 365."
+      ],
+      "answer": "1994",
+      "source_page": 3
+    },
+    {
+      "id": "4(i)",
+      "section": "Hisabati",
+      "prompt": "Rahisisha 6 a²b / 3 ab.",
+      "steps": [
+        "6/3 = 2; a²/a = a; b/b = 1, kwa a na b zisizo sifuri."
+      ],
+      "answer": "2 a, kwa a na b zisizo sifuri.",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "6/3",
+          "expected": "2"
+        }
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Hisabati",
+      "prompt": "Karibisha 2349256 kwa maelfu ya karibu.",
+      "steps": [
+        "Tarakimu ya mamia ni 2, ambayo ni ndogo kuliko 5; badili 256 kuwa 000."
+      ],
+      "answer": "2349000",
+      "source_page": 3
+    },
+    {
+      "id": "4(iii)",
+      "section": "Hisabati",
+      "prompt": "Badili 12 1/2% kuwa sehemu rahisi.",
+      "steps": [
+        "12.5/100 = 125/1000.",
+        "Gawa kwa 125 kupata 1/8."
+      ],
+      "answer": "1/8",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "12.5/100",
+          "expected": "1/8"
+        }
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Hisabati",
+      "prompt": "Wanafunzi 5 wanapishana kwa kimo cha 8 cm; mrefu zaidi ana kimo cha 134 cm. Mfupi zaidi ana kimo gani?",
+      "steps": [
+        "Katika mpangilio wa wanafunzi 5, kuna nafasi 4 kati yao.",
+        "4 x 8 = 32.",
+        "134 - 32 = 102."
+      ],
+      "answer": "102 cm",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "4*8",
+          "expected": "32"
+        },
+        {
+          "expression": "134 - 32",
+          "expected": "102"
+        }
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Hisabati",
+      "prompt": "5/8 ya wanafunzi wamefaulu na 42 wamefeli. Wanafunzi wote ni wangapi?",
+      "steps": [
+        "Sehemu ya waliofeli: 1 - 5/8 = 3/8.",
+        "42 / 3 = 14 kwa sehemu ya 1/8.",
+        "14 x 8 = 112."
+      ],
+      "answer": "Wanafunzi 112",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "1-5/8",
+          "expected": "3/8"
+        },
+        {
+          "expression": "42 / 3",
+          "expected": "14"
+        },
+        {
+          "expression": "14*8",
+          "expected": "112"
+        }
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Hisabati",
+      "prompt": "Kadiria 9.9944 kwa nafasi 3 za desimali.",
+      "steps": [
+        "Tarakimu ya nafasi ya nne ni 4, ambayo ni ndogo kuliko 5; hifadhi 9.994."
+      ],
+      "answer": "9.994",
+      "source_page": 3
+    },
+    {
+      "id": "6(i)",
+      "section": "Hisabati",
+      "prompt": "Maria anatakiwa kufika saa 1:30, lakini anafika saa 2:20. Amechelewa kwa dakika ngapi?",
+      "steps": [
+        "1:30 hadi 2:00 ni dakika 30; hadi 2:20 ni dakika 20.",
+        "30 + 20 = 50."
+      ],
+      "answer": "Dakika 50",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "30 + 20",
+          "expected": "50"
+        }
+      ]
+    },
+    {
+      "id": "6(ii)",
+      "section": "Hisabati",
+      "prompt": "Mbao 2 zina jumla ya urefu wa 10 m; moja ina urefu wa 3.5 m. Nyingine ina urefu gani?",
+      "steps": [
+        "10 - 3.5 = 6.5."
+      ],
+      "answer": "6.5 m",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "10 - 3.5",
+          "expected": "13/2"
+        }
+      ]
+    },
+    {
+      "id": "6(iii)",
+      "section": "Hesabu",
+      "prompt": "Doti 44 zinauzwa kwa shilingi 12500 kila moja. Bei ya jumla ni kiasi gani?",
+      "steps": [
+        "Gawanya kwa thamani ya nafasi: 10000 x 44 = 440000; 2000 x 44 = 88000; 500 x 44 = 22000.",
+        "Jumlisha matokeo: 550000."
+      ],
+      "answer": "550000 shilingi",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "12500*44",
+          "expected": "550000"
+        },
+        {
+          "expression": "10000*44",
+          "expected": "440000"
+        },
+        {
+          "expression": "2000*44",
+          "expected": "88000"
+        },
+        {
+          "expression": "500*44",
+          "expected": "22000"
+        }
+      ]
+    },
+    {
+      "id": "7(i)",
+      "section": "Hisabati",
+      "prompt": "Mahudhurio ni Jumatatu 330, Jumanne 350, Jumatano 340, Alhamisi 300 na Ijumaa 280. Tafuta wastani.",
+      "steps": [
+        "330 + 350 + 340 + 300 + 280 = 1600.",
+        "1600 / 5 = 320."
+      ],
+      "answer": "Wanafunzi 320",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "330+350+340+300+280",
+          "expected": "1600"
+        },
+        {
+          "expression": "1600 / 5",
+          "expected": "320"
+        }
+      ]
+    },
+    {
+      "id": "7(ii)",
+      "section": "Hisabati",
+      "prompt": "Matofali 1500 yanauzwa kwa Sh 50 kila moja, mifuko 10 ya saruji kwa Sh 14500 kila mmoja na mabati 5 kwa Sh 11500 kila moja. Tafuta jumla.",
+      "steps": [
+        "1500 x 50 = 75000; 10 x 14500 = 145000; 5 x 11500 = 57500.",
+        "75000 + 145000 + 57500 = 277500."
+      ],
+      "answer": "Sh 277500",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "1500*50",
+          "expected": "75000"
+        },
+        {
+          "expression": "10*14500",
+          "expected": "145000"
+        },
+        {
+          "expression": "5*11500",
+          "expected": "57500"
+        },
+        {
+          "expression": "75000 + 145000 + 57500",
+          "expected": "277500"
+        }
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Hisabati",
+      "prompt": "Tafuta eneo la trapezia: AE = 3 cm, EF = 7 cm, FB = 3 cm, urefu wa wima CF = 14 cm na DC = 7 cm; AD pia imeandikwa 14 cm.",
+      "steps": [
+        "Kitako cha juu: 3 + 7 + 3 = 13 cm; kitako cha chini ni 7 cm.",
+        "Eneo = (13 + 7) x 14 / 2 = 140.",
+        "Urefu wa AD wa 14 unapingana na jiometri yenye umbali wa mlalo wa 3 na urefu wa wima wa 14; eneo linalokusudiwa hutumia urefu wa wima wa 14."
+      ],
+      "answer": "140 cm² kwa kutumia vitako na urefu wa wima.",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "(3+7+3+7)*14/2",
+          "expected": "140"
+        },
+        {
+          "expression": "3+7+3",
+          "expected": "13"
+        },
+        {
+          "expression": "(13+7)*14/2",
+          "expected": "140"
+        }
+      ]
+    },
+    {
+      "id": "8(ii)",
+      "section": "Hisabati",
+      "prompt": "Pembetatu yenye pembe mraba ina eneo la 36 cm² na urefu wa wima wa 6 cm. Kitako kina urefu gani?",
+      "steps": [
+        "Eneo = kitako x urefu wa wima / 2.",
+        "Kitako = 36 x 2 / 6 = 12."
+      ],
+      "answer": "12 cm",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "36*2 / 6",
+          "expected": "12"
+        }
+      ]
+    },
+    {
+      "id": "8(iii)",
+      "section": "Hisabati",
+      "prompt": "Mstatili una eneo la 88 cm² na upande mmoja wa 11 cm. Upande mwingine una urefu gani?",
+      "steps": [
+        "88 / 11 = 8."
+      ],
+      "answer": "8 cm",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "88 / 11",
+          "expected": "8"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Hesabu": "Soma namba na vipimo kwa makini. Panga tarakimu kwa nafasi na hakikisha kwa tendo la kinyume. Katika picha, hesabu vitu vilivyoulizwa tu.",
+    "Hisabati": "Soma namba na vipimo kwa makini. Panga tarakimu kwa nafasi na hakikisha kwa tendo la kinyume. Katika picha, hesabu vitu vilivyoulizwa tu."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - SAP Standard Six (Darasa La Sita) Exams With Marking Schemes September 2024 - Kiswahili Medium Schools",
+      "url": "https://darasahuru.ac.tz/sap-standard-six-darasa-la-sita-exams-with-marking-schemes-september-2024-kiswahili-medium-schools/"
+    }
+  ],
+  "limitations": [
+    "8(i) upande mshazari AD wa 14 cm haupatani na urefu wa wima wa 14 cm na umbali wa mlalo wa 3 cm; eneo la 140 cm² hutumia vitako na urefu wa wima vilivyoandikwa.",
+    "2(v) neno \"kati\" limefasiriwa bila kujumuisha ncha ya 30; tafsiri inayojumuisha 30 pia imeelezwa."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "c255d2e22bd7d9e70f4ad3fdfd00bf0294b628649c0f29695851d5561921a097"
+}

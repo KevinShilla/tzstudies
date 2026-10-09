@@ -1,0 +1,645 @@
+{
+  "exam": "English-S2-2023-Mbezi-Bwa-January-Monthly-test.pdf",
+  "output": "English-S2-2023-Mbezi-Bwa-January-Monthly-test-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Two",
+  "year": "2023",
+  "code": "Not printed in source",
+  "board": "Mbezi Bwa",
+  "exam_type": "Monthly test - January",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "4aafcef54301bb5f247c470cdd4c0457e313d5910376ddec60d751ac0cdc9781",
+  "questions": [
+    {
+      "id": "R1",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: The bell rings.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: The bell rings.",
+      "source_page": 1
+    },
+    {
+      "id": "R2",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: It is time for school.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: It is time for school.",
+      "source_page": 1
+    },
+    {
+      "id": "R3",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: The teacher gives children books and pencils.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: The teacher gives children books and pencils.",
+      "source_page": 1
+    },
+    {
+      "id": "R4",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: They draw nice pictures.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: They draw nice pictures.",
+      "source_page": 1
+    },
+    {
+      "id": "R5",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: Juma draws a cat and a basket.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Juma draws a cat and a basket.",
+      "source_page": 1
+    },
+    {
+      "id": "R6",
+      "section": "Subject and verb",
+      "prompt": "Use has or have: I ___ many friends.",
+      "steps": [
+        "Use has with a singular third-person subject; have with I or we.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "have.",
+      "source_page": 1
+    },
+    {
+      "id": "R7",
+      "section": "Subject and verb",
+      "prompt": "Use has or have: A bird ___ wings.",
+      "steps": [
+        "Use has with a singular third-person subject; have with I or we.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "has.",
+      "source_page": 1
+    },
+    {
+      "id": "R8",
+      "section": "Subject and verb",
+      "prompt": "Use has or have: We ___ food at home.",
+      "steps": [
+        "Use has with a singular third-person subject; have with I or we.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "have.",
+      "source_page": 2
+    },
+    {
+      "id": "R9",
+      "section": "Subject and verb",
+      "prompt": "Use has or have: Ashura ___ good handwriting.",
+      "steps": [
+        "Use has with a singular third-person subject; have with I or we.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "has.",
+      "source_page": 2
+    },
+    {
+      "id": "R10",
+      "section": "Subject and verb",
+      "prompt": "Use has or have: It ___ a big bone.",
+      "steps": [
+        "Use has with a singular third-person subject; have with I or we.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "has.",
+      "source_page": 2
+    },
+    {
+      "id": "R11",
+      "section": "Opposites",
+      "prompt": "Write the opposite/counterpart of Short.",
+      "steps": [
+        "Use tall for height or long for length.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Tall/long.",
+      "source_page": 2
+    },
+    {
+      "id": "R12",
+      "section": "Opposites",
+      "prompt": "Write the opposite/counterpart of White.",
+      "steps": [
+        "Black is the contrasting colour.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Black.",
+      "source_page": 2
+    },
+    {
+      "id": "R13",
+      "section": "Opposites",
+      "prompt": "Write the opposite/counterpart of King.",
+      "steps": [
+        "Queen is the female counterpart of king, rather than an antonym.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Queen.",
+      "source_page": 2
+    },
+    {
+      "id": "R14",
+      "section": "Opposites",
+      "prompt": "Write the opposite/counterpart of Young.",
+      "steps": [
+        "Old contrasts with young in age.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Old.",
+      "source_page": 2
+    },
+    {
+      "id": "R15",
+      "section": "Opposites",
+      "prompt": "Write the opposite/counterpart of Bottom.",
+      "steps": [
+        "Top is the opposite position.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Top.",
+      "source_page": 2
+    },
+    {
+      "id": "R16",
+      "section": "Spelling",
+      "prompt": "Write a word with the spelling oa.",
+      "steps": [
+        "The word boat contains the adjacent letters oa. Other correctly spelled examples are acceptable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Example: boat.",
+      "source_page": 2
+    },
+    {
+      "id": "R17",
+      "section": "Spelling",
+      "prompt": "Write a word with the spelling oa.",
+      "steps": [
+        "The word coat contains the adjacent letters oa. Other correctly spelled examples are acceptable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Example: coat.",
+      "source_page": 2
+    },
+    {
+      "id": "R18",
+      "section": "Spelling",
+      "prompt": "Write a word with the spelling oa.",
+      "steps": [
+        "The word road contains the adjacent letters oa. Other correctly spelled examples are acceptable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Example: road.",
+      "source_page": 2
+    },
+    {
+      "id": "R19",
+      "section": "Spelling",
+      "prompt": "Write a word with the spelling oa.",
+      "steps": [
+        "The word soap contains the adjacent letters oa. Other correctly spelled examples are acceptable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Example: soap.",
+      "source_page": 2
+    },
+    {
+      "id": "R20",
+      "section": "Spelling",
+      "prompt": "Write a word with the spelling oa.",
+      "steps": [
+        "The word goat contains the adjacent letters oa. Other correctly spelled examples are acceptable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Example: goat.",
+      "source_page": 3
+    },
+    {
+      "id": "R21",
+      "section": "Comprehension",
+      "prompt": "What is the title of the story?",
+      "steps": [
+        "Read the heading above the passage.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Musa's Gift.",
+      "source_page": 3
+    },
+    {
+      "id": "R22",
+      "section": "Comprehension",
+      "prompt": "What are the colours of Musa's bicycle?",
+      "steps": [
+        "The second sentence describes the colours.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Black and red.",
+      "source_page": 3
+    },
+    {
+      "id": "R23",
+      "section": "Comprehension",
+      "prompt": "Who gave Musa a bicycle?",
+      "steps": [
+        "The bicycle is a birthday gift from his aunt.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "His aunt.",
+      "source_page": 3
+    },
+    {
+      "id": "R24",
+      "section": "Comprehension",
+      "prompt": "Where does Musa keep his bicycle?",
+      "steps": [
+        "The passage explicitly states this location.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Behind the big house.",
+      "source_page": 3
+    },
+    {
+      "id": "R25",
+      "section": "Comprehension",
+      "prompt": "Musa's bicycle is new but mine is ___.",
+      "steps": [
+        "But introduces the opposite of new.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Old.",
+      "source_page": 3
+    },
+    {
+      "id": "W1",
+      "section": "Source-limited items",
+      "prompt": "Write dictation item 1.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 4
+    },
+    {
+      "id": "W2",
+      "section": "Source-limited items",
+      "prompt": "Write dictation item 2.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 4
+    },
+    {
+      "id": "W3",
+      "section": "Source-limited items",
+      "prompt": "Write dictation item 3.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 4
+    },
+    {
+      "id": "W4",
+      "section": "Source-limited items",
+      "prompt": "Write dictation item 4.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 4
+    },
+    {
+      "id": "W5",
+      "section": "Source-limited items",
+      "prompt": "Write dictation item 5.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 4
+    },
+    {
+      "id": "W6",
+      "section": "Vocabulary and grammar",
+      "prompt": "My hair is ___. (a blue, b red, c black)",
+      "steps": [
+        "Among the given choices, black is the typical intended hair colour; actual people's hair varies.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "c. Black (intended common natural colour).",
+      "source_page": 5
+    },
+    {
+      "id": "W7",
+      "section": "Vocabulary and grammar",
+      "prompt": "There are ___ months in a year. (a six, b twelve, c seven)",
+      "steps": [
+        "Count the twelve calendar months from January to December.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "b. Twelve.",
+      "source_page": 5
+    },
+    {
+      "id": "W8",
+      "section": "Vocabulary and grammar",
+      "prompt": "Charcoal is black but ice is ___. (a yellow, b white, c red)",
+      "steps": [
+        "Crushed or frosty ice looks white; pure clear ice is transparent, so the source simplifies this comparison.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "b. White (intended).",
+      "source_page": 5
+    },
+    {
+      "id": "W9",
+      "section": "Vocabulary and grammar",
+      "prompt": "Regina is ___ clothes. (a washing, b wash, c washed)",
+      "steps": [
+        "Is requires the -ing form for an ongoing action.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "a. Washing.",
+      "source_page": 5
+    },
+    {
+      "id": "W10",
+      "section": "Vocabulary and grammar",
+      "prompt": "A giraffe ___ a long neck. (a has, b have, c was)",
+      "steps": [
+        "A giraffe is singular and requires has.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "a. Has.",
+      "source_page": 5
+    },
+    {
+      "id": "W11",
+      "section": "Present continuous",
+      "prompt": "Lulu is ___ (dance).",
+      "steps": [
+        "Drop the final e before adding ing.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "dancing.",
+      "source_page": 5
+    },
+    {
+      "id": "W12",
+      "section": "Present continuous",
+      "prompt": "The teacher is ___ reading skills (teach).",
+      "steps": [
+        "Add ing to teach.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "teaching.",
+      "source_page": 5
+    },
+    {
+      "id": "W13",
+      "section": "Present continuous",
+      "prompt": "I am ___ flowers (water).",
+      "steps": [
+        "Add ing to water.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "watering.",
+      "source_page": 5
+    },
+    {
+      "id": "W14",
+      "section": "Present continuous",
+      "prompt": "The baby is ___ (cry).",
+      "steps": [
+        "Keep y and add ing to cry.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "crying.",
+      "source_page": 5
+    },
+    {
+      "id": "W15",
+      "section": "Present continuous",
+      "prompt": "It is ___ now (rain).",
+      "steps": [
+        "Add ing to rain.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "raining.",
+      "source_page": 5
+    },
+    {
+      "id": "W16",
+      "section": "Punctuation",
+      "prompt": "Add a full stop or question mark: Where is your bag",
+      "steps": [
+        "A direct question ends in ?; a statement ends in a full stop.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Where is your bag?",
+      "source_page": 5
+    },
+    {
+      "id": "W17",
+      "section": "Punctuation",
+      "prompt": "Add a full stop or question mark: Jesse has a mango and an orange",
+      "steps": [
+        "A direct question ends in ?; a statement ends in a full stop.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Jesse has a mango and an orange.",
+      "source_page": 5
+    },
+    {
+      "id": "W18",
+      "section": "Punctuation",
+      "prompt": "Add a full stop or question mark: Do you have money",
+      "steps": [
+        "A direct question ends in ?; a statement ends in a full stop.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Do you have money?",
+      "source_page": 6
+    },
+    {
+      "id": "W19",
+      "section": "Punctuation",
+      "prompt": "Add a full stop or question mark: Can you play with a snake",
+      "steps": [
+        "A direct question ends in ?; a statement ends in a full stop.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Can you play with a snake?",
+      "source_page": 6
+    },
+    {
+      "id": "W20",
+      "section": "Punctuation",
+      "prompt": "Add a full stop or question mark: That is a broom",
+      "steps": [
+        "A direct question ends in ?; a statement ends in a full stop.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "That is a broom.",
+      "source_page": 6
+    },
+    {
+      "id": "W21",
+      "section": "Picture vocabulary",
+      "prompt": "Name picture 21. The source illustration shows a long straight measuring strip with scale marks.",
+      "steps": [
+        "The picture shows ruler. Identify its shape and spell the name.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Ruler.",
+      "source_page": 6
+    },
+    {
+      "id": "W22",
+      "section": "Picture vocabulary",
+      "prompt": "Name picture 22. The source illustration shows a dwelling with a roof and doorway.",
+      "steps": [
+        "The picture shows house. Identify its shape and spell the name.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "House.",
+      "source_page": 6
+    },
+    {
+      "id": "W23",
+      "section": "Picture vocabulary",
+      "prompt": "Name picture 23. The source illustration shows a hollow hanging object that rings.",
+      "steps": [
+        "The picture shows bell. Identify its shape and spell the name.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Bell.",
+      "source_page": 6
+    },
+    {
+      "id": "W24",
+      "section": "Picture vocabulary",
+      "prompt": "Name picture 24. The source illustration shows two blossoms on a leafy stalk.",
+      "steps": [
+        "The picture shows flowers. Identify its shape and spell the name.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Flowers.",
+      "source_page": 6
+    },
+    {
+      "id": "W25",
+      "section": "Picture vocabulary",
+      "prompt": "Name picture 25. The source illustration shows a cylindrical open container with a carrying handle.",
+      "steps": [
+        "The picture shows bucket. Identify its shape and spell the name.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Bucket.",
+      "source_page": 6
+    }
+  ],
+  "summaries": {
+    "Oral reading": "Read aloud in the printed order. Pronounce words clearly and pause at punctuation. Teachers assess accuracy and fluency; the printed text is the oral response.",
+    "Subject and verb": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Opposites": "Choose the meaning required by the sentence, then give the corresponding opposite or counterpart. Keep the same grammatical form.",
+    "Spelling": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations.",
+    "Source-limited items": "The required script, picture or other information is missing. Use the stated limitation and obtain the original material before expecting a unique answer.",
+    "Vocabulary and grammar": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Present continuous": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Punctuation": "Statements end with full stops and questions with question marks. Use commas for list items and exclamation marks where strong feeling is expressed.",
+    "Picture vocabulary": "Observe the pictured object or action. Name its identifying features and use correct spelling; action sentences use is or are with an ing verb."
+  },
+  "references": [
+    {
+      "title": "Standard Two Exams | 2010 - 2023 | Monthly, Midterm, Terminal and Annual Exams - Download All Subjects - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/standard-two-exams-2010-2023-monthly-midterm-terminal-and-annual-exams-download-all-subjects/"
+    }
+  ],
+  "limitations": [
+    "W1: The teacher dictation words or audio are not included in this source.",
+    "W2: The teacher dictation words or audio are not included in this source.",
+    "W3: The teacher dictation words or audio are not included in this source.",
+    "W4: The teacher dictation words or audio are not included in this source.",
+    "W5: The teacher dictation words or audio are not included in this source."
+  ],
+  "expected_parts": [
+    "R1",
+    "R2",
+    "R3",
+    "R4",
+    "R5",
+    "R6",
+    "R7",
+    "R8",
+    "R9",
+    "R10",
+    "R11",
+    "R12",
+    "R13",
+    "R14",
+    "R15",
+    "R16",
+    "R17",
+    "R18",
+    "R19",
+    "R20",
+    "R21",
+    "R22",
+    "R23",
+    "R24",
+    "R25",
+    "W1",
+    "W2",
+    "W3",
+    "W4",
+    "W5",
+    "W6",
+    "W7",
+    "W8",
+    "W9",
+    "W10",
+    "W11",
+    "W12",
+    "W13",
+    "W14",
+    "W15",
+    "W16",
+    "W17",
+    "W18",
+    "W19",
+    "W20",
+    "W21",
+    "W22",
+    "W23",
+    "W24",
+    "W25"
+  ],
+  "question_count": "50 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "0066ee20382d27d7b52d4afab81f3e260407cc2315b4547673e6f571a0397be1"
+}

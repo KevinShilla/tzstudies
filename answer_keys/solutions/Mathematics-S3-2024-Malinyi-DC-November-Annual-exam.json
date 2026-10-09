@@ -1,0 +1,397 @@
+{
+  "exam": "Mathematics-S3-2024-Malinyi-DC-November-Annual-exam.pdf",
+  "output": "Mathematics-S3-2024-Malinyi-DC-November-Annual-exam-AnswerKey.pdf",
+  "sha256": "002f1cc6efb453f9b76ca778b638d1d68ba558485f07d18fe3f78aef22ad6a72",
+  "subject": "Hisabati",
+  "level": "Standard Three",
+  "year": "2024",
+  "code": "04",
+  "board": "Malinyi DC",
+  "exam_type": "Annual exam - November",
+  "question_count": "25 numbered questions/subparts",
+  "language": "sw",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika nafasi ya 5 katika 86539.",
+      "steps": [
+        "Soma nafasi kulia kwenda kushoto: mamoja 9, makumi 3, mamia 5."
+      ],
+      "answer": "Mamia",
+      "source_page": 2
+    },
+    {
+      "id": "1(ii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Shabani ana machungwa 6274. Andika idadi kwa maneno.",
+      "steps": [
+        "6274 = 6000 +200 +70 +4."
+      ],
+      "answer": "Elfu sita mia mbili sabini na nne",
+      "source_page": 2
+    },
+    {
+      "id": "1(iii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Namba 200061 ina tarakimu ngapi?",
+      "steps": [
+        "Hesabu 2,0,0,0,6,1 moja moja."
+      ],
+      "answer": "6",
+      "source_page": 2
+    },
+    {
+      "id": "1(iv)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika namba yenye maelfu 8, mamia 3, makumi 1, mamoja 9.",
+      "steps": [
+        "8000 + 300 + 10 + 9 = 8319."
+      ],
+      "answer": "8319",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "8000 + 300 + 10 + 9",
+          "expected": "8319"
+        }
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Soma namba katika abakasi ya vijiti vinne.",
+      "steps": [
+        "Shanga kutoka kushoto ni 2,4,1,5.",
+        "2000 + 400 + 10 + 5 = 2415."
+      ],
+      "answer": "2415",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2000 + 400 + 10 + 5",
+          "expected": "2415"
+        }
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Kiwanda huchapisha vitabu 50 kwa siku. Jumla hadi siku ya tatu?",
+      "steps": [
+        "50 x 3 = 150."
+      ],
+      "answer": "Vitabu 150",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "50 * 3",
+          "expected": "150"
+        }
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Panga 237,492,130,690,920,800 kuanzia ndogo.",
+      "steps": [
+        "Linganisha mamia, kisha makumi na mamoja."
+      ],
+      "answer": "130,237,492,690,800,920",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Jaza 415,420,[ ],430,435.",
+      "steps": [
+        "Ongeza 5; 420 + 5 = 425."
+      ],
+      "answer": "425",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "420 + 5",
+          "expected": "425"
+        }
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Ipi kubwa kati ya 6340,5440,4660,9000?",
+      "steps": [
+        "9 maelfu huzidi 6,5 au 4 maelfu."
+      ],
+      "answer": "9000",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Linganisha 894 na 723 kwa<,=,>.",
+      "steps": [
+        "8 mamia huzidi 7 mamia."
+      ],
+      "answer": ">",
+      "source_page": 2
+    },
+    {
+      "id": "3(i)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Abeli ana ng'ombe 3264 na mbuzi 6240. Jumla ya mifugo?",
+      "steps": [
+        "3264 + 6240 = 9504."
+      ],
+      "answer": "Mifugo 9504",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "3264 + 6240",
+          "expected": "9504"
+        }
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Kokotoa 3/7 +2/7.",
+      "steps": [
+        "Asili ni 7 kwa zote.",
+        "3 + 2 = 5; asili hubaki 7."
+      ],
+      "answer": "5/7",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "3/7+2/7",
+          "expected": "5/7"
+        },
+        {
+          "expression": "3 + 2",
+          "expected": "5"
+        }
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "John ana uzito 83 kg, Aron 53 kg. Tafuta tofauti.",
+      "steps": [
+        "83 - 53 = 30."
+      ],
+      "answer": "30 kg",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "83 - 53",
+          "expected": "30"
+        }
+      ]
+    },
+    {
+      "id": "3(iv)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Hashimu amekula 1/5 ya chungwa, Filbert 2/5. Jumla iliyoliwa?",
+      "steps": [
+        "Asili ni 5 kwa zote.",
+        "1 + 2 = 3; asili hubaki 5."
+      ],
+      "answer": "3/5",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "1/5+2/5",
+          "expected": "3/5"
+        },
+        {
+          "expression": "1 + 2",
+          "expected": "3"
+        }
+      ]
+    },
+    {
+      "id": "3(v)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Toa Sh 100 st 50 - Sh 20 st 40.",
+      "steps": [
+        "Senti: 50 - 40 = 10.",
+        "Shilingi: 100 - 20 = 80."
+      ],
+      "answer": "Sh 80 st 10",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "100.50-20.40",
+          "expected": "801/10"
+        },
+        {
+          "expression": "50 - 40",
+          "expected": "10"
+        },
+        {
+          "expression": "100 - 20",
+          "expected": "80"
+        }
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Umbo la pembetatu lina pembe ngapi?",
+      "steps": [
+        "Hesabu kona zake tatu."
+      ],
+      "answer": "Pembe 3",
+      "source_page": 2
+    },
+    {
+      "id": "4(ii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika sehemu iliyotiwa kivuli katika duara.",
+      "steps": [
+        "Sehemu 1 kati ya 4 sawa imewekewa kivuli."
+      ],
+      "answer": "1/4",
+      "source_page": 2
+    },
+    {
+      "id": "4(iii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Taja jina la umbo lenye pande nne, pembe mraba na pande jirani zisizo sawa.",
+      "steps": [
+        "Pande zinazokabiliana zinalingana."
+      ],
+      "answer": "Mstatili",
+      "source_page": 2
+    },
+    {
+      "id": "4(iv)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Kuna vipande vingapi vinavyoundwa na alama A, B, C kwenye mstari?",
+      "steps": [
+        "AB, BC na AC ni vipande vitatu.",
+        "Vipande vidogo vinavyopakana ni AB na BC."
+      ],
+      "answer": "3 kwa alama zote;2 kwa vipande vinavyopakana.",
+      "source_page": 2
+    },
+    {
+      "id": "4(v)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Soma saa yenye mshale mrefu 10 na mfupi kati ya 7 na 8.",
+      "steps": [
+        "Mshale mrefu 10: 10 x 5 = 50 dakika.",
+        "Mfupi unaonyesha 7:50 kwa saa ya kimataifa.",
+        "Badili saa kwa tofauti ya 6:7 + 6 = 13, kisha 13 - 12 = 1."
+      ],
+      "answer": "Saa 1:50 kwa mfumo wa Kiswahili (7:50 kimataifa).",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "10 * 5",
+          "expected": "50"
+        },
+        {
+          "expression": "7 + 6",
+          "expected": "13"
+        }
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Kalenda ya 2019 Januari-Juni: Machi ina siku ngapi?",
+      "steps": [
+        "Tarehe ya mwisho ya Machi ni 31."
+      ],
+      "answer": "31",
+      "source_page": 1
+    },
+    {
+      "id": "5(ii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Februari ina siku ngapi katika kalenda ya 2019?",
+      "steps": [
+        "Tarehe ya mwisho ni 28."
+      ],
+      "answer": "28",
+      "source_page": 1
+    },
+    {
+      "id": "5(iii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Kuna wiki ngapi katika mwezi mmoja?",
+      "steps": [
+        "Kwa makadirio ya shule, mwezi ni wiki 4.",
+        "Siku 28 niwiki 4; miezi ya siku 30/31 ina wiki 4 na siku 2/3."
+      ],
+      "answer": "Wiki 4 kwa makadirio; idadi halisi hutegemea mwezi.",
+      "source_page": 1
+    },
+    {
+      "id": "5(iv)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Ni mwezi upi wenye siku chache katika kalenda?",
+      "steps": [
+        "Februari ina 28; mingine ina 30 au 31."
+      ],
+      "answer": "Februari",
+      "source_page": 1
+    },
+    {
+      "id": "5(v)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Taja miezi miwili yenye siku 30 katika Januari-Juni.",
+      "steps": [
+        "Aprili na Juni huishia tarehe 30."
+      ],
+      "answer": "Aprili na Juni",
+      "source_page": 1
+    }
+  ],
+  "summaries": {
+    "Hesabu na matumizi": "Soma namba na vipimo kwa makini. Panga tarakimu kwa nafasi na hakikisha kwa tendo la kinyume. Katika picha, hesabu vitu vilivyoulizwa tu."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - Malinyi Mtihani Darasa La Tatu Annual Exams 2024",
+      "url": "https://darasahuru.ac.tz/malinyi-mtihani-darasa-la-tatu-annual-exams-2024/"
+    }
+  ],
+  "limitations": [
+    "Kalenda iliyochapishwa ni ya 2019, ingawa mtihani ni 2024.",
+    "4(iv) hutofautisha vipande 3 kwa alama zote na vipande 2 vinavyopakana.",
+    "Mwezi si daima wiki 4 kamili."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "c9d7a64c0b76a0e4a7a5cc556802180963683d04e82bd88e77ceeb1c352373e9"
+}

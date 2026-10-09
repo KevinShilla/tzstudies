@@ -1,0 +1,806 @@
+{
+  "exam": "Mathematics-S5-2024-SPES-September-Monthly-test.pdf",
+  "output": "Mathematics-S5-2024-SPES-September-Monthly-test-AnswerKey.pdf",
+  "sha256": "6d9ac996d6c4e9271b5516a81b586eef5da508e6e12826f5a082af3854480a7e",
+  "subject": "Mathematics",
+  "level": "Standard Five",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "SPES",
+  "exam_type": "Monthly test - September",
+  "question_count": "33 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(ix)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "8(i)",
+    "8(iii)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Calculations",
+      "prompt": "Add 2138 +1471.",
+      "steps": [
+        "1 place: 8 + 1 = 9; write 9.",
+        "10 place: 3 + 7 = 10; write 0, carry 1.",
+        "100 place: 1 + 4 + carry 1 = 6; write 6.",
+        "1000 place: 2 + 1 = 3; write 3.",
+        "2138 + 1471 = 3609."
+      ],
+      "answer": "3609",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2138+1471",
+          "expected": "3609"
+        },
+        {
+          "expression": "8 + 1",
+          "expected": "9"
+        },
+        {
+          "expression": "3 + 7",
+          "expected": "10"
+        },
+        {
+          "expression": "2 + 1",
+          "expected": "3"
+        },
+        {
+          "expression": "2138 + 1471",
+          "expected": "3609"
+        }
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Calculations",
+      "prompt": "Subtract 367148 -243128.",
+      "steps": [
+        "1 place: 8 - 8 = 0.",
+        "10 place: 4 - 2 = 2.",
+        "100 place: 1 - 1 = 0.",
+        "1000 place: 7 - 3 = 4.",
+        "10000 place: 6 - 4 = 2.",
+        "100000 place: 3 - 2 = 1.",
+        "367148 - 243128 = 124020; check 124020 + 243128 = 367148."
+      ],
+      "answer": "124020",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "367148-243128",
+          "expected": "124020"
+        },
+        {
+          "expression": "8 - 8",
+          "expected": "0"
+        },
+        {
+          "expression": "4 - 2",
+          "expected": "2"
+        },
+        {
+          "expression": "1 - 1",
+          "expected": "0"
+        },
+        {
+          "expression": "7 - 3",
+          "expected": "4"
+        },
+        {
+          "expression": "6 - 4",
+          "expected": "2"
+        },
+        {
+          "expression": "3 - 2",
+          "expected": "1"
+        },
+        {
+          "expression": "367148 - 243128",
+          "expected": "124020"
+        },
+        {
+          "expression": "124020 + 243128",
+          "expected": "367148"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Calculations",
+      "prompt": "Multiply 989 x 53.",
+      "steps": [
+        "Split into place values: 900 x 53 = 47700; 80 x 53 = 4240; 9 x 53 = 477.",
+        "Add the partial products: 52417."
+      ],
+      "answer": "52417",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "989*53",
+          "expected": "52417"
+        },
+        {
+          "expression": "900*53",
+          "expected": "47700"
+        },
+        {
+          "expression": "80*53",
+          "expected": "4240"
+        },
+        {
+          "expression": "9*53",
+          "expected": "477"
+        }
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Calculations",
+      "prompt": "Divide 4984 by 56.",
+      "steps": [
+        "498 / 56: write 8; 8 x 56 = 448; 498 - 448 = 50.",
+        "504 / 56: write 9; 9 x 56 = 504; 504 - 504 = 0.",
+        "56 x 89 = 4984.",
+        "4984 / 56 = 89."
+      ],
+      "answer": "89",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "4984/56",
+          "expected": "89"
+        },
+        {
+          "expression": "8*56",
+          "expected": "448"
+        },
+        {
+          "expression": "498 - 448",
+          "expected": "50"
+        },
+        {
+          "expression": "9*56",
+          "expected": "504"
+        },
+        {
+          "expression": "504 - 504",
+          "expected": "0"
+        },
+        {
+          "expression": "56*89",
+          "expected": "4984"
+        },
+        {
+          "expression": "4984 / 56",
+          "expected": "89"
+        }
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Mathematics",
+      "prompt": "Subtract 14.13 -8.16.",
+      "steps": [
+        "Borrow in hundredths:13-6=7; then 0 tenths must borrow 1 whole,10-1=9.",
+        "Whole 13-8=5."
+      ],
+      "answer": "5.97",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "14.13-8.16",
+          "expected": "597/100"
+        },
+        {
+          "expression": "13-6",
+          "expected": "7"
+        },
+        {
+          "expression": "10-1",
+          "expected": "9"
+        },
+        {
+          "expression": "13-8",
+          "expected": "5"
+        }
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Mathematics",
+      "prompt": "Add 2/3 +4/5.",
+      "steps": [
+        "Common denominator 15:10/15+12/15.",
+        "10 + 12 = 22;22/15=1 7/15."
+      ],
+      "answer": "1 7/15",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2/3+4/5",
+          "expected": "22/15"
+        },
+        {
+          "expression": "10 + 12",
+          "expected": "22"
+        }
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Mathematics",
+      "prompt": "Subtract 2 5/9 -1/2.",
+      "steps": [
+        "2 5/9=23/9=46/18;1/2=9/18.",
+        "46 - 9 = 37;37/18=2 1/18."
+      ],
+      "answer": "2 1/18",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "2+5/9-1/2",
+          "expected": "37/18"
+        },
+        {
+          "expression": "1/2",
+          "expected": "1/2"
+        },
+        {
+          "expression": "46 - 9",
+          "expected": "37"
+        }
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Mathematics",
+      "prompt": "Multiply 3/4 x 1 3/5.",
+      "steps": [
+        "1 3/5=8/5.",
+        "3 x 8 = 24;4 x 5 = 20.",
+        "24/20=6/5=1 1/5."
+      ],
+      "answer": "1 1/5",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "(3/4)*(1+3/5)",
+          "expected": "6/5"
+        },
+        {
+          "expression": "3*8",
+          "expected": "24"
+        },
+        {
+          "expression": "4*5",
+          "expected": "20"
+        },
+        {
+          "expression": "24/20",
+          "expected": "6/5"
+        }
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Mathematics",
+      "prompt": "Divide 3/4 by 3.",
+      "steps": [
+        "Multiply by reciprocal 1/3.",
+        "(3/4)x(1/3)=3/12=1/4."
+      ],
+      "answer": "1/4",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "(3/4)/3",
+          "expected": "1/4"
+        },
+        {
+          "expression": "(3/4)*(1/3)",
+          "expected": "1/4"
+        }
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Mathematics",
+      "prompt": "Multiply 3.05 x 0.3.",
+      "steps": [
+        "305 x 3 = 915.",
+        "Total 3 decimal places."
+      ],
+      "answer": "0.915",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "3.05*0.3",
+          "expected": "183/200"
+        },
+        {
+          "expression": "305*3",
+          "expected": "915"
+        }
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Mathematics",
+      "prompt": "Continue 1,4,9,16,[ ].",
+      "steps": [
+        "Squares 1²,2²,3²,4²; next 5².",
+        "5 x 5 = 25."
+      ],
+      "answer": "25",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "5*5",
+          "expected": "25"
+        }
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Mathematics",
+      "prompt": "Read CDXLVII in words.",
+      "steps": [
+        "CD=400; XL=40; VII=7.",
+        "400 + 40 + 7 = 447."
+      ],
+      "answer": "Four hundred and forty-seven",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "400 + 40 + 7",
+          "expected": "447"
+        }
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Mathematics",
+      "prompt": "Value of 9 in 392527?",
+      "steps": [
+        "9 in ten-thousands.",
+        "9 x 10000 = 90000."
+      ],
+      "answer": "90000",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "9*10000",
+          "expected": "90000"
+        }
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Mathematics",
+      "prompt": "Write eight hundred thousand five hundred and fifty-seven in figures.",
+      "steps": [
+        "800000 + 500 + 50 + 7 = 800557."
+      ],
+      "answer": "800557",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "800000 + 500 + 50 + 7",
+          "expected": "800557"
+        }
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Mathematics",
+      "prompt": "Subtract square root 64 from square root 225.",
+      "steps": [
+        "8²=64;15²=225.",
+        "15 - 8 = 7."
+      ],
+      "answer": "7",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "8**2",
+          "expected": "64"
+        },
+        {
+          "expression": "15**2",
+          "expected": "225"
+        },
+        {
+          "expression": "15 - 8",
+          "expected": "7"
+        }
+      ]
+    },
+    {
+      "id": "2(vi)",
+      "section": "Mathematics",
+      "prompt": "Find the LCM of 6,12,24.",
+      "steps": [
+        "6=2 x 3;12=2²x 3;24=2³x 3.",
+        "Highest powers 2³x 3=24."
+      ],
+      "answer": "24",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "2**3*3",
+          "expected": "24"
+        }
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Mathematics",
+      "prompt": "Name place of underlined second 1 in 1143578.",
+      "steps": [
+        "From left:millions 1, hundred-thousands 1, ten-thousands 4,...",
+        "The underline is below the second 1."
+      ],
+      "answer": "Hundred-thousands",
+      "source_page": 4
+    },
+    {
+      "id": "3(ii)",
+      "section": "Mathematics",
+      "prompt": "Write 50000000 +5000000 +500000 +0 +1000 +100 +0 +6 in short form.",
+      "steps": [
+        "50000000 + 5000000 + 500000 + 1000 + 100 + 6 = 55501106."
+      ],
+      "answer": "55501106",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "50000000 + 5000000 + 500000 + 1000 + 100 + 6",
+          "expected": "55501106"
+        }
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Mathematics",
+      "prompt": "Which prime equals an even number so their difference is 0?",
+      "steps": [
+        "The only even prime is 2.",
+        "2 - 2 = 0."
+      ],
+      "answer": "2",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "2 - 2",
+          "expected": "0"
+        }
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Calculations",
+      "prompt": "Population 1450000, women 803000. Men?",
+      "steps": [
+        "1 place: 0 - 0 = 0.",
+        "10 place: 0 - 0 = 0.",
+        "100 place: 0 - 0 = 0.",
+        "1000 place: regroup 1 from the next place; 10 - 3 = 7.",
+        "10000 place: 4 - 0 = 4.",
+        "100000 place: regroup 1 from the next place; 14 - 8 = 6.",
+        "1000000 place: 0 - 0 = 0.",
+        "1450000 - 803000 = 647000; check 647000 + 803000 = 1450000."
+      ],
+      "answer": "647000 men",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "1450000-803000",
+          "expected": "647000"
+        },
+        {
+          "expression": "0 - 0",
+          "expected": "0"
+        },
+        {
+          "expression": "10 - 3",
+          "expected": "7"
+        },
+        {
+          "expression": "4 - 0",
+          "expected": "4"
+        },
+        {
+          "expression": "14 - 8",
+          "expected": "6"
+        },
+        {
+          "expression": "1450000 - 803000",
+          "expected": "647000"
+        },
+        {
+          "expression": "647000 + 803000",
+          "expected": "1450000"
+        }
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Mathematics",
+      "prompt": "Brick length 24 cm 60 mm; log 3 cm 70 mm. Total length?",
+      "steps": [
+        "60 mm=6 cm;70 mm=7 cm.",
+        "Brick 24+6=30 cm; log 3+7=10 cm.",
+        "30 + 10 = 40."
+      ],
+      "answer": "40 cm (400 mm)",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "24+6",
+          "expected": "30"
+        },
+        {
+          "expression": "3+7",
+          "expected": "10"
+        },
+        {
+          "expression": "30 + 10",
+          "expected": "40"
+        }
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Mathematics",
+      "prompt": "How many even numbers between 73 and 85?",
+      "steps": [
+        "74,76,78,80,82,84."
+      ],
+      "answer": "6",
+      "source_page": 5
+    },
+    {
+      "id": "5(i)",
+      "section": "Mathematics",
+      "prompt": "Find the GCF of 14,36,42.",
+      "steps": [
+        "14=2 x 7;36=2²x 3²;42=2 x 3 x 7.",
+        "Only common prime is 2."
+      ],
+      "answer": "2",
+      "source_page": 6
+    },
+    {
+      "id": "5(ii)",
+      "section": "Mathematics",
+      "prompt": "Runner starts 8:55 a.m.and runs 1 hour 40 minutes. Finish time?",
+      "steps": [
+        "8:55+1 hour=9:55.",
+        "40 minutes more reaches 10:35."
+      ],
+      "answer": "10:35 a.m.",
+      "source_page": 6
+    },
+    {
+      "id": "5(iii)",
+      "section": "Mathematics",
+      "prompt": "Days in 3 leap years?",
+      "steps": [
+        "Each has 366 days.",
+        "3 x 366 = 1098."
+      ],
+      "answer": "1098 days",
+      "source_page": 6,
+      "math_checks": [
+        {
+          "expression": "3*366",
+          "expected": "1098"
+        }
+      ]
+    },
+    {
+      "id": "6(i)",
+      "section": "Mathematics",
+      "prompt": "Buy 15 books at 600 sh,8 pens at 500 sh,5 envelopes at 200 sh,3 erasers at 200 sh. Total?",
+      "steps": [
+        "15 x 600 = 9000.",
+        "8 x 500 = 4000.",
+        "5 x 200 = 1000.",
+        "3 x 200 = 600.",
+        "9000 + 4000 + 1000 + 600 = 14600."
+      ],
+      "answer": "Sh 14600",
+      "source_page": 6,
+      "math_checks": [
+        {
+          "expression": "15*600",
+          "expected": "9000"
+        },
+        {
+          "expression": "8*500",
+          "expected": "4000"
+        },
+        {
+          "expression": "5*200",
+          "expected": "1000"
+        },
+        {
+          "expression": "3*200",
+          "expected": "600"
+        },
+        {
+          "expression": "9000 + 4000 + 1000 + 600",
+          "expected": "14600"
+        }
+      ]
+    },
+    {
+      "id": "6(ii)",
+      "section": "Mathematics",
+      "prompt": "Number of primes between 30 and 52?",
+      "steps": [
+        "Primes 31,37,41,43,47.",
+        "All other candidates have a divisor 2,3,5 or 7."
+      ],
+      "answer": "5",
+      "source_page": 7
+    },
+    {
+      "id": "6(iii)",
+      "section": "Mathematics",
+      "prompt": "Find square of 491.",
+      "steps": [
+        "491 x 491 = 241081."
+      ],
+      "answer": "241081",
+      "source_page": 7,
+      "math_checks": [
+        {
+          "expression": "491*491",
+          "expected": "241081"
+        }
+      ]
+    },
+    {
+      "id": "7(i)",
+      "section": "Mathematics",
+      "prompt": "Triangle base 4.5 m, perpendicular height 4 m. Area?",
+      "steps": [
+        "4.5 x 4 = 18.",
+        "18 / 2 = 9."
+      ],
+      "answer": "9 m²",
+      "source_page": 7,
+      "math_checks": [
+        {
+          "expression": "4.5*4",
+          "expected": "18"
+        },
+        {
+          "expression": "18 / 2",
+          "expected": "9"
+        }
+      ]
+    },
+    {
+      "id": "7(ii)",
+      "section": "Mathematics",
+      "prompt": "Trapezium parallel sides 7 cm,10 cm; height 4 cm. Area?",
+      "steps": [
+        "Area=(parallel sides sum)xheight/2.",
+        "7 + 10 = 17.",
+        "17 x 4 / 2 = 34."
+      ],
+      "answer": "34 cm²",
+      "source_page": 8,
+      "math_checks": [
+        {
+          "expression": "7 + 10",
+          "expected": "17"
+        },
+        {
+          "expression": "17*4 / 2",
+          "expected": "34"
+        }
+      ]
+    },
+    {
+      "id": "7(iii)",
+      "section": "Mathematics",
+      "prompt": "Parallelogram top 600 m, bottom 300(no unit), height 300 m. Find area.",
+      "steps": [
+        "Opposite bases must be equal, so 600 and 300 conflict.",
+        "If 600 m is intended base:600 x 300 = 180000 m².",
+        "If 300 m is intended base:300 x 300 = 90000 m²."
+      ],
+      "answer": "Conditional 180000 m²using top 600 m, or 90000 m²using bottom 300 m; no consistent unique area.",
+      "source_page": 8,
+      "math_checks": [
+        {
+          "expression": "600*300",
+          "expected": "180000"
+        },
+        {
+          "expression": "300*300",
+          "expected": "90000"
+        }
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Mathematics",
+      "prompt": "Find perimeter of square side 10.5 cm.",
+      "steps": [
+        "4 x 10.5 = 42."
+      ],
+      "answer": "42 cm",
+      "source_page": 8,
+      "math_checks": [
+        {
+          "expression": "4*10.5",
+          "expected": "42"
+        }
+      ]
+    },
+    {
+      "id": "8(iii)",
+      "section": "Mathematics",
+      "prompt": "How many symmetry lines in the pictured square?",
+      "steps": [
+        "Vertical, horizontal, and 2 diagonals."
+      ],
+      "answer": "4",
+      "source_page": 9
+    }
+  ],
+  "summaries": {
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Mathematics": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - SPES Standard Five 5 Monthly Exams September 2024",
+      "url": "https://darasahuru.ac.tz/spes-standard-five-5-monthly-exams-september-2024/"
+    }
+  ],
+  "limitations": [
+    "7(iii)opposite parallelogram bases 600 and 300 contradict; both conditional areas given.",
+    "The final part is printed 8(iii); no 8(ii)is printed.",
+    "Cover erroneously says six questions; body contains 1-8."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "2a790714ad17b29ef8f85775598678b77c0c29b314235536704478bcdef9c3f5"
+}

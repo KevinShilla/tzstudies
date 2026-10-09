@@ -1,0 +1,715 @@
+{
+  "exam": "Mathematics-S5-2024-MESP-Tanzania-May-Terminal-exam.pdf",
+  "output": "Mathematics-S5-2024-MESP-Tanzania-May-Terminal-exam-AnswerKey.pdf",
+  "sha256": "3eb20e01a95922b912aa864e6f1f8938651d969ae3607b382c8dca1cdcf9811a",
+  "subject": "Mathematics",
+  "level": "Standard Five",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Terminal exam - May",
+  "question_count": "30 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(ix)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "8(i)",
+    "8(ii)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Calculations",
+      "prompt": "Add 1668 +33 +125.",
+      "steps": [
+        "1668 + 33 = 1701.",
+        "1668 + 33 + 125 = 1826.",
+        "1668+33+125 = 1826."
+      ],
+      "answer": "1826",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "1668+33+125",
+          "expected": "1826"
+        },
+        {
+          "expression": "1668 + 33",
+          "expected": "1701"
+        },
+        {
+          "expression": "1668 + 33 + 125",
+          "expected": "1826"
+        }
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Mathematics",
+      "prompt": "Calculate 50 divided by 2/5.",
+      "steps": [
+        "Dividing by a fraction means multiplying by its reciprocal.",
+        "50 x 5 / 2 = 125."
+      ],
+      "answer": "125",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "50/(2/5)",
+          "expected": "125"
+        },
+        {
+          "expression": "50*5 / 2",
+          "expected": "125"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Calculations",
+      "prompt": "Subtract 87000 -5877.",
+      "steps": [
+        "1 place: regroup 1 from the next place; 10 - 7 = 3.",
+        "10 place: regroup 1 from the next place; 9 - 7 = 2.",
+        "100 place: regroup 1 from the next place; 9 - 8 = 1.",
+        "1000 place: 6 - 5 = 1.",
+        "10000 place: 8 - 0 = 8.",
+        "87000 - 5877 = 81123; check 81123 + 5877 = 87000."
+      ],
+      "answer": "81123",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "87000-5877",
+          "expected": "81123"
+        },
+        {
+          "expression": "10 - 7",
+          "expected": "3"
+        },
+        {
+          "expression": "9 - 7",
+          "expected": "2"
+        },
+        {
+          "expression": "9 - 8",
+          "expected": "1"
+        },
+        {
+          "expression": "6 - 5",
+          "expected": "1"
+        },
+        {
+          "expression": "8 - 0",
+          "expected": "8"
+        },
+        {
+          "expression": "87000 - 5877",
+          "expected": "81123"
+        },
+        {
+          "expression": "81123 + 5877",
+          "expected": "87000"
+        }
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Calculations",
+      "prompt": "Multiply 7814 x 125.",
+      "steps": [
+        "Split into place values: 7000 x 125 = 875000; 800 x 125 = 100000; 10 x 125 = 1250; 4 x 125 = 500.",
+        "Add the partial products: 976750."
+      ],
+      "answer": "976750",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "7814*125",
+          "expected": "976750"
+        },
+        {
+          "expression": "7000*125",
+          "expected": "875000"
+        },
+        {
+          "expression": "800*125",
+          "expected": "100000"
+        },
+        {
+          "expression": "10*125",
+          "expected": "1250"
+        },
+        {
+          "expression": "4*125",
+          "expected": "500"
+        }
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Calculations",
+      "prompt": "Divide 24024 by 24.",
+      "steps": [
+        "24 / 24: write 1; 1 x 24 = 24; 24 - 24 = 0.",
+        "0 / 24: write 0; 0 x 24 = 0; 0 - 0 = 0.",
+        "2 / 24: write 0; 0 x 24 = 0; 2 - 0 = 2.",
+        "24 / 24: write 1; 1 x 24 = 24; 24 - 24 = 0.",
+        "24 x 1001 = 24024.",
+        "24024 / 24 = 1001."
+      ],
+      "answer": "1001",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "24024/24",
+          "expected": "1001"
+        },
+        {
+          "expression": "1*24",
+          "expected": "24"
+        },
+        {
+          "expression": "24 - 24",
+          "expected": "0"
+        },
+        {
+          "expression": "0*24",
+          "expected": "0"
+        },
+        {
+          "expression": "0 - 0",
+          "expected": "0"
+        },
+        {
+          "expression": "2 - 0",
+          "expected": "2"
+        },
+        {
+          "expression": "24*1001",
+          "expected": "24024"
+        },
+        {
+          "expression": "24024 / 24",
+          "expected": "1001"
+        }
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Mathematics",
+      "prompt": "Add 3 1/2 +5 3/5.",
+      "steps": [
+        "3 1/2=7/2=35/10;5 3/5=28/5=56/10.",
+        "35 + 56 = 91.",
+        "91/10=9 1/10."
+      ],
+      "answer": "9 1/10",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "(3+1/2)+(5+3/5)",
+          "expected": "91/10"
+        },
+        {
+          "expression": "35 + 56",
+          "expected": "91"
+        }
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Mathematics",
+      "prompt": "Subtract 5.5 -0.798.",
+      "steps": [
+        "Write 5.500 and 0.798.",
+        "Borrow through the zero columns:4 whole,14 tenths,9 hundredths,10 thousandths.",
+        "Thousandths 10-8=2; hundredths 9-9=0; tenths 14-7=7; whole 4-0=4."
+      ],
+      "answer": "4.702",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "5.5-0.798",
+          "expected": "2351/500"
+        },
+        {
+          "expression": "10-8",
+          "expected": "2"
+        },
+        {
+          "expression": "9-9",
+          "expected": "0"
+        },
+        {
+          "expression": "14-7",
+          "expected": "7"
+        },
+        {
+          "expression": "4-0",
+          "expected": "4"
+        }
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Mathematics",
+      "prompt": "Add 7.4 +13.27 +9.595.",
+      "steps": [
+        "Align 7.400,13.270,9.595.",
+        "Thousandths 0+0+5=5; hundredths 0+7+9=16, write 6 carry 1.",
+        "Tenths 4+2+5+1=12, write 2 carry 1; whole 7+13+9+1=30."
+      ],
+      "answer": "30.265",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "7.4+13.27+9.595",
+          "expected": "6053/200"
+        },
+        {
+          "expression": "0+0+5",
+          "expected": "5"
+        },
+        {
+          "expression": "0+7+9",
+          "expected": "16"
+        },
+        {
+          "expression": "4+2+5+1",
+          "expected": "12"
+        },
+        {
+          "expression": "7+13+9+1",
+          "expected": "30"
+        }
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Mathematics",
+      "prompt": "Multiply 12 3/4 x 7 2/5.",
+      "steps": [
+        "12 3/4=51/4;7 2/5=37/5.",
+        "51 x 37 = 1887.",
+        "4 x 5 = 20.",
+        "1887/20=94 7/20."
+      ],
+      "answer": "94 7/20",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "(12+3/4)*(7+2/5)",
+          "expected": "1887/20"
+        },
+        {
+          "expression": "51*37",
+          "expected": "1887"
+        },
+        {
+          "expression": "4*5",
+          "expected": "20"
+        }
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Mathematics",
+      "prompt": "Subtract 4 1/10 -1 3/5.",
+      "steps": [
+        "4 1/10=41/10;1 3/5=8/5=16/10.",
+        "41 - 16 = 25.",
+        "25/10=2 1/2."
+      ],
+      "answer": "2 1/2",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "(4+1/10)-(1+3/5)",
+          "expected": "5/2"
+        },
+        {
+          "expression": "41 - 16",
+          "expected": "25"
+        }
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Mathematics",
+      "prompt": "Largest number from digits 3,5,7,6 once each?",
+      "steps": [
+        "Order digits greatest first 7,6,5,3."
+      ],
+      "answer": "7653",
+      "source_page": 2
+    },
+    {
+      "id": "2(ii)",
+      "section": "Mathematics",
+      "prompt": "Which digit is in the tens place of 701.96?",
+      "steps": [
+        "Whole part 701; second digit from right 0."
+      ],
+      "answer": "0",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Mathematics",
+      "prompt": "Arrange 576 crates in equal numbers of rows and columns. Crates in each row?",
+      "steps": [
+        "A square arrangement has side n with n²=576.",
+        "24 x 24 = 576."
+      ],
+      "answer": "24",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "24*24",
+          "expected": "576"
+        }
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Mathematics",
+      "prompt": "Continue 1,9,25,49,[ ].",
+      "steps": [
+        "These are squares of odd numbers 1,3,5,7.",
+        "Next 9²=81."
+      ],
+      "answer": "81",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "9**2",
+          "expected": "81"
+        }
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Mathematics",
+      "prompt": "Arrange 1/2,25%,0.75 in descending order.",
+      "steps": [
+        "Convert 0.5,0.25,0.75.",
+        "0.75>0.5>0.25."
+      ],
+      "answer": "0.75,1/2,25%",
+      "source_page": 2
+    },
+    {
+      "id": "3(iii)",
+      "section": "Mathematics",
+      "prompt": "Arrange 1/2,25%,0.75 in descending order (repeated printed item).",
+      "steps": [
+        "Convert 0.5,0.25,0.75.",
+        "0.75>0.5>0.25."
+      ],
+      "answer": "0.75,1/2,25%",
+      "source_page": 2
+    },
+    {
+      "id": "4(i)",
+      "section": "Mathematics",
+      "prompt": "Five numbers average 12; first four 10,11,12,13. Find fifth.",
+      "steps": [
+        "Total 5 x 12 = 60.",
+        "Known 10 + 11 + 12 + 13 = 46.",
+        "60 - 46 = 14."
+      ],
+      "answer": "14",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "5*12",
+          "expected": "60"
+        },
+        {
+          "expression": "10 + 11 + 12 + 13",
+          "expected": "46"
+        },
+        {
+          "expression": "60 - 46",
+          "expected": "14"
+        }
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Mathematics",
+      "prompt": "Greatest fraction among 4/5,3/4,7/8,8/9?",
+      "steps": [
+        "Use denominator 360:288/360,270/360,315/360,320/360.",
+        "320 is greatest."
+      ],
+      "answer": "8/9",
+      "source_page": 2
+    },
+    {
+      "id": "4(iii)",
+      "section": "Mathematics",
+      "prompt": "John age equals positive square root of 121. Find age.",
+      "steps": [
+        "11 x 11 = 121."
+      ],
+      "answer": "11 years",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "11*11",
+          "expected": "121"
+        }
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Mathematics",
+      "prompt": "Bottle capacity 1000 ml, current milk 750 ml. Extra to fill it?",
+      "steps": [
+        "1000 - 750 = 250."
+      ],
+      "answer": "250 ml",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "1000 - 750",
+          "expected": "250"
+        }
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Mathematics",
+      "prompt": "Exam from 9:45 a.m.to 11:15 a.m. Duration?",
+      "steps": [
+        "9:45 to 10:45=1 hour;10:45 to 11:15=30 minutes."
+      ],
+      "answer": "1 hour 30 minutes",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "(11*60+15)-(9*60+45)",
+          "expected": "90"
+        }
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Mathematics",
+      "prompt": "Bus travels 80 km in 2 hours. Speed?",
+      "steps": [
+        "Speed=distance/time.",
+        "80 / 2 = 40."
+      ],
+      "answer": "40 km/h",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "80 / 2",
+          "expected": "40"
+        }
+      ]
+    },
+    {
+      "id": "6(i)",
+      "section": "Mathematics",
+      "prompt": "PEPS first tank 216 L; second has 3/4 as much. Volume in second?",
+      "steps": [
+        "216 / 4 = 54.",
+        "54 x 3 = 162."
+      ],
+      "answer": "162 L",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "216 / 4",
+          "expected": "54"
+        },
+        {
+          "expression": "54*3",
+          "expected": "162"
+        }
+      ]
+    },
+    {
+      "id": "6(ii)",
+      "section": "Mathematics",
+      "prompt": "Frog covers 8 m in 2 equal jumps. Distance from start after 11 same jumps?",
+      "steps": [
+        "8 / 2 = 4 m per jump.",
+        "11 x 4 = 44."
+      ],
+      "answer": "44 m",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "8 / 2",
+          "expected": "4"
+        },
+        {
+          "expression": "11*4",
+          "expected": "44"
+        }
+      ]
+    },
+    {
+      "id": "6(iii)",
+      "section": "Mathematics",
+      "prompt": "Musa uses 7/20 of her salary, Maria 30%of her salary. Compare percentages.",
+      "steps": [
+        "7/20 x 100 = 35%.",
+        "35 - 30 = 5 percentage points.",
+        "Their actual cash difference needs their salaries."
+      ],
+      "answer": "Musa uses 5 percentage points more; cash difference cannot be found without salaries.",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "7/20*100",
+          "expected": "35"
+        },
+        {
+          "expression": "35 - 30",
+          "expected": "5"
+        }
+      ]
+    },
+    {
+      "id": "7(i)",
+      "section": "Mathematics",
+      "prompt": "Rectangle length is twice width; perimeter 96 cm. Find area.",
+      "steps": [
+        "Let width w, length 2 w;96=2(w+2 w)=6 w.",
+        "96 / 6 = 16 cm width; length 32 cm.",
+        "16 x 32 = 512."
+      ],
+      "answer": "512 cm²",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "96 / 6",
+          "expected": "16"
+        },
+        {
+          "expression": "16*32",
+          "expected": "512"
+        }
+      ]
+    },
+    {
+      "id": "7(ii)",
+      "section": "Mathematics",
+      "prompt": "How many symmetry lines does a non-square rectangle have?",
+      "steps": [
+        "Vertical and horizontal midlines preserve the figure; diagonals do not."
+      ],
+      "answer": "2",
+      "source_page": 3
+    },
+    {
+      "id": "7(iii)",
+      "section": "Mathematics",
+      "prompt": "Find perimeter of quadrilateral ABDC with AB 13 cm, BD 4 cm, DC 7 cm, CA 6 cm.",
+      "steps": [
+        "Add all four boundary labels.",
+        "13 + 4 + 7 + 6 = 30."
+      ],
+      "answer": "30 cm",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "13 + 4 + 7 + 6",
+          "expected": "30"
+        }
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Mathematics",
+      "prompt": "Tourists Friday 97, Saturday XCIX, Sunday 4³. Sunday tourists?",
+      "steps": [
+        "4³=4 x 4 x 4.",
+        "4 x 4 x 4 = 64."
+      ],
+      "answer": "64",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "4**3",
+          "expected": "64"
+        },
+        {
+          "expression": "4*4*4",
+          "expected": "64"
+        }
+      ]
+    },
+    {
+      "id": "8(ii)",
+      "section": "Mathematics",
+      "prompt": "Total tourists Friday 97, Saturday XCIX, Sunday 4³?",
+      "steps": [
+        "XCIX=99;4³=64.",
+        "97 + 99 + 64 = 260."
+      ],
+      "answer": "260",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "4**3",
+          "expected": "64"
+        },
+        {
+          "expression": "97 + 99 + 64",
+          "expected": "260"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Mathematics": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - MESP Tanzania Standard Five Terminal Examinations May 2024",
+      "url": "https://darasahuru.ac.tz/mesp-tanzania-standard-five-terminal-examinations-may-2024/"
+    }
+  ],
+  "limitations": [
+    "3(ii)and 3(iii)are the same printed question; both retained.",
+    "6(iii)compares percentages of different salaries; only a 5 percentage-point difference is determined.",
+    "7(iii)the drawing is schematic; perimeter follows printed boundary labels."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "3c3c6096bd5dff9e76b4075f200d417773f769d654ad085b5f842d2575c93818"
+}

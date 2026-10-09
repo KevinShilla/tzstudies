@@ -1,0 +1,622 @@
+{
+  "exam": "Mathematics-S4-2025-Dodoma-region-January-Mock-exam.pdf",
+  "output": "Mathematics-S4-2025-Dodoma-region-January-Mock-exam-AnswerKey.pdf",
+  "sha256": "e1ac703eacce75af391e4311ca99f275e1f4590672b8630a57d4cd4f6284f975",
+  "subject": "Mathematics",
+  "level": "Standard Four",
+  "year": "2025",
+  "code": "Not printed in source",
+  "board": "Dodoma region",
+  "exam_type": "Mock exam - January",
+  "question_count": "25 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Numbers and applications",
+      "prompt": "Write 20392 in words.",
+      "steps": [
+        "20392 = 20000 +300 +90 +2."
+      ],
+      "answer": "Twenty thousand three hundred and ninety-two",
+      "source_page": 2
+    },
+    {
+      "id": "1(ii)",
+      "section": "Numbers and applications",
+      "prompt": "Write XXXIV in Arabic numerals.",
+      "steps": [
+        "XXX=30; IV=4.",
+        "30 + 4 = 34."
+      ],
+      "answer": "34",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "30 + 4",
+          "expected": "34"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Numbers and applications",
+      "prompt": "Give the value of underlined 4 in 3402.",
+      "steps": [
+        "4 occupies hundreds.",
+        "4 x 100 = 400."
+      ],
+      "answer": "400",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "4 * 100",
+          "expected": "400"
+        }
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Numbers and applications",
+      "prompt": "Expand 9536.",
+      "steps": [
+        "Separate thousands, hundreds, tens, ones."
+      ],
+      "answer": "9000 +500 +30 +6",
+      "source_page": 2
+    },
+    {
+      "id": "1(v)",
+      "section": "Numbers and applications",
+      "prompt": "Write 680 trees in words.",
+      "steps": [
+        "680 = 600 +80."
+      ],
+      "answer": "Six hundred and eighty trees",
+      "source_page": 2
+    },
+    {
+      "id": "2(i)",
+      "section": "Numbers and applications",
+      "prompt": "Continue 1,3,5,7,[ ].",
+      "steps": [
+        "Increase by 2; 7 + 2 = 9."
+      ],
+      "answer": "9",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "7 + 2",
+          "expected": "9"
+        }
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Numbers and applications",
+      "prompt": "Arrange 20,4,12,7,16,3,10 from smallest to largest.",
+      "steps": [
+        "Choose least remaining number at each step."
+      ],
+      "answer": "3,4,7,10,12,16,20",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Numbers and applications",
+      "prompt": "Fill XXII, XXV, XXVIII,[ ], XXXIV.",
+      "steps": [
+        "Values 22,25,28,31,34 increase by 3.",
+        "31=XXXI."
+      ],
+      "answer": "XXXI",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Numbers and applications",
+      "prompt": "Fill 36,33,30,[ ],24.",
+      "steps": [
+        "Decrease by 3; 30 - 3 = 27."
+      ],
+      "answer": "27",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "30 - 3",
+          "expected": "27"
+        }
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Numbers and applications",
+      "prompt": "A frog reaches 21 m in 3 equal jumps. How far after 4 equal jumps?",
+      "steps": [
+        "One jump 21 / 3 = 7 m.",
+        "4 x 7 = 28."
+      ],
+      "answer": "28 m",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "21 / 3",
+          "expected": "7"
+        },
+        {
+          "expression": "4 * 7",
+          "expected": "28"
+        }
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Calculations",
+      "prompt": "Add 1715 +263.",
+      "steps": [
+        "1 place: 5 + 3 = 8; write 8.",
+        "10 place: 1 + 6 = 7; write 7.",
+        "100 place: 7 + 2 = 9; write 9.",
+        "1000 place: 1 + 0 = 1; write 1.",
+        "1715 + 263 = 1978."
+      ],
+      "answer": "1978",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "1715+263",
+          "expected": "1978"
+        },
+        {
+          "expression": "5 + 3",
+          "expected": "8"
+        },
+        {
+          "expression": "1 + 6",
+          "expected": "7"
+        },
+        {
+          "expression": "7 + 2",
+          "expected": "9"
+        },
+        {
+          "expression": "1 + 0",
+          "expected": "1"
+        },
+        {
+          "expression": "1715 + 263",
+          "expected": "1978"
+        }
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Calculations",
+      "prompt": "Divide 715 by 5.",
+      "steps": [
+        "7 / 5: write 1; 1 x 5 = 5; 7 - 5 = 2.",
+        "21 / 5: write 4; 4 x 5 = 20; 21 - 20 = 1.",
+        "15 / 5: write 3; 3 x 5 = 15; 15 - 15 = 0.",
+        "5 x 143 = 715.",
+        "715 / 5 = 143."
+      ],
+      "answer": "143",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "715/5",
+          "expected": "143"
+        },
+        {
+          "expression": "1 * 5",
+          "expected": "5"
+        },
+        {
+          "expression": "7 - 5",
+          "expected": "2"
+        },
+        {
+          "expression": "4 * 5",
+          "expected": "20"
+        },
+        {
+          "expression": "21 - 20",
+          "expected": "1"
+        },
+        {
+          "expression": "3 * 5",
+          "expected": "15"
+        },
+        {
+          "expression": "15 - 15",
+          "expected": "0"
+        },
+        {
+          "expression": "5 * 143",
+          "expected": "715"
+        },
+        {
+          "expression": "715 / 5",
+          "expected": "143"
+        }
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Calculations",
+      "prompt": "Mkombozi has 826 students,408 boys. Find girls.",
+      "steps": [
+        "1 place: regroup 1 from the next place; 16 - 8 = 8.",
+        "10 place: 1 - 0 = 1.",
+        "100 place: 8 - 4 = 4.",
+        "826 - 408 = 418; check 418 + 408 = 826."
+      ],
+      "answer": "418 girls",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "826-408",
+          "expected": "418"
+        },
+        {
+          "expression": "16 - 8",
+          "expected": "8"
+        },
+        {
+          "expression": "1 - 0",
+          "expected": "1"
+        },
+        {
+          "expression": "8 - 4",
+          "expected": "4"
+        },
+        {
+          "expression": "826 - 408",
+          "expected": "418"
+        },
+        {
+          "expression": "418 + 408",
+          "expected": "826"
+        }
+      ]
+    },
+    {
+      "id": "3(iv)",
+      "section": "Calculations",
+      "prompt": "Multiply 49 x 53.",
+      "steps": [
+        "Split into place values: 40 x 53 = 2120; 9 x 53 = 477.",
+        "Add the partial products: 2597."
+      ],
+      "answer": "2597",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "49*53",
+          "expected": "2597"
+        },
+        {
+          "expression": "40 * 53",
+          "expected": "2120"
+        },
+        {
+          "expression": "9 * 53",
+          "expected": "477"
+        }
+      ]
+    },
+    {
+      "id": "3(v)",
+      "section": "Calculations",
+      "prompt": "Kijo has 9750 shillings, gives some away, and retains 3250. Amount given away?",
+      "steps": [
+        "1 place: 0 - 0 = 0.",
+        "10 place: 5 - 5 = 0.",
+        "100 place: 7 - 2 = 5.",
+        "1000 place: 9 - 3 = 6.",
+        "9750 - 3250 = 6500; check 6500 + 3250 = 9750."
+      ],
+      "answer": "6500 shillings",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "9750-3250",
+          "expected": "6500"
+        },
+        {
+          "expression": "0 - 0",
+          "expected": "0"
+        },
+        {
+          "expression": "5 - 5",
+          "expected": "0"
+        },
+        {
+          "expression": "7 - 2",
+          "expected": "5"
+        },
+        {
+          "expression": "9 - 3",
+          "expected": "6"
+        },
+        {
+          "expression": "9750 - 3250",
+          "expected": "6500"
+        },
+        {
+          "expression": "6500 + 3250",
+          "expected": "9750"
+        }
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Numbers and applications",
+      "prompt": "Name the pictured four-sided shape.",
+      "steps": [
+        "All four sides are intended equal, with right angles."
+      ],
+      "answer": "Square",
+      "source_page": 3
+    },
+    {
+      "id": "4(ii)",
+      "section": "Numbers and applications",
+      "prompt": "Write the shaded part of the 4 equal rectangles.",
+      "steps": [
+        "1 of 4 equal parts is shaded."
+      ],
+      "answer": "1/4",
+      "source_page": 3
+    },
+    {
+      "id": "4(iii)",
+      "section": "Numbers and applications",
+      "prompt": "Find perimeter of the triangle with sides 7 cm,7 cm,7 cm.",
+      "steps": [
+        "Add all boundary lengths.",
+        "7 + 7 + 7 = 21."
+      ],
+      "answer": "21 cm",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "7 + 7 + 7",
+          "expected": "21"
+        }
+      ]
+    },
+    {
+      "id": "4(iv)",
+      "section": "Numbers and applications",
+      "prompt": "Triangle perimeter 48 cm; two sides 12 cm and 20 cm. Find the third side.",
+      "steps": [
+        "12 + 20 = 32.",
+        "48 - 32 = 16."
+      ],
+      "answer": "16 cm",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "12 + 20",
+          "expected": "32"
+        },
+        {
+          "expression": "48 - 32",
+          "expected": "16"
+        }
+      ]
+    },
+    {
+      "id": "4(v)",
+      "section": "Numbers and applications",
+      "prompt": "Draw line segment AB.",
+      "steps": [
+        "Draw two endpoints labelled A and B.",
+        "Join by a straight line without arrowheads."
+      ],
+      "answer": "A -------- B",
+      "source_page": 4
+    },
+    {
+      "id": "5(i)",
+      "section": "Calculations",
+      "prompt": "Add Sh 1940 +Sh 265.",
+      "steps": [
+        "1 place: 0 + 5 = 5; write 5.",
+        "10 place: 4 + 6 = 10; write 0, carry 1.",
+        "100 place: 9 + 2 + carry 1 = 12; write 2, carry 1.",
+        "1000 place: 1 + 0 + carry 1 = 2; write 2.",
+        "1940 + 265 = 2205."
+      ],
+      "answer": "2205 shillings",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "1940+265",
+          "expected": "2205"
+        },
+        {
+          "expression": "0 + 5",
+          "expected": "5"
+        },
+        {
+          "expression": "4 + 6",
+          "expected": "10"
+        },
+        {
+          "expression": "1940 + 265",
+          "expected": "2205"
+        }
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Calculations",
+      "prompt": "Subtract Sh 3150 -Sh 1500.",
+      "steps": [
+        "1 place: 0 - 0 = 0.",
+        "10 place: 5 - 0 = 5.",
+        "100 place: regroup 1 from the next place; 11 - 5 = 6.",
+        "1000 place: 2 - 1 = 1.",
+        "3150 - 1500 = 1650; check 1650 + 1500 = 3150."
+      ],
+      "answer": "1650 shillings",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "3150-1500",
+          "expected": "1650"
+        },
+        {
+          "expression": "0 - 0",
+          "expected": "0"
+        },
+        {
+          "expression": "5 - 0",
+          "expected": "5"
+        },
+        {
+          "expression": "11 - 5",
+          "expected": "6"
+        },
+        {
+          "expression": "2 - 1",
+          "expected": "1"
+        },
+        {
+          "expression": "3150 - 1500",
+          "expected": "1650"
+        },
+        {
+          "expression": "1650 + 1500",
+          "expected": "3150"
+        }
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Calculations",
+      "prompt": "Multiply Sh 300 by 25.",
+      "steps": [
+        "Split into place values: 300 x 25 = 7500.",
+        "Add the partial products: 7500."
+      ],
+      "answer": "7500 shillings",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "300*25",
+          "expected": "7500"
+        },
+        {
+          "expression": "300 * 25",
+          "expected": "7500"
+        }
+      ]
+    },
+    {
+      "id": "5(iv)",
+      "section": "Calculations",
+      "prompt": "Mariam has 8650 shillings and spends 3800. What remains?",
+      "steps": [
+        "1 place: 0 - 0 = 0.",
+        "10 place: 5 - 0 = 5.",
+        "100 place: regroup 1 from the next place; 16 - 8 = 8.",
+        "1000 place: 7 - 3 = 4.",
+        "8650 - 3800 = 4850; check 4850 + 3800 = 8650."
+      ],
+      "answer": "4850 shillings",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "8650-3800",
+          "expected": "4850"
+        },
+        {
+          "expression": "0 - 0",
+          "expected": "0"
+        },
+        {
+          "expression": "5 - 0",
+          "expected": "5"
+        },
+        {
+          "expression": "16 - 8",
+          "expected": "8"
+        },
+        {
+          "expression": "7 - 3",
+          "expected": "4"
+        },
+        {
+          "expression": "8650 - 3800",
+          "expected": "4850"
+        },
+        {
+          "expression": "4850 + 3800",
+          "expected": "8650"
+        }
+      ]
+    },
+    {
+      "id": "5(v)",
+      "section": "Numbers and applications",
+      "prompt": "How many 1000-shilling notes equal 10000 shillings?",
+      "steps": [
+        "10000 / 1000 = 10."
+      ],
+      "answer": "10 notes",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "10000 / 1000",
+          "expected": "10"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Numbers and applications": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - DODOMA Standard Four First Mock Exams 2025 With Answers",
+      "url": "https://darasahuru.ac.tz/dodoma-standard-four-first-mock-exams-2025-with-answers/"
+    }
+  ],
+  "limitations": [
+    "Cover mentions seven questions/sections A-C, but the complete printed paper contains only questions 1-5; all 25 printed parts are solved."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "83d3d399d72ac34dde624336234ca3b49324e4ee4ab9b3f28b6ac06bebbc41a4"
+}

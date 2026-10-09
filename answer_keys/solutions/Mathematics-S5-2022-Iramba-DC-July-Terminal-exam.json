@@ -1,0 +1,1973 @@
+{
+  "exam": "Mathematics-S5-2022-Iramba-DC-July-Terminal-exam.pdf",
+  "output": "Mathematics-S5-2022-Iramba-DC-July-Terminal-exam-AnswerKey.pdf",
+  "sha256": "e530ea1520d8acb2e0d32bd3b51776d1b64a3b36cb3bdb13cbf5b6b65e4dabe6",
+  "subject": "Mathematics",
+  "level": "Standard Five",
+  "year": "2022",
+  "code": "Not printed in source",
+  "board": "Iramba DC",
+  "exam_type": "Terminal exam - July",
+  "question_count": "90 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "en-1",
+    "en-2",
+    "en-3",
+    "en-4",
+    "en-5",
+    "en-6",
+    "en-7",
+    "en-8",
+    "en-9",
+    "en-10",
+    "en-11",
+    "en-12",
+    "en-13",
+    "en-14",
+    "en-15",
+    "en-16",
+    "en-17",
+    "en-18",
+    "en-19",
+    "en-20",
+    "en-21",
+    "en-22",
+    "en-23",
+    "en-24",
+    "en-25",
+    "en-26",
+    "en-27",
+    "en-28",
+    "en-29",
+    "en-30",
+    "en-31",
+    "en-32",
+    "en-33",
+    "en-34",
+    "en-35",
+    "en-36",
+    "en-37",
+    "en-38",
+    "en-39",
+    "en-40",
+    "en-41",
+    "en-42",
+    "en-43",
+    "en-44",
+    "en-45",
+    "sw-1",
+    "sw-2",
+    "sw-3",
+    "sw-4",
+    "sw-5",
+    "sw-6",
+    "sw-7",
+    "sw-8",
+    "sw-9",
+    "sw-10",
+    "sw-11",
+    "sw-12",
+    "sw-13",
+    "sw-14",
+    "sw-15",
+    "sw-16",
+    "sw-17",
+    "sw-18",
+    "sw-19",
+    "sw-20",
+    "sw-21",
+    "sw-22",
+    "sw-23",
+    "sw-24",
+    "sw-25",
+    "sw-26",
+    "sw-27",
+    "sw-28",
+    "sw-29",
+    "sw-30",
+    "sw-31",
+    "sw-32",
+    "sw-33",
+    "sw-34",
+    "sw-35",
+    "sw-36",
+    "sw-37",
+    "sw-38",
+    "sw-39",
+    "sw-40",
+    "sw-41",
+    "sw-42",
+    "sw-43",
+    "sw-44",
+    "sw-45"
+  ],
+  "questions": [
+    {
+      "id": "en-1",
+      "section": "English version - Calculations and applications",
+      "prompt": "Name the place value of 5 in 528041.",
+      "steps": [
+        "The first of 6 digits is hundred-thousands."
+      ],
+      "answer": "Hundred-thousands",
+      "source_page": 1
+    },
+    {
+      "id": "en-2",
+      "section": "English version - Calculations and applications",
+      "prompt": "Expand 708305.",
+      "steps": [
+        "Separate all six places, including zeros."
+      ],
+      "answer": "700000 +0 +8000 +300 +0 +5",
+      "source_page": 1
+    },
+    {
+      "id": "en-3",
+      "section": "English version - Calculations and applications",
+      "prompt": "Write 300000 +0 +200 +9 in short form.",
+      "steps": [
+        "300000 + 0 + 200 + 9 = 300209."
+      ],
+      "answer": "300209",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "300000 + 0 + 200 + 9",
+          "expected": "300209"
+        }
+      ]
+    },
+    {
+      "id": "en-4",
+      "section": "English version - Calculations and applications",
+      "prompt": "Write 600001 in words.",
+      "steps": [
+        "600001 = 600000 +1."
+      ],
+      "answer": "Six hundred thousand and one",
+      "source_page": 1
+    },
+    {
+      "id": "en-5",
+      "section": "English version - Calculations and applications",
+      "prompt": "Write one hundred thousand and one in figures.",
+      "steps": [
+        "100000 + 1 = 100001."
+      ],
+      "answer": "100001",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "100000 + 1",
+          "expected": "100001"
+        }
+      ]
+    },
+    {
+      "id": "en-6",
+      "section": "English version - Calculations and applications",
+      "prompt": "What is the upper number in a fraction called?",
+      "steps": [
+        "It counts selected equal parts."
+      ],
+      "answer": "Numerator",
+      "source_page": 1
+    },
+    {
+      "id": "en-7",
+      "section": "English version - Calculations and applications",
+      "prompt": "What type of fraction is 4/7?",
+      "steps": [
+        "4<7, so the value is less than 1."
+      ],
+      "answer": "Proper fraction",
+      "source_page": 1
+    },
+    {
+      "id": "en-8",
+      "section": "English version - Calculations and applications",
+      "prompt": "Give an example of an improper fraction.",
+      "steps": [
+        "Numerator must be at least denominator.",
+        "7>5."
+      ],
+      "answer": "7/5 (many examples accepted)",
+      "source_page": 1
+    },
+    {
+      "id": "en-9",
+      "section": "English version - Calculations and applications",
+      "prompt": "Give an example of a mixed number.",
+      "steps": [
+        "Combine a whole number with a proper fraction."
+      ],
+      "answer": "5 1/2",
+      "source_page": 1
+    },
+    {
+      "id": "en-10",
+      "section": "English version - Calculations and applications",
+      "prompt": "Convert 9 1/8 to an improper fraction.",
+      "steps": [
+        "9 x 8 = 72.",
+        "72 + 1 = 73; keep denominator 8."
+      ],
+      "answer": "73/8",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "9+1/8",
+          "expected": "73/8"
+        },
+        {
+          "expression": "9*8",
+          "expected": "72"
+        },
+        {
+          "expression": "72 + 1",
+          "expected": "73"
+        }
+      ]
+    },
+    {
+      "id": "en-11",
+      "section": "English version - Calculations and applications",
+      "prompt": "Continue 7,21,35,[ ].",
+      "steps": [
+        "Increase 14; 35 + 14 = 49."
+      ],
+      "answer": "49",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "35 + 14",
+          "expected": "49"
+        }
+      ]
+    },
+    {
+      "id": "en-12",
+      "section": "English version - Calculations and applications",
+      "prompt": "Add 860754 +110467.",
+      "steps": [
+        "1 place: 4 + 7 = 11; write 1, carry 1.",
+        "10 place: 5 + 6 + carry 1 = 12; write 2, carry 1.",
+        "100 place: 7 + 4 + carry 1 = 12; write 2, carry 1.",
+        "1000 place: 0 + 0 + carry 1 = 1; write 1.",
+        "10000 place: 6 + 1 = 7; write 7.",
+        "100000 place: 8 + 1 = 9; write 9.",
+        "860754 + 110467 = 971221."
+      ],
+      "answer": "971221",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "860754+110467",
+          "expected": "971221"
+        },
+        {
+          "expression": "4 + 7",
+          "expected": "11"
+        },
+        {
+          "expression": "6 + 1",
+          "expected": "7"
+        },
+        {
+          "expression": "8 + 1",
+          "expected": "9"
+        },
+        {
+          "expression": "860754 + 110467",
+          "expected": "971221"
+        }
+      ]
+    },
+    {
+      "id": "en-13",
+      "section": "English version - Calculations and applications",
+      "prompt": "A farmer has 352645 cows,124565 sheep,111990 goats. Total?",
+      "steps": [
+        "352645 + 124565 = 477210.",
+        "352645 + 124565 + 111990 = 589200.",
+        "352645+124565+111990 = 589200."
+      ],
+      "answer": "589200 animals",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "352645+124565+111990",
+          "expected": "589200"
+        },
+        {
+          "expression": "352645 + 124565",
+          "expected": "477210"
+        },
+        {
+          "expression": "352645 + 124565 + 111990",
+          "expected": "589200"
+        }
+      ]
+    },
+    {
+      "id": "en-14",
+      "section": "English version - Calculations and applications",
+      "prompt": "Subtract 185006 -144889.",
+      "steps": [
+        "1 place: regroup 1 from the next place; 16 - 9 = 7.",
+        "10 place: regroup 1 from the next place; 9 - 8 = 1.",
+        "100 place: regroup 1 from the next place; 9 - 8 = 1.",
+        "1000 place: 4 - 4 = 0.",
+        "10000 place: 8 - 4 = 4.",
+        "100000 place: 1 - 1 = 0.",
+        "185006 - 144889 = 40117; check 40117 + 144889 = 185006."
+      ],
+      "answer": "40117",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "185006-144889",
+          "expected": "40117"
+        },
+        {
+          "expression": "16 - 9",
+          "expected": "7"
+        },
+        {
+          "expression": "9 - 8",
+          "expected": "1"
+        },
+        {
+          "expression": "4 - 4",
+          "expected": "0"
+        },
+        {
+          "expression": "8 - 4",
+          "expected": "4"
+        },
+        {
+          "expression": "1 - 1",
+          "expected": "0"
+        },
+        {
+          "expression": "185006 - 144889",
+          "expected": "40117"
+        },
+        {
+          "expression": "40117 + 144889",
+          "expected": "185006"
+        }
+      ]
+    },
+    {
+      "id": "en-15",
+      "section": "English version - Calculations and applications",
+      "prompt": "Women 200001, men 79889. How many more women?",
+      "steps": [
+        "1 place: regroup 1 from the next place; 11 - 9 = 2.",
+        "10 place: regroup 1 from the next place; 9 - 8 = 1.",
+        "100 place: regroup 1 from the next place; 9 - 8 = 1.",
+        "1000 place: regroup 1 from the next place; 9 - 9 = 0.",
+        "10000 place: regroup 1 from the next place; 9 - 7 = 2.",
+        "100000 place: 1 - 0 = 1.",
+        "200001 - 79889 = 120112; check 120112 + 79889 = 200001."
+      ],
+      "answer": "120112 women",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "200001-79889",
+          "expected": "120112"
+        },
+        {
+          "expression": "11 - 9",
+          "expected": "2"
+        },
+        {
+          "expression": "9 - 8",
+          "expected": "1"
+        },
+        {
+          "expression": "9 - 9",
+          "expected": "0"
+        },
+        {
+          "expression": "9 - 7",
+          "expected": "2"
+        },
+        {
+          "expression": "1 - 0",
+          "expected": "1"
+        },
+        {
+          "expression": "200001 - 79889",
+          "expected": "120112"
+        },
+        {
+          "expression": "120112 + 79889",
+          "expected": "200001"
+        }
+      ]
+    },
+    {
+      "id": "en-16",
+      "section": "English version - Calculations and applications",
+      "prompt": "Multiply 540 x 45.",
+      "steps": [
+        "Split into place values: 500 x 45 = 22500; 40 x 45 = 1800.",
+        "Add the partial products: 24300."
+      ],
+      "answer": "24300",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "540*45",
+          "expected": "24300"
+        },
+        {
+          "expression": "500*45",
+          "expected": "22500"
+        },
+        {
+          "expression": "40*45",
+          "expected": "1800"
+        }
+      ]
+    },
+    {
+      "id": "en-17",
+      "section": "English version - Calculations and applications",
+      "prompt": "A worker earns 2400 shillings daily. Find payment in 5 weeks.",
+      "steps": [
+        "5 x 7 = 35 days.",
+        "35 x 2400 = 84000."
+      ],
+      "answer": "84000 shillings",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "5*7",
+          "expected": "35"
+        },
+        {
+          "expression": "35*2400",
+          "expected": "84000"
+        }
+      ]
+    },
+    {
+      "id": "en-18",
+      "section": "English version - Calculations and applications",
+      "prompt": "Give the hundreds digit in 92657.",
+      "steps": [
+        "Read from right:7 ones,5 tens,6 hundreds."
+      ],
+      "answer": "6",
+      "source_page": 1
+    },
+    {
+      "id": "en-19",
+      "section": "English version - Calculations and applications",
+      "prompt": "Harvest 236 sacks daily for 71 days. Total?",
+      "steps": [
+        "Split into place values: 200 x 71 = 14200; 30 x 71 = 2130; 6 x 71 = 426.",
+        "Add the partial products: 16756."
+      ],
+      "answer": "16756 sacks",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "236*71",
+          "expected": "16756"
+        },
+        {
+          "expression": "200*71",
+          "expected": "14200"
+        },
+        {
+          "expression": "30*71",
+          "expected": "2130"
+        },
+        {
+          "expression": "6*71",
+          "expected": "426"
+        }
+      ]
+    },
+    {
+      "id": "en-20",
+      "section": "English version - Calculations and applications",
+      "prompt": "Share 1625 shillings giving 125 to each child. Number of children?",
+      "steps": [
+        "162 / 125: write 1; 1 x 125 = 125; 162 - 125 = 37.",
+        "375 / 125: write 3; 3 x 125 = 375; 375 - 375 = 0.",
+        "125 x 13 = 1625.",
+        "1625 / 125 = 13."
+      ],
+      "answer": "13 children",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "1625/125",
+          "expected": "13"
+        },
+        {
+          "expression": "1*125",
+          "expected": "125"
+        },
+        {
+          "expression": "162 - 125",
+          "expected": "37"
+        },
+        {
+          "expression": "3*125",
+          "expected": "375"
+        },
+        {
+          "expression": "375 - 375",
+          "expected": "0"
+        },
+        {
+          "expression": "125*13",
+          "expected": "1625"
+        },
+        {
+          "expression": "1625 / 125",
+          "expected": "13"
+        }
+      ]
+    },
+    {
+      "id": "en-21",
+      "section": "English version - Calculations and applications",
+      "prompt": "Read the six-rod abacus.",
+      "steps": [
+        "Count beads left to right:5,2,6,0,3,5.",
+        "500000 + 20000 + 6000 + 0 + 30 + 5 = 526035."
+      ],
+      "answer": "526035",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "500000 + 20000 + 6000 + 0 + 30 + 5",
+          "expected": "526035"
+        }
+      ]
+    },
+    {
+      "id": "en-22",
+      "section": "English version - Calculations and applications",
+      "prompt": "Enrolments 764,419,340. Total in first and third years?",
+      "steps": [
+        "1 place: 4 + 0 = 4; write 4.",
+        "10 place: 6 + 4 = 10; write 0, carry 1.",
+        "100 place: 7 + 3 + carry 1 = 11; write 1, carry 1.",
+        "Write final carry 1 in the next place.",
+        "764 + 340 = 1104."
+      ],
+      "answer": "1104 pupils",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "764+340",
+          "expected": "1104"
+        },
+        {
+          "expression": "4 + 0",
+          "expected": "4"
+        },
+        {
+          "expression": "6 + 4",
+          "expected": "10"
+        },
+        {
+          "expression": "764 + 340",
+          "expected": "1104"
+        }
+      ]
+    },
+    {
+      "id": "en-23",
+      "section": "English version - Calculations and applications",
+      "prompt": "List even numbers in 20,25,29,32,47,50,63,76,81,100.",
+      "steps": [
+        "Even numbers end 0,2,4,6,8."
+      ],
+      "answer": "20,32,50,76,100",
+      "source_page": 1
+    },
+    {
+      "id": "en-24",
+      "section": "English version - Calculations and applications",
+      "prompt": "List prime numbers from 1 through 11.",
+      "steps": [
+        "A prime has exactly 2 positive factors;1 is not prime."
+      ],
+      "answer": "2,3,5,7,11",
+      "source_page": 1
+    },
+    {
+      "id": "en-25",
+      "section": "English version - Calculations and applications",
+      "prompt": "Find the least positive multiple of 10,24,30.",
+      "steps": [
+        "10=2 x 5;24=2³x 3;30=2 x 3 x 5.",
+        "Take highest powers:2³ x 3 x 5 =120."
+      ],
+      "answer": "120",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "2**3*3*5",
+          "expected": "120"
+        }
+      ]
+    },
+    {
+      "id": "en-26",
+      "section": "English version - Calculations and applications",
+      "prompt": "Aidari eats 2/5 of an orange and Nufaila 3/7. Fraction eaten altogether?",
+      "steps": [
+        "Common denominator 35.",
+        "2/5=14/35;3/7=15/35.",
+        "14 + 15 = 29."
+      ],
+      "answer": "29/35",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2/5+3/7",
+          "expected": "29/35"
+        },
+        {
+          "expression": "2/5",
+          "expected": "2/5"
+        },
+        {
+          "expression": "3/7",
+          "expected": "3/7"
+        },
+        {
+          "expression": "14 + 15",
+          "expected": "29"
+        }
+      ]
+    },
+    {
+      "id": "en-27",
+      "section": "English version - Calculations and applications",
+      "prompt": "Divide 2021 by 43.",
+      "steps": [
+        "202 / 43: write 4; 4 x 43 = 172; 202 - 172 = 30.",
+        "301 / 43: write 7; 7 x 43 = 301; 301 - 301 = 0.",
+        "43 x 47 = 2021.",
+        "2021 / 43 = 47."
+      ],
+      "answer": "47",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2021/43",
+          "expected": "47"
+        },
+        {
+          "expression": "4*43",
+          "expected": "172"
+        },
+        {
+          "expression": "202 - 172",
+          "expected": "30"
+        },
+        {
+          "expression": "7*43",
+          "expected": "301"
+        },
+        {
+          "expression": "301 - 301",
+          "expected": "0"
+        },
+        {
+          "expression": "43*47",
+          "expected": "2021"
+        },
+        {
+          "expression": "2021 / 43",
+          "expected": "47"
+        }
+      ]
+    },
+    {
+      "id": "en-28",
+      "section": "English version - Calculations and applications",
+      "prompt": "Write 48 in Roman numerals.",
+      "steps": [
+        "40=XL;8=VIII.",
+        "Combine XLVIII."
+      ],
+      "answer": "XLVIII",
+      "source_page": 2
+    },
+    {
+      "id": "en-29",
+      "section": "English version - Calculations and applications",
+      "prompt": "How many 500-shilling coins equal 10000 shillings?",
+      "steps": [
+        "10000 / 500 = 20."
+      ],
+      "answer": "20 coins",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "10000 / 500",
+          "expected": "20"
+        }
+      ]
+    },
+    {
+      "id": "en-30",
+      "section": "English version - Calculations and applications",
+      "prompt": "Find digitw in 5 w 613 -39819 =9243 w.",
+      "steps": [
+        "Even the greatest left number 59613 gives 59613 - 39819 = 19794.",
+        "The right side is at least 92430, so equality is impossible."
+      ],
+      "answer": "No digit solution as printed.",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "59613 - 39819",
+          "expected": "19794"
+        }
+      ]
+    },
+    {
+      "id": "en-31",
+      "section": "English version - Calculations and applications",
+      "prompt": "One sack feeds 35 pupils. Sacks for 4690 pupils?",
+      "steps": [
+        "46 / 35: write 1; 1 x 35 = 35; 46 - 35 = 11.",
+        "119 / 35: write 3; 3 x 35 = 105; 119 - 105 = 14.",
+        "140 / 35: write 4; 4 x 35 = 140; 140 - 140 = 0.",
+        "35 x 134 = 4690.",
+        "4690 / 35 = 134."
+      ],
+      "answer": "134 sacks",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "4690/35",
+          "expected": "134"
+        },
+        {
+          "expression": "1*35",
+          "expected": "35"
+        },
+        {
+          "expression": "46 - 35",
+          "expected": "11"
+        },
+        {
+          "expression": "3*35",
+          "expected": "105"
+        },
+        {
+          "expression": "119 - 105",
+          "expected": "14"
+        },
+        {
+          "expression": "4*35",
+          "expected": "140"
+        },
+        {
+          "expression": "140 - 140",
+          "expected": "0"
+        },
+        {
+          "expression": "35*134",
+          "expected": "4690"
+        },
+        {
+          "expression": "4690 / 35",
+          "expected": "134"
+        }
+      ]
+    },
+    {
+      "id": "en-32",
+      "section": "English version - Calculations and applications",
+      "prompt": "Calculate 1 -1/9.",
+      "steps": [
+        "1=9/9.",
+        "9 - 1 = 8; denominator 9 stays."
+      ],
+      "answer": "8/9",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "1-1/9",
+          "expected": "8/9"
+        },
+        {
+          "expression": "9 - 1",
+          "expected": "8"
+        }
+      ]
+    },
+    {
+      "id": "en-33",
+      "section": "English version - Calculations and applications",
+      "prompt": "Suhaila completes 7/8 of work. What fraction remains?",
+      "steps": [
+        "1=8/8.",
+        "8 - 7 = 1."
+      ],
+      "answer": "1/8",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "1-7/8",
+          "expected": "1/8"
+        },
+        {
+          "expression": "8 - 7",
+          "expected": "1"
+        }
+      ]
+    },
+    {
+      "id": "en-34",
+      "section": "English version - Calculations and applications",
+      "prompt": "Convert 3 hours 20 minutes to minutes.",
+      "steps": [
+        "3 x 60 = 180.",
+        "180 + 20 = 200."
+      ],
+      "answer": "200 minutes",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "3*60",
+          "expected": "180"
+        },
+        {
+          "expression": "180 + 20",
+          "expected": "200"
+        }
+      ]
+    },
+    {
+      "id": "en-35",
+      "section": "English version - Calculations and applications",
+      "prompt": "Find 1/2 of 40.",
+      "steps": [
+        "40 / 2 = 20."
+      ],
+      "answer": "20",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "40 / 2",
+          "expected": "20"
+        }
+      ]
+    },
+    {
+      "id": "en-36",
+      "section": "English version - Calculations and applications",
+      "prompt": "Bilali lives 1000 cm from school; Shakila 1 km. Who is nearer?",
+      "steps": [
+        "1000 / 100 = 10 m.",
+        "1 km=1000 m;10<1000."
+      ],
+      "answer": "Bilali",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "1000 / 100",
+          "expected": "10"
+        }
+      ]
+    },
+    {
+      "id": "en-37",
+      "section": "English version - Calculations and applications",
+      "prompt": "Convert 7 km to metres.",
+      "steps": [
+        "7 x 1000 = 7000."
+      ],
+      "answer": "7000 m",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "7*1000",
+          "expected": "7000"
+        }
+      ]
+    },
+    {
+      "id": "en-38",
+      "section": "English version - Calculations and applications",
+      "prompt": "Find perimeter of rectangle 26 cm by 22 cm.",
+      "steps": [
+        "26 + 22 = 48.",
+        "2 x 48 = 96."
+      ],
+      "answer": "96 cm",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "26 + 22",
+          "expected": "48"
+        },
+        {
+          "expression": "2*48",
+          "expected": "96"
+        }
+      ]
+    },
+    {
+      "id": "en-39",
+      "section": "English version - Calculations and applications",
+      "prompt": "Find area of square side 25 cm.",
+      "steps": [
+        "Area=side².",
+        "25 x 25 = 625."
+      ],
+      "answer": "625 cm²",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "25*25",
+          "expected": "625"
+        }
+      ]
+    },
+    {
+      "id": "en-40",
+      "section": "English version - Calculations and applications",
+      "prompt": "Find shaded area of outer rectangle 14 cm by 8 cm with an unshaded 4 cm by 6 cm corner removed.",
+      "steps": [
+        "The paired Swahili drawing places 14 cm on total width; English label is misplaced.",
+        "Outer 14 x 8 = 112 cm².",
+        "Unshaded 4 x 6 = 24 cm².",
+        "112 - 24 = 88 cm²."
+      ],
+      "answer": "88 cm² using the paired diagram",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "14*8",
+          "expected": "112"
+        },
+        {
+          "expression": "4*6",
+          "expected": "24"
+        },
+        {
+          "expression": "112 - 24",
+          "expected": "88"
+        }
+      ]
+    },
+    {
+      "id": "en-41",
+      "section": "English version - Statistics",
+      "prompt": "Attendance Jan 330, Feb 350, Mar 340, Apr 300, May 280. Find mean.",
+      "steps": [
+        "330 + 350 + 340 + 300 + 280 = 1600.",
+        "1600 / 5 = 320."
+      ],
+      "answer": "320 pupils",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "330 + 350 + 340 + 300 + 280",
+          "expected": "1600"
+        },
+        {
+          "expression": "1600 / 5",
+          "expected": "320"
+        }
+      ]
+    },
+    {
+      "id": "en-42",
+      "section": "English version - Statistics",
+      "prompt": "Using Jan 330, Feb 350, Mar 340, Apr 300, May 280 and mean 320, which months exceed mean?",
+      "steps": [
+        "330,350,340>320;300,280<320."
+      ],
+      "answer": "January, February, March",
+      "source_page": 2
+    },
+    {
+      "id": "en-43",
+      "section": "English version - Statistics",
+      "prompt": "Which month has attendance 350 in the table?",
+      "steps": [
+        "Read the five entries; February is 350."
+      ],
+      "answer": "February",
+      "source_page": 2
+    },
+    {
+      "id": "en-44",
+      "section": "English version - Statistics",
+      "prompt": "How many attend in January?",
+      "steps": [
+        "January entry is 330."
+      ],
+      "answer": "330 pupils",
+      "source_page": 2
+    },
+    {
+      "id": "en-45",
+      "section": "English version - Statistics",
+      "prompt": "Find the lowest attendance in Jan 330, Feb 350, Mar 340, Apr 300, May 280.",
+      "steps": [
+        "Choose smallest entry 280."
+      ],
+      "answer": "280 pupils in May",
+      "source_page": 2
+    },
+    {
+      "id": "sw-1",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Nafasi ya 5 katika 528041 ni ipi?",
+      "steps": [
+        "Namba ina tarakimu 6; nafasi ya kwanza ni mamiaelfu."
+      ],
+      "answer": "Mamiaelfu",
+      "source_page": 4
+    },
+    {
+      "id": "sw-2",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Fafanua 708305.",
+      "steps": [
+        "Tenga thamani ya kila nafasi pamoja na sufuri."
+      ],
+      "answer": "700000 +0 +8000 +300 +0 +5",
+      "source_page": 4
+    },
+    {
+      "id": "sw-3",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Andika 300000 +0 +200 +9 kwa kifupi.",
+      "steps": [
+        "300000 + 0 + 200 + 9 = 300209."
+      ],
+      "answer": "300209",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "300000 + 0 + 200 + 9",
+          "expected": "300209"
+        }
+      ]
+    },
+    {
+      "id": "sw-4",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Andika 609001 kwa maneno, kama ilivyo katika karatasi ya Kiswahili.",
+      "steps": [
+        "609001 = 600000 +9000 +1."
+      ],
+      "answer": "Mia sita na tisa elfu na moja",
+      "source_page": 4
+    },
+    {
+      "id": "sw-5",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Andika mia moja elfu na moja kwa tarakimu.",
+      "steps": [
+        "100000 + 1 = 100001."
+      ],
+      "answer": "100001",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "100000 + 1",
+          "expected": "100001"
+        }
+      ]
+    },
+    {
+      "id": "sw-6",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Namba ya juu katika sehemu huitwaje?",
+      "steps": [
+        "Huonyesha idadi ya sehemu zilizochaguliwa."
+      ],
+      "answer": "Kiasi (numerator)",
+      "source_page": 4
+    },
+    {
+      "id": "sw-7",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "4/7 ni aina gani ya sehemu?",
+      "steps": [
+        "4<7; thamani chini ya 1."
+      ],
+      "answer": "Sehemu ya kawaida",
+      "source_page": 4
+    },
+    {
+      "id": "sw-8",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Toa mfano wa sehemu isiyo ya kawaida.",
+      "steps": [
+        "Kiasi kiwe kikubwa kuliko au sawa na asili."
+      ],
+      "answer": "7/5",
+      "source_page": 4
+    },
+    {
+      "id": "sw-9",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Toa mfano wa sehemu mchanganyiko.",
+      "steps": [
+        "Unganisha namba nzima na sehemu ya kawaida."
+      ],
+      "answer": "5 1/2",
+      "source_page": 4
+    },
+    {
+      "id": "sw-10",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Badili 9 1/8 kuwa sehemu isiyo ya kawaida.",
+      "steps": [
+        "9 x 8 = 72.",
+        "72 + 1 = 73; asili 8."
+      ],
+      "answer": "73/8",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "9+1/8",
+          "expected": "73/8"
+        },
+        {
+          "expression": "9*8",
+          "expected": "72"
+        },
+        {
+          "expression": "72 + 1",
+          "expected": "73"
+        }
+      ]
+    },
+    {
+      "id": "sw-11",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Endeleza 7,21,35,[ ].",
+      "steps": [
+        "Ongeza 14; 35 + 14 = 49."
+      ],
+      "answer": "49",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "35 + 14",
+          "expected": "49"
+        }
+      ]
+    },
+    {
+      "id": "sw-12",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Jumlisha 860754 +110467.",
+      "steps": [
+        "1 nafasi: 4 + 7 = 11; andika 1, beba 1.",
+        "10 nafasi: 5 + 6 + beba 1 = 12; andika 2, beba 1.",
+        "100 nafasi: 7 + 4 + beba 1 = 12; andika 2, beba 1.",
+        "1000 nafasi: 0 + 0 + beba 1 = 1; andika 1.",
+        "10000 nafasi: 6 + 1 = 7; andika 7.",
+        "100000 nafasi: 8 + 1 = 9; andika 9.",
+        "860754 + 110467 = 971221."
+      ],
+      "answer": "971221",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "860754+110467",
+          "expected": "971221"
+        },
+        {
+          "expression": "4 + 7",
+          "expected": "11"
+        },
+        {
+          "expression": "6 + 1",
+          "expected": "7"
+        },
+        {
+          "expression": "8 + 1",
+          "expected": "9"
+        },
+        {
+          "expression": "860754 + 110467",
+          "expected": "971221"
+        }
+      ]
+    },
+    {
+      "id": "sw-13",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Mfugaji ana ng'ombe 352645, kondoo 124565, mbuzi 111990. Jumla?",
+      "steps": [
+        "352645 + 124565 = 477210.",
+        "352645 + 124565 + 111990 = 589200.",
+        "352645+124565+111990 = 589200."
+      ],
+      "answer": "589200 mifugo",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "352645+124565+111990",
+          "expected": "589200"
+        },
+        {
+          "expression": "352645 + 124565",
+          "expected": "477210"
+        },
+        {
+          "expression": "352645 + 124565 + 111990",
+          "expected": "589200"
+        }
+      ]
+    },
+    {
+      "id": "sw-14",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Toa 185006 -144889.",
+      "steps": [
+        "1 nafasi: azima 1 kutoka nafasi inayofuata; 16 - 9 = 7.",
+        "10 nafasi: azima 1 kutoka nafasi inayofuata; 9 - 8 = 1.",
+        "100 nafasi: azima 1 kutoka nafasi inayofuata; 9 - 8 = 1.",
+        "1000 nafasi: 4 - 4 = 0.",
+        "10000 nafasi: 8 - 4 = 4.",
+        "100000 nafasi: 1 - 1 = 0.",
+        "185006 - 144889 = 40117; hakiki 40117 + 144889 = 185006."
+      ],
+      "answer": "40117",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "185006-144889",
+          "expected": "40117"
+        },
+        {
+          "expression": "16 - 9",
+          "expected": "7"
+        },
+        {
+          "expression": "9 - 8",
+          "expected": "1"
+        },
+        {
+          "expression": "4 - 4",
+          "expected": "0"
+        },
+        {
+          "expression": "8 - 4",
+          "expected": "4"
+        },
+        {
+          "expression": "1 - 1",
+          "expected": "0"
+        },
+        {
+          "expression": "185006 - 144889",
+          "expected": "40117"
+        },
+        {
+          "expression": "40117 + 144889",
+          "expected": "185006"
+        }
+      ]
+    },
+    {
+      "id": "sw-15",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Wanawake 200001 na wanaume 79889. Wanawake wangapi zaidi?",
+      "steps": [
+        "1 nafasi: azima 1 kutoka nafasi inayofuata; 11 - 9 = 2.",
+        "10 nafasi: azima 1 kutoka nafasi inayofuata; 9 - 8 = 1.",
+        "100 nafasi: azima 1 kutoka nafasi inayofuata; 9 - 8 = 1.",
+        "1000 nafasi: azima 1 kutoka nafasi inayofuata; 9 - 9 = 0.",
+        "10000 nafasi: azima 1 kutoka nafasi inayofuata; 9 - 7 = 2.",
+        "100000 nafasi: 1 - 0 = 1.",
+        "200001 - 79889 = 120112; hakiki 120112 + 79889 = 200001."
+      ],
+      "answer": "120112 wanawake",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "200001-79889",
+          "expected": "120112"
+        },
+        {
+          "expression": "11 - 9",
+          "expected": "2"
+        },
+        {
+          "expression": "9 - 8",
+          "expected": "1"
+        },
+        {
+          "expression": "9 - 9",
+          "expected": "0"
+        },
+        {
+          "expression": "9 - 7",
+          "expected": "2"
+        },
+        {
+          "expression": "1 - 0",
+          "expected": "1"
+        },
+        {
+          "expression": "200001 - 79889",
+          "expected": "120112"
+        },
+        {
+          "expression": "120112 + 79889",
+          "expected": "200001"
+        }
+      ]
+    },
+    {
+      "id": "sw-16",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Zidisha 540 x 45.",
+      "steps": [
+        "Gawanya kwa thamani ya nafasi: 500 x 45 = 22500; 40 x 45 = 1800.",
+        "Jumlisha matokeo: 24300."
+      ],
+      "answer": "24300",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "540*45",
+          "expected": "24300"
+        },
+        {
+          "expression": "500*45",
+          "expected": "22500"
+        },
+        {
+          "expression": "40*45",
+          "expected": "1800"
+        }
+      ]
+    },
+    {
+      "id": "sw-17",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Mfanyakazi analipwa 2400 shilingi kwa siku. Kwa wiki moja analipwa ngapi?",
+      "steps": [
+        "Wiki 1=siku 7.",
+        "2400 x 7 = 16800."
+      ],
+      "answer": "Sh 16800",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "2400*7",
+          "expected": "16800"
+        }
+      ]
+    },
+    {
+      "id": "sw-18",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Tarakimu ya mamia katika 92657 ni ipi?",
+      "steps": [
+        "Soma kulia:mamoja 7, makumi 5, mamia 6."
+      ],
+      "answer": "6",
+      "source_page": 4
+    },
+    {
+      "id": "sw-19",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Mifuko 236 kwa siku, siku 71. Jumla?",
+      "steps": [
+        "Gawanya kwa thamani ya nafasi: 200 x 71 = 14200; 30 x 71 = 2130; 6 x 71 = 426.",
+        "Jumlisha matokeo: 16756."
+      ],
+      "answer": "16756 mifuko",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "236*71",
+          "expected": "16756"
+        },
+        {
+          "expression": "200*71",
+          "expected": "14200"
+        },
+        {
+          "expression": "30*71",
+          "expected": "2130"
+        },
+        {
+          "expression": "6*71",
+          "expected": "426"
+        }
+      ]
+    },
+    {
+      "id": "sw-20",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Sh 1625, gawa 125 kwa mtoto. Watoto wangapi?",
+      "steps": [
+        "162 / 125: andika 1; 1 x 125 = 125; 162 - 125 = 37.",
+        "375 / 125: andika 3; 3 x 125 = 375; 375 - 375 = 0.",
+        "125 x 13 = 1625.",
+        "1625 / 125 = 13."
+      ],
+      "answer": "13 watoto",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "1625/125",
+          "expected": "13"
+        },
+        {
+          "expression": "1*125",
+          "expected": "125"
+        },
+        {
+          "expression": "162 - 125",
+          "expected": "37"
+        },
+        {
+          "expression": "3*125",
+          "expected": "375"
+        },
+        {
+          "expression": "375 - 375",
+          "expected": "0"
+        },
+        {
+          "expression": "125*13",
+          "expected": "1625"
+        },
+        {
+          "expression": "1625 / 125",
+          "expected": "13"
+        }
+      ]
+    },
+    {
+      "id": "sw-21",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Soma abakasi yenye vijiti 6.",
+      "steps": [
+        "Shanga kutoka kushoto ni 5,2,6,0,3,5.",
+        "500000 + 20000 + 6000 + 0 + 30 + 5 = 526035."
+      ],
+      "answer": "526035",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "500000 + 20000 + 6000 + 0 + 30 + 5",
+          "expected": "526035"
+        }
+      ]
+    },
+    {
+      "id": "sw-22",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Wanafunzi 764,419,340. Jumla mwaka wa kwanza na tatu?",
+      "steps": [
+        "1 nafasi: 4 + 0 = 4; andika 4.",
+        "10 nafasi: 6 + 4 = 10; andika 0, beba 1.",
+        "100 nafasi: 7 + 3 + beba 1 = 11; andika 1, beba 1.",
+        "Andika ya mwisho beba 1 katika nafasi inayofuata.",
+        "764 + 340 = 1104."
+      ],
+      "answer": "1104 wanafunzi",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "764+340",
+          "expected": "1104"
+        },
+        {
+          "expression": "4 + 0",
+          "expected": "4"
+        },
+        {
+          "expression": "6 + 4",
+          "expected": "10"
+        },
+        {
+          "expression": "764 + 340",
+          "expected": "1104"
+        }
+      ]
+    },
+    {
+      "id": "sw-23",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Taja shufwa katika 20,25,29,32,47,50,63,76,81,100.",
+      "steps": [
+        "Shufwa huishia 0,2,4,6,8."
+      ],
+      "answer": "20,32,50,76,100",
+      "source_page": 4
+    },
+    {
+      "id": "sw-24",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Taja tasa kati ya 1 na 11.",
+      "steps": [
+        "Tasa ina vigawo 2 tu;1 si tasa."
+      ],
+      "answer": "2,3,5,7,11",
+      "source_page": 4
+    },
+    {
+      "id": "sw-25",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Tafuta KDS ya 10,24,30.",
+      "steps": [
+        "10=2 x 5;24=2³x 3;30=2 x 3 x 5.",
+        "Chukua vipeo vikubwa:2³ x 3 x 5 =120."
+      ],
+      "answer": "120",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "2**3*3*5",
+          "expected": "120"
+        }
+      ]
+    },
+    {
+      "id": "sw-26",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Aidari ala 2/5, Nufaila 3/7 ya chungwa. Jumla?",
+      "steps": [
+        "Asili ya pamoja 35.",
+        "2/5=14/35;3/7=15/35.",
+        "14 + 15 = 29."
+      ],
+      "answer": "29/35",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "2/5+3/7",
+          "expected": "29/35"
+        },
+        {
+          "expression": "2/5",
+          "expected": "2/5"
+        },
+        {
+          "expression": "3/7",
+          "expected": "3/7"
+        },
+        {
+          "expression": "14 + 15",
+          "expected": "29"
+        }
+      ]
+    },
+    {
+      "id": "sw-27",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Gawa 2021 kwa 43.",
+      "steps": [
+        "202 / 43: andika 4; 4 x 43 = 172; 202 - 172 = 30.",
+        "301 / 43: andika 7; 7 x 43 = 301; 301 - 301 = 0.",
+        "43 x 47 = 2021.",
+        "2021 / 43 = 47."
+      ],
+      "answer": "47",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "2021/43",
+          "expected": "47"
+        },
+        {
+          "expression": "4*43",
+          "expected": "172"
+        },
+        {
+          "expression": "202 - 172",
+          "expected": "30"
+        },
+        {
+          "expression": "7*43",
+          "expected": "301"
+        },
+        {
+          "expression": "301 - 301",
+          "expected": "0"
+        },
+        {
+          "expression": "43*47",
+          "expected": "2021"
+        },
+        {
+          "expression": "2021 / 43",
+          "expected": "47"
+        }
+      ]
+    },
+    {
+      "id": "sw-28",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Andika 48 kwa kirumi.",
+      "steps": [
+        "40=XL;8=VIII."
+      ],
+      "answer": "XLVIII",
+      "source_page": 5
+    },
+    {
+      "id": "sw-29",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Sarafu ngapi za Sh 500 ni Sh 10000?",
+      "steps": [
+        "10000 / 500 = 20."
+      ],
+      "answer": "Sarafu 20",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "10000 / 500",
+          "expected": "20"
+        }
+      ]
+    },
+    {
+      "id": "sw-30",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Tafuta W katika 5 W 613 +39819; chanzo hakichapishi jumla.",
+      "steps": [
+        "Bila jumla, W inaweza kuwa tarakimu yoyote 0 hadi 9.",
+        "Jumla ya jumla ni 90432 +1000 W."
+      ],
+      "answer": "Haiwezi kubainishwa bila jumla iliyokosekana.",
+      "source_page": 5
+    },
+    {
+      "id": "sw-31",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Mfuko 1 hulisha 35; kwa wanafunzi 4690 mifuko mingapi?",
+      "steps": [
+        "46 / 35: andika 1; 1 x 35 = 35; 46 - 35 = 11.",
+        "119 / 35: andika 3; 3 x 35 = 105; 119 - 105 = 14.",
+        "140 / 35: andika 4; 4 x 35 = 140; 140 - 140 = 0.",
+        "35 x 134 = 4690.",
+        "4690 / 35 = 134."
+      ],
+      "answer": "134 mifuko",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "4690/35",
+          "expected": "134"
+        },
+        {
+          "expression": "1*35",
+          "expected": "35"
+        },
+        {
+          "expression": "46 - 35",
+          "expected": "11"
+        },
+        {
+          "expression": "3*35",
+          "expected": "105"
+        },
+        {
+          "expression": "119 - 105",
+          "expected": "14"
+        },
+        {
+          "expression": "4*35",
+          "expected": "140"
+        },
+        {
+          "expression": "140 - 140",
+          "expected": "0"
+        },
+        {
+          "expression": "35*134",
+          "expected": "4690"
+        },
+        {
+          "expression": "4690 / 35",
+          "expected": "134"
+        }
+      ]
+    },
+    {
+      "id": "sw-32",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Kokotoa 1 -1/9.",
+      "steps": [
+        "1=9/9.",
+        "9 - 1 = 8; asili 9."
+      ],
+      "answer": "8/9",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "1-1/9",
+          "expected": "8/9"
+        },
+        {
+          "expression": "9 - 1",
+          "expected": "8"
+        }
+      ]
+    },
+    {
+      "id": "sw-33",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Kazi 7/8 imekamilika. Sehemu gani imebaki?",
+      "steps": [
+        "1=8/8.",
+        "8 - 7 = 1."
+      ],
+      "answer": "1/8",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "1-7/8",
+          "expected": "1/8"
+        },
+        {
+          "expression": "8 - 7",
+          "expected": "1"
+        }
+      ]
+    },
+    {
+      "id": "sw-34",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Saa 3 dakika 20 ni dakika ngapi?",
+      "steps": [
+        "3 x 60 = 180.",
+        "180 + 20 = 200."
+      ],
+      "answer": "Dakika 200",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "3*60",
+          "expected": "180"
+        },
+        {
+          "expression": "180 + 20",
+          "expected": "200"
+        }
+      ]
+    },
+    {
+      "id": "sw-35",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Tafuta 1/2 ya 40.",
+      "steps": [
+        "40 / 2 = 20."
+      ],
+      "answer": "20",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "40 / 2",
+          "expected": "20"
+        }
+      ]
+    },
+    {
+      "id": "sw-36",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Bilali 1000 cm kutoka shuleni, Shakila 1 km. Nani karibu?",
+      "steps": [
+        "1000 / 100 = 10 m.",
+        "Shakila 1 km=1000 m."
+      ],
+      "answer": "Bilali",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "1000 / 100",
+          "expected": "10"
+        }
+      ]
+    },
+    {
+      "id": "sw-37",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Badili 7 km kuwa meta.",
+      "steps": [
+        "7 x 1000 = 7000."
+      ],
+      "answer": "7000 m",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "7*1000",
+          "expected": "7000"
+        }
+      ]
+    },
+    {
+      "id": "sw-38",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Tafuta mzingo wa mstatili 26 cm kwa 22 cm.",
+      "steps": [
+        "26 + 22 = 48.",
+        "2 x 48 = 96."
+      ],
+      "answer": "96 cm",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "26 + 22",
+          "expected": "48"
+        },
+        {
+          "expression": "2*48",
+          "expected": "96"
+        }
+      ]
+    },
+    {
+      "id": "sw-39",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Tafuta eneo la mraba upande 25 cm.",
+      "steps": [
+        "Eneo=upande xupande.",
+        "25 x 25 = 625."
+      ],
+      "answer": "625 cm²",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "25*25",
+          "expected": "625"
+        }
+      ]
+    },
+    {
+      "id": "sw-40",
+      "section": "Toleo la Kiswahili - Hesabu na matumizi",
+      "prompt": "Tafuta eneo lenye kivuli:mstatili 14 cm kwa 8 cm, ondoa kona 6 cm kwa 4 cm.",
+      "steps": [
+        "Eneo lote 14 x 8 = 112 cm².",
+        "Kona 6 x 4 = 24 cm².",
+        "112 - 24 = 88 cm²."
+      ],
+      "answer": "88 cm²",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "14*8",
+          "expected": "112"
+        },
+        {
+          "expression": "6*4",
+          "expected": "24"
+        },
+        {
+          "expression": "112 - 24",
+          "expected": "88"
+        }
+      ]
+    },
+    {
+      "id": "sw-41",
+      "section": "Toleo la Kiswahili - Takwimu",
+      "prompt": "Mahudhurio Januari 330, Februari 350, Machi 340, Aprili 300, Mei 280. Wastani?",
+      "steps": [
+        "330 + 350 + 340 + 300 + 280 = 1600.",
+        "1600 / 5 = 320."
+      ],
+      "answer": "Wanafunzi 320",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "330 + 350 + 340 + 300 + 280",
+          "expected": "1600"
+        },
+        {
+          "expression": "1600 / 5",
+          "expected": "320"
+        }
+      ]
+    },
+    {
+      "id": "sw-42",
+      "section": "Toleo la Kiswahili - Takwimu",
+      "prompt": "Miezi ipi ina mahudhurio juu ya wastani 320 katika 330,350,340,300,280?",
+      "steps": [
+        "330,350,340 huzidi 320."
+      ],
+      "answer": "Januari, Februari, Machi",
+      "source_page": 5
+    },
+    {
+      "id": "sw-43",
+      "section": "Toleo la Kiswahili - Takwimu",
+      "prompt": "Mwezi upi mahudhurio 350?",
+      "steps": [
+        "Soma safu ya Februari."
+      ],
+      "answer": "Februari",
+      "source_page": 5
+    },
+    {
+      "id": "sw-44",
+      "section": "Toleo la Kiswahili - Takwimu",
+      "prompt": "Mahudhurio Januari ni ngapi?",
+      "steps": [
+        "Safu ya Januari ina 330."
+      ],
+      "answer": "Wanafunzi 330",
+      "source_page": 5
+    },
+    {
+      "id": "sw-45",
+      "section": "Toleo la Kiswahili - Takwimu",
+      "prompt": "Mahudhurio ya chini ni ngapi katika 330,350,340,300,280?",
+      "steps": [
+        "280 ni ndogo kuliko zote."
+      ],
+      "answer": "280(Mei)",
+      "source_page": 5
+    }
+  ],
+  "summaries": {
+    "English version - Calculations and applications": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "English version - Statistics": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Toleo la Kiswahili - Hesabu na matumizi": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Toleo la Kiswahili - Takwimu": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Msomi Bora - Mitihani ya Darasa la Tano | 2010 - 2023 | Masomo yote (Monthly, Midterm, Terminal and Annual Exams) - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/mitihani-ya-darasa-la-tano-2010-2023-masomo-yote-monthly-midterm-terminal-and-annual-exams/"
+    }
+  ],
+  "limitations": [
+    "Both 45-question language versions are solved separately because 4,17,30 differ.",
+    "Publisher key is wrong for 14 (40117),21 (526035),28 (XLVIII), and Swahili 4 and 17.",
+    "English 30 has no digit solution; Swahili 30 omits the result.",
+    "English 40 misplaces the 14 cm label; the matching Swahili diagram makes the total width 14 cm explicit."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "ef9c1fd419d4378554c5394c349ce0dae9a22d528c1ba804c365cdf181d45ad6"
+}

@@ -1,0 +1,214 @@
+{
+  "exam": "English-S2-2024-MESP-Tanzania-November-Annual-exam.pdf",
+  "output": "English-S2-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Two",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Annual exam - November · Reading November",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "742b18e83375f162551a88cb3a171b019f3dedae5e7bf1289f020f9891743d92",
+  "questions": [
+    {
+      "id": "1",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sounds: Fr, st, spr, ch, wh, ph, cr, w, q, ng",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Fr, st, spr, ch, wh, ph, cr, w, q, ng",
+      "source_page": 1
+    },
+    {
+      "id": "2(1)",
+      "section": "Digraphs",
+      "prompt": "Read the digraph sound in Wrist.",
+      "steps": [
+        "The w is silent; say the initial r sound.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "wr: /r/.",
+      "source_page": 1
+    },
+    {
+      "id": "2(2)",
+      "section": "Digraphs",
+      "prompt": "Read the digraph sound in Knee.",
+      "steps": [
+        "The k is silent; say n.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "kn: /n/.",
+      "source_page": 1
+    },
+    {
+      "id": "2(3)",
+      "section": "Digraphs",
+      "prompt": "Read the digraph sound in chapter.",
+      "steps": [
+        "Two letters ch make one consonant sound.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "ch: /tʃ/.",
+      "source_page": 1
+    },
+    {
+      "id": "2(4)",
+      "section": "Digraphs",
+      "prompt": "Read the digraph sound in wheel.",
+      "steps": [
+        "Say the initial wh sound without adding a separate vowel.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "wh: /w/ (or /hw/ in some accents).",
+      "source_page": 1
+    },
+    {
+      "id": "2(5)",
+      "section": "Digraphs",
+      "prompt": "Read the digraph sound in school.",
+      "steps": [
+        "In school, ch is pronounced /k/, not /tʃ/.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "ch: /k/.",
+      "source_page": 1
+    },
+    {
+      "id": "3",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Blister, clutch, flood, plenty, through, seak, donkey, union, pharmacy, splash, night, thumb, please, knowledge, bribe, brick, punch, grocery, puppy, chamber",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Blister, clutch, flood, plenty, through, seak, donkey, union, pharmacy, splash, night, thumb, please, knowledge, bribe, brick, punch, grocery, puppy, chamber",
+      "source_page": 1
+    },
+    {
+      "id": "4(1)",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: He bought bananas and apple yesterday",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: He bought bananas and apple yesterday",
+      "source_page": 1
+    },
+    {
+      "id": "4(2)",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: Can you give me a cup of tea now?",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Can you give me a cup of tea now?",
+      "source_page": 1
+    },
+    {
+      "id": "4(3)",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: Chop the vegetables very quickly.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Chop the vegetables very quickly.",
+      "source_page": 1
+    },
+    {
+      "id": "5(i)",
+      "section": "Comprehension",
+      "prompt": "The national park mentioned in the story is ___.",
+      "steps": [
+        "The passage names Serengeti as the place to see lions, zebras and hippopotamuses.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Serengeti National Park.",
+      "source_page": 2
+    },
+    {
+      "id": "5(ii)",
+      "section": "Comprehension",
+      "prompt": "My home country is ___.",
+      "steps": [
+        "The title identifies Tanzania as the narrator's home.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Tanzania.",
+      "source_page": 2
+    },
+    {
+      "id": "5(iii)",
+      "section": "Comprehension",
+      "prompt": "Lake Victoria offers sweet ___.",
+      "steps": [
+        "The passage says Lake Victoria offers sweet fish.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Fish.",
+      "source_page": 2
+    },
+    {
+      "id": "5(iv)",
+      "section": "Comprehension",
+      "prompt": "What is the title of the story?",
+      "steps": [
+        "Read the heading above the passage.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Tanzania My Home.",
+      "source_page": 2
+    },
+    {
+      "id": "5(v)",
+      "section": "Comprehension",
+      "prompt": "The word TREASURES has ___ vowel letters.",
+      "steps": [
+        "Count every occurrence, including the repeated E.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Four: E, A, U, E.",
+      "source_page": 2
+    }
+  ],
+  "summaries": {
+    "Oral reading": "Read aloud in the printed order. Pronounce words clearly and pause at punctuation. Teachers assess accuracy and fluency; the printed text is the oral response.",
+    "Digraphs": "Distinguish speech sounds from written letters. Blend consonants, recognise digraphs and compare pronunciations when identifying rhymes or homophones.",
+    "Comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "MESP Standard Two Annual Exams Nov 2024",
+      "url": "https://darasahuru.ac.tz/mesp-standard-two-annual-exams-nov-2024/"
+    }
+  ],
+  "limitations": [
+    "3: The source prints seak, not a standard common word; seek or soak may be intended, but the spelling cannot be determined uniquely."
+  ],
+  "expected_parts": [
+    "1",
+    "2(1)",
+    "2(2)",
+    "2(3)",
+    "2(4)",
+    "2(5)",
+    "3",
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)"
+  ],
+  "question_count": "15 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "bea24990257cf9a655e53b8e9764e49556966280e0c655637c8a2dfc8483d11e"
+}

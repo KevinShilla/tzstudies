@@ -50,6 +50,30 @@ def test_answer_key_preview_requires_login(client):
     assert "/login?next=" in response.location
 
 
+def test_school_answer_key_preview_preserves_verified_issuer(auth_client, tmp_path, monkeypatch):
+    import json
+
+    from tzstudies.routes import papers
+
+    exams, keys = tmp_path / "exams", tmp_path / "keys"
+    exams.mkdir()
+    keys.mkdir()
+    filename = "English-S1-2024-School-Assessment.pdf"
+    key = filename.removesuffix(".pdf") + "-AnswerKey.pdf"
+    (exams / filename).touch()
+    (keys / key).touch()
+    (exams / "catalogue.json").write_text(json.dumps({"papers": {filename: {
+        "board": "Primary School Assessment Group", "assessment": "Midterm exam"
+    }}}), encoding="utf-8")
+    monkeypatch.setattr(papers, "_get_exams_folder", lambda: str(exams))
+    monkeypatch.setattr(papers, "_get_answer_keys_folder", lambda: str(keys))
+    response = auth_client.get("/view_key/" + key)
+    assert response.status_code == 200
+    assert b"Primary School Assessment Group" in response.data
+    assert b"Standard 1" in response.data
+    assert b"NECTA" not in response.data
+
+
 def test_login_returns_to_requested_key(client, sample_user):
     target = "/view_key/BasicMath-F2-2023%20(Answer%20Key).pdf"
     response = client.post("/login?next=" + target, data={"email": "test@example.com", "password": "password123"})

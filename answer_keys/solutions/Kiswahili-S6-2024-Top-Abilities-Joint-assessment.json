@@ -1,0 +1,438 @@
+{
+  "exam": "Kiswahili-S6-2024-Top-Abilities-Joint-assessment.pdf",
+  "output": "Kiswahili-S6-2024-Top-Abilities-Joint-assessment-AnswerKey.pdf",
+  "sha256": "74157534e967716bcb27296e66ab94cf5d6191c0fc2e46d8a8c03ce30e54c795",
+  "subject": "Kiswahili",
+  "level": "Standard Six",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "Top Abilities",
+  "exam_type": "Joint assessment",
+  "question_count": "Vipengele 32 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "reviewed": true,
+  "expected_parts": [
+    "1(1)",
+    "1(2)",
+    "1(3)",
+    "1(4)",
+    "1(5)",
+    "2(1)",
+    "2(2)",
+    "2(3)",
+    "2(4)",
+    "2(5)",
+    "2(6)",
+    "2(7)",
+    "2(8)",
+    "2(9)",
+    "2(10)",
+    "3(1)",
+    "3(2)",
+    "3(3)",
+    "3(4)",
+    "3(5)",
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "4(4)",
+    "4(5)",
+    "4(6)",
+    "5(1)",
+    "5(2)",
+    "5(3)",
+    "5(4)",
+    "5(5)",
+    "6"
+  ],
+  "questions": [
+    {
+      "id": "1(1)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Mwajuma ni pacha wa Juma. Mwajuma na Juma kwa pamoja tunawaitaje? A pacha, B mapacha, C kitindamimba, D mipacha, E vipacha.",
+      "steps": [
+        "Wingi wa pacha ni mapacha; maelezo ya swali yenyewe yanatosha.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Mapacha.",
+      "source_page": 2
+    },
+    {
+      "id": "1(2)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Kiumbe yupi hufugwa na binadamu? A asadi, B bakaya, C ngwena, D nundu, E hua.",
+      "steps": [
+        "Hua ni ndege jamii ya njiwa anayefugwa; wengine katika orodha ni viumbe wa porini.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Hua.",
+      "source_page": 2
+    },
+    {
+      "id": "1(3)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Juma anasoma darasa la ngapi? A la kwanza, B la tano, C la sita, D la saba, E kidato cha kwanza.",
+      "steps": [
+        "Hakuna darasa la Juma lililotajwa kwenye maswali.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Haiwezi kuthibitishwa: habari ya kusikiliza haimo.",
+      "source_page": 2
+    },
+    {
+      "id": "1(4)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Kiumbe yupi ni hatari kuliko wote kati ya hawa? A hua, B dura, C asadi, D nundu, E bakaya.",
+      "steps": [
+        "Asadi ni simba, mnyama mkali. Kiwango “kuliko wote” kinategemea muktadha wa habari ambayo haimo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Asadi (simba), ndilo linaloelekea kukusudiwa katika machaguo.",
+      "source_page": 2
+    },
+    {
+      "id": "1(5)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Ni sababu gani ilimfanya Mwajuma kurudia darasa la kwanza? A hajui kusoma, B hajui kuandika, C sababu zilizo nje ya uwezo wake, D maradhi, E mtoro sana.",
+      "steps": [
+        "Sababu ya kurudia darasa inahitaji script, si kubahatisha kutokana na machaguo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Haiwezi kuthibitishwa: habari ya kusikiliza haimo.",
+      "source_page": 2
+    },
+    {
+      "id": "2(1)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Chakula kinachotokana na maziwa yaliyogandishwa na kutolewa maji huitwa nini? A saladi, B samli, C siagi, D gururu, E jibini.",
+      "steps": [
+        "Jibini hutengenezwa kutokana na maziwa yaliyogandishwa na kutenganishwa na maji yake.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Jibini.",
+      "source_page": 2
+    },
+    {
+      "id": "2(2)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Bunda la kitambaa lenye urefu wa mita ishirini na saba huitwa nini? A jora, B korija, C thenashara, D doti, E arshi.",
+      "steps": [
+        "Jora ni bunda/refu la kitambaa; machaguo mengine si kipimo hicho.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Jora.",
+      "source_page": 2
+    },
+    {
+      "id": "2(3)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kamusi inayofafanua lugha tatu huitwaje? A elekezi, B matini, C wahidiya, D mahuluti, E thaniya.",
+      "steps": [
+        "Mahuluti hutumia lugha zaidi ya mbili; wahidiya hutumia moja na thaniya mbili.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Kamusi mahuluti.",
+      "source_page": 2
+    },
+    {
+      "id": "2(4)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Rafiki yangu alikuwa msomi. Kitenzi kilichotumika ni cha aina gani? A kikuu, B jina, C hakipo, D kisaidizi, E kishirikishi.",
+      "steps": [
+        "Alikuwa kinaunganisha rafiki na hali msomi; hakuna kitenzi kingine kinachosaidiwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Kitenzi kishirikishi.",
+      "source_page": 2
+    },
+    {
+      "id": "2(5)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Neno “kiangazi” lina aina ngapi za vokoidi? A nne, B tatu, C mbili, D sita, E saba.",
+      "steps": [
+        "Swali linauliza aina tofauti. I na a zinarudiwa, lakini kila aina inahesabiwa mara moja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Mbili: /i/ na /a/.",
+      "source_page": 2
+    },
+    {
+      "id": "2(6)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kiambishi kipi hutumika kuonyesha hali ya masharti? A ha, B hu, C si, D ki, E ni.",
+      "steps": [
+        "Mfano: ukisoma utafaulu; ki- huweka sharti.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Ki-.",
+      "source_page": 2
+    },
+    {
+      "id": "2(7)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Malizia: Riziki ya mbwa _____. A iko kwa Mungu, B kwa mfugaji, C kwa jirani, D iko miguuni mwake, E kwa msamaria.",
+      "steps": [
+        "Methali huhimiza kujituma/kutafuta riziki.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Iko miguuni mwake.",
+      "source_page": 3
+    },
+    {
+      "id": "2(8)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Chumba maalumu cha kuhifadhia wagonjwa mahututi huitwa nini? A sadaruki, B sebule, C karantini, D nunge, E wodi.",
+      "steps": [
+        "Sadaruki ni kitengo cha uangalizi mkubwa/maalumu kwa wagonjwa mahututi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Sadaruki.",
+      "source_page": 3
+    },
+    {
+      "id": "2(9)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kirefu cha BMT ni kipi? A Baraza la Michezo la Taifa, B Baraza la Mitihani la Tanzania, C Baraza la Mitihani la Taifa, D Baraza la Michezo Tanzania, E Baraza la Michezo Taifa.",
+      "steps": [
+        "BMT ni kifupisho cha taasisi ya michezo; baraza la mitihani hutumia kifupisho tofauti.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Baraza la Michezo la Taifa.",
+      "source_page": 3
+    },
+    {
+      "id": "2(10)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Mtoto wa ng’ombe huitwa ndama. Mtoto wa bata huitwaje? A kisuse, B funutu, C kiyoyo, D kivinimbi, E kinengwe.",
+      "steps": [
+        "Kiyoyo ni kikembe cha bata; kinengwe ni cha papa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Kiyoyo.",
+      "source_page": 3
+    },
+    {
+      "id": "3(1)",
+      "section": "Vikembe",
+      "prompt": "Oanisha Mtoto wa Bakari. Machaguo: A Mtoto, B Jana, C Nirigi, D Ndama, E Kifaranga, F King’onyo, G Buu.",
+      "steps": [
+        "Bakari katika msamiati wa wanyama ni ng’ombe; herufi kubwa kwenye chanzo zinaweza kuifanya ionekane jina la mtu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Ndama, ikiwa bakari ni ng’ombe. A-Mtoto pia hukubalika ikiwa Bakari ni jina la mtu.",
+      "source_page": 3
+    },
+    {
+      "id": "3(2)",
+      "section": "Vikembe",
+      "prompt": "Oanisha Mtoto wa kuku. Machaguo: A Mtoto, B Jana, C Nirigi, D Ndama, E Kifaranga, F King’onyo, G Buu.",
+      "steps": [
+        "Kifaranga ni kikembe cha kuku.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Kifaranga.",
+      "source_page": 3
+    },
+    {
+      "id": "3(3)",
+      "section": "Vikembe",
+      "prompt": "Oanisha Mtoto wa mdudu. Machaguo: A Mtoto, B Jana, C Nirigi, D Ndama, E Kifaranga, F King’onyo, G Buu.",
+      "steps": [
+        "King’onyo ni hatua ya mdudu mchanga/larva.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "F - King’onyo.",
+      "source_page": 3
+    },
+    {
+      "id": "3(4)",
+      "section": "Vikembe",
+      "prompt": "Oanisha Mtoto wa nzi. Machaguo: A Mtoto, B Jana, C Nirigi, D Ndama, E Kifaranga, F King’onyo, G Buu.",
+      "steps": [
+        "Buu/funza ni hatua changa ya nzi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "G - Buu.",
+      "source_page": 3
+    },
+    {
+      "id": "3(5)",
+      "section": "Vikembe",
+      "prompt": "Oanisha Mtoto wa nyuki. Machaguo: A Mtoto, B Jana, C Nirigi, D Ndama, E Kifaranga, F King’onyo, G Buu.",
+      "steps": [
+        "Jana ni jina la kikembe cha nyuki; nirigi ni cha ngamia.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Jana.",
+      "source_page": 3
+    },
+    {
+      "id": "4(1)",
+      "section": "Nahau",
+      "prompt": "Andika nahau/kauli inayokinzana na Ng’oa nanga (mfano uliochapishwa)..",
+      "steps": [
+        "Ng’oa nanga ni kuanza safari/kuondoka; tia nanga ni kufika/kukaa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tia nanga.",
+      "source_page": 3
+    },
+    {
+      "id": "4(2)",
+      "section": "Nahau",
+      "prompt": "Andika nahau/kauli inayokinzana na Siku za usoni.",
+      "steps": [
+        "Siku za usoni ni wakati ujao; kinyume chake ni wakati uliopita.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Siku zilizopita / siku za nyuma.",
+      "source_page": 3
+    },
+    {
+      "id": "4(3)",
+      "section": "Nahau",
+      "prompt": "Andika nahau/kauli inayokinzana na Shika mkia.",
+      "steps": [
+        "Shika mkia ni kuwa wa mwisho; shika usukani hutumiwa kwa kuongoza.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Shika usukani / kuwa wa kwanza.",
+      "source_page": 3
+    },
+    {
+      "id": "4(4)",
+      "section": "Nahau",
+      "prompt": "Andika nahau/kauli inayokinzana na Lala fofofo.",
+      "steps": [
+        "Kulala fofofo ni usingizi mzito; kesha ni kubaki bila kulala.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kesha / kuwa macho.",
+      "source_page": 3
+    },
+    {
+      "id": "4(5)",
+      "section": "Nahau",
+      "prompt": "Andika nahau/kauli inayokinzana na Lala kifudifudi.",
+      "steps": [
+        "Kifudifudi tumbo huwa chini; chali mgongo huwa chini.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Lala chali / kingalingali.",
+      "source_page": 3
+    },
+    {
+      "id": "4(6)",
+      "section": "Nahau",
+      "prompt": "Andika nahau/kauli inayokinzana na Mwaga unga.",
+      "steps": [
+        "Mwaga unga ni kupoteza kazi; kupata ajira ni maana inayopinga.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Pata ajira / anza kazi.",
+      "source_page": 3
+    },
+    {
+      "id": "5(1)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Taja aina moja ya mazao yanayolimwa katika nchi yetu.",
+      "steps": [
+        "Habari imegawa mazao katika makundi hayo mawili.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: mazao ya chakula. Pia mazao ya biashara yanakubalika.",
+      "source_page": 4
+    },
+    {
+      "id": "5(2)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Kisawe cha “kahawa” ni nini?",
+      "steps": [
+        "Habari inahusu mazao, hivyo buni inafaa; si kila muktadha wa kinywaji una maana hiyo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Buni (hasa mbegu/zao la kahawa katika muktadha wa kilimo).",
+      "source_page": 4
+    },
+    {
+      "id": "5(3)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Nafaka ni nini?",
+      "steps": [
+        "Nafaka ni jamii ya mazao ya mbegu ya chakula, tofauti na mizizi kama mihogo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mbegu zinazolimwa na kutumika kama chakula, kwa mfano mahindi, mchele, ngano na mtama.",
+      "source_page": 4
+    },
+    {
+      "id": "5(4)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Mbegu, zana za kilimo na madawa kwa neno moja huitwa nini?",
+      "steps": [
+        "Pembejeo ni mahitaji/vifaa vinavyotumika katika uzalishaji wa mazao.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Pembejeo.",
+      "source_page": 4
+    },
+    {
+      "id": "5(5)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Wahenga walisema nini?",
+      "steps": [
+        "Methali hii imenukuliwa katika kifungu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Jembe halimtupi mkulima.",
+      "source_page": 4
+    },
+    {
+      "id": "6",
+      "section": "Tangazo",
+      "prompt": "Wewe ni Meneja wa TANESCO Mkoa wa Tabora, S.L.P. 320 Tabora Manispaa. Andika tangazo kwa wateja wa Kiloleni, Kazima, Ipuli na Chemchem kuwa hakutakuwa na umeme kwa siku mbili kuanzia tarehe 20/11/2024 na 25/11/2024 kutokana na uboreshaji wa miundombinu ya umeme. Waombe radhi kwa usumbufu utakaotokea.",
+      "steps": [
+        "Taja mtoa tangazo, anwani, kichwa, maeneo manne, tarehe na sababu.",
+        "Chanzo kimesema siku mbili lakini tarehe zimetenganishwa kwa siku tano; mfano huu umetumia siku mbili zilizotajwa. Msimamizi akikusudia siku mbili mfululizo, athibitishe tarehe ya mwisho kwanza."
+      ],
+      "answer": "Mfano unaotafsiri tarehe mbili kuwa siku mbili tofauti:\n\nTANESCO MKOA WA TABORA\nS.L.P. 320, TABORA MANISPAA\nTANGAZO LA KUKATIKA KWA UMEME\n\nTANESCO inawataarifu wateja wa Kiloleni, Kazima, Ipuli na Chemchem kuwa umeme utakatika katika siku mbili: tarehe 20 Novemba 2024 na tarehe 25 Novemba 2024. Sababu ni kuboresha miundombinu ya umeme katika maeneo hayo.\n\nTunawaomba radhi wateja wetu kwa usumbufu utakaotokea.\nMeneja wa Mkoa, TANESCO Tabora.",
+      "source_page": 4,
+      "tip": "Tangazo ni mfano; maandishi mengine yenye taarifa zote sahihi yanakubalika."
+    }
+  ],
+  "summaries": {
+    "Ufahamu wa kusikiliza": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Matumizi ya lugha": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Vikembe": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Nahau": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Ufahamu wa kusoma": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Tangazo": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu."
+  },
+  "references": [
+    {
+      "title": "TOP ABILITIES STANDARD SIX PRE-ANNUAL JOINT EXAMS 2024",
+      "url": "https://darasahuru.ac.tz/top-abilities-standard-six-pre-annual-joint-exams-2024/"
+    },
+    {
+      "title": "TUKI: Kamusi ya Kiswahili-Kiingereza (2001), bakari na vikembe",
+      "url": "https://hist.hse.ru/data/2021/06/13/1440903528/Kamusi%20ya%20Kiswahili%20-%20Kiingereza.pdf"
+    },
+    {
+      "title": "Mudu Sarufi 5, 6 & 7, ukurasa 30: vikembe",
+      "url": "https://fliphtml5.com/doyaz/aqop/MUDU_SARUFI_5%2C_6_%26amp%3B_7/30/"
+    },
+    {
+      "title": "National Bureau of Statistics: kahawa (buni) katika takwimu za malighafi",
+      "url": "https://microdata.nbs.go.tz/index.php/catalog/30/variable/F2/V517?name=S10_09A__0"
+    }
+  ],
+  "limitations": [
+    "1(3,5): script ya kusikiliza haimo; 1(4) ina mwongozo wa msamiati lakini kiwango cha hatari hakijathibitishwa na habari.",
+    "3(1): Bakari pia ni jina la mtu; katika zoezi la vikembe bakari=ng’ombe, hivyo Ndama, lakini Mtoto ikitafsiriwa kama jina la binadamu inakubalika.",
+    "4: baadhi ya vinyume ni kauli za kawaida zinazokinzana; hakuna nahau moja ya lazima kwa kila maana.",
+    "6: siku mbili na tarehe 20/11 na 25/11 zina mgongano ikiwa zilikuwa zimekusudiwa kuwa siku mfululizo; mfano umetumia siku mbili tofauti.",
+    "Jalada linasema vipengele 35, lakini kurasa za maswali zina vipengele 31 vya kujibiwa pamoja na mfano mmoja uliochapishwa wa 4(i); vyote 32 vimefunikwa."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "3eba93f3fb7e710264b3903916a05ff795de2596a6b32e51addab86cb8a90092"
+}

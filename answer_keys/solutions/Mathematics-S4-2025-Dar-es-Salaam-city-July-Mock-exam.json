@@ -1,0 +1,624 @@
+{
+  "exam": "Mathematics-S4-2025-Dar-es-Salaam-city-July-Mock-exam.pdf",
+  "output": "Mathematics-S4-2025-Dar-es-Salaam-city-July-Mock-exam-AnswerKey.pdf",
+  "sha256": "048701da8a2344f77e9881503cf74063b85c46371ca56b51357b3262241320ce",
+  "subject": "Mathematics",
+  "level": "Standard Four",
+  "year": "2025",
+  "code": "04E",
+  "board": "Dar es Salaam city",
+  "exam_type": "Mock exam - July",
+  "question_count": "25 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "1(vi)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Numbers and applications",
+      "prompt": "Read the five-rod abacus labelled TH, TH, H, T, O with 4,5,0,3,5 beads.",
+      "steps": [
+        "Usual five-place interpretation is 40000 +5000 +0 +30 +5 = 45035.",
+        "Both first rods actually say TH; if both mean thousands, the literal total is 4000 +5000 +30 +5 = 9035."
+      ],
+      "answer": "45035 with intended ten-thousands/thousands labels;9035 if both TH labels mean thousands.",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "40000 +5000 +0 +30 +5",
+          "expected": "45035"
+        },
+        {
+          "expression": "4000 +5000 +30 +5",
+          "expected": "9035"
+        }
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Numbers and applications",
+      "prompt": "Fill CXV, CCXXX, CCCXLV,[ ].",
+      "steps": [
+        "Values 115,230,345 increase by 115.",
+        "345 + 115 = 460;400=CD,60=LX."
+      ],
+      "answer": "CDLX",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "345 + 115",
+          "expected": "460"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Numbers and applications",
+      "prompt": "Compare 4 x 5 and 5 x 4.",
+      "steps": [
+        "4 x 5 = 20;5 x 4 = 20."
+      ],
+      "answer": "=",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "4 * 5",
+          "expected": "20"
+        },
+        {
+          "expression": "5 * 4",
+          "expected": "20"
+        }
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Calculations",
+      "prompt": "Subtract 2473 -1475.",
+      "steps": [
+        "1 place: regroup 1 from the next place; 13 - 5 = 8.",
+        "10 place: regroup 1 from the next place; 16 - 7 = 9.",
+        "100 place: regroup 1 from the next place; 13 - 4 = 9.",
+        "1000 place: 1 - 1 = 0.",
+        "2473 - 1475 = 998; check 998 + 1475 = 2473."
+      ],
+      "answer": "998",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2473-1475",
+          "expected": "998"
+        },
+        {
+          "expression": "13 - 5",
+          "expected": "8"
+        },
+        {
+          "expression": "16 - 7",
+          "expected": "9"
+        },
+        {
+          "expression": "13 - 4",
+          "expected": "9"
+        },
+        {
+          "expression": "1 - 1",
+          "expected": "0"
+        },
+        {
+          "expression": "2473 - 1475",
+          "expected": "998"
+        },
+        {
+          "expression": "998 + 1475",
+          "expected": "2473"
+        }
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Calculations",
+      "prompt": "Add 4761 +1849.",
+      "steps": [
+        "1 place: 1 + 9 = 10; write 0, carry 1.",
+        "10 place: 6 + 4 + carry 1 = 11; write 1, carry 1.",
+        "100 place: 7 + 8 + carry 1 = 16; write 6, carry 1.",
+        "1000 place: 4 + 1 + carry 1 = 6; write 6.",
+        "4761 + 1849 = 6610."
+      ],
+      "answer": "6610",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "4761+1849",
+          "expected": "6610"
+        },
+        {
+          "expression": "1 + 9",
+          "expected": "10"
+        },
+        {
+          "expression": "4761 + 1849",
+          "expected": "6610"
+        }
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Calculations",
+      "prompt": "Kaloleni has 5960 pupils,2700 boys. Find girls.",
+      "steps": [
+        "1 place: 0 - 0 = 0.",
+        "10 place: 6 - 0 = 6.",
+        "100 place: 9 - 7 = 2.",
+        "1000 place: 5 - 2 = 3.",
+        "5960 - 2700 = 3260; check 3260 + 2700 = 5960."
+      ],
+      "answer": "3260 girls",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "5960-2700",
+          "expected": "3260"
+        },
+        {
+          "expression": "0 - 0",
+          "expected": "0"
+        },
+        {
+          "expression": "6 - 0",
+          "expected": "6"
+        },
+        {
+          "expression": "9 - 7",
+          "expected": "2"
+        },
+        {
+          "expression": "5 - 2",
+          "expected": "3"
+        },
+        {
+          "expression": "5960 - 2700",
+          "expected": "3260"
+        },
+        {
+          "expression": "3260 + 2700",
+          "expected": "5960"
+        }
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Numbers and applications",
+      "prompt": "Write the unshaded fraction of the eight-part figure.",
+      "steps": [
+        "4 of 8 equal triangles are unshaded.",
+        "4/8 = 1/2."
+      ],
+      "answer": "1/2",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "4/8",
+          "expected": "1/2"
+        }
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Numbers and applications",
+      "prompt": "Calculate 25/37 -18/37.",
+      "steps": [
+        "25 - 18 = 7; denominator 37 stays."
+      ],
+      "answer": "7/37",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "25/37-18/37",
+          "expected": "7/37"
+        },
+        {
+          "expression": "25 - 18",
+          "expected": "7"
+        }
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Numbers and applications",
+      "prompt": "Calculate 5/19 +4/19.",
+      "steps": [
+        "5 + 4 = 9; denominator 19 stays."
+      ],
+      "answer": "9/19",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "5/19+4/19",
+          "expected": "9/19"
+        },
+        {
+          "expression": "5 + 4",
+          "expected": "9"
+        }
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Numbers and applications",
+      "prompt": "A farmer shares 6 pawpaws, giving 2 to each of 3 children. What fraction does each get?",
+      "steps": [
+        "Each child gets 2 out of 6.",
+        "2/6 = 1/3."
+      ],
+      "answer": "1/3",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2/6",
+          "expected": "1/3"
+        }
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Numbers and applications",
+      "prompt": "Tausi spends 1/6 of salary on rent and 3/6 on food. Fraction spent altogether?",
+      "steps": [
+        "1 + 3 = 4; denominator 6.",
+        "4/6 = 2/3."
+      ],
+      "answer": "2/3",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "1/6+3/6",
+          "expected": "2/3"
+        },
+        {
+          "expression": "1 + 3",
+          "expected": "4"
+        },
+        {
+          "expression": "4/6",
+          "expected": "2/3"
+        }
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Calculations",
+      "prompt": "Charcoal costs 3350 shillings and maize 5600. Find total cost.",
+      "steps": [
+        "1 place: 0 + 0 = 0; write 0.",
+        "10 place: 5 + 0 = 5; write 5.",
+        "100 place: 3 + 6 = 9; write 9.",
+        "1000 place: 3 + 5 = 8; write 8.",
+        "3350 + 5600 = 8950."
+      ],
+      "answer": "8950 shillings",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "3350+5600",
+          "expected": "8950"
+        },
+        {
+          "expression": "0 + 0",
+          "expected": "0"
+        },
+        {
+          "expression": "5 + 0",
+          "expected": "5"
+        },
+        {
+          "expression": "3 + 6",
+          "expected": "9"
+        },
+        {
+          "expression": "3 + 5",
+          "expected": "8"
+        },
+        {
+          "expression": "3350 + 5600",
+          "expected": "8950"
+        }
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Calculations",
+      "prompt": "Subtract Sh 3400 -Sh 1200.",
+      "steps": [
+        "1 place: 0 - 0 = 0.",
+        "10 place: 0 - 0 = 0.",
+        "100 place: 4 - 2 = 2.",
+        "1000 place: 3 - 1 = 2.",
+        "3400 - 1200 = 2200; check 2200 + 1200 = 3400."
+      ],
+      "answer": "2200 shillings",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "3400-1200",
+          "expected": "2200"
+        },
+        {
+          "expression": "0 - 0",
+          "expected": "0"
+        },
+        {
+          "expression": "4 - 2",
+          "expected": "2"
+        },
+        {
+          "expression": "3 - 1",
+          "expected": "2"
+        },
+        {
+          "expression": "3400 - 1200",
+          "expected": "2200"
+        },
+        {
+          "expression": "2200 + 1200",
+          "expected": "3400"
+        }
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Calculations",
+      "prompt": "Jamari spends 3000 shillings daily for 29 days. Total?",
+      "steps": [
+        "Split into place values: 3000 x 29 = 87000.",
+        "Add the partial products: 87000."
+      ],
+      "answer": "87000 shillings",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "3000*29",
+          "expected": "87000"
+        },
+        {
+          "expression": "3000 * 29",
+          "expected": "87000"
+        }
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Numbers and applications",
+      "prompt": "Convert 9:47 a.m.to 24-hour format.",
+      "steps": [
+        "Morning hours stay the same; write leading 0."
+      ],
+      "answer": "09:47",
+      "source_page": 3
+    },
+    {
+      "id": "4(ii)",
+      "section": "Numbers and applications",
+      "prompt": "How many hours make 540 minutes?",
+      "steps": [
+        "540 / 60 = 9."
+      ],
+      "answer": "9 hours",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "540 / 60",
+          "expected": "9"
+        }
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Numbers and applications",
+      "prompt": "Total days in September, April and June?",
+      "steps": [
+        "Each has 30 days.",
+        "30 + 30 + 30 = 90."
+      ],
+      "answer": "90 days",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "30 + 30 + 30",
+          "expected": "90"
+        }
+      ]
+    },
+    {
+      "id": "4(iv)",
+      "section": "Numbers and applications",
+      "prompt": "Read the clock with minute hand 7 and hour hand between 5 and 6.",
+      "steps": [
+        "7 x 5 = 35 minutes.",
+        "The hour is 5."
+      ],
+      "answer": "5:35",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "7 * 5",
+          "expected": "35"
+        }
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Numbers and applications",
+      "prompt": "Subtract 9 dm 4 cm 9 mm -3 dm 7 cm 6 mm (source prints Dm).",
+      "steps": [
+        "mm:9 - 6 = 3.",
+        "Borrow 1 dm=10 cm:8 dm 14 cm.",
+        "cm:14 - 7 = 7; dm:8 - 3 = 5."
+      ],
+      "answer": "5 dm 7 cm 3 mm",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "949-376",
+          "expected": "573"
+        },
+        {
+          "expression": "9 - 6",
+          "expected": "3"
+        },
+        {
+          "expression": "14 - 7",
+          "expected": "7"
+        },
+        {
+          "expression": "8 - 3",
+          "expected": "5"
+        }
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Numbers and applications",
+      "prompt": "Convert 76 kg to grams.",
+      "steps": [
+        "76 x 1000 = 76000."
+      ],
+      "answer": "76000 g",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "76 * 1000",
+          "expected": "76000"
+        }
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Numbers and applications",
+      "prompt": "Convert 20 litres to millilitres.",
+      "steps": [
+        "20 x 1000 = 20000."
+      ],
+      "answer": "20000 ml",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "20 * 1000",
+          "expected": "20000"
+        }
+      ]
+    },
+    {
+      "id": "6(i)",
+      "section": "Numbers and applications",
+      "prompt": "Count line segments from W to the marked points M, Z, T in the diagram.",
+      "steps": [
+        "There is one branch from W to each marked point.",
+        "Segments are WM, WZ, WT."
+      ],
+      "answer": "3",
+      "source_page": 4
+    },
+    {
+      "id": "6(ii)",
+      "section": "Numbers and applications",
+      "prompt": "Find area of rectangle ABDE 10 cm by 3 cm joined to right triangle BDC of base DC 8 cm and height BD 3 cm.",
+      "steps": [
+        "Rectangle:10 x 3 = 30 cm².",
+        "Triangle:8 x 3 / 2 = 12 cm².",
+        "30 + 12 = 42 cm²."
+      ],
+      "answer": "42 cm²",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "10 * 3",
+          "expected": "30"
+        },
+        {
+          "expression": "8 * 3 / 2",
+          "expected": "12"
+        },
+        {
+          "expression": "30 + 12",
+          "expected": "42"
+        }
+      ]
+    },
+    {
+      "id": "6(iii)",
+      "section": "Numbers and applications",
+      "prompt": "How many angles does a hexagon have?",
+      "steps": [
+        "A polygon has one angle per vertex; hexagon has 6 vertices."
+      ],
+      "answer": "6",
+      "source_page": 4
+    },
+    {
+      "id": "6(iv)",
+      "section": "Numbers and applications",
+      "prompt": "Find perimeter of rectangle 12 m by 9 m.",
+      "steps": [
+        "Perimeter=2(length+width).",
+        "12 + 9 = 21.",
+        "2 x 21 = 42."
+      ],
+      "answer": "42 m",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "12 + 9",
+          "expected": "21"
+        },
+        {
+          "expression": "2 * 21",
+          "expected": "42"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Numbers and applications": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - DAR ES SALAAM City Standard Four (Darasa La Nne) Mock Assessment Exams July 2025",
+      "url": "https://darasahuru.ac.tz/dar-es-salaam-city-standard-four-darasa-la-nne-mock-assessment-exams-july-2025/"
+    }
+  ],
+  "limitations": [
+    "The first two abacus rods both say TH; intended and literal interpretations are stated.",
+    "5(i) Dm is interpreted as decimetres (dm), consistent with the adjacent cm and mm columns."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "9daabf41d9685e0a141c35357478acabf392a2fdf99b7bda38684ff8f1233111"
+}

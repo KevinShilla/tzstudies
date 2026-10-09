@@ -1,0 +1,792 @@
+{
+  "exam": "Mathematics-S6-2024-MESP-Tanzania-August-Midterm-exam.pdf",
+  "output": "Mathematics-S6-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey.pdf",
+  "sha256": "fba6abff00f89be719b940c2e0a9a2e2422eb0c18a59df58263510c108142312",
+  "subject": "Mathematics",
+  "level": "Standard Six",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Midterm exam - August",
+  "question_count": "33 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(ix)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "7(i)",
+    "7(ii)",
+    "8(i)",
+    "8(ii)-circle",
+    "8(ii)-triangle"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Calculations",
+      "prompt": "Add 47856 +9918.",
+      "steps": [
+        "1 place: 6 + 8 = 14; write 4, carry 1.",
+        "10 place: 5 + 1 + carry 1 = 7; write 7.",
+        "100 place: 8 + 9 = 17; write 7, carry 1.",
+        "1000 place: 7 + 9 + carry 1 = 17; write 7, carry 1.",
+        "10000 place: 4 + 0 + carry 1 = 5; write 5.",
+        "47856 + 9918 = 57774."
+      ],
+      "answer": "57774",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "47856+9918",
+          "expected": "57774"
+        },
+        {
+          "expression": "6 + 8",
+          "expected": "14"
+        },
+        {
+          "expression": "8 + 9",
+          "expected": "17"
+        },
+        {
+          "expression": "47856 + 9918",
+          "expected": "57774"
+        }
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Calculations",
+      "prompt": "Subtract 52013 -7892.",
+      "steps": [
+        "1 place: 3 - 2 = 1.",
+        "10 place: regroup 1 from the next place; 11 - 9 = 2.",
+        "100 place: regroup 1 from the next place; 9 - 8 = 1.",
+        "1000 place: regroup 1 from the next place; 11 - 7 = 4.",
+        "10000 place: 4 - 0 = 4.",
+        "52013 - 7892 = 44121; check 44121 + 7892 = 52013."
+      ],
+      "answer": "44121",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "52013-7892",
+          "expected": "44121"
+        },
+        {
+          "expression": "3 - 2",
+          "expected": "1"
+        },
+        {
+          "expression": "11 - 9",
+          "expected": "2"
+        },
+        {
+          "expression": "9 - 8",
+          "expected": "1"
+        },
+        {
+          "expression": "11 - 7",
+          "expected": "4"
+        },
+        {
+          "expression": "4 - 0",
+          "expected": "4"
+        },
+        {
+          "expression": "52013 - 7892",
+          "expected": "44121"
+        },
+        {
+          "expression": "44121 + 7892",
+          "expected": "52013"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Calculations",
+      "prompt": "Multiply 568 x 47.",
+      "steps": [
+        "Split into place values: 500 x 47 = 23500; 60 x 47 = 2820; 8 x 47 = 376.",
+        "Add the partial products: 26696."
+      ],
+      "answer": "26696",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "568*47",
+          "expected": "26696"
+        },
+        {
+          "expression": "500*47",
+          "expected": "23500"
+        },
+        {
+          "expression": "60*47",
+          "expected": "2820"
+        },
+        {
+          "expression": "8*47",
+          "expected": "376"
+        }
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Calculations",
+      "prompt": "Divide 26696 by 47.",
+      "steps": [
+        "266 / 47: write 5; 5 x 47 = 235; 266 - 235 = 31.",
+        "319 / 47: write 6; 6 x 47 = 282; 319 - 282 = 37.",
+        "376 / 47: write 8; 8 x 47 = 376; 376 - 376 = 0.",
+        "47 x 568 = 26696.",
+        "26696 / 47 = 568."
+      ],
+      "answer": "568",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "26696/47",
+          "expected": "568"
+        },
+        {
+          "expression": "5*47",
+          "expected": "235"
+        },
+        {
+          "expression": "266 - 235",
+          "expected": "31"
+        },
+        {
+          "expression": "6*47",
+          "expected": "282"
+        },
+        {
+          "expression": "319 - 282",
+          "expected": "37"
+        },
+        {
+          "expression": "8*47",
+          "expected": "376"
+        },
+        {
+          "expression": "376 - 376",
+          "expected": "0"
+        },
+        {
+          "expression": "47*568",
+          "expected": "26696"
+        },
+        {
+          "expression": "26696 / 47",
+          "expected": "568"
+        }
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Mathematics",
+      "prompt": "Add 73.92 +10.3.",
+      "steps": [
+        "Write 10.30 aligned.",
+        "Hundredths 2+0=2; tenths 9+3=12, write 2 carry 1.",
+        "Whole 73+10+1=84."
+      ],
+      "answer": "84.22",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "73.92+10.3",
+          "expected": "4211/50"
+        },
+        {
+          "expression": "2+0",
+          "expected": "2"
+        },
+        {
+          "expression": "9+3",
+          "expected": "12"
+        },
+        {
+          "expression": "73+10+1",
+          "expected": "84"
+        }
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Mathematics",
+      "prompt": "Add 12 1/4 +5 3/4.",
+      "steps": [
+        "Whole 12+5=17; fractions 1/4+3/4=1.",
+        "17 + 1 = 18."
+      ],
+      "answer": "18",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "12+1/4+5+3/4",
+          "expected": "18"
+        },
+        {
+          "expression": "12+5",
+          "expected": "17"
+        },
+        {
+          "expression": "1/4+3/4",
+          "expected": "1"
+        },
+        {
+          "expression": "17 + 1",
+          "expected": "18"
+        }
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Mathematics",
+      "prompt": "Subtract 5 2/3 -1 3/5.",
+      "steps": [
+        "Convert 17/3 and 8/5.",
+        "Common denominator 15:85/15-24/15.",
+        "85 - 24 = 61;61/15=4 1/15."
+      ],
+      "answer": "4 1/15",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "(5+2/3)-(1+3/5)",
+          "expected": "61/15"
+        },
+        {
+          "expression": "85 - 24",
+          "expected": "61"
+        }
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Mathematics",
+      "prompt": "Multiply 3 1/4 x 3 1/5.",
+      "steps": [
+        "Convert 13/4 and 16/5.",
+        "Cancel 16/4=4.",
+        "13 x 4 = 52; denominator 5.",
+        "52/5=10 2/5."
+      ],
+      "answer": "10 2/5",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "(3+1/4)*(3+1/5)",
+          "expected": "52/5"
+        },
+        {
+          "expression": "16/4",
+          "expected": "4"
+        },
+        {
+          "expression": "13*4",
+          "expected": "52"
+        }
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Mathematics",
+      "prompt": "Divide 3 3/4 by 2 1/2.",
+      "steps": [
+        "Convert 15/4 and 5/2.",
+        "Multiply 15/4 by 2/5.",
+        "30/20=3/2=1 1/2."
+      ],
+      "answer": "1 1/2",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "(3+3/4)/(2+1/2)",
+          "expected": "3/2"
+        },
+        {
+          "expression": "30/20",
+          "expected": "3/2"
+        }
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Mathematics",
+      "prompt": "Subtract 11.2 -8.945.",
+      "steps": [
+        "Align 11.200 and 8.945.",
+        "Borrow:10 whole,11 tenths,9 hundredths,10 thousandths.",
+        "10-5=5;9-4=5;11-9=2;10-8=2."
+      ],
+      "answer": "2.255",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "11.2-8.945",
+          "expected": "451/200"
+        },
+        {
+          "expression": "10-5",
+          "expected": "5"
+        },
+        {
+          "expression": "9-4",
+          "expected": "5"
+        },
+        {
+          "expression": "11-9",
+          "expected": "2"
+        },
+        {
+          "expression": "10-8",
+          "expected": "2"
+        }
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Mathematics",
+      "prompt": "Write 346581 in words.",
+      "steps": [
+        "346581=346000+581."
+      ],
+      "answer": "Three hundred and forty-six thousand five hundred and eighty-one",
+      "source_page": 2
+    },
+    {
+      "id": "2(ii)",
+      "section": "Mathematics",
+      "prompt": "Continue 1,6,4,9,7,[ ].",
+      "steps": [
+        "Alternate+5,-2.",
+        "7 + 5 = 12."
+      ],
+      "answer": "12",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "7 + 5",
+          "expected": "12"
+        }
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Mathematics",
+      "prompt": "Arrange-10,+2,-1,-3,0,+3 in ascending order.",
+      "steps": [
+        "Negative numbers precede 0; more negative is smaller."
+      ],
+      "answer": "-10,-3,-1,0,+2,+3",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Mathematics",
+      "prompt": "Name each place in 7693251.",
+      "steps": [
+        "Read seven places left to right."
+      ],
+      "answer": "7 millions;6 hundred-thousands;9 ten-thousands;3 thousands;2 hundreds;5 tens;1 ones.",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Mathematics",
+      "prompt": "Write Ashiruna age 35 in Roman numerals.",
+      "steps": [
+        "30=XXX;5=V."
+      ],
+      "answer": "XXXV",
+      "source_page": 2
+    },
+    {
+      "id": "2(vi)",
+      "section": "Mathematics",
+      "prompt": "Mean masses 200,400,600,400,700 kg?",
+      "steps": [
+        "200 + 400 + 600 + 400 + 700 = 2300.",
+        "2300 / 5 = 460."
+      ],
+      "answer": "460 kg",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "200 + 400 + 600 + 400 + 700",
+          "expected": "2300"
+        },
+        {
+          "expression": "2300 / 5",
+          "expected": "460"
+        }
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Mathematics",
+      "prompt": "Najati leaves 18:30 and travels 30 minutes. Arrival 24-hour time?",
+      "steps": [
+        "18:30+30 minutes=19:00."
+      ],
+      "answer": "19:00",
+      "source_page": 3
+    },
+    {
+      "id": "3(ii)",
+      "section": "Mathematics",
+      "prompt": "Shoes bought 25000 sh, sold 16000 sh. Loss?",
+      "steps": [
+        "Loss=buying-selling.",
+        "25000 - 16000 = 9000."
+      ],
+      "answer": "Sh 9000",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "25000 - 16000",
+          "expected": "9000"
+        }
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Mathematics",
+      "prompt": "28 teachers,18 female. Fraction male?",
+      "steps": [
+        "28 - 18 = 10 males.",
+        "10/28=5/14."
+      ],
+      "answer": "5/14",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "28 - 18",
+          "expected": "10"
+        },
+        {
+          "expression": "10/28",
+          "expected": "5/14"
+        }
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Mathematics",
+      "prompt": "Convert 21.45%to decimal.",
+      "steps": [
+        "Divide percentage by 100.",
+        "21.45 / 100 = 0.2145."
+      ],
+      "answer": "0.2145",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "21.45 / 100",
+          "expected": "429/2000"
+        }
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Mathematics",
+      "prompt": "Solve 4 y +6 =30.",
+      "steps": [
+        "4 y=30-6=24.",
+        "24 / 4 = 6.",
+        "Check 4 x 6+6=30."
+      ],
+      "answer": "y=6",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "(30-6)/4",
+          "expected": "6"
+        },
+        {
+          "expression": "30-6",
+          "expected": "24"
+        },
+        {
+          "expression": "24 / 4",
+          "expected": "6"
+        },
+        {
+          "expression": "4*6+6",
+          "expected": "30"
+        }
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Mathematics",
+      "prompt": "Machine costs 35000 shand sells for 5%profit. Selling price?",
+      "steps": [
+        "35000 x 5 / 100 = 1750 profit.",
+        "35000 + 1750 = 36750."
+      ],
+      "answer": "Sh 36750",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "35000*5 / 100",
+          "expected": "1750"
+        },
+        {
+          "expression": "35000 + 1750",
+          "expected": "36750"
+        }
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Mathematics",
+      "prompt": "Add 5 kg 650 gand 4 kg 500 g.",
+      "steps": [
+        "650 + 500 = 1150 g=1 kg 150 g.",
+        "5 + 4 + 1 = 10 kg."
+      ],
+      "answer": "10 kg 150 g",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "5650+4500",
+          "expected": "10150"
+        },
+        {
+          "expression": "650 + 500",
+          "expected": "1150"
+        },
+        {
+          "expression": "5 + 4 + 1",
+          "expected": "10"
+        }
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Mathematics",
+      "prompt": "Number below 10 which is both even and prime?",
+      "steps": [
+        "Only 2 has exactly 2 factors andis even."
+      ],
+      "answer": "2",
+      "source_page": 3
+    },
+    {
+      "id": "5(iii)",
+      "section": "Mathematics",
+      "prompt": "Add 45%to 0.25; give percentage.",
+      "steps": [
+        "0.25=25%.",
+        "45 + 25 = 70."
+      ],
+      "answer": "70%",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "45 + 25",
+          "expected": "70"
+        }
+      ]
+    },
+    {
+      "id": "6(i)",
+      "section": "Mathematics",
+      "prompt": "Find the GCF of 48,60,96.",
+      "steps": [
+        "48=2⁴x 3;60=2²x 3 x 5;96=2⁵x 3.",
+        "Shared lowest powers 2²x 3=12."
+      ],
+      "answer": "12",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "2**2*3",
+          "expected": "12"
+        }
+      ]
+    },
+    {
+      "id": "6(ii)",
+      "section": "Mathematics",
+      "prompt": "List odds between 26 and 46.",
+      "steps": [
+        "Start 27 andadd 2 until 45."
+      ],
+      "answer": "27,29,31,33,35,37,39,41,43,45",
+      "source_page": 4
+    },
+    {
+      "id": "6(iii)",
+      "section": "Mathematics",
+      "prompt": "Simplifyn +2 b +3 n -b.",
+      "steps": [
+        "ncoefficients 1+3=4; bcoefficients 2-1=1."
+      ],
+      "answer": "4 n+b",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "1+3",
+          "expected": "4"
+        },
+        {
+          "expression": "2-1",
+          "expected": "1"
+        }
+      ]
+    },
+    {
+      "id": "7(i)",
+      "section": "Mathematics",
+      "prompt": "Graph sales Monday 200, Tuesday 600, Wednesday 200, Thursday 700, Friday 400. Wednesday+Friday?",
+      "steps": [
+        "200 + 400 = 600."
+      ],
+      "answer": "600 chickens",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "200 + 400",
+          "expected": "600"
+        }
+      ]
+    },
+    {
+      "id": "7(ii)",
+      "section": "Mathematics",
+      "prompt": "Mean chicken sales 200,600,200,700,400 in 5 days?",
+      "steps": [
+        "200 + 600 + 200 + 700 + 400 = 2100.",
+        "2100 / 5 = 420."
+      ],
+      "answer": "420 chickens",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "200 + 600 + 200 + 700 + 400",
+          "expected": "2100"
+        },
+        {
+          "expression": "2100 / 5",
+          "expected": "420"
+        }
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Mathematics",
+      "prompt": "Rectangle length 40 cm, perimeter 120 cm. Find area.",
+      "steps": [
+        "Length+width 120 / 2 = 60.",
+        "Width 60 - 40 = 20.",
+        "40 x 20 = 800."
+      ],
+      "answer": "800 cm²",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "120 / 2",
+          "expected": "60"
+        },
+        {
+          "expression": "60 - 40",
+          "expected": "20"
+        },
+        {
+          "expression": "40*20",
+          "expected": "800"
+        }
+      ]
+    },
+    {
+      "id": "8(ii)-circle",
+      "section": "Mathematics",
+      "prompt": "Circle diameter 28 cm, pi 22/7. Circumference?",
+      "steps": [
+        "Circumference=pi xdiameter.",
+        "(22/7) x 28 = 88."
+      ],
+      "answer": "88 cm",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "(22/7)*28",
+          "expected": "88"
+        }
+      ]
+    },
+    {
+      "id": "8(ii)-triangle",
+      "section": "Mathematics",
+      "prompt": "Right triangle legs 8 cm,6 cm; hypotenusey. Findy.",
+      "steps": [
+        "Pythagoras:y²=8²+6².",
+        "64 + 36 = 100.",
+        "10 x 10 = 100, so y=10."
+      ],
+      "answer": "10 cm",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "8**2+6**2",
+          "expected": "100"
+        },
+        {
+          "expression": "64 + 36",
+          "expected": "100"
+        },
+        {
+          "expression": "10*10",
+          "expected": "100"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Mathematics": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - Standard Six Midterm Exams August 2024 By MESP Tanzania",
+      "url": "https://darasahuru.ac.tz/standard-six-midterm-exams-august-2024-by-mesp-tanzania/"
+    }
+  ],
+  "limitations": [
+    "Q 8 has two parts printedii; both are separately identified."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "586f27b3198c575fb099b60ed686ec18732907c4c3bbfa6f929f1780e3ad6980"
+}

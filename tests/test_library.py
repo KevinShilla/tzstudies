@@ -45,8 +45,27 @@ def test_pagination_retains_filters_and_answer_keys_are_available_only(client):
     assert b"page=2" in filtered.data and b"subject=math" in filtered.data
     keys = client.get("/answer_keys?grade=S2")
     assert keys.status_code == 200
-    assert b'<article class="exam-card"' not in keys.data
-    assert b"No papers match" in keys.data
+    assert keys.data.count(b'<article class="exam-card"') == PAGE_SIZE
+    assert b'data-grade="S2"' in keys.data
+    assert b'data-grade="S6"' not in keys.data
+    assert b"AnswerKey.pdf" in keys.data
+
+
+def test_every_imported_paper_has_its_approved_published_worked_key():
+    manifest = json.loads((ROOT / "exams/catalogue.json").read_text(encoding="utf-8"))["papers"]
+    catalogue = {paper["filename"]: paper for paper in build_catalogue(ROOT / "exams", ROOT / "answer_keys")}
+    report = json.loads((ROOT / "output/primary-answer-key-review.json").read_text(encoding="utf-8"))["papers"]
+    for filename, metadata in manifest.items():
+        stem = Path(filename).stem
+        solution = json.loads((ROOT / "answer_keys/solutions" / (stem + ".json")).read_text(encoding="utf-8"))
+        key_name = stem + "-AnswerKey.pdf"
+        data = (ROOT / "answer_keys" / key_name).read_bytes()
+        assert catalogue[filename]["answer_key"] == key_name
+        assert solution["sha256"] == metadata["sha256"]
+        assert solution["reviewed"] is solution["visual_reviewed"] is True
+        assert report[filename]["status"] == "published"
+        assert not report[filename]["layout_errors"]
+        assert hashlib.sha256(data).hexdigest() == solution["visual_review_pdf_sha256"] == report[filename]["pdf_sha256"]
 
 
 @pytest.mark.parametrize("query", ["grade=S99", "subject=unknown", "year=22", "page=0", "page=-2", "page=999999999", "year=2022x", "q=" + "x" * 201])

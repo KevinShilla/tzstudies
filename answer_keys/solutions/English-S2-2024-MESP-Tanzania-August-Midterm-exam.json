@@ -1,0 +1,339 @@
+{
+  "exam": "English-S2-2024-MESP-Tanzania-August-Midterm-exam.pdf",
+  "output": "English-S2-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Two",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Midterm exam - August · Reading",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "aecbc8b653c1f544cf7f142efbbb9ed7cea6436fa13ae8f5b59805b49e335c8d",
+  "questions": [
+    {
+      "id": "1",
+      "section": "Source-limited items",
+      "prompt": "Write dictation item 1.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "2",
+      "section": "Source-limited items",
+      "prompt": "Write dictation item 2.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "3",
+      "section": "Source-limited items",
+      "prompt": "Write dictation item 3.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "4",
+      "section": "Source-limited items",
+      "prompt": "Write dictation item 4.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "5",
+      "section": "Source-limited items",
+      "prompt": "Write dictation item 5.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "6",
+      "section": "Subject and verb",
+      "prompt": "She ___ cooking ugali. (A are, B is, C will)",
+      "steps": [
+        "She is a singular subject; is cooking is present continuous.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Is.",
+      "source_page": 1
+    },
+    {
+      "id": "7",
+      "section": "Grammar and opposites",
+      "prompt": "Amina and Juma ___ fighting in our class. (A They, B am, C are)",
+      "steps": [
+        "Two named people require the plural auxiliary are.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Are.",
+      "source_page": 2
+    },
+    {
+      "id": "8",
+      "section": "Grammar and opposites",
+      "prompt": "I ___ reading a story book. (A am, B is, C has)",
+      "steps": [
+        "I takes the auxiliary am.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Am.",
+      "source_page": 2
+    },
+    {
+      "id": "9",
+      "section": "Grammar and opposites",
+      "prompt": "Those ___ chairs. (A are, B is, C have)",
+      "steps": [
+        "Those refers to several chairs, so use are.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Are.",
+      "source_page": 2
+    },
+    {
+      "id": "10",
+      "section": "Grammar and opposites",
+      "prompt": "He ___ in class two. (A are, B am, C is)",
+      "steps": [
+        "He takes is in the present tense.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Is.",
+      "source_page": 2
+    },
+    {
+      "id": "11",
+      "section": "Grammar and opposites",
+      "prompt": "A bird ___ wings. Use has or have.",
+      "steps": [
+        "A bird is a singular third-person subject.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Has.",
+      "source_page": 2
+    },
+    {
+      "id": "12",
+      "section": "Grammar and opposites",
+      "prompt": "We ___ food at home. Use has or have.",
+      "steps": [
+        "We takes have.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Have.",
+      "source_page": 2
+    },
+    {
+      "id": "13",
+      "section": "Grammar and opposites",
+      "prompt": "I ___ many friends. Use has or have.",
+      "steps": [
+        "I takes have.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Have.",
+      "source_page": 2
+    },
+    {
+      "id": "14",
+      "section": "Grammar and opposites",
+      "prompt": "It ___ a big meat. Use has or have.",
+      "steps": [
+        "It takes has, and meat is normally uncountable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Has; better wording: It has a big piece of meat.",
+      "source_page": 2
+    },
+    {
+      "id": "15",
+      "section": "Grammar and opposites",
+      "prompt": "Do you ___ any fruit? Use has or have.",
+      "steps": [
+        "After do, use the base verb have.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Have.",
+      "source_page": 2
+    },
+    {
+      "id": "16",
+      "section": "Grammar and opposites",
+      "prompt": "Write the opposite of Short.",
+      "steps": [
+        "Use tall for height or long for length; context is not supplied.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Tall/long.",
+      "source_page": 2
+    },
+    {
+      "id": "17",
+      "section": "Grammar and opposites",
+      "prompt": "Write the opposite of Young.",
+      "steps": [
+        "Old contrasts with young in age.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Old.",
+      "source_page": 2
+    },
+    {
+      "id": "18",
+      "section": "Grammar and opposites",
+      "prompt": "Write the opposite of Beautiful.",
+      "steps": [
+        "Ugly is the usual vocabulary antonym.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Ugly.",
+      "source_page": 2
+    },
+    {
+      "id": "19",
+      "section": "Grammar and opposites",
+      "prompt": "Write the opposite of Battom (printed; intended bottom).",
+      "steps": [
+        "The printed typo appears to mean bottom, whose opposite is top.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Top.",
+      "source_page": 2
+    },
+    {
+      "id": "20",
+      "section": "Grammar and opposites",
+      "prompt": "Write the opposite of Close.",
+      "steps": [
+        "The meaning is not specified. Choose the opposite appropriate to closing a door or to nearby distance.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Open (verb); far/distant (adjective).",
+      "source_page": 2
+    },
+    {
+      "id": "21",
+      "section": "Comprehension",
+      "prompt": "What is the name of the farmer?",
+      "steps": [
+        "The heading names Mr. George; the passage misspells it Geore.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Mr. George.",
+      "source_page": 3
+    },
+    {
+      "id": "22",
+      "section": "Comprehension",
+      "prompt": "What vegetables grow in Mr. George's farm?",
+      "steps": [
+        "The passage lists these three vegetables.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Spinach, carrots and eggplant.",
+      "source_page": 3
+    },
+    {
+      "id": "23",
+      "section": "Comprehension",
+      "prompt": "Where does Mr. George live?",
+      "steps": [
+        "The opening says he lives in Arusha; Sanawari is where he farms.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Arusha.",
+      "source_page": 3
+    },
+    {
+      "id": "24",
+      "section": "Comprehension",
+      "prompt": "What fruit trees grow on Mr. George's farm?",
+      "steps": [
+        "The passage names mangoes, apples and oranges.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Mango, apple and orange trees.",
+      "source_page": 3
+    },
+    {
+      "id": "25",
+      "section": "Comprehension",
+      "prompt": "How many vowel letters are in spinach?",
+      "steps": [
+        "Spell s-p-i-n-a-c-h and count its vowel letters.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Two: i and a.",
+      "source_page": 3
+    }
+  ],
+  "summaries": {
+    "Source-limited items": "The required script, picture or other information is missing. Use the stated limitation and obtain the original material before expecting a unique answer.",
+    "Subject and verb": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Grammar and opposites": "Choose the meaning required by the sentence, then give the corresponding opposite or counterpart. Keep the same grammatical form.",
+    "Comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "Standard Two Midterm Exams August 2024 By MESP Tanzania",
+      "url": "https://darasahuru.ac.tz/standard-two-midterm-exams-august-2024-by-mesp-tanzania/"
+    }
+  ],
+  "limitations": [
+    "1: The teacher dictation words or audio are not included in this source.",
+    "2: The teacher dictation words or audio are not included in this source.",
+    "3: The teacher dictation words or audio are not included in this source.",
+    "4: The teacher dictation words or audio are not included in this source.",
+    "5: The teacher dictation words or audio are not included in this source."
+  ],
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25"
+  ],
+  "question_count": "25 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "e89b3b2c4c4326890de0b8a31140fdae4cff192678819b578fd2f6d7ef9a67c0"
+}

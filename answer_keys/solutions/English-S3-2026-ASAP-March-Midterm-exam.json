@@ -1,0 +1,339 @@
+{
+  "exam": "English-S3-2026-ASAP-March-Midterm-exam.pdf",
+  "output": "English-S3-2026-ASAP-March-Midterm-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Three",
+  "year": "2026",
+  "code": "Not printed in source",
+  "board": "ASAP",
+  "exam_type": "Midterm exam - March",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "64029c0f3ea9fbe957c4cdd82af7ae6bb062669fc6968991cd3fb5f85dbd06db",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation item i.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(ii)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation item ii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iii)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation item iii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iv)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation item iv.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(v)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation item v.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "2(i)",
+      "section": "Language practice",
+      "prompt": "A bottle is ___ the table.",
+      "steps": [
+        "The bottle is pictured beneath the table in panel 2.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Under.",
+      "source_page": 1
+    },
+    {
+      "id": "2(ii)",
+      "section": "Language practice",
+      "prompt": "A cat is ___ the table.",
+      "steps": [
+        "The cat is pictured beneath the table in panel 3.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Under.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iii)",
+      "section": "Language practice",
+      "prompt": "A bag is ___ the table.",
+      "steps": [
+        "The bag is on the table's top surface.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "On.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iv)",
+      "section": "Language practice",
+      "prompt": "A radio ___ the table.",
+      "steps": [
+        "The radio rests on top; include is because the printed sentence omits the verb.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Is on.",
+      "source_page": 1
+    },
+    {
+      "id": "2(v)",
+      "section": "Language practice",
+      "prompt": "A ball is ___ table (printed).",
+      "steps": [
+        "Panel 1 puts the ball beneath a chair. If the examiner intended table, under is the requested preposition, but the noun in the prompt is wrong.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Under the chair (pictured); the pictured support is not a table.",
+      "source_page": 1
+    },
+    {
+      "id": "3(i)",
+      "section": "Language practice",
+      "prompt": "I ___ Aisha. (A am, B is, C she)",
+      "steps": [
+        "I takes am.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Am.",
+      "source_page": 1
+    },
+    {
+      "id": "3(ii)",
+      "section": "Language practice",
+      "prompt": "We ___ boy. (A is, B are, C am)",
+      "steps": [
+        "We takes are, and a plural subject should use boys.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Are; corrected sentence: We are boys.",
+      "source_page": 1
+    },
+    {
+      "id": "3(iii)",
+      "section": "Language practice",
+      "prompt": "You ___ stubborn. (A am, B is, C are)",
+      "steps": [
+        "You takes are.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Are.",
+      "source_page": 1
+    },
+    {
+      "id": "3(iv)",
+      "section": "Language practice",
+      "prompt": "She ___ happy. (A her, B its, C is)",
+      "steps": [
+        "She takes is.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Is.",
+      "source_page": 1
+    },
+    {
+      "id": "3(v)",
+      "section": "Language practice",
+      "prompt": "He ___ hungry. (A is, B am, C are)",
+      "steps": [
+        "He takes is.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Is.",
+      "source_page": 1
+    },
+    {
+      "id": "4(i)",
+      "section": "Language practice",
+      "prompt": "Jamila is my best friend. ___ love cooking. (I, WE, YOU, SHE, IT, THEY, HE)",
+      "steps": [
+        "She requires loves, so there is no pronoun that both refers back to Jamila and agrees with the printed verb love.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "As printed: I, we, you or they can agree with love. If referring to Jamila: She loves cooking.",
+      "source_page": 1
+    },
+    {
+      "id": "4(ii)",
+      "section": "Language practice",
+      "prompt": "Look at the cow under the tree. ___ is big and fat.",
+      "steps": [
+        "It refers back to the cow.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "It.",
+      "source_page": 1
+    },
+    {
+      "id": "4(iii)",
+      "section": "Language practice",
+      "prompt": "My aunt is a doctor. ___ works at Rufaa Hospital.",
+      "steps": [
+        "She refers to the aunt and agrees with works.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "She.",
+      "source_page": 1
+    },
+    {
+      "id": "4(iv)",
+      "section": "Language practice",
+      "prompt": "___ are my friends.",
+      "steps": [
+        "They refers to several other friends; you can address friends directly.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "They (intended); you is also grammatical.",
+      "source_page": 1
+    },
+    {
+      "id": "4(v)",
+      "section": "Language practice",
+      "prompt": "___ is raining now.",
+      "steps": [
+        "English uses it for the weather.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "It.",
+      "source_page": 1
+    },
+    {
+      "id": "5(i)",
+      "section": "Language practice",
+      "prompt": "My name is ___. (Edson passage)",
+      "steps": [
+        "The opening sentence names the narrator.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Edson.",
+      "source_page": 1
+    },
+    {
+      "id": "5(ii)",
+      "section": "Language practice",
+      "prompt": "I am ___ years old.",
+      "steps": [
+        "The narrator states his age.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Ten.",
+      "source_page": 1
+    },
+    {
+      "id": "5(iii)",
+      "section": "Language practice",
+      "prompt": "I always go to school ___ foot.",
+      "steps": [
+        "The passage uses on foot for walking.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "On.",
+      "source_page": 1
+    },
+    {
+      "id": "5(iv)",
+      "section": "Language practice",
+      "prompt": "I am in class ___.",
+      "steps": [
+        "The passage says class three.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Three.",
+      "source_page": 1
+    },
+    {
+      "id": "5(v)",
+      "section": "Language practice",
+      "prompt": "My school is called ___.",
+      "steps": [
+        "The passage names his school.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Bunda Primary School.",
+      "source_page": 1
+    }
+  ],
+  "summaries": {
+    "Source-limited items": "The required script, picture or other information is missing. Use the stated limitation and obtain the original material before expecting a unique answer.",
+    "Language practice": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices."
+  },
+  "references": [
+    {
+      "title": "ASAP DARASA LA TATU MIDTERM EXAMINATIONS 2026",
+      "url": "https://darasahuru.ac.tz/asap-darasa-la-tatu-midterm-examinations-2026/"
+    }
+  ],
+  "limitations": [
+    "1(i): The teacher dictation words or audio are not included in this source.",
+    "1(ii): The teacher dictation words or audio are not included in this source.",
+    "1(iii): The teacher dictation words or audio are not included in this source.",
+    "1(iv): The teacher dictation words or audio are not included in this source.",
+    "1(v): The teacher dictation words or audio are not included in this source.",
+    "2(v): Picture shows a chair, while the prompt says table.",
+    "4(i): Printed love does not agree with She; both printed grammar and corrected intended reference are explained."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)"
+  ],
+  "question_count": "25 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "8198f114b2953d0aa5810d2e6afb805d2f62412103cec45b6800bec39f9c1b53"
+}

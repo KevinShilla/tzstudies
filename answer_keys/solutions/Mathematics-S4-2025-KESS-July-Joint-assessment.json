@@ -1,0 +1,546 @@
+{
+  "exam": "Mathematics-S4-2025-KESS-July-Joint-assessment.pdf",
+  "output": "Mathematics-S4-2025-KESS-July-Joint-assessment-AnswerKey.pdf",
+  "sha256": "5a6ce39444120d486fd6c69f5e167e60e9d5a3c8ee50fba0a7e2276f91304c9e",
+  "subject": "Mathematics",
+  "level": "Standard Four",
+  "year": "2025",
+  "code": "MOSE",
+  "board": "KESS",
+  "exam_type": "Joint assessment - July",
+  "question_count": "25 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(a)",
+    "1(b)",
+    "1(c)",
+    "1(d)",
+    "1(e)",
+    "1(f)",
+    "2(a)",
+    "2(b)",
+    "2(c)",
+    "2(d)",
+    "2(e)",
+    "3(a)",
+    "3(b)",
+    "3(c)",
+    "4(a)",
+    "4(b)",
+    "4(c)",
+    "4(d)",
+    "5(a)",
+    "5(b)",
+    "5(c)",
+    "6(a)",
+    "6(b)",
+    "6(c)",
+    "6(d)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Numbers and applications",
+      "prompt": "Form the number with 8 ones,0 tens,2 hundreds,4 thousands.",
+      "steps": [
+        "4000 + 200 + 0 + 8 = 4208."
+      ],
+      "answer": "4208",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "4000 + 200 + 0 + 8",
+          "expected": "4208"
+        }
+      ]
+    },
+    {
+      "id": "1(b)",
+      "section": "Numbers and applications",
+      "prompt": "How many hundreds of oranges are in 3570?",
+      "steps": [
+        "3570 / 100 = 35.7.",
+        "35 complete groups of 100, use 3500 and leave 70."
+      ],
+      "answer": "35 complete hundreds and 70 oranges (35.7 hundreds); hundreds digit 5.",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "3570 / 100",
+          "expected": "357/10"
+        }
+      ]
+    },
+    {
+      "id": "1(c)",
+      "section": "Numbers and applications",
+      "prompt": "Write seven thousand and four in digits.",
+      "steps": [
+        "7000 + 4 = 7004."
+      ],
+      "answer": "7004",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "7000 + 4",
+          "expected": "7004"
+        }
+      ]
+    },
+    {
+      "id": "1(d)",
+      "section": "Numbers and applications",
+      "prompt": "Compare DC and CM with<,>,=.",
+      "steps": [
+        "DC=600; CM=900.",
+        "600<900."
+      ],
+      "answer": "<",
+      "source_page": 2
+    },
+    {
+      "id": "1(e)",
+      "section": "Numbers and applications",
+      "prompt": "Continue 75,60,45,30,15,[ ].",
+      "steps": [
+        "Subtract 15; 15 - 15 = 0."
+      ],
+      "answer": "0",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "15 - 15",
+          "expected": "0"
+        }
+      ]
+    },
+    {
+      "id": "1(f)",
+      "section": "Calculations",
+      "prompt": "Add 852 +358.",
+      "steps": [
+        "1 place: 2 + 8 = 10; write 0, carry 1.",
+        "10 place: 5 + 5 + carry 1 = 11; write 1, carry 1.",
+        "100 place: 8 + 3 + carry 1 = 12; write 2, carry 1.",
+        "Write final carry 1 in the next place.",
+        "852 + 358 = 1210."
+      ],
+      "answer": "1210",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "852+358",
+          "expected": "1210"
+        },
+        {
+          "expression": "2 + 8",
+          "expected": "10"
+        },
+        {
+          "expression": "852 + 358",
+          "expected": "1210"
+        }
+      ]
+    },
+    {
+      "id": "2(a)",
+      "section": "Numbers and applications",
+      "prompt": "Which is smaller,2/6 or 2/5?",
+      "steps": [
+        "Use denominator 30:2/6=10/30 and 2/5=12/30.",
+        "10<12."
+      ],
+      "answer": "2/6",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2/6-2/5",
+          "expected": "-1/15"
+        },
+        {
+          "expression": "2/6",
+          "expected": "1/3"
+        },
+        {
+          "expression": "2/5",
+          "expected": "2/5"
+        }
+      ]
+    },
+    {
+      "id": "2(b)",
+      "section": "Numbers and applications",
+      "prompt": "Calculate 7/8 -4/8.",
+      "steps": [
+        "7 - 4 = 3; denominator 8 stays."
+      ],
+      "answer": "3/8",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "7/8-4/8",
+          "expected": "3/8"
+        },
+        {
+          "expression": "7 - 4",
+          "expected": "3"
+        }
+      ]
+    },
+    {
+      "id": "2(c)",
+      "section": "Numbers and applications",
+      "prompt": "A school has 40 teachers;1/4 are female. How many male?",
+      "steps": [
+        "40 / 4 = 10 female.",
+        "40 - 10 = 30 male."
+      ],
+      "answer": "30 male teachers",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "40 / 4",
+          "expected": "10"
+        },
+        {
+          "expression": "40 - 10",
+          "expected": "30"
+        }
+      ]
+    },
+    {
+      "id": "2(d)",
+      "section": "Numbers and applications",
+      "prompt": "Write 3.25 in words.",
+      "steps": [
+        "Read whole part 3; then individual decimal digits 2 and 5."
+      ],
+      "answer": "Three point two five",
+      "source_page": 2
+    },
+    {
+      "id": "2(e)",
+      "section": "Numbers and applications",
+      "prompt": "Convert 1/5 to decimal.",
+      "steps": [
+        "1/5=2/10.",
+        "2 tenths=0.2."
+      ],
+      "answer": "0.2",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "1/5",
+          "expected": "1/5"
+        }
+      ]
+    },
+    {
+      "id": "3(a)",
+      "section": "Calculations",
+      "prompt": "One exercise book costs 800 shillings. Cost of 15 books?",
+      "steps": [
+        "Split into place values: 800 x 15 = 12000.",
+        "Add the partial products: 12000."
+      ],
+      "answer": "12000 shillings",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "800*15",
+          "expected": "12000"
+        },
+        {
+          "expression": "800 * 15",
+          "expected": "12000"
+        }
+      ]
+    },
+    {
+      "id": "3(b)",
+      "section": "Calculations",
+      "prompt": "Subtract Sh 2000 -Sh 150.",
+      "steps": [
+        "1 place: 0 - 0 = 0.",
+        "10 place: regroup 1 from the next place; 10 - 5 = 5.",
+        "100 place: regroup 1 from the next place; 9 - 1 = 8.",
+        "1000 place: 1 - 0 = 1.",
+        "2000 - 150 = 1850; check 1850 + 150 = 2000."
+      ],
+      "answer": "1850 shillings",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "2000-150",
+          "expected": "1850"
+        },
+        {
+          "expression": "0 - 0",
+          "expected": "0"
+        },
+        {
+          "expression": "10 - 5",
+          "expected": "5"
+        },
+        {
+          "expression": "9 - 1",
+          "expected": "8"
+        },
+        {
+          "expression": "1 - 0",
+          "expected": "1"
+        },
+        {
+          "expression": "2000 - 150",
+          "expected": "1850"
+        },
+        {
+          "expression": "1850 + 150",
+          "expected": "2000"
+        }
+      ]
+    },
+    {
+      "id": "3(c)",
+      "section": "Numbers and applications",
+      "prompt": "How many 50-cent pieces equal 1 shilling?",
+      "steps": [
+        "1 shilling=100 cents.",
+        "100 / 50 = 2."
+      ],
+      "answer": "2",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "100 / 50",
+          "expected": "2"
+        }
+      ]
+    },
+    {
+      "id": "4(a)",
+      "section": "Numbers and applications",
+      "prompt": "Suzan spends 1 hour 40 minutes washing dishes, and 1 hour 30 minutes watering. Total time?",
+      "steps": [
+        "Minutes:40 + 30 = 70=1 hour 10 minutes.",
+        "Hours:1 + 1 + 1 = 3."
+      ],
+      "answer": "3 hours 10 minutes",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "(60+40)+(60+30)",
+          "expected": "190"
+        },
+        {
+          "expression": "40 + 30",
+          "expected": "70"
+        },
+        {
+          "expression": "1 + 1 + 1",
+          "expected": "3"
+        }
+      ]
+    },
+    {
+      "id": "4(b)",
+      "section": "Numbers and applications",
+      "prompt": "Convert 120 minutes to hours.",
+      "steps": [
+        "120 / 60 = 2."
+      ],
+      "answer": "2 hours",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "120 / 60",
+          "expected": "2"
+        }
+      ]
+    },
+    {
+      "id": "4(c)",
+      "section": "Numbers and applications",
+      "prompt": "Convert 3:45 p.m.to 24-hour time.",
+      "steps": [
+        "3 + 12 = 15; minutes 45 stay."
+      ],
+      "answer": "15:45",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "3 + 12",
+          "expected": "15"
+        }
+      ]
+    },
+    {
+      "id": "4(d)",
+      "section": "Numbers and applications",
+      "prompt": "Write quarter to three in numerals.",
+      "steps": [
+        "Fifteen minutes before 3:00 is 2:45."
+      ],
+      "answer": "2:45",
+      "source_page": 3
+    },
+    {
+      "id": "5(a)",
+      "section": "Numbers and applications",
+      "prompt": "Convert 3 kg 250 g sugar to grams.",
+      "steps": [
+        "3 x 1000 = 3000.",
+        "3000 + 250 = 3250."
+      ],
+      "answer": "3250 g",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "3 * 1000",
+          "expected": "3000"
+        },
+        {
+          "expression": "3000 + 250",
+          "expected": "3250"
+        }
+      ]
+    },
+    {
+      "id": "5(b)",
+      "section": "Numbers and applications",
+      "prompt": "A cow produces 5 litres daily. How many millilitres in 2 days?",
+      "steps": [
+        "5 x 2 = 10 litres.",
+        "10 x 1000 = 10000."
+      ],
+      "answer": "10000 ml",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "5 * 2",
+          "expected": "10"
+        },
+        {
+          "expression": "10 * 1000",
+          "expected": "10000"
+        }
+      ]
+    },
+    {
+      "id": "5(c)",
+      "section": "Numbers and applications",
+      "prompt": "Add 8 km 650 m and 4 km 500 m.",
+      "steps": [
+        "650 + 500 = 1150 m=1 km 150 m.",
+        "8 + 4 + 1 = 13 km."
+      ],
+      "answer": "13 km 150 m",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "8650+4500",
+          "expected": "13150"
+        },
+        {
+          "expression": "650 + 500",
+          "expected": "1150"
+        },
+        {
+          "expression": "8 + 4 + 1",
+          "expected": "13"
+        }
+      ]
+    },
+    {
+      "id": "6(a)",
+      "section": "Numbers and applications",
+      "prompt": "Name the plane shape of the roadworks traffic sign.",
+      "steps": [
+        "Its outline has 3 straight sides."
+      ],
+      "answer": "Triangle",
+      "source_page": 4
+    },
+    {
+      "id": "6(b)",
+      "section": "Numbers and applications",
+      "prompt": "Find area of rectangle ABDE 12 cm by 6 cm joined to triangle BDC, base DC 8 cm, height BD 6 cm.",
+      "steps": [
+        "Rectangle 12 x 6 = 72 cm².",
+        "Triangle 8 x 6 / 2 = 24 cm².",
+        "72 + 24 = 96 cm²."
+      ],
+      "answer": "96 cm²",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "12 * 6",
+          "expected": "72"
+        },
+        {
+          "expression": "8 * 6 / 2",
+          "expected": "24"
+        },
+        {
+          "expression": "72 + 24",
+          "expected": "96"
+        }
+      ]
+    },
+    {
+      "id": "6(c)",
+      "section": "Numbers and applications",
+      "prompt": "Find area of a square of side 20 cm.",
+      "steps": [
+        "Area=side xside.",
+        "20 x 20 = 400."
+      ],
+      "answer": "400 cm²",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "20 * 20",
+          "expected": "400"
+        }
+      ]
+    },
+    {
+      "id": "6(d)",
+      "section": "Numbers and applications",
+      "prompt": "Rectangle perimeter 800 m, length 250 m. Find width.",
+      "steps": [
+        "Length + width=800 / 2 = 400.",
+        "Width 400 - 250 = 150."
+      ],
+      "answer": "150 m",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "800 / 2",
+          "expected": "400"
+        },
+        {
+          "expression": "400 - 250",
+          "expected": "150"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Numbers and applications": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - KESS Standard Four Second Joint Exams July 2025",
+      "url": "https://darasahuru.ac.tz/kess-standard-four-second-joint-exams-july-2025/"
+    }
+  ],
+  "limitations": [
+    "1(b) asks for hundreds in 3570:complete hundreds 35, decimal hundreds 35.7, and hundreds digit 5 are distinguished.",
+    "4(a) second duration omits the word hour; it is interpreted as 1 hour 30 minutes."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "679558e1aab1145a93bc56aa67eb8557a1f164921ca91cd1b3bc498648d7d127"
+}

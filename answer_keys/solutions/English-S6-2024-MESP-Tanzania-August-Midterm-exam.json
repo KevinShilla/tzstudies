@@ -1,0 +1,458 @@
+{
+  "exam": "English-S6-2024-MESP-Tanzania-August-Midterm-exam.pdf",
+  "output": "English-S6-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Six",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Midterm exam - August",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "d04d5cb50a419b4ffd1adbe46c0b95f21c955e2aa74eb7c193e5ec9186ef07b4",
+  "questions": [
+    {
+      "id": "1-Listen(i)",
+      "section": "Listening",
+      "prompt": "What problem affects species and ecosystems? (A noise pollution, B water pollution, C air pollution, D land pollution, E gas pollution)",
+      "steps": [
+        "The included page 5 script begins with this problem.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Water pollution.",
+      "source_page": 1
+    },
+    {
+      "id": "1-Listen(ii)",
+      "section": "Listening",
+      "prompt": "What does polluted water affect? (A plants and organisms, B animals, C oceans, D plants, E bacteria)",
+      "steps": [
+        "The script explicitly names these groups.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Plants and organisms living in water.",
+      "source_page": 1
+    },
+    {
+      "id": "1-Listen(iii)",
+      "section": "Listening",
+      "prompt": "Which activity is a major cause of pollution in the script? (A business, B wood, C water, D air, E agriculture)",
+      "steps": [
+        "The script explains fertiliser runoff from crops.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Agriculture.",
+      "source_page": 1
+    },
+    {
+      "id": "1-Listen(iv)",
+      "section": "Listening",
+      "prompt": "Which planet has liquid water on its surface in the script? (A other planets, B Mars, C Jupiter, D Earth, E Pluto)",
+      "steps": [
+        "The script identifies Earth; this concerns stable surface liquid water.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Earth.",
+      "source_page": 1
+    },
+    {
+      "id": "1-Listen(v)",
+      "section": "Listening",
+      "prompt": "How much daily water does the script state? (A 6 L, B 4 L, C 3 L, D 7 L, E 15 L)",
+      "steps": [
+        "Read the specified amount as the passage answer; individual needs vary and this is not a prescribed intake for every child.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Approximately 3 litres, according to the script.",
+      "source_page": 1
+    },
+    {
+      "id": "2-MC(i)",
+      "section": "Grammar",
+      "prompt": "Ogweno shared land ___ four sons. (A among, B between, C beside, D besides, E within)",
+      "steps": [
+        "Among expresses distribution within a group.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Among (expected school answer). Between is also used for distinct individual parties.",
+      "source_page": 2
+    },
+    {
+      "id": "2-MC(ii)",
+      "section": "Grammar",
+      "prompt": "Food was ___ delicious that he wanted it daily. (A very, B too, C so, D extremely, E as)",
+      "steps": [
+        "So...that links degree and result.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. So.",
+      "source_page": 2
+    },
+    {
+      "id": "2-MC(iii)",
+      "section": "Grammar",
+      "prompt": "The train ___ late three times this week. (A was being, B is, C has been, D would be, E has being)",
+      "steps": [
+        "This week is a continuing period; use present perfect.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Has been.",
+      "source_page": 2
+    },
+    {
+      "id": "2-MC(iv)",
+      "section": "Grammar",
+      "prompt": "Build a ___ school. (A girls, B girl's, C girls's, D girls', E girl)",
+      "steps": [
+        "The plural possessive places the apostrophe after s.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Girls'.",
+      "source_page": 2
+    },
+    {
+      "id": "2-MC(v)",
+      "section": "Grammar",
+      "prompt": "The deer was ___ when the hunter saw it. (A died, B has died, C dies, D dead, E die)",
+      "steps": [
+        "Was dead describes its state.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Dead.",
+      "source_page": 2
+    },
+    {
+      "id": "1-Bank(i)",
+      "section": "Grammar",
+      "prompt": "Joan will be late unless she prepares early. Fill the conjunction from his, adjective, cleverest, two, twice, her, unless, clever, adverb.",
+      "steps": [
+        "Unless means if she does not.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Unless.",
+      "source_page": 2
+    },
+    {
+      "id": "1-Bank(ii)",
+      "section": "Grammar",
+      "prompt": "We ate chicken and chips ___ a month.",
+      "steps": [
+        "Twice means two times; two alone cannot modify a month this way.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Twice.",
+      "source_page": 2
+    },
+    {
+      "id": "1-Bank(iii)",
+      "section": "Grammar",
+      "prompt": "He is the ___ and hardworking pupil in class.",
+      "steps": [
+        "The comparison with the class uses the superlative.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Cleverest.",
+      "source_page": 2
+    },
+    {
+      "id": "1-Bank(iv)",
+      "section": "Grammar",
+      "prompt": "The young princess ordered ten burgers for herself. Identify the part of speech of the underlined word using adjective/adverb from the bank. No target underline is visible.",
+      "steps": [
+        "Young describes the noun princess.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Adjective, if young is the intended target; young describes princess. No word is visibly underlined, so the exact target is not prescribed.",
+      "source_page": 2
+    },
+    {
+      "id": "1-Bank(v)",
+      "section": "Grammar",
+      "prompt": "The book belongs to Nurya, so it is ___ her book (printed).",
+      "steps": [
+        "Her goes directly before book; inserting her in the printed blank would duplicate it.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Intended bank word: her. Corrected sentence: It is her book. As printed, no extra possessive is needed before the existing her.",
+      "source_page": 2
+    },
+    {
+      "id": "2-Match(i)",
+      "section": "Vocabulary",
+      "prompt": "Match cloth worn around the neck/shoulders/head: A minutes, B scarf, C theatre, D club, E screech, F debate.",
+      "steps": [
+        "A scarf is the described cloth garment.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Scarf.",
+      "source_page": 3
+    },
+    {
+      "id": "2-Match(ii)",
+      "section": "Vocabulary",
+      "prompt": "Match a record of a formal meeting.",
+      "steps": [
+        "Minutes record what a meeting discusses and decides.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Minutes.",
+      "source_page": 3
+    },
+    {
+      "id": "2-Match(iii)",
+      "section": "Vocabulary",
+      "prompt": "Match a thick-ended heavy stick used as a weapon.",
+      "steps": [
+        "Club is the described stick.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Club.",
+      "source_page": 3
+    },
+    {
+      "id": "2-Match(iv)",
+      "section": "Vocabulary",
+      "prompt": "Match the sound of vehicle brakes.",
+      "steps": [
+        "Brakes may make a sharp screech.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Screech.",
+      "source_page": 3
+    },
+    {
+      "id": "2-Match(v)",
+      "section": "Vocabulary",
+      "prompt": "Match a place for dramatic performances.",
+      "steps": [
+        "A theatre hosts drama.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Theatre.",
+      "source_page": 3
+    },
+    {
+      "id": "3(i)",
+      "section": "Vocabulary",
+      "prompt": "The pen belongs to me. It is ___. Bank: ours, mine, by, in order, and, except, hers, his, your, on, with.",
+      "steps": [
+        "Mine is the possessive pronoun for the speaker.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Mine.",
+      "source_page": 3
+    },
+    {
+      "id": "3(ii)",
+      "section": "Vocabulary",
+      "prompt": "Nasra comes to school ___ bus.",
+      "steps": [
+        "By bus identifies the means of transport.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "By.",
+      "source_page": 3
+    },
+    {
+      "id": "3(iii)",
+      "section": "Vocabulary",
+      "prompt": "We eat ___ to survive.",
+      "steps": [
+        "To is already printed; in order completes in order to.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "In order.",
+      "source_page": 3
+    },
+    {
+      "id": "3(iv)",
+      "section": "Vocabulary",
+      "prompt": "Catherine is both tall ___ fat.",
+      "steps": [
+        "Use both...and.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "And.",
+      "source_page": 3
+    },
+    {
+      "id": "3(v)",
+      "section": "Vocabulary",
+      "prompt": "Every pupil works hard ___ you.",
+      "steps": [
+        "Except excludes the stated person from the group.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Except.",
+      "source_page": 3
+    },
+    {
+      "id": "6(i)",
+      "section": "Comprehension and composition",
+      "prompt": "On which day did the football tragedy occur?",
+      "steps": [
+        "The opening gives this day and period.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Thursday evening.",
+      "source_page": 4
+    },
+    {
+      "id": "6(ii)",
+      "section": "Comprehension and composition",
+      "prompt": "Who scored the only goal?",
+      "steps": [
+        "The passage says she scored after receiving Kipanya's cross.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Miriam.",
+      "source_page": 4
+    },
+    {
+      "id": "6(iii)",
+      "section": "Comprehension and composition",
+      "prompt": "What do people obtain from the well?",
+      "steps": [
+        "A well is used to obtain water; this is an inference, not an explicit sentence in the passage.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Water.",
+      "source_page": 4
+    },
+    {
+      "id": "6(iv)",
+      "section": "Comprehension and composition",
+      "prompt": "Name one person who died in the well.",
+      "steps": [
+        "The story states that all three pushed into the well drowned.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Miriam, Chiku or the referee (any one).",
+      "source_page": 4
+    },
+    {
+      "id": "6(v)",
+      "section": "Comprehension and composition",
+      "prompt": "Which game was being played?",
+      "steps": [
+        "The opening identifies a football match.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Football.",
+      "source_page": 4
+    },
+    {
+      "id": "7(i)",
+      "section": "Comprehension and composition",
+      "prompt": "Order A-E: The scream came from outside her house.",
+      "steps": [
+        "Locate the sound after she wakes.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C.",
+      "source_page": 4
+    },
+    {
+      "id": "7(ii)",
+      "section": "Comprehension and composition",
+      "prompt": "Order: She saw a lion dragging a person from a house.",
+      "steps": [
+        "This is what she sees after looking out.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E.",
+      "source_page": 4
+    },
+    {
+      "id": "7(iii)",
+      "section": "Comprehension and composition",
+      "prompt": "Order: Last month a terrible event happened in a village.",
+      "steps": [
+        "Introduce the event first.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A.",
+      "source_page": 4
+    },
+    {
+      "id": "7(iv)",
+      "section": "Comprehension and composition",
+      "prompt": "Order: She left her bed and looked through the window.",
+      "steps": [
+        "Looking follows hearing the scream.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D.",
+      "source_page": 4
+    },
+    {
+      "id": "7(v)",
+      "section": "Comprehension and composition",
+      "prompt": "Order: Mama Amina was sleeping until a scream woke her.",
+      "steps": [
+        "Introduce her situation after the event opening.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Listening": "Listen to the supplied teacher text and identify the exact detail asked for. Check spelling and sentence punctuation; missing scripts are explicitly identified.",
+    "Grammar": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Vocabulary": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Comprehension and composition": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "Standard Six Midterm Exams August 2024 By MESP Tanzania",
+      "url": "https://darasahuru.ac.tz/standard-six-midterm-exams-august-2024-by-mesp-tanzania/"
+    }
+  ],
+  "limitations": [
+    "Numbering: Listening and bank both print 1; multiple-choice and matching both print 2. Unique labels retain all 35 parts.",
+    "1-Bank(v): A duplicated her makes the printed blank defective.",
+    "1-Listen(v): 3 litres is the script claim, not universal child-specific health advice.",
+    "1-Bank(iv): Target underline is absent. Young is an adjective and the most plausible bank-compatible target."
+  ],
+  "expected_parts": [
+    "1-Listen(i)",
+    "1-Listen(ii)",
+    "1-Listen(iii)",
+    "1-Listen(iv)",
+    "1-Listen(v)",
+    "2-MC(i)",
+    "2-MC(ii)",
+    "2-MC(iii)",
+    "2-MC(iv)",
+    "2-MC(v)",
+    "1-Bank(i)",
+    "1-Bank(ii)",
+    "1-Bank(iii)",
+    "1-Bank(iv)",
+    "1-Bank(v)",
+    "2-Match(i)",
+    "2-Match(ii)",
+    "2-Match(iii)",
+    "2-Match(iv)",
+    "2-Match(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)",
+    "7(v)"
+  ],
+  "question_count": "35 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "85a8269aee8ecb7d29b6d1a9120cb4f8a1180a27f53650600c42fb81943370e4"
+}

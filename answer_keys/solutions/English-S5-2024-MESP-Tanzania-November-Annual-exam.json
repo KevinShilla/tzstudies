@@ -1,0 +1,459 @@
+{
+  "exam": "English-S5-2024-MESP-Tanzania-November-Annual-exam.pdf",
+  "output": "English-S5-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Five",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Annual exam - November",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "ba6aee6f526f247cc97d9dc6339c2e95585504cf111aafc24765d669d630e8b0",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Source-limited items",
+      "prompt": "How many members were in Upendo's family? (A two, B three, C four, D six, E five)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The Upendo listening script is not printed. The choices alone cannot establish the story details.",
+      "source_page": 1
+    },
+    {
+      "id": "1(ii)",
+      "section": "Source-limited items",
+      "prompt": "How did police learn what was happening to Upendo? (A her screams, B nearby, C good Samaritan, D grandmother nearby station, E friends informed them)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The Upendo listening script is not printed. The choices alone cannot establish the story details.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iii)",
+      "section": "Source-limited items",
+      "prompt": "What was treated as the sign of womanhood in Mulamke? (A chores, B time with mother/grandmother, C female circumcision, D hard work, E greetings/chores)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The Upendo listening script is not printed. The choices alone cannot establish the story details.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iv)",
+      "section": "Source-limited items",
+      "prompt": "How many police officers spoke? (A few, B many women, C one, D two, E three)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The Upendo listening script is not printed. The choices alone cannot establish the story details.",
+      "source_page": 1
+    },
+    {
+      "id": "1(v)",
+      "section": "Source-limited items",
+      "prompt": "At which time of day were police informed? (A morning, B afternoon, C morning, D evening, E night)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The Upendo listening script is not printed. The choices alone cannot establish the story details.",
+      "source_page": 1
+    },
+    {
+      "id": "2(i)",
+      "section": "Language practice",
+      "prompt": "Complete the source sentence: the teachers punished pupils ___ sticks. (A by, B in, C on, D with, E for)",
+      "steps": [
+        "With introduces the instrument in the grammar sentence.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. With.",
+      "source_page": 2
+    },
+    {
+      "id": "2(ii)",
+      "section": "Language practice",
+      "prompt": "Leon cleans his butcher's ___ it earns him profit. (A so, B who, C because, D but, E when)",
+      "steps": [
+        "Because introduces his reason.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Because.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Language practice",
+      "prompt": "I drive ___ Morogoro. (A in, B to, C with, D for, E of)",
+      "steps": [
+        "The destination reading uses to; the source does not exclude driving within the town.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. To is the intended destination; A. in means within Morogoro.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Language practice",
+      "prompt": "Emanuel likes watermelons but ___ friend Omary likes mangoes. (A her, B their, C your, D his, E our)",
+      "steps": [
+        "His links the friend to Emanuel under the intended male reference.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. His.",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Language practice",
+      "prompt": "Of many stories, Samuel's was ___. (A interesting, B more interesting, C interesting than, D more interesting than, E the most interesting)",
+      "steps": [
+        "Use the superlative when selecting from all the stories.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. The most interesting.",
+      "source_page": 2
+    },
+    {
+      "id": "3(i)",
+      "section": "Language practice",
+      "prompt": "They stopped buying small cows and bought ___ ones. Bank: neat, beautiful, fat, big, ugly, dull, dirty.",
+      "steps": [
+        "Big contrasts directly with small.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Big.",
+      "source_page": 2
+    },
+    {
+      "id": "3(ii)",
+      "section": "Language practice",
+      "prompt": "She replaced ugly flowers with ___ flowers.",
+      "steps": [
+        "Beautiful is the bank's opposite of ugly.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Beautiful.",
+      "source_page": 2
+    },
+    {
+      "id": "3(iii)",
+      "section": "Language practice",
+      "prompt": "I make bright friends rather than ___ ones.",
+      "steps": [
+        "Dull is the intended opposite of bright; pessimistic does not by itself mean unintelligent.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Dull.",
+      "source_page": 2
+    },
+    {
+      "id": "3(iv)",
+      "section": "Language practice",
+      "prompt": "The floor is ___ and must be cleaned.",
+      "steps": [
+        "Dirty fits the need for cleaning.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Dirty.",
+      "source_page": 2
+    },
+    {
+      "id": "3(v)",
+      "section": "Language practice",
+      "prompt": "The pigs are thin, so they are not ___.",
+      "steps": [
+        "Fat contrasts with thin.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Fat.",
+      "source_page": 2
+    },
+    {
+      "id": "4(i)",
+      "section": "Language practice",
+      "prompt": "Brandy did not play because she felt ___. Match A goodbye, B farmers, C permission, D holidays, E sorry, F beautiful, G sleepy.",
+      "steps": [
+        "Sleepiness explains not wanting to play.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "G. Sleepy.",
+      "source_page": 2
+    },
+    {
+      "id": "4(ii)",
+      "section": "Language practice",
+      "prompt": "They bid their parents ___ before leaving.",
+      "steps": [
+        "Bid goodbye means say farewell.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Goodbye.",
+      "source_page": 2
+    },
+    {
+      "id": "4(iii)",
+      "section": "Language practice",
+      "prompt": "My cousins buy pesticides for their land. They are ___.",
+      "steps": [
+        "The crop-land context identifies farming.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Farmers.",
+      "source_page": 2
+    },
+    {
+      "id": "4(iv)",
+      "section": "Language practice",
+      "prompt": "During the ___ they helped at home.",
+      "steps": [
+        "Holidays fit a period away from school.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Holidays.",
+      "source_page": 2
+    },
+    {
+      "id": "4(v)",
+      "section": "Language practice",
+      "prompt": "Lemi was given ___ to attend a party.",
+      "steps": [
+        "Permission is authorisation to go.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Permission.",
+      "source_page": 2
+    },
+    {
+      "id": "5(i)",
+      "section": "Grammar and comprehension",
+      "prompt": "They have ___ logs today. (split)",
+      "steps": [
+        "The past participle of split remains split.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Split.",
+      "source_page": 3
+    },
+    {
+      "id": "5(ii)",
+      "section": "Grammar and comprehension",
+      "prompt": "Leonard ___ a man who asked for help. (meet)",
+      "steps": [
+        "The completed past meeting uses met.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Met.",
+      "source_page": 3
+    },
+    {
+      "id": "5(iii)",
+      "section": "Grammar and comprehension",
+      "prompt": "The food is too salty, so we ___ eat it. (can)",
+      "steps": [
+        "Too salty to eat implies inability; use the negative modal.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Cannot/can't.",
+      "source_page": 3
+    },
+    {
+      "id": "5(iv)",
+      "section": "Grammar and comprehension",
+      "prompt": "I have ___ the bell. (ring)",
+      "steps": [
+        "Have requires the past participle rung.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Rung.",
+      "source_page": 3
+    },
+    {
+      "id": "5(v)",
+      "section": "Grammar and comprehension",
+      "prompt": "Who ___ on duty the previous week? (be)",
+      "steps": [
+        "The previous week is past; use was.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Was.",
+      "source_page": 3
+    },
+    {
+      "id": "6(i)",
+      "section": "Grammar and comprehension",
+      "prompt": "Where does Shakombo own a posho mill?",
+      "steps": [
+        "The passage names the mill's location.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Mabea town.",
+      "source_page": 3
+    },
+    {
+      "id": "6(ii)",
+      "section": "Grammar and comprehension",
+      "prompt": "When does he arrive in the second town?",
+      "steps": [
+        "Mabea is his second stop after Chinga.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "8:30 AM (half past eight).",
+      "source_page": 3
+    },
+    {
+      "id": "6(iii)",
+      "section": "Grammar and comprehension",
+      "prompt": "Where does he live?",
+      "steps": [
+        "The opening states his home town.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Chinga town.",
+      "source_page": 3
+    },
+    {
+      "id": "6(iv)",
+      "section": "Grammar and comprehension",
+      "prompt": "Write his home departure time in figures.",
+      "steps": [
+        "A quarter to six means fifteen minutes before 6:00.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "5:45 AM.",
+      "source_page": 3
+    },
+    {
+      "id": "6(v)",
+      "section": "Grammar and comprehension",
+      "prompt": "What is his occupation?",
+      "steps": [
+        "The passage describes his several businesses.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Businessman.",
+      "source_page": 3
+    },
+    {
+      "id": "7(i)",
+      "section": "Letter writing",
+      "prompt": "Fill the address in the model letter from Elija Luvanda, Dear mother, P.O. box 3456, inform, 15th August 2024.",
+      "steps": [
+        "Place the postal box above the already printed town.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "P.O. Box 3456.",
+      "source_page": 4
+    },
+    {
+      "id": "7(ii)",
+      "section": "Letter writing",
+      "prompt": "Fill the date below Dar es Salaam.",
+      "steps": [
+        "The date follows the sender's address.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "15 August 2024.",
+      "source_page": 4
+    },
+    {
+      "id": "7(iii)",
+      "section": "Letter writing",
+      "prompt": "Fill the greeting.",
+      "steps": [
+        "Place the salutation before the body.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Dear mother,",
+      "source_page": 4
+    },
+    {
+      "id": "7(iv)",
+      "section": "Letter writing",
+      "prompt": "I am writing to ___ you about my annual assessment.",
+      "steps": [
+        "Inform means give information; to takes a base verb.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Inform.",
+      "source_page": 4
+    },
+    {
+      "id": "7(v)",
+      "section": "Letter writing",
+      "prompt": "Fill the signature after Your lovely son.",
+      "steps": [
+        "The writer's name belongs below the closing.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Elija Luvanda.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Source-limited items": "The required script, picture or other information is missing. Use the stated limitation and obtain the original material before expecting a unique answer.",
+    "Language practice": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Grammar and comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations.",
+    "Letter writing": "Follow a clear sequence and keep the tense consistent. Introduce people and events before their pronouns, actions and final outcome."
+  },
+  "references": [
+    {
+      "title": "MESP STANDARD FIVE ANNUAL EXAMS NOV 2024",
+      "url": "https://darasahuru.ac.tz/mesp-standard-five-annual-exams-nov-2024/"
+    }
+  ],
+  "limitations": [
+    "1(i): The Upendo listening script is not printed. The choices alone cannot establish the story details.",
+    "1(ii): The Upendo listening script is not printed. The choices alone cannot establish the story details.",
+    "1(iii): The Upendo listening script is not printed. The choices alone cannot establish the story details.",
+    "1(iv): The Upendo listening script is not printed. The choices alone cannot establish the story details.",
+    "1(v): The Upendo listening script is not printed. The choices alone cannot establish the story details."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)",
+    "7(v)"
+  ],
+  "question_count": "35 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "a38b452eecb641a3bd6d123118bbbae5777d4b04bf946ebaf729c79d01d52ede"
+}

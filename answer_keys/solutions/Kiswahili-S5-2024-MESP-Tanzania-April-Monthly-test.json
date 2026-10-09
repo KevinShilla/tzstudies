@@ -1,0 +1,395 @@
+{
+  "exam": "Kiswahili-S5-2024-MESP-Tanzania-April-Monthly-test.pdf",
+  "output": "Kiswahili-S5-2024-MESP-Tanzania-April-Monthly-test-AnswerKey.pdf",
+  "sha256": "681d90eb8267200d4f3c5065502fc3ba36c5f63e4d40d7f29faa90ff7854637c",
+  "subject": "Kiswahili",
+  "level": "Standard Five",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Monthly test - April",
+  "question_count": "Vipengele 30 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1(1)",
+    "1(2)",
+    "1(3)",
+    "1(4)",
+    "1(5)",
+    "2(1)",
+    "2(2)",
+    "2(3)",
+    "2(4)",
+    "2(5)",
+    "3(1)",
+    "3(2)",
+    "3(3)",
+    "3(4)",
+    "3(5)",
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "4(4)",
+    "4(5)",
+    "5(1)",
+    "5(2)",
+    "5(3)",
+    "5(4)",
+    "5(5)",
+    "6(1)",
+    "6(2)",
+    "6(3)",
+    "6(4)",
+    "6(5)"
+  ],
+  "questions": [
+    {
+      "id": "1(1)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Mtitu na wazazi walisafiri wapi?",
+      "steps": [
+        "Habari ya kusikiliza inamalizia walipofika Kigoma.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Kigoma.",
+      "source_page": 2
+    },
+    {
+      "id": "1(2)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Matunda ya mchikichi huitwaje?",
+      "steps": [
+        "Chikichi hutengeneza mafuta ya mawese; matunda si mawese yenyewe.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Chikichi.",
+      "source_page": 2
+    },
+    {
+      "id": "1(3)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Jua linapochomoza huitwaje?",
+      "steps": [
+        "Mawio ni kuchomoza kwa jua.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Mawio.",
+      "source_page": 2
+    },
+    {
+      "id": "1(4)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Garimoshi liliondoka Tabora saa ngapi?",
+      "steps": [
+        "Habari inasema liliondoka Tabora saa nane usiku.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Saa nane usiku.",
+      "source_page": 2
+    },
+    {
+      "id": "1(5)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Methali iliyotumika ni ipi?",
+      "steps": [
+        "Baba alisema hivi badala ya kutoa maelezo ya mafuta bila kuyaonyesha.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Tusiandikie mate na wino upo.",
+      "source_page": 2
+    },
+    {
+      "id": "2(1)",
+      "section": "Sarufi",
+      "prompt": "Kisawe cha laghai? A kejeli, B toroka, C danganya, D puuza, E iba.",
+      "steps": [
+        "Laghai ni kudanganya mtu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Danganya.",
+      "source_page": 2
+    },
+    {
+      "id": "2(2)",
+      "section": "Sarufi",
+      "prompt": "Kiambishi kikanushi cha hatukumpa? A tu, B ha, C m, D pa, E ku.",
+      "steps": [
+        "Ha- huonyesha kutotendeka kwa kitendo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Ha-.",
+      "source_page": 2
+    },
+    {
+      "id": "2(3)",
+      "section": "Sarufi",
+      "prompt": "Wanafunzi wengi wanapenda kukaa: nafsi gani? A I umoja, B II umoja, C III umoja, D I wingi, E III wingi.",
+      "steps": [
+        "Wanafunzi ni watu wanaozungumziwa wengi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Nafsi ya tatu wingi.",
+      "source_page": 2
+    },
+    {
+      "id": "2(4)",
+      "section": "Sarufi",
+      "prompt": "Tumekiuka lina mizani ngapi? A saba, B tisa, C tano, D sita, E kumi.",
+      "steps": [
+        "Hesabu tu, me, ki, u, ka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Tano: tu-me-ki-u-ka.",
+      "source_page": 2
+    },
+    {
+      "id": "2(5)",
+      "section": "Sarufi",
+      "prompt": "Tabia nzuri huitwaje? A kero, B ujanja, C tabia mbaya, D nidhamu, E utulivu.",
+      "steps": [
+        "Nidhamu ni mwenendo mzuri na kufuata maelekezo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Nidhamu.",
+      "source_page": 2
+    },
+    {
+      "id": "3(1)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha Piga vijembe.",
+      "steps": [
+        "Vijembe ni kauli za kuchoma kwa njia ya mafumbo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Sema kwa mafumbo.",
+      "source_page": 2
+    },
+    {
+      "id": "3(2)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha Mwaga unga.",
+      "steps": [
+        "Nahau hutaja kupoteza ajira.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Poteza kazi.",
+      "source_page": 3
+    },
+    {
+      "id": "3(3)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha Mwenda kwao.",
+      "steps": [
+        "Anayerudi kwao si mtoro.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Si mtoro.",
+      "source_page": 3
+    },
+    {
+      "id": "3(4)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha Kamba hukatikia.",
+      "steps": [
+        "Sehemu dhaifu ndiyo hushindwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Pembamba.",
+      "source_page": 3
+    },
+    {
+      "id": "3(5)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha Anua tanga.",
+      "steps": [
+        "Katika nahau hii anua tanga ni kufunga shughuli za msiba.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Maliza msiba.",
+      "source_page": 3
+    },
+    {
+      "id": "4(1)",
+      "section": "Fasihi na msamiati",
+      "prompt": "Tegua Bwana afya wa porini.",
+      "steps": [
+        "Fisi hula mizoga.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Fisi.",
+      "source_page": 3
+    },
+    {
+      "id": "4(2)",
+      "section": "Fasihi na msamiati",
+      "prompt": "Methali ya kumshauri anayedharau matatizo madogo.",
+      "steps": [
+        "Tatizo dogo likiachwa hukua.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Usipoziba ufa utajenga ukuta.",
+      "source_page": 3
+    },
+    {
+      "id": "4(3)",
+      "section": "Fasihi na msamiati",
+      "prompt": "Kiti cha dhahabu hakikaliwi na mtu.",
+      "steps": [
+        "Moto una mwanga lakini huunguza mtu akikaa juu yake.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Moto.",
+      "source_page": 3
+    },
+    {
+      "id": "4(4)",
+      "section": "Fasihi na msamiati",
+      "prompt": "Anayetafsiri lugha moja kwenda nyingine huitwaje?",
+      "steps": [
+        "Agizo halijabainisha maandishi au sauti; mtafsiri ndiyo jina la jumla.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mtafsiri; mkalimani ikiwa anafanya kwa mazungumzo ya papo kwa papo.",
+      "source_page": 3
+    },
+    {
+      "id": "4(5)",
+      "section": "Fasihi na msamiati",
+      "prompt": "Kinyume cha ughaibuni.",
+      "steps": [
+        "Ughaibuni ni mbali na nyumbani, nchi za nje.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Nyumbani/kwetu/nchini mwetu.",
+      "source_page": 3
+    },
+    {
+      "id": "5(1)",
+      "section": "Ufahamu",
+      "prompt": "Nani aliitisha mkutano?",
+      "steps": [
+        "Jina la mfalme limetajwa mwanzo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfalme Nebukeizali.",
+      "source_page": 3
+    },
+    {
+      "id": "5(2)",
+      "section": "Ufahamu",
+      "prompt": "Bega kwa bega maana gani?",
+      "steps": [
+        "Wananchi walitakiwa kusaidiana.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kwa ushirikiano.",
+      "source_page": 3
+    },
+    {
+      "id": "5(3)",
+      "section": "Ufahamu",
+      "prompt": "Mfalme aliwahimiza kufanya nini?",
+      "steps": [
+        "Habari hutumia aliwahimiza hasa kwa upandaji miti; pia ilitaja nyumba na madarasa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kupanda miti mbalimbali katika mazingira yao.",
+      "source_page": 3
+    },
+    {
+      "id": "5(4)",
+      "section": "Ufahamu",
+      "prompt": "Kuunga mkono maana gani?",
+      "steps": [
+        "Wananchi walikubali mipango yake.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kukubaliana na kuunga juhudi za mtu/kumuunga katika jambo.",
+      "source_page": 3
+    },
+    {
+      "id": "5(5)",
+      "section": "Ufahamu",
+      "prompt": "Mwenye fedha au mali nyingi huitwaje katika habari?",
+      "steps": [
+        "Ukwasi ni utajiri; ukata ni umaskini.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mwenye ukwasi.",
+      "source_page": 4
+    },
+    {
+      "id": "6(1)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Alipoangalia kando aliona mtu amelala.",
+      "steps": [
+        "Hii hufuata kufika eneo la ajali.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C",
+      "source_page": 4
+    },
+    {
+      "id": "6(2)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Hadithi inatufundisha kusaidia wenye uhitaji.",
+      "steps": [
+        "Funzo ni mwisho.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E",
+      "source_page": 4
+    },
+    {
+      "id": "6(3)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Jumatatu Amiri aliamka na kwenda shuleni.",
+      "steps": [
+        "Huu ni utangulizi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A",
+      "source_page": 4
+    },
+    {
+      "id": "6(4)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Alikimbia kumpa msaada.",
+      "steps": [
+        "Msaada hufuata kumuona majeruhi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D",
+      "source_page": 4
+    },
+    {
+      "id": "6(5)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Njiani alikuta ajali ya mtu wa baiskeli.",
+      "steps": [
+        "Tukio linafuata kuanza safari.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Ufahamu wa kusikiliza": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Sarufi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kuonanisha": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Fasihi na msamiati": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ufahamu": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Utungaji": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "MESP Tanzania Standard Five End Of Moth Examinations April 2024",
+      "url": "https://darasahuru.ac.tz/mesp-tanzania-standard-five-end-of-moth-examinations-april-2024/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "55a6a62904837452fc1746ed318379dcac8b309a44b6c694036c9e4987ced9e3"
+}

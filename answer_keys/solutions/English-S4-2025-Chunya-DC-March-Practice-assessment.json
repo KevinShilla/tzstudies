@@ -1,0 +1,338 @@
+{
+  "exam": "English-S4-2025-Chunya-DC-March-Practice-assessment.pdf",
+  "output": "English-S4-2025-Chunya-DC-March-Practice-assessment-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Four",
+  "year": "2025",
+  "code": "Not printed in source",
+  "board": "Chunya DC",
+  "exam_type": "Practice assessment - March",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "5e7769c38ad75105a857f7b47f12365e8fec41fe1126f49ea6645e22f417d9e8",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence i.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(ii)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence ii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iii)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence iii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iv)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence iv.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(v)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence v.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "2(i)",
+      "section": "Language practice",
+      "prompt": "Joyce is a pupil. She ___ in class now. (A am, B is, C are, D was)",
+      "steps": [
+        "She takes is in a statement about now.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Is.",
+      "source_page": 1
+    },
+    {
+      "id": "2(ii)",
+      "section": "Language practice",
+      "prompt": "Anniel speaks English ___ Kiswahili. (A but, B because, C so, D and)",
+      "steps": [
+        "And joins two languages.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. And.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iii)",
+      "section": "Language practice",
+      "prompt": "A monkey cut ___ tail while playing. (A it, B it's, C its, D it is)",
+      "steps": [
+        "Its shows possession; it's means it is.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Its.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iv)",
+      "section": "Language practice",
+      "prompt": "Mangoes, bananas, oranges, watermelons, apples and pineapple are ___. (A fruits, B vegetables, C minerals, D flowers)",
+      "steps": [
+        "These are fruits.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Fruits.",
+      "source_page": 1
+    },
+    {
+      "id": "2(v)",
+      "section": "Language practice",
+      "prompt": "What do we call a, b, c, d, e, f, g? (A vowels, B letters, C consonants, D syllables)",
+      "steps": [
+        "The written symbols include both vowels and consonants.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Letters.",
+      "source_page": 1
+    },
+    {
+      "id": "3(i)",
+      "section": "Language practice",
+      "prompt": "You are my best friend. ___ love cooking rice. Bank: We, It, He, You, She.",
+      "steps": [
+        "Both you love and we love agree with the printed verb; the context does not exclude either.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "You or We; no unique reference is given.",
+      "source_page": 1
+    },
+    {
+      "id": "3(ii)",
+      "section": "Language practice",
+      "prompt": "Peter is going to the birthday party. ___ is going with Baraka.",
+      "steps": [
+        "He refers back to Peter.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "He.",
+      "source_page": 1
+    },
+    {
+      "id": "3(iii)",
+      "section": "Language practice",
+      "prompt": "Bahati is a good dancer. ___ is an intelligent girl too.",
+      "steps": [
+        "She refers to the girl.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "She.",
+      "source_page": 1
+    },
+    {
+      "id": "3(iv)",
+      "section": "Language practice",
+      "prompt": "Look at the cow under the tree. ___ is big and fat.",
+      "steps": [
+        "It refers to the cow.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "It.",
+      "source_page": 1
+    },
+    {
+      "id": "3(v)",
+      "section": "Language practice",
+      "prompt": "Japheti, Naomi and I went to the zoo. ___ saw lions, giraffes and zebras.",
+      "steps": [
+        "A group including the speaker takes we.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "We.",
+      "source_page": 1
+    },
+    {
+      "id": "4(i)",
+      "section": "Language practice",
+      "prompt": "Order the story with A-E: He cried loudly and loudly.",
+      "steps": [
+        "Riding -> fall -> injury -> crying -> hospital is the intended sequence.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D.",
+      "source_page": 1
+    },
+    {
+      "id": "4(ii)",
+      "section": "Language practice",
+      "prompt": "Order: As he was riding, he fell down.",
+      "steps": [
+        "The fall follows the opening riding sentence.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B.",
+      "source_page": 1
+    },
+    {
+      "id": "4(iii)",
+      "section": "Language practice",
+      "prompt": "Order: Samson was riding a bicycle.",
+      "steps": [
+        "Introduce Samson and his activity first.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A.",
+      "source_page": 1
+    },
+    {
+      "id": "4(iv)",
+      "section": "Language practice",
+      "prompt": "Order: He accidentally broke his right hand.",
+      "steps": [
+        "The injury occurs when he falls.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C.",
+      "source_page": 1
+    },
+    {
+      "id": "4(v)",
+      "section": "Language practice",
+      "prompt": "Order: His aunt took him to hospital.",
+      "steps": [
+        "The hospital visit follows the accident.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E.",
+      "source_page": 1
+    },
+    {
+      "id": "5(i)",
+      "section": "Language practice",
+      "prompt": "What do many people spend more time on, according to the passage?",
+      "steps": [
+        "The opening contrasts phones with loved ones.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Their phones.",
+      "source_page": 1
+    },
+    {
+      "id": "5(ii)",
+      "section": "Language practice",
+      "prompt": "What has become our physical homes?",
+      "steps": [
+        "The passage uses this metaphor for constant phone use.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Digital phones.",
+      "source_page": 1
+    },
+    {
+      "id": "5(iii)",
+      "section": "Language practice",
+      "prompt": "What do people prefer instead of one-to-one connections?",
+      "steps": [
+        "The passage explicitly contrasts texting with direct contact.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Texts/text messages.",
+      "source_page": 1
+    },
+    {
+      "id": "5(iv)",
+      "section": "Language practice",
+      "prompt": "Nowadays we love things and use what, according to the passage?",
+      "steps": [
+        "The sentence says we love things and use people.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "People.",
+      "source_page": 1
+    },
+    {
+      "id": "5(v)",
+      "section": "Language practice",
+      "prompt": "What does the passage identify as the problem with technology?",
+      "steps": [
+        "The final sentence gives the writer's conclusion.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "The way we use it.",
+      "source_page": 1
+    }
+  ],
+  "summaries": {
+    "Source-limited items": "The required script, picture or other information is missing. Use the stated limitation and obtain the original material before expecting a unique answer.",
+    "Language practice": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices."
+  },
+  "references": [
+    {
+      "title": "CHUNYA DC Standard Four Examination Test March 2025",
+      "url": "https://darasahuru.ac.tz/chunya-dc-standard-four-examination-test-march-2025/"
+    }
+  ],
+  "limitations": [
+    "1(i): The teacher dictation words or audio are not included in this source.",
+    "1(ii): The teacher dictation words or audio are not included in this source.",
+    "1(iii): The teacher dictation words or audio are not included in this source.",
+    "1(iv): The teacher dictation words or audio are not included in this source.",
+    "1(v): The teacher dictation words or audio are not included in this source.",
+    "3(i): You and We both fit; the context does not prescribe one pronoun."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)"
+  ],
+  "question_count": "25 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "bf684c96b50012d9b2746ab55cd7b69433d4c358619fbe1fe58aea91625518f2"
+}

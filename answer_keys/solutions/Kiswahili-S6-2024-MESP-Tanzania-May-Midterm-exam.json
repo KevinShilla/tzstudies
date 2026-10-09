@@ -1,0 +1,464 @@
+{
+  "exam": "Kiswahili-S6-2024-MESP-Tanzania-May-Midterm-exam.pdf",
+  "output": "Kiswahili-S6-2024-MESP-Tanzania-May-Midterm-exam-AnswerKey.pdf",
+  "sha256": "531b1d54be166b5cf923a057a47b2d215e7f715b1ae81c840c35558e7be3abd4",
+  "subject": "Kiswahili",
+  "level": "Standard Six",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Midterm exam - May",
+  "question_count": "Vipengele 35 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "reviewed": true,
+  "expected_parts": [
+    "1(1)",
+    "1(2)",
+    "1(3)",
+    "1(4)",
+    "1(5)",
+    "2(1)",
+    "2(2)",
+    "2(3)",
+    "2(4)",
+    "2(5)",
+    "2(6)",
+    "2(7)",
+    "2(8)",
+    "2(9)",
+    "2(10)",
+    "3(1)",
+    "3(2)",
+    "3(3)",
+    "3(4)",
+    "3(5)",
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "4(4)",
+    "4(5)",
+    "5(1)",
+    "5(2)",
+    "5(3)",
+    "5(4)",
+    "5(5)",
+    "7(1)",
+    "7(2)",
+    "7(3)",
+    "7(4)",
+    "7(5)"
+  ],
+  "questions": [
+    {
+      "id": "1(1)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Zamani mfalme wa ndege aliishi _____. A mbinguni, B nchi kavu, C mawinguni, D ardhini, E peponi.",
+      "steps": [
+        "Sentensi ya kwanza ya habari ukurasa 4 inasema aliishi mawinguni.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Mawinguni.",
+      "source_page": 1
+    },
+    {
+      "id": "1(2)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Siku moja alifanya _____ kubwa. A sherehe, B karamu, C msiba, D kufuru, E ziara.",
+      "steps": [
+        "Habari inasema sherehe kubwa, kisha ndege wanaieleza kama karamu kubwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Sherehe; B - Karamu pia inaungwa mkono.",
+      "source_page": 1
+    },
+    {
+      "id": "1(3)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Katika karamu hiyo mfalme aliwaalika _____ wote. A wanyama, B watu, C ndege, D popo, E mbwa mwitu.",
+      "steps": [
+        "Ujumbe uliwaalika ndege wote wa duniani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Ndege.",
+      "source_page": 1
+    },
+    {
+      "id": "1(4)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "_____ aliposikia naye alitamani kwenda. A kobe, B nyau, C mwewe, D chausiku, E nyani.",
+      "steps": [
+        "Kobe aliwauliza ndege walikoenda na kuomba mabawa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Kobe.",
+      "source_page": 1
+    },
+    {
+      "id": "1(5)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Aliwaomba ndege wamchangie mabawa ili apate _____. A kwenda mawinguni, B kufika mbinguni, C kuruka pamoja, D kuhudhuria karamu hiyo, E kula vyakula vyote vilivyokuwa vimeandaliwa.",
+      "steps": [
+        "Sentensi ya mwisho ya habari inaeleza lengo lake kwa maneno hayo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Kuhudhuria karamu hiyo.",
+      "source_page": 1
+    },
+    {
+      "id": "2(1)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Ukwasi ukitawala katika jamii, huduma zote zitapatikana. “Ukwasi” lina maana gani? A utajiri, B upendo, C umaskini, D uchumi, E uwajibikaji.",
+      "steps": [
+        "Ukwasi ni hali ya kuwa na mali nyingi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Utajiri.",
+      "source_page": 2
+    },
+    {
+      "id": "2(2)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Bwana Kibaya ni mchoyo kwa sababu kila mara hula peke yake. Neno “ni” limetumika kama aina ipi? A V, B t, C Ts, D T, E U.",
+      "steps": [
+        "Ni linaunganisha Bwana Kibaya na sifa mchoyo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - t, kitenzi kishirikishi.",
+      "source_page": 2
+    },
+    {
+      "id": "2(3)",
+      "section": "Matumizi ya lugha",
+      "prompt": "“Ile nyumba nzuri imejengwa kwa gharama kubwa,” alisema fundi. Hii ni kauli gani? A mazoea, B halisi, C kutendeka, D taarifa, E ya kuaminika.",
+      "steps": [
+        "Maneno ya fundi yamenukuliwa moja kwa moja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Halisi.",
+      "source_page": 2
+    },
+    {
+      "id": "2(4)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Jiwe lilipogongwa halikupasuka kutokana na ugumu wake. “Ugumu” ni aina ipi ya maneno? A kivumishi, B nomino, C kitenzi, D kiwakilishi, E kiunganishi.",
+      "steps": [
+        "Ugumu ni jina la hali, yaani nomino dhahania.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Nomino.",
+      "source_page": 2
+    },
+    {
+      "id": "2(5)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Uteuzi wa baraza la mawaziri ulifanyika jana usiku. Kikundi kielezi ni kipi? A ulifanyika jana, B uteuzi wa, C jana usiku, D baraza la, E la mawaziri.",
+      "steps": [
+        "Maneno hayo yanaeleza wakati uteuzi ulipofanyika.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Jana usiku.",
+      "source_page": 2
+    },
+    {
+      "id": "2(6)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Methali ipi hudhihirisha hali ya kutofanikiwa kwa mtu katika jambo? A Mzahamzaha hutumbua usaha, B Haba na haba hujaza kibaba, C Mbuzi wa maskini hazai, D Maji yakimwagika hayazoleki, E Fimbo ya mnyonge ni umoja.",
+      "steps": [
+        "Hutumika kueleza anayekuwa na matatizo au kutopata mafanikio anayoyatarajia.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Mbuzi wa maskini hazai.",
+      "source_page": 2
+    },
+    {
+      "id": "2(7)",
+      "section": "Matumizi ya lugha",
+      "prompt": "“Muda ni ukuta, ukishindana nao utaumia” maana yake nini? A kila jambo ni muhimu, B kila jambo linawezekana, C kila jambo lina wakati wake, D kila jambo lina mwisho wake, E kila muda ni ukuta.",
+      "steps": [
+        "Huhimiza kuheshimu muda unaofaa wa kufanya jambo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Kila jambo lina wakati wake.",
+      "source_page": 2
+    },
+    {
+      "id": "2(8)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Si kila jambo au shughuli huhitaji washirika wengi. Methali gani inafaa? A Panya wengi hawachimbi shimo, B Simba mwenda pole ndiye mla nyama, C Fimbo ya mnyonge ni umoja, D Ukiona vyaelea ujue vimeundwa, E Maji hufuata mkondo.",
+      "steps": [
+        "Wingi wa watu peke yake si hakikisho la kufanikisha kazi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Panya wengi hawachimbi shimo.",
+      "source_page": 2
+    },
+    {
+      "id": "2(9)",
+      "section": "Matumizi ya lugha",
+      "prompt": "“Piga chenga” maana yake nini? A kimbia, B nyatia, C kwepa, D chambua, E kaba.",
+      "steps": [
+        "Piga chenga ni kukwepa/kumhepa mtu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Kwepa.",
+      "source_page": 2
+    },
+    {
+      "id": "2(10)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Tegua: “Ameanguka na makoti yake yote.” A mgomba, B gogo, C nyumba, D kuku, E mtu.",
+      "steps": [
+        "Magamba yanayoufunika mgomba yanafananishwa na makoti.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Mgomba.",
+      "source_page": 2
+    },
+    {
+      "id": "3(1)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha: Wewe. Machaguo: A Nafsi ya pili, B Nafsi ya tatu, C Penda, D Tamaa, E Alisema njoo hapa, F Njooni haraka, G Chembe na chembe mkate huwa, H Ngoja ngoja yaumiza matumbo.",
+      "steps": [
+        "Wewe humtaja msikilizaji mmoja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Nafsi ya pili.",
+      "source_page": 2
+    },
+    {
+      "id": "3(2)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha: Kitendo pia nomino. Machaguo: A Nafsi ya pili, B Nafsi ya tatu, C Penda, D Tamaa, E Alisema njoo hapa, F Njooni haraka, G Chembe na chembe mkate huwa, H Ngoja ngoja yaumiza matumbo.",
+      "steps": [
+        "Kitendo kinaweza kufanywa nomino kwa ku- (kupenda), lakini umbo hilo halipo kwenye machaguo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Hakuna chaguo linalothibitishwa kwa usahihi. C-penda ni kitenzi; D-tamaa ni nomino.",
+      "source_page": 2
+    },
+    {
+      "id": "3(3)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha: Kauli taarifa. Machaguo: A Nafsi ya pili, B Nafsi ya tatu, C Penda, D Tamaa, E Alisema njoo hapa, F Njooni haraka, G Chembe na chembe mkate huwa, H Ngoja ngoja yaumiza matumbo.",
+      "steps": [
+        "Maneno ya mtu yasimuliwe bila kunukuliwa; “Alisema njoo hapa” haina kiunganishi na mabadiliko yanayohitajika.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Alisema njoo hapa, ndilo linaloelekea kukusudiwa; kauli taarifa sahihi ni “Alisema kwamba nije pale.”",
+      "source_page": 2
+    },
+    {
+      "id": "3(4)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha: Wao. Machaguo: A Nafsi ya pili, B Nafsi ya tatu, C Penda, D Tamaa, E Alisema njoo hapa, F Njooni haraka, G Chembe na chembe mkate huwa, H Ngoja ngoja yaumiza matumbo.",
+      "steps": [
+        "Wao humtaja watu wengi wanaozungumziwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Nafsi ya tatu.",
+      "source_page": 2
+    },
+    {
+      "id": "3(5)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha: Haba na haba hujaza kibaba. Machaguo: A Nafsi ya pili, B Nafsi ya tatu, C Penda, D Tamaa, E Alisema njoo hapa, F Njooni haraka, G Chembe na chembe mkate huwa, H Ngoja ngoja yaumiza matumbo.",
+      "steps": [
+        "Methali zote hueleza mkusanyiko wa vitu vidogo hadi kuwa vingi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "G - Chembe na chembe mkate huwa.",
+      "source_page": 3
+    },
+    {
+      "id": "4(1)",
+      "section": "Sarufi na msamiati",
+      "prompt": "Wimbo huu ni mzuri sana. “Sana” limetumika kama nini?",
+      "steps": [
+        "Sana linaeleza kiwango cha uzuri.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kielezi cha kiwango.",
+      "source_page": 3
+    },
+    {
+      "id": "4(2)",
+      "section": "Sarufi na msamiati",
+      "prompt": "Je, kamusi ina sehemu kuu ngapi?",
+      "steps": [
+        "Utangulizi hueleza matumizi; kiini kina vidahizo na maana; mwisho una taarifa za ziada.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tatu: utangulizi, kiini/matini, na sehemu ya mwisho/viambatisho.",
+      "source_page": 3
+    },
+    {
+      "id": "4(3)",
+      "section": "Sarufi na msamiati",
+      "prompt": "Baba anasimulia hadithi. Sentensi hii ipo katika kauli ipi ya utendaji?",
+      "steps": [
+        "Baba ndiye mtendaji; anasimulia ni kitendo cha moja kwa moja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kauli ya kutenda.",
+      "source_page": 3
+    },
+    {
+      "id": "4(4)",
+      "section": "Sarufi na msamiati",
+      "prompt": "Mtu asemapo “Ashakum si matusi” anamaanisha nini?",
+      "steps": [
+        "Usemi huu hupunguza ukali wa maneno na kuonyesha kutokusudia kumtukana msikilizaji.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Anaomba radhi/heshima kabla ya kutumia maneno yanayoweza kuonekana kuwa matusi.",
+      "source_page": 3
+    },
+    {
+      "id": "4(5)",
+      "section": "Sarufi na msamiati",
+      "prompt": "Wafugaji wa nyuki huvuna asali kila baada ya miaka miwili. Neno lipi sahihi linafaa badala ya “vuna”?",
+      "steps": [
+        "Kurina ndicho kitendo cha kutoa asali katika mzinga.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Rina: Wafugaji wa nyuki hurina asali kila baada ya miaka miwili.",
+      "source_page": 3
+    },
+    {
+      "id": "5(1)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Ngoma ya asili ya Wamakonde huitwa nini?",
+      "steps": [
+        "Sentensi ya kwanza inaeleza jina hilo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Sindimba.",
+      "source_page": 3
+    },
+    {
+      "id": "5(2)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Mara nyingi ngoma hii huchezwa wapi?",
+      "steps": [
+        "Kifungu kinataja shughuli hizo mbili.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kwenye jando na unyago.",
+      "source_page": 3
+    },
+    {
+      "id": "5(3)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Viunoni huvaa vibwebwe vinavyojulikana kama nini?",
+      "steps": [
+        "Jina hilo limetajwa baada ya vibwebwe.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Nkunumbi.",
+      "source_page": 3
+    },
+    {
+      "id": "5(4)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Wachezaji huvaa nini kinachotengenezwa kwa magamba ya kokwa za embe?",
+      "steps": [
+        "Habari imetaja njuga zinazotengenezwa kwa magamba hayo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Njuga.",
+      "source_page": 4
+    },
+    {
+      "id": "5(5)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Aina hii ya ngoma ni ya asili ya jamii gani?",
+      "steps": [
+        "Habari imeihusisha Sindimba na Wamakonde.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Wamakonde.",
+      "source_page": 4
+    },
+    {
+      "id": "7(1)",
+      "section": "Utungaji",
+      "prompt": "Panga sentensi kwa mtiririko sahihi: Waliamua kupiga simu ili waelekezwe.",
+      "steps": [
+        "Simu hupigwa baada ya kugundua kuwa hawajui shule ilipo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "4 / D",
+      "source_page": 4
+    },
+    {
+      "id": "7(2)",
+      "section": "Utungaji",
+      "prompt": "Panga sentensi kwa mtiririko sahihi: Baada ya maelekezo walifika bila kutatanika.",
+      "steps": [
+        "Kufika ni hatua ya mwisho.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "5 / E",
+      "source_page": 4
+    },
+    {
+      "id": "7(3)",
+      "section": "Utungaji",
+      "prompt": "Panga sentensi kwa mtiririko sahihi: Waliambatana na baadhi ya viongozi wao.",
+      "steps": [
+        "Wageni wanatajwa kwanza, kisha walioambatana nao.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "2 / B",
+      "source_page": 4
+    },
+    {
+      "id": "7(4)",
+      "section": "Utungaji",
+      "prompt": "Panga sentensi kwa mtiririko sahihi: Viongozi hao hawakujua shule ilipo.",
+      "steps": [
+        "Tatizo hili hutangulia kuomba maelekezo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "3 / C",
+      "source_page": 4
+    },
+    {
+      "id": "7(5)",
+      "section": "Utungaji",
+      "prompt": "Panga sentensi kwa mtiririko sahihi: Wageni walikuja kuwazawadia wanafunzi.",
+      "steps": [
+        "Sentensi hii inatambulisha wageni na kusudi lao.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "1 / A",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Ufahamu wa kusikiliza": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Matumizi ya lugha": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Kuonanisha": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Sarufi na msamiati": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Ufahamu wa kusoma": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Utungaji": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu."
+  },
+  "references": [
+    {
+      "title": "MESP Tanzania Standard Six Terminal Exams May 2024",
+      "url": "https://darasahuru.ac.tz/mesp-tanzania-standard-six-terminal-exams-may-2024/"
+    },
+    {
+      "title": "Taasisi ya Elimu Tanzania: Kiswahili Kidato cha Kwanza, matumizi ya kamusi na vifupisho vya vitenzi",
+      "url": "https://fliphtml5.com/rwbnv/gqpa/Kiswahili_Kidato_cha_Kwanza/"
+    }
+  ],
+  "limitations": [
+    "1(2): habari inatumia sherehe na karamu; A na B zina ushahidi.",
+    "3(2): kitendo pia nomino hakina chaguo sahihi wazi.",
+    "3(3): E inaelekea kukusudiwa lakini haijaunda kauli taarifa sanifu.",
+    "Chanzo kinaita swali la mwisho 7 na hakina swali 6; namba iliyochapishwa imehifadhiwa."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "5d078a175c1aa157f300f1bad3c617b7795502b0585dc789e208d4105294133b"
+}

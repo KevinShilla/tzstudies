@@ -1,0 +1,463 @@
+{
+  "exam": "Kiswahili-S5-2024-Sunland-Primary-School-May-Midterm-exam.pdf",
+  "output": "Kiswahili-S5-2024-Sunland-Primary-School-May-Midterm-exam-AnswerKey.pdf",
+  "sha256": "ca293eca52889b9e2d05f9d84ae50d796d61d4ccfd8d8040726f16f4151996d2",
+  "subject": "Kiswahili",
+  "level": "Standard Five",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "Sunland Primary School",
+  "exam_type": "Midterm exam - May",
+  "question_count": "Vipengele 35 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1(1)",
+    "1(2)",
+    "1(3)",
+    "1(4)",
+    "1(5)",
+    "2(1)",
+    "2(2)",
+    "2(3)",
+    "2(4)",
+    "2(5)",
+    "2(6)",
+    "2(7)",
+    "2(8)",
+    "2(9)",
+    "2(10)",
+    "3(1)",
+    "3(2)",
+    "3(3)",
+    "3(4)",
+    "3(5)",
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "4(4)",
+    "4(5)",
+    "5(1)",
+    "5(2)",
+    "5(3)",
+    "5(4)",
+    "5(5)",
+    "6(1)",
+    "6(2)",
+    "6(3)",
+    "6(4)",
+    "6(5)"
+  ],
+  "questions": [
+    {
+      "id": "1(1)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Nani walifanya kazi bega kwa bega? A nyoka/kuku, B mwewe/njiwa, C jongoo/nyoka, D nyoka, E mwewe.",
+      "steps": [
+        "Habari ya ukurasa 4 inawataja hawa kama marafiki.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Jongoo na Nyoka.",
+      "source_page": 1,
+      "tip": "Hadithi ya kufikirika haielezi maumbile halisi: jongoo ana miguu, nyoka hana miguu."
+    },
+    {
+      "id": "1(2)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Rafiki yao aliitwa nani? A mwewe, B jongoo, C nyoka, D chura, E kanga.",
+      "steps": [
+        "Walikwenda kumtembelea Mwewe.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Mwewe.",
+      "source_page": 1,
+      "tip": "Hadithi ya kufikirika haielezi maumbile halisi: jongoo ana miguu, nyoka hana miguu."
+    },
+    {
+      "id": "1(3)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Kwa nini Jongoo alitembea haraka katika hadithi? A mrefu, B ana macho, C haoni, D mwepesi, E mfupi.",
+      "steps": [
+        "Katika hadithi aliona kila kitu, hivyo hakujikwaa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Alikuwa na macho.",
+      "source_page": 1,
+      "tip": "Hadithi ya kufikirika haielezi maumbile halisi: jongoo ana miguu, nyoka hana miguu."
+    },
+    {
+      "id": "1(4)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Bega kwa bega maana gani? A kushirikiana, B kupendana, C kufuatana, D karibu, E marafiki.",
+      "steps": [
+        "Walifanya kazi pamoja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Kushirikiana.",
+      "source_page": 1,
+      "tip": "Hadithi ya kufikirika haielezi maumbile halisi: jongoo ana miguu, nyoka hana miguu."
+    },
+    {
+      "id": "1(5)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Nani alikuwa na miguu lakini alitembea polepole katika hadithi? A mwewe, B jongoo, C nyoka, D chura, E kanga.",
+      "steps": [
+        "Hadithi inasema Nyoka alikuwa na miguu lakini hakuwa na macho; hii ni hadithi ya kufikirika.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Nyoka.",
+      "source_page": 1,
+      "tip": "Hadithi ya kufikirika haielezi maumbile halisi: jongoo ana miguu, nyoka hana miguu."
+    },
+    {
+      "id": "2(1)",
+      "section": "Sarufi",
+      "prompt": "Wewe unaimba vizuri: nafsi gani? A kwanza umoja, B kwanza wingi, C pili, D pili umoja, E tatu.",
+      "steps": [
+        "Wewe humtaja msikilizaji mmoja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Ya pili umoja.",
+      "source_page": 1
+    },
+    {
+      "id": "2(2)",
+      "section": "Sarufi",
+      "prompt": "Nafsi ya tatu katika sisi na wao? A na, B sisi na wao, C wao, D sisi, E tunapendana.",
+      "steps": [
+        "Wao ni watu wengi wanaozungumziwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Wao.",
+      "source_page": 1
+    },
+    {
+      "id": "2(3)",
+      "section": "Sarufi",
+      "prompt": "Yeye anasoma: nafsi gani? A kwanza, B pili, C tatu wingi, D tatu umoja, E kwanza umoja.",
+      "steps": [
+        "Yeye ni anayezungumziwa mmoja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Tatu umoja.",
+      "source_page": 1
+    },
+    {
+      "id": "2(4)",
+      "section": "Sarufi",
+      "prompt": "Nafsi ya sisi? A tatu, B pili umoja, C pili wingi, D kwanza wingi, E pili.",
+      "steps": [
+        "Sisi humjumuisha msemaji na wengine.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Kwanza wingi.",
+      "source_page": 1
+    },
+    {
+      "id": "2(5)",
+      "section": "Sarufi",
+      "prompt": "Msijisifu: nafsi gani? A pili wingi, B tatu umoja, C pili umoja, D kwanza, E pili umoja.",
+      "steps": [
+        "Msi- ni agizo lililokanushwa kwa watu wengi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Pili wingi.",
+      "source_page": 1
+    },
+    {
+      "id": "2(6)",
+      "section": "Sarufi",
+      "prompt": "Mtaalamu wa elimu ya nyota? A sonara, B mhunzi, C mnajimu, D mtaalamu, E bingwa.",
+      "steps": [
+        "Hili ndilo jina mahsusi lililotolewa kwa mtaalamu wa nyota.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Mnajimu.",
+      "source_page": 1
+    },
+    {
+      "id": "2(7)",
+      "section": "Sarufi",
+      "prompt": "Kauli halisi ni ipi? A Baba alisema “tutakwenda kumsalimia mjomba”, wengine wanasema kwamba/kuwa.",
+      "steps": [
+        "Maneno yamenukuliwa moja kwa moja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Baba alisema, “Tutakwenda kumsalimia mjomba.”",
+      "source_page": 1
+    },
+    {
+      "id": "2(8)",
+      "section": "Sarufi",
+      "prompt": "Wingi wa Kondoo amevunjika mguu. A wamevunjika miguu, B zimevunjika mguu, C zimevunjika miguu, D makondoo yamevunjika miguu, E wamevunjika mguu.",
+      "steps": [
+        "Kondoo halibadiliki, ame- kuwa wame-, mguu kuwa miguu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Kondoo wamevunjika miguu.",
+      "source_page": 2
+    },
+    {
+      "id": "2(9)",
+      "section": "Sarufi",
+      "prompt": "Kanusha anasoma. A hajasoma, B hasomi, C hajui kusoma, D hapendi, E amelala.",
+      "steps": [
+        "Wakati uliopo wa kukanusha humalizia i: hasomi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Hasomi.",
+      "source_page": 2
+    },
+    {
+      "id": "2(10)",
+      "section": "Sarufi",
+      "prompt": "Kiambishi cha wakati katika atakuja? A a, B ta, C kuja, D atakuja, E ataku.",
+      "steps": [
+        "Ta- huonyesha ujao.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Ta-.",
+      "source_page": 2
+    },
+    {
+      "id": "3(1)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha kundi: Karanga, mahindi, mtama.",
+      "steps": [
+        "Mahindi/mtama ni nafaka; karanga si nafaka, hivyo vyakula ndilo kundi linalojumuisha vyote.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Vyakula, kwa uainishaji sahihi. D-nafaka huenda ndiyo iliyokusudiwa, lakini karanga ni jamii ya mikunde.",
+      "source_page": 2
+    },
+    {
+      "id": "3(2)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha kundi: Mnazi, mwembe, mchungwa.",
+      "steps": [
+        "Haya ni majina ya miti.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Miti.",
+      "source_page": 2
+    },
+    {
+      "id": "3(3)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha kundi: Embe, nanasi, chungwa.",
+      "steps": [
+        "Matunda ni vyakula.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Vyakula; jibu mahsusi ni matunda lakini halipo kwenye machaguo.",
+      "source_page": 2
+    },
+    {
+      "id": "3(4)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha kundi: Ng’ombe, mbuzi, kondoo.",
+      "steps": [
+        "Hawa ni wanyama wa kufugwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Wanyama.",
+      "source_page": 2
+    },
+    {
+      "id": "3(5)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha kundi: Nzi, nyuki, mende.",
+      "steps": [
+        "Hawa ni wadudu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Wadudu.",
+      "source_page": 2
+    },
+    {
+      "id": "4(1)",
+      "section": "Utungaji",
+      "prompt": "Abiria walikuwa wakisubiri ____",
+      "steps": [
+        "Hiki ni chombo cha usafiri wanachosubiri.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Daladala.",
+      "source_page": 2
+    },
+    {
+      "id": "4(2)",
+      "section": "Utungaji",
+      "prompt": "Mama alikuwa amevaa ____",
+      "steps": [
+        "Buibui ni vazi refu linalovaliwa na baadhi ya wanawake; si mdudu katika muktadha huu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Buibui (vazi).",
+      "source_page": 2
+    },
+    {
+      "id": "4(3)",
+      "section": "Utungaji",
+      "prompt": "Kijana alionekana ____",
+      "steps": [
+        "Mtanashati ni aliyependeza kwa mavazi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mtanashati.",
+      "source_page": 2
+    },
+    {
+      "id": "4(4)",
+      "section": "Utungaji",
+      "prompt": "Askari alivaa ____ ya polisi.",
+      "steps": [
+        "Magwanda ni mavazi ya kazi/uniformu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Magwanda.",
+      "source_page": 2
+    },
+    {
+      "id": "4(5)",
+      "section": "Utungaji",
+      "prompt": "____ alisaidia kupakia mizigo.",
+      "steps": [
+        "Utingo ni msaidizi wa dereva anayehudumia abiria/mizigo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Utingo.",
+      "source_page": 2
+    },
+    {
+      "id": "5(1)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Andika mkarara wa shairi.",
+      "steps": [
+        "Mshororo huo umerudiwa mwisho wa kila ubeti.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Ni kipi kilicho bora, mchana au usiku.",
+      "source_page": 3
+    },
+    {
+      "id": "5(2)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Wahenga ni watu gani?",
+      "steps": [
+        "Mshairi anawaomba ushauri wenye busara.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Watu wa zamani wenye hekima/uzoefu.",
+      "source_page": 3
+    },
+    {
+      "id": "5(3)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Vina vya kati vya ubeti wa kwanza.",
+      "steps": [
+        "Maneno kabla ya mkato: wahenga, waganga, nazitunga, bora.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "nga, nga, nga, ra.",
+      "source_page": 3
+    },
+    {
+      "id": "5(4)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Kwa nini mchana unatufaa?",
+      "steps": [
+        "Ubeti wa pili umetaja kazi, kutokufa njaa na kulea watoto.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tunakwenda kazini na kufanya kazi ili kupata mahitaji ya maisha/kulea watoto.",
+      "source_page": 3
+    },
+    {
+      "id": "5(5)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Shairi lina mishororo mingapi?",
+      "steps": [
+        "Beti mbili zenye mishororo minne kila moja: 2 × 4 = 8.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Minane.",
+      "source_page": 3
+    },
+    {
+      "id": "6(1)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa namba 1-5: Kanga hutaga na kuatamia siku 28.",
+      "steps": [
+        "Hufuata kutambulisha kanga.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "4",
+      "source_page": 3
+    },
+    {
+      "id": "6(2)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa namba 1-5: Wakianza siku moja, kutotoa hupishana siku 7.",
+      "steps": [
+        "Hii inalinganisha muda wa kuku na kanga mwishoni.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "5",
+      "source_page": 3
+    },
+    {
+      "id": "6(3)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa namba 1-5: Hutaga na kuatamia siku 21.",
+      "steps": [
+        "Hii humhusu kuku aliyekwisha tambulishwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "2",
+      "source_page": 3
+    },
+    {
+      "id": "6(4)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa namba 1-5: Kanga naye ni ndege wa kufugwa.",
+      "steps": [
+        "Huyu hutambulishwa baada ya kuku.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "3",
+      "source_page": 3
+    },
+    {
+      "id": "6(5)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa namba 1-5: Kuku ni ndege wa kufugwa.",
+      "steps": [
+        "Huu ni mwanzo wa habari.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "1",
+      "source_page": 3
+    }
+  ],
+  "summaries": {
+    "Ufahamu wa kusikiliza": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Sarufi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kuonanisha": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Utungaji": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ufahamu wa shairi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "Standard Five Terminal Examination May 2024 Sunland Pre & Primary School",
+      "url": "https://darasahuru.ac.tz/standard-five-terminal-examination-may-2024-sunland-pre-primary-school/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "1(iii-v) hutegemea hadithi ya kufikirika yenye maumbile yaliyobadilishwa; majibu haya si maelezo halisi ya jongoo/nyoka.",
+    "3(i): karanga ni jamii ya mikunde, si nafaka. Kundi sahihi linalojumuisha vyote ni vyakula.",
+    "3(iii): matunda halimo kwenye machaguo, hivyo vyakula ndiyo pana inayofaa; B imerudiwa kwa usahihi."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "9d64850a010e1b6c5a2c6ab4a3dc8d5faaa492ac5ebdab317bd43c07f794ff3e"
+}

@@ -1,0 +1,512 @@
+{
+  "exam": "Mathematics-S4-2025-Bariadi-DC-July-Pre-mock-exam.pdf",
+  "output": "Mathematics-S4-2025-Bariadi-DC-July-Pre-mock-exam-AnswerKey.pdf",
+  "sha256": "1231daab91576b4bd67de6eb26bd7eb6261d1918d0149e59ab24e6b16d0229e1",
+  "subject": "Mathematics",
+  "level": "Standard Four",
+  "year": "2025",
+  "code": "Not printed in source",
+  "board": "Bariadi Town Council (UMEKTA)",
+  "exam_type": "Pre-mock exam - July",
+  "question_count": "25 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "1(vi)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Numbers and applications",
+      "prompt": "Write eighty-two thousand four hundred and sixty-nine goats in numerals.",
+      "steps": [
+        "82000 + 400 + 60 + 9 = 82469."
+      ],
+      "answer": "82469 goats",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "82000 + 400 + 60 + 9",
+          "expected": "82469"
+        }
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Numbers and applications",
+      "prompt": "Give the tens digit of 580247.",
+      "steps": [
+        "The second digit from the right is 4."
+      ],
+      "answer": "4",
+      "source_page": 1
+    },
+    {
+      "id": "1(iii)",
+      "section": "Numbers and applications",
+      "prompt": "Which digit in 61374 has value 50 +20?",
+      "steps": [
+        "50 + 20 = 70.",
+        "7 is in the tens place, with value 70."
+      ],
+      "answer": "7",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "50 + 20",
+          "expected": "70"
+        }
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Numbers and applications",
+      "prompt": "Write CDXL in Hindu-Arabic numerals.",
+      "steps": [
+        "CD = 500 - 100 = 400; XL = 50 - 10 = 40.",
+        "400 + 40 = 440."
+      ],
+      "answer": "440",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "500 - 100",
+          "expected": "400"
+        },
+        {
+          "expression": "50 - 10",
+          "expected": "40"
+        },
+        {
+          "expression": "400 + 40",
+          "expected": "440"
+        }
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Numbers and applications",
+      "prompt": "Convert 4 hours 20 minutes to minutes.",
+      "steps": [
+        "4 x 60 = 240.",
+        "240 + 20 = 260."
+      ],
+      "answer": "260 minutes",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "4 * 60",
+          "expected": "240"
+        },
+        {
+          "expression": "240 + 20",
+          "expected": "260"
+        }
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Numbers and applications",
+      "prompt": "Arrange 400,420,4440,460,480 in descending order.",
+      "steps": [
+        "4440 has the most digits; order the rest by tens."
+      ],
+      "answer": "4440,480,460,420,400",
+      "source_page": 1
+    },
+    {
+      "id": "2(i)",
+      "section": "Numbers and applications",
+      "prompt": "How many halves are in two wholes?",
+      "steps": [
+        "2 / (1/2) = 4."
+      ],
+      "answer": "4 halves",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2 / (1/2)",
+          "expected": "4"
+        }
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Numbers and applications",
+      "prompt": "Eliud gives 1/4 of 20 sacks to his brother. How many sacks?",
+      "steps": [
+        "20 / 4 = 5."
+      ],
+      "answer": "5 sacks",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "20 / 4",
+          "expected": "5"
+        }
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Numbers and applications",
+      "prompt": "A pupil drinks 3/4 litre daily. How many litres in 6 days?",
+      "steps": [
+        "6 x 3 = 18.",
+        "18/4 = 9/2 = 4.5."
+      ],
+      "answer": "4 1/2 litres",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "6*3/4",
+          "expected": "9/2"
+        },
+        {
+          "expression": "6 * 3",
+          "expected": "18"
+        },
+        {
+          "expression": "18/4",
+          "expected": "9/2"
+        }
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Numbers and applications",
+      "prompt": "Mzize buys 5/7 of a farm and cultivates 2/7 of the whole farm. What part of the whole remains uncultivated from his purchase?",
+      "steps": [
+        "Subtract fractions with denominator 7.",
+        "5 - 2 = 3; keep denominator 7."
+      ],
+      "answer": "3/7 of the whole farm",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "5/7-2/7",
+          "expected": "3/7"
+        },
+        {
+          "expression": "5 - 2",
+          "expected": "3"
+        }
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Numbers and applications",
+      "prompt": "Calculate 21 x 1/7.",
+      "steps": [
+        "21/7 = 3."
+      ],
+      "answer": "3",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "21/7",
+          "expected": "3"
+        }
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Calculations",
+      "prompt": "Mwajuma has 21000 shillings and spends 7500. What remains?",
+      "steps": [
+        "1 place: 0 - 0 = 0.",
+        "10 place: 0 - 0 = 0.",
+        "100 place: regroup 1 from the next place; 10 - 5 = 5.",
+        "1000 place: regroup 1 from the next place; 10 - 7 = 3.",
+        "10000 place: 1 - 0 = 1.",
+        "21000 - 7500 = 13500; check 13500 + 7500 = 21000."
+      ],
+      "answer": "13500 shillings",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "21000-7500",
+          "expected": "13500"
+        },
+        {
+          "expression": "0 - 0",
+          "expected": "0"
+        },
+        {
+          "expression": "10 - 5",
+          "expected": "5"
+        },
+        {
+          "expression": "10 - 7",
+          "expected": "3"
+        },
+        {
+          "expression": "1 - 0",
+          "expected": "1"
+        },
+        {
+          "expression": "21000 - 7500",
+          "expected": "13500"
+        },
+        {
+          "expression": "13500 + 7500",
+          "expected": "21000"
+        }
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Numbers and applications",
+      "prompt": "Write 19.40 shillings in words.",
+      "steps": [
+        "19 is the shillings;0.40 is 40 cents."
+      ],
+      "answer": "Nineteen shillings and forty cents",
+      "source_page": 2
+    },
+    {
+      "id": "3(iii)",
+      "section": "Numbers and applications",
+      "prompt": "Add Sh 3400 st 50 and Sh 1200 st 30.",
+      "steps": [
+        "Cents:50 + 30 = 80.",
+        "Shillings:3400 + 1200 = 4600."
+      ],
+      "answer": "Sh 4600 st 80",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "3400.50+1200.30",
+          "expected": "23004/5"
+        },
+        {
+          "expression": "50 + 30",
+          "expected": "80"
+        },
+        {
+          "expression": "3400 + 1200",
+          "expected": "4600"
+        }
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Numbers and applications",
+      "prompt": "How many days make 168 hours?",
+      "steps": [
+        "24 hours make 1 day.",
+        "168 / 24 = 7."
+      ],
+      "answer": "7 days",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "168 / 24",
+          "expected": "7"
+        }
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Numbers and applications",
+      "prompt": "Convert 9:47 in the morning to 24-hour time.",
+      "steps": [
+        "Morning hours retain the same number; add the leading 0."
+      ],
+      "answer": "09:47",
+      "source_page": 2
+    },
+    {
+      "id": "4(iii)",
+      "section": "Numbers and applications",
+      "prompt": "A train leaves 05:30 and arrives 08:45 the same morning. Find the journey time.",
+      "steps": [
+        "05:30 to 08:30 is 3 hours.",
+        "08:30 to 08:45 is 15 minutes."
+      ],
+      "answer": "3 hours 15 minutes",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "(8*60+45)-(5*60+30)",
+          "expected": "195"
+        }
+      ]
+    },
+    {
+      "id": "4(iv)",
+      "section": "Numbers and applications",
+      "prompt": "Draw a clock showing quarter past six.",
+      "steps": [
+        "Quarter hour is 15 minutes; long hand points 3.",
+        "Short hand lies a quarter of the way from 6 to 7."
+      ],
+      "answer": "6:15; minute hand 3, hour hand just past 6.",
+      "source_page": 3
+    },
+    {
+      "id": "5(i)",
+      "section": "Numbers and applications",
+      "prompt": "Children drank 1 litre yesterday and 2 litres later. How many millilitres altogether?",
+      "steps": [
+        "1 + 2 = 3 litres.",
+        "3 x 1000 = 3000."
+      ],
+      "answer": "3000 ml",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "1 + 2",
+          "expected": "3"
+        },
+        {
+          "expression": "3 * 1000",
+          "expected": "3000"
+        }
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Numbers and applications",
+      "prompt": "Which is heavier:2 litres of water or 3000 ml of cooking oil?",
+      "steps": [
+        "Convert 3000 ml to 3 litres.",
+        "Volume alone does not determine mass for different liquids; densities are not supplied.",
+        "Oil is heavier if its density exceeds 2/3 of the density of water; otherwise water is heavier (equal at 2/3)."
+      ],
+      "answer": "Insufficient information for mass comparison;3 litres of oil is the greater volume.",
+      "source_page": 3
+    },
+    {
+      "id": "5(iii)",
+      "section": "Numbers and applications",
+      "prompt": "Convert 4 metres to centimetres.",
+      "steps": [
+        "1 m = 100 cm.",
+        "4 x 100 = 400."
+      ],
+      "answer": "400 cm",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "4 * 100",
+          "expected": "400"
+        }
+      ]
+    },
+    {
+      "id": "6(i)",
+      "section": "Numbers and applications",
+      "prompt": "Find perimeter of the triangle with printed sides 9 cm,7 cm,15 cm.",
+      "steps": [
+        "Perimeter is the sum of its three labelled sides.",
+        "9 + 7 + 15 = 31.",
+        "The right-looking drawing is inconsistent:7 cm cannot be the hypotenuse when legs are 9 cm and 15 cm."
+      ],
+      "answer": "31 cm using printed side lengths",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "9 + 7 + 15",
+          "expected": "31"
+        }
+      ]
+    },
+    {
+      "id": "6(ii)",
+      "section": "Numbers and applications",
+      "prompt": "Find area of the rectangle 40 cm long and 15 cm wide.",
+      "steps": [
+        "Area = length x width.",
+        "40 x 15 = 600."
+      ],
+      "answer": "600 cm²",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "40 * 15",
+          "expected": "600"
+        }
+      ]
+    },
+    {
+      "id": "6(iii)",
+      "section": "Numbers and applications",
+      "prompt": "A square garden has perimeter 40 m. Find one side.",
+      "steps": [
+        "Four sides are equal.",
+        "40 / 4 = 10."
+      ],
+      "answer": "10 m",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "40 / 4",
+          "expected": "10"
+        }
+      ]
+    },
+    {
+      "id": "6(iv)",
+      "section": "Numbers and applications",
+      "prompt": "Find area of a triangular garden with base 6 m and height 9 m.",
+      "steps": [
+        "Area = base x height / 2.",
+        "6 x 9 = 54.",
+        "54 / 2 = 27."
+      ],
+      "answer": "27 m²",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "6 * 9",
+          "expected": "54"
+        },
+        {
+          "expression": "54 / 2",
+          "expected": "27"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Numbers and applications": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - Bariadi (UMEKTA) Standard Four Premock Exams July 2025",
+      "url": "https://darasahuru.ac.tz/bariadi-umekta-standard-four-premock-exams-july-2025/"
+    }
+  ],
+  "limitations": [
+    "Bariadi source issuer is Town Council (UMEKTA), although the catalogue filename identifies DC.",
+    "5(ii) confuses mass with volume and supplies no densities.",
+    "6(i) the drawn right triangle is inconsistent with the printed side lengths."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "bbd7246831f2e550807b54c6b2bf7083db5b3ef976a3264996199973eb3879ea"
+}

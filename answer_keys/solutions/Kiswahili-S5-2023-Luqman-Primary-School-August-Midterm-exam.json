@@ -1,0 +1,582 @@
+{
+  "exam": "Kiswahili-S5-2023-Luqman-Primary-School-August-Midterm-exam.pdf",
+  "output": "Kiswahili-S5-2023-Luqman-Primary-School-August-Midterm-exam-AnswerKey.pdf",
+  "sha256": "f037efd115f993462aff73d748ef3eea2836f311bc225634ef062c20b8094b42",
+  "subject": "Kiswahili",
+  "level": "Standard Five",
+  "year": "2023",
+  "code": "Not printed in source",
+  "board": "Luqman Primary School",
+  "exam_type": "Midterm exam - August",
+  "question_count": "Vipengele 45 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Nani alikatazwa kuvuka daraja? a wazazi, b walimu, c watoto, d wanafunzi.",
+      "steps": [
+        "Sikiliza habari ya mwalimu na utafute sehemu inayojibu swali hili.",
+        "Linganisha ushahidi uliosikia na machaguo; usichague kwa kubahatisha majina."
+      ],
+      "answer": "Hakuna jibu la uhakika bila hadithi ya mwalimu; PDF haijajumuisha habari hiyo.",
+      "source_page": 1
+    },
+    {
+      "id": "2",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Kwa nini Shule ya Zoazoa ina jina hilo? a mtoto Zoazoa, b kuzoa uchafu, c kando ya mto Zoazoa, d kata Zoazoa.",
+      "steps": [
+        "Sikiliza habari ya mwalimu na utafute sehemu inayojibu swali hili.",
+        "Linganisha ushahidi uliosikia na machaguo; usichague kwa kubahatisha majina."
+      ],
+      "answer": "Hakuna jibu la uhakika bila hadithi ya mwalimu; PDF haijajumuisha habari hiyo.",
+      "source_page": 1
+    },
+    {
+      "id": "3",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Mwanafunzi gani alizolewa na mto? a Bikitiko, b Zoazoa, c Siendeki, d Sendeki.",
+      "steps": [
+        "Sikiliza habari ya mwalimu na utafute sehemu inayojibu swali hili.",
+        "Linganisha ushahidi uliosikia na machaguo; usichague kwa kubahatisha majina."
+      ],
+      "answer": "Hakuna jibu la uhakika bila hadithi ya mwalimu; PDF haijajumuisha habari hiyo.",
+      "source_page": 1
+    },
+    {
+      "id": "4",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Nani alikuwa mkaidi? a Siendeki, b kiranja, c Sikitiko, d Zoazoa.",
+      "steps": [
+        "Sikiliza habari ya mwalimu na utafute sehemu inayojibu swali hili.",
+        "Linganisha ushahidi uliosikia na machaguo; usichague kwa kubahatisha majina."
+      ],
+      "answer": "Hakuna jibu la uhakika bila hadithi ya mwalimu; PDF haijajumuisha habari hiyo.",
+      "source_page": 1
+    },
+    {
+      "id": "5",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Nahau gani ilitumika? a ukaidi ni adhabu, b pigwa marufuku, c mvua ni janga, d mazoea ni adui.",
+      "steps": [
+        "Sikiliza habari ya mwalimu na utafute sehemu inayojibu swali hili.",
+        "Linganisha ushahidi uliosikia na machaguo; usichague kwa kubahatisha majina."
+      ],
+      "answer": "Hakuna jibu la uhakika bila hadithi ya mwalimu; PDF haijajumuisha habari hiyo.",
+      "source_page": 1
+    },
+    {
+      "id": "6",
+      "section": "Sarufi na msamiati",
+      "prompt": "Mama alisema kwamba akitoka kazini atapitia sokoni: kauli gani? a taarifa, b halisi, c mazoea, d kutenda.",
+      "steps": [
+        "Kwamba huonyesha usemi uliosimuliwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a - Taarifa.",
+      "source_page": 1
+    },
+    {
+      "id": "7",
+      "section": "Sarufi na msamiati",
+      "prompt": "Hali ya mazoea? a atashusha, b alishusha, c hushusha, d ameshusha bendera.",
+      "steps": [
+        "Hu- huonyesha desturi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "c - Skauti hushusha bendera.",
+      "source_page": 1
+    },
+    {
+      "id": "8",
+      "section": "Sarufi na msamiati",
+      "prompt": "a e i o u kwa neno moja? a herufi, b irabu, c konsonanti, d silabi.",
+      "steps": [
+        "Ni irabu tano.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Irabu.",
+      "source_page": 1
+    },
+    {
+      "id": "9",
+      "section": "Sarufi na msamiati",
+      "prompt": "Nahau ya uchoyo/ubahili wa Matuga? a mkono mrefu, b mkono mfupi, c ana inda, d mkono mrefu.",
+      "steps": [
+        "Mkono mrefu ni wizi; inda ni ukaidi/uchokozi. Chanzo hakitoi chaguo sanifu la mkono wa birika.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mkono wa birika ndiyo nahau wazi ya ubahili; haimo katika machaguo. B-mkono mfupi huenda ndilo lililokusudiwa.",
+      "source_page": 1
+    },
+    {
+      "id": "10",
+      "section": "Sarufi na msamiati",
+      "prompt": "Rahima ni mtoto wa Saidi ambaye ni mwanangu; ananiitaje? a mjukuu, b babu, c kitukuu, d kilembwa.",
+      "steps": [
+        "Mimi ni mzazi wa baba yake, hivyo ni babu ikiwa mimi ni mwanamume; bibi ikiwa mwanamke.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Babu, kwa chaguo lililotolewa.",
+      "source_page": 1
+    },
+    {
+      "id": "11",
+      "section": "Sarufi na msamiati",
+      "prompt": "Baada ya kusubiri ____ kengele ikagongwa. a kisha, b hatimaye, c ndivyo, d ndio.",
+      "steps": [
+        "Hatimaye huonyesha jambo lililotokea baada ya kusubiri.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Hatimaye.",
+      "source_page": 2
+    },
+    {
+      "id": "12",
+      "section": "Sarufi na msamiati",
+      "prompt": "Wewe ni mtoto mkorofi: nafsi gani? a pili wingi, b kwanza umoja, c pili umoja, d tatu umoja.",
+      "steps": [
+        "Wewe hutaja unayezungumza naye mmoja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "c - Pili umoja.",
+      "source_page": 2
+    },
+    {
+      "id": "13",
+      "section": "Sarufi na msamiati",
+      "prompt": "Kanusha atafaulu: a atafeli, b anafaulu, c amefeli, d hatafaulu.",
+      "steps": [
+        "Ha- hukataa kitendo cha wakati ujao ta-.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "d - Hatafaulu.",
+      "source_page": 2
+    },
+    {
+      "id": "14",
+      "section": "Sarufi na msamiati",
+      "prompt": "Kinyume cha vita: a amani, b majanga, c usalama, d ulinzi.",
+      "steps": [
+        "Amani ni kutokuwepo vita.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a - Amani.",
+      "source_page": 2
+    },
+    {
+      "id": "15",
+      "section": "Sarufi na msamiati",
+      "prompt": "Mmomonyoko lina silabi ngapi? a tano, b nne, c tatu, d sita.",
+      "steps": [
+        "Gawanya m-mo-mo-nyo-ko: vipande vitano; m ya kwanza ni silabi ya peke yake.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a - Tano: m-mo-mo-nyo-ko.",
+      "source_page": 2
+    },
+    {
+      "id": "16",
+      "section": "Sarufi na msamiati",
+      "prompt": "Mtoto wa nguruwe anaitwaje? a tununtu, b jana, c kiwari, d kiririmbi, e kitengule.",
+      "steps": [
+        "Kivinimbi ni kikembe cha nguruwe; tunutu ni cha nzige, jana cha nyuki, kitungule cha sungura.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kivinimbi. Hakuna chaguo sahihi lililochapishwa.",
+      "source_page": 2
+    },
+    {
+      "id": "17",
+      "section": "Sarufi na msamiati",
+      "prompt": "Na katika anaendesha huonyesha wakati gani? a uliopo, b uliopita, c mazoea, d ujao.",
+      "steps": [
+        "Na- huonyesha kitendo kinachofanyika sasa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a - Uliopo.",
+      "source_page": 2
+    },
+    {
+      "id": "18",
+      "section": "Sarufi na msamiati",
+      "prompt": "Mfa maji haachi ____ a kuhangaika, b kutapatapa, c kusema, d kutoka.",
+      "steps": [
+        "Mwenye shida huendelea kujitahidi kujiokoa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Kutapatapa.",
+      "source_page": 2
+    },
+    {
+      "id": "19",
+      "section": "Sarufi na msamiati",
+      "prompt": "Methali ya kupenda kujifunza? a siku za mwizi arobaini, b elimu ni bahari, c maneno makali, d chururu si ndondondo.",
+      "steps": [
+        "Elimu ni pana na kujifunza hakuishi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Elimu ni bahari.",
+      "source_page": 2
+    },
+    {
+      "id": "20",
+      "section": "Sarufi na msamiati",
+      "prompt": "Tulitia nanga salama kwa ____ mzoefu. a dereva, b rubani, c mwendeshaji, d nahodha.",
+      "steps": [
+        "Nahodha huongoza chombo cha majini.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "d - Nahodha.",
+      "source_page": 2
+    },
+    {
+      "id": "21",
+      "section": "Sarufi na msamiati",
+      "prompt": "____ wa magari barabarani. a msafari, b msururu, c msuluri, d msululu.",
+      "steps": [
+        "Msururu ni vitu katika mfuatano.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Msururu.",
+      "source_page": 2
+    },
+    {
+      "id": "22",
+      "section": "Sarufi na msamiati",
+      "prompt": "Fungu la samani? a vikombe/vijiko/sahani, b meza/kikombe/kiti, c vitanda/viti/meza, d kabati/kijiko/kisu.",
+      "steps": [
+        "Vyote ni samani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "c - Vitanda, viti, meza.",
+      "source_page": 2
+    },
+    {
+      "id": "23",
+      "section": "Sarufi na msamiati",
+      "prompt": "Nikimpiga mwanangu watu hucheza. a kitunguu, b ngoma, c moshi, d nazi.",
+      "steps": [
+        "Mlio wa ngoma huambatana na kucheza.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Ngoma.",
+      "source_page": 2
+    },
+    {
+      "id": "24",
+      "section": "Sarufi na msamiati",
+      "prompt": "Ali ameshindwa ____ wewe utaweza? a haula, b akili, c angalau, d sembuse.",
+      "steps": [
+        "Sembuse huonyesha kutowezekana zaidi kwa huyo mwingine.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "d - Sembuse.",
+      "source_page": 2
+    },
+    {
+      "id": "25",
+      "section": "Sarufi na msamiati",
+      "prompt": "Nyumba ya ndege? a mzinga, b kiota, c banda, d zizi.",
+      "steps": [
+        "Kiota ni mahali pa ndege kutagia/kulelea.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Kiota.",
+      "source_page": 2
+    },
+    {
+      "id": "26",
+      "section": "Sarufi na msamiati",
+      "prompt": "Sambamba lina konsonanti ngapi? a tano, b nne, c tatu, d mbili.",
+      "steps": [
+        "Hesabu herufi zote za konsonanti, hata zilizojirudia.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a - Tano: s, m, b, m, b.",
+      "source_page": 2
+    },
+    {
+      "id": "27",
+      "section": "Sarufi na msamiati",
+      "prompt": "Fundi wa heleni, pete, bangili, mikufu: a sofara, b fundi, c mfugaji, d sonara.",
+      "steps": [
+        "Sonara hutengeneza mapambo ya metali.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "d - Sonara.",
+      "source_page": 3
+    },
+    {
+      "id": "28",
+      "section": "Sarufi na msamiati",
+      "prompt": "Watacheza mpira: wakati gani? a uliopo, b ujao, c desturi, d timilifu.",
+      "steps": [
+        "Ta- ni kiambishi cha ujao.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Ujao.",
+      "source_page": 3
+    },
+    {
+      "id": "29",
+      "section": "Sarufi na msamiati",
+      "prompt": "Neno lisilohusiana: a mengine, b mbuzi, c simba, d mbuni.",
+      "steps": [
+        "Mengine si jina la mnyama; mbuzi, simba na mbuni ni wanyama.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a - Mengine, kwa maneno yaliyochapishwa.",
+      "source_page": 3
+    },
+    {
+      "id": "30",
+      "section": "Sarufi na msamiati",
+      "prompt": "Prr! mpaka Maka. a mvua, b chura, c utelezi, d usingizi.",
+      "steps": [
+        "Kitendawili huonyesha kuteleza hadi mbali.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "c - Utelezi.",
+      "source_page": 3
+    },
+    {
+      "id": "31",
+      "section": "Sarufi na msamiati",
+      "prompt": "Njooni nyumbani kwangu: kauli gani? a halisi, b taarifa, c kutenda, d kutendea.",
+      "steps": [
+        "Njooni nyumbani kwangu ni maneno ya msemaji mwenyewe, hivyo katika ulinganisho wa halisi na taarifa jibu ni halisi.",
+        "Njooni ni agizo/mwaliko kwa watu wengi; amrishi ni uainishaji mwingine wa dhamira, si sababu ya kukataa halisi."
+      ],
+      "answer": "A - Halisi, kama usemi wa msemaji moja kwa moja. Kwa dhamira pia ni kauli ya amri/mwaliko.",
+      "source_page": 3
+    },
+    {
+      "id": "32",
+      "section": "Sarufi na msamiati",
+      "prompt": "Umoja wa Ninahisi maumivu kwenye meno yangu ya juu.",
+      "steps": [
+        "Meno yangu ya hubadili kuwa jino langu la.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "c - Ninahisi maumivu kwenye jino langu la juu.",
+      "source_page": 3
+    },
+    {
+      "id": "33",
+      "section": "Sarufi na msamiati",
+      "prompt": "Kichwa, utangulizi, kiini, hitimisho ni vipengele vya nini? a insha, b risala, c hotuba, d barua.",
+      "steps": [
+        "Huu ni mpangilio wa msingi wa insha; risala/hotuba pia zina sehemu zinazofanana.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a - Insha.",
+      "source_page": 3
+    },
+    {
+      "id": "34",
+      "section": "Sarufi na msamiati",
+      "prompt": "Alama kati ya mahindi maharage ufuta mpunga na uwele? a !, b ?, c koma, d ;.",
+      "steps": [
+        "Tenganisha vitu vya orodha kwa mkato.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "c - Mkato (,).",
+      "source_page": 3
+    },
+    {
+      "id": "35",
+      "section": "Sarufi na msamiati",
+      "prompt": "Mwanafunzi ____ aliyefika aende ofisini. a yoyote, b wowote, e chocho, d yeyote.",
+      "steps": [
+        "Mwanafunzi hupatana na yeyote.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "d - Yeyote.",
+      "source_page": 3
+    },
+    {
+      "id": "36",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Alipofika alikuta madaktari wanamtibu mgonjwa.",
+      "steps": [
+        "Kufika hospitalini hufuata safari.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D",
+      "source_page": 3
+    },
+    {
+      "id": "37",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Aliamka mapema kwenda Muhimbili.",
+      "steps": [
+        "Huu ndio mwanzo wa safari.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A",
+      "source_page": 3
+    },
+    {
+      "id": "38",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Alipanda daladala ashuke njiani kubadili gari.",
+      "steps": [
+        "Kupanda hufuata kupata daladala kituoni.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C",
+      "source_page": 3
+    },
+    {
+      "id": "39",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Kituoni alikuta daladala za Gerezani.",
+      "steps": [
+        "Kufika kituoni hufuata kutoka nyumbani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B",
+      "source_page": 3
+    },
+    {
+      "id": "40",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Baadaye alifanikiwa kumjulia hali mgonjwa.",
+      "steps": [
+        "Kumjulia hali hufunga hadithi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E",
+      "source_page": 3
+    },
+    {
+      "id": "41",
+      "section": "Ufahamu",
+      "prompt": "Kifunguamimba ni nani?",
+      "steps": [
+        "Nasra ndiye mtoto wa kwanza.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Nasra.",
+      "source_page": 4
+    },
+    {
+      "id": "42",
+      "section": "Ufahamu",
+      "prompt": "Watoto walimu ni akina nani?",
+      "steps": [
+        "Amani ni rubani, Furaha muuguzi; waliobaki wawili ni walimu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Nasra na Matia.",
+      "source_page": 4
+    },
+    {
+      "id": "43",
+      "section": "Ufahamu",
+      "prompt": "Rubani ni nani?",
+      "steps": [
+        "Habari inasema Amani ni rubani wa ndege.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Amani.",
+      "source_page": 4
+    },
+    {
+      "id": "44",
+      "section": "Ufahamu",
+      "prompt": "Furaha ni mtoto wa ngapi?",
+      "steps": [
+        "Mpangilio ni Nasra, Matia, Furaha, Amani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Wa tatu.",
+      "source_page": 4
+    },
+    {
+      "id": "45",
+      "section": "Ufahamu",
+      "prompt": "Mtu mmoja asiyetajwa kwa jina katika familia ni nani?",
+      "steps": [
+        "Watu sita ni wazazi wawili na watoto wanne; baba na watoto wametajwa, mama hajatajwa kwa jina.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mama wa watoto/mke wa Mzee Jambila.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Ufahamu wa kusikiliza": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Sarufi na msamiati": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Utungaji": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ufahamu": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "Standard Five Exams | 2010 - 2023 | Monthly, Midterm, Terminal and Annual Exams - Download All Subjects - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/standard-five-exams-2010-2023-monthly-midterm-terminal-and-annual-exams-download-all-subjects/"
+    },
+    {
+      "title": "eLimu: Vikembe - kivinimbi ni mtoto wa nguruwe",
+      "url": "https://espace-learn.e-limu.org/topic/view/?c=183"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "Maswali 1-5 yanategemea habari ya kusikiliza ambayo haijajumuishwa.",
+    "Swali 9 halina chaguo sanifu mkono wa birika kwa ubahili.",
+    "Swali 16 halina kivinimbi, kikembe cha nguruwe.",
+    "Swali 33 lina vipengele vinavyoweza kutumika kwa zaidi ya aina moja ya maandishi; insha ndiyo kawaida."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "3071aad9d45589f213cf32567114eb9ce2405137bf921fa239d2f08f707971d7"
+}

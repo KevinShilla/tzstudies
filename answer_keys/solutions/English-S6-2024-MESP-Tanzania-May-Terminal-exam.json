@@ -1,0 +1,456 @@
+{
+  "exam": "English-S6-2024-MESP-Tanzania-May-Terminal-exam.pdf",
+  "output": "English-S6-2024-MESP-Tanzania-May-Terminal-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Six",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Terminal exam - May",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "f96d2cea9b765e98949713948fd7e4062fd514cc196c2cf95d770ca0bcb2c809",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Listening",
+      "prompt": "How many children did Mtokambali have? (a 2, b 3, c 4, d 5, e 6)",
+      "steps": [
+        "The page 4 listening script states two children.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "a. Two.",
+      "source_page": 1
+    },
+    {
+      "id": "1(ii)",
+      "section": "Listening",
+      "prompt": "How many people made up his family? (a 4, b 5, c 6, d 3, e 2)",
+      "steps": [
+        "Count Mtokambali, his wife and two children: 1 + 1 + 2 = 4.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "a. Four.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iii)",
+      "section": "Listening",
+      "prompt": "How old was the first-born child? (a 3, b 6, c 9, d 4, e 5)",
+      "steps": [
+        "The script gives the first child's age.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "c. Nine years old.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iv)",
+      "section": "Listening",
+      "prompt": "What fuel did they use to start the fire? (a kerosene, b firewood, c jerry, d petrol, e diesel)",
+      "steps": [
+        "The script distinguishes ignition kerosene from cooking wood/charcoal.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "a. Kerosene.",
+      "source_page": 1
+    },
+    {
+      "id": "1(v)",
+      "section": "Listening",
+      "prompt": "What does prohibit mean? (a forbid, b allow, c break, d prevent, e surpass)",
+      "steps": [
+        "The mother forbids touching matches or making fire.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "a. Forbid.",
+      "source_page": 1
+    },
+    {
+      "id": "2(i)",
+      "section": "Grammar and composition",
+      "prompt": "Pupils used to ___ a song at break. (a singing, b sung, c sang, d sing, e sings)",
+      "steps": [
+        "Used to takes the base verb.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "d. Sing.",
+      "source_page": 2
+    },
+    {
+      "id": "2(ii)",
+      "section": "Grammar and composition",
+      "prompt": "We have been ___ here since 1990. (a lived, b live, c living, d will live, e lives)",
+      "steps": [
+        "Have been plus ing forms present perfect continuous.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "c. Living.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Grammar and composition",
+      "prompt": "Jackson ___ prizes last year. (a gets, b getting, c did get, d has gotten, e got)",
+      "steps": [
+        "Last year requires past tense.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "e. Got is the usual answer; c. did get is grammatical emphasis.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Grammar and composition",
+      "prompt": "The dog is healthy because it ___ good food. (a eat, b eats, c eating, d eaten, e is eat)",
+      "steps": [
+        "It takes eats for a present habit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "b. Eats.",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Grammar and composition",
+      "prompt": "Jessica ___ bananas every day. (a pick, b picks, c is picking, d will pick, e picking)",
+      "steps": [
+        "A singular habitual subject takes picks; the later source sell should likewise be sells.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "b. Picks.",
+      "source_page": 2
+    },
+    {
+      "id": "3(i)",
+      "section": "Grammar and composition",
+      "prompt": "___ you coming to the match? Bank: will elect, shall, fell, the, some, neither, if, since, to.",
+      "steps": [
+        "The present continuous question is Are you coming?",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Are is required but absent from the bank.",
+      "source_page": 2
+    },
+    {
+      "id": "3(ii)",
+      "section": "Grammar and composition",
+      "prompt": "They ___ a school government next Sunday.",
+      "steps": [
+        "The future verb phrase matches next Sunday.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Will elect.",
+      "source_page": 2
+    },
+    {
+      "id": "3(iii)",
+      "section": "Grammar and composition",
+      "prompt": "Their father ___ asleep after dinner.",
+      "steps": [
+        "Fell asleep is the correct past phrase.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Fell.",
+      "source_page": 2
+    },
+    {
+      "id": "3(iv)",
+      "section": "Grammar and composition",
+      "prompt": "Our teacher has worked at this school ___.",
+      "steps": [
+        "The question ends after the blank, so since alone cannot supply the missing time information.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Incomplete item: since requires a starting time; for requires a duration. Example only: since 2020.",
+      "source_page": 2
+    },
+    {
+      "id": "3(v)",
+      "section": "Grammar and composition",
+      "prompt": "Would you prefer tea ___ coffee?",
+      "steps": [
+        "Prefer X to Y compares preferences; the bank gives to.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "To (intended comparison). Natural alternative-choice question: Would you prefer tea or coffee?",
+      "source_page": 2
+    },
+    {
+      "id": "4(i)",
+      "section": "Grammar and composition",
+      "prompt": "Match abroad: A cemetery, B butchery, C outside, D equipment, E exile, F grave, G niece.",
+      "steps": [
+        "Abroad is more specific than just outside a building.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Outside is the closest bank choice; precise meaning: in another country/outside one's country.",
+      "source_page": 2
+    },
+    {
+      "id": "4(ii)",
+      "section": "Grammar and composition",
+      "prompt": "Match the plural form of equipment.",
+      "steps": [
+        "Equipment is uncountable; use pieces of equipment for counting.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Equipment.",
+      "source_page": 2
+    },
+    {
+      "id": "4(iii)",
+      "section": "Grammar and composition",
+      "prompt": "Match the place selling meat.",
+      "steps": [
+        "A butchery sells meat.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Butchery.",
+      "source_page": 2
+    },
+    {
+      "id": "4(iv)",
+      "section": "Grammar and composition",
+      "prompt": "Match your sister's daughter.",
+      "steps": [
+        "Niece is the female child of a sibling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "G. Niece.",
+      "source_page": 2
+    },
+    {
+      "id": "4(v)",
+      "section": "Grammar and composition",
+      "prompt": "Match a place where many dead people are buried.",
+      "steps": [
+        "A cemetery contains many graves.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Cemetery.",
+      "source_page": 2
+    },
+    {
+      "id": "5(i)",
+      "section": "Grammar and composition",
+      "prompt": "Order A-E: The dog asked the cat to sleep near the door.",
+      "steps": [
+        "The plan follows introduction and the unattended meat.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C.",
+      "source_page": 2
+    },
+    {
+      "id": "5(ii)",
+      "section": "Grammar and composition",
+      "prompt": "Order: When the cat slept, the dog ate the meat.",
+      "steps": [
+        "The theft follows the trick.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D.",
+      "source_page": 2
+    },
+    {
+      "id": "5(iii)",
+      "section": "Grammar and composition",
+      "prompt": "Order: Mrs. Peter put meat in the cupboard and went out.",
+      "steps": [
+        "This sets up the opportunity after introducing the animals.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B.",
+      "source_page": 2
+    },
+    {
+      "id": "5(iv)",
+      "section": "Grammar and composition",
+      "prompt": "Order: A dog and cat lived with Mrs. Peter.",
+      "steps": [
+        "Introduce the characters first.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A.",
+      "source_page": 2
+    },
+    {
+      "id": "5(v)",
+      "section": "Grammar and composition",
+      "prompt": "Order: Mrs. Peter returned and found no meat.",
+      "steps": [
+        "Discovery concludes the story.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E.",
+      "source_page": 2
+    },
+    {
+      "id": "6(i)",
+      "section": "Vocabulary and comprehension",
+      "prompt": "What is a person who translates English called?",
+      "steps": [
+        "Translator is the general term; interpreter specifies oral interpreting.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A translator; an interpreter if translating spoken language in real time.",
+      "source_page": 3
+    },
+    {
+      "id": "6(ii)",
+      "section": "Vocabulary and comprehension",
+      "prompt": "Give a word sounding the same as male (source calls it a homonym).",
+      "steps": [
+        "Male and mail are homophones, with different spellings and meanings.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Mail.",
+      "source_page": 3
+    },
+    {
+      "id": "6(iii)",
+      "section": "Vocabulary and comprehension",
+      "prompt": "What is your father's brother called?",
+      "steps": [
+        "A parent's brother is an uncle.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Uncle.",
+      "source_page": 3
+    },
+    {
+      "id": "6(iv)",
+      "section": "Vocabulary and comprehension",
+      "prompt": "What is an evening meal called?",
+      "steps": [
+        "Both can name the evening meal.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Dinner/supper.",
+      "source_page": 3
+    },
+    {
+      "id": "6(v)",
+      "section": "Vocabulary and comprehension",
+      "prompt": "Maize, millet and wheat are examples of what?",
+      "steps": [
+        "All are cereal crops.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Cereals/grain crops.",
+      "source_page": 3
+    },
+    {
+      "id": "7(i)",
+      "section": "Vocabulary and comprehension",
+      "prompt": "Who opened the church door?",
+      "steps": [
+        "The first sentence names him.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "James.",
+      "source_page": 3
+    },
+    {
+      "id": "7(ii)",
+      "section": "Vocabulary and comprehension",
+      "prompt": "Who stole money from the old man?",
+      "steps": [
+        "James accuses Miriam and Father Gashle returns the money she took.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Miriam.",
+      "source_page": 3
+    },
+    {
+      "id": "7(iii)",
+      "section": "Vocabulary and comprehension",
+      "prompt": "Who brought the money to church?",
+      "steps": [
+        "James brings the bag to Father Gashle.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "James.",
+      "source_page": 3
+    },
+    {
+      "id": "7(iv)",
+      "section": "Vocabulary and comprehension",
+      "prompt": "Who is a thief in the story?",
+      "steps": [
+        "Distinguish the priest's judgement from James's own admission.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Miriam is the person Father Gashle calls the thief. James also admits stealing her bag/money before returning it.",
+      "source_page": 3
+    },
+    {
+      "id": "7(v)",
+      "section": "Vocabulary and comprehension",
+      "prompt": "Who is the old man to Jenny?",
+      "steps": [
+        "The passage calls him Jenny's uncle.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Her uncle.",
+      "source_page": 3
+    }
+  ],
+  "summaries": {
+    "Listening": "Listen to the supplied teacher text and identify the exact detail asked for. Check spelling and sentence punctuation; missing scripts are explicitly identified.",
+    "Grammar and composition": "Follow a clear sequence and keep the tense consistent. Introduce people and events before their pronouns, actions and final outcome.",
+    "Vocabulary and comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "MESP Tanzania Standard Six Terminal Exams May 2024",
+      "url": "https://darasahuru.ac.tz/mesp-tanzania-standard-six-terminal-exams-may-2024/"
+    }
+  ],
+  "limitations": [
+    "3(i): Required Are is missing from the word bank.",
+    "3(iv): The question is truncated before any starting time/duration.",
+    "7(iv): Story calls Miriam the thief despite James also admitting theft; both facts are preserved."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)",
+    "7(v)"
+  ],
+  "question_count": "35 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "c91006746007b8ebe36a5351be71d1969ee97f3e41f19364b586de85f0d62f7f"
+}

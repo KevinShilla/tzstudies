@@ -1,0 +1,399 @@
+{
+  "exam": "Kiswahili-S4-2025-KESS-July-Joint-assessment.pdf",
+  "output": "Kiswahili-S4-2025-KESS-July-Joint-assessment-AnswerKey.pdf",
+  "sha256": "33c9c3e0b0569f72a5f3da272532ad9615b3afb014051645678d3b1862be0b08",
+  "subject": "Kiswahili",
+  "level": "Standard Four",
+  "year": "2025",
+  "code": "L01",
+  "board": "KESS",
+  "exam_type": "Joint assessment - July",
+  "question_count": "Vipengele 30 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1(1)",
+    "1(2)",
+    "1(3)",
+    "1(4)",
+    "1(5)",
+    "2(1)",
+    "2(2)",
+    "2(3)",
+    "2(4)",
+    "2(5)",
+    "2(6)",
+    "2(7)",
+    "2(8)",
+    "2(9)",
+    "2(10)",
+    "3(1)",
+    "3(2)",
+    "3(3)",
+    "3(4)",
+    "3(5)",
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "4(4)",
+    "4(5)",
+    "5(1)",
+    "5(2)",
+    "5(3)",
+    "5(4)",
+    "5(5)"
+  ],
+  "questions": [
+    {
+      "id": "1(1)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1(1).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "1(2)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1(2).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "1(3)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1(3).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "1(4)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1(4).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "1(5)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1(5).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "2(1)",
+      "section": "Sarufi na msamiati",
+      "prompt": "Kinyume cha jasiri? A nguli, B mwenye bidii, C mwoga, D bingwa.",
+      "steps": [
+        "Jasiri hana woga; mwoga huwa na hofu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Mwoga.",
+      "source_page": 2
+    },
+    {
+      "id": "2(2)",
+      "section": "Sarufi na msamiati",
+      "prompt": "Sikufanya vizuri mtihani ____ nilisoma kwa bidii. A ingawa, B hata hivyo, C pamoja na hayo, D kwa kuwa.",
+      "steps": [
+        "Ingawa huunganisha matokeo yasiyotarajiwa na bidii.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Ingawa.",
+      "source_page": 2
+    },
+    {
+      "id": "2(3)",
+      "section": "Sarufi na msamiati",
+      "prompt": "Sehemu ya barua ya kirafiki yenye mahali mwandishi alipo? A anwani ya mwandikiwa, B mwanzo wa barua, C tarehe, D anwani ya mwandishi.",
+      "steps": [
+        "Anwani hii huonyesha alipo anayeeandika.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Anwani ya mwandishi.",
+      "source_page": 2
+    },
+    {
+      "id": "2(4)",
+      "section": "Sarufi na msamiati",
+      "prompt": "Asiyetaka kujua maana ____ A hana maana, B haambiwi maana, C ana maana, D haijui maana.",
+      "steps": [
+        "Asiyependa kufahamu hathamini maelezo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Haambiwi maana.",
+      "source_page": 2
+    },
+    {
+      "id": "2(5)",
+      "section": "Sarufi na msamiati",
+      "prompt": "Mama alituagiza kuwa turudi nyumbani haraka: kauli gani? A tata, B huru, C halisi, D taarifa.",
+      "steps": [
+        "Maneno ya mama yamesimuliwa kwa kutumia kuwa, hayajanukuliwa moja kwa moja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Kauli taarifa.",
+      "source_page": 2
+    },
+    {
+      "id": "2(6)",
+      "section": "Sarufi na msamiati",
+      "prompt": "Ana mdomo lakini anauma kwa mkia. A nyoka, B nge, C chungu, D mshale.",
+      "steps": [
+        "Nge hudunga kwa sehemu ya mwisho wa mkia.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Nge.",
+      "source_page": 3
+    },
+    {
+      "id": "2(7)",
+      "section": "Sarufi na msamiati",
+      "prompt": "Wingi wa Mti huu umeanguka? A Miti hii imeanguka, B Mamiti haya yameanguka, C Miti hizi zimeanguka, D Miti hii umeanguka.",
+      "steps": [
+        "Mti/mti huu/ume hubadili kuwa miti/hii/ime.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Miti hii imeanguka.",
+      "source_page": 3
+    },
+    {
+      "id": "2(8)",
+      "section": "Sarufi na msamiati",
+      "prompt": "Picha ya mtoto anayesoma kitabu inaonyesha nahau gani? A charaza mwandiko, B piga umaridadi, C piga kitabu, D mwaga wino.",
+      "steps": [
+        "Picha inaonyesha kusoma; piga kitabu maana yake soma.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Piga kitabu.",
+      "source_page": 3,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S4-2025-KESS-July-Joint-assessment--2-8-.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 3."
+    },
+    {
+      "id": "2(9)",
+      "section": "Sarufi na msamiati",
+      "prompt": "Kifaa cha kamba cha kurusha mawe? A manati, B kombeo, C koleo, D gobole.",
+      "steps": [
+        "Kombeo ni kamba inayotumika kuzungushia na kurushia jiwe.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Kombeo.",
+      "source_page": 3
+    },
+    {
+      "id": "2(10)",
+      "section": "Sarufi na msamiati",
+      "prompt": "Elezea lina aina ngapi za irabu? A nne, B sita, C tatu, D mbili.",
+      "steps": [
+        "E inajirudia, lakini aina tofauti za irabu ni e na a tu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Mbili: e na a.",
+      "source_page": 3
+    },
+    {
+      "id": "3(1)",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi: kamula.",
+      "steps": [
+        "Panga herufi zote katika tahajia kalamu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kalamu.",
+      "source_page": 3
+    },
+    {
+      "id": "3(2)",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi: japamo.",
+      "steps": [
+        "Panga herufi zote katika tahajia pamoja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Pamoja.",
+      "source_page": 3
+    },
+    {
+      "id": "3(3)",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi: paho.",
+      "steps": [
+        "Panga herufi zote katika tahajia hapo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Hapo.",
+      "source_page": 3
+    },
+    {
+      "id": "3(4)",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi: kasiwalhi.",
+      "steps": [
+        "Panga herufi zote katika tahajia kiswahili.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kiswahili.",
+      "source_page": 3
+    },
+    {
+      "id": "3(5)",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi: dihathi.",
+      "steps": [
+        "Panga herufi zote katika tahajia hadithi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Hadithi.",
+      "source_page": 3
+    },
+    {
+      "id": "4(1)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Anaishi na wazazi wake Lihole.",
+      "steps": [
+        "Mahali na wazazi hufuata jina la mwanafunzi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B",
+      "source_page": 4
+    },
+    {
+      "id": "4(2)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Mama alichimba viazi na yeye alivitia kapuni.",
+      "steps": [
+        "Kuchimba hutokea baada ya kufika shambani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D",
+      "source_page": 4
+    },
+    {
+      "id": "4(3)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Siku moja walienda shambani kuchimba viazi.",
+      "steps": [
+        "Safari hufuata utangulizi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C",
+      "source_page": 4
+    },
+    {
+      "id": "4(4)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Lipake ni mwanafunzi wa darasa la nne.",
+      "steps": [
+        "Huu ni utangulizi wa mhusika.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A",
+      "source_page": 4
+    },
+    {
+      "id": "4(5)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Nyuki alimvamia na kumjeruhi Likale.",
+      "steps": [
+        "Tatizo hili hufuata kazi ya kuchimba viazi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E",
+      "source_page": 4
+    },
+    {
+      "id": "5(1)",
+      "section": "Ufahamu wa ngonjera",
+      "prompt": "Ngonjera inahusu nini?",
+      "steps": [
+        "Ubeti wa mwisho unahimiza kuzingatia wajibu na kufanya kazi halali.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Wajibu wa watoto kujituma na kufanya kazi halali.",
+      "source_page": 4
+    },
+    {
+      "id": "5(2)",
+      "section": "Ufahamu wa ngonjera",
+      "prompt": "Watoto wanapenda nini katika ubeti wa pili?",
+      "steps": [
+        "Musa anasema Michezo tunaipenda.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Michezo.",
+      "source_page": 4
+    },
+    {
+      "id": "5(3)",
+      "section": "Ufahamu wa ngonjera",
+      "prompt": "Ina beti ngapi?",
+      "steps": [
+        "Hesabu sehemu za Neema, Musa na Wote.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tatu.",
+      "source_page": 4
+    },
+    {
+      "id": "5(4)",
+      "section": "Ufahamu wa ngonjera",
+      "prompt": "Murua maana gani?",
+      "steps": [
+        "Siku murua ni siku nzuri.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Nzuri/njema.",
+      "source_page": 4
+    },
+    {
+      "id": "5(5)",
+      "section": "Ufahamu wa ngonjera",
+      "prompt": "Wahusika wa beti mbili za mwanzo ni nani?",
+      "steps": [
+        "Majina yao yamechapishwa kabla ya beti.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Neema na Musa.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Imla": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Sarufi na msamiati": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kupanga herufi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Utungaji": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ufahamu wa ngonjera": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "KESS Standard Four Second Joint Exams July 2025",
+      "url": "https://darasahuru.ac.tz/kess-standard-four-second-joint-exams-july-2025/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "Imla 1(i-v): sentensi za mwalimu hazipo.",
+    "Swali 4 linabadilisha jina Lipake kuwa Likale kwenye sentensi ya mwisho; mpangilio unaendelea kumhusu mwanafunzi huyo."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "850095a35e0770bd4d5d4ffd97070ae43234ce21efc99dea37dc60c6b6170f4b"
+}

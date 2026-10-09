@@ -1,0 +1,508 @@
+{
+  "exam": "Mathematics-S2-2025-Mbeya-region-February-Practice-assessment.pdf",
+  "output": "Mathematics-S2-2025-Mbeya-region-February-Practice-assessment-AnswerKey.pdf",
+  "sha256": "a41b1e658fdb5fa8f4a30d087ba69feb43a03348cb4fb8269faec5ad732a206c",
+  "subject": "Mathematics",
+  "level": "Standard Two",
+  "year": "2025",
+  "code": "Not printed in source",
+  "board": "Mbeya region",
+  "exam_type": "Practice assessment - February · Arithmetic",
+  "question_count": "16 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "2(i)",
+    "3(i)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "4(vi)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Section A: Number order",
+      "prompt": "Fill 176,[ ],178,179,180,181.",
+      "steps": [
+        "Increase by 1; 176 + 1 = 177."
+      ],
+      "answer": "177",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "176 + 1",
+          "expected": "177"
+        }
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Section A: Number order",
+      "prompt": "Fill 18,19,20,21,22,[ ].",
+      "steps": [
+        "Increase by 1; 22 + 1 = 23."
+      ],
+      "answer": "23",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "22 + 1",
+          "expected": "23"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Section A: Number order",
+      "prompt": "Fill [ ],200,300,400,500.",
+      "steps": [
+        "Increase by 100; 200 - 100 = 100."
+      ],
+      "answer": "100",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "200 - 100",
+          "expected": "100"
+        }
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Section A: Number order",
+      "prompt": "Arrange 170, 190, 205, 316, 415 in ascending order.",
+      "steps": [
+        "Compare hundreds, then tens, then ones.",
+        "Select least to greatest."
+      ],
+      "answer": "170, 190, 205, 316, 415",
+      "source_page": 1
+    },
+    {
+      "id": "3(i)",
+      "section": "Section A: Number order",
+      "prompt": "Arrange 187, 191, 170, 100, 122 in descending order.",
+      "steps": [
+        "Compare hundreds, then tens, then ones.",
+        "Select greatest to least."
+      ],
+      "answer": "191, 187, 170, 122, 100",
+      "source_page": 1
+    },
+    {
+      "id": "4(i)",
+      "section": "Section B: Addition and subtraction",
+      "prompt": "Calculate 345+612.",
+      "steps": [
+        "1 place: 5 + 2 = 7; write 7.",
+        "10 place: 4 + 1 = 5; write 5.",
+        "100 place: 3 + 6 = 9; write 9.",
+        "345 + 612 = 957."
+      ],
+      "answer": "957",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "345+612",
+          "expected": "957"
+        },
+        {
+          "expression": "5 + 2",
+          "expected": "7"
+        },
+        {
+          "expression": "4 + 1",
+          "expected": "5"
+        },
+        {
+          "expression": "3 + 6",
+          "expected": "9"
+        },
+        {
+          "expression": "345 + 612",
+          "expected": "957"
+        }
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Section B: Addition and subtraction",
+      "prompt": "Calculate 900-61.",
+      "steps": [
+        "1 place: regroup 1 from the next place; 10 - 1 = 9.",
+        "10 place: regroup 1 from the next place; 9 - 6 = 3.",
+        "100 place: 8 - 0 = 8.",
+        "900 - 61 = 839; check 839 + 61 = 900."
+      ],
+      "answer": "839",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "900-61",
+          "expected": "839"
+        },
+        {
+          "expression": "10 - 1",
+          "expected": "9"
+        },
+        {
+          "expression": "9 - 6",
+          "expected": "3"
+        },
+        {
+          "expression": "8 - 0",
+          "expected": "8"
+        },
+        {
+          "expression": "900 - 61",
+          "expected": "839"
+        },
+        {
+          "expression": "839 + 61",
+          "expected": "900"
+        }
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Section B: Addition and subtraction",
+      "prompt": "Calculate 268+331.",
+      "steps": [
+        "1 place: 8 + 1 = 9; write 9.",
+        "10 place: 6 + 3 = 9; write 9.",
+        "100 place: 2 + 3 = 5; write 5.",
+        "268 + 331 = 599."
+      ],
+      "answer": "599",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "268+331",
+          "expected": "599"
+        },
+        {
+          "expression": "8 + 1",
+          "expected": "9"
+        },
+        {
+          "expression": "6 + 3",
+          "expected": "9"
+        },
+        {
+          "expression": "2 + 3",
+          "expected": "5"
+        },
+        {
+          "expression": "268 + 331",
+          "expected": "599"
+        }
+      ]
+    },
+    {
+      "id": "4(iv)",
+      "section": "Section B: Addition and subtraction",
+      "prompt": "Find the missing addend in 538 + [ ] = 540.",
+      "steps": [
+        "1 place: regroup 1 from the next place; 10 - 8 = 2.",
+        "10 place: 3 - 3 = 0.",
+        "100 place: 5 - 5 = 0.",
+        "540 - 538 = 2; check 2 + 538 = 540."
+      ],
+      "answer": "2",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "540-538",
+          "expected": "2"
+        },
+        {
+          "expression": "10 - 8",
+          "expected": "2"
+        },
+        {
+          "expression": "3 - 3",
+          "expected": "0"
+        },
+        {
+          "expression": "5 - 5",
+          "expected": "0"
+        },
+        {
+          "expression": "540 - 538",
+          "expected": "2"
+        },
+        {
+          "expression": "2 + 538",
+          "expected": "540"
+        }
+      ]
+    },
+    {
+      "id": "4(v)",
+      "section": "Section B: Addition and subtraction",
+      "prompt": "Find the missing number in [ ] - 70 = 60.",
+      "steps": [
+        "1 place: 0 + 0 = 0; write 0.",
+        "10 place: 6 + 7 = 13; write 3, carry 1.",
+        "Write final carry 1 in the next place.",
+        "60 + 70 = 130."
+      ],
+      "answer": "130",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "60+70",
+          "expected": "130"
+        },
+        {
+          "expression": "0 + 0",
+          "expected": "0"
+        },
+        {
+          "expression": "6 + 7",
+          "expected": "13"
+        },
+        {
+          "expression": "60 + 70",
+          "expected": "130"
+        }
+      ]
+    },
+    {
+      "id": "4(vi)",
+      "section": "Section B: Addition and subtraction",
+      "prompt": "Calculate 555-123.",
+      "steps": [
+        "1 place: 5 - 3 = 2.",
+        "10 place: 5 - 2 = 3.",
+        "100 place: 5 - 1 = 4.",
+        "555 - 123 = 432; check 432 + 123 = 555."
+      ],
+      "answer": "432",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "555-123",
+          "expected": "432"
+        },
+        {
+          "expression": "5 - 3",
+          "expected": "2"
+        },
+        {
+          "expression": "5 - 2",
+          "expected": "3"
+        },
+        {
+          "expression": "5 - 1",
+          "expected": "4"
+        },
+        {
+          "expression": "555 - 123",
+          "expected": "432"
+        },
+        {
+          "expression": "432 + 123",
+          "expected": "555"
+        }
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Section C: Word problems",
+      "prompt": "A fisherman catches 135 fish in the morning and 252 in the evening. How many altogether?",
+      "steps": [
+        "1 place: 5 + 2 = 7; write 7.",
+        "10 place: 3 + 5 = 8; write 8.",
+        "100 place: 1 + 2 = 3; write 3.",
+        "135 + 252 = 387."
+      ],
+      "answer": "387 fish",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "135+252",
+          "expected": "387"
+        },
+        {
+          "expression": "5 + 2",
+          "expected": "7"
+        },
+        {
+          "expression": "3 + 5",
+          "expected": "8"
+        },
+        {
+          "expression": "1 + 2",
+          "expected": "3"
+        },
+        {
+          "expression": "135 + 252",
+          "expected": "387"
+        }
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Section C: Word problems",
+      "prompt": "A shop has 52 pencils and sells 35. How many remain?",
+      "steps": [
+        "1 place: regroup 1 from the next place; 12 - 5 = 7.",
+        "10 place: 4 - 3 = 1.",
+        "52 - 35 = 17; check 17 + 35 = 52."
+      ],
+      "answer": "17 pencils",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "52-35",
+          "expected": "17"
+        },
+        {
+          "expression": "12 - 5",
+          "expected": "7"
+        },
+        {
+          "expression": "4 - 3",
+          "expected": "1"
+        },
+        {
+          "expression": "52 - 35",
+          "expected": "17"
+        },
+        {
+          "expression": "17 + 35",
+          "expected": "52"
+        }
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Section C: Word problems",
+      "prompt": "Hens lay 125 eggs; 75 go bad. How many do not go bad?",
+      "steps": [
+        "1 place: 5 - 5 = 0.",
+        "10 place: regroup 1 from the next place; 12 - 7 = 5.",
+        "100 place: 0 - 0 = 0.",
+        "125 - 75 = 50; check 50 + 75 = 125."
+      ],
+      "answer": "50 eggs",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "125-75",
+          "expected": "50"
+        },
+        {
+          "expression": "5 - 5",
+          "expected": "0"
+        },
+        {
+          "expression": "12 - 7",
+          "expected": "5"
+        },
+        {
+          "expression": "0 - 0",
+          "expected": "0"
+        },
+        {
+          "expression": "125 - 75",
+          "expected": "50"
+        },
+        {
+          "expression": "50 + 75",
+          "expected": "125"
+        }
+      ]
+    },
+    {
+      "id": "5(iv)",
+      "section": "Section C: Word problems",
+      "prompt": "Mwandosya has 19 mangoes and gives Allen 10. How many remain?",
+      "steps": [
+        "1 place: 9 - 0 = 9.",
+        "10 place: 1 - 1 = 0.",
+        "19 - 10 = 9; check 9 + 10 = 19."
+      ],
+      "answer": "9 mangoes",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "19-10",
+          "expected": "9"
+        },
+        {
+          "expression": "9 - 0",
+          "expected": "9"
+        },
+        {
+          "expression": "1 - 1",
+          "expected": "0"
+        },
+        {
+          "expression": "19 - 10",
+          "expected": "9"
+        },
+        {
+          "expression": "9 + 10",
+          "expected": "19"
+        }
+      ]
+    },
+    {
+      "id": "5(v)",
+      "section": "Section C: Word problems",
+      "prompt": "Tumaini has 60 books and Mwakatage has 20 books in their cupboards. Total books?",
+      "steps": [
+        "1 place: 0 + 0 = 0; write 0.",
+        "10 place: 6 + 2 = 8; write 8.",
+        "60 + 20 = 80."
+      ],
+      "answer": "80 books",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "60+20",
+          "expected": "80"
+        },
+        {
+          "expression": "0 + 0",
+          "expected": "0"
+        },
+        {
+          "expression": "6 + 2",
+          "expected": "8"
+        },
+        {
+          "expression": "60 + 20",
+          "expected": "80"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Section A: Number order": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Section B: Addition and subtraction": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Section C: Word problems": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - Mbeya Standard Two Regional Assessment Exams February, 2025",
+      "url": "https://darasahuru.ac.tz/mbeya-standard-two-regional-assessment-exams-february-2025/"
+    }
+  ],
+  "limitations": [],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "39c40b792e300147e672ae87c5f5a6fa4fcd798c4de6e0d6330e0618be9818fd"
+}

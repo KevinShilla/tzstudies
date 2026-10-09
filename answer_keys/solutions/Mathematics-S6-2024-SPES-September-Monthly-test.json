@@ -1,0 +1,771 @@
+{
+  "exam": "Mathematics-S6-2024-SPES-September-Monthly-test.pdf",
+  "output": "Mathematics-S6-2024-SPES-September-Monthly-test-AnswerKey.pdf",
+  "sha256": "91a7614182ad132076ee61f0f89ba041bb929e1f1fbf22b1061419445bdbf24f",
+  "subject": "Mathematics",
+  "level": "Standard Six",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "SPES",
+  "exam_type": "Monthly test - September",
+  "question_count": "33 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(ix)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "7(i)",
+    "7(ii)",
+    "8(i)",
+    "8(ii)",
+    "8(iii)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Calculations",
+      "prompt": "Add 489685 + 19867.",
+      "steps": [
+        "1 place: 5 + 7 = 12; write 2, carry 1.",
+        "10 place: 8 + 6 + carry 1 = 15; write 5, carry 1.",
+        "100 place: 6 + 8 + carry 1 = 15; write 5, carry 1.",
+        "1000 place: 9 + 9 + carry 1 = 19; write 9, carry 1.",
+        "10000 place: 8 + 1 + carry 1 = 10; write 0, carry 1.",
+        "100000 place: 4 + 0 + carry 1 = 5; write 5.",
+        "489685 + 19867 = 509552."
+      ],
+      "answer": "509552",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "489685+19867",
+          "expected": "509552"
+        },
+        {
+          "expression": "5 + 7",
+          "expected": "12"
+        },
+        {
+          "expression": "489685 + 19867",
+          "expected": "509552"
+        }
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Calculations",
+      "prompt": "Subtract 700505 - 386785.",
+      "steps": [
+        "1 place: 5 - 5 = 0.",
+        "10 place: regroup 1 from the next place; 10 - 8 = 2.",
+        "100 place: regroup 1 from the next place; 14 - 7 = 7.",
+        "1000 place: regroup 1 from the next place; 9 - 6 = 3.",
+        "10000 place: regroup 1 from the next place; 9 - 8 = 1.",
+        "100000 place: 6 - 3 = 3.",
+        "700505 - 386785 = 313720; check 313720 + 386785 = 700505."
+      ],
+      "answer": "313720",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "700505-386785",
+          "expected": "313720"
+        },
+        {
+          "expression": "5 - 5",
+          "expected": "0"
+        },
+        {
+          "expression": "10 - 8",
+          "expected": "2"
+        },
+        {
+          "expression": "14 - 7",
+          "expected": "7"
+        },
+        {
+          "expression": "9 - 6",
+          "expected": "3"
+        },
+        {
+          "expression": "9 - 8",
+          "expected": "1"
+        },
+        {
+          "expression": "6 - 3",
+          "expected": "3"
+        },
+        {
+          "expression": "700505 - 386785",
+          "expected": "313720"
+        },
+        {
+          "expression": "313720 + 386785",
+          "expected": "700505"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Calculations",
+      "prompt": "Multiply 455 x 38.",
+      "steps": [
+        "Split into place values: 400 x 38 = 15200; 50 x 38 = 1900; 5 x 38 = 190.",
+        "Add the partial products: 17290."
+      ],
+      "answer": "17290",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "455*38",
+          "expected": "17290"
+        },
+        {
+          "expression": "400*38",
+          "expected": "15200"
+        },
+        {
+          "expression": "50*38",
+          "expected": "1900"
+        },
+        {
+          "expression": "5*38",
+          "expected": "190"
+        }
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Calculations",
+      "prompt": "Divide 6561 by 81.",
+      "steps": [
+        "656 / 81: write 8; 8 x 81 = 648; 656 - 648 = 8.",
+        "81 / 81: write 1; 1 x 81 = 81; 81 - 81 = 0.",
+        "81 x 81 = 6561.",
+        "6561 / 81 = 81."
+      ],
+      "answer": "81",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "6561/81",
+          "expected": "81"
+        },
+        {
+          "expression": "8*81",
+          "expected": "648"
+        },
+        {
+          "expression": "656 - 648",
+          "expected": "8"
+        },
+        {
+          "expression": "1*81",
+          "expected": "81"
+        },
+        {
+          "expression": "81 - 81",
+          "expected": "0"
+        },
+        {
+          "expression": "81*81",
+          "expected": "6561"
+        },
+        {
+          "expression": "6561 / 81",
+          "expected": "81"
+        }
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Mathematics",
+      "prompt": "Divide 5.5 by 0.05.",
+      "steps": [
+        "Multiply both numbers by 100: 550/5.",
+        "550 / 5 = 110."
+      ],
+      "answer": "110",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "5.5/0.05",
+          "expected": "110"
+        },
+        {
+          "expression": "550 / 5",
+          "expected": "110"
+        }
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Mathematics",
+      "prompt": "Add 1 1/5 + 6 1/4.",
+      "steps": [
+        "6/5 = 24/20; 25/4 = 125/20.",
+        "24 + 125 = 149; 149/20 = 7 9/20."
+      ],
+      "answer": "7 9/20",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "1+1/5+6+1/4",
+          "expected": "149/20"
+        },
+        {
+          "expression": "6/5",
+          "expected": "6/5"
+        },
+        {
+          "expression": "25/4",
+          "expected": "25/4"
+        },
+        {
+          "expression": "24 + 125",
+          "expected": "149"
+        }
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Mathematics",
+      "prompt": "Subtract 8 1/4 - 3 5/6.",
+      "steps": [
+        "33/4 = 99/12; 23/6 = 46/12.",
+        "99 - 46 = 53; 53/12 = 4 5/12."
+      ],
+      "answer": "4 5/12",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "(8+1/4)-(3+5/6)",
+          "expected": "53/12"
+        },
+        {
+          "expression": "33/4",
+          "expected": "33/4"
+        },
+        {
+          "expression": "23/6",
+          "expected": "23/6"
+        },
+        {
+          "expression": "99 - 46",
+          "expected": "53"
+        }
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Mathematics",
+      "prompt": "Subtract 15 - 3 3/5.",
+      "steps": [
+        "15 = 75/5; 3 3/5 = 18/5.",
+        "75 - 18 = 57; 57/5 = 11 2/5."
+      ],
+      "answer": "11 2/5",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "15-(3+3/5)",
+          "expected": "57/5"
+        },
+        {
+          "expression": "75 - 18",
+          "expected": "57"
+        }
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Mathematics",
+      "prompt": "Add 50.05 + 1.85.",
+      "steps": [
+        "Hundredths: 5 + 5 = 10; write 0 and carry 1.",
+        "Tenths: 0 + 8 + 1 = 9; whole-number part: 50 + 1 = 51."
+      ],
+      "answer": "51.90",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "50.05+1.85",
+          "expected": "519/10"
+        },
+        {
+          "expression": "5+5",
+          "expected": "10"
+        },
+        {
+          "expression": "0+8+1",
+          "expected": "9"
+        },
+        {
+          "expression": "50+1",
+          "expected": "51"
+        }
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Mathematics",
+      "prompt": "Multiply -65 x +35.",
+      "steps": [
+        "The product of numbers with opposite signs is negative.",
+        "65 x 35 = 2275."
+      ],
+      "answer": "-2275",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "(-65)*35",
+          "expected": "-2275"
+        },
+        {
+          "expression": "65*35",
+          "expected": "2275"
+        }
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Mathematics",
+      "prompt": "Write nine hundred fifty-six million three hundred twenty-three thousand and three in numerals.",
+      "steps": [
+        "956000000 + 323000 + 3 = 956323003."
+      ],
+      "answer": "956323003",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "956000000 + 323000 + 3",
+          "expected": "956323003"
+        }
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Mathematics",
+      "prompt": "Write 8050050 in words.",
+      "steps": [
+        "8050050 = 8000000 + 50000 + 50."
+      ],
+      "answer": "Eight million fifty thousand and fifty",
+      "source_page": 3
+    },
+    {
+      "id": "2(iii)",
+      "section": "Mathematics",
+      "prompt": "Convert 0.85 to a percentage.",
+      "steps": [
+        "0.85 x 100 = 85."
+      ],
+      "answer": "85%",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "0.85*100",
+          "expected": "85"
+        }
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Mathematics",
+      "prompt": "Write MMDXC in Arabic numerals.",
+      "steps": [
+        "MM = 2000; D = 500; XC = 90.",
+        "2000 + 500 + 90 = 2590."
+      ],
+      "answer": "2590",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "2000 + 500 + 90",
+          "expected": "2590"
+        }
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Mathematics",
+      "prompt": "Round 50.956 to 2 decimal places.",
+      "steps": [
+        "The third decimal digit is 6, which is at least 5; raise the hundredths digit from 5 to 6."
+      ],
+      "answer": "50.96",
+      "source_page": 3
+    },
+    {
+      "id": "2(vi)",
+      "section": "Mathematics",
+      "prompt": "Find the square root of 1024.",
+      "steps": [
+        "32 x 32 = 1024."
+      ],
+      "answer": "32",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "32*32",
+          "expected": "1024"
+        }
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Mathematics",
+      "prompt": "Janeth walks 3.62 km and 0.241 km. Find the total distance.",
+      "steps": [
+        "Align decimal places: 3.620 + 0.241.",
+        "Thousandths: 0 + 1 = 1; hundredths: 2 + 4 = 6; tenths: 6 + 2 = 8; whole-number part: 3 + 0 = 3."
+      ],
+      "answer": "3.861 km",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "3.62+0.241",
+          "expected": "3861/1000"
+        },
+        {
+          "expression": "0+1",
+          "expected": "1"
+        },
+        {
+          "expression": "2+4",
+          "expected": "6"
+        },
+        {
+          "expression": "6+2",
+          "expected": "8"
+        },
+        {
+          "expression": "3+0",
+          "expected": "3"
+        }
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Mathematics",
+      "prompt": "Find the HCF of 14, 20 and 32.",
+      "steps": [
+        "14 = 2 x 7; 20 = 2² x 5; 32 = 2⁵.",
+        "The only shared prime factor is 2."
+      ],
+      "answer": "2",
+      "source_page": 4
+    },
+    {
+      "id": "3(iii)",
+      "section": "Mathematics",
+      "prompt": "Which is largest: 0.25, 12%, 2/5 or -1000?",
+      "steps": [
+        "Convert to decimals: 0.25, 0.12, 0.4, -1000.",
+        "0.4 is the greatest."
+      ],
+      "answer": "2/5",
+      "source_page": 4
+    },
+    {
+      "id": "4(i)",
+      "section": "Mathematics",
+      "prompt": "Convert 2500 ml to litres in decimal form.",
+      "steps": [
+        "2500 / 1000 = 2.5."
+      ],
+      "answer": "2.5 L",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "2500 / 1000",
+          "expected": "5/2"
+        }
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Mathematics",
+      "prompt": "Given that Mwinyi was born in 1926 and died in 2024, write the difference between the years in Roman numerals.",
+      "steps": [
+        "2024 - 1926 = 98.",
+        "90 = XC; 8 = VIII."
+      ],
+      "answer": "XCVIII (98 years from the printed years)",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "2024 - 1926",
+          "expected": "98"
+        }
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Mathematics",
+      "prompt": "List all even numbers strictly between 18 and 26.",
+      "steps": [
+        "20, 22, 24.",
+        "Include 18 and 26 only if inclusive endpoints are intended."
+      ],
+      "answer": "20, 22, 24",
+      "source_page": 4
+    },
+    {
+      "id": "5(i)",
+      "section": "Mathematics",
+      "prompt": "Solve 4 p - 7 = 2 p - 11.",
+      "steps": [
+        "Subtract 2 p from both sides: 2 p - 7 = -11.",
+        "Add 7 to both sides: 2 p = -4.",
+        "p = -2; check: -8 - 7 = -4 - 11 = -15."
+      ],
+      "answer": "p = -2",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "(-11+7)/2",
+          "expected": "-2"
+        }
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Mathematics",
+      "prompt": "Find the mean attendance for 105, 125, 145, 140 and 135 pupils.",
+      "steps": [
+        "105 + 125 + 145 + 140 + 135 = 650.",
+        "650 / 5 = 130."
+      ],
+      "answer": "130 pupils",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "105+125+145+140+135",
+          "expected": "650"
+        },
+        {
+          "expression": "650 / 5",
+          "expected": "130"
+        }
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Mathematics",
+      "prompt": "Form a number with 6 tens, 1 hundredth and 0 thousandths.",
+      "steps": [
+        "Other unspecified places are taken as 0.",
+        "60 + 0.01 + 0 = 60.01."
+      ],
+      "answer": "60.010 (the same as 60.01, assuming other places are 0).",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "60 + 0.01 + 0",
+          "expected": "6001/100"
+        }
+      ]
+    },
+    {
+      "id": "6(i)",
+      "section": "Mathematics",
+      "prompt": "List the positive common multiples of 4 and 6 below 30.",
+      "steps": [
+        "The LCM of 4 and 6 is 12.",
+        "The positive multiples 12 and 24 are below 30; 36 is not."
+      ],
+      "answer": "12, 24 (also 0 if a nonpositive starting multiple is permitted).",
+      "source_page": 4
+    },
+    {
+      "id": "6(ii)",
+      "section": "Mathematics",
+      "prompt": "My brother is 3 years older than me and our ages total 37 years. Find my age.",
+      "steps": [
+        "Let my age be a, so my brother's age is a + 3.",
+        "2 a + 3 = 37, so 2 a = 34.",
+        "34 / 2 = 17."
+      ],
+      "answer": "17 years",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "34 / 2",
+          "expected": "17"
+        }
+      ]
+    },
+    {
+      "id": "6(iii)",
+      "section": "Mathematics",
+      "prompt": "Which number is both even and prime?",
+      "steps": [
+        "2 has exactly the factors 1 and 2."
+      ],
+      "answer": "2",
+      "source_page": 5
+    },
+    {
+      "id": "7(i)",
+      "section": "Mathematics",
+      "prompt": "The masses of Tulinagwe, Doreen, Kelvin, Derrick and Bakari are 14, 15, 17, 15 and 19 kg respectively. Find their mean mass.",
+      "steps": [
+        "14 + 15 + 17 + 15 + 19 = 80.",
+        "80 / 5 = 16."
+      ],
+      "answer": "16 kg",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "14 + 15 + 17 + 15 + 19",
+          "expected": "80"
+        },
+        {
+          "expression": "80 / 5",
+          "expected": "16"
+        }
+      ]
+    },
+    {
+      "id": "7(ii)",
+      "section": "Mathematics",
+      "prompt": "Zakayo shares Sh 48000 using a pie chart: Timoth has 110°, Tausi 100° and Onesmo the remaining sector. Find Onesmo's amount.",
+      "steps": [
+        "360 - 110 - 100 = 150°.",
+        "48000 x 150 / 360 = 20000."
+      ],
+      "answer": "Sh 20000",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "360 - 110 - 100",
+          "expected": "150"
+        },
+        {
+          "expression": "48000*150 / 360",
+          "expected": "20000"
+        }
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Mathematics",
+      "prompt": "A parallelogram has points A(-3, 1), B(-1, -2), C(4, 1) and D(6, M). Find M.",
+      "steps": [
+        "If ABCD must be the cyclic order, diagonal AC has midpoint x = (-3 + 4)/2 = 0.5, while BD has midpoint x = (-1 + 6)/2 = 2.5. This is impossible.",
+        "As an unordered set, the order A, B, D, C works: A and C share y = 1, while B and D share y = -2.",
+        "Then M = -2, and the AB vector (2, -3) equals the CD vector (2, -3)."
+      ],
+      "answer": "M = -2 if the vertices are unordered (order ABDC); there is no solution for cyclic order ABCD.",
+      "source_page": 6,
+      "math_checks": [
+        {
+          "expression": "(-3+4)/2",
+          "expected": "1/2"
+        },
+        {
+          "expression": "(-1+6)/2",
+          "expected": "5/2"
+        }
+      ]
+    },
+    {
+      "id": "8(ii)",
+      "section": "Mathematics",
+      "prompt": "A cylinder has base area 38.5 m² and height 1000 m. Find its capacity in litres.",
+      "steps": [
+        "Volume = base area x height.",
+        "38.5 x 1000 = 38500 m³.",
+        "1 m³ = 1000 L; 38500 x 1000 = 38500000."
+      ],
+      "answer": "38500000 L",
+      "source_page": 6,
+      "math_checks": [
+        {
+          "expression": "38.5*1000",
+          "expected": "38500"
+        },
+        {
+          "expression": "38500*1000",
+          "expected": "38500000"
+        }
+      ]
+    },
+    {
+      "id": "8(iii)",
+      "section": "Mathematics",
+      "prompt": "A square circumscribes a circle of radius 7 cm. Find the shaded area outside the circle, using pi = 22/7.",
+      "steps": [
+        "The square side equals the circle diameter, 14 cm.",
+        "14 x 14 = 196 cm².",
+        "Circle area = (22/7) x 7 x 7 = 154 cm².",
+        "196 - 154 = 42."
+      ],
+      "answer": "42 cm²",
+      "source_page": 6,
+      "math_checks": [
+        {
+          "expression": "14**2-(22/7)*7**2",
+          "expected": "42"
+        },
+        {
+          "expression": "14*14",
+          "expected": "196"
+        },
+        {
+          "expression": "(22/7)*7*7",
+          "expected": "154"
+        },
+        {
+          "expression": "196 - 154",
+          "expected": "42"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Mathematics": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - SPES Standard Six (VI) Monthly Exams September 2024",
+      "url": "https://darasahuru.ac.tz/spes-standard-six-vi-monthly-exams-september-2024/"
+    }
+  ],
+  "limitations": [
+    "4(ii) uses the difference between the given years; birth and death dates are not provided.",
+    "5(iii) takes unspecified places as 0.",
+    "8(i) cannot be a parallelogram in cyclic order ABCD; unordered vertices allow M = -2 in order ABDC.",
+    "8(ii) prints very large values with units m² and m; those values are used literally."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "3b6d1d2e5d5c36d7e46d2cbbc4a169c54d4f025c9c5db8c64354bfa8f8e7db5f"
+}

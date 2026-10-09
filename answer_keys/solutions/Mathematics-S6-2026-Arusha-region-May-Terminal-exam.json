@@ -1,0 +1,657 @@
+{
+  "exam": "Mathematics-S6-2026-Arusha-region-May-Terminal-exam.pdf",
+  "output": "Mathematics-S6-2026-Arusha-region-May-Terminal-exam-AnswerKey.pdf",
+  "sha256": "1f311dbf2329d1ce2f938a938d30e9e60668302d17b963594402d1b5b4e21395",
+  "subject": "Mathematics",
+  "level": "Standard Six",
+  "year": "2026",
+  "code": "Not printed in source",
+  "board": "Arusha region",
+  "exam_type": "Terminal exam - May",
+  "question_count": "33 numbered questions/subparts (8 main questions)",
+  "language": "en",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(ix)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "7(i)(a)",
+    "7(i)(b)",
+    "8(i)",
+    "8(ii)",
+    "8(iii)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate 9637 + 64387.",
+      "steps": [
+        "1 place: 7 + 7 = 14; write 4, carry 1.",
+        "10 place: 3 + 8 + carry 1 = 12; write 2, carry 1.",
+        "100 place: 6 + 3 + carry 1 = 10; write 0, carry 1.",
+        "1000 place: 9 + 4 + carry 1 = 14; write 4, carry 1.",
+        "10000 place: 0 + 6 + carry 1 = 7; write 7.",
+        "9637 + 64387 = 74024."
+      ],
+      "answer": "74024",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "9637+64387",
+          "expected": "74024"
+        }
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate 14938 - 8750.",
+      "steps": [
+        "1 place: 8 - 0 = 8.",
+        "10 place: regroup 1 from the next place; 13 - 5 = 8.",
+        "100 place: 8 - 7 = 1.",
+        "1000 place: regroup 1 from the next place; 14 - 8 = 6.",
+        "10000 place: 0 - 0 = 0.",
+        "14938 - 8750 = 6188; check 6188 + 8750 = 14938."
+      ],
+      "answer": "6188",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "14938-8750",
+          "expected": "6188"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate 118 x 34.",
+      "steps": [
+        "Split into place values: 100 x 34 = 3400; 10 x 34 = 340; 8 x 34 = 272.",
+        "Add the partial products: 4012."
+      ],
+      "answer": "4012",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "118*34",
+          "expected": "4012"
+        }
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate 1500 / 250.",
+      "steps": [
+        "1500 / 250: write 6; 6 x 250 = 1500; 1500 - 1500 = 0.",
+        "250 x 6 = 1500.",
+        "1500 / 250 = 6."
+      ],
+      "answer": "6",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "1500/250",
+          "expected": "6"
+        }
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate 9 1/6 - 8 2/3.",
+      "steps": [
+        "9 1/6 = 55/6 and 8 2/3 = 26/3 = 52/6.",
+        "55/6 - 52/6 = 3/6 = 1/2."
+      ],
+      "answer": "1/2",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "(9+1/6)-(8+2/3)",
+          "expected": "1/2"
+        }
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate 2 3/5 + 1 2/3.",
+      "steps": [
+        "2 3/5 = 13/5 and 1 2/3 = 5/3.",
+        "Use denominator 15: 13/5 = 39/15 and 5/3 = 25/15.",
+        "39/15 + 25/15 = 64/15 = 4 4/15."
+      ],
+      "answer": "4 4/15",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "2+3/5+1+2/3",
+          "expected": "64/15"
+        }
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate -(44) - (-15).",
+      "steps": [
+        "Subtracting a negative number means adding the corresponding positive number.",
+        "-44 - (-15) = -44 + 15 = -29."
+      ],
+      "answer": "-29",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "-44-(-15)",
+          "expected": "-29"
+        }
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate 0.045 x 0.03.",
+      "steps": [
+        "Without the decimal points, 45 x 3 = 135.",
+        "There are 3 + 2 = 5 decimal places in the factors.",
+        "Restore five decimal places: 0.00135."
+      ],
+      "answer": "0.00135",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "0.045*0.03",
+          "expected": "27/20000"
+        }
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate 3.86 + 17.9.",
+      "steps": [
+        "Write 17.9 as 17.90 and align the decimal points.",
+        "Hundredths: 6 + 0 = 6; tenths: 8 + 9 = 17, write 7 and carry 1 to the units.",
+        "Whole-number part: 3 + 17 + 1 = 21.",
+        "3.86 + 17.90 = 21.76."
+      ],
+      "answer": "21.76",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "3.86+17.9",
+          "expected": "544/25"
+        }
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate 1 1/2 / 2 1/3.",
+      "steps": [
+        "Convert mixed numbers: 1 1/2 = 3/2 and 2 1/3 = 7/3.",
+        "Divide by multiplying by the reciprocal: (3/2) x (3/7).",
+        "3 x 3 = 9 and 2 x 7 = 14, giving 9/14."
+      ],
+      "answer": "9/14",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "(1+1/2)/(2+1/3)",
+          "expected": "9/14"
+        }
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Section B: Word problems",
+      "prompt": "Convert 1.09 into a percentage.",
+      "steps": [
+        "Multiply by 100 to express the number per hundred.",
+        "1.09 x 100 = 109."
+      ],
+      "answer": "109%",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "1.09*100",
+          "expected": "109"
+        }
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Section B: Word problems",
+      "prompt": "List all odd numbers between 70 and 80 that are also square numbers.",
+      "steps": [
+        "The consecutive nearby integer squares are 8² = 64 and 9² = 81.",
+        "No integer square lies between 70 and 80, so no odd square qualifies."
+      ],
+      "answer": "None",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "8**2",
+          "expected": "64"
+        },
+        {
+          "expression": "9**2",
+          "expected": "81"
+        }
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Section B: Word problems",
+      "prompt": "Write the smallest number formed from the digits 6, 4, 9, 0, 2, 7.",
+      "steps": [
+        "Using the listed digits once each, choose the smallest nonzero digit 2 first.",
+        "Arrange the remaining digits in ascending order: 0, 4, 6, 7, 9.",
+        "The number is 204679."
+      ],
+      "answer": "204679",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Section B: Word problems",
+      "prompt": "Gwakisa was 10 years old when Tanganyika became independent in 1961. Find his age in the paper year 2026 and write it in Roman numerals.",
+      "steps": [
+        "Years elapsed = 2026 - 1961 = 65.",
+        "Age = 10 + 65 = 75 years.",
+        "75 = 50 + 20 + 5 = L + XX + V = LXXV."
+      ],
+      "answer": "LXXV (75 years)",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2026-1961+10",
+          "expected": "75"
+        }
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Section B: Word problems",
+      "prompt": "A football match began at 1830 hours. Write this time in the 12-hour format.",
+      "steps": [
+        "18 is greater than 12, so subtract 12: 18 - 12 = 6.",
+        "Keep the 30 minutes and write p.m."
+      ],
+      "answer": "6:30 p.m.",
+      "source_page": 2
+    },
+    {
+      "id": "2(vi)",
+      "section": "Section B: Word problems",
+      "prompt": "Write MCDXLIX in Arabic numerals.",
+      "steps": [
+        "M = 1000; CD = 400; XL = 40; IX = 9.",
+        "1000 + 400 + 40 + 9 = 1449."
+      ],
+      "answer": "1449",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "1000+400+40+9",
+          "expected": "1449"
+        }
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Section B: Word problems",
+      "prompt": "Write the missing number: 2, 3, 5, 7, __.",
+      "steps": [
+        "The listed numbers are consecutive prime numbers.",
+        "8, 9 and 10 are composite; the next prime after 7 is 11."
+      ],
+      "answer": "11",
+      "source_page": 2
+    },
+    {
+      "id": "3(ii)",
+      "section": "Section B: Word problems",
+      "prompt": "Consolatha's car has mass 1500.008 kg. Round the mass to two decimal places.",
+      "steps": [
+        "The hundredths digit is 0; the next digit, in the thousandths place, is 8.",
+        "Since 8 is at least 5, raise the hundredths digit to 1."
+      ],
+      "answer": "1500.01 kg",
+      "source_page": 3
+    },
+    {
+      "id": "3(iii)",
+      "section": "Section B: Word problems",
+      "prompt": "Find the LCM of 24, 28 and 50.",
+      "steps": [
+        "24 = 2³ x 3; 28 = 2² x 7; 50 = 2 x 5².",
+        "Use the largest power of each prime factor: LCM = 2³ x 3 x 7 x 5².",
+        "8 x 3 x 7 x 25 = 4200."
+      ],
+      "answer": "4200",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "2**3*3*7*5**2",
+          "expected": "4200"
+        }
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Section B: Word problems",
+      "prompt": "12 people cultivate a farm in 4 days. Four more people of equal ability join. How long will the same work take?",
+      "steps": [
+        "Total work = 12 x 4 = 48 person-days.",
+        "New number of workers = 12 + 4 = 16.",
+        "New time = 48/16 = 3 days."
+      ],
+      "answer": "3 days",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "12*4/(12+4)",
+          "expected": "3"
+        }
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Section B: Word problems",
+      "prompt": "Simplify (mn - n)/(n - mn).",
+      "steps": [
+        "Factor the numerator: mn - n = n(m - 1).",
+        "Factor the denominator: n - mn = n(1 - m) = -n(m - 1).",
+        "Cancel the common nonzero factor n(m - 1); the result is -1.",
+        "The original expression is defined only when n is nonzero and m is not 1."
+      ],
+      "answer": "-1, provided n ≠ 0 and m ≠ 1.",
+      "source_page": 3
+    },
+    {
+      "id": "4(iii)",
+      "section": "Section B: Word problems",
+      "prompt": "How many 1/4 are there in 40?",
+      "steps": [
+        "Number of quarters = 40/(1/4).",
+        "Divide by a fraction by multiplying by its reciprocal: 40 x 4 = 160."
+      ],
+      "answer": "160",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "40/(1/4)",
+          "expected": "160"
+        }
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Section B: Word problems",
+      "prompt": "Eight players share money and each receives Sh 42000. If three leave, how much would each remaining player receive from the same total?",
+      "steps": [
+        "Total money = 8 x 42000 = Sh 336000.",
+        "Remaining players = 8 - 3 = 5.",
+        "Each receives 336000/5 = Sh 67200."
+      ],
+      "answer": "Sh 67200 per player",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "8*42000/(8-3)",
+          "expected": "67200"
+        }
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Section B: Word problems",
+      "prompt": "8 kg of coffee costs Sh 19200. Find the cost of 6 kg of the same coffee.",
+      "steps": [
+        "Cost per kilogram = 19200/8 = Sh 2400.",
+        "Cost of 6 kg = 2400 x 6 = Sh 14400."
+      ],
+      "answer": "Sh 14400",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "19200/8*6",
+          "expected": "14400"
+        }
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Section B: Word problems",
+      "prompt": "Masharubu buys 6 kg of meat at Sh 1200 per kg, 6 soap bars at Sh 440 each and 4 kg of sugar at Sh 600 per kg. Find the total bill.",
+      "steps": [
+        "Meat: 6 x 1200 = Sh 7200.",
+        "Soap: 6 x 440 = Sh 2640.",
+        "Sugar: 4 x 600 = Sh 2400.",
+        "Total = 7200 + 2640 + 2400 = Sh 12240."
+      ],
+      "answer": "Sh 12240",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "6*1200+6*440+4*600",
+          "expected": "12240"
+        }
+      ]
+    },
+    {
+      "id": "6(i)",
+      "section": "Section B: Word problems",
+      "prompt": "Martha is 3 years older than Semen. Their ages total 37 years. Find Martha's age.",
+      "steps": [
+        "Let Semen's age be a years, so Martha's age is a + 3.",
+        "a + (a + 3) = 37, so 2 a = 37 - 3 = 34.",
+        "a = 34/2 = 17; Martha is 17 + 3 = 20.",
+        "Check: 17 + 20 = 37 and 20 - 17 = 3."
+      ],
+      "answer": "20 years",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "(37-3)/2+3",
+          "expected": "20"
+        }
+      ]
+    },
+    {
+      "id": "6(ii)",
+      "section": "Section B: Word problems",
+      "prompt": "Divide 8 hours 03 minutes by 7.",
+      "steps": [
+        "Convert the duration to minutes: 8 x 60 + 3 = 483 minutes.",
+        "483/7 = 69 minutes.",
+        "69 minutes = 1 hour 9 minutes."
+      ],
+      "answer": "1 hour 9 minutes",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "8*60+3",
+          "expected": "483"
+        },
+        {
+          "expression": "(8*60+3)/7",
+          "expected": "69"
+        }
+      ]
+    },
+    {
+      "id": "6(iii)",
+      "section": "Section B: Word problems",
+      "prompt": "Find K if 2 K + 8 = 3 K - 12.",
+      "steps": [
+        "Subtract 2 K from both sides: 8 = K - 12.",
+        "Add 12 to both sides: K = 8 + 12 = 20.",
+        "Check: 2 x 20 + 8 = 48 and 3 x 20 - 12 = 48."
+      ],
+      "answer": "K = 20",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "2*20+8",
+          "expected": "48"
+        },
+        {
+          "expression": "3*20-12",
+          "expected": "48"
+        }
+      ]
+    },
+    {
+      "id": "7(i)(a)",
+      "section": "Section C: Geometry and statistics",
+      "prompt": "Mr. Nzunda's salary pie chart shows house rent with a right-angle mark (90°), food 125° and school fees in the remaining sector. Find the percentage spent on house rent.",
+      "steps": [
+        "Rent takes 90° out of 360°.",
+        "Rent fraction = 90/360 = 1/4.",
+        "Percentage = (1/4) x 100 = 25."
+      ],
+      "answer": "25%",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "90/360*100",
+          "expected": "25"
+        }
+      ]
+    },
+    {
+      "id": "7(i)(b)",
+      "section": "Section C: Geometry and statistics",
+      "prompt": "In the same pie chart, Mr. Nzunda spends Sh 2400 on the 90° house-rent sector. Find his total monthly salary.",
+      "steps": [
+        "Rent is 90/360 = 1/4 of the salary.",
+        "The whole salary is therefore 2400 x 4 = Sh 9600.",
+        "Check: 9600 x 1/4 = 2400."
+      ],
+      "answer": "Sh 9600",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "2400/(90/360)",
+          "expected": "9600"
+        }
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Section C: Geometry and statistics",
+      "prompt": "A cylinder is open at both ends, has diameter 14 cm and length 20 cm. Find its surface area.",
+      "steps": [
+        "Open ends have no circular bases, so use only the curved surface.",
+        "Curved area = circumference x length = pi x diameter x length.",
+        "Area = pi x 14 x 20 = 280 pi cm².",
+        "Using pi = 22/7 gives (22/7) x 14 x 20 = 880 cm²."
+      ],
+      "answer": "280 pi cm² (880 cm² using pi = 22/7)",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "(22/7)*14*20",
+          "expected": "880"
+        }
+      ]
+    },
+    {
+      "id": "8(ii)",
+      "section": "Section C: Geometry and statistics",
+      "prompt": "Angles 60°, 3 x and 2 x are adjacent on a straight line. Find x.",
+      "steps": [
+        "Angles on a straight line total 180°: 60 + 3 x + 2 x = 180.",
+        "5 x = 180 - 60 = 120.",
+        "x = 120/5 = 24°.",
+        "Check: 60 + 3 x 24 + 2 x 24 = 180."
+      ],
+      "answer": "x = 24°",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "(180-60)/(3+2)",
+          "expected": "24"
+        },
+        {
+          "expression": "60+3*24+2*24",
+          "expected": "180"
+        }
+      ]
+    },
+    {
+      "id": "8(iii)",
+      "section": "Section C: Geometry and statistics",
+      "prompt": "Mpemba Primary School's cuboid water tank measures 100 cm by 20 cm by 10 cm. Find its full capacity in litres, using 1000 cm³ = 1 litre.",
+      "steps": [
+        "Volume = length x width x height = 100 x 20 x 10 = 20000 cm³.",
+        "Convert to litres: 20000/1000 = 20."
+      ],
+      "answer": "20 litres",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "100*20*10",
+          "expected": "20000"
+        },
+        {
+          "expression": "100*20*10/1000",
+          "expected": "20"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Section A: Mathematical operations": "Align place values and decimal points. Convert mixed numbers to improper fractions; use a common denominator for addition and subtraction and the reciprocal for division.",
+    "Section B: Word problems": "Choose the operation from the question, convert to consistent units, and check the result. LCM uses the highest prime powers; GCF uses only factors shared by all numbers.",
+    "Section C: Geometry and statistics": "Use marked measurements and angles. Circle sectors are fractions of 360°. Right triangles obey a² + b² = c²; cylinder volume is pi x r² x h. Read graph coordinates as (x, y)."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - Arusha Region Standard Six Terminal Exams May 2026",
+      "url": "https://darasahuru.ac.tz/arusha-region-standard-six-terminal-exams-may-2026/"
+    }
+  ],
+  "limitations": [
+    "2(iv) interprets \"now\" as the printed paper year 2026, giving the school arithmetic answer 75 years.",
+    "2(iii) uses each listed digit once, the intended place-value convention.",
+    "8(i) does not specify an approximation for pi; the exact area and common 22/7 result are both given.",
+    "7(i) uses the right-angle mark for the rent sector rather than measuring the schematic drawing."
+  ],
+  "reviewed": true,
+  "review_notes": [
+    "Every source page was visually inspected; OCR was checked against the printed operands, diagram labels and graph scales."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "2520d41dd052b82b83252025bc3ce914b07210f805c3be802a0a86499fbf17c9"
+}

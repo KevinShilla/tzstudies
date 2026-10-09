@@ -1,0 +1,429 @@
+{
+  "exam": "English-S5-2022-Iramba-DC-July-Terminal-exam.pdf",
+  "output": "English-S5-2022-Iramba-DC-July-Terminal-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Five",
+  "year": "2022",
+  "code": "Not printed in source",
+  "board": "Iramba DC",
+  "exam_type": "Terminal exam - July",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "8bf3746fb9c75a31097824f39e0248ce6d5b5eae88a5950dd4674704990384e4",
+  "questions": [
+    {
+      "id": "1",
+      "section": "Language practice",
+      "prompt": "Jamila ___ to school every day. (A go, B goes, C went)",
+      "steps": [
+        "Jamila takes goes for a present habit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Goes.",
+      "source_page": 1
+    },
+    {
+      "id": "2",
+      "section": "Language practice",
+      "prompt": "The boys ___ football every Sunday. (A play, B plays, C playing)",
+      "steps": [
+        "A plural subject takes play.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Play.",
+      "source_page": 1
+    },
+    {
+      "id": "3",
+      "section": "Language practice",
+      "prompt": "Naomi is ___ a letter now. (A writing, B writes, C write)",
+      "steps": [
+        "Is writing forms present continuous.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Writing.",
+      "source_page": 1
+    },
+    {
+      "id": "4",
+      "section": "Language practice",
+      "prompt": "Juma and Sara are ___ for the king now. (A dance, B dancing, C danced)",
+      "steps": [
+        "Are takes an ing verb for the ongoing action.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Dancing.",
+      "source_page": 1
+    },
+    {
+      "id": "5",
+      "section": "Language practice",
+      "prompt": "He ___ late yesterday. (A arrive, B arriving, C arrived)",
+      "steps": [
+        "Yesterday requires past tense.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Arrived.",
+      "source_page": 1
+    },
+    {
+      "id": "6",
+      "section": "Language practice",
+      "prompt": "Where is ___ ball? (A you, B your, C yours)",
+      "steps": [
+        "Use a possessive determiner before ball.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Your.",
+      "source_page": 1
+    },
+    {
+      "id": "7",
+      "section": "Language practice",
+      "prompt": "An elephant is a ___ animal. (A small, B big, C tall)",
+      "steps": [
+        "Big describes its large overall size.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Big is the intended description; tall can also describe an elephant.",
+      "source_page": 1
+    },
+    {
+      "id": "8",
+      "section": "Language practice",
+      "prompt": "The giraffe is the ___ animal. (A smaller, B tallest, C tall)",
+      "steps": [
+        "Use the superlative after the to express greatest height.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Tallest.",
+      "source_page": 1
+    },
+    {
+      "id": "9",
+      "section": "Language practice",
+      "prompt": "All Standard Five pupils ___ doing the examination today. (A will, B are, C were)",
+      "steps": [
+        "Are doing describes an activity happening now; were would describe an earlier activity today.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Are (intended current activity).",
+      "source_page": 1
+    },
+    {
+      "id": "10",
+      "section": "Language practice",
+      "prompt": "The lion is ___ than the zebra. (A tall, B bigger, C shorter)",
+      "steps": [
+        "Than takes a comparative. Actual size depends on the animals and whether height, length or mass is compared.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Shorter is the supplied scheme's intended answer; B. bigger is also a grammatically valid comparison.",
+      "source_page": 1
+    },
+    {
+      "id": "11",
+      "section": "Language practice",
+      "prompt": "The red plate is ___. Bank: some, jumped, teaches, mine, taller, you, found.",
+      "steps": [
+        "Mine is a possessive pronoun standing without a following noun.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Mine.",
+      "source_page": 1
+    },
+    {
+      "id": "12",
+      "section": "Language practice",
+      "prompt": "The monkey is ___ than the hen.",
+      "steps": [
+        "Than requires taller from the bank.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Taller.",
+      "source_page": 1
+    },
+    {
+      "id": "13",
+      "section": "Language practice",
+      "prompt": "A teacher ___ children to sing.",
+      "steps": [
+        "A teacher is singular and takes teaches.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Teaches.",
+      "source_page": 1
+    },
+    {
+      "id": "14",
+      "section": "Language practice",
+      "prompt": "May I have ___ water please?",
+      "steps": [
+        "Some requests an unspecified quantity.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Some.",
+      "source_page": 1
+    },
+    {
+      "id": "15",
+      "section": "Language practice",
+      "prompt": "The monkeys ___ from one tree to another.",
+      "steps": [
+        "Jumped is the supplied action verb in past tense.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Jumped.",
+      "source_page": 1
+    },
+    {
+      "id": "16",
+      "section": "Language practice",
+      "prompt": "Write 1000 in words.",
+      "steps": [
+        "1000 is one group of a thousand.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "One thousand.",
+      "source_page": 1
+    },
+    {
+      "id": "17",
+      "section": "Language practice",
+      "prompt": "Write 2,000,000 in words.",
+      "steps": [
+        "The number has two groups of one million.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Two million.",
+      "source_page": 1
+    },
+    {
+      "id": "18",
+      "section": "Language practice",
+      "prompt": "Write 36 in words.",
+      "steps": [
+        "36 is thirty plus six.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Thirty-six.",
+      "source_page": 1
+    },
+    {
+      "id": "19",
+      "section": "Language practice",
+      "prompt": "Write 49 in words.",
+      "steps": [
+        "49 is forty plus nine.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Forty-nine.",
+      "source_page": 1
+    },
+    {
+      "id": "20",
+      "section": "Language practice",
+      "prompt": "Complete short, ___, shortest.",
+      "steps": [
+        "Add er for the comparative.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Shorter.",
+      "source_page": 1
+    },
+    {
+      "id": "21",
+      "section": "Language practice",
+      "prompt": "Complete ___, longer, longest.",
+      "steps": [
+        "Remove er to recover the positive adjective.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Long.",
+      "source_page": 1
+    },
+    {
+      "id": "22",
+      "section": "Language practice",
+      "prompt": "Complete large, larger, ___.",
+      "steps": [
+        "Add st to large for the superlative.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Largest.",
+      "source_page": 1
+    },
+    {
+      "id": "23",
+      "section": "Language practice",
+      "prompt": "Complete expensive, more expensive, ___.",
+      "steps": [
+        "Use most with the longer adjective.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Most expensive.",
+      "source_page": 1
+    },
+    {
+      "id": "24",
+      "section": "Language practice",
+      "prompt": "Write the opposite of top.",
+      "steps": [
+        "Bottom is the lowest part, opposite top.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Bottom.",
+      "source_page": 1
+    },
+    {
+      "id": "25",
+      "section": "Language practice",
+      "prompt": "Write the opposite of small.",
+      "steps": [
+        "Big contrasts with small in size.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Big/large.",
+      "source_page": 1
+    },
+    {
+      "id": "26",
+      "section": "Language practice",
+      "prompt": "Rajabu is in Standard ___. (A two, B three, C five)",
+      "steps": [
+        "The passage directly states his class.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Five.",
+      "source_page": 1
+    },
+    {
+      "id": "27",
+      "section": "Language practice",
+      "prompt": "Mariam and Asha are in Standard ___. (A three, B four, C one)",
+      "steps": [
+        "The passage states both sisters' class.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Three.",
+      "source_page": 1
+    },
+    {
+      "id": "28",
+      "section": "Language practice",
+      "prompt": "Who speaks English and Kiswahili well? (A Mariam, B Asha, C Rajabu)",
+      "steps": [
+        "The passage identifies Rajabu as speaking both languages well.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Rajabu.",
+      "source_page": 1
+    },
+    {
+      "id": "29",
+      "section": "Language practice",
+      "prompt": "Where is Mawenzi Primary School? (A Dodoma, B Kigoma, C Arusha)",
+      "steps": [
+        "The passage gives this location.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Kigoma.",
+      "source_page": 1
+    },
+    {
+      "id": "30",
+      "section": "Language practice",
+      "prompt": "Who is in Standard One? (A Yusufu, B Rashidi, C Asha)",
+      "steps": [
+        "The option spelling differs slightly from the passage but refers to the brother.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Yusufu/Yusuph.",
+      "source_page": 1
+    },
+    {
+      "id": "31",
+      "section": "Language practice",
+      "prompt": "Write the plural of mango.",
+      "steps": [
+        "Both accepted plural spellings add an ending to mango.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Mangoes (also mangos).",
+      "source_page": 1
+    },
+    {
+      "id": "32",
+      "section": "Language practice",
+      "prompt": "Write the plural of flamingo.",
+      "steps": [
+        "A plural ending is required; the supplied scheme's unchanged flamingo is incorrect.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Flamingos (also flamingoes).",
+      "source_page": 1
+    },
+    {
+      "id": "33",
+      "section": "Language practice",
+      "prompt": "Write the plural of girl.",
+      "steps": [
+        "Add s to the regular noun.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Girls.",
+      "source_page": 1
+    }
+  ],
+  "summaries": {
+    "Language practice": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices."
+  },
+  "references": [
+    {
+      "title": "Mitihani ya Darasa la Tano | 2010 - 2023 | Masomo yote (Monthly, Midterm, Terminal and Annual Exams) - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/mitihani-ya-darasa-la-tano-2010-2023-masomo-yote-monthly-midterm-terminal-and-annual-exams/"
+    }
+  ],
+  "limitations": [
+    "10: Comparison is underspecified; supplied shorter and grammatical bigger require different measures.",
+    "32: Supplied marking scheme gives an incorrect unchanged singular."
+  ],
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33"
+  ],
+  "question_count": "33 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "fdeed029d10672168977554b53e8190e088a472abf5f712a74c20d8fa54ca882"
+}

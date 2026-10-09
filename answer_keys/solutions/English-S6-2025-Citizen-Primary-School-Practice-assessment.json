@@ -1,0 +1,470 @@
+{
+  "exam": "English-S6-2025-Citizen-Primary-School-Practice-assessment.pdf",
+  "output": "English-S6-2025-Citizen-Primary-School-Practice-assessment-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Six",
+  "year": "2025",
+  "code": "02",
+  "board": "Citizen Primary School",
+  "exam_type": "Practice assessment",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "95c16c40f826b5ee71f47e0a6189cdbe16fe91d9e4ae390daf619a1b0b24aef5",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Listening and grammar",
+      "prompt": "What business brings income to many countries? (A terrorism, B industries, C tourism, D trade, E poaching)",
+      "steps": [
+        "The included page 3 script names tourism.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Tourism.",
+      "source_page": 1
+    },
+    {
+      "id": "1(ii)",
+      "section": "Listening and grammar",
+      "prompt": "Which country receives many tourists yearly? (A Kenya, B Tanzania, C Uganda, D Malawi, E Zambia)",
+      "steps": [
+        "The script explicitly names Tanzania.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Tanzania.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iii)",
+      "section": "Listening and grammar",
+      "prompt": "Which is a listed attraction pair? (A food/accommodation, B wildlife/transport, C high mountains/wildlife, D elephants/rivers, E beaches/money)",
+      "steps": [
+        "The script lists wildlife, mountains, beaches, rivers and lakes.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. High mountains and wild animals is the direct general pair. D gives examples within the wider listed wildlife/rivers categories.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iv)",
+      "section": "Listening and grammar",
+      "prompt": "Tourists spend on food and what? (A accommodation, B films, C TV, D radio, E clothes)",
+      "steps": [
+        "The script names food, accommodation and transport.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Accommodation.",
+      "source_page": 1
+    },
+    {
+      "id": "1(v)",
+      "section": "Listening and grammar",
+      "prompt": "Tanzania receives tourists every ___. (A month, B year, C week, D day, E Saturday)",
+      "steps": [
+        "The script says every year.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Year.",
+      "source_page": 1
+    },
+    {
+      "id": "2(i)",
+      "section": "Listening and grammar",
+      "prompt": "Geffi ___ in Tanga for three years. (A has been, B have been living, C has been leaving, D have been leaving, E is been living)",
+      "steps": [
+        "Geffi is singular and has been expresses the continuing period.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Has been.",
+      "source_page": 1
+    },
+    {
+      "id": "2(ii)",
+      "section": "Listening and grammar",
+      "prompt": "They ___ water when visiting the Indian Ocean. (A seen, B see, C sees, D saw, E seed)",
+      "steps": [
+        "A completed past visit uses saw.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Saw.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iii)",
+      "section": "Listening and grammar",
+      "prompt": "Players ___ preparing for the game. (A is, B are, C have, D has, E will)",
+      "steps": [
+        "Plural players takes are plus ing.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Are.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iv)",
+      "section": "Listening and grammar",
+      "prompt": "Lanta ___ been writing for an hour. (A does, B do, C did, D has, E will)",
+      "steps": [
+        "Has been writing is the singular present perfect continuous.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Has.",
+      "source_page": 1
+    },
+    {
+      "id": "2(v)",
+      "section": "Listening and grammar",
+      "prompt": "My nephew ___ for the exam last year. (A will sit, B will seat, C sat, D sited, E seated)",
+      "steps": [
+        "Sat is the past tense of sit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Sat.",
+      "source_page": 1
+    },
+    {
+      "id": "3(i)",
+      "section": "Listening and grammar",
+      "prompt": "Seeds were ___ in November. (sewed, sown)",
+      "steps": [
+        "Sown is the participle for planting seeds; sewed concerns stitching.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Sown.",
+      "source_page": 1
+    },
+    {
+      "id": "3(ii)",
+      "section": "Listening and grammar",
+      "prompt": "Yesterday the tyre ___ on the highway. (burst, busted)",
+      "steps": [
+        "Burst is the standard past form for a tyre suddenly breaking open.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Burst.",
+      "source_page": 1
+    },
+    {
+      "id": "3(iii)",
+      "section": "Listening and grammar",
+      "prompt": "Several hens ___ their eggs under the cellar. (lie, lays)",
+      "steps": [
+        "A plural subject takes lay; lie is intransitive and lays is singular.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "No correct option. Correct: lay their eggs.",
+      "source_page": 1
+    },
+    {
+      "id": "3(iv)",
+      "section": "Listening and grammar",
+      "prompt": "Last month ___ my foot against a chair. (hit, hited)",
+      "steps": [
+        "Hit has unchanged past tense; hited is incorrect.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Hit is the verb answer; the sentence also needs subject I.",
+      "source_page": 1
+    },
+    {
+      "id": "3(v)",
+      "section": "Listening and grammar",
+      "prompt": "The carriage was ___ by six donkeys. (drawn, driven)",
+      "steps": [
+        "Drawn means pulled by the animals.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Drawn.",
+      "source_page": 1
+    },
+    {
+      "id": "4(i)",
+      "section": "Vocabulary",
+      "prompt": "Match virtue: A reliable, B honesty/strong moral principles, C truthful, D good moral quality, E right/wrong principles.",
+      "steps": [
+        "Virtue is a positive moral quality.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. A good moral quality in a person.",
+      "source_page": 2
+    },
+    {
+      "id": "4(ii)",
+      "section": "Vocabulary",
+      "prompt": "Match moral.",
+      "steps": [
+        "Moral concerns right and wrong.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. A principle about right and wrong behaviour.",
+      "source_page": 2
+    },
+    {
+      "id": "4(iii)",
+      "section": "Vocabulary",
+      "prompt": "Match trustworthy.",
+      "steps": [
+        "Trustworthy means reliable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Someone you can trust and rely on.",
+      "source_page": 2
+    },
+    {
+      "id": "4(iv)",
+      "section": "Vocabulary",
+      "prompt": "Match honest.",
+      "steps": [
+        "Honest means telling the truth.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Open and truthful.",
+      "source_page": 2
+    },
+    {
+      "id": "4(v)",
+      "section": "Vocabulary",
+      "prompt": "Match integrity.",
+      "steps": [
+        "Integrity involves consistent moral conduct.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Honesty and strong moral principles.",
+      "source_page": 2
+    },
+    {
+      "id": "5(I)",
+      "section": "Vocabulary",
+      "prompt": "What is a person who sings songs called?",
+      "steps": [
+        "Singer is formed from sing plus er.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A singer.",
+      "source_page": 2
+    },
+    {
+      "id": "5(II)",
+      "section": "Vocabulary",
+      "prompt": "What is a president's official residence called?",
+      "steps": [
+        "In Tanzania the official residence is State House, Ikulu.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "State House/the presidential residence.",
+      "source_page": 2
+    },
+    {
+      "id": "5(III)",
+      "section": "Vocabulary",
+      "prompt": "What is a place where people receive treatment called?",
+      "steps": [
+        "Both provide treatment; hospital is the common intended answer.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A hospital or clinic.",
+      "source_page": 2
+    },
+    {
+      "id": "5(IV)",
+      "section": "Vocabulary",
+      "prompt": "Which class follows Standard Six?",
+      "steps": [
+        "Seven follows six in the stated school sequence.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Standard Seven.",
+      "source_page": 2
+    },
+    {
+      "id": "5(V)",
+      "section": "Vocabulary",
+      "prompt": "Who controls an aircraft's flight?",
+      "steps": [
+        "The pilot operates the aircraft.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A pilot.",
+      "source_page": 2
+    },
+    {
+      "id": "6-Recitation",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following printed poem extract (Stieno is a source typo for Atieno): Atieno washes dishes, / Atieno plucks the chicken, / Atieno gets up early, / Beds her sacks down in the kitchen, / Atieno eight years old, / Atieno yo. / Since she is my sister’s child, / Stieno needs no pay, / While she works my wife can sit, / Sewing every sunny day, / With her earnings I support, / Atieno yo.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Atieno washes dishes, / Atieno plucks the chicken, / Atieno gets up early, / Beds her sacks down in the kitchen, / Atieno eight years old, / Atieno yo. / Since she is my sister’s child, / Stieno needs no pay, / While she works my wife can sit, / Sewing every sunny day, / With her earnings I support, / Atieno yo.",
+      "source_page": 2
+    },
+    {
+      "id": "6(i)",
+      "section": "Poetry and composition",
+      "prompt": "Who speaks in the Atieno extract?",
+      "steps": [
+        "He calls her my sister's child and mentions my wife, supporting the uncle interpretation.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Atieno's uncle, the persona.",
+      "source_page": 2
+    },
+    {
+      "id": "6(ii)",
+      "section": "Poetry and composition",
+      "prompt": "Who is the person described?",
+      "steps": [
+        "Her name is repeated throughout.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Atieno.",
+      "source_page": 2
+    },
+    {
+      "id": "6(iii)",
+      "section": "Poetry and composition",
+      "prompt": "How old is Atieno in this extract?",
+      "steps": [
+        "The first stanza directly gives her age.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Eight years old.",
+      "source_page": 2
+    },
+    {
+      "id": "6(iv)",
+      "section": "Poetry and composition",
+      "prompt": "Where does she sleep?",
+      "steps": [
+        "The line about bedding her sacks down gives this place and bedding.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "On sacks in the kitchen.",
+      "source_page": 2
+    },
+    {
+      "id": "6(v)",
+      "section": "Poetry and composition",
+      "prompt": "What does Atieno yo represent in the poem?",
+      "steps": [
+        "Identify its repeated structural role; the extract does not provide a literal translation of yo.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A refrain: the repeated line at the end of each stanza, keeping attention on Atieno.",
+      "source_page": 2
+    },
+    {
+      "id": "7(i)",
+      "section": "Poetry and composition",
+      "prompt": "Order A-E: Bura signals Ami to stand still and be silent.",
+      "steps": [
+        "The protective gesture follows their fear.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D.",
+      "source_page": 2
+    },
+    {
+      "id": "7(ii)",
+      "section": "Poetry and composition",
+      "prompt": "Order: The lion looks at them then goes away.",
+      "steps": [
+        "The departure ends the encounter.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E.",
+      "source_page": 2
+    },
+    {
+      "id": "7(iii)",
+      "section": "Poetry and composition",
+      "prompt": "Order: Ami and Bura travel together through the forest.",
+      "steps": [
+        "Introduce the travellers and setting.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A.",
+      "source_page": 2
+    },
+    {
+      "id": "7(iv)",
+      "section": "Poetry and composition",
+      "prompt": "Order: Both are terrified and do not know what to do.",
+      "steps": [
+        "Fear follows appearance of the lion.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C.",
+      "source_page": 2
+    },
+    {
+      "id": "7(v)",
+      "section": "Poetry and composition",
+      "prompt": "Order: A huge lion bursts from a nearby bush.",
+      "steps": [
+        "The sudden appearance triggers their reaction.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B.",
+      "source_page": 2
+    }
+  ],
+  "summaries": {
+    "Listening and grammar": "Listen to the supplied teacher text and identify the exact detail asked for. Check spelling and sentence punctuation; missing scripts are explicitly identified.",
+    "Vocabulary": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Oral reading": "Read aloud in the printed order. Pronounce words clearly and pause at punctuation. Teachers assess accuracy and fluency; the printed text is the oral response.",
+    "Poetry and composition": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "CITIZEN Standard Six Set 11 Examinations 2025 Citizen Pre & Primary School",
+      "url": "https://darasahuru.ac.tz/citizen-standard-six-set-11-examinations-2025/"
+    }
+  ],
+  "limitations": [
+    "3(iii): Neither lie nor singular lays fits plural hens; lay is required.",
+    "3(iv): Subject I is missing and hited is an incorrect form.",
+    "6: Stieno in stanza two is a typo for Atieno.",
+    "6(v): Refrain is the literary function; no literal translation of yo is supplied."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(I)",
+    "5(II)",
+    "5(III)",
+    "5(IV)",
+    "5(V)",
+    "6-Recitation",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)",
+    "7(v)"
+  ],
+  "question_count": "36 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "2a55c0cd97a935fbfedaaaed8fe54df6aa1df687f622e97739012f44598e84d9"
+}

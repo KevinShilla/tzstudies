@@ -1,0 +1,338 @@
+{
+  "exam": "English-S3-2024-Arusha-CC-November-Annual-exam.pdf",
+  "output": "English-S3-2024-Arusha-CC-November-Annual-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Three",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "Arusha CC",
+  "exam_type": "Annual exam - November",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "e737d6fdf461e60043a8364676ff54d6ec748282dd9af4f11a27e06ba3aaed99",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation word i.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(ii)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation word ii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iii)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation word iii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iv)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation word iv.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(v)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation word v.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "2(i)",
+      "section": "Language practice",
+      "prompt": "Pendo ___ television every day. (watches, watch)",
+      "steps": [
+        "A singular third-person subject takes watches for a present habit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Watches.",
+      "source_page": 1
+    },
+    {
+      "id": "2(ii)",
+      "section": "Language practice",
+      "prompt": "They ___ homework every evening. (does, do)",
+      "steps": [
+        "They is plural and takes do.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Do.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iii)",
+      "section": "Language practice",
+      "prompt": "The sixth month is ___. (June, July)",
+      "steps": [
+        "January is first; count forward to June as sixth.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "June.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iv)",
+      "section": "Language practice",
+      "prompt": "I am going to a bookshop to buy ___. (rice, books)",
+      "steps": [
+        "A bookshop sells books.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Books.",
+      "source_page": 1
+    },
+    {
+      "id": "2(v)",
+      "section": "Language practice",
+      "prompt": "He ___ playing football now. (is, are)",
+      "steps": [
+        "He takes is in the present continuous.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Is.",
+      "source_page": 1
+    },
+    {
+      "id": "3(i)",
+      "section": "Language practice",
+      "prompt": "Black, yellow, green, brown, red and blue are ___.",
+      "steps": [
+        "All the listed words name colours.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Colours.",
+      "source_page": 1
+    },
+    {
+      "id": "3(ii)",
+      "section": "Language practice",
+      "prompt": "Bees, houseflies, ants, spiders, mosquitoes and cockroaches are ___.",
+      "steps": [
+        "The six-legged animals are insects; a spider has eight legs and does not belong in that category.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Insects is the intended bank answer, but spiders are arachnids, not insects.",
+      "source_page": 1
+    },
+    {
+      "id": "3(iii)",
+      "section": "Language practice",
+      "prompt": "Goat, dog, cow, cat, sheep and donkey are ___.",
+      "steps": [
+        "These animals are commonly kept by people.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Domestic animals.",
+      "source_page": 1
+    },
+    {
+      "id": "3(iv)",
+      "section": "Language practice",
+      "prompt": "Hen, peacock, duck, hawk, ostrich and eagle are ___.",
+      "steps": [
+        "They are feathered birds.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Birds.",
+      "source_page": 1
+    },
+    {
+      "id": "3(v)",
+      "section": "Language practice",
+      "prompt": "Antelope, elephant, lion, zebra, fox and giraffe are ___.",
+      "steps": [
+        "These are normally identified as wildlife.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Wild animals.",
+      "source_page": 1
+    },
+    {
+      "id": "4(i)",
+      "section": "Language practice",
+      "prompt": "Find the odd word: book, pencil, paper, home, ruler.",
+      "steps": [
+        "The others are school writing/reading materials; home is a place.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Home.",
+      "source_page": 1
+    },
+    {
+      "id": "4(ii)",
+      "section": "Language practice",
+      "prompt": "Find the odd word: January, June, Tuesday, July, November.",
+      "steps": [
+        "Tuesday is a day; the others are months.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Tuesday.",
+      "source_page": 1
+    },
+    {
+      "id": "4(iii)",
+      "section": "Language practice",
+      "prompt": "Find the odd word: juice, water, maize, milk, tea.",
+      "steps": [
+        "The others are drinks; maize is a grain.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Maize.",
+      "source_page": 1
+    },
+    {
+      "id": "4(iv)",
+      "section": "Language practice",
+      "prompt": "Find the odd word: mango, banana, orange, tree, apple.",
+      "steps": [
+        "The others name fruits; tree names the whole plant.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Tree.",
+      "source_page": 1
+    },
+    {
+      "id": "4(v)",
+      "section": "Language practice",
+      "prompt": "Find the odd word: shirt, bed, dress, blouse, skirt.",
+      "steps": [
+        "The others are clothes; a bed is furniture.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Bed.",
+      "source_page": 1
+    },
+    {
+      "id": "5(i)",
+      "section": "Language practice",
+      "prompt": "Who is Glory going to visit?",
+      "steps": [
+        "The letter is addressed to Grace, whom Glory plans to visit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Grace.",
+      "source_page": 1
+    },
+    {
+      "id": "5(ii)",
+      "section": "Language practice",
+      "prompt": "When does Glory start annual examinations?",
+      "steps": [
+        "The letter gives this exact starting date.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "15 November 2024.",
+      "source_page": 1
+    },
+    {
+      "id": "5(iii)",
+      "section": "Language practice",
+      "prompt": "When did Glory write her letter?",
+      "steps": [
+        "Read the date in the letter's address block.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "28 October 2024.",
+      "source_page": 1
+    },
+    {
+      "id": "5(iv)",
+      "section": "Language practice",
+      "prompt": "At which school is Glory studying?",
+      "steps": [
+        "Read the writer's school in the heading/address.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Upendo Primary School.",
+      "source_page": 1
+    },
+    {
+      "id": "5(v)",
+      "section": "Language practice",
+      "prompt": "Where will Glory spend the holiday with her friend?",
+      "steps": [
+        "The body says she will spend the holiday in Dodoma.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Dodoma city.",
+      "source_page": 1
+    }
+  ],
+  "summaries": {
+    "Source-limited items": "The required script, picture or other information is missing. Use the stated limitation and obtain the original material before expecting a unique answer.",
+    "Language practice": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices."
+  },
+  "references": [
+    {
+      "title": "ARUSHA CC Standard Three Annual Exams November 2024 - KISWAHILI And ENGLISH MEDIUM",
+      "url": "https://darasahuru.ac.tz/download-arusha-cc-standard-three-annual-exams-november-2024-kiswahili-and-english-medium/"
+    }
+  ],
+  "limitations": [
+    "1(i): The teacher dictation words or audio are not included in this source.",
+    "1(ii): The teacher dictation words or audio are not included in this source.",
+    "1(iii): The teacher dictation words or audio are not included in this source.",
+    "1(iv): The teacher dictation words or audio are not included in this source.",
+    "1(v): The teacher dictation words or audio are not included in this source.",
+    "3(ii): The list incorrectly includes a spider among insects; corrected classification is explained."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)"
+  ],
+  "question_count": "25 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "8254de964d55fb0812b8c7c1e2b0aee535a7a59ae9a181c8e492e3db43b17c74"
+}

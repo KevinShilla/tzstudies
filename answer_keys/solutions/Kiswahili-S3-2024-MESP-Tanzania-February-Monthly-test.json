@@ -1,0 +1,442 @@
+{
+  "exam": "Kiswahili-S3-2024-MESP-Tanzania-February-Monthly-test.pdf",
+  "output": "Kiswahili-S3-2024-MESP-Tanzania-February-Monthly-test-AnswerKey.pdf",
+  "sha256": "b4cbaaeedb28adf8e5d084555e50a4e2dc2edf4cd01b35872aa31525aaaf574d",
+  "subject": "Kiswahili",
+  "level": "Standard Three",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Monthly test - February",
+  "question_count": "Vipengele 33 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "2",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 2.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "3",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 3.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "4",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 4.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "5",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 5.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "6",
+      "section": "Sarufi",
+      "prompt": "Juma lina siku ngapi? a mbili, b saba, c tatu.",
+      "steps": [
+        "Wiki ina siku saba.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Saba.",
+      "source_page": 1
+    },
+    {
+      "id": "7",
+      "section": "Sarufi",
+      "prompt": "Chombo cha kunyoosha mstari? a rula, b lula, c rura, d kitabu.",
+      "steps": [
+        "Tahajia sahihi ni rula.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a - Rula.",
+      "source_page": 1
+    },
+    {
+      "id": "8",
+      "section": "Sarufi",
+      "prompt": "____ ya shule hutuongoza kuingia darasani. a bendi, b gari, c mwalimu, d wimbo.",
+      "steps": [
+        "Kengele hutoa ishara ya kuingia darasani. Mwalimu angehitaji wa shule; bendi ya shule inaweza kuongoza kwa muziki katika hali maalumu, lakini swali halijataja hali hiyo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kengele ya shule ndiyo jibu la kawaida, lakini haimo katika machaguo.",
+      "source_page": 1
+    },
+    {
+      "id": "9",
+      "section": "Sarufi",
+      "prompt": "Kiswahili kina herufi ngapi? a 12, b 5, c 24, d 19.",
+      "steps": [
+        "Alfabeti ya msingi ina herufi 24; q na x hazimo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "c - 24.",
+      "source_page": 2
+    },
+    {
+      "id": "10",
+      "section": "Sarufi",
+      "prompt": "a, e, i, o, u ni nini? a silabi, b irabu, c sentensi, d maneno.",
+      "steps": [
+        "Hizi ni irabu tano.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Irabu.",
+      "source_page": 2
+    },
+    {
+      "id": "11",
+      "section": "Vihusishi",
+      "prompt": "Tumia la, wa au za: Tone ____ maji.",
+      "steps": [
+        "Tone hupatana na la.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "La.",
+      "source_page": 2
+    },
+    {
+      "id": "12",
+      "section": "Vihusishi",
+      "prompt": "Tumia la, wa au za: Zamani ____ kale.",
+      "steps": [
+        "Kauli ni zamani za kale.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Za.",
+      "source_page": 2
+    },
+    {
+      "id": "13",
+      "section": "Vihusishi",
+      "prompt": "Tumia la, wa au za: Mwezi ____ sita.",
+      "steps": [
+        "Mwezi hupatana na wa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Wa.",
+      "source_page": 2
+    },
+    {
+      "id": "14",
+      "section": "Vihusishi",
+      "prompt": "Tumia la, wa au za: Gari ____ shule.",
+      "steps": [
+        "Gari hupatana na la.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "La.",
+      "source_page": 2
+    },
+    {
+      "id": "15",
+      "section": "Silabi",
+      "prompt": "Tenganisha silabi za Baba.",
+      "steps": [
+        "Tamka vipande ba-ba kwa mpangilio.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "ba-ba.",
+      "source_page": 2
+    },
+    {
+      "id": "16",
+      "section": "Silabi",
+      "prompt": "Tenganisha silabi za Nyamaza.",
+      "steps": [
+        "Tamka vipande nya-ma-za kwa mpangilio.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "nya-ma-za.",
+      "source_page": 2
+    },
+    {
+      "id": "17",
+      "section": "Silabi",
+      "prompt": "Tenganisha silabi za Mtangazaji.",
+      "steps": [
+        "Tamka vipande m-ta-nga-za-ji kwa mpangilio.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "m-ta-nga-za-ji.",
+      "source_page": 2
+    },
+    {
+      "id": "18",
+      "section": "Silabi",
+      "prompt": "Tenganisha silabi za Barua.",
+      "steps": [
+        "Tamka vipande ba-ru-a kwa mpangilio.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "ba-ru-a.",
+      "source_page": 2
+    },
+    {
+      "id": "19",
+      "section": "Kutunga",
+      "prompt": "Tunga sentensi kwa Mgonjwa.",
+      "steps": [
+        "Neno mgonjwa linamtaja mtu mwenye ugonjwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Mgonjwa ameenda hospitalini.",
+      "source_page": 2,
+      "tip": "Sentensi nyingine sahihi inakubalika."
+    },
+    {
+      "id": "20",
+      "section": "Kutunga",
+      "prompt": "Tunga sentensi kwa Mboga.",
+      "steps": [
+        "Mboga ni chakula kilichoelezwa katika sentensi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Mama amepika mboga za majani.",
+      "source_page": 2,
+      "tip": "Sentensi nyingine sahihi inakubalika."
+    },
+    {
+      "id": "21",
+      "section": "Kutunga",
+      "prompt": "Tunga sentensi kwa Nywele.",
+      "steps": [
+        "Nywele ndiyo kitu anachosuka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Asha anasuka nywele zake.",
+      "source_page": 3,
+      "tip": "Sentensi nyingine sahihi inakubalika."
+    },
+    {
+      "id": "22",
+      "section": "Wingi",
+      "prompt": "Andika wingi wa Duka.",
+      "steps": [
+        "Badili nomino ya kitu kimoja kuwa vitu vingi: maduka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Maduka.",
+      "source_page": 3
+    },
+    {
+      "id": "23",
+      "section": "Wingi",
+      "prompt": "Andika wingi wa Nyumba.",
+      "steps": [
+        "Badili nomino ya kitu kimoja kuwa vitu vingi: nyumba.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Nyumba.",
+      "source_page": 3
+    },
+    {
+      "id": "24",
+      "section": "Wingi",
+      "prompt": "Andika wingi wa Mwanafunzi.",
+      "steps": [
+        "Badili nomino ya kitu kimoja kuwa vitu vingi: wanafunzi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Wanafunzi.",
+      "source_page": 3
+    },
+    {
+      "id": "25",
+      "section": "Wingi",
+      "prompt": "Andika wingi wa Kiatu.",
+      "steps": [
+        "Badili nomino ya kitu kimoja kuwa vitu vingi: viatu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Viatu.",
+      "source_page": 3
+    },
+    {
+      "id": "26",
+      "section": "Maneno",
+      "prompt": "Andika idadi ya maneno: Daudi anafua nguo za shule.",
+      "steps": [
+        "Hesabu Daudi (1), anafua (2), nguo (3), za (4), shule (5).",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Maneno 5.",
+      "source_page": 3
+    },
+    {
+      "id": "27",
+      "section": "Maneno",
+      "prompt": "Andika idadi ya maneno: Leo ni sikuu yetu.",
+      "steps": [
+        "Hesabu Leo, ni, sikuu, yetu. Chanzo kina tahajia sikuu; huenda kilikusudia sikukuu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Maneno 4.",
+      "source_page": 3
+    },
+    {
+      "id": "28",
+      "section": "Maneno",
+      "prompt": "Andika idadi ya maneno: Mimi ninapika chakula.",
+      "steps": [
+        "Hesabu Mimi, ninapika, chakula.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Maneno 3.",
+      "source_page": 3
+    },
+    {
+      "id": "29",
+      "section": "Alfabeti",
+      "prompt": "Herufi zipi mbili hazipo katika alfabeti ya msingi ya Kiswahili?",
+      "steps": [
+        "Alfabeti ya msingi haitumii q wala x.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Q na X.",
+      "source_page": 3
+    },
+    {
+      "id": "30",
+      "section": "Msamiati",
+      "prompt": "Baba na mama kwa jina moja huitwaje?",
+      "steps": [
+        "Wazazi ni baba na mama.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Wazazi.",
+      "source_page": 3
+    },
+    {
+      "id": "31",
+      "section": "Ufahamu",
+      "prompt": "Kuku alikuwa rafiki wa nani?",
+      "steps": [
+        "Habari inasema kuku na mwewe walikuwa marafiki.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mwewe.",
+      "source_page": 4
+    },
+    {
+      "id": "32",
+      "section": "Ufahamu",
+      "prompt": "Nani alimsukuma mwana mwewe?",
+      "steps": [
+        "Mtoto wa kuku ndiye aliyemsukuma.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mwana kuku.",
+      "source_page": 4
+    },
+    {
+      "id": "33",
+      "section": "Ufahamu",
+      "prompt": "Mwana mwewe aliposukumwa nini kilitokea?",
+      "steps": [
+        "Habari inasema alianguka na kufa palepale.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Alianguka na kufa.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Imla": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Sarufi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Vihusishi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Silabi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kutunga": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Wingi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Maneno": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Alfabeti": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Msamiati": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ufahamu": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "MESP Tanzania Pre To Standard Three Monthly Test - All Subjects February 2024",
+      "url": "https://darasahuru.ac.tz/mesp-tanzania-pre-to-standard-three-monthly-test-all-subjects-february-2024/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "Imla 1-5: sentensi za mwalimu hazipo.",
+    "Swali 8: machaguo hayana kengele ambayo ndiyo kawaida kwa kauli hii; hakuna jibu moja la wazi.",
+    "Swali 27 limeandika sikuu badala ya sikukuu. Idadi ya maneno bado ni 4."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "e458335edc6423286aff3201f8d95ae6918091ac46a04136cf7a81206775f40b"
+}

@@ -1,0 +1,338 @@
+{
+  "exam": "Mathematics-S1-2022-Utu-Live-Primary-School-July-Terminal-exam.pdf",
+  "output": "Mathematics-S1-2022-Utu-Live-Primary-School-July-Terminal-exam-AnswerKey.pdf",
+  "sha256": "28dd0492d3afa322d5fb9c46211c92c53ec69307350e06ce936eccc92cf12a61",
+  "subject": "Mathematics",
+  "level": "Standard One",
+  "year": "2022",
+  "code": "Not printed in source",
+  "board": "Utu-Live Primary School",
+  "exam_type": "Terminal exam - July · Numeracy",
+  "question_count": "22 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)-balls",
+    "2(iii)-fish",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 12,11,[ ],9,8,7,[ ],5.",
+      "steps": [
+        "Decrease by 1 each time.",
+        "After 11 comes 10; after 7 comes 6."
+      ],
+      "answer": "10, 6",
+      "source_page": 2
+    },
+    {
+      "id": "1(ii)",
+      "section": "Numbers and calculations",
+      "prompt": "Circle the larger number in (2,4) and (21,12).",
+      "steps": [
+        "4 is greater than 2.",
+        "21 has 2 tens, while 12 has 1 ten."
+      ],
+      "answer": "4; 21",
+      "source_page": 2
+    },
+    {
+      "id": "1(iii)",
+      "section": "Numbers and calculations",
+      "prompt": "Count the four pictured groups and write the counts in words.",
+      "steps": [
+        "Count each item once.",
+        "Upper shoes 7, lower shoes 6; upper balloons 3, lower balloons 9."
+      ],
+      "answer": "Seven shoes; six shoes; three balloons; nine balloons.",
+      "source_page": 2
+    },
+    {
+      "id": "1(iv)",
+      "section": "Numbers and calculations",
+      "prompt": "Label the two abacus rods by place value.",
+      "steps": [
+        "The right rod is ones.",
+        "The rod to its left is tens, with 4 beads, so the displayed number is 40."
+      ],
+      "answer": "Left: tens; right: ones (40).",
+      "source_page": 2
+    },
+    {
+      "id": "1(v)",
+      "section": "Numbers and calculations",
+      "prompt": "Write thirteen and eighty-one in numerals.",
+      "steps": [
+        "Thirteen = 10 + 3.",
+        "Eighty-one = 80 + 1."
+      ],
+      "answer": "13; 81",
+      "source_page": 2
+    },
+    {
+      "id": "2(i)",
+      "section": "Numbers and calculations",
+      "prompt": "Circle the sign used for addition from -, =, +.",
+      "steps": [
+        "Addition combines quantities.",
+        "Its sign is plus."
+      ],
+      "answer": "+",
+      "source_page": 3
+    },
+    {
+      "id": "2(ii)",
+      "section": "Numbers and calculations",
+      "prompt": "Insert the operation: 51 [ ] 32 = 19.",
+      "steps": [
+        "Test subtraction: 51 - 32 = 19.",
+        "Addition would give 83."
+      ],
+      "answer": "-",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "51-32",
+          "expected": "19"
+        }
+      ]
+    },
+    {
+      "id": "2(iii)-balls",
+      "section": "Numbers and calculations",
+      "prompt": "Find balls in all, balls falling and balls not falling.",
+      "steps": [
+        "Count 6 balls in all; 3 are falling.",
+        "6 - 3 = 3 remain on the table."
+      ],
+      "answer": "6 - 3 = 3 balls.",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "6-3",
+          "expected": "3"
+        }
+      ]
+    },
+    {
+      "id": "2(iii)-fish",
+      "section": "Numbers and calculations",
+      "prompt": "Find fish by the rock, more fish coming and fish in all.",
+      "steps": [
+        "Count 4 fish by the rock and 4 coming.",
+        "4 + 4 = 8."
+      ],
+      "answer": "4 + 4 = 8 fish.",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "4+4",
+          "expected": "8"
+        }
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Numbers and calculations",
+      "prompt": "How many legs do two cows have altogether?",
+      "steps": [
+        "Each cow has 4 legs.",
+        "2 x 4 = 8."
+      ],
+      "answer": "8 legs",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "2*4",
+          "expected": "8"
+        }
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Numbers and calculations",
+      "prompt": "Find the missing number: 45 + [ ] = 71.",
+      "steps": [
+        "71 - 45 = 26.",
+        "Check: 45 + 26 = 71."
+      ],
+      "answer": "26",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "71-45",
+          "expected": "26"
+        },
+        {
+          "expression": "45+26",
+          "expected": "71"
+        }
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Numbers and calculations",
+      "prompt": "Write few or many below the paired pencil and chicken groups.",
+      "steps": [
+        "The pencil groups have 5 and 6, so 5 is fewer.",
+        "The chicken groups have 4 and 2, so 4 is more."
+      ],
+      "answer": "Pencils: few, many. Chickens: many, few.",
+      "source_page": 4
+    },
+    {
+      "id": "3(ii)",
+      "section": "Numbers and calculations",
+      "prompt": "Write a number sentence for the blocks, then their tens-and-ones regrouping.",
+      "steps": [
+        "There are 8 blocks above and 5 below: 8 + 5 = 13.",
+        "Regroup 10 blocks as one ten, leaving 3 ones."
+      ],
+      "answer": "8 + 5 = 13; 10 + 3 = 13.",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "8+5",
+          "expected": "13"
+        },
+        {
+          "expression": "10+3",
+          "expected": "13"
+        }
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Numbers and calculations",
+      "prompt": "Who is fifth in the race: Sipho, Lerato, John, Peter, Ann?",
+      "steps": [
+        "The labels show Lerato second and John third.",
+        "Continue left to right: Peter fourth, Ann fifth."
+      ],
+      "answer": "Ann",
+      "source_page": 4
+    },
+    {
+      "id": "3(iv)",
+      "section": "Numbers and calculations",
+      "prompt": "Put crosses on objects that can roll.",
+      "steps": [
+        "Round balls roll because their surfaces are curved.",
+        "The boxes and brick have flat faces."
+      ],
+      "answer": "Cross the blue ball, tennis ball and basketball.",
+      "source_page": 5
+    },
+    {
+      "id": "3(v)",
+      "section": "Numbers and calculations",
+      "prompt": "Lebo has 5 crayons and Peter has 8. Who has fewer?",
+      "steps": [
+        "Compare the quantities: 5 < 8.",
+        "Lebo has the smaller amount."
+      ],
+      "answer": "Lebo",
+      "source_page": 5
+    },
+    {
+      "id": "4(i)",
+      "section": "Numbers and calculations",
+      "prompt": "State whether the circle and triangle have round or straight boundaries.",
+      "steps": [
+        "The circle has a curved boundary.",
+        "The triangle is bounded by three straight sides."
+      ],
+      "answer": "Circle: round. Triangle: straight.",
+      "source_page": 5
+    },
+    {
+      "id": "4(ii)",
+      "section": "Numbers and calculations",
+      "prompt": "Trace the dotted triangle and circle.",
+      "steps": [
+        "Follow all three straight sides of the triangle.",
+        "Follow the whole curved boundary of the circle and close it."
+      ],
+      "answer": "A complete traced triangle and a complete traced circle.",
+      "source_page": 5
+    },
+    {
+      "id": "4(iii)",
+      "section": "Numbers and calculations",
+      "prompt": "Draw a rectangle.",
+      "steps": [
+        "Draw two parallel horizontal lines.",
+        "Join their ends with two parallel vertical lines, making four right angles."
+      ],
+      "answer": "A closed rectangle with opposite sides equal and four right angles.",
+      "source_page": 5
+    },
+    {
+      "id": "4(iv)",
+      "section": "Numbers and calculations",
+      "prompt": "How many sides do the circle and square have?",
+      "steps": [
+        "A square has four straight sides.",
+        "A circle has no straight sides, but one continuous curved boundary."
+      ],
+      "answer": "Circle: 0 straight sides (1 curved boundary). Square: 4 sides.",
+      "source_page": 6
+    },
+    {
+      "id": "4(v)",
+      "section": "Numbers and calculations",
+      "prompt": "How many angles do the square and circle have?",
+      "steps": [
+        "A square has four corners, each a right angle.",
+        "A circle has no corners."
+      ],
+      "answer": "Square: 4. Circle: 0.",
+      "source_page": 6
+    },
+    {
+      "id": "5",
+      "section": "Numbers and calculations",
+      "prompt": "Count each animal in the picture: cow, zebra, cat, pig and mouse.",
+      "steps": [
+        "Count each animal in the large picture, excluding the small answer-column examples.",
+        "There is 1 cow, 2 zebras, 5 cats, 3 pigs and 3 mice."
+      ],
+      "answer": "Cow 1; zebra 2; cat 5; pig 3; mouse 3.",
+      "source_page": 6
+    }
+  ],
+  "summaries": {
+    "Numbers and calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Msomi Bora - Standard One Exams | 2010 - 2023 | Monthly, Midterm, Terminal and Annual Exams - Download All Subjects - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/standard-one-exams-2010-2023-monthly-midterm-terminal-and-annual-exams-download-all-subjects/"
+    }
+  ],
+  "limitations": [],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "df83e1dc60edb497a3edf90832d1f8c2b728b6b37cb3b76ea544ee4353661b8f"
+}

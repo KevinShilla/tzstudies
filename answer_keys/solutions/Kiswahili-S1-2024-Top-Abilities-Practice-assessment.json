@@ -1,0 +1,401 @@
+{
+  "exam": "Kiswahili-S1-2024-Top-Abilities-Practice-assessment.pdf",
+  "output": "Kiswahili-S1-2024-Top-Abilities-Practice-assessment-AnswerKey.pdf",
+  "sha256": "cd20dbc2fe588752eb2d7882e1160861df46f147ad31b7723a22a265652c072c",
+  "subject": "Kiswahili",
+  "level": "Standard One",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "Top Abilities",
+  "exam_type": "Practice assessment",
+  "question_count": "Vipengele 30 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1(1)",
+    "1(2)",
+    "1(3)",
+    "1(4)",
+    "1(5)",
+    "2(1)",
+    "2(2)",
+    "2(3)",
+    "2(4)",
+    "2(5)",
+    "3(1)",
+    "3(2)",
+    "3(3)",
+    "3(4)",
+    "3(5)",
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "4(4)",
+    "4(5)",
+    "4(6)",
+    "4(7)",
+    "4(8)",
+    "4(9)",
+    "4(10)",
+    "5(1)",
+    "5(2)",
+    "5(3)",
+    "5(4)",
+    "5(5)"
+  ],
+  "questions": [
+    {
+      "id": "1(1)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike sentensi ya 1.",
+      "steps": [
+        "Sikiliza sentensi katika karatasi ya mwalimu iliyo kwenye ukurasa 4.",
+        "Andika Amepiga mpira mbali sana. Hakiki herufi kubwa, nafasi na alama ya mwisho."
+      ],
+      "answer": "Amepiga mpira mbali sana.",
+      "source_page": 2
+    },
+    {
+      "id": "1(2)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike sentensi ya 2.",
+      "steps": [
+        "Sikiliza sentensi katika karatasi ya mwalimu iliyo kwenye ukurasa 4.",
+        "Andika Mimi sipendi kula wali. Hakiki herufi kubwa, nafasi na alama ya mwisho."
+      ],
+      "answer": "Mimi sipendi kula wali.",
+      "source_page": 2
+    },
+    {
+      "id": "1(3)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike sentensi ya 3.",
+      "steps": [
+        "Sikiliza sentensi katika karatasi ya mwalimu iliyo kwenye ukurasa 4.",
+        "Andika Chakula bora ni dawa. Hakiki herufi kubwa, nafasi na alama ya mwisho."
+      ],
+      "answer": "Chakula bora ni dawa.",
+      "source_page": 2
+    },
+    {
+      "id": "1(4)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike sentensi ya 4.",
+      "steps": [
+        "Sikiliza sentensi katika karatasi ya mwalimu iliyo kwenye ukurasa 4.",
+        "Andika Sahani, vijiko na bakuli. Hakiki herufi kubwa, nafasi na alama ya mwisho."
+      ],
+      "answer": "Sahani, vijiko na bakuli.",
+      "source_page": 2
+    },
+    {
+      "id": "1(5)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike sentensi ya 5.",
+      "steps": [
+        "Sikiliza sentensi katika karatasi ya mwalimu iliyo kwenye ukurasa 4.",
+        "Andika Nani ameenda kulima asubuhi? Hakiki herufi kubwa, nafasi na alama ya mwisho."
+      ],
+      "answer": "Nani ameenda kulima asubuhi?",
+      "source_page": 2
+    },
+    {
+      "id": "2(1)",
+      "section": "Silabi",
+      "prompt": "Unganisha Ma + ma kuunda neno.",
+      "steps": [
+        "Soma silabi Ma + ma kwa mpangilio.",
+        "Ziunganishe bila nafasi: Mama."
+      ],
+      "answer": "Mama.",
+      "source_page": 2
+    },
+    {
+      "id": "2(2)",
+      "section": "Silabi",
+      "prompt": "Unganisha La + la kuunda neno.",
+      "steps": [
+        "Soma silabi La + la kwa mpangilio.",
+        "Ziunganishe bila nafasi: Lala."
+      ],
+      "answer": "Lala.",
+      "source_page": 2
+    },
+    {
+      "id": "2(3)",
+      "section": "Silabi",
+      "prompt": "Unganisha Pu + a kuunda neno.",
+      "steps": [
+        "Soma silabi Pu + a kwa mpangilio.",
+        "Ziunganishe bila nafasi: Pua."
+      ],
+      "answer": "Pua.",
+      "source_page": 2
+    },
+    {
+      "id": "2(4)",
+      "section": "Silabi",
+      "prompt": "Unganisha Bi + bo kuunda neno.",
+      "steps": [
+        "Soma silabi Bi + bo kwa mpangilio.",
+        "Ziunganishe bila nafasi: Bibo."
+      ],
+      "answer": "Bibo.",
+      "source_page": 2
+    },
+    {
+      "id": "2(5)",
+      "section": "Silabi",
+      "prompt": "Unganisha Va + zi kuunda neno.",
+      "steps": [
+        "Soma silabi Va + zi kwa mpangilio.",
+        "Ziunganishe bila nafasi: Vazi."
+      ],
+      "answer": "Vazi.",
+      "source_page": 2
+    },
+    {
+      "id": "3(1)",
+      "section": "Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: Nyumba yangu haina mlango.",
+      "steps": [
+        "Badili kila herufi ya Nyumba yangu haina mlango. kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "NYUMBA YANGU HAINA MLANGO.",
+      "source_page": 2
+    },
+    {
+      "id": "3(2)",
+      "section": "Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: Tajiri wa rangi ni kinyonga",
+      "steps": [
+        "Badili kila herufi ya Tajiri wa rangi ni kinyonga kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "TAJIRI WA RANGI NI KINYONGA",
+      "source_page": 2
+    },
+    {
+      "id": "3(3)",
+      "section": "Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: Husipojenga ufa utajenga ukuta.",
+      "steps": [
+        "Badili kila herufi ya Husipojenga ufa utajenga ukuta. kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "HUSIPOJENGA UFA UTAJENGA UKUTA.",
+      "source_page": 2
+    },
+    {
+      "id": "3(4)",
+      "section": "Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: Kuuliza si ujinga",
+      "steps": [
+        "Badili kila herufi ya Kuuliza si ujinga kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "KUULIZA SI UJINGA",
+      "source_page": 2
+    },
+    {
+      "id": "3(5)",
+      "section": "Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: Haraka haraka haina Baraka.",
+      "steps": [
+        "Badili kila herufi ya Haraka haraka haina Baraka. kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "HARAKA HARAKA HAINA BARAKA.",
+      "source_page": 2
+    },
+    {
+      "id": "4(1)",
+      "section": "Sehemu za mwili",
+      "prompt": "Taja sehemu ya mwili: mstari wa juu upande wa kulia.",
+      "steps": [
+        "Fuata mshale mpaka sehemu ya mwili inayoonyeshwa; jina ni kichwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "kichwa.",
+      "source_page": 3,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2024-Top-Abilities-Practice-assessment--4-1-.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 3."
+    },
+    {
+      "id": "4(2)",
+      "section": "Sehemu za mwili",
+      "prompt": "Taja sehemu ya mwili: mstari wa juu upande wa kushoto.",
+      "steps": [
+        "Fuata mshale mpaka sehemu ya mwili inayoonyeshwa; jina ni jicho.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "jicho.",
+      "source_page": 3
+    },
+    {
+      "id": "4(3)",
+      "section": "Sehemu za mwili",
+      "prompt": "Taja sehemu ya mwili: mstari wa pili upande wa kushoto.",
+      "steps": [
+        "Fuata mshale mpaka sehemu ya mwili inayoonyeshwa; jina ni pua.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "pua.",
+      "source_page": 3
+    },
+    {
+      "id": "4(4)",
+      "section": "Sehemu za mwili",
+      "prompt": "Taja sehemu ya mwili: mstari wa pili upande wa kulia.",
+      "steps": [
+        "Fuata mshale mpaka sehemu ya mwili inayoonyeshwa; jina ni sikio.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "sikio.",
+      "source_page": 3
+    },
+    {
+      "id": "4(5)",
+      "section": "Sehemu za mwili",
+      "prompt": "Taja sehemu ya mwili: mstari wa tatu upande wa kulia.",
+      "steps": [
+        "Fuata mshale mpaka sehemu ya mwili inayoonyeshwa; jina ni mdomo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "mdomo.",
+      "source_page": 3
+    },
+    {
+      "id": "4(6)",
+      "section": "Sehemu za mwili",
+      "prompt": "Taja sehemu ya mwili: mstari unaoelekea sehemu ya mbele ya mkono upande wa kushoto.",
+      "steps": [
+        "Fuata mshale mpaka sehemu ya mwili inayoonyeshwa; jina ni mkono.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "mkono.",
+      "source_page": 3,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2024-Top-Abilities-Practice-assessment--4-6-.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 3."
+    },
+    {
+      "id": "4(7)",
+      "section": "Sehemu za mwili",
+      "prompt": "Taja sehemu ya mwili: mstari wa kifua upande wa kulia.",
+      "steps": [
+        "Fuata mshale mpaka sehemu ya mwili inayoonyeshwa; jina ni kifua.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "kifua.",
+      "source_page": 3
+    },
+    {
+      "id": "4(8)",
+      "section": "Sehemu za mwili",
+      "prompt": "Taja sehemu ya mwili: mstari mfupi wa kulia unaoelekea kiganja.",
+      "steps": [
+        "Fuata mshale mpaka sehemu ya mwili inayoonyeshwa; jina ni kiganja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "kiganja.",
+      "source_page": 3
+    },
+    {
+      "id": "4(9)",
+      "section": "Sehemu za mwili",
+      "prompt": "Taja sehemu ya mwili: mstari wa kulia unaoelekea tumboni.",
+      "steps": [
+        "Fuata mshale mpaka sehemu ya mwili inayoonyeshwa; jina ni tumbo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "tumbo.",
+      "source_page": 3
+    },
+    {
+      "id": "4(10)",
+      "section": "Sehemu za mwili",
+      "prompt": "Taja sehemu ya mwili: mstari wa chini wa kushoto unaoelekea mguuni.",
+      "steps": [
+        "Fuata mshale mpaka sehemu ya mwili inayoonyeshwa; jina ni mguu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "mguu.",
+      "source_page": 3
+    },
+    {
+      "id": "5(1)",
+      "section": "Ufahamu",
+      "prompt": "Mama amepanda nini kuzunguka nyumba?",
+      "steps": [
+        "Sentensi ya kwanza inasema mama amepanda maua mengi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Maua.",
+      "source_page": 3
+    },
+    {
+      "id": "5(2)",
+      "section": "Ufahamu",
+      "prompt": "Watoto humsaidia mama kufanya nini?",
+      "steps": [
+        "Habari inasema sisi tunamsaidia mama anayapalilia, na tunamwagilia maua kila siku.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kupalilia maua; pia kumwagilia maua.",
+      "source_page": 3
+    },
+    {
+      "id": "5(3)",
+      "section": "Ufahamu",
+      "prompt": "Nani anapalilia bustani ya maua nyumbani?",
+      "steps": [
+        "Habari imetaja mama anayapalilia.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mama.",
+      "source_page": 3
+    },
+    {
+      "id": "5(4)",
+      "section": "Ufahamu",
+      "prompt": "Taja rangi za maua ya bustani ya mama.",
+      "steps": [
+        "Habari ina maua meupe, mekundu na ya njano.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Nyeupe, nyekundu na njano.",
+      "source_page": 3
+    },
+    {
+      "id": "5(5)",
+      "section": "Ufahamu",
+      "prompt": "Wadudu gani hupenda maua?",
+      "steps": [
+        "Habari inawataja nyuki na vipepeo wanaotafuta chakula kwenye maua.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Nyuki na vipepeo.",
+      "source_page": 3
+    }
+  ],
+  "summaries": {
+    "Imla": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Silabi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Herufi kubwa": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Sehemu za mwili": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ufahamu": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "TOP ABILITIES Standard One New Syllabus Examination 2024",
+      "url": "https://darasahuru.ac.tz/top-abilities-standard-one-new-syllabus-examination-2024/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "Swali 3(iii) lina tahajia Husipojenga; limeandikwa kwa herufi kubwa kama chanzo. Methali ya kawaida ni Usipoziba ufa utajenga ukuta."
+  ],
+  "labelling_note": "Mishale ya swali 4 haina namba; majibu yanaeleza upande na nafasi ya kila mstari.",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "5349610f9244ee9d12586cc12f7959c3e44ce6067040a105e2e8b2a92c72faf0"
+}

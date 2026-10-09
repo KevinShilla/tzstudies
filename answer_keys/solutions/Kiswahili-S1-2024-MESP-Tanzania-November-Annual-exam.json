@@ -1,0 +1,472 @@
+{
+  "exam": "Kiswahili-S1-2024-MESP-Tanzania-November-Annual-exam.pdf",
+  "output": "Kiswahili-S1-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf",
+  "sha256": "0e8fe9fc3820f618fa42a3b4392c58cc0930c059e0df76fc3439f67051f4c60f",
+  "subject": "Kiswahili",
+  "level": "Standard One",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Annual exam - November · Kusoma November 2024",
+  "question_count": "Vipengele 35 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "Silabi-1",
+    "Silabi-2",
+    "Silabi-3",
+    "Silabi-4",
+    "Silabi-5",
+    "Silabi-6",
+    "Silabi-7",
+    "Silabi-8",
+    "Silabi-9",
+    "Silabi-10",
+    "Neno-1",
+    "Neno-2",
+    "Neno-3",
+    "Neno-4",
+    "Neno-5",
+    "Neno-6",
+    "Neno-7",
+    "Neno-8",
+    "Neno-9",
+    "Neno-10",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "Picha-1",
+    "Picha-2",
+    "Picha-3",
+    "Picha-4",
+    "Picha-5"
+  ],
+  "questions": [
+    {
+      "id": "Silabi-1",
+      "section": "Kusoma silabi",
+      "prompt": "Soma kwa sauti: fa.",
+      "steps": [
+        "Tambua herufi na silabi katika fa.",
+        "Unganisha sauti hizo na utamke neno fa kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: fa.",
+      "source_page": 1
+    },
+    {
+      "id": "Silabi-2",
+      "section": "Kusoma silabi",
+      "prompt": "Soma kwa sauti: ngo.",
+      "steps": [
+        "Tambua herufi na silabi katika ngo.",
+        "Unganisha sauti hizo na utamke neno ngo kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: ngo.",
+      "source_page": 1
+    },
+    {
+      "id": "Silabi-3",
+      "section": "Kusoma silabi",
+      "prompt": "Soma kwa sauti: gu.",
+      "steps": [
+        "Tambua herufi na silabi katika gu.",
+        "Unganisha sauti hizo na utamke neno gu kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: gu.",
+      "source_page": 1
+    },
+    {
+      "id": "Silabi-4",
+      "section": "Kusoma silabi",
+      "prompt": "Soma kwa sauti: nu.",
+      "steps": [
+        "Tambua herufi na silabi katika nu.",
+        "Unganisha sauti hizo na utamke neno nu kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: nu.",
+      "source_page": 1
+    },
+    {
+      "id": "Silabi-5",
+      "section": "Kusoma silabi",
+      "prompt": "Soma kwa sauti: chi.",
+      "steps": [
+        "Tambua herufi na silabi katika chi.",
+        "Unganisha sauti hizo na utamke neno chi kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: chi.",
+      "source_page": 1
+    },
+    {
+      "id": "Silabi-6",
+      "section": "Kusoma silabi",
+      "prompt": "Soma kwa sauti: vu.",
+      "steps": [
+        "Tambua herufi na silabi katika vu.",
+        "Unganisha sauti hizo na utamke neno vu kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: vu.",
+      "source_page": 1
+    },
+    {
+      "id": "Silabi-7",
+      "section": "Kusoma silabi",
+      "prompt": "Soma kwa sauti: ma.",
+      "steps": [
+        "Tambua herufi na silabi katika ma.",
+        "Unganisha sauti hizo na utamke neno ma kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: ma.",
+      "source_page": 1
+    },
+    {
+      "id": "Silabi-8",
+      "section": "Kusoma silabi",
+      "prompt": "Soma kwa sauti: za.",
+      "steps": [
+        "Tambua herufi na silabi katika za.",
+        "Unganisha sauti hizo na utamke neno za kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: za.",
+      "source_page": 1
+    },
+    {
+      "id": "Silabi-9",
+      "section": "Kusoma silabi",
+      "prompt": "Soma kwa sauti: tha.",
+      "steps": [
+        "Tambua herufi na silabi katika tha.",
+        "Unganisha sauti hizo na utamke neno tha kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: tha.",
+      "source_page": 1
+    },
+    {
+      "id": "Silabi-10",
+      "section": "Kusoma silabi",
+      "prompt": "Soma kwa sauti: le.",
+      "steps": [
+        "Tambua herufi na silabi katika le.",
+        "Unganisha sauti hizo na utamke neno le kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: le.",
+      "source_page": 1
+    },
+    {
+      "id": "Neno-1",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: kucha.",
+      "steps": [
+        "Tambua herufi na silabi katika kucha.",
+        "Unganisha sauti hizo na utamke neno kucha kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: kucha.",
+      "source_page": 1
+    },
+    {
+      "id": "Neno-2",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: mlango.",
+      "steps": [
+        "Tambua herufi na silabi katika mlango.",
+        "Unganisha sauti hizo na utamke neno mlango kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: mlango.",
+      "source_page": 1
+    },
+    {
+      "id": "Neno-3",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: gawa.",
+      "steps": [
+        "Tambua herufi na silabi katika gawa.",
+        "Unganisha sauti hizo na utamke neno gawa kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: gawa.",
+      "source_page": 1
+    },
+    {
+      "id": "Neno-4",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: dafu.",
+      "steps": [
+        "Tambua herufi na silabi katika dafu.",
+        "Unganisha sauti hizo na utamke neno dafu kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: dafu.",
+      "source_page": 1
+    },
+    {
+      "id": "Neno-5",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: mafuta.",
+      "steps": [
+        "Tambua herufi na silabi katika mafuta.",
+        "Unganisha sauti hizo na utamke neno mafuta kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: mafuta.",
+      "source_page": 1
+    },
+    {
+      "id": "Neno-6",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: shamba.",
+      "steps": [
+        "Tambua herufi na silabi katika shamba.",
+        "Unganisha sauti hizo na utamke neno shamba kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: shamba.",
+      "source_page": 1
+    },
+    {
+      "id": "Neno-7",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: kanga.",
+      "steps": [
+        "Tambua herufi na silabi katika kanga.",
+        "Unganisha sauti hizo na utamke neno kanga kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: kanga.",
+      "source_page": 1
+    },
+    {
+      "id": "Neno-8",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: viatu.",
+      "steps": [
+        "Tambua herufi na silabi katika viatu.",
+        "Unganisha sauti hizo na utamke neno viatu kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: viatu.",
+      "source_page": 1
+    },
+    {
+      "id": "Neno-9",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: ndoo.",
+      "steps": [
+        "Tambua herufi na silabi katika ndoo.",
+        "Unganisha sauti hizo na utamke neno ndoo kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: ndoo.",
+      "source_page": 1
+    },
+    {
+      "id": "Neno-10",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: nyanya.",
+      "steps": [
+        "Tambua herufi na silabi katika nyanya.",
+        "Unganisha sauti hizo na utamke neno nyanya kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: nyanya.",
+      "source_page": 1
+    },
+    {
+      "id": "1",
+      "section": "Kusoma sentensi",
+      "prompt": "Soma sentensi: Dada anafua gauni lake.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Dada anafua gauni lake.",
+      "source_page": 1,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi."
+    },
+    {
+      "id": "2",
+      "section": "Kusoma sentensi",
+      "prompt": "Soma sentensi: Kabati lao lina sahani.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Kabati lao lina sahani.",
+      "source_page": 1,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi."
+    },
+    {
+      "id": "3",
+      "section": "Kusoma sentensi",
+      "prompt": "Soma sentensi: Kijuju ameiba rula zote.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Kijuju ameiba rula zote.",
+      "source_page": 2,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi."
+    },
+    {
+      "id": "4",
+      "section": "Kusoma sentensi",
+      "prompt": "Soma sentensi: Kitabu chake ni kizuri.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Kitabu chake ni kizuri.",
+      "source_page": 2,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi."
+    },
+    {
+      "id": "5",
+      "section": "Kusoma sentensi",
+      "prompt": "Soma sentensi: Baba ana mananasi mawili.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Baba ana mananasi mawili.",
+      "source_page": 2,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi."
+    },
+    {
+      "id": "6",
+      "section": "Irabu",
+      "prompt": "Jaza irabu inayokosekana: B__kuli",
+      "steps": [
+        "Weka irabu a baada ya B.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a: Bakuli.",
+      "source_page": 2
+    },
+    {
+      "id": "7",
+      "section": "Irabu",
+      "prompt": "Jaza irabu inayokosekana: Samak__",
+      "steps": [
+        "Malizia neno samaki kwa irabu i.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "i: Samaki.",
+      "source_page": 2
+    },
+    {
+      "id": "8",
+      "section": "Irabu",
+      "prompt": "Jaza irabu inayokosekana: Bom__a",
+      "steps": [
+        "Bomba huhitaji b kwenye nafasi hii, ambayo ni konsonanti. Hakuna irabu inayounda neno bomba kutoka Bom_a.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b: Bomba, ikiwa hili ndilo neno lililokusudiwa.",
+      "source_page": 2
+    },
+    {
+      "id": "9",
+      "section": "Irabu",
+      "prompt": "Jaza irabu inayokosekana: Kijik__",
+      "steps": [
+        "Weka irabu o mwishoni ili kupata kijiko.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "o: Kijiko.",
+      "source_page": 2
+    },
+    {
+      "id": "10",
+      "section": "Irabu",
+      "prompt": "Jaza irabu inayokosekana: M__za",
+      "steps": [
+        "Weka irabu e baada ya M.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "e: Meza.",
+      "source_page": 2
+    },
+    {
+      "id": "Picha-1",
+      "section": "Picha na msamiati",
+      "prompt": "Taja kitu katika picha ya 1.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: taja kitu katika picha ya 1.",
+        "Tambua jina kisu na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "kisu.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2024-MESP-Tanzania-November-Annual-exam--Picha-1.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "Picha-2",
+      "section": "Picha na msamiati",
+      "prompt": "Taja kitu katika picha ya 2.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: taja kitu katika picha ya 2.",
+        "Tambua jina ngoma na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "ngoma.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2024-MESP-Tanzania-November-Annual-exam--Picha-2.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "Picha-3",
+      "section": "Picha na msamiati",
+      "prompt": "Taja kitu katika picha ya 3.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: taja kitu katika picha ya 3.",
+        "Tambua jina kitabu na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "kitabu.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2024-MESP-Tanzania-November-Annual-exam--Picha-3.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "Picha-4",
+      "section": "Picha na msamiati",
+      "prompt": "Taja kitu katika picha ya 4.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: taja kitu katika picha ya 4.",
+        "Tambua jina ng’ombe na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "ng’ombe.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2024-MESP-Tanzania-November-Annual-exam--Picha-4.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "Picha-5",
+      "section": "Picha na msamiati",
+      "prompt": "Taja kitu katika picha ya 5.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: taja kitu katika picha ya 5.",
+        "Tambua jina saa na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "saa.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2024-MESP-Tanzania-November-Annual-exam--Picha-5.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    }
+  ],
+  "summaries": {
+    "Kusoma silabi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kusoma maneno": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kusoma sentensi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Irabu": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Picha na msamiati": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "MESP STANDARD ONE ANNUAL EXAMS NOV 2024",
+      "url": "https://darasahuru.ac.tz/mesp-standard-one-annual-exams-nov-2024/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "Swali 8: Bom_a haliwezi kukamilishwa kuwa bomba kwa irabu. Konsonanti b ndiyo inayokosekana; swali lina kosa."
+  ],
+  "labelling_note": "Silabi na maneno ya kusoma na picha hazina namba; vitambulisho vya maudhui vimeongezwa ili kila kipengele kipatikane.",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "21e2e5cd1e604dc1e6c220b244b5fdd1d1fa79a9079569c03762ae5246d82def"
+}

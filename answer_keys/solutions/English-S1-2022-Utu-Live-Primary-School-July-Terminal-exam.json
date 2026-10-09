@@ -1,0 +1,334 @@
+{
+  "exam": "English-S1-2022-Utu-Live-Primary-School-July-Terminal-exam.pdf",
+  "output": "English-S1-2022-Utu-Live-Primary-School-July-Terminal-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard One",
+  "year": "2022",
+  "code": "Not printed in source",
+  "board": "Utu-Live Primary School",
+  "exam_type": "Terminal exam - July · Reading Skills",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "e43137b6a3244a04f99668e664f8a283a03e32befecc7393c1c11d1c56bcb3cd",
+  "questions": [
+    {
+      "id": "1",
+      "section": "Initial blends",
+      "prompt": "Circle the initial sound/blend for the picture of a clock (cl, bl, fl).",
+      "steps": [
+        "Clock begins with the consonant blend cl.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "cl",
+      "source_page": 1
+    },
+    {
+      "id": "2",
+      "section": "Initial blends",
+      "prompt": "Circle the initial sound/blend for the picture of a radio (r, l, f).",
+      "steps": [
+        "Radio starts with r.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "r",
+      "source_page": 1
+    },
+    {
+      "id": "3",
+      "section": "Initial blends",
+      "prompt": "Circle the initial sound/blend for the picture of a plane (bl, pl, sl).",
+      "steps": [
+        "Plane starts with pl.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "pl",
+      "source_page": 1
+    },
+    {
+      "id": "4",
+      "section": "Initial blends",
+      "prompt": "Circle the initial sound/blend for the picture of a snake (sm, sw, sn).",
+      "steps": [
+        "Snake starts with sn.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "sn",
+      "source_page": 1
+    },
+    {
+      "id": "5",
+      "section": "Initial blends",
+      "prompt": "Circle the initial sound/blend for the picture of a fly (fl, fr, pr).",
+      "steps": [
+        "Fly starts with fl.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "fl",
+      "source_page": 1
+    },
+    {
+      "id": "6",
+      "section": "Syllables",
+      "prompt": "Show the syllables in Kitten.",
+      "steps": [
+        "Say Kitten slowly and clap its two spoken beats.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "kit-ten (two syllables).",
+      "source_page": 1
+    },
+    {
+      "id": "7",
+      "section": "Syllables",
+      "prompt": "Show the syllables in Monkey.",
+      "steps": [
+        "Say Monkey slowly and clap its two spoken beats.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "mon-key (two syllables).",
+      "source_page": 1
+    },
+    {
+      "id": "8",
+      "section": "Syllables",
+      "prompt": "Show the syllables in Ivan.",
+      "steps": [
+        "Say Ivan slowly and clap its two spoken beats.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "I-van (two syllables).",
+      "source_page": 1
+    },
+    {
+      "id": "9",
+      "section": "Syllables",
+      "prompt": "Show the syllables in Tuesday.",
+      "steps": [
+        "Say Tuesday slowly and clap its two spoken beats.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Tues-day (two syllables).",
+      "source_page": 1
+    },
+    {
+      "id": "10",
+      "section": "Syllables",
+      "prompt": "Show the syllables in Open.",
+      "steps": [
+        "Say Open slowly and clap its two spoken beats.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "o-pen (two syllables).",
+      "source_page": 1
+    },
+    {
+      "id": "11",
+      "section": "Rhyming",
+      "prompt": "Underline the word that does not rhyme: good, food, mood.",
+      "steps": [
+        "Food and mood rhyme with /u:/; good has /ʊ/.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "good",
+      "source_page": 1
+    },
+    {
+      "id": "12",
+      "section": "Rhyming",
+      "prompt": "Underline the word that does not rhyme: Put, Foot, Hut.",
+      "steps": [
+        "Put and foot have /ʊ/; hut has /ʌ/.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Hut",
+      "source_page": 1
+    },
+    {
+      "id": "13",
+      "section": "Rhyming",
+      "prompt": "Underline the word that does not rhyme: Great, Greet, Heat.",
+      "steps": [
+        "Greet and heat rhyme; great has /eɪ/.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Great",
+      "source_page": 1
+    },
+    {
+      "id": "14",
+      "section": "Rhyming",
+      "prompt": "Underline the word that does not rhyme: Head, Dead, Bead.",
+      "steps": [
+        "Head and dead rhyme with /e/; bead has /i:/.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Bead",
+      "source_page": 1
+    },
+    {
+      "id": "15",
+      "section": "Rhyming",
+      "prompt": "Underline the word that does not rhyme: Blood, Mood, Flood.",
+      "steps": [
+        "Blood and flood rhyme; mood has /u:/.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Mood",
+      "source_page": 1
+    },
+    {
+      "id": "16",
+      "section": "Homophones",
+      "prompt": "Choose the same-sounding word as Pair (pear, pea).",
+      "steps": [
+        "The correct word pear is a homophone: it sounds the same but is spelled differently.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "pear",
+      "source_page": 2
+    },
+    {
+      "id": "17",
+      "section": "Homophones",
+      "prompt": "Choose the same-sounding word as Bear (bare, beer).",
+      "steps": [
+        "The correct word bare is a homophone: it sounds the same but is spelled differently.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "bare",
+      "source_page": 2
+    },
+    {
+      "id": "18",
+      "section": "Homophones",
+      "prompt": "Choose the same-sounding word as Where (were, wear).",
+      "steps": [
+        "The correct word wear is a homophone: it sounds the same but is spelled differently.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "wear",
+      "source_page": 2
+    },
+    {
+      "id": "19",
+      "section": "Homophones",
+      "prompt": "Choose the same-sounding word as Heal (hill, heel).",
+      "steps": [
+        "The correct word heel is a homophone: it sounds the same but is spelled differently.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "heel",
+      "source_page": 2
+    },
+    {
+      "id": "20",
+      "section": "Homophones",
+      "prompt": "Choose the same-sounding word as Weak (week, wick).",
+      "steps": [
+        "The correct word week is a homophone: it sounds the same but is spelled differently.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "week",
+      "source_page": 2
+    },
+    {
+      "id": "21",
+      "section": "Comprehension",
+      "prompt": "Who is telling the story? (Lebo, Lebo's friend)",
+      "steps": [
+        "The narrator says 'Lebo is my best friend'.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Lebo's friend.",
+      "source_page": 2
+    },
+    {
+      "id": "22",
+      "section": "Comprehension",
+      "prompt": "Flock means a group of ___ (sheep, dogs).",
+      "steps": [
+        "The passage calls the group flocks of sheep.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Sheep.",
+      "source_page": 2
+    },
+    {
+      "id": "23",
+      "section": "Comprehension",
+      "prompt": "Wild animals are kept in a ___ (farm, zoo).",
+      "steps": [
+        "The passage opens with Lebo going to the zoo.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Zoo.",
+      "source_page": 2
+    },
+    {
+      "id": "24",
+      "section": "Comprehension",
+      "prompt": "Another word for glad is ___ (sad, happy).",
+      "steps": [
+        "Glad means happy.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Happy.",
+      "source_page": 2
+    },
+    {
+      "id": "25",
+      "section": "Comprehension",
+      "prompt": "The story is about ___ (a girl, a boy).",
+      "steps": [
+        "The passage refers to Lebo as she.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A girl.",
+      "source_page": 2
+    }
+  ],
+  "summaries": {
+    "Initial blends": "Distinguish speech sounds from written letters. Blend consonants, recognise digraphs and compare pronunciations when identifying rhymes or homophones.",
+    "Syllables": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Rhyming": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Homophones": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "Standard One Exams | 2010 - 2023 | Monthly, Midterm, Terminal and Annual Exams - Download All Subjects - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/standard-one-exams-2010-2023-monthly-midterm-terminal-and-annual-exams-download-all-subjects/"
+    }
+  ],
+  "limitations": [],
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25"
+  ],
+  "question_count": "25 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "f8205ea914c9364371867f9c936c0edb7c53eefb465817c7c130475cc8d5c7ea"
+}

@@ -1,0 +1,534 @@
+{
+  "exam": "Mathematics-S3-2022-Iramba-DC-July-Terminal-exam.pdf",
+  "output": "Mathematics-S3-2022-Iramba-DC-July-Terminal-exam-AnswerKey.pdf",
+  "sha256": "c25dd8837078a69e457d369f0d6f99a26e68a0eed5d46bcaf772a4f8b19f21c8",
+  "subject": "Mathematics",
+  "level": "Standard Three",
+  "year": "2022",
+  "code": "Not printed in source",
+  "board": "Iramba DC",
+  "exam_type": "Terminal exam - July",
+  "question_count": "25 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Numbers and calculations",
+      "prompt": "Write 4006 in words.",
+      "steps": [
+        "4006 = 4000 + 6."
+      ],
+      "answer": "Four thousand and six",
+      "source_page": 1
+    },
+    {
+      "id": "1(ii)",
+      "section": "Numbers and calculations",
+      "prompt": "Write two thousand five hundred and forty-six in numerals.",
+      "steps": [
+        "2000 + 500 + 40 + 6 = 2546."
+      ],
+      "answer": "2546",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "2000 + 500 + 40 + 6",
+          "expected": "2546"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Numbers and calculations",
+      "prompt": "Show the value of the digits in 9009.",
+      "steps": [
+        "Read thousands, hundreds, tens, ones."
+      ],
+      "answer": "9 thousands (9000); 0 hundreds (0); 0 tens (0); 9 ones (9).",
+      "source_page": 1
+    },
+    {
+      "id": "1(iv)",
+      "section": "Numbers and calculations",
+      "prompt": "Write the number represented on the four-rod abacus.",
+      "steps": [
+        "Count left to right: 3,2,0,4 beads.",
+        "3000 + 200 + 0 + 4 = 3204."
+      ],
+      "answer": "3204",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "3000 + 200 + 0 + 4",
+          "expected": "3204"
+        }
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Numbers and calculations",
+      "prompt": "Write 3000 + 300 + 30 + 4 in short form.",
+      "steps": [
+        "3000 + 300 + 30 + 4 = 3334."
+      ],
+      "answer": "3334",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "3000 + 300 + 30 + 4",
+          "expected": "3334"
+        }
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 3,6,9,[ ],[ ],18.",
+      "steps": [
+        "Add 3 each time; 9 + 3 = 12; 12 + 3 = 15."
+      ],
+      "answer": "12,15",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "9 + 3",
+          "expected": "12"
+        },
+        {
+          "expression": "12 + 3",
+          "expected": "15"
+        }
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 9000,8995,8990,[ ],[ ],8975.",
+      "steps": [
+        "Subtract 5 each time; 8990 - 5 = 8985; 8985 - 5 = 8980."
+      ],
+      "answer": "8985,8980",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "8990 - 5",
+          "expected": "8985"
+        },
+        {
+          "expression": "8985 - 5",
+          "expected": "8980"
+        }
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Calculations",
+      "prompt": "Calculate 1418+2361.",
+      "steps": [
+        "1 place: 8 + 1 = 9; write 9.",
+        "10 place: 1 + 6 = 7; write 7.",
+        "100 place: 4 + 3 = 7; write 7.",
+        "1000 place: 1 + 2 = 3; write 3.",
+        "1418 + 2361 = 3779."
+      ],
+      "answer": "3779",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "1418+2361",
+          "expected": "3779"
+        },
+        {
+          "expression": "8 + 1",
+          "expected": "9"
+        },
+        {
+          "expression": "1 + 6",
+          "expected": "7"
+        },
+        {
+          "expression": "4 + 3",
+          "expected": "7"
+        },
+        {
+          "expression": "1 + 2",
+          "expected": "3"
+        },
+        {
+          "expression": "1418 + 2361",
+          "expected": "3779"
+        }
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Calculations",
+      "prompt": "Calculate 4320+1254.",
+      "steps": [
+        "1 place: 0 + 4 = 4; write 4.",
+        "10 place: 2 + 5 = 7; write 7.",
+        "100 place: 3 + 2 = 5; write 5.",
+        "1000 place: 4 + 1 = 5; write 5.",
+        "4320 + 1254 = 5574."
+      ],
+      "answer": "5574",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "4320+1254",
+          "expected": "5574"
+        },
+        {
+          "expression": "0 + 4",
+          "expected": "4"
+        },
+        {
+          "expression": "2 + 5",
+          "expected": "7"
+        },
+        {
+          "expression": "3 + 2",
+          "expected": "5"
+        },
+        {
+          "expression": "4 + 1",
+          "expected": "5"
+        },
+        {
+          "expression": "4320 + 1254",
+          "expected": "5574"
+        }
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Calculations",
+      "prompt": "Calculate 97 x 2.",
+      "steps": [
+        "Split into place values: 90 x 2 = 180; 7 x 2 = 14.",
+        "Add the partial products: 194."
+      ],
+      "answer": "194",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "97*2",
+          "expected": "194"
+        },
+        {
+          "expression": "90 * 2",
+          "expected": "180"
+        },
+        {
+          "expression": "7 * 2",
+          "expected": "14"
+        }
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Calculations",
+      "prompt": "Asha collects 6986 eggs and Bakari 2118. Find their total.",
+      "steps": [
+        "1 place: 6 + 8 = 14; write 4, carry 1.",
+        "10 place: 8 + 1 + carry 1 = 10; write 0, carry 1.",
+        "100 place: 9 + 1 + carry 1 = 11; write 1, carry 1.",
+        "1000 place: 6 + 2 + carry 1 = 9; write 9.",
+        "6986 + 2118 = 9104."
+      ],
+      "answer": "9104 eggs",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "6986+2118",
+          "expected": "9104"
+        },
+        {
+          "expression": "6 + 8",
+          "expected": "14"
+        },
+        {
+          "expression": "6986 + 2118",
+          "expected": "9104"
+        }
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Calculations",
+      "prompt": "Calculate 887-499.",
+      "steps": [
+        "1 place: regroup 1 from the next place; 17 - 9 = 8.",
+        "10 place: regroup 1 from the next place; 17 - 9 = 8.",
+        "100 place: 7 - 4 = 3.",
+        "887 - 499 = 388; check 388 + 499 = 887."
+      ],
+      "answer": "388",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "887-499",
+          "expected": "388"
+        },
+        {
+          "expression": "17 - 9",
+          "expected": "8"
+        },
+        {
+          "expression": "7 - 4",
+          "expected": "3"
+        },
+        {
+          "expression": "887 - 499",
+          "expected": "388"
+        },
+        {
+          "expression": "388 + 499",
+          "expected": "887"
+        }
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Calculations",
+      "prompt": "Calculate 5479-3468.",
+      "steps": [
+        "1 place: 9 - 8 = 1.",
+        "10 place: 7 - 6 = 1.",
+        "100 place: 4 - 4 = 0.",
+        "1000 place: 5 - 3 = 2.",
+        "5479 - 3468 = 2011; check 2011 + 3468 = 5479."
+      ],
+      "answer": "2011",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "5479-3468",
+          "expected": "2011"
+        },
+        {
+          "expression": "9 - 8",
+          "expected": "1"
+        },
+        {
+          "expression": "7 - 6",
+          "expected": "1"
+        },
+        {
+          "expression": "4 - 4",
+          "expected": "0"
+        },
+        {
+          "expression": "5 - 3",
+          "expected": "2"
+        },
+        {
+          "expression": "5479 - 3468",
+          "expected": "2011"
+        },
+        {
+          "expression": "2011 + 3468",
+          "expected": "5479"
+        }
+      ]
+    },
+    {
+      "id": "3(iv)",
+      "section": "Calculations",
+      "prompt": "Five classes each have 38 pupils. Find the total pupils.",
+      "steps": [
+        "Split into place values: 5 x 38 = 190.",
+        "Add the partial products: 190."
+      ],
+      "answer": "190 pupils",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "5*38",
+          "expected": "190"
+        },
+        {
+          "expression": "5 * 38",
+          "expected": "190"
+        }
+      ]
+    },
+    {
+      "id": "3(v)",
+      "section": "Numbers and calculations",
+      "prompt": "Write the fraction of the shaded triangular area.",
+      "steps": [
+        "The intended whole is divided into 3 equal triangular regions; 1 is shaded."
+      ],
+      "answer": "1/3",
+      "source_page": 1
+    },
+    {
+      "id": "4(i)",
+      "section": "Numbers and calculations",
+      "prompt": "Write 1/10 in words.",
+      "steps": [
+        "The denominator is ten and the numerator is one."
+      ],
+      "answer": "One tenth",
+      "source_page": 2
+    },
+    {
+      "id": "4(ii)",
+      "section": "Numbers and calculations",
+      "prompt": "Write one over four as a fraction.",
+      "steps": [
+        "Put 1 over denominator 4."
+      ],
+      "answer": "1/4",
+      "source_page": 2
+    },
+    {
+      "id": "4(iii)",
+      "section": "Numbers and calculations",
+      "prompt": "Draw a rectangle, divide it into 5 equal parts and shade 2/5.",
+      "steps": [
+        "Draw a rectangle with 5 equal-width strips.",
+        "Shade exactly 2 strips; leave 3 clear."
+      ],
+      "answer": "Rectangle with 2 of 5 equal strips shaded.",
+      "source_page": 2
+    },
+    {
+      "id": "4(iv)",
+      "section": "Numbers and calculations",
+      "prompt": "How many quarters make one whole?",
+      "steps": [
+        "1 / (1/4) = 4."
+      ],
+      "answer": "4 quarters",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "1 / (1/4)",
+          "expected": "4"
+        }
+      ]
+    },
+    {
+      "id": "4(v)",
+      "section": "Numbers and calculations",
+      "prompt": "Calculate 1/2 + 1/2.",
+      "steps": [
+        "The denominators match: add numerators 1 + 1 = 2.",
+        "2/2 = 1."
+      ],
+      "answer": "1 whole (2/2)",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "1/2+1/2",
+          "expected": "1"
+        },
+        {
+          "expression": "1 + 1",
+          "expected": "2"
+        },
+        {
+          "expression": "2/2",
+          "expected": "1"
+        }
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Numbers and calculations",
+      "prompt": "Which pictured figure is flat, A or B?",
+      "steps": [
+        "A is a plane square; B is a three-dimensional bottle."
+      ],
+      "answer": "A",
+      "source_page": 2
+    },
+    {
+      "id": "5(ii)",
+      "section": "Numbers and calculations",
+      "prompt": "Name the first plane figure.",
+      "steps": [
+        "It has four right angles and unequal adjacent sides."
+      ],
+      "answer": "Rectangle",
+      "source_page": 2
+    },
+    {
+      "id": "5(iii)",
+      "section": "Numbers and calculations",
+      "prompt": "Name the second plane figure.",
+      "steps": [
+        "It is a closed round figure."
+      ],
+      "answer": "Circle",
+      "source_page": 2
+    },
+    {
+      "id": "5(iv)",
+      "section": "Numbers and calculations",
+      "prompt": "How many minutes make one hour?",
+      "steps": [
+        "One hour is defined as 60 minutes."
+      ],
+      "answer": "60 minutes",
+      "source_page": 2
+    },
+    {
+      "id": "5(v)",
+      "section": "Numbers and calculations",
+      "prompt": "Read the pictured clock.",
+      "steps": [
+        "The long minute hand points to 12: 0 minutes.",
+        "The short hour hand points to 3."
+      ],
+      "answer": "3:00 (three o'clock); the clock alone does not specify a.m. or p.m.",
+      "source_page": 2
+    }
+  ],
+  "summaries": {
+    "Numbers and calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - IRAMBA DC Standard Three Terminal Exams English And Kiswahili Medium",
+      "url": "https://darasahuru.ac.tz/iramba-dc-standard-three-terminal-exams-english-and-kiswahili-medium/"
+    }
+  ],
+  "limitations": [
+    "The publisher labels 3:00 a.m.; the pictured clock has no morning/evening information.",
+    "The hand-drawn shaded triangle is intended to have three equal regions."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "007f7f0689f2d909036e346bed8bc1d028c9f1ad9677d132b7189e351a0de7c9"
+}

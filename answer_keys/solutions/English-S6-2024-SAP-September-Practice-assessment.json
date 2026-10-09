@@ -1,0 +1,462 @@
+{
+  "exam": "English-S6-2024-SAP-September-Practice-assessment.pdf",
+  "output": "English-S6-2024-SAP-September-Practice-assessment-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Six",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "SAP",
+  "exam_type": "Practice assessment - September",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "66393e9b18aa595e4b7d234dc9c06aac0b69be734f5f239588b9a5ad194ec585",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Source-limited items",
+      "prompt": "Why do pupils line up at the bell? (a swimming, b announcements, c home, d lunch, e playground)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The school-routine listening passage is not included; common routines cannot replace the prescribed script.",
+      "source_page": 2
+    },
+    {
+      "id": "1(ii)",
+      "section": "Source-limited items",
+      "prompt": "When do lessons start? (a noon, b early morning, c 8 AM, d 8 PM, e afternoon)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The school-routine listening passage is not included; common routines cannot replace the prescribed script.",
+      "source_page": 2
+    },
+    {
+      "id": "1(iii)",
+      "section": "Source-limited items",
+      "prompt": "Which is sports day? (a Friday, b Saturday, c Sunday, d Monday, e Thursday)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The school-routine listening passage is not included; common routines cannot replace the prescribed script.",
+      "source_page": 2
+    },
+    {
+      "id": "1(iv)",
+      "section": "Source-limited items",
+      "prompt": "Which listed activity is not played at school? (a football, b netball, c running, d swimming, e singing)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The school-routine listening passage is not included; common routines cannot replace the prescribed script.",
+      "source_page": 2
+    },
+    {
+      "id": "1(v)",
+      "section": "Source-limited items",
+      "prompt": "What do pupils learn? (a bad behaviour, b not everything, c stealing, d writing/reading/drawing/playing, e not playing/reading/swimming)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The school-routine listening passage is not included; common routines cannot replace the prescribed script.",
+      "source_page": 2
+    },
+    {
+      "id": "2(i)",
+      "section": "Grammar",
+      "prompt": "They have written a story ___ morning. (a since, b for, c and, d with, e at)",
+      "steps": [
+        "Since introduces the starting time.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "a. Since.",
+      "source_page": 2
+    },
+    {
+      "id": "2(ii)",
+      "section": "Grammar",
+      "prompt": "That is the pupil ___ mother is sick. (a who, b which, c whose, d whom, e what)",
+      "steps": [
+        "Whose shows possession/relationship.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "c. Whose.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Grammar",
+      "prompt": "I do not think ___ I will go there. (a unless, b if, c although, d and, e to)",
+      "steps": [
+        "Think takes a that-clause here; none of the printed words makes the intended sentence.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "No correct option. Correct: I do not think that I will go there, or omit that.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Grammar",
+      "prompt": "___ Juma writing a letter? (a are, b will, c were, d wasn't, e am)",
+      "steps": [
+        "Wasn't agrees with singular Juma and takes writing.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "d. Wasn't.",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Grammar",
+      "prompt": "Does Rehema ___ to school daily? (a gone, b going, c goes, d went, e go)",
+      "steps": [
+        "Does takes the base verb.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "e. Go.",
+      "source_page": 2
+    },
+    {
+      "id": "3(i)",
+      "section": "Vocabulary",
+      "prompt": "___ transmits programmes through radio or television. Bank: momerable, news, broadcasting, advertising, entertain.",
+      "steps": [
+        "Broadcasting is transmitting radio/TV programmes.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Broadcasting.",
+      "source_page": 3
+    },
+    {
+      "id": "3(ii)",
+      "section": "Vocabulary",
+      "prompt": "Programmes are meant to ___ and educate people.",
+      "steps": [
+        "Entertain is the base verb coordinated with educate.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Entertain.",
+      "source_page": 3
+    },
+    {
+      "id": "3(iii)",
+      "section": "Vocabulary",
+      "prompt": "Radio and television create ___ events for viewers.",
+      "steps": [
+        "Memorable means worth remembering.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Memorable (bank misspells momerable).",
+      "source_page": 3
+    },
+    {
+      "id": "3(iv)",
+      "section": "Vocabulary",
+      "prompt": "___ informs people about daily matters.",
+      "steps": [
+        "News gives information about current events.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "News.",
+      "source_page": 3
+    },
+    {
+      "id": "3(v)",
+      "section": "Vocabulary",
+      "prompt": "They earn income by ___ for companies.",
+      "steps": [
+        "Advertising is promotion paid for by businesses.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Advertising.",
+      "source_page": 3
+    },
+    {
+      "id": "4(i)",
+      "section": "Vocabulary",
+      "prompt": "Match child with dead parents: A spinster, B bride, C orphan, D widow, E bachelor, F bridegroom, G patient, H widower.",
+      "steps": [
+        "An orphan has lost parents.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Orphan.",
+      "source_page": 3
+    },
+    {
+      "id": "4(ii)",
+      "section": "Vocabulary",
+      "prompt": "Match a man whose wife has died.",
+      "steps": [
+        "Widower names a man whose spouse has died.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "H. Widower.",
+      "source_page": 3
+    },
+    {
+      "id": "4(iii)",
+      "section": "Vocabulary",
+      "prompt": "Match a man about to marry.",
+      "steps": [
+        "Bridegroom is the man at the wedding.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "F. Bridegroom.",
+      "source_page": 3
+    },
+    {
+      "id": "4(iv)",
+      "section": "Vocabulary",
+      "prompt": "Match a girl/woman about to marry.",
+      "steps": [
+        "Bride is the woman at the wedding.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Bride.",
+      "source_page": 3
+    },
+    {
+      "id": "4(v)",
+      "section": "Vocabulary",
+      "prompt": "Match an unmarried lady.",
+      "steps": [
+        "This term historically refers to an unmarried woman.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Spinster, the source's old-fashioned term.",
+      "source_page": 3
+    },
+    {
+      "id": "5(i)",
+      "section": "Vocabulary",
+      "prompt": "Write past: Asha ___ the wall blue (pant, printed).",
+      "steps": [
+        "The source omits i from paint.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Painted is intended if paint is corrected; panted is the past of literal pant but cannot take the wall blue.",
+      "source_page": 3
+    },
+    {
+      "id": "5(ii)",
+      "section": "Vocabulary",
+      "prompt": "We ___ to the announcement. (listen)",
+      "steps": [
+        "Add ed to the regular verb.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Listened.",
+      "source_page": 3
+    },
+    {
+      "id": "5(iii)",
+      "section": "Vocabulary",
+      "prompt": "Pupils ___ the ball. (kick)",
+      "steps": [
+        "Add ed to kick.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Kicked.",
+      "source_page": 3
+    },
+    {
+      "id": "5(iv)",
+      "section": "Vocabulary",
+      "prompt": "They ___ the headmaster questions. (ask)",
+      "steps": [
+        "Add ed to ask.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Asked.",
+      "source_page": 3
+    },
+    {
+      "id": "5(v)",
+      "section": "Vocabulary",
+      "prompt": "They ___ a picture. (draw)",
+      "steps": [
+        "Drew is the irregular past tense.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Drew.",
+      "source_page": 3
+    },
+    {
+      "id": "6(i)",
+      "section": "Comprehension and composition",
+      "prompt": "Who wrote the transfer letter?",
+      "steps": [
+        "The signature supplies his name; the question also spells it Mulay.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Joshua Mulary.",
+      "source_page": 4
+    },
+    {
+      "id": "6(ii)",
+      "section": "Comprehension and composition",
+      "prompt": "What kind of letter is it?",
+      "steps": [
+        "It addresses a headteacher with an admission subject line.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A formal request/application for school transfer or admission.",
+      "source_page": 4
+    },
+    {
+      "id": "6(iii)",
+      "section": "Comprehension and composition",
+      "prompt": "How many addresses appear?",
+      "steps": [
+        "Count Greenview's address and Highland's address.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Two: sender and recipient.",
+      "source_page": 4
+    },
+    {
+      "id": "6(iv)",
+      "section": "Comprehension and composition",
+      "prompt": "Where did Joshua move to?",
+      "steps": [
+        "The body names his new location.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Korogwe sisal estate.",
+      "source_page": 4
+    },
+    {
+      "id": "6(v)",
+      "section": "Comprehension and composition",
+      "prompt": "Who has difficulty travelling to school?",
+      "steps": [
+        "The letter says his daughter struggles to reach Airwing Primary School.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Joshua's daughter.",
+      "source_page": 4
+    },
+    {
+      "id": "7(i)",
+      "section": "Comprehension and composition",
+      "prompt": "Order A-E: She showed the dress to friends.",
+      "steps": [
+        "Showing follows receiving and excitement.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D.",
+      "source_page": 4
+    },
+    {
+      "id": "7(ii)",
+      "section": "Comprehension and composition",
+      "prompt": "Order: Mother bought her a dress.",
+      "steps": [
+        "The gift follows the birthday introduction.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B.",
+      "source_page": 4
+    },
+    {
+      "id": "7(iii)",
+      "section": "Comprehension and composition",
+      "prompt": "Order: Her friends were happy to see it.",
+      "steps": [
+        "Their response follows seeing it.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E.",
+      "source_page": 4
+    },
+    {
+      "id": "7(iv)",
+      "section": "Comprehension and composition",
+      "prompt": "Order: It was Rose's birthday party.",
+      "steps": [
+        "Introduce the occasion first.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A.",
+      "source_page": 4
+    },
+    {
+      "id": "7(v)",
+      "section": "Comprehension and composition",
+      "prompt": "Order: Rose was excited to get the dress.",
+      "steps": [
+        "Her reaction follows the gift.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Source-limited items": "The required script, picture or other information is missing. Use the stated limitation and obtain the original material before expecting a unique answer.",
+    "Grammar": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Vocabulary": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Comprehension and composition": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "SAP Standard Six (Darasa La Sita) Exams With Marking Schemes September 2024 - Kiswahili Medium Schools",
+      "url": "https://darasahuru.ac.tz/sap-standard-six-darasa-la-sita-exams-with-marking-schemes-september-2024-kiswahili-medium-schools/"
+    }
+  ],
+  "limitations": [
+    "1(i): The school-routine listening passage is not included; common routines cannot replace the prescribed script.",
+    "1(ii): The school-routine listening passage is not included; common routines cannot replace the prescribed script.",
+    "1(iii): The school-routine listening passage is not included; common routines cannot replace the prescribed script.",
+    "1(iv): The school-routine listening passage is not included; common routines cannot replace the prescribed script.",
+    "1(v): The school-routine listening passage is not included; common routines cannot replace the prescribed script.",
+    "2(iii): Required that is absent; none of the choices completes the sentence.",
+    "3(iii): Bank misspells memorable.",
+    "5(i): Pant should be paint for the wall-colour sentence."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)",
+    "7(v)"
+  ],
+  "question_count": "35 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "a997e37b27dae00b2c1cc6c68919d5406a96ec5d75fdc63a24dccc112bd4c803"
+}

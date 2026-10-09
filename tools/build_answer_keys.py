@@ -177,7 +177,7 @@ def cover(canvas, doc):
     table.drawOn(canvas, 48, 364)
     canvas.setFont(NORMAL, 11)
     canvas.setFillColor(GREY)
-    canvas.drawCentredString(WIDTH / 2, 321, "Standard 4  |  Standard 7  |  Form 2  |  Form 4")
+    canvas.drawCentredString(WIDTH / 2, 321, getattr(doc, "study_levels", "Standard 4  |  Standard 7  |  Form 2  |  Form 4"))
     canvas.setFont(NORMAL, 10)
     canvas.drawCentredString(WIDTH / 2, 264, "Share this with a friend.")
     canvas.drawCentredString(WIDTH / 2, 246, "Every student deserves free study materials.")
@@ -212,11 +212,32 @@ def validate(data):
         raise ValueError(f"Duplicate question labels: {data['exam']}")
     if set(ids) != set(data["expected_parts"]):
         raise ValueError(f"Missing/extra question parts: {data['exam']}")
+    if len(data["expected_parts"]) != len(set(data["expected_parts"])):
+        raise ValueError(f"Duplicate expected question labels: {data['exam']}")
+    if not isinstance(data.get("summaries", {}), dict):
+        raise ValueError(f"Section summaries must be a dictionary: {data['exam']}")
     for question in data["questions"]:
+        if not isinstance(question.get("prompt"), str) or not isinstance(question.get("answer"), str) or not isinstance(question.get("section"), str):
+            raise ValueError(f"Question text must be strings: {data['exam']} {question['id']}")
         if not question["prompt"] or not question["steps"] or not question["answer"]:
             raise ValueError(f"Incomplete solution: {data['exam']} {question['id']}")
+        if not isinstance(question["steps"], list) or any(not isinstance(step, str) or not step.strip() for step in question["steps"]):
+            raise ValueError(f"Invalid worked steps: {data['exam']} {question['id']}")
+        if question.get("image"):
+            image = (ROOT / question["image"]).resolve()
+            if not image.is_relative_to(ROOT) or not image.is_file():
+                raise ValueError(f"Missing/unsafe source figure: {data['exam']} {question['id']}")
     if not data.get("reviewed"):
         raise ValueError(f"Solution has not been reviewed: {data['exam']}")
+    manifest = ROOT / "exams" / "catalogue.json"
+    imported = json.loads(manifest.read_text(encoding="utf-8")).get("papers", {}) if manifest.exists() else {}
+    if source.name in imported:
+        verified = imported[source.name]
+        if data.get("board") != verified["board"] or str(data["year"]) != str(verified["year"]) or data.get("sha256") != verified["sha256"]:
+            raise ValueError(f"Incorrect source metadata: {data['exam']}")
+        for question in data["questions"]:
+            if type(question.get("source_page")) is not int or not 1 <= question["source_page"] <= verified["pages"]:
+                raise ValueError(f"Missing source-page reference: {data['exam']} {question['id']}")
     def strings(value):
         if isinstance(value, str):
             yield value
@@ -234,29 +255,36 @@ def validate(data):
             raise ValueError(f"Unsupported glyphs in {data['exam']} ({name}): {codes}")
 
 
-def build(data):
+def build(data, publish=True):
     validate(data)
     out = ROOT / "output" / "pdf" / data["output"]
     out.parent.mkdir(parents=True, exist_ok=True)
     doc = BaseDocTemplate(str(out), pagesize=A4, leftMargin=48, rightMargin=48, topMargin=64, bottomMargin=68, title=f"{data['subject']} {data['level']} {data['year']} - Answer Key", author="MyTZStudies.com", allowSplitting=True)
     doc.study_title = f"{data['subject']} | {data['level']} | {data['year']} | Answer Key"
+    if data.get("board"):
+        doc.study_levels = "Standards 1-7  |  Form 2  |  Form 4"
     frame = Frame(48, 68, CONTENT_WIDTH, HEIGHT - 132, leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0)
     doc.addPageTemplates([PageTemplate(id="Cover", frames=[frame], onPage=cover), PageTemplate(id="Body", frames=[frame], onPage=footer)])
     story = [NextPageTemplate("Body"), PageBreak(), Spacer(1, 30), para(f"{data['subject'].upper()}\n{data['level'].upper()}", "title"), para(f"{data['exam_type']} {data['year']}\nAnswer Key and Worked Solutions", "subtitle")]
-    rows = [("Subject", data["subject"]), ("Code", data["code"]), ("Level", data["level"]), ("Year", data["year"]), ("Exam Board", "NECTA"), ("Exam", data["exam_type"]), ("Type", "Answer key and worked solutions"), ("Questions", data["question_count"])]
+    rows = [("Subject", data["subject"]), ("Code", data["code"]), ("Level", data["level"]), ("Year", data["year"]), ("Exam Board / Issuer", data.get("board", "NECTA")), ("Exam", data["exam_type"]), ("Type", "Answer key and worked solutions"), ("Questions", data["question_count"])]
     table = Table([[para(k, "label"), para(v, "value")] for k, v in rows], colWidths=[145, CONTENT_WIDTH - 145], hAlign="LEFT")
     table.setStyle(TableStyle([("BACKGROUND", (0, 0), (0, -1), LIGHT_BLUE), ("GRID", (0, 0), (-1, -1), .5, colors.HexColor("#d4dde4")), ("VALIGN", (0, 0), (-1, -1), "TOP"), ("TOPPADDING", (0, 0), (-1, -1), 9), ("BOTTOMPADDING", (0, 0), (-1, -1), 9), ("LEFTPADDING", (0, 0), (-1, -1), 12), ("RIGHTPADDING", (0, 0), (-1, -1), 12)]))
     story.extend([table, Spacer(1, 23), para("Try each question before checking the solution. Follow the steps, compare your working, and practise the parts you find difficult.", "tip"), para("Source paper: " + data["exam"], "summary")])
     if data.get("labelling_note"):
         story.append(para(data["labelling_note"], "summary"))
     story.append(PageBreak())
+    if data.get("limitations"):
+        swahili_note = data.get("language") == "sw"
+        story.extend([para("Maelezo kuhusu karatasi asilia" if swahili_note else "Notes about the source paper", "section"),
+                      para("Maswali yenye taarifa zinazokosekana au makosa ya uchapaji yameelezwa wazi kwenye majibu yake. Jibu la mfano si jibu rasmi la lazima." if swahili_note else "Items with missing information or printing errors are explained in their solutions. A model response is an example, rather than a prescribed official answer.", "body")])
     sections = defaultdict(list)
     for question in data["questions"]:
         sections[question["section"]].append(question)
     swahili = data.get("language") == "sw"
     for section, questions in sections.items():
         for question_index, question in enumerate(questions):
-            label = "Jibu la mwisho / Final Answer" if swahili else "Final Answer"
+            question_swahili = question.get("language", data.get("language")) == "sw"
+            label = "Jibu la mwisho / Final Answer" if question_swahili else "Final Answer"
             answer_box = para(label + ": " + question["answer"], "answer")
             # Long model essays must start below their steps and fill the page.
             # Binding the last step to a whole essay creates nearly empty pages.
@@ -273,15 +301,15 @@ def build(data):
                 img.drawHeight = img.imageHeight * ratio
                 part_story.extend([img, Spacer(1, 9)])
             for index, step in enumerate(question["steps"], 1):
-                label = "Hatua" if swahili else "Step"
+                label = "Hatua" if question_swahili else "Step"
                 style = ParagraphStyle("last-step", parent=STYLES["body"], keepWithNext=True) if index == len(question["steps"]) and answer_height < 280 else STYLES["body"]
                 part_story.append(Paragraph(f"<b>{label} {index}:</b> {escape(step).replace(chr(10), '<br/>')}", style))
             part_story.append(answer_box)
             if question.get("tip"):
-                part_story.append(para(("Kidokezo cha kujifunza: " if swahili else "Study Tip: ") + question["tip"], "tip"))
+                part_story.append(para(("Kidokezo cha kujifunza: " if question_swahili else "Study Tip: ") + question["tip"], "tip"))
             summary = data.get("summaries", {}).get(section)
             if question_index == len(questions) - 1 and summary:
-                part_story.extend([HRFlowable(width="100%", color=colors.HexColor("#d9e1e6")), para(("Muhtasari wa sehemu: " if swahili else "Section Summary: ") + summary, "summary")])
+                part_story.extend([HRFlowable(width="100%", color=colors.HexColor("#d9e1e6")), para(("Muhtasari wa sehemu: " if question_swahili else "Section Summary: ") + summary, "summary")])
             question_height = sum(item.wrap(CONTENT_WIDTH, HEIGHT)[1] + item.getSpaceBefore() + item.getSpaceAfter() for item in part_story)
             if question_height > HEIGHT - 132:
                 answer_position = part_story.index(answer_box)
@@ -296,6 +324,9 @@ def build(data):
             reference_story.append(Paragraph(f'<link href="{url}" color="#1a5276">{title}</link>', STYLES["body"]))
         story.append(KeepTogether(reference_story))
     doc.build(story)
+    if not publish:
+        print(f"Rendered draft {data['output']} ({len(data['questions'])} answered parts)")
+        return out
     target = ROOT / "answer_keys" / data["output"]
     temporary = target.with_suffix(".publishing")
     shutil.copy2(out, temporary)
@@ -317,7 +348,8 @@ def build(data):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("sources", nargs="*")
+    parser.add_argument("--draft", action="store_true", help="Render to output/pdf without publishing to the website")
     args = parser.parse_args()
     sources = [Path(p) for p in args.sources] if args.sources else sorted((ROOT / "answer_keys" / "solutions").glob("*.json"))
     for source in sources:
-        build(json.loads(source.read_text(encoding="utf-8")))
+        build(json.loads(source.read_text(encoding="utf-8")), publish=not args.draft)

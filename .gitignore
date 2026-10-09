@@ -29,3 +29,7 @@ tmp/
 # Generated media stays on this PC; keep source projects in Git.
 /output/music/
 /output/shorts/
+
+# Atomic answer-key drafts are never deployable artifacts.
+*.writing
+*.publishing

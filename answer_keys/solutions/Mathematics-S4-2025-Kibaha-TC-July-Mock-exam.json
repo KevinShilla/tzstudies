@@ -1,0 +1,537 @@
+{
+  "exam": "Mathematics-S4-2025-Kibaha-TC-July-Mock-exam.pdf",
+  "output": "Mathematics-S4-2025-Kibaha-TC-July-Mock-exam-AnswerKey.pdf",
+  "sha256": "3e6bc6b339a27044e2d50f4917e563cdea907a6dab936b75725e8d882b3fb4bd",
+  "subject": "Mathematics",
+  "level": "Standard Four",
+  "year": "2025",
+  "code": "MOSE",
+  "board": "Kibaha TC",
+  "exam_type": "Mock exam - July",
+  "question_count": "25 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(a)",
+    "1(b)",
+    "1(c)",
+    "1(d)",
+    "1(e)",
+    "1(f)",
+    "2(a)",
+    "2(b)",
+    "2(c)",
+    "2(d)",
+    "2(e)",
+    "3(a)",
+    "3(b)",
+    "3(c)",
+    "4(a)",
+    "4(b)",
+    "4(c)",
+    "4(d)",
+    "5(a)",
+    "5(b)",
+    "5(c)",
+    "6(a)",
+    "6(b)",
+    "6(c)",
+    "6(d)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Numbers and applications",
+      "prompt": "Arrange VII, II, XIV, X, CXIX in ascending order.",
+      "steps": [
+        "Convert 7,2,14,10,119.",
+        "Order 2,7,10,14,119."
+      ],
+      "answer": "II, VII, X, XIV, CXIX",
+      "source_page": 2
+    },
+    {
+      "id": "1(b)",
+      "section": "Numbers and applications",
+      "prompt": "Write seventy-two point seven one in figures.",
+      "steps": [
+        "Whole part 72; decimal digits 7 and 1."
+      ],
+      "answer": "72.71",
+      "source_page": 2
+    },
+    {
+      "id": "1(c)",
+      "section": "Numbers and applications",
+      "prompt": "Represent 26109 on an abacus.",
+      "steps": [
+        "Label five rods ten-thousands, thousands, hundreds, tens, ones.",
+        "Put 2,6,1,0,9 beads respectively."
+      ],
+      "answer": "Beads 2,6,1,0,9 on the respective rods.",
+      "source_page": 2
+    },
+    {
+      "id": "1(d)",
+      "section": "Calculations",
+      "prompt": "Subtract 3592 -702.",
+      "steps": [
+        "1 place: 2 - 2 = 0.",
+        "10 place: 9 - 0 = 9.",
+        "100 place: regroup 1 from the next place; 15 - 7 = 8.",
+        "1000 place: 2 - 0 = 2.",
+        "3592 - 702 = 2890; check 2890 + 702 = 3592."
+      ],
+      "answer": "2890",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "3592-702",
+          "expected": "2890"
+        },
+        {
+          "expression": "2 - 2",
+          "expected": "0"
+        },
+        {
+          "expression": "9 - 0",
+          "expected": "9"
+        },
+        {
+          "expression": "15 - 7",
+          "expected": "8"
+        },
+        {
+          "expression": "2 - 0",
+          "expected": "2"
+        },
+        {
+          "expression": "3592 - 702",
+          "expected": "2890"
+        },
+        {
+          "expression": "2890 + 702",
+          "expected": "3592"
+        }
+      ]
+    },
+    {
+      "id": "1(e)",
+      "section": "Calculations",
+      "prompt": "Multiply 294 x 33.",
+      "steps": [
+        "Split into place values: 200 x 33 = 6600; 90 x 33 = 2970; 4 x 33 = 132.",
+        "Add the partial products: 9702."
+      ],
+      "answer": "9702",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "294*33",
+          "expected": "9702"
+        },
+        {
+          "expression": "200 * 33",
+          "expected": "6600"
+        },
+        {
+          "expression": "90 * 33",
+          "expected": "2970"
+        },
+        {
+          "expression": "4 * 33",
+          "expected": "132"
+        }
+      ]
+    },
+    {
+      "id": "1(f)",
+      "section": "Calculations",
+      "prompt": "Divide 805 by 5.",
+      "steps": [
+        "8 / 5: write 1; 1 x 5 = 5; 8 - 5 = 3.",
+        "30 / 5: write 6; 6 x 5 = 30; 30 - 30 = 0.",
+        "5 / 5: write 1; 1 x 5 = 5; 5 - 5 = 0.",
+        "5 x 161 = 805.",
+        "805 / 5 = 161."
+      ],
+      "answer": "161",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "805/5",
+          "expected": "161"
+        },
+        {
+          "expression": "1 * 5",
+          "expected": "5"
+        },
+        {
+          "expression": "8 - 5",
+          "expected": "3"
+        },
+        {
+          "expression": "6 * 5",
+          "expected": "30"
+        },
+        {
+          "expression": "30 - 30",
+          "expected": "0"
+        },
+        {
+          "expression": "5 - 5",
+          "expected": "0"
+        },
+        {
+          "expression": "5 * 161",
+          "expected": "805"
+        },
+        {
+          "expression": "805 / 5",
+          "expected": "161"
+        }
+      ]
+    },
+    {
+      "id": "2(a)",
+      "section": "Numbers and applications",
+      "prompt": "Arrange 3/9,8/9,6/9,5/9 from smallest to greatest.",
+      "steps": [
+        "All denominators match 9.",
+        "Order numerators 3,5,6,8."
+      ],
+      "answer": "3/9,5/9,6/9,8/9",
+      "source_page": 2
+    },
+    {
+      "id": "2(b)",
+      "section": "Numbers and applications",
+      "prompt": "Calculate 2/3 x 3/4.",
+      "steps": [
+        "Multiply numerators 2 x 3 = 6 and denominators 3 x 4 = 12.",
+        "6/12=1/2."
+      ],
+      "answer": "1/2",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "(2/3)*(3/4)",
+          "expected": "1/2"
+        },
+        {
+          "expression": "2 * 3",
+          "expected": "6"
+        },
+        {
+          "expression": "3 * 4",
+          "expected": "12"
+        },
+        {
+          "expression": "6/12",
+          "expected": "1/2"
+        }
+      ]
+    },
+    {
+      "id": "2(c)",
+      "section": "Numbers and applications",
+      "prompt": "Which is greater,1/4 or 2/4?",
+      "steps": [
+        "Denominators match;2>1."
+      ],
+      "answer": "2/4",
+      "source_page": 2
+    },
+    {
+      "id": "2(d)",
+      "section": "Numbers and applications",
+      "prompt": "Asha eats 3/10 of an apple, Mwanaidi 5/10. Fraction eaten altogether?",
+      "steps": [
+        "3 + 5 = 8; denominator 10.",
+        "8/10 = 4/5."
+      ],
+      "answer": "4/5",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "3/10+5/10",
+          "expected": "4/5"
+        },
+        {
+          "expression": "3 + 5",
+          "expected": "8"
+        },
+        {
+          "expression": "8/10",
+          "expected": "4/5"
+        }
+      ]
+    },
+    {
+      "id": "2(e)",
+      "section": "Numbers and applications",
+      "prompt": "Write the shaded fraction of the circle divided into 4 sectors.",
+      "steps": [
+        "All 4 sectors have the same printed dotted shading.",
+        "4/4=1."
+      ],
+      "answer": "1 whole (4/4)",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "4/4",
+          "expected": "1"
+        }
+      ]
+    },
+    {
+      "id": "3(a)",
+      "section": "Calculations",
+      "prompt": "Shoes cost 25300 shillings, underskirt 13750, watch 18000. Total spent?",
+      "steps": [
+        "25300 + 13750 = 39050.",
+        "25300 + 13750 + 18000 = 57050.",
+        "25300+13750+18000 = 57050."
+      ],
+      "answer": "57050 shillings",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "25300+13750+18000",
+          "expected": "57050"
+        },
+        {
+          "expression": "25300 + 13750",
+          "expected": "39050"
+        },
+        {
+          "expression": "25300 + 13750 + 18000",
+          "expected": "57050"
+        }
+      ]
+    },
+    {
+      "id": "3(b)",
+      "section": "Numbers and applications",
+      "prompt": "Add Sh 60500 st 20 and Sh 40800 st 90.",
+      "steps": [
+        "Cents 20 + 90 = 110=1 shilling 10 cents.",
+        "Shillings 60500 + 40800 + 1 = 101301."
+      ],
+      "answer": "Sh 101301 st 10",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "60500.20+40800.90",
+          "expected": "1013011/10"
+        },
+        {
+          "expression": "20 + 90",
+          "expected": "110"
+        },
+        {
+          "expression": "60500 + 40800 + 1",
+          "expected": "101301"
+        }
+      ]
+    },
+    {
+      "id": "3(c)",
+      "section": "Numbers and applications",
+      "prompt": "How many 50-cent pieces equal 300 shillings?",
+      "steps": [
+        "300 x 100 = 30000 cents.",
+        "30000 / 50 = 600."
+      ],
+      "answer": "600",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "300 * 100",
+          "expected": "30000"
+        },
+        {
+          "expression": "30000 / 50",
+          "expected": "600"
+        }
+      ]
+    },
+    {
+      "id": "4(a)",
+      "section": "Numbers and applications",
+      "prompt": "Draw an analogue clock showing 08:15.",
+      "steps": [
+        "Minute hand points 3.",
+        "Hour hand is a quarter of the way from 8 to 9."
+      ],
+      "answer": "08:15; long hand 3, short hand just past 8.",
+      "source_page": 3
+    },
+    {
+      "id": "4(b)",
+      "section": "Numbers and applications",
+      "prompt": "Convert 10:57 p.m.to 24-hour time.",
+      "steps": [
+        "10 + 12 = 22; minutes 57 stay."
+      ],
+      "answer": "22:57",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "10 + 12",
+          "expected": "22"
+        }
+      ]
+    },
+    {
+      "id": "4(c)",
+      "section": "Numbers and applications",
+      "prompt": "Malaika visits her aunt for 72 hours. How many days?",
+      "steps": [
+        "72 / 24 = 3."
+      ],
+      "answer": "3 days",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "72 / 24",
+          "expected": "3"
+        }
+      ]
+    },
+    {
+      "id": "4(d)",
+      "section": "Numbers and applications",
+      "prompt": "Meeting starts 7:15 a.m.and ends 11:30 a.m. Duration?",
+      "steps": [
+        "7:15 to 11:15 is 4 hours.",
+        "11:15 to 11:30 is 15 minutes."
+      ],
+      "answer": "4 hours 15 minutes",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "(11*60+30)-(7*60+15)",
+          "expected": "255"
+        }
+      ]
+    },
+    {
+      "id": "5(a)",
+      "section": "Numbers and applications",
+      "prompt": "Convert 17 kg to grams.",
+      "steps": [
+        "17 x 1000 = 17000."
+      ],
+      "answer": "17000 g",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "17 * 1000",
+          "expected": "17000"
+        }
+      ]
+    },
+    {
+      "id": "5(b)",
+      "section": "Numbers and applications",
+      "prompt": "Nyambali has 6 Lmilk and gives 3 L 500 ml away. What remains?",
+      "steps": [
+        "6 L=6000 ml;3 L 500 ml=3500 ml.",
+        "6000 - 3500 = 2500 ml."
+      ],
+      "answer": "2 L 500 ml",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "6000 - 3500",
+          "expected": "2500"
+        }
+      ]
+    },
+    {
+      "id": "5(c)",
+      "section": "Numbers and applications",
+      "prompt": "Choose from 150 ml,400 ml,500 ml to measure 550 ml.",
+      "steps": [
+        "150 + 400 = 550."
+      ],
+      "answer": "150 ml and 400 ml",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "150 + 400",
+          "expected": "550"
+        }
+      ]
+    },
+    {
+      "id": "6(a)",
+      "section": "Numbers and applications",
+      "prompt": "Classify the STOP-sign octagon and the roadworks-sign triangle as plane or non-plane figures.",
+      "steps": [
+        "The two outlines have length and width only."
+      ],
+      "answer": "Both are plane figures (octagon and triangle).",
+      "source_page": 4
+    },
+    {
+      "id": "6(b)",
+      "section": "Numbers and applications",
+      "prompt": "Name the rays from A through D, E; B, C; and F, G.",
+      "steps": [
+        "A is the shared endpoint.",
+        "AD and AE name the same upward ray; AB and AC the same lower-right ray; AF and AG the same lower-left ray."
+      ],
+      "answer": "3 distinct rays:AE(or AD), AC(or AB), AG(or AF).",
+      "source_page": 4
+    },
+    {
+      "id": "6(c)",
+      "section": "Numbers and applications",
+      "prompt": "Find perimeter of triangle sides 21 m,17 m,30 m.",
+      "steps": [
+        "Perimeter=sum of all sides.",
+        "21 + 17 + 30 = 68."
+      ],
+      "answer": "68 m",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "21 + 17 + 30",
+          "expected": "68"
+        }
+      ]
+    },
+    {
+      "id": "6(d)",
+      "section": "Numbers and applications",
+      "prompt": "Find area of rectangle 14 cm by 10 cm.",
+      "steps": [
+        "Area=length xwidth.",
+        "14 x 10 = 140."
+      ],
+      "answer": "140 cm²",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "14 * 10",
+          "expected": "140"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Numbers and applications": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - Kibaha TC Standard Four Mock Examination July 2025 - Misugusugu-Kongowe A-Mbwawa And Kibaha Wards",
+      "url": "https://darasahuru.ac.tz/kibaha-tc-standard-four-mock-examination-july-2025/"
+    }
+  ],
+  "limitations": [],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "dba20b08d05fa9314f15cc100e4c0db0615861b71d2b227c0c368fe79c959947"
+}

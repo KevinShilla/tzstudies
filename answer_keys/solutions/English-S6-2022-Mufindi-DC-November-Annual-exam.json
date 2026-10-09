@@ -1,0 +1,569 @@
+{
+  "exam": "English-S6-2022-Mufindi-DC-November-Annual-exam.pdf",
+  "output": "English-S6-2022-Mufindi-DC-November-Annual-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Six",
+  "year": "2022",
+  "code": "Not printed in source",
+  "board": "Mufindi DC",
+  "exam_type": "Annual exam - November",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "085f4801669820d958fe40092511b9f10edc3d4c4ec15ee36faf453e8d25f742",
+  "questions": [
+    {
+      "id": "1",
+      "section": "Listening and grammar",
+      "prompt": "Which subject was the teacher teaching? (A Kiswahili, B English, C science, D mathematics)",
+      "steps": [
+        "The included page 1 listening passage names English.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. English.",
+      "source_page": 2
+    },
+    {
+      "id": "2",
+      "section": "Listening and grammar",
+      "prompt": "What did the narrator remember? (A teacher, B self-introduction, C best moment at a new school, D class)",
+      "steps": [
+        "This is the passage's opening topic.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. The best moment at a new school.",
+      "source_page": 2
+    },
+    {
+      "id": "3",
+      "section": "Listening and grammar",
+      "prompt": "Why did the narrator feel afraid? (A all pupils looked at the narrator, B introducing in English, C first entry, D overcoming fear)",
+      "steps": [
+        "The passage explicitly gives this cause.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Everyone turned their eyes on the narrator.",
+      "source_page": 2
+    },
+    {
+      "id": "4",
+      "section": "Listening and grammar",
+      "prompt": "What did the teacher ask the narrator to do? (A sit, B cheer, C teach, D introduce in English)",
+      "steps": [
+        "The teacher's instruction is stated directly.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Introduce himself/herself in English.",
+      "source_page": 2
+    },
+    {
+      "id": "5",
+      "section": "Listening and grammar",
+      "prompt": "Why did the class cheer? (A happy, B good English, C overcame fear, D first arrival)",
+      "steps": [
+        "The successful effort immediately precedes the cheering.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. The narrator overcame fear and introduced himself/herself.",
+      "source_page": 2
+    },
+    {
+      "id": "6",
+      "section": "Listening and grammar",
+      "prompt": "Bring the letter ___ the postman left. (A who, B whose, C which, D whom)",
+      "steps": [
+        "Which refers to the letter.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Which.",
+      "source_page": 2
+    },
+    {
+      "id": "7",
+      "section": "Listening and grammar",
+      "prompt": "Children prefer playing ___ eating. (A and, B to, C both, D with)",
+      "steps": [
+        "Use prefer X to Y.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. To.",
+      "source_page": 2
+    },
+    {
+      "id": "8",
+      "section": "Listening and grammar",
+      "prompt": "I will see a doctor ___ I do not feel better. (A if, B although, C unless, D yet)",
+      "steps": [
+        "If introduces the condition for the visit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. If.",
+      "source_page": 2
+    },
+    {
+      "id": "9",
+      "section": "Listening and grammar",
+      "prompt": "Report Yohana said, I feel dizzy.",
+      "steps": [
+        "Change I to he and backshift feel to felt in ordinary past reporting.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Yohana said that he felt dizzy.",
+      "source_page": 2
+    },
+    {
+      "id": "10",
+      "section": "Listening and grammar",
+      "prompt": "___ the visitors arrived, we welcomed them. (A as, B while, C when, D was)",
+      "steps": [
+        "When introduces the arrival event.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. When (intended); A. as is also possible.",
+      "source_page": 2
+    },
+    {
+      "id": "11",
+      "section": "Listening and grammar",
+      "prompt": "Which is a compound word? (A butterflies, B beautiful, C difficult, D company)",
+      "steps": [
+        "Butterfly is built from butter and fly; butterflies is its plural.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Butterflies.",
+      "source_page": 2
+    },
+    {
+      "id": "12",
+      "section": "Listening and grammar",
+      "prompt": "I ___ English for ten weeks now. (A has been learning, B have been learn, C have been learning, D had learnt)",
+      "steps": [
+        "I takes have; been learning describes an activity continuing until now.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Have been learning.",
+      "source_page": 2
+    },
+    {
+      "id": "13",
+      "section": "Listening and grammar",
+      "prompt": "Where is the boy ___ you were speaking to? (A whose, B who, C which, D whom)",
+      "steps": [
+        "The pronoun is the object of speaking to.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Whom (formal object); B. who is accepted in ordinary English.",
+      "source_page": 2
+    },
+    {
+      "id": "14",
+      "section": "Listening and grammar",
+      "prompt": "I looked at ___ in the mirror. (A self, B my face, C myself, D ourself)",
+      "steps": [
+        "Use myself when the object is the speaker as a whole.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Myself (intended reflexive); B. my face is also meaningful.",
+      "source_page": 2
+    },
+    {
+      "id": "15",
+      "section": "Listening and grammar",
+      "prompt": "The news ___ broadcast on television. (A is, B are, C were, D will)",
+      "steps": [
+        "News is grammatically singular.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Is.",
+      "source_page": 2
+    },
+    {
+      "id": "16",
+      "section": "Listening and grammar",
+      "prompt": "Anna always ___ her husband on Saturday. (A visiting, B visited, C visitinling, D visits)",
+      "steps": [
+        "A singular subject takes visits for a current habit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Visits.",
+      "source_page": 2
+    },
+    {
+      "id": "17",
+      "section": "Grammar and composition",
+      "prompt": "If they ___ enough training, they would have won. (A have, B had, C would had, D would have)",
+      "steps": [
+        "The complete past-perfect condition needs had had; the first had is auxiliary and the second means received.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Had is the best printed choice. For a past unreal condition: If they had had enough training, they would have won.",
+      "source_page": 3
+    },
+    {
+      "id": "18",
+      "section": "Grammar and composition",
+      "prompt": "If it rain we ___ not going to school. (A shall, B should)",
+      "steps": [
+        "Shall/should require a base verb or be; neither can directly precede not going here.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "No correct completion as printed. Correct future: If it rains, we shall not go to school. Correct continuous: If it rains, we are not going to school.",
+      "source_page": 3
+    },
+    {
+      "id": "19",
+      "section": "Grammar and composition",
+      "prompt": "What is a thug? (A violent person, B dirty person, C beautiful person, D ugly person)",
+      "steps": [
+        "Thug refers to a violent criminal or aggressive person.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. A violent person.",
+      "source_page": 3
+    },
+    {
+      "id": "20",
+      "section": "Grammar and composition",
+      "prompt": "They have learned English ___ six years. (A for, B after, C since, D before)",
+      "steps": [
+        "For introduces duration.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. For.",
+      "source_page": 3
+    },
+    {
+      "id": "21",
+      "section": "Grammar and composition",
+      "prompt": "Our teacher has been sick ___ last month. (A after, B before, C since, D for)",
+      "steps": [
+        "Since introduces the starting time.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Since.",
+      "source_page": 3
+    },
+    {
+      "id": "22",
+      "section": "Grammar and composition",
+      "prompt": "Children were tired ___ they still wanted to play. (A and, B also, C yet, D but)",
+      "steps": [
+        "Tiredness and continued desire to play contrast.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. But or C. yet express the intended contrast; A. and also links the statements grammatically.",
+      "source_page": 3
+    },
+    {
+      "id": "24",
+      "section": "Grammar and composition",
+      "prompt": "Opposite of beautiful? (A good, B small, C handsome, D ugly)",
+      "steps": [
+        "Ugly is the usual opposite of beautiful.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Ugly.",
+      "source_page": 3
+    },
+    {
+      "id": "25",
+      "section": "Grammar and composition",
+      "prompt": "Make passive: The man brought pens.",
+      "steps": [
+        "Move pens to the subject and use were brought to keep past tense.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Pens were brought by the man.",
+      "source_page": 3
+    },
+    {
+      "id": "26",
+      "section": "Grammar and composition",
+      "prompt": "Juma's behaviour differs ___ his father's. (A from, B with, C than, D to)",
+      "steps": [
+        "Different from is the expected comparison phrase.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. From (standard intended form).",
+      "source_page": 3
+    },
+    {
+      "id": "27",
+      "section": "Grammar and composition",
+      "prompt": "Make I love my country plural. (A I loved my country, B we love our country, C we loved our country, D she loved the country)",
+      "steps": [
+        "Change I to we and my to our while retaining present tense.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. We love our country.",
+      "source_page": 3
+    },
+    {
+      "id": "28",
+      "section": "Grammar and composition",
+      "prompt": "We are going to school, ___? (A don't we, B are we, C aren't we, D did we)",
+      "steps": [
+        "A positive are statement takes a negative are tag.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Aren't we?",
+      "source_page": 3
+    },
+    {
+      "id": "29",
+      "section": "Grammar and composition",
+      "prompt": "Your work is ___ than yesterday. (A worse, B bad, C worst, D worses)",
+      "steps": [
+        "Worse is the irregular comparative of bad.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Worse.",
+      "source_page": 3
+    },
+    {
+      "id": "30",
+      "section": "Grammar and composition",
+      "prompt": "Henish ___ to school ___ foot daily. (A goes/on, B go/on, C goes/by, D goes/with)",
+      "steps": [
+        "A singular habitual subject takes goes; walking is on foot.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Goes...on.",
+      "source_page": 3
+    },
+    {
+      "id": "31",
+      "section": "Grammar and composition",
+      "prompt": "Who flies an aeroplane? (A doctor, B pilot, C captain, D soldier)",
+      "steps": [
+        "A pilot operates an aircraft.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Pilot.",
+      "source_page": 3
+    },
+    {
+      "id": "32",
+      "section": "Grammar and composition",
+      "prompt": "A young elephant is a ___. (A cab, B cow, C fawn, D calf)",
+      "steps": [
+        "Calf is the young-elephant term.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Calf.",
+      "source_page": 3
+    },
+    {
+      "id": "33",
+      "section": "Grammar and composition",
+      "prompt": "Mambo has been headteacher ___ 1980. (A for, B since, C if, D on)",
+      "steps": [
+        "Since introduces the starting year.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Since.",
+      "source_page": 3
+    },
+    {
+      "id": "34",
+      "section": "Grammar and composition",
+      "prompt": "Mwaija got good test marks. She is ___. (A coward, B intelligent, C beautiful, D powerful)",
+      "steps": [
+        "The context associates good academic performance with intelligence.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Intelligent (intended description).",
+      "source_page": 3
+    },
+    {
+      "id": "35",
+      "section": "Grammar and composition",
+      "prompt": "Your brother's son is your ___. (A uncle, B cousin, C nephew, D niece)",
+      "steps": [
+        "Nephew is the male child of one's sibling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Nephew.",
+      "source_page": 3
+    },
+    {
+      "id": "36",
+      "section": "Grammar and composition",
+      "prompt": "Order A-E: It is found in Iringa region, Tanzania.",
+      "steps": [
+        "Location follows introduction of Ruaha National Park.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B.",
+      "source_page": 3
+    },
+    {
+      "id": "37",
+      "section": "Comprehension",
+      "prompt": "Order: It has five big animals like elephant, rhino, giraffe and lion.",
+      "steps": [
+        "Animal examples follow the park's introduction, location and size. The printed list contains four examples despite saying five.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D.",
+      "source_page": 4
+    },
+    {
+      "id": "38",
+      "section": "Comprehension",
+      "prompt": "Order: Many tourists visit to see Ruaha's beauty.",
+      "steps": [
+        "The visitors sentence concludes the description.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E.",
+      "source_page": 4
+    },
+    {
+      "id": "39",
+      "section": "Comprehension",
+      "prompt": "Order: Ruaha is the second-largest park in Tanzania.",
+      "steps": [
+        "Name the park before sentences beginning It.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A.",
+      "source_page": 4
+    },
+    {
+      "id": "40",
+      "section": "Comprehension",
+      "prompt": "Order: It has about 22893 kilometres (printed).",
+      "steps": [
+        "Place the size after location. Area should be in square kilometres; the printed figure is not the TANAPA figure.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C.",
+      "source_page": 4
+    },
+    {
+      "id": "41",
+      "section": "Comprehension",
+      "prompt": "What is Mr. Macha's job?",
+      "steps": [
+        "The first sentence gives his occupation.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Teacher.",
+      "source_page": 4
+    },
+    {
+      "id": "42",
+      "section": "Comprehension",
+      "prompt": "Which child is the bank clerk?",
+      "steps": [
+        "The passage names this child as the bank clerk.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "The third-born child.",
+      "source_page": 4
+    },
+    {
+      "id": "43",
+      "section": "Comprehension",
+      "prompt": "What does the farmer in the passage do?",
+      "steps": [
+        "The second-born child's work is stated explicitly.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Grows different crops.",
+      "source_page": 4
+    },
+    {
+      "id": "44",
+      "section": "Comprehension",
+      "prompt": "What does the doctor do?",
+      "steps": [
+        "The passage directly describes the first-born child's job.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Treats sick people.",
+      "source_page": 4
+    },
+    {
+      "id": "45",
+      "section": "Comprehension",
+      "prompt": "What does a policewoman do?",
+      "steps": [
+        "The passage gives the occupation but not its duties; this is the appropriate general description.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Maintains law and order, helps protect people and investigates crime.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Listening and grammar": "Listen to the supplied teacher text and identify the exact detail asked for. Check spelling and sentence punctuation; missing scripts are explicitly identified.",
+    "Grammar and composition": "Follow a clear sequence and keep the tense consistent. Introduce people and events before their pronouns, actions and final outcome.",
+    "Comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "Standard Six Exams | 2010 - 2023 | Monthly, Midterm, Terminal and Annual Exams - Download All Subjects - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/standard-six-exams-2010-2023-monthly-midterm-terminal-and-annual-exams-download-all-subjects/"
+    },
+    {
+      "title": "TANAPA: Ruaha National Park",
+      "url": "https://www.tanzaniaparks.go.tz/ruaha"
+    }
+  ],
+  "limitations": [
+    "Numbering: 23 is absent in the printed paper, so 44 tasks are covered.",
+    "17: Fully past unreal condition requires had had, absent from the choices.",
+    "18: Neither auxiliary fits the printed verb phrase; both corrected versions are supplied.",
+    "37,40: Animal list count and area wording are defective. TANAPA lists Ruaha at about 20,226 square kilometres, rather than the printed figure."
+  ],
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+  ],
+  "question_count": "44 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "24895ab77fa63876917165cb8ba93f9b4dd403a6cbb44fe5b4269cd4d3a6cf8a"
+}

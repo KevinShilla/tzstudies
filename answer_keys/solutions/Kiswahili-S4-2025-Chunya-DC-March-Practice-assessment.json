@@ -1,0 +1,338 @@
+{
+  "exam": "Kiswahili-S4-2025-Chunya-DC-March-Practice-assessment.pdf",
+  "output": "Kiswahili-S4-2025-Chunya-DC-March-Practice-assessment-AnswerKey.pdf",
+  "sha256": "6ddbf7571261d2cb522bcac590fc5e6f402eeb9f5ef39ff046e36dd0681169ec",
+  "subject": "Kiswahili",
+  "level": "Standard Four",
+  "year": "2025",
+  "code": "Not printed in source",
+  "board": "Chunya DC",
+  "exam_type": "Practice assessment - March",
+  "question_count": "Vipengele 25 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1(1)",
+    "1(2)",
+    "1(3)",
+    "1(4)",
+    "1(5)",
+    "2(1)",
+    "2(2)",
+    "2(3)",
+    "2(4)",
+    "2(5)",
+    "3(1)",
+    "3(2)",
+    "3(3)",
+    "3(4)",
+    "3(5)",
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "4(4)",
+    "4(5)",
+    "5(1)",
+    "5(2)",
+    "5(3)",
+    "5(4)",
+    "5(5)"
+  ],
+  "questions": [
+    {
+      "id": "1(1)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1(1).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "1(2)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1(2).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "1(3)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1(3).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "1(4)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1(4).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "1(5)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1(5).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "2(1)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Mvua inanyesha: wakati gani? A uliopita, B uliopo, C ujao, D uliopo mtimilifu.",
+      "steps": [
+        "Kiambishi na- huonyesha kitendo kinachoendelea sasa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Uliopo.",
+      "source_page": 1
+    },
+    {
+      "id": "2(2)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Mama alisema, “Mwanangu usome kwa bidii”: kauli gani? A taarifa, B amrishi, C ulizi, D halisi.",
+      "steps": [
+        "Maneno ya mama yamenukuliwa moja kwa moja ndani ya alama za kunukuu. Kauli iliyomo ina agizo, lakini sentensi nzima ni usemi halisi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Kauli halisi.",
+      "source_page": 1
+    },
+    {
+      "id": "2(3)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Ng’ombe wetu hula nyasi: hali gani? A mazoea, B timilifu, C endelevu, D iliyomalizika.",
+      "steps": [
+        "Hu- inaonyesha kitendo kinachofanywa mara kwa mara.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Mazoea.",
+      "source_page": 1
+    },
+    {
+      "id": "2(4)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kesho tutaenda sokoni: sokoni ni aina gani? A nomino, B kielezi, C kiwakilishi, D kivumishi.",
+      "steps": [
+        "Sokoni hujibu tutakwenda wapi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Kielezi cha mahali.",
+      "source_page": 1
+    },
+    {
+      "id": "2(5)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kanusha Nimeshakula chakula. A hatujala, B sitakula, C sintakula, D sijala.",
+      "steps": [
+        "Mi- ya nafsi ya kwanza hubaki si- katika kukanusha; kitendo hakijakamilika.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Sijala chakula.",
+      "source_page": 1
+    },
+    {
+      "id": "3(1)",
+      "section": "Lugha ya kisanii",
+      "prompt": "Watoto wa mtu mmoja hulala chini kila mwaka.",
+      "steps": [
+        "Maboga huota kutoka mmea mmoja na hutambaa/kaa ardhini.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Maboga.",
+      "source_page": 1
+    },
+    {
+      "id": "3(2)",
+      "section": "Lugha ya kisanii",
+      "prompt": "Fimbo ya mbali ____",
+      "steps": [
+        "Msaada ulio mbali hauwezi kutatua shida ya sasa kwa wakati.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Haiui nyoka.",
+      "source_page": 1
+    },
+    {
+      "id": "3(3)",
+      "section": "Lugha ya kisanii",
+      "prompt": "Mwanang’ang’a hulia mwituni.",
+      "steps": [
+        "Shoka hutoa mlio linapokata miti msituni.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Shoka.",
+      "source_page": 1
+    },
+    {
+      "id": "3(4)",
+      "section": "Lugha ya kisanii",
+      "prompt": "Tega kitendawili chenye jibu yai.",
+      "steps": [
+        "Yai limefungwa na ganda bila mlango.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Nyumba yangu haina mlango.",
+      "source_page": 1
+    },
+    {
+      "id": "3(5)",
+      "section": "Lugha ya kisanii",
+      "prompt": "Musa alikula supu katika mechi ya mpira: maana gani?",
+      "steps": [
+        "Agizo linataka maana ya picha katika muktadha wa mechi, si kula chakula. Nahau ya kawaida piga supu hutumiwa kwa kutegea; chanzo kimeandika alikula supu bila maelezo zaidi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kwa matumizi ya kutegea yaliyokusudiwa: hakujituma katika mchezo.",
+      "source_page": 1,
+      "tip": "Mwalimu au mchapishaji athibitishe kama kula supu ni matumizi yaliyokusudiwa ya piga supu/kutegea."
+    },
+    {
+      "id": "4(1)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Ndoto yangu ni kuwa mtafsiri na mkalimani.",
+      "steps": [
+        "Ndoto hufunga maelezo baada ya masomo na bidii.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E",
+      "source_page": 1
+    },
+    {
+      "id": "4(2)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Umri wangu ni miaka 11.",
+      "steps": [
+        "Umri hufuata jina.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B",
+      "source_page": 1
+    },
+    {
+      "id": "4(3)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Ninasoma darasa la nne Shule ya Mipango.",
+      "steps": [
+        "Masomo hufuata umri.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C",
+      "source_page": 1
+    },
+    {
+      "id": "4(4)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Ninasoma kwa bidii na napenda Kiswahili.",
+      "steps": [
+        "Bidii na somo pendwa hufuata kutaja shule.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D",
+      "source_page": 1
+    },
+    {
+      "id": "4(5)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Mimi naitwa Ayubu Mkali.",
+      "steps": [
+        "Jina ndilo utangulizi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A",
+      "source_page": 1
+    },
+    {
+      "id": "5(1)",
+      "section": "Ufahamu",
+      "prompt": "Fanani ni mtu gani?",
+      "steps": [
+        "Habari imemtaja fanani kama msimuliaji wa hadithi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mtu anayesimulia au kuwasilisha hadithi kwa hadhira.",
+      "source_page": 1
+    },
+    {
+      "id": "5(2)",
+      "section": "Ufahamu",
+      "prompt": "Hadithi ni kazi ya aina gani?",
+      "steps": [
+        "Sentensi ya kwanza inaeleza hadithi kuwa kazi ya kisanaa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kazi ya kisanaa inayotumia masimulizi.",
+      "source_page": 1
+    },
+    {
+      "id": "5(3)",
+      "section": "Ufahamu",
+      "prompt": "Taja umuhimu mbili za hadithi.",
+      "steps": [
+        "Habari imetaja kuelimisha, kuonya, kuasa, kufundisha na kuburudisha; chagua mbili.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Kuelimisha jamii na kuonya kuhusu tabia mbaya.",
+      "source_page": 1
+    },
+    {
+      "id": "5(4)",
+      "section": "Ufahamu",
+      "prompt": "Hadithi za zamani zilihifadhiwa wapi?",
+      "steps": [
+        "Habari inasema uhifadhi mkubwa ulikuwa kichwani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kichwani/kumbukumbuni.",
+      "source_page": 1
+    },
+    {
+      "id": "5(5)",
+      "section": "Ufahamu",
+      "prompt": "Sayansi na teknolojia zimeathirije uhifadhi?",
+      "steps": [
+        "Habari inalinganisha uhifadhi wa zamani na njia hizi mpya.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Zimewezesha kuhifadhi hadithi kwenye maandishi na tepu rekoda badala ya kutegemea kichwa pekee.",
+      "source_page": 1
+    }
+  ],
+  "summaries": {
+    "Imla": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Matumizi ya lugha": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Lugha ya kisanii": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Utungaji": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ufahamu": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "CHUNYA DC Standard Four Examination Test March 2025",
+      "url": "https://darasahuru.ac.tz/chunya-dc-standard-four-examination-test-march-2025/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "Imla 1(i-v): sentensi za mwalimu hazipo.",
+    "3(v): kula supu katika mchezo haijapewa maana na chanzo; jibu linaweka sharti la matumizi ya kutegea yanayofanana na piga supu. Mchapishaji athibitishe."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "1c5f64bc511798d02b2ef9bd12379ccb9efe290d49b96959382bb68b5de82195"
+}

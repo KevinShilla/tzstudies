@@ -1,0 +1,455 @@
+{
+  "exam": "English-S6-2024-SPES-September-Monthly-test.pdf",
+  "output": "English-S6-2024-SPES-September-Monthly-test-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Six",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "SPES",
+  "exam_type": "Monthly test - September",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "97b62769439de8167cdd2d40c763d84bd9ba280dd6aa57c229f2f17dda0f9c3e",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Listening and grammar",
+      "prompt": "Where did Allen and Pendo travel? (A Mkangumi village, B Mkunguni town, C Mkunguni street, C Mkunguni ward, E Mkunguni village)",
+      "steps": [
+        "The included page 6 script gives this destination.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Mkunguni village.",
+      "source_page": 2
+    },
+    {
+      "id": "1(ii)",
+      "section": "Listening and grammar",
+      "prompt": "When did they reach the bus stop? (A 5:30, B 4:30, C half past six, D half to twelve, E 12:30)",
+      "steps": [
+        "The script explicitly states 6:30 in the morning.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Half past six (6:30 AM).",
+      "source_page": 2
+    },
+    {
+      "id": "1(iii)",
+      "section": "Listening and grammar",
+      "prompt": "Which river did the bus cross? (A Lau, B Rau, C Rua, D Lua, E Reu)",
+      "steps": [
+        "The script names Rau.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Rau River.",
+      "source_page": 2
+    },
+    {
+      "id": "1(iv)",
+      "section": "Listening and grammar",
+      "prompt": "Where was the giraffe eating leaves? (A tall tree, B short tree, C long grasses, D short grasses, E short flower)",
+      "steps": [
+        "The final script sentence gives the tree description.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. From a tall tree.",
+      "source_page": 2
+    },
+    {
+      "id": "1(v)",
+      "section": "Listening and grammar",
+      "prompt": "Which animal group did they see? (A lions/elephants/hyena, B zebras/giraffes/lions, C monkeys/lions/antelope, D elephants/giraffe/hare, E hyena/antelope/monkey)",
+      "steps": [
+        "All three occur in the passage; the other options add unmentioned animals.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Zebras, giraffes and lions.",
+      "source_page": 2
+    },
+    {
+      "id": "2(i)",
+      "section": "Listening and grammar",
+      "prompt": "Two buses ___ very fast often. (A were moving, B are moving, C moves, D moved, E move)",
+      "steps": [
+        "The plural subject takes move; often usually signals habitual simple present without a past context.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Move for a current habit; D. moved is possible for a past habit.",
+      "source_page": 2
+    },
+    {
+      "id": "2(ii)",
+      "section": "Listening and grammar",
+      "prompt": "Passengers have already ___ for tickets. (A pays, B paying, C payed, D paid, E pay)",
+      "steps": [
+        "Paid is the past participle for paying money.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Paid.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Listening and grammar",
+      "prompt": "Where can I ___ the book? (A get, B gets, C got, D getting, E gotten)",
+      "steps": [
+        "Can takes the base verb.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Get.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Listening and grammar",
+      "prompt": "___ you work hard, you will not succeed. (A if, B unless, C neither, D either, E altogether)",
+      "steps": [
+        "Unless means if you do not, expressing the need for effort.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Unless (intended condition).",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Vocabulary",
+      "prompt": "What is the opposite of ugliest? (A beautiful, B more beautiful, C most beautiful, D beautifully, E best beautiful)",
+      "steps": [
+        "Keep the superlative degree when giving the opposite.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Most beautiful.",
+      "source_page": 3
+    },
+    {
+      "id": "3(i)",
+      "section": "Vocabulary",
+      "prompt": "This is the place ___ I spend holidays. Bank: which, where, who, whom, whose.",
+      "steps": [
+        "Where introduces the place clause.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Where.",
+      "source_page": 3
+    },
+    {
+      "id": "3(ii)",
+      "section": "Vocabulary",
+      "prompt": "I gave her a pen ___ she put on the table.",
+      "steps": [
+        "Which refers to the pen.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Which.",
+      "source_page": 3
+    },
+    {
+      "id": "3(iii)",
+      "section": "Vocabulary",
+      "prompt": "This is the woman ___ child cried.",
+      "steps": [
+        "Whose shows the child's relationship to the woman.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Whose.",
+      "source_page": 3
+    },
+    {
+      "id": "3(iv)",
+      "section": "Vocabulary",
+      "prompt": "You will see the man ___ ran away.",
+      "steps": [
+        "Who is the subject relative pronoun for the man.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Who.",
+      "source_page": 3
+    },
+    {
+      "id": "3(v)",
+      "section": "Vocabulary",
+      "prompt": "Do you know the girl ___ I was talking about?",
+      "steps": [
+        "The girl is the object of talking about; the bank's intended remaining word is whom.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Whom (formal); who is also accepted in ordinary English.",
+      "source_page": 3
+    },
+    {
+      "id": "4(i)",
+      "section": "Vocabulary",
+      "prompt": "Match pity: A inflicting pain as punishment, B begin to understand, C sympathy/sorrow, D causing suffering, E searching discarded things.",
+      "steps": [
+        "Pity is this feeling of compassion.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Sympathy and sorrow for others' misfortune.",
+      "source_page": 3
+    },
+    {
+      "id": "4(ii)",
+      "section": "Vocabulary",
+      "prompt": "Match cruel.",
+      "steps": [
+        "Cruel describes unkind conduct causing suffering.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Causing pain and suffering.",
+      "source_page": 3
+    },
+    {
+      "id": "4(iii)",
+      "section": "Vocabulary",
+      "prompt": "Match torture.",
+      "steps": [
+        "Torture is deliberate severe suffering.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Inflicting pain or suffering as punishment.",
+      "source_page": 3
+    },
+    {
+      "id": "4(iv)",
+      "section": "Vocabulary",
+      "prompt": "Match realise.",
+      "steps": [
+        "Realise means become aware.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Begin to understand.",
+      "source_page": 3
+    },
+    {
+      "id": "4(v)",
+      "section": "Vocabulary",
+      "prompt": "Match scavenge.",
+      "steps": [
+        "Scavenge means search for usable things or food among discarded material.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Search things others do not want.",
+      "source_page": 3
+    },
+    {
+      "id": "5(i)",
+      "section": "Comprehension",
+      "prompt": "Identify the figure in The sky got as dark as the night.",
+      "steps": [
+        "As...as explicitly compares sky darkness with night.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Simile.",
+      "source_page": 4
+    },
+    {
+      "id": "5(ii)",
+      "section": "Comprehension",
+      "prompt": "Hardly had I reached the market ___ it rained.",
+      "steps": [
+        "Use hardly...when.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "When.",
+      "source_page": 4
+    },
+    {
+      "id": "5(iii)",
+      "section": "Comprehension",
+      "prompt": "If you study hard, you ___ exams.",
+      "steps": [
+        "Use will plus base verb in this future condition.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Will pass (model intended completion).",
+      "source_page": 4
+    },
+    {
+      "id": "5(iv)",
+      "section": "Comprehension",
+      "prompt": "Add a tag: Salome played netball last week.",
+      "steps": [
+        "A positive simple-past statement takes didn't and the subject pronoun.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Salome played netball last week, didn't she?",
+      "source_page": 4
+    },
+    {
+      "id": "5(v)",
+      "section": "Comprehension",
+      "prompt": "Who designs machines, bridges or roads?",
+      "steps": [
+        "Engineer is the occupation described.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "An engineer.",
+      "source_page": 4
+    },
+    {
+      "id": "6(i)",
+      "section": "Comprehension",
+      "prompt": "Suggest a title for the farewell poem.",
+      "steps": [
+        "A title should reflect farewell, advice and a new stage of life.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Example: Goodbye and a New Beginning.",
+      "source_page": 4
+    },
+    {
+      "id": "6(ii)",
+      "section": "Comprehension",
+      "prompt": "What is the value of education in the poem?",
+      "steps": [
+        "The final two lines give this value.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Being a good example wherever you are.",
+      "source_page": 4
+    },
+    {
+      "id": "6(iii)",
+      "section": "Poetry and composition",
+      "prompt": "Identify the figure in Life is like the sun.",
+      "steps": [
+        "Like introduces the comparison.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Simile.",
+      "source_page": 5
+    },
+    {
+      "id": "6(iv)",
+      "section": "Poetry and composition",
+      "prompt": "What is life compared with?",
+      "steps": [
+        "The first line supplies the comparison.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "The sun.",
+      "source_page": 5
+    },
+    {
+      "id": "6(v)",
+      "section": "Poetry and composition",
+      "prompt": "How many verses/lines are in each stanza?",
+      "steps": [
+        "Count the printed lines in each grouped stanza.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Four lines in each of two stanzas.",
+      "source_page": 5
+    },
+    {
+      "id": "7(i)",
+      "section": "Poetry and composition",
+      "prompt": "Order letter sentences A-E: I hope we meet at home in December.",
+      "steps": [
+        "The hoped-for meeting closes the body.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E.",
+      "source_page": 5
+    },
+    {
+      "id": "7(ii)",
+      "section": "Poetry and composition",
+      "prompt": "Order: I wish you the best in your exams.",
+      "steps": [
+        "Good wishes follow the news about the exams.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D.",
+      "source_page": 5
+    },
+    {
+      "id": "7(iii)",
+      "section": "Poetry and composition",
+      "prompt": "Order: Dear Winfrida.",
+      "steps": [
+        "The greeting opens the letter.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A.",
+      "source_page": 5
+    },
+    {
+      "id": "7(iv)",
+      "section": "Poetry and composition",
+      "prompt": "Order: I heard about your terminal examination in May 2024.",
+      "steps": [
+        "This news follows thanks for the previous letter.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C.",
+      "source_page": 5
+    },
+    {
+      "id": "7(v)",
+      "section": "Poetry and composition",
+      "prompt": "Order: Thank you for your letter.",
+      "steps": [
+        "Acknowledge the letter immediately after greeting.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B.",
+      "source_page": 5
+    }
+  ],
+  "summaries": {
+    "Listening and grammar": "Listen to the supplied teacher text and identify the exact detail asked for. Check spelling and sentence punctuation; missing scripts are explicitly identified.",
+    "Vocabulary": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations.",
+    "Poetry and composition": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "SPES Standard Six (VI) Monthly Exams September 2024",
+      "url": "https://darasahuru.ac.tz/spes-standard-six-vi-monthly-exams-september-2024/"
+    }
+  ],
+  "limitations": [
+    "1(i): Two printed choices use letter C; destination E is unambiguous."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)",
+    "7(v)"
+  ],
+  "question_count": "35 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "3b62a079bfe8182f5d22a693a7bc9b3b4585bd17d69c644c159a483c0a507966"
+}

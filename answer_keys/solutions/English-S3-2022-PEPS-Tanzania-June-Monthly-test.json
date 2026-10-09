@@ -1,0 +1,343 @@
+{
+  "exam": "English-S3-2022-PEPS-Tanzania-June-Monthly-test.pdf",
+  "output": "English-S3-2022-PEPS-Tanzania-June-Monthly-test-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Three",
+  "year": "2022",
+  "code": "02",
+  "board": "PEPS Tanzania",
+  "exam_type": "Monthly test - June",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "cf83c6799ffdeafcaa363dbcff30ac21fbd679f02a83fdd69fe851248e936d14",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence i.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "1(ii)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence ii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "1(iii)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence iii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "1(iv)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence iv.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "1(v)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence v.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "2(i)",
+      "section": "Vocabulary and grammar",
+      "prompt": "The brother of your mother is your ___. (a Uncle, b Aunt, c father, d brother)",
+      "steps": [
+        "A mother's brother is an uncle.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "a. Uncle.",
+      "source_page": 2
+    },
+    {
+      "id": "2(ii)",
+      "section": "Vocabulary and grammar",
+      "prompt": "Where are books kept for reading and lending? (a Kitchen, b laboratory, c laundry, d library)",
+      "steps": [
+        "A library stores books and lends them to readers.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "d. Library.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Vocabulary and grammar",
+      "prompt": "What is the opposite of after? (a Before, b next, c now, d later)",
+      "steps": [
+        "Before and after express opposite positions in time.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "a. Before.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Vocabulary and grammar",
+      "prompt": "My father makes wooden tables, desks, chairs and beds. What is he? (a Mason, b carpenter, c plumber, d cobbler)",
+      "steps": [
+        "A carpenter makes and repairs wooden objects.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "b. Carpenter.",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Vocabulary and grammar",
+      "prompt": "Pupils were bitten by a ___ of bees. (a Flock, b crowd, c swam, d gang)",
+      "steps": [
+        "The collective noun is swarm; bees normally sting rather than bite.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "c, intended swarm (the source misspells it swam).",
+      "source_page": 2
+    },
+    {
+      "id": "3(i)",
+      "section": "Vocabulary and grammar",
+      "prompt": "Grace is ___ a letter. (a Writes, b wrote, c written, d writing)",
+      "steps": [
+        "Is plus writing forms the present continuous.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "d. Writing.",
+      "source_page": 2
+    },
+    {
+      "id": "3(ii)",
+      "section": "Vocabulary and grammar",
+      "prompt": "My friend will come ___ 8 o'clock. (a From, b by, c at, d in)",
+      "steps": [
+        "At specifies the arrival time; by is grammatical with a different deadline meaning.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "c. At (exact time); b. by means no later than 8.",
+      "source_page": 2
+    },
+    {
+      "id": "3(iii)",
+      "section": "Vocabulary and grammar",
+      "prompt": "My sister and I ___ to school every day. (a Went, b go, c goes, d gone)",
+      "steps": [
+        "The plural subject uses go for a habitual present action.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "b. Go.",
+      "source_page": 2
+    },
+    {
+      "id": "3(iv)",
+      "section": "Vocabulary and grammar",
+      "prompt": "An elephant is ___ than a buffalo. (a Big, b biggest, c bigger, d big big)",
+      "steps": [
+        "Than requires the comparative adjective.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "c. Bigger.",
+      "source_page": 2
+    },
+    {
+      "id": "3(v)",
+      "section": "Vocabulary and grammar",
+      "prompt": "Was there ___ sugar in the tea? (a Much, b any, c some, d a few)",
+      "steps": [
+        "Sugar is uncountable. Any asks whether sugar was present; much asks about a large amount and some can expect a yes.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "b. Any (neutral question); much/some are possible with other meanings.",
+      "source_page": 2
+    },
+    {
+      "id": "4(i)",
+      "section": "Composition",
+      "prompt": "Complete from week, fifth, late, Saturday, cleanliness, year, day: The ___ President of Tanzania.",
+      "steps": [
+        "The historical sentence refers to John Pombe Magufuli, Tanzania's fifth president.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "fifth.",
+      "source_page": 3
+    },
+    {
+      "id": "4(ii)",
+      "section": "Composition",
+      "prompt": "Complete from week, fifth, late, Saturday, cleanliness, year, day: the ___ Dr. John Pombe Magufuli.",
+      "steps": [
+        "Late before a name means the person has died.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "late.",
+      "source_page": 3
+    },
+    {
+      "id": "4(iii)",
+      "section": "Composition",
+      "prompt": "Complete from week, fifth, late, Saturday, cleanliness, year, day: every last ___ of every month.",
+      "steps": [
+        "Saturday fits the named monthly cleaning day.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Saturday.",
+      "source_page": 3
+    },
+    {
+      "id": "4(iv)",
+      "section": "Composition",
+      "prompt": "Complete from week, fifth, late, Saturday, cleanliness, year, day: to be a ___ day.",
+      "steps": [
+        "Cleanliness describes the purpose of the day.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "cleanliness.",
+      "source_page": 3
+    },
+    {
+      "id": "4(v)",
+      "section": "Composition",
+      "prompt": "Complete from week, fifth, late, Saturday, cleanliness, year, day: throughout the ___.",
+      "steps": [
+        "The monthly activity runs throughout the year.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "year.",
+      "source_page": 3
+    },
+    {
+      "id": "5(i)",
+      "section": "Comprehension",
+      "prompt": "What is Sabri and Sabra's school called?",
+      "steps": [
+        "The passage names their school.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Peps Primary School.",
+      "source_page": 3
+    },
+    {
+      "id": "5(ii)",
+      "section": "Comprehension",
+      "prompt": "Sabri and Sabra are twins. What does this mean?",
+      "steps": [
+        "Twins share a pregnancy; they need not look identical.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "They are two children born from the same pregnancy.",
+      "source_page": 3
+    },
+    {
+      "id": "5(iii)",
+      "section": "Comprehension",
+      "prompt": "In which class are Sabri and Sabra?",
+      "steps": [
+        "The passage directly states grade IV, even though the exam is for Standard Three.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Grade Four/IV.",
+      "source_page": 3
+    },
+    {
+      "id": "5(iv)",
+      "section": "Comprehension",
+      "prompt": "How old are Sabri and Sabra?",
+      "steps": [
+        "The third sentence states their age.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Eleven years old.",
+      "source_page": 3
+    },
+    {
+      "id": "5(v)",
+      "section": "Comprehension",
+      "prompt": "What does Sabri like?",
+      "steps": [
+        "The passage contrasts Sabri playing guitar with Sabra singing.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Playing the guitar.",
+      "source_page": 3
+    }
+  ],
+  "summaries": {
+    "Source-limited items": "The required script, picture or other information is missing. Use the stated limitation and obtain the original material before expecting a unique answer.",
+    "Vocabulary and grammar": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Composition": "Follow a clear sequence and keep the tense consistent. Introduce people and events before their pronouns, actions and final outcome.",
+    "Comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "Standard Three Exams | 2010 - 2023 | Monthly, Midterm, Terminal and Annual Exams - Download All Subjects - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/standard-three-exams-2010-2023-monthly-midterm-terminal-and-annual-exams-download-all-subjects/"
+    },
+    {
+      "title": "Ikulu: John Pombe Magufuli, fifth president",
+      "url": "https://www.ikulu.go.tz/administration/profile/6"
+    }
+  ],
+  "limitations": [
+    "1(i): The teacher dictation words or audio are not included in this source.",
+    "1(ii): The teacher dictation words or audio are not included in this source.",
+    "1(iii): The teacher dictation words or audio are not included in this source.",
+    "1(iv): The teacher dictation words or audio are not included in this source.",
+    "1(v): The teacher dictation words or audio are not included in this source."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)"
+  ],
+  "question_count": "25 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "169fcb428f4ed476149725c73929391c6238ee45c65006065040ef6b9dfcfd9a"
+}

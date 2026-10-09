@@ -1,0 +1,422 @@
+{
+  "exam": "English-S3-2026-Arusha-region-May-Terminal-exam.pdf",
+  "output": "English-S3-2026-Arusha-region-May-Terminal-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Three",
+  "year": "2026",
+  "code": "Not printed in source",
+  "board": "Arusha region",
+  "exam_type": "Terminal exam - May",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "b6030ecd24a60e542929052c83493de246faf3a76836b5f253aab2076b3d68d6",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence i.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(ii)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence ii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iii)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence iii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iv)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence iv.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(v)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence v.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "2(i)",
+      "section": "Vocabulary and grammar",
+      "prompt": "Anita ___ to school on foot every day. (A go, B goes, C going, D went)",
+      "steps": [
+        "Anita is singular and every day signals a present habit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Goes.",
+      "source_page": 1
+    },
+    {
+      "id": "2(ii)",
+      "section": "Vocabulary and grammar",
+      "prompt": "She is ___ an apple at the moment. (A eats, B eat, C eating, D are eating)",
+      "steps": [
+        "Is eating is present continuous; adding are would give two auxiliaries.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Eating.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iii)",
+      "section": "Vocabulary and grammar",
+      "prompt": "They ___ football yesterday. (A play, B played, C plays, D playing)",
+      "steps": [
+        "Yesterday calls for the regular past tense.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Played.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iv)",
+      "section": "Vocabulary and grammar",
+      "prompt": "Elia likes playing football ___ volleyball. (A but, B of, C and, D with)",
+      "steps": [
+        "And joins the two sports.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. And.",
+      "source_page": 1
+    },
+    {
+      "id": "2(v)",
+      "section": "Vocabulary and grammar",
+      "prompt": "Samwel said 'That is his pencil'. Give it to ___. (A him, B me, C them, D we)",
+      "steps": [
+        "Use the object pronoun him for the male owner after to.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Him.",
+      "source_page": 1
+    },
+    {
+      "id": "2(vi)",
+      "section": "Vocabulary and grammar",
+      "prompt": "Mr. Lazaro grows maize, beans and cassava. He is a ___. (A farmer, B pastoralist, C doctor, D teacher)",
+      "steps": [
+        "Growing crops is farming.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Farmer.",
+      "source_page": 1
+    },
+    {
+      "id": "2(vii)",
+      "section": "Vocabulary and grammar",
+      "prompt": "Joseph, my brother's father, is also my ___. (A uncle, B brother, C father, D cousin)",
+      "steps": [
+        "Siblings ordinarily share a father, though half-sibling families require more information.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Father (usual intended relationship).",
+      "source_page": 1
+    },
+    {
+      "id": "2(viii)",
+      "section": "Vocabulary and grammar",
+      "prompt": "Were pupils ___ English last evening? (A learn, B learns, C learning, D learned)",
+      "steps": [
+        "Were plus the -ing form makes past continuous.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Learning.",
+      "source_page": 1
+    },
+    {
+      "id": "2(ix)",
+      "section": "Vocabulary and grammar",
+      "prompt": "Visit the ___ where your son can get treatment. (A church, B market, C hospital, D shop)",
+      "steps": [
+        "A hospital provides medical treatment.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Hospital.",
+      "source_page": 1
+    },
+    {
+      "id": "2(x)",
+      "section": "Composition and comprehension",
+      "prompt": "When will you finish your work ___ (A !, B ?, C >, D :)",
+      "steps": [
+        "The sentence is a direct question.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. ?",
+      "source_page": 2
+    },
+    {
+      "id": "3(i)",
+      "section": "Composition and comprehension",
+      "prompt": "The ___ is good today. (weather, whether)",
+      "steps": [
+        "Weather names conditions such as sunshine or rain.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Weather.",
+      "source_page": 2
+    },
+    {
+      "id": "3(ii)",
+      "section": "Composition and comprehension",
+      "prompt": "He was very ___ because of illness. (week, weak)",
+      "steps": [
+        "Weak means lacking strength; week is a period of seven days.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Weak.",
+      "source_page": 2
+    },
+    {
+      "id": "3(iii)",
+      "section": "Composition and comprehension",
+      "prompt": "The teacher has ___ us to go for sports. (aloud, allowed)",
+      "steps": [
+        "Allowed means given permission; aloud means audibly.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Allowed.",
+      "source_page": 2
+    },
+    {
+      "id": "3(iv)",
+      "section": "Composition and comprehension",
+      "prompt": "They have powers to ___ sick people. (heel, heal)",
+      "steps": [
+        "Heal means make well; heel is part of a foot.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Heal.",
+      "source_page": 2
+    },
+    {
+      "id": "3(v)",
+      "section": "Composition and comprehension",
+      "prompt": "The dog wags its ___. (tale, tail)",
+      "steps": [
+        "Tail is the animal's body part.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Tail.",
+      "source_page": 2
+    },
+    {
+      "id": "4(i)",
+      "section": "Composition and comprehension",
+      "prompt": "Christians usually go to church on ___ (Sunyad).",
+      "steps": [
+        "Rearrange all letters to S-u-n-d-a-y, a day of the week.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Sunday.",
+      "source_page": 2
+    },
+    {
+      "id": "4(ii)",
+      "section": "Composition and comprehension",
+      "prompt": "We always ___ lessons at 8:00 AM (trats).",
+      "steps": [
+        "Rearrange t-r-a-t-s to s-t-a-r-t.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Start.",
+      "source_page": 2
+    },
+    {
+      "id": "4(iii)",
+      "section": "Composition and comprehension",
+      "prompt": "Pupils are planting ___ around school (swerfol).",
+      "steps": [
+        "Rearrange the letters into the plural noun f-l-o-w-e-r-s.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Flowers.",
+      "source_page": 2
+    },
+    {
+      "id": "5(i)",
+      "section": "Composition and comprehension",
+      "prompt": "Deborah is ___ cleanliness. (do)",
+      "steps": [
+        "Add ing to do after is.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Doing.",
+      "source_page": 2
+    },
+    {
+      "id": "5(ii)",
+      "section": "Composition and comprehension",
+      "prompt": "Ally is busy ___ television. (watch)",
+      "steps": [
+        "Add ing to watch for the ongoing activity.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Watching.",
+      "source_page": 2
+    },
+    {
+      "id": "5(iii)",
+      "section": "Composition and comprehension",
+      "prompt": "Their mother is ___ the garden. (water)",
+      "steps": [
+        "Add ing to water.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Watering.",
+      "source_page": 2
+    },
+    {
+      "id": "5(iv)",
+      "section": "Composition and comprehension",
+      "prompt": "Their father is ___ after chickens. (look)",
+      "steps": [
+        "Add ing to look; looking after means caring for.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Looking.",
+      "source_page": 2
+    },
+    {
+      "id": "6(i)",
+      "section": "Composition and comprehension",
+      "prompt": "At what time does Mariam take a shower?",
+      "steps": [
+        "The second routine sentence gives this time.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "5:15 AM.",
+      "source_page": 2
+    },
+    {
+      "id": "6(ii)",
+      "section": "Composition and comprehension",
+      "prompt": "What does Mariam do at 5:30 AM?",
+      "steps": [
+        "The passage distinguishes preparing at 5:30 from eating at 5:40.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "She prepares breakfast.",
+      "source_page": 2
+    },
+    {
+      "id": "6(iii)",
+      "section": "Composition and comprehension",
+      "prompt": "When do Mariam's lessons end?",
+      "steps": [
+        "The lessons run from 7:40 AM until 3:00 PM.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "3:00 PM.",
+      "source_page": 2
+    },
+    {
+      "id": "6(iv)",
+      "section": "Composition and comprehension",
+      "prompt": "When does Mariam do homework?",
+      "steps": [
+        "The passage gives this evening homework time.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "5:40 PM.",
+      "source_page": 2
+    },
+    {
+      "id": "6(v)",
+      "section": "Composition and comprehension",
+      "prompt": "What does Mariam do at 9:00 PM?",
+      "steps": [
+        "The final sentence names the last activity.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "She goes to sleep.",
+      "source_page": 2
+    }
+  ],
+  "summaries": {
+    "Source-limited items": "The required script, picture or other information is missing. Use the stated limitation and obtain the original material before expecting a unique answer.",
+    "Vocabulary and grammar": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Composition and comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "Arusha Mtihani Wa Terminal Darasa La Tatu Mei 2026",
+      "url": "https://darasahuru.ac.tz/arusha-mtihani-wa-terminal-darasa-la-tatu-mei-2026/"
+    }
+  ],
+  "limitations": [
+    "1(i): The teacher dictation words or audio are not included in this source.",
+    "1(ii): The teacher dictation words or audio are not included in this source.",
+    "1(iii): The teacher dictation words or audio are not included in this source.",
+    "1(iv): The teacher dictation words or audio are not included in this source.",
+    "1(v): The teacher dictation words or audio are not included in this source."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "2(vii)",
+    "2(viii)",
+    "2(ix)",
+    "2(x)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)"
+  ],
+  "question_count": "32 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "c0af3aaa95665b9456548b00e887d37e637ba132dc799f45e522640daa41b814"
+}

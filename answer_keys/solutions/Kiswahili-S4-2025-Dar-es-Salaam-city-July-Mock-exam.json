@@ -1,0 +1,398 @@
+{
+  "exam": "Kiswahili-S4-2025-Dar-es-Salaam-city-July-Mock-exam.pdf",
+  "output": "Kiswahili-S4-2025-Dar-es-Salaam-city-July-Mock-exam-AnswerKey.pdf",
+  "sha256": "76bd640bb4188aa6ff5e9483c4ac863961f11ea5f025f9d82c2e5e6b909efc6f",
+  "subject": "Kiswahili",
+  "level": "Standard Four",
+  "year": "2025",
+  "code": "01",
+  "board": "Dar es Salaam city",
+  "exam_type": "Mock exam - July",
+  "question_count": "Vipengele 30 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1(1)",
+    "1(2)",
+    "1(3)",
+    "1(4)",
+    "1(5)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "2(viii)",
+    "2(ix)",
+    "2(x)",
+    "2(xi)",
+    "3(1)",
+    "3(2)",
+    "3(3)",
+    "3(4)",
+    "3(5)",
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "4(4)",
+    "4(5)",
+    "5(1)",
+    "5(2)",
+    "5(3)",
+    "5(4)",
+    "5(5)"
+  ],
+  "questions": [
+    {
+      "id": "1(1)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1(1).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "1(2)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1(2).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "1(3)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1(3).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "1(4)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1(4).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "1(5)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1(5).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "2(i)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Siku baada ya kesho huitwaje? A kesho, B kesho kutwa, C mtondo, D juzi.",
+      "steps": [
+        "Kesho hufuata leo; keshokutwa hufuata kesho.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Keshokutwa.",
+      "source_page": 2
+    },
+    {
+      "id": "2(ii)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Gunia lina silabi ngapi? A mbili, B nne, C tano, D tatu.",
+      "steps": [
+        "Hesabu gu, ni, a.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Tatu: gu-ni-a.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Usifanye mambo mawili kwa wakati mmoja kwani ____ A mshika mawili moja humponyoka, B njia ya muongo ni fupi, C Baniani mbaya kiatu chake dawa, D polepole ya kobe humfikisha mbali.",
+      "steps": [
+        "Methali inaonya kushika shughuli nyingi bila kuzikamilisha.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Mshika mawili moja humponyoka.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Silabi ya ukanushi katika Sitaki ni ipi? A ta, B ki, C si, D tak.",
+      "steps": [
+        "Sitaki huanza na si- ya kukanusha nafsi ya kwanza.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Si.",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Mtu ____ anaweza kushirikiana nasi. A yoyote, B yeyote, C wowote, D wote.",
+      "steps": [
+        "Mtu mmoja hupatana na yeyote.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Yeyote.",
+      "source_page": 2
+    },
+    {
+      "id": "2(vi)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kisawe cha adhuhuri? A usiku, B alfajiri, C jioni, D mchana.",
+      "steps": [
+        "Adhuhuri ni wakati wa katikati ya mchana.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Mchana.",
+      "source_page": 2
+    },
+    {
+      "id": "2(viii)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Wingi wa kelele? A makelele, B tukelele, C kelele, D mikelele.",
+      "steps": [
+        "Kelele ni nomino inayotumika bila kubadili umbo katika uainishaji wa ngeli N-N. Makelele pia hutumiwa katika lugha ya kawaida.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Kelele.",
+      "source_page": 2
+    },
+    {
+      "id": "2(ix)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Wanasindikizana: wakati gani? A uliopo, B ujao, C uliopita, D mtimilifu.",
+      "steps": [
+        "Kiambishi na- kinaonyesha wakati uliopo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Uliopo.",
+      "source_page": 3
+    },
+    {
+      "id": "2(x)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Pesa tunazotoa kwa waliofiwa ni za ____ A kodi, B pensheni, C rambirambi, D mshahara.",
+      "steps": [
+        "Rambirambi ni pole na msaada kwa waliofiwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Rambirambi.",
+      "source_page": 3
+    },
+    {
+      "id": "2(xi)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kisawe cha nyati? A ngwena, B faru, C tembo, D mbogo.",
+      "steps": [
+        "Mbogo ni jina lingine la nyati.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Mbogo.",
+      "source_page": 3
+    },
+    {
+      "id": "3(1)",
+      "section": "Vinyume",
+      "prompt": "Andika kinyume cha Nje.",
+      "steps": [
+        "Ndani ni upande wa kinyume na nje.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Ndani.",
+      "source_page": 3
+    },
+    {
+      "id": "3(2)",
+      "section": "Vinyume",
+      "prompt": "Andika kinyume cha Mzazi.",
+      "steps": [
+        "Mzazi huzaa; mzaliwa ndiye anayezaliwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mzaliwa/mtoto.",
+      "source_page": 3
+    },
+    {
+      "id": "3(3)",
+      "section": "Vinyume",
+      "prompt": "Andika kinyume cha Muongo.",
+      "steps": [
+        "Muongo husema uongo; mkweli husema ukweli.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mkweli.",
+      "source_page": 3
+    },
+    {
+      "id": "3(4)",
+      "section": "Vinyume",
+      "prompt": "Andika kinyume cha Macheo.",
+      "steps": [
+        "Macheo ni kucha/kupambazuka; machweo ni kuzama kwa jua.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Machweo.",
+      "source_page": 3
+    },
+    {
+      "id": "3(5)",
+      "section": "Vinyume",
+      "prompt": "Andika kinyume cha Mnene.",
+      "steps": [
+        "Mwembamba hupingana na mnene.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mwembamba.",
+      "source_page": 3
+    },
+    {
+      "id": "4(1)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Urafiki wao ulianza shule ya msingi.",
+      "steps": [
+        "Historia hufuata utangulizi wa marafiki.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B",
+      "source_page": 3
+    },
+    {
+      "id": "4(2)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Walitengana walipojiunga chuo kikuu.",
+      "steps": [
+        "Chuo kikuu hufuata sekondari.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D",
+      "source_page": 3
+    },
+    {
+      "id": "4(3)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Neema na Rehema ni marafiki wanaopendana.",
+      "steps": [
+        "Huu ni utangulizi wa wahusika.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A",
+      "source_page": 3
+    },
+    {
+      "id": "4(4)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Hata hivyo huwasiliana kwa simu mara kwa mara.",
+      "steps": [
+        "Mawasiliano yanaelezwa baada ya kutengana.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E",
+      "source_page": 3
+    },
+    {
+      "id": "4(5)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Baada ya msingi walisoma sekondari moja.",
+      "steps": [
+        "Sekondari hufuata elimu ya msingi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C",
+      "source_page": 3
+    },
+    {
+      "id": "5(1)",
+      "section": "Ufahamu",
+      "prompt": "Kiongozi wa nyuki ni nani?",
+      "steps": [
+        "Habari inasema kiongozi wao huitwa malkia.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Malkia.",
+      "source_page": 4
+    },
+    {
+      "id": "5(2)",
+      "section": "Ufahamu",
+      "prompt": "Taja faida moja ya nyuki.",
+      "steps": [
+        "Habari imetaja asali, chakula na kipato.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Hutupatia asali ambayo huuzwa kupata kipato.",
+      "source_page": 4
+    },
+    {
+      "id": "5(3)",
+      "section": "Ufahamu",
+      "prompt": "Habari inahusu nini?",
+      "steps": [
+        "Maelezo yote yanahusu nyuki.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Nyuki na faida zao pamoja na ushirikiano wao.",
+      "source_page": 4
+    },
+    {
+      "id": "5(4)",
+      "section": "Ufahamu",
+      "prompt": "Kila nyuki hufanya kazi kulingana na nini?",
+      "steps": [
+        "Habari inasema kulingana na maumbile yake.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Maumbile yake.",
+      "source_page": 4
+    },
+    {
+      "id": "5(5)",
+      "section": "Ufahamu",
+      "prompt": "Methali gani inaelezea ushirikiano wao?",
+      "steps": [
+        "Methali inalingana na kufanya kazi pamoja; kidole kimoja hakivunji chawa pia inafaa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Umoja ni nguvu, utengano ni udhaifu.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Imla": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Matumizi ya lugha": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Vinyume": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Utungaji": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ufahamu": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "DAR ES SALAAM City Standard Four (Darasa La Nne) Mock Assessment Exams July 2025",
+      "url": "https://darasahuru.ac.tz/dar-es-salaam-city-standard-four-darasa-la-nne-mock-assessment-exams-july-2025/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "Imla 1(i-v): sentensi hazijajumuishwa.",
+    "2(viii): kelele na makelele hutumika katika baadhi ya mifumo tofauti ya matumizi; kelele ndiyo umbo lisilobadilika la ngeli N-N."
+  ],
+  "labelling_note": "Swali 2 limechapisha i-vi kisha viii-xi; hakuna kipengele vii kwenye karatasi.",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "a6a9d578c6be54108955e191c49212179dced720cf5869f8fc1e8eb382611262"
+}

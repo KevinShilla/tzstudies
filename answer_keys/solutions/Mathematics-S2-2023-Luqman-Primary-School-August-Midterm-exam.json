@@ -1,0 +1,323 @@
+{
+  "exam": "Mathematics-S2-2023-Luqman-Primary-School-August-Midterm-exam.pdf",
+  "output": "Mathematics-S2-2023-Luqman-Primary-School-August-Midterm-exam-AnswerKey.pdf",
+  "sha256": "284d8613874dfceaccb7b88bdbd5b459bcfdd27d416deb3a2486149f262432ce",
+  "subject": "Mathematics",
+  "level": "Standard Two",
+  "year": "2023",
+  "code": "Not printed in source",
+  "board": "Luqman Primary School",
+  "exam_type": "Midterm exam - August · Numeracy",
+  "question_count": "25 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)-words",
+    "4(i)-threes",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Numbers and calculations",
+      "prompt": "Read the three-rod abacus.",
+      "steps": [
+        "Count 2 hundreds beads,4 tens beads and 3 ones beads.",
+        "200 + 40 + 3 = 243."
+      ],
+      "answer": "243",
+      "source_page": 1
+    },
+    {
+      "id": "1(ii)",
+      "section": "Numbers and calculations",
+      "prompt": "Write 150 in words.",
+      "steps": [
+        "150 = 100 + 50."
+      ],
+      "answer": "One hundred and fifty",
+      "source_page": 1
+    },
+    {
+      "id": "1(iii)",
+      "section": "Numbers and calculations",
+      "prompt": "Count the dots in the oval and write the answer in words.",
+      "steps": [
+        "Count 12 dots on the upper arc and 12 on the lower arc.",
+        "There are 15 interior dots, so 12 +12 +15 =39."
+      ],
+      "answer": "Thirty-nine",
+      "source_page": 1
+    },
+    {
+      "id": "1(iv)",
+      "section": "Numbers and calculations",
+      "prompt": "Write one hundred and eleven in numerals.",
+      "steps": [
+        "100 +10 +1 =111."
+      ],
+      "answer": "111",
+      "source_page": 1
+    },
+    {
+      "id": "2(i)",
+      "section": "Numbers and calculations",
+      "prompt": "Find the greatest choice among 30,03,33,13,31; the source calls them digits.",
+      "steps": [
+        "03 has value 3.",
+        "33 >31 >30 >13 >3; if interpreted literally as single digits, the greatest digit appearing is 3."
+      ],
+      "answer": "Greatest number 33; greatest individual digit 3.",
+      "source_page": 2
+    },
+    {
+      "id": "2(ii)",
+      "section": "Numbers and calculations",
+      "prompt": "Give the place value of 9,5 and 6 in 659.",
+      "steps": [
+        "Read from right to left: ones, tens, hundreds."
+      ],
+      "answer": "9 ones;5 tens;6 hundreds (values 9,50,600).",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Numbers and calculations",
+      "prompt": "Which digit is in the tens place in 500 +30 +4?",
+      "steps": [
+        "The total is 534.",
+        "30 contains 3 tens."
+      ],
+      "answer": "3",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 9,10,[ ],[ ],[ ],[ ],15.",
+      "steps": [
+        "Increase by 1 between 9 and 15."
+      ],
+      "answer": "11,12,13,14",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Numbers and calculations",
+      "prompt": "Which is smaller:90 or 900?",
+      "steps": [
+        "90 has 9 tens;900 has 9 hundreds.",
+        "90 <900."
+      ],
+      "answer": "90",
+      "source_page": 2
+    },
+    {
+      "id": "2(vi)",
+      "section": "Numbers and calculations",
+      "prompt": "Name the place value of 6 in 765.",
+      "steps": [
+        "6 is the middle digit.",
+        "It represents 6 tens=60."
+      ],
+      "answer": "Tens",
+      "source_page": 2
+    },
+    {
+      "id": "3(i)",
+      "section": "Numbers and calculations",
+      "prompt": "A watch has 12 green/red numbers;6 are green. How many are red?",
+      "steps": [
+        "Subtract the green numbers from the total.",
+        "12 -6 =6."
+      ],
+      "answer": "6 red numbers",
+      "source_page": 2
+    },
+    {
+      "id": "3(ii)",
+      "section": "Numbers and calculations",
+      "prompt": "How many days make a week?",
+      "steps": [
+        "Count Monday through Sunday."
+      ],
+      "answer": "7 days",
+      "source_page": 2
+    },
+    {
+      "id": "3(iii)",
+      "section": "Numbers and calculations",
+      "prompt": "A brother has Sh.300 and receives Sh.200 from each parent. How much altogether?",
+      "steps": [
+        "Add all three amounts.",
+        "300 +200 +200 =700."
+      ],
+      "answer": "Sh.700",
+      "source_page": 2
+    },
+    {
+      "id": "3(iv)",
+      "section": "Numbers and calculations",
+      "prompt": "If each person has 2 eyes, how many eyes do 3 people have?",
+      "steps": [
+        "3 x 2 =6."
+      ],
+      "answer": "6 eyes",
+      "source_page": 3
+    },
+    {
+      "id": "3(v)",
+      "section": "Numbers and calculations",
+      "prompt": "Which figure is a star, A or B?",
+      "steps": [
+        "A has five outward points.",
+        "B is a diamond-shaped square."
+      ],
+      "answer": "A",
+      "source_page": 3
+    },
+    {
+      "id": "4(i)-words",
+      "section": "Numbers and calculations",
+      "prompt": "Write twenty, thirteen, eleven, fifty-one, fifty, ninety, twelve, twenty-nine in numerals.",
+      "steps": [
+        "Convert each word independently, preserving its order."
+      ],
+      "answer": "20,13,11,51,50,90,12,29",
+      "source_page": 3
+    },
+    {
+      "id": "4(i)-threes",
+      "section": "Numbers and calculations",
+      "prompt": "Count the digit 3 in the two printed number rows; write the answer in words.",
+      "steps": [
+        "The first row contains five 3 s.",
+        "The second row contains four 3 s;5 +4 =9."
+      ],
+      "answer": "Nine",
+      "source_page": 3
+    },
+    {
+      "id": "4(iii)",
+      "section": "Numbers and calculations",
+      "prompt": "There are 3 pictured hens. Add 3 more hens. How many legs altogether?",
+      "steps": [
+        "3 +3 =6 hens.",
+        "Each has 2 legs;6 x 2 =12."
+      ],
+      "answer": "12 legs",
+      "source_page": 3
+    },
+    {
+      "id": "4(iv)",
+      "section": "Numbers and calculations",
+      "prompt": "Bakari has 20 mangoes and gives his sister 10. How many remain?",
+      "steps": [
+        "20 -10 =10."
+      ],
+      "answer": "10 mangoes",
+      "source_page": 3
+    },
+    {
+      "id": "4(v)",
+      "section": "Numbers and calculations",
+      "prompt": "Amina has Sh.1,000 and buys a pencil for 200 and ruler for 500. What remains?",
+      "steps": [
+        "Total cost=200 +500 =700.",
+        "1,000 -700 =300."
+      ],
+      "answer": "Sh.300",
+      "source_page": 3
+    },
+    {
+      "id": "5(i)",
+      "section": "Numbers and calculations",
+      "prompt": "The first child is 101. What number labels the fourth child?",
+      "steps": [
+        "Count 101 first,102 second,103 third,104 fourth."
+      ],
+      "answer": "104",
+      "source_page": 4
+    },
+    {
+      "id": "5(ii)",
+      "section": "Numbers and calculations",
+      "prompt": "What shape are the children standing in?",
+      "steps": [
+        "They stand around one closed round ring.",
+        "It appears oval in perspective, representing a circle on the ground."
+      ],
+      "answer": "Circle",
+      "source_page": 4
+    },
+    {
+      "id": "5(iii)",
+      "section": "Numbers and calculations",
+      "prompt": "How many girls are shown? Write the count in words.",
+      "steps": [
+        "Count children in skirts:102,104,106,108,110.",
+        "There are 5."
+      ],
+      "answer": "Five",
+      "source_page": 4
+    },
+    {
+      "id": "5(iv)",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 105,[ ],[ ],108,[ ],110 using the picture.",
+      "steps": [
+        "Increase by 1."
+      ],
+      "answer": "106,107,109",
+      "source_page": 4
+    },
+    {
+      "id": "5(v)",
+      "section": "Numbers and calculations",
+      "prompt": "Write the last two labels in numerals.",
+      "steps": [
+        "The sequence ends at 110.",
+        "The last two labels are 109 and 110."
+      ],
+      "answer": "109;110",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Numbers and calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Msomi Bora - Standard Two Exams | 2010 - 2023 | Monthly, Midterm, Terminal and Annual Exams - Download All Subjects - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/standard-two-exams-2010-2023-monthly-midterm-terminal-and-annual-exams-download-all-subjects/"
+    }
+  ],
+  "limitations": [
+    "Q 2(i) calls multi-digit numbers digits; both literal-digit and intended-greatest-number interpretations are explained.",
+    "Q 4 has two different parts printed i; distinct ids preserve both."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "fb5ddf4fb1bd9a8841d33f61e8ee7c7791f689c179d7afe0ed0b41605aa1eb53"
+}

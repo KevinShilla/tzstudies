@@ -1,0 +1,461 @@
+{
+  "exam": "Kiswahili-S6-2024-SAP-September-Practice-assessment.pdf",
+  "output": "Kiswahili-S6-2024-SAP-September-Practice-assessment-AnswerKey.pdf",
+  "sha256": "519f701594d56f6889da899a8dd796fe8e7e2473ba02b353c21eca01e1296b1f",
+  "subject": "Kiswahili",
+  "level": "Standard Six",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "SAP",
+  "exam_type": "Practice assessment - September",
+  "question_count": "Vipengele 35 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "reviewed": true,
+  "expected_parts": [
+    "1(1)",
+    "1(2)",
+    "1(3)",
+    "1(4)",
+    "1(5)",
+    "2(1)",
+    "2(2)",
+    "2(3)",
+    "2(4)",
+    "2(5)",
+    "2(6)",
+    "2(7)",
+    "2(8)",
+    "2(9)",
+    "2(10)",
+    "3(1)",
+    "3(2)",
+    "3(3)",
+    "3(4)",
+    "3(5)",
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "4(4)",
+    "4(5)",
+    "5(1)",
+    "5(2)",
+    "5(3)",
+    "5(4)",
+    "5(5)",
+    "6(1)",
+    "6(2)",
+    "6(3)",
+    "6(4)",
+    "6(5)"
+  ],
+  "questions": [
+    {
+      "id": "1(1)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Mwandishi anasema ni kilevi gani hatari kwa maisha ya binadamu? A soda, B juisi, C pombe, D chai, E maziwa.",
+      "steps": [
+        "Pombe ndicho kilevi katika orodha. Msimamizi atumie habari halisi kuamua alama.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Habari ya kusikiliza haimo katika karatasi hii. Kwa msamiati wa machaguo, C - Pombe; ushahidi wa mwandishi haupo.",
+      "source_page": 2
+    },
+    {
+      "id": "1(2)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Mwandishi amebainisha madhara ya ulevi wa pombe kama yafuatayo isipokuwa? A kuua, B kuuawa, C kuharibu mali, D kuburudika, E kuharibu hadhi yake.",
+      "steps": [
+        "Machaguo mengine yanaeleza madhara; kuburudika hakuelezi madhara. Msimamizi atumie habari halisi kuamua alama.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Habari ya kusikiliza haimo katika karatasi hii. D - Kuburudika linaelekea kuwa chaguo lisilo madhara; script haipo kuthibitisha orodha ya mwandishi.",
+      "source_page": 2
+    },
+    {
+      "id": "1(3)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Rais amekataza unywaji wa pombe kwa sababu gani? A hupunguza nguvu kazi, B huongeza nguvu kazi, C hudororesha uchumi wa nchi, D hudumisha afya ya wanyonge, E huongeza umri.",
+      "steps": [
+        "Sababu A na C zinaweza kuzungumziwa; hakuna ushahidi wa kuchagua moja bila script. Msimamizi atumie habari halisi kuamua alama.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Habari ya kusikiliza haimo katika karatasi hii. Haiwezi kuthibitishwa bila habari iliyosomwa.",
+      "source_page": 2
+    },
+    {
+      "id": "1(4)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Kwa mujibu wa habari, watu wa umri gani wanakatazwa kunywa pombe? A juu ya miaka 18, B chini ya miaka 18, C wazee, D wanawake, E walemavu.",
+      "steps": [
+        "Swali linahitaji kikomo cha umri kilichotajwa na mwandishi, ambacho hakimo PDF. Msimamizi atumie habari halisi kuamua alama.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Habari ya kusikiliza haimo katika karatasi hii. Haiwezi kuthibitishwa bila habari iliyosomwa.",
+      "source_page": 2
+    },
+    {
+      "id": "1(5)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Zamani watu walikuwa wanakunywaje pombe? A kibinadamu, B kistaarabu, C kimakundi, D kijamii, E kiholela.",
+      "steps": [
+        "Nahitaji namna mwandishi alivyoeleza desturi za zamani; machaguo pekee hayatoshi. Msimamizi atumie habari halisi kuamua alama.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Habari ya kusikiliza haimo katika karatasi hii. Haiwezi kuthibitishwa bila habari iliyosomwa.",
+      "source_page": 2
+    },
+    {
+      "id": "2(1)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Mtoto wangu hatambuliki ukimkuta na wenzake. Tegua: A nyota, B fedha, C mchele, D watoto, E miwa.",
+      "steps": [
+        "Punje ya mchele hufanana na punje nyingine.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Mchele.",
+      "source_page": 2
+    },
+    {
+      "id": "2(2)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Bibi alinunua kiti kidogo cha miguu mitatu kwa ajili ya kupikia. Kinaitwaje? A kikalio, B kigogo, C kigoda, D kitimtimu, E kimbwagala.",
+      "steps": [
+        "Kigoda ni kiti kidogo, mara nyingi cha miguu mitatu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Kigoda.",
+      "source_page": 2
+    },
+    {
+      "id": "2(3)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Pundamilia ni mnyama mzuri kwa rangi yake. “Pundamilia” lina silabi ngapi? A moja, B mbili, C tatu, D nne, E tano.",
+      "steps": [
+        "Gawanya neno kwa matamshi; i na a ya mwisho ni silabi mbili.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Tano: pu-nda-mi-li-a.",
+      "source_page": 2
+    },
+    {
+      "id": "2(4)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Ule utata bado haujapatiwa ufumbuzi. “Ufumbuzi” maana yake nini? A ugumu, B ugunduzi, C uamuzi, D utatuzi, E utashi.",
+      "steps": [
+        "Ufumbuzi ni njia/jibu la kuondoa tatizo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Utatuzi.",
+      "source_page": 2
+    },
+    {
+      "id": "2(5)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Chomeke alikuwa kigeugeu ndiyo maana wenzake wanamtenga. “Kigeugeu” maana yake nini? A kuwa na msimamo, B kuwa na busara, C kuwa mkatili, D kuwa mkaidi, E kuwa na msimamo.",
+      "steps": [
+        "Kigeugeu hubadili mawazo/ahadi mara kwa mara. A na E zimeandika kuwa na msimamo, kinyume cha maana hiyo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kutokuwa na msimamo; hakuna chaguo sahihi lililochapishwa.",
+      "source_page": 2
+    },
+    {
+      "id": "2(6)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Malizia: Mwenda tezi na omo _____. A haliwali mkavu, B hafi njaa, C hujaza kibaba, D marejeo ngamani, E hutumia sabuni ya Omo.",
+      "steps": [
+        "Methali huonya kutangatanga bila kusudi/kutopata maendeleo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Marejeo ngamani.",
+      "source_page": 2
+    },
+    {
+      "id": "2(7)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Hawa wanafunzi wamefaulu masomo yao vizuri. Mtenda ni nafsi ya ngapi? A pili, B kwanza, C tatu, D nne, E tano.",
+      "steps": [
+        "Wanafunzi ni watu wanaozungumziwa; wame- huonyesha wingi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Nafsi ya tatu, wingi.",
+      "source_page": 2
+    },
+    {
+      "id": "2(8)",
+      "section": "Matumizi ya lugha",
+      "prompt": "[Kipengele cha nane kimechapishwa x] Kuku angeangua vifaranga _____. A angevitunza, B angelivitunza, C angalivitunza, D angevitunza, E angeviluliza.",
+      "steps": [
+        "Ange- hukubaliana na angeangua; -vi- huwakilisha vifaranga. Chaguo limerudiwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A au D - Angevitunza.",
+      "source_page": 2
+    },
+    {
+      "id": "2(9)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Chombo kile kimezama majini. Sentensi hii ipo kwenye hali gani? A mazoea, B timilifu, C ujao, D uliopo, E kutendeana.",
+      "steps": [
+        "Me- huonyesha kitendo kilichotimia.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Timilifu.",
+      "source_page": 3
+    },
+    {
+      "id": "2(10)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Simu janja itatumika kuandika data. Sentensi ipo katika wakati gani? A uliopo, B uliopita, C ujao, D ukanushi, E timilifu.",
+      "steps": [
+        "Ta- katika itatumika huonyesha wakati ujao.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Ujao.",
+      "source_page": 3
+    },
+    {
+      "id": "3(1)",
+      "section": "Visawe",
+      "prompt": "Oanisha Nyati. Machaguo: A Munyu, B Aibu, C Sherehe, D Nyau, E Mbogo.",
+      "steps": [
+        "Mbogo ni jina lingine la nyati.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Mbogo.",
+      "source_page": 3
+    },
+    {
+      "id": "3(2)",
+      "section": "Visawe",
+      "prompt": "Oanisha Paka. Machaguo: A Munyu, B Aibu, C Sherehe, D Nyau, E Mbogo.",
+      "steps": [
+        "Nyau ni jina lingine la paka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Nyau.",
+      "source_page": 3
+    },
+    {
+      "id": "3(3)",
+      "section": "Visawe",
+      "prompt": "Oanisha Tafrija. Machaguo: A Munyu, B Aibu, C Sherehe, D Nyau, E Mbogo.",
+      "steps": [
+        "Tafrija ni sherehe/burudani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Sherehe.",
+      "source_page": 3
+    },
+    {
+      "id": "3(4)",
+      "section": "Visawe",
+      "prompt": "Oanisha Fedheha. Machaguo: A Munyu, B Aibu, C Sherehe, D Nyau, E Mbogo.",
+      "steps": [
+        "Fedheha ni hali ya kupata aibu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Aibu.",
+      "source_page": 3
+    },
+    {
+      "id": "3(5)",
+      "section": "Visawe",
+      "prompt": "Oanisha Chumvi. Machaguo: A Munyu, B Aibu, C Sherehe, D Nyau, E Mbogo.",
+      "steps": [
+        "Munyu ni jina lingine la chumvi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Munyu.",
+      "source_page": 3
+    },
+    {
+      "id": "4(1)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Akiwa njiani alikutana na mbwa.",
+      "steps": [
+        "Kukutana hutokea baada ya Rukia kutoka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B",
+      "source_page": 3
+    },
+    {
+      "id": "4(2)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Uwoga wake ukamshtua mbwa huyo.",
+      "steps": [
+        "Hofu ya Rukia inamshtua mbwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D",
+      "source_page": 3
+    },
+    {
+      "id": "4(3)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Akamrudia na kumrarua.",
+      "steps": [
+        "Mbwa anamshambulia baada ya kushtuka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E",
+      "source_page": 3
+    },
+    {
+      "id": "4(4)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Akashtuka kwa sababu alikuwa mwoga.",
+      "steps": [
+        "Rukia anaogopa alipomwona mbwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C",
+      "source_page": 3
+    },
+    {
+      "id": "4(5)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Rukia alitoka kujisomea usiku.",
+      "steps": [
+        "Huu ndio mwanzo wa tukio.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A",
+      "source_page": 3
+    },
+    {
+      "id": "5(1)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Sifa kubwa ya msitu uliotajwa kwenye habari ni ipi?",
+      "steps": [
+        "Sentensi ya kwanza inataja sifa zote mbili.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Ulikuwa mkubwa na ulikuwa na wanyama wakali.",
+      "source_page": 3
+    },
+    {
+      "id": "5(2)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Kwa nini kiongozi wa kijiji cha Ikuzo aliitwa jina hilo?",
+      "steps": [
+        "Kifungu kinatoa sababu ya kupendwa, si asili ya jina Muhutu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Habari haisemi kwa nini aliitwa Muhutu. Ikiwa swali lilikusudia kwa nini alipendwa: alikuwa shupavu, mzalendo na alijitoa kwa ajili ya kijiji.",
+      "source_page": 4
+    },
+    {
+      "id": "5(3)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Kwa nini wanakijiji walikusanyika kwa Mzee Muhutu?",
+      "steps": [
+        "Mzee Njeri alisema walivamiwa na chatu; Muhutu akawapanga.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Walivamiwa na chatu na walitaka msaada/kuongozwa kumshambulia.",
+      "source_page": 4
+    },
+    {
+      "id": "5(4)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Kiongozi aliwagawa katika makundi mangapi?",
+      "steps": [
+        "Kifungu kinataja makundi mawili ili kumzunguka chatu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Makundi mawili.",
+      "source_page": 4
+    },
+    {
+      "id": "5(5)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Andika methali aliyotumia mwandishi kwenye habari hii.",
+      "steps": [
+        "Kijana mmoja aliitamka baada ya kumshinda chatu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Umoja ni nguvu, utengano ni udhaifu.",
+      "source_page": 4
+    },
+    {
+      "id": "6(1)",
+      "section": "Tangazo",
+      "prompt": "Jaza nafasi: Katibu wa (i) _____ soko la kijijini Mwanza. Tumia: Ijumaa, watatu, kwenye maadili, jumuiya, kutofanya biashara, uongozi wa, wafanya biashara.",
+      "steps": [
+        "Ya inahitajika baada ya jumuiya lakini haimo kwenye kisanduku.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Jumuiya, ndilo linaloelekea kukusudiwa. Sentensi sanifu: Katibu wa jumuiya ya soko la kijijini Mwanza.",
+      "source_page": 4
+    },
+    {
+      "id": "6(2)",
+      "section": "Tangazo",
+      "prompt": "Jaza nafasi: Amewataka wafanya biashara wote (ii) _____ siku ya mgomo unaotarajiwa. Tumia: Ijumaa, watatu, kwenye maadili, jumuiya, kutofanya biashara, uongozi wa, wafanya biashara.",
+      "steps": [
+        "Mgomo unahitaji wafanyabiashara kusitisha biashara.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kutofanya biashara.",
+      "source_page": 4
+    },
+    {
+      "id": "6(3)",
+      "section": "Tangazo",
+      "prompt": "Jaza nafasi: Mgomo kufanyika siku ya (iii) _____ ya tarehe 08/07/2024 hadi 10/07/2024. Tumia: Ijumaa, watatu, kwenye maadili, jumuiya, kutofanya biashara, uongozi wa, wafanya biashara.",
+      "steps": [
+        "Tarehe zimechapishwa 08-10 Julai, hivyo kifungu kina mkanganyiko wa siku na tarehe.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Ijumaa ndilo chaguo la siku, lakini halilingani na tarehe; 08/07/2024 ilikuwa Jumatatu.",
+      "source_page": 4
+    },
+    {
+      "id": "6(4)",
+      "section": "Tangazo",
+      "prompt": "Jaza nafasi: Watakao kaidi (iv) _____ ofisi yetu itawaita. Tumia: Ijumaa, watatu, kwenye maadili, jumuiya, kutofanya biashara, uongozi wa, wafanya biashara.",
+      "steps": [
+        "Huenda ilikusudiwa “Watakaokaidi ... uongozi wa ofisi yetu utawaita”; sehemu iliyochapishwa imeacha maneno.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Uongozi wa linaelekea kukusudiwa, lakini sentensi inayotokana nalo haijakamilika kisarufi.",
+      "source_page": 4
+    },
+    {
+      "id": "6(5)",
+      "section": "Tangazo",
+      "prompt": "Jaza nafasi: Ofisi yetu itawaita (v) _____ kwa ukiukaji wa makubaliano. Tumia: Ijumaa, watatu, kwenye maadili, jumuiya, kutofanya biashara, uongozi wa, wafanya biashara.",
+      "steps": [
+        "Maadili yenyewe si mahali mtu anapoitwa; kamati ya maadili ndiyo inaweza kusikiliza suala.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kwenye maadili linaelekea kukusudiwa; sanifu zaidi: mbele ya kamati ya maadili.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Ufahamu wa kusikiliza": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Matumizi ya lugha": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Visawe": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Utungaji": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Ufahamu wa kusoma": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Tangazo": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu."
+  },
+  "references": [
+    {
+      "title": "SAP Standard Six (Darasa La Sita) Exams With Marking Schemes September 2024 - Kiswahili Medium Schools",
+      "url": "https://darasahuru.ac.tz/sap-standard-six-darasa-la-sita-exams-with-marking-schemes-september-2024-kiswahili-medium-schools/"
+    }
+  ],
+  "limitations": [
+    "1(1-5): habari ya kusikiliza haimo; 1(1-2) zina mwongozo wa maana za machaguo lakini script ndiyo ithibitishe alama.",
+    "2(5): hakuna chaguo sahihi la kigeugeu.",
+    "2(8): chanzo kimechapisha x badala ya viii na kimerudia angevitunza katika A na D; ID 2(8) huitofautisha na 2(10).",
+    "5 imeita habari shairi kimakosa; ni kifungu cha nathari. 5(2) haitoi sababu ya jina la kiongozi.",
+    "6(1,3-5): tangazo lina maneno yaliyokosekana, lugha isiyokamilika, na Ijumaa isiyolingana na tarehe ya Jumatatu 08/07/2024."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "0fbae28bf0f1129b95c434c298a392e5633273359bb0f376649cef0ed601cb2e"
+}

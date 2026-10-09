@@ -1,0 +1,645 @@
+{
+  "exam": "English-S3-2022-MAP-July-Holiday-practice.pdf",
+  "output": "English-S3-2022-MAP-July-Holiday-practice-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Three",
+  "year": "2022",
+  "code": "01",
+  "board": "MAP",
+  "exam_type": "Holiday practice - July",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "c228001b3a844717f98469b8a74680d16e38f43660ef1a528d4f33e6ba9deb74",
+  "questions": [
+    {
+      "id": "1",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence 1.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "2",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence 2.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "3",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence 3.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "4",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence 4.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "5",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence 5.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "6",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence 6.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "7",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence 7.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "8",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence 8.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "9",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence 9.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "10",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence 10.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "11",
+      "section": "Vocabulary",
+      "prompt": "Mr. Kashaulo treats sick patients in a hospital. What is he? (A Doctor, B Plumber, C Surgeon, D Driver)",
+      "steps": [
+        "Treating patients identifies the general occupation doctor; the sentence does not specify surgery.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Doctor (best general answer); a surgeon is also a type of doctor.",
+      "source_page": 2
+    },
+    {
+      "id": "12",
+      "section": "Vocabulary",
+      "prompt": "The clock reads 12:00. What time is it? (A Half past one, B quarter past one, C quarter to one, D twelve o'clock)",
+      "steps": [
+        "The hour is 12 and the minutes are 00.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Twelve o'clock.",
+      "source_page": 2
+    },
+    {
+      "id": "13",
+      "section": "Vocabulary",
+      "prompt": "Mariam is Musa's daughter and her son is John. Who is John to Musa? (A Nephew, B Grandfather, C Grandson, D Granddaughter)",
+      "steps": [
+        "John is the son of Musa's daughter, so he is one generation below Musa's child.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Grandson.",
+      "source_page": 2
+    },
+    {
+      "id": "14",
+      "section": "Vocabulary",
+      "prompt": "Who repairs pipes? (A Doctor, B Plumber, C Cobbler, D Shoeshine)",
+      "steps": [
+        "A plumber installs and repairs water pipes.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Plumber.",
+      "source_page": 2
+    },
+    {
+      "id": "15",
+      "section": "Vocabulary",
+      "prompt": "There are many ___ in the forest. (A Mouse, B Mouses, C Mice, D Mices)",
+      "steps": [
+        "The irregular plural of mouse is mice.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Mice.",
+      "source_page": 2
+    },
+    {
+      "id": "16",
+      "section": "Vocabulary",
+      "prompt": "Write the plural of tooth.",
+      "steps": [
+        "Change the vowel sound in the irregular plural tooth -> teeth.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Teeth.",
+      "source_page": 2
+    },
+    {
+      "id": "17",
+      "section": "Vocabulary",
+      "prompt": "Your father's sister is your ___.",
+      "steps": [
+        "A parent's sister is an aunt.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Aunt.",
+      "source_page": 2
+    },
+    {
+      "id": "18",
+      "section": "Vocabulary",
+      "prompt": "What is the sound of a dog called?",
+      "steps": [
+        "A dog barks.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A bark/barking.",
+      "source_page": 2
+    },
+    {
+      "id": "19",
+      "section": "Vocabulary",
+      "prompt": "The young one of a duck is a ___.",
+      "steps": [
+        "Duckling is the name of a young duck.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Duckling.",
+      "source_page": 2
+    },
+    {
+      "id": "20",
+      "section": "Vocabulary",
+      "prompt": "A person who flies an aeroplane is a ___.",
+      "steps": [
+        "A pilot operates an aircraft.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Pilot.",
+      "source_page": 2
+    },
+    {
+      "id": "21",
+      "section": "Vocabulary",
+      "prompt": "A person who controls a ship is a ___.",
+      "steps": [
+        "The captain commands a ship; a helmsman specifically steers it.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Captain.",
+      "source_page": 2
+    },
+    {
+      "id": "22",
+      "section": "Vocabulary",
+      "prompt": "Write a word rhyming with week.",
+      "steps": [
+        "Week and seek share the ending /i:k/; other correct rhymes are acceptable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Example: seek.",
+      "source_page": 2
+    },
+    {
+      "id": "23",
+      "section": "Grammar",
+      "prompt": "What is the sound of a snake called?",
+      "steps": [
+        "A snake hisses.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A hiss/hissing.",
+      "source_page": 3
+    },
+    {
+      "id": "24",
+      "section": "Grammar",
+      "prompt": "We say ___ when we make a mistake.",
+      "steps": [
+        "Sorry is an apology.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Sorry.",
+      "source_page": 3
+    },
+    {
+      "id": "25",
+      "section": "Grammar",
+      "prompt": "The son or daughter of your uncle is your ___.",
+      "steps": [
+        "Your uncle's child is your cousin.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Cousin.",
+      "source_page": 3
+    },
+    {
+      "id": "26",
+      "section": "Grammar",
+      "prompt": "Sharon is peeling an orange ___ a knife. (A and, B by, C with, D in)",
+      "steps": [
+        "Use with to name a tool used for an action.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. With.",
+      "source_page": 3
+    },
+    {
+      "id": "27",
+      "section": "Grammar",
+      "prompt": "Does Pendolina ___ food every day? (A cooks, B cook, C cooked, D cooking)",
+      "steps": [
+        "After does use the base verb without s.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Cook.",
+      "source_page": 3
+    },
+    {
+      "id": "28",
+      "section": "Grammar",
+      "prompt": "Pili is ___ than Amina. (A Shorter, B Short, C Shortest, D Shoertest)",
+      "steps": [
+        "Than compares two people, so use the comparative.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Shorter.",
+      "source_page": 3
+    },
+    {
+      "id": "29",
+      "section": "Grammar",
+      "prompt": "Weak is for week; right is for ___. (A night, B might, C quite, D write)",
+      "steps": [
+        "Right and write are homophones.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Write.",
+      "source_page": 3
+    },
+    {
+      "id": "30",
+      "section": "Grammar",
+      "prompt": "This pen is mine but that ruler is ___. (A you, B your, C yours, D yourself)",
+      "steps": [
+        "Use the possessive pronoun yours when no noun follows.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Yours.",
+      "source_page": 3
+    },
+    {
+      "id": "31",
+      "section": "Grammar",
+      "prompt": "Good children ___ breaking school regulations. (A Hated, B hate, C are hated, D hating)",
+      "steps": [
+        "A plural subject takes the base present form hate for a general habit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Hate.",
+      "source_page": 3
+    },
+    {
+      "id": "32",
+      "section": "Grammar",
+      "prompt": "We sometimes ___ our grandfather during holidays. (A Visit, B Visits, C Visited, D Visiting)",
+      "steps": [
+        "We takes visit for a present habit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Visit.",
+      "source_page": 3
+    },
+    {
+      "id": "33",
+      "section": "Grammar",
+      "prompt": "She likes ___ books in the library. (A Reads, B Reading, C Read, D Readed)",
+      "steps": [
+        "Likes can be followed by the -ing activity reading.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Reading.",
+      "source_page": 3
+    },
+    {
+      "id": "34",
+      "section": "Grammar",
+      "prompt": "We are eating chips ___ forks. (A By, B On, C With, D And)",
+      "steps": [
+        "With introduces the utensils used.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. With.",
+      "source_page": 3
+    },
+    {
+      "id": "35",
+      "section": "Grammar",
+      "prompt": "The commissioner is guarded by a ___ of soldiers. (A Group, B Army, C Troop, D Cluster)",
+      "steps": [
+        "A troop is a group of soldiers; group and army can also be meaningful at different scales.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Troop (most specific intended collective noun).",
+      "source_page": 3
+    },
+    {
+      "id": "36",
+      "section": "Grammar",
+      "prompt": "Write the plural of baby.",
+      "steps": [
+        "Change consonant + y to ies.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Babies.",
+      "source_page": 3
+    },
+    {
+      "id": "37",
+      "section": "Grammar",
+      "prompt": "Write the plural of orange.",
+      "steps": [
+        "Add s to the regular noun.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Oranges.",
+      "source_page": 3
+    },
+    {
+      "id": "38",
+      "section": "Grammar",
+      "prompt": "Write the plural of sheep.",
+      "steps": [
+        "Sheep has the same singular and plural form.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Sheep.",
+      "source_page": 3
+    },
+    {
+      "id": "39",
+      "section": "Grammar",
+      "prompt": "Write the plural of hippopotamus.",
+      "steps": [
+        "Both the regular es ending and the traditional i plural are accepted.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Hippopotamuses or hippopotami.",
+      "source_page": 3
+    },
+    {
+      "id": "40",
+      "section": "Grammar",
+      "prompt": "Write the plural of tortoise.",
+      "steps": [
+        "Add s to the regular noun.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Tortoises.",
+      "source_page": 3
+    },
+    {
+      "id": "41",
+      "section": "Composition",
+      "prompt": "Arrange with A-E: The village is called Kasamwa.",
+      "steps": [
+        "Introduce Jibini, name his home town, introduce the nearby village, name it and finally describe the visit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D.",
+      "source_page": 4
+    },
+    {
+      "id": "42",
+      "section": "Composition",
+      "prompt": "Arrange with A-E: One day, my father and I visited Kasamwa.",
+      "steps": [
+        "Introduce Jibini, name his home town, introduce the nearby village, name it and finally describe the visit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E.",
+      "source_page": 4
+    },
+    {
+      "id": "43",
+      "section": "Composition",
+      "prompt": "Arrange with A-E: There is a village near our home street.",
+      "steps": [
+        "Introduce Jibini, name his home town, introduce the nearby village, name it and finally describe the visit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C.",
+      "source_page": 4
+    },
+    {
+      "id": "44",
+      "section": "Composition",
+      "prompt": "Arrange with A-E: My name is Jibini Jacob.",
+      "steps": [
+        "Introduce Jibini, name his home town, introduce the nearby village, name it and finally describe the visit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A.",
+      "source_page": 4
+    },
+    {
+      "id": "45",
+      "section": "Composition",
+      "prompt": "Arrange with A-E: I come from Mwembeni town.",
+      "steps": [
+        "Introduce Jibini, name his home town, introduce the nearby village, name it and finally describe the visit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B.",
+      "source_page": 4
+    },
+    {
+      "id": "46",
+      "section": "Comprehension",
+      "prompt": "What is Melina's age now?",
+      "steps": [
+        "She says she will be ten this month next year, so subtract one year: 10 - 1 = 9.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Nine years old (intended).",
+      "source_page": 4
+    },
+    {
+      "id": "47",
+      "section": "Comprehension",
+      "prompt": "What is Melina's mother's job?",
+      "steps": [
+        "The passage explicitly calls her mother an oculist.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Oculist/eye doctor.",
+      "source_page": 4
+    },
+    {
+      "id": "48",
+      "section": "Comprehension",
+      "prompt": "Which subject does Melina like most?",
+      "steps": [
+        "She says English is her favourite subject.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "English.",
+      "source_page": 4
+    },
+    {
+      "id": "49",
+      "section": "Comprehension",
+      "prompt": "On which days does Melina help her parents?",
+      "steps": [
+        "The passage says weekends, usually Saturday and Sunday in this school context.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Saturday and Sunday.",
+      "source_page": 4
+    },
+    {
+      "id": "50",
+      "section": "Comprehension",
+      "prompt": "Which class will Melina be in next year?",
+      "steps": [
+        "She is currently in Grade Three; the next grade is Four.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Grade Four, assuming normal promotion.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Source-limited items": "The required script, picture or other information is missing. Use the stated limitation and obtain the original material before expecting a unique answer.",
+    "Vocabulary": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Grammar": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Composition": "Follow a clear sequence and keep the tense consistent. Introduce people and events before their pronouns, actions and final outcome.",
+    "Comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "Standard Three Exams | 2010 - 2023 | Monthly, Midterm, Terminal and Annual Exams - Download All Subjects - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/standard-three-exams-2010-2023-monthly-midterm-terminal-and-annual-exams-download-all-subjects/"
+    }
+  ],
+  "limitations": [
+    "1: The teacher dictation words or audio are not included in this source.",
+    "2: The teacher dictation words or audio are not included in this source.",
+    "3: The teacher dictation words or audio are not included in this source.",
+    "4: The teacher dictation words or audio are not included in this source.",
+    "5: The teacher dictation words or audio are not included in this source.",
+    "6: The teacher dictation words or audio are not included in this source.",
+    "7: The teacher dictation words or audio are not included in this source.",
+    "8: The teacher dictation words or audio are not included in this source.",
+    "9: The teacher dictation words or audio are not included in this source.",
+    "10: The teacher dictation words or audio are not included in this source."
+  ],
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "question_count": "50 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "e66a13d79e9159dd5cc781f186190228082bf4e57bb6b35809e3ca4d7c51f062"
+}

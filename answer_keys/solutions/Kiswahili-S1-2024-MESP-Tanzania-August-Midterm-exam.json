@@ -1,0 +1,347 @@
+{
+  "exam": "Kiswahili-S1-2024-MESP-Tanzania-August-Midterm-exam.pdf",
+  "output": "Kiswahili-S1-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey.pdf",
+  "sha256": "129e9e4cec00d94ab87e1d1aa9bb82a7234be2c4b0d4b213aeaa7c60651665fc",
+  "subject": "Kiswahili",
+  "level": "Standard One",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Midterm exam - August · Kusoma",
+  "question_count": "Vipengele 26 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1(1)",
+    "1(2)",
+    "1(3)",
+    "1(4)",
+    "1(5)",
+    "1(6)",
+    "1(7)",
+    "1(8)",
+    "1(9)",
+    "1(10)",
+    "2(1)",
+    "2(2)",
+    "2(3)",
+    "2(4)",
+    "2(5)",
+    "2(6)",
+    "2(7)",
+    "2(8)",
+    "2(9)",
+    "2(10)",
+    "2(11)",
+    "2(12)",
+    "2(13)",
+    "2(14)",
+    "2(15)",
+    "Habari"
+  ],
+  "questions": [
+    {
+      "id": "1(1)",
+      "section": "Sauti za herufi",
+      "prompt": "Soma sauti: b.",
+      "steps": [
+        "Tambua b kama konsonanti; ch na sh ni miunganiko inayowakilisha sauti moja kila mmoja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tamka /b/.",
+      "source_page": 1
+    },
+    {
+      "id": "1(2)",
+      "section": "Sauti za herufi",
+      "prompt": "Soma sauti: m.",
+      "steps": [
+        "Tambua m kama konsonanti; ch na sh ni miunganiko inayowakilisha sauti moja kila mmoja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tamka /m/.",
+      "source_page": 1
+    },
+    {
+      "id": "1(3)",
+      "section": "Sauti za herufi",
+      "prompt": "Soma sauti: k.",
+      "steps": [
+        "Tambua k kama konsonanti; ch na sh ni miunganiko inayowakilisha sauti moja kila mmoja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tamka /k/.",
+      "source_page": 1
+    },
+    {
+      "id": "1(4)",
+      "section": "Sauti za herufi",
+      "prompt": "Soma sauti: d.",
+      "steps": [
+        "Tambua d kama konsonanti; ch na sh ni miunganiko inayowakilisha sauti moja kila mmoja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tamka /d/.",
+      "source_page": 1
+    },
+    {
+      "id": "1(5)",
+      "section": "Sauti za herufi",
+      "prompt": "Soma sauti: g.",
+      "steps": [
+        "Tambua g kama konsonanti; ch na sh ni miunganiko inayowakilisha sauti moja kila mmoja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tamka /g/.",
+      "source_page": 1
+    },
+    {
+      "id": "1(6)",
+      "section": "Sauti za herufi",
+      "prompt": "Soma sauti: L.",
+      "steps": [
+        "Tambua L kama konsonanti; ch na sh ni miunganiko inayowakilisha sauti moja kila mmoja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tamka /l/.",
+      "source_page": 1
+    },
+    {
+      "id": "1(7)",
+      "section": "Sauti za herufi",
+      "prompt": "Soma sauti: f.",
+      "steps": [
+        "Tambua f kama konsonanti; ch na sh ni miunganiko inayowakilisha sauti moja kila mmoja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tamka /f/.",
+      "source_page": 1
+    },
+    {
+      "id": "1(8)",
+      "section": "Sauti za herufi",
+      "prompt": "Soma sauti: ch.",
+      "steps": [
+        "Tambua ch kama konsonanti; ch na sh ni miunganiko inayowakilisha sauti moja kila mmoja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tamka /ch/.",
+      "source_page": 1
+    },
+    {
+      "id": "1(9)",
+      "section": "Sauti za herufi",
+      "prompt": "Soma sauti: sh.",
+      "steps": [
+        "Tambua sh kama konsonanti; ch na sh ni miunganiko inayowakilisha sauti moja kila mmoja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tamka /sh/.",
+      "source_page": 1
+    },
+    {
+      "id": "1(10)",
+      "section": "Sauti za herufi",
+      "prompt": "Soma sauti: r.",
+      "steps": [
+        "Tambua r kama konsonanti; ch na sh ni miunganiko inayowakilisha sauti moja kila mmoja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tamka /r/.",
+      "source_page": 1
+    },
+    {
+      "id": "2(1)",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: buibui.",
+      "steps": [
+        "Tambua herufi na silabi katika buibui.",
+        "Unganisha sauti hizo na utamke neno buibui kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: buibui.",
+      "source_page": 1
+    },
+    {
+      "id": "2(2)",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: takataka.",
+      "steps": [
+        "Tambua herufi na silabi katika takataka.",
+        "Unganisha sauti hizo na utamke neno takataka kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: takataka.",
+      "source_page": 1
+    },
+    {
+      "id": "2(3)",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: chuma.",
+      "steps": [
+        "Tambua herufi na silabi katika chuma.",
+        "Unganisha sauti hizo na utamke neno chuma kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: chuma.",
+      "source_page": 1
+    },
+    {
+      "id": "2(4)",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: ufagio.",
+      "steps": [
+        "Tambua herufi na silabi katika ufagio.",
+        "Unganisha sauti hizo na utamke neno ufagio kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: ufagio.",
+      "source_page": 1
+    },
+    {
+      "id": "2(5)",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: umeme.",
+      "steps": [
+        "Tambua herufi na silabi katika umeme.",
+        "Unganisha sauti hizo na utamke neno umeme kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: umeme.",
+      "source_page": 1
+    },
+    {
+      "id": "2(6)",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: magazeti.",
+      "steps": [
+        "Tambua herufi na silabi katika magazeti.",
+        "Unganisha sauti hizo na utamke neno magazeti kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: magazeti.",
+      "source_page": 1
+    },
+    {
+      "id": "2(7)",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: uyoga.",
+      "steps": [
+        "Tambua herufi na silabi katika uyoga.",
+        "Unganisha sauti hizo na utamke neno uyoga kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: uyoga.",
+      "source_page": 1
+    },
+    {
+      "id": "2(8)",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: zawadi.",
+      "steps": [
+        "Tambua herufi na silabi katika zawadi.",
+        "Unganisha sauti hizo na utamke neno zawadi kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: zawadi.",
+      "source_page": 1
+    },
+    {
+      "id": "2(9)",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: sungura.",
+      "steps": [
+        "Tambua herufi na silabi katika sungura.",
+        "Unganisha sauti hizo na utamke neno sungura kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: sungura.",
+      "source_page": 1
+    },
+    {
+      "id": "2(10)",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: gololi.",
+      "steps": [
+        "Tambua herufi na silabi katika gololi.",
+        "Unganisha sauti hizo na utamke neno gololi kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: gololi.",
+      "source_page": 1
+    },
+    {
+      "id": "2(11)",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: zeze.",
+      "steps": [
+        "Tambua herufi na silabi katika zeze.",
+        "Unganisha sauti hizo na utamke neno zeze kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: zeze.",
+      "source_page": 1
+    },
+    {
+      "id": "2(12)",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: ukuta.",
+      "steps": [
+        "Tambua herufi na silabi katika ukuta.",
+        "Unganisha sauti hizo na utamke neno ukuta kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: ukuta.",
+      "source_page": 1
+    },
+    {
+      "id": "2(13)",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: gari.",
+      "steps": [
+        "Tambua herufi na silabi katika gari.",
+        "Unganisha sauti hizo na utamke neno gari kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: gari.",
+      "source_page": 1
+    },
+    {
+      "id": "2(14)",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: mapema.",
+      "steps": [
+        "Tambua herufi na silabi katika mapema.",
+        "Unganisha sauti hizo na utamke neno mapema kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: mapema.",
+      "source_page": 1
+    },
+    {
+      "id": "2(15)",
+      "section": "Kusoma maneno",
+      "prompt": "Soma kwa sauti: pesa.",
+      "steps": [
+        "Tambua herufi na silabi katika pesa.",
+        "Unganisha sauti hizo na utamke neno pesa kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: pesa.",
+      "source_page": 1
+    },
+    {
+      "id": "Habari",
+      "section": "Kusoma habari",
+      "prompt": "Soma habari hii kwa usahihi: Baraka na Halima ni majirani. Baraka anasoma darasa la kwanza. Halima anasoma darasa la pili. Halima na Baraka wanapenda sana kusoma vitabu. Pia wanapenda kuandika na kuhesabu. Kila siko jioni wanasoma pamoja. Halima anataka kuwa daktari. Baraka anataka kuwa rubani.",
+      "steps": [
+        "Soma sentensi moja baada ya nyingine na utambue kwamba watoto ni majirani wanaopenda kusoma.",
+        "Tamka maneno polepole kisha ongeza kasi bila kuacha maneno; mwalimu akague utamkaji."
+      ],
+      "answer": "Soma habari kwa mtiririko. Tamka majina Baraka na Halima vizuri; pumzika kwenye nukta.",
+      "source_page": 2,
+      "tip": "Chanzo kimeandika siko; katika lugha sahihi hapa ni siku. Hili ni jaribio la kusoma, halina maswali ya ufahamu."
+    }
+  ],
+  "summaries": {
+    "Sauti za herufi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kusoma maneno": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kusoma habari": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "MESP Tanzania Standard One Midterm Exams August 2024",
+      "url": "https://darasahuru.ac.tz/mesp-tanzania-standard-one-midterm-exams-august-2024/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "Habari: chanzo kina kosa la tahajia siko badala ya siku."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "1ee3e132bc955d16cd7bdeb4665d7904e822825d2a76311a0d9aba1ab30f3ab3"
+}

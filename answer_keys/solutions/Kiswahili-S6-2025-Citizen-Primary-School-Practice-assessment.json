@@ -1,0 +1,461 @@
+{
+  "exam": "Kiswahili-S6-2025-Citizen-Primary-School-Practice-assessment.pdf",
+  "output": "Kiswahili-S6-2025-Citizen-Primary-School-Practice-assessment-AnswerKey.pdf",
+  "sha256": "141dd52bb391631b14f747298ae0a50489ac0889b2d2891518b66232f83c3393",
+  "subject": "Kiswahili",
+  "level": "Standard Six",
+  "year": "2025",
+  "code": "01",
+  "board": "Citizen Primary School",
+  "exam_type": "Practice assessment",
+  "question_count": "Vipengele 35 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "reviewed": true,
+  "expected_parts": [
+    "1(1)",
+    "1(2)",
+    "1(3)",
+    "1(4)",
+    "1(5)",
+    "2(1)",
+    "2(2)",
+    "2(3)",
+    "2(4)",
+    "2(5)",
+    "2(6)",
+    "2(7)",
+    "2(8)",
+    "2(9)",
+    "2(10)",
+    "3(1)",
+    "3(2)",
+    "3(3)",
+    "3(4)",
+    "3(5)",
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "4(4)",
+    "4(5)",
+    "5(1)",
+    "5(2)",
+    "5(3)",
+    "5(4)",
+    "5(5)",
+    "6(1)",
+    "6(2)",
+    "6(3)",
+    "6(4)",
+    "6(5)"
+  ],
+  "questions": [
+    {
+      "id": "1(1)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Fatuma anasoma shule gani? A Msakatonge, B Mtukome, C Mtakuja, D Mfaume, E Keura.",
+      "steps": [
+        "Habari ukurasa 5 inasema Fatuma anasoma Darasa la Tano Shule ya Msingi Keura.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Keura.",
+      "source_page": 1
+    },
+    {
+      "id": "1(2)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Binamu yake Fatuma ndiye anayesimulia hadithi. Binamu ni mtoto wa nani? A shemeji, B babu, C dada, D shangazi/mjomba, E bibi.",
+      "steps": [
+        "Binamu ni mtoto wa ndugu wa baba au mama; D ndiyo inafaa katika machaguo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Shangazi/mjomba.",
+      "source_page": 1
+    },
+    {
+      "id": "1(3)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Nani alikuwa anapenda kuwasaidia wazazi wake? A Tumaini, B Fatuma, C Mimi, D Binamu, E Mama.",
+      "steps": [
+        "Fatuma alikuwa akiwasaidia wazazi; Tumaini aliamua kubadilika baada ya kushauriwa naye.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Fatuma.",
+      "source_page": 1
+    },
+    {
+      "id": "1(4)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Ni nani anasoma Darasa la Tano? A Fatuma, B Mimi, C Tumaini, D Upendo, E Neema.",
+      "steps": [
+        "Sentensi ya pili inataja darasa lake; msimulizi anasoma la sita.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Fatuma.",
+      "source_page": 1
+    },
+    {
+      "id": "1(5)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Ni siku zipi Fatuma haendi shule? A Jumapili, B Jumatatu, C Jumatano na Alhamisi, D Jumamosi na Jumapili, E Jumatano.",
+      "steps": [
+        "Habari inasema Jumamosi anaenda kanisani na Jumapili husaidia kazi nyumbani; ndizo siku zisizo za shule zinazodokezwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Jumamosi na Jumapili.",
+      "source_page": 1
+    },
+    {
+      "id": "2(1)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Ninakwenda sokoni. Sentensi hii iko katika kauli ipi? A rahisi, B tata, C halisi, D taarifa, E huru.",
+      "steps": [
+        "Nina- hutumika kwa msemaji mwenyewe; hakuna maneno ya mtu yaliyosimuliwa. Machaguo yanachanganya aina ya usemi na muundo wa sentensi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Halisi, ikiwa kauli hii ni maneno ya msemaji mwenyewe. Kimuundo pia ni sentensi rahisi/sahili (A).",
+      "source_page": 1
+    },
+    {
+      "id": "2(2)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Maria amefiwa na wazazi wake wote wawili. Maria anaitwaje? A mfiwa, B yatima, C mzalendo, D mfalme, E mjukuu.",
+      "steps": [
+        "Yatima ni mtoto aliyefiwa na mzazi/wazazi; ndiyo istilahi mahsusi inayotakiwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Yatima.",
+      "source_page": 1
+    },
+    {
+      "id": "2(3)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Jogoo wa shamba _____. Ukamilisho sahihi ni upi? A haliwiki, B hana rafiki, C hawiki usiku, D hawiki mjini, E hawiki asubuhi.",
+      "steps": [
+        "Methali hueleza kuwa uwezo au mamlaka ya mtu inaweza kutambuliwa kwake kuliko ugenini.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Hawiki mjini.",
+      "source_page": 2
+    },
+    {
+      "id": "2(4)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Nacheza ngoma wapigaji wake wapo ughaibuni. Tegua: A ngoma, B redio, C vichaa, D watoto, E nyimbo.",
+      "steps": [
+        "Redio hutangaza muziki uliopigwa mahali pengine.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Redio.",
+      "source_page": 2
+    },
+    {
+      "id": "2(5)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Mama amehifadhi ufunguo wake vizuri. Wingi wa “ufunguo” ni upi? A vifungo, B mafungu, C kifungo, D funguo, E vifungulio.",
+      "steps": [
+        "Ufunguo hubadilika kuwa funguo katika wingi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Funguo.",
+      "source_page": 2
+    },
+    {
+      "id": "2(6)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Haraka haraka haina baraka. Methali ipi inafanana nayo? A Penye miti mingi hapana wajenzi, B Wengi wape, C Ngoja ngoja yaumiza matumbo, D Penye wengi hapaharibiki neno, E Pole pole ya kobe humfikisha mbali.",
+      "steps": [
+        "Methali zote husisitiza utulivu katika kufanikisha jambo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Pole pole ya kobe humfikisha mbali.",
+      "source_page": 2
+    },
+    {
+      "id": "2(7)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Babu kalala ndevu ziko nje. Tegua: A mhindi, B kiazi, C pamba, D mtama, E miembe.",
+      "steps": [
+        "Punje ziko ndani ya maganda ya hindi, lakini nyuzi zake hutokeza kama ndevu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Mhindi.",
+      "source_page": 2
+    },
+    {
+      "id": "2(8)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Afadhali jirani mchawi _____. A kuliko mchoyo, B kuliko mwizi, C mwongo, D kuliko mvivu, E kuliko mkorofi.",
+      "steps": [
+        "Methali huonya kuhusu jirani asiyetaka kugawana/kusaidia wengine.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Kuliko mchoyo.",
+      "source_page": 2
+    },
+    {
+      "id": "2(9)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Mimi _____ mtoto mkubwa katika familia yetu. A ndiyo, B ndiwe, C ndie, D ndiye, E ndio.",
+      "steps": [
+        "Mimi ni nafsi ya kwanza umoja; ndiwe ni ya pili na ndiye ni ya tatu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Ndimi: Mimi ndimi mtoto mkubwa katika familia yetu. Hakuna chaguo sahihi.",
+      "source_page": 2
+    },
+    {
+      "id": "2(10)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Nomino ipi imeundwa kutokana na kitenzi imba? A kuimba, B wimbo, C imbika, D imbiwa, E imbisha.",
+      "steps": [
+        "Wimbo ni nomino inayotaja utungo unaoimbwa; kuimba ni kitenzi jina/nomino ya kitendo, mfano “Kuimba kunafurahisha”.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Wimbo. A-kuimba pia inaweza kutumika kama nomino ya kitendo katika muktadha unaofaa.",
+      "source_page": 2
+    },
+    {
+      "id": "3(1)",
+      "section": "Msamiati",
+      "prompt": "Oanisha Nudhumu. Machaguo: A elimu ya nyota, B kwenda mahali fulani kwa lengo la kutembea, C chombo cha majini kinachovusha watu magari na mizigo, D ubaya wa roho ya mtu, E elimu ya viumbe, F utungo wa kishairi, G tendo la kuharibu vitu.",
+      "steps": [
+        "Nudhumu ni shairi/utungo uliopangwa kwa arudhi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "F - Utungo wa kishairi.",
+      "source_page": 3
+    },
+    {
+      "id": "3(2)",
+      "section": "Msamiati",
+      "prompt": "Oanisha Inda. Machaguo: A elimu ya nyota, B kwenda mahali fulani kwa lengo la kutembea, C chombo cha majini kinachovusha watu magari na mizigo, D ubaya wa roho ya mtu, E elimu ya viumbe, F utungo wa kishairi, G tendo la kuharibu vitu.",
+      "steps": [
+        "Inda ni uhasama/chuki.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Ubaya wa roho ya mtu.",
+      "source_page": 3
+    },
+    {
+      "id": "3(3)",
+      "section": "Msamiati",
+      "prompt": "Oanisha Zuru. Machaguo: A elimu ya nyota, B kwenda mahali fulani kwa lengo la kutembea, C chombo cha majini kinachovusha watu magari na mizigo, D ubaya wa roho ya mtu, E elimu ya viumbe, F utungo wa kishairi, G tendo la kuharibu vitu.",
+      "steps": [
+        "Kuzuru ni kutembelea sehemu au mtu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Kwenda mahali fulani kwa lengo la kutembea.",
+      "source_page": 3
+    },
+    {
+      "id": "3(4)",
+      "section": "Msamiati",
+      "prompt": "Oanisha Kivuko. Machaguo: A elimu ya nyota, B kwenda mahali fulani kwa lengo la kutembea, C chombo cha majini kinachovusha watu magari na mizigo, D ubaya wa roho ya mtu, E elimu ya viumbe, F utungo wa kishairi, G tendo la kuharibu vitu.",
+      "steps": [
+        "Kivuko huvusha kutoka upande mmoja hadi mwingine.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Chombo cha majini kinachovusha watu, magari na mizigo.",
+      "source_page": 3
+    },
+    {
+      "id": "3(5)",
+      "section": "Msamiati",
+      "prompt": "Oanisha Unajimu. Machaguo: A elimu ya nyota, B kwenda mahali fulani kwa lengo la kutembea, C chombo cha majini kinachovusha watu magari na mizigo, D ubaya wa roho ya mtu, E elimu ya viumbe, F utungo wa kishairi, G tendo la kuharibu vitu.",
+      "steps": [
+        "Unajimu huhusu kuchunguza nyota.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Elimu ya nyota.",
+      "source_page": 3
+    },
+    {
+      "id": "4(1)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Alipotazama upande mwingine akaona nyanya zimezagaa chini.",
+      "steps": [
+        "Kutazama upande mwingine hufuata kuona mtu barabarani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D",
+      "source_page": 3
+    },
+    {
+      "id": "4(2)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Alipoangalia katikati ya barabara aliona mtu amelala chini.",
+      "steps": [
+        "Baada ya kukuta ajali, anatambua mtu aliyeanguka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C",
+      "source_page": 3
+    },
+    {
+      "id": "4(3)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Siku ya Jumatatu Bahati aliamka mapema na kwenda shule.",
+      "steps": [
+        "Hutambulisha Bahati na safari yake.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A",
+      "source_page": 3
+    },
+    {
+      "id": "4(4)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Baadhi ya nyanya zilikuwa zimeharibika kabisa.",
+      "steps": [
+        "Hueleza hali ya nyanya zilizotajwa kabla yake.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E",
+      "source_page": 3
+    },
+    {
+      "id": "4(5)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Njiani alikuta ajali ya mtu aliyeanguka na baiskeli.",
+      "steps": [
+        "Ajali inakutwa baada ya kuanza kwenda shule.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B",
+      "source_page": 3
+    },
+    {
+      "id": "5(1)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Shairi hili lina beti ngapi?",
+      "steps": [
+        "Kuna mafungu mawili yenye mishororo minne.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Beti mbili.",
+      "source_page": 3
+    },
+    {
+      "id": "5(2)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Mwandishi ametumia aina gani ya shairi?",
+      "steps": [
+        "Ukigawa kwa idadi ya mistari, ni tarbia; ukigawa kwa vipande, ni mathnawi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tarbia: kila ubeti una mishororo minne. Kila mshororo pia una vipande viwili (mathnawi).",
+      "source_page": 3
+    },
+    {
+      "id": "5(3)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Idadi ya silabi katika mshororo mmoja huitwaje?",
+      "steps": [
+        "Mizani hupimwa kwa kuhesabu silabi za mshororo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mizani.",
+      "source_page": 3
+    },
+    {
+      "id": "5(4)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Ubeti mmoja wa shairi hili una mishororo mingapi?",
+      "steps": [
+        "Hesabu mistari ya ubeti mmoja: minne.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mishororo minne.",
+      "source_page": 3
+    },
+    {
+      "id": "5(5)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "“Mtima” maana yake nini katika shairi?",
+      "steps": [
+        "Mtima ni neno la kishairi/lahaja la moyo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Moyo.",
+      "source_page": 4
+    },
+    {
+      "id": "6(1)",
+      "section": "Barua",
+      "prompt": "Jaza kutoka kisanduku: Nafasi (i), chini ya anwani ya mwandishi. Tumia kisanduku: Kumb. Na. HKK/02; YAH: KIKAO CHA KIJIJI; Nakutakia kila kheri; 3/11/2024; K. Makundi; Anuani; kijiji.",
+      "steps": [
+        "Hapa ndipo tarehe huandikwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "3/11/2024.",
+      "source_page": 4
+    },
+    {
+      "id": "6(2)",
+      "section": "Barua",
+      "prompt": "Jaza kutoka kisanduku: Nafasi (ii), juu ya anwani ya Kimweri Zayumba. Tumia kisanduku: Kumb. Na. HKK/02; YAH: KIKAO CHA KIJIJI; Nakutakia kila kheri; 3/11/2024; K. Makundi; Anuani; kijiji.",
+      "steps": [
+        "Namba ya kumbukumbu hufuata anwani/tarehe na hutambulisha barua.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kumb. Na. HKK/02.",
+      "source_page": 4
+    },
+    {
+      "id": "6(3)",
+      "section": "Barua",
+      "prompt": "Jaza kutoka kisanduku: Nafasi (iii), baada ya Ndugu na kabla ya “Rejea kichwa cha habari hapo juu”. Tumia kisanduku: Kumb. Na. HKK/02; YAH: KIKAO CHA KIJIJI; Nakutakia kila kheri; 3/11/2024; K. Makundi; Anuani; kijiji.",
+      "steps": [
+        "Kiini cha barua kinamjulisha Kimweri kuhusu kikao cha kijiji.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "YAH: KIKAO CHA KIJIJI.",
+      "source_page": 4
+    },
+    {
+      "id": "6(4)",
+      "section": "Barua",
+      "prompt": "Jaza kutoka kisanduku: Kikao kitafanyika saa nne asubuhi katika ofisi ya (iv) _____. Tumia kisanduku: Kumb. Na. HKK/02; YAH: KIKAO CHA KIJIJI; Nakutakia kila kheri; 3/11/2024; K. Makundi; Anuani; kijiji.",
+      "steps": [
+        "Kikao cha kijiji hufanyika katika ofisi ya kijiji.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kijiji.",
+      "source_page": 4
+    },
+    {
+      "id": "6(5)",
+      "section": "Barua",
+      "prompt": "Jaza kutoka kisanduku: Nafasi (v), kabla ya Kajimulo Makundi, Katibu wa Kijiji. Tumia kisanduku: Kumb. Na. HKK/02; YAH: KIKAO CHA KIJIJI; Nakutakia kila kheri; 3/11/2024; K. Makundi; Anuani; kijiji.",
+      "steps": [
+        "Nafasi kabla ya jina kamili na cheo inafaa sahihi ya mwandishi. “Nakutakia kila kheri” inaweza kuwekwa kama hitimisho, lakini haibadilishi sahihi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "K. Makundi (sahihi/jina kwa ufupi).",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Ufahamu wa kusikiliza": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Matumizi ya lugha": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Msamiati": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Utungaji": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Ufahamu wa shairi": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Barua": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu."
+  },
+  "references": [
+    {
+      "title": "CITIZEN Standard Six Set 11 Examinations 2025 Citizen Pre & Primary School",
+      "url": "https://darasahuru.ac.tz/citizen-standard-six-set-11-examinations-2025/"
+    }
+  ],
+  "limitations": [
+    "2(1): machaguo yanachanganya kauli halisi/taarifa na aina za muundo; C halisi kwa usemi wa moja kwa moja, A rahisi kwa muundo.",
+    "2(9): chaguo sahihi ndimi halimo.",
+    "2(10): wimbo ndiyo nomino mahsusi; kuimba pia huweza kuwa nomino ya kitendo.",
+    "6(5): nafasi inaweza kuchukuliwa hitimisho au sahihi; K. Makundi inaendana na jina/cheo vinavyofuata.",
+    "6: kikao kimeandikwa Jumatatu 17/11/2024, lakini tarehe hiyo ilikuwa Jumapili; hitilafu ya chanzo, si ya majibu."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "48ce5cae363b9dbf9e8358f02305e3ac847360b65dae431e43be8499b00d7c1d"
+}

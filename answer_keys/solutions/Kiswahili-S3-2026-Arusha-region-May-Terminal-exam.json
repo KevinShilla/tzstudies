@@ -1,0 +1,336 @@
+{
+  "exam": "Kiswahili-S3-2026-Arusha-region-May-Terminal-exam.pdf",
+  "output": "Kiswahili-S3-2026-Arusha-region-May-Terminal-exam-AnswerKey.pdf",
+  "sha256": "699b68b4b594a60f72ed4f8a4d371ed5c0665b5bd309e874d01598eaa3e66f77",
+  "subject": "Kiswahili",
+  "level": "Standard Three",
+  "year": "2026",
+  "code": "Not printed in source",
+  "board": "Arusha region",
+  "exam_type": "Terminal exam - May",
+  "question_count": "Vipengele 25 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1(1)",
+    "1(2)",
+    "1(3)",
+    "1(4)",
+    "1(5)",
+    "2(1)",
+    "2(2)",
+    "2(3)",
+    "2(4)",
+    "2(5)",
+    "3(1)",
+    "3(2)",
+    "3(3)",
+    "3(4)",
+    "3(5)",
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "4(4)",
+    "4(5)",
+    "5(1)",
+    "5(2)",
+    "5(3)",
+    "5(4)",
+    "5(5)"
+  ],
+  "questions": [
+    {
+      "id": "1(1)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1(1).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "1(2)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1(2).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "1(3)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1(3).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "1(4)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1(4).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "1(5)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1(5).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "2(1)",
+      "section": "Sarufi",
+      "prompt": "Kisawe cha anapanda: A anaenda, B anakwea, C anachuma, D analima.",
+      "steps": [
+        "Katika maana ya kupanda juu, kisawe ni kukwea.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Anakwea.",
+      "source_page": 1
+    },
+    {
+      "id": "2(2)",
+      "section": "Sarufi",
+      "prompt": "Perege, kambale, sato, sangara: A matunda, B ndege, C samaki, D wanyama.",
+      "steps": [
+        "Hizi ni aina za samaki.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Samaki.",
+      "source_page": 1
+    },
+    {
+      "id": "2(3)",
+      "section": "Sarufi",
+      "prompt": "Chungu cha bibi ____ kwa udongo. A kimetengeneza, B kimetengenezeka, C kimetengenezwa, D kimefinywa.",
+      "steps": [
+        "Chungu ni kitu kilichotengenezwa; kitenzi cha kutendwa kina -w-.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Kimetengenezwa.",
+      "source_page": 1
+    },
+    {
+      "id": "2(4)",
+      "section": "Sarufi",
+      "prompt": "Jongoo ____ na miguu mingi. A ameumbwa, B amejengwa, C ameundwa, D amezaliwa.",
+      "steps": [
+        "Mnyama huumbwa na sifa zake; ameumbwa hupatana na jongoo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Ameumbwa.",
+      "source_page": 1
+    },
+    {
+      "id": "2(5)",
+      "section": "Sarufi",
+      "prompt": "Mtoto mtiifu ____ vizuri na jamii. A anafunza, B amefuzu, C amefaulu, D amefunzwa.",
+      "steps": [
+        "Jamii imemfundisha; mtoto ametendwa, amefunzwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Amefunzwa.",
+      "source_page": 1
+    },
+    {
+      "id": "3(1)",
+      "section": "Fasihi",
+      "prompt": "Juu mboga, katikati kuni, chini ugali.",
+      "steps": [
+        "Majani hutumiwa mboga, shina kuni, mizizi hutengeneza chakula/unga.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Muhogo.",
+      "source_page": 1
+    },
+    {
+      "id": "3(2)",
+      "section": "Fasihi",
+      "prompt": "____ hufunzwa na ulimwengu.",
+      "steps": [
+        "Asiyepata au kusikiliza malezi nyumbani atajifunza kwa maisha.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Asiyefunzwa na mamaye.",
+      "source_page": 1
+    },
+    {
+      "id": "3(3)",
+      "section": "Fasihi",
+      "prompt": "Maana ya amepata jiko.",
+      "steps": [
+        "Hii ni nahau ya kuoa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Ameoa.",
+      "source_page": 2
+    },
+    {
+      "id": "3(4)",
+      "section": "Fasihi",
+      "prompt": "Maana ya ana mkono wa birika.",
+      "steps": [
+        "Nahau hutaja kutopenda kutoa mali.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Ni mchoyo/bahili.",
+      "source_page": 2
+    },
+    {
+      "id": "3(5)",
+      "section": "Fasihi",
+      "prompt": "Usipoziba ufa ____",
+      "steps": [
+        "Tatua tatizo dogo mapema lisikue.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Utajenga ukuta.",
+      "source_page": 2
+    },
+    {
+      "id": "4(1)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Hunywa chai na kwenda shuleni.",
+      "steps": [
+        "Hii hufuata kuoga na kuvaa sare.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D",
+      "source_page": 2
+    },
+    {
+      "id": "4(2)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Hutandika vitanda, huoga na kuvaa sare.",
+      "steps": [
+        "Hii hufuata kuamka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C",
+      "source_page": 2
+    },
+    {
+      "id": "4(3)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Jamali, Paulo na Jane ni wanafunzi wa darasa la tatu.",
+      "steps": [
+        "Huu ni utangulizi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A",
+      "source_page": 2
+    },
+    {
+      "id": "4(4)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Huamka mapema asubuhi.",
+      "steps": [
+        "Kuamka huanza shughuli za siku.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B",
+      "source_page": 2
+    },
+    {
+      "id": "4(5)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Baada ya masomo hurudi nyumbani.",
+      "steps": [
+        "Kurudi hufuata masomo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E",
+      "source_page": 2
+    },
+    {
+      "id": "5(1)",
+      "section": "Ufahamu",
+      "prompt": "Kwa nini Kelvini na Kenedi hawakwenda shuleni?",
+      "steps": [
+        "Hii ndiyo sababu iliyotolewa na Kelvini.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Baba aliwaambia wachunge ng’ombe wakati anaenda mkutanoni.",
+      "source_page": 2
+    },
+    {
+      "id": "5(2)",
+      "section": "Ufahamu",
+      "prompt": "Msimulizi anaitwaje?",
+      "steps": [
+        "Habari inaanza Jina langu ni Imani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Imani.",
+      "source_page": 2
+    },
+    {
+      "id": "5(3)",
+      "section": "Ufahamu",
+      "prompt": "Ni haki gani ya mtoto imetajwa?",
+      "steps": [
+        "Imani alisema elimu ni haki yao.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Haki ya kupata elimu.",
+      "source_page": 2
+    },
+    {
+      "id": "5(4)",
+      "section": "Ufahamu",
+      "prompt": "Baba yao alienda wapi?",
+      "steps": [
+        "Kelvini amesema baba alienda mkutanoni.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kwenye mkutano.",
+      "source_page": 2
+    },
+    {
+      "id": "5(5)",
+      "section": "Ufahamu",
+      "prompt": "Rafiki zake Imani ni nani?",
+      "steps": [
+        "Hawa ndio alikutana nao njiani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kelvini na Kenedi.",
+      "source_page": 2
+    }
+  ],
+  "summaries": {
+    "Imla": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Sarufi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Fasihi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Utungaji": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ufahamu": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "Arusha Mtihani Wa Terminal Darasa La Tatu Mei 2026",
+      "url": "https://darasahuru.ac.tz/arusha-mtihani-wa-terminal-darasa-la-tatu-mei-2026/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "Imla 1(i-v): sentensi za mwalimu hazipo."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "cf5aa9d75f6f8408d0c394f3a00665416745b11588c1e4c307cdf2d1adba5072"
+}

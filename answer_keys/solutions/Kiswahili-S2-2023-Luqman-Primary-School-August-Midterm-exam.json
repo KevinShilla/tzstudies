@@ -1,0 +1,1253 @@
+{
+  "exam": "Kiswahili-S2-2023-Luqman-Primary-School-August-Midterm-exam.pdf",
+  "output": "Kiswahili-S2-2023-Luqman-Primary-School-August-Midterm-exam-AnswerKey.pdf",
+  "sha256": "e9dbf903b096cf66493a442c8359f58491016978ca8588c46e9e57a8890ca4c4",
+  "subject": "Kiswahili",
+  "level": "Standard Two",
+  "year": "2023",
+  "code": "Not printed in source",
+  "board": "Luqman Primary School",
+  "exam_type": "Midterm exam - August",
+  "question_count": "Vipengele 99 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "P1-1(1)",
+    "P1-1(2)",
+    "P1-1(3)",
+    "P1-1(4)",
+    "P1-1(5)",
+    "P1-2(1)",
+    "P1-2(2)",
+    "P1-2(3)",
+    "P1-2(4)",
+    "P1-2(5)",
+    "P2-3(1)",
+    "P2-3(2)",
+    "P2-3(3)",
+    "P2-3(4)",
+    "P2-3(5)",
+    "P2-4(1)",
+    "P2-4(2)",
+    "P2-4(3)",
+    "P2-4(4)",
+    "P2-4(5)",
+    "P3-5(1)",
+    "P3-5(2)",
+    "P3-5(3)",
+    "P3-5(4)",
+    "P3-5(5)",
+    "P4-Silabi(1)",
+    "P4-Silabi(2)",
+    "P4-Silabi(3)",
+    "P4-Silabi(4)",
+    "P4-Umoja(3)",
+    "P4-Umoja(4)",
+    "P4-Umoja(5)",
+    "P5-Silabi(1)",
+    "P5-Silabi(2)",
+    "P5-Silabi(3)",
+    "P5-Silabi(4)",
+    "P5-Umoja(3)",
+    "P5-Umoja(4)",
+    "P5-Umoja(5)",
+    "P7-Silabi(1)",
+    "P7-Silabi(2)",
+    "P7-Silabi(3)",
+    "P7-Silabi(4)",
+    "P7-Umoja(3)",
+    "P7-Umoja(4)",
+    "P7-Umoja(5)",
+    "P4-nafasi(6)",
+    "P4-nafasi(7)",
+    "P4-nafasi(8)",
+    "P4-5-Chagua(1)",
+    "P4-5-Chagua(2)",
+    "P4-5-Chagua(3)",
+    "P4-5-Chagua(4)",
+    "P4-5-Chagua(5)",
+    "P6-7-Chagua(1)",
+    "P6-7-Chagua(2)",
+    "P6-7-Chagua(3)",
+    "P6-7-Chagua(4)",
+    "P6-7-Chagua(5)",
+    "P5-Panga(1)",
+    "P5-Panga(2)",
+    "P5-Panga(3)",
+    "P5-Jaza(1)",
+    "P5-Jaza(2)",
+    "P7-Panga(1)",
+    "P7-Panga(2)",
+    "P7-Panga(3)",
+    "P7-Jaza(1)",
+    "P7-Jaza(2)",
+    "P6-4(10)",
+    "P6-4(11)",
+    "P6-4(12)",
+    "P6-4(13)",
+    "P6-4(14)",
+    "P8-1(1)",
+    "P8-1(2)",
+    "P8-1(3)",
+    "P8-1(4)",
+    "P8-1(5)",
+    "P8-2(1)",
+    "P8-2(2)",
+    "P8-2(3)",
+    "P8-2(4)",
+    "P8-2(5)",
+    "P9-3(1)",
+    "P9-3(2)",
+    "P9-3(3)",
+    "P9-3(4)",
+    "P9-3(5)",
+    "P9-4(1)",
+    "P9-4(2)",
+    "P9-4(3)",
+    "P9-4(4)",
+    "P9-4(5)",
+    "P10-5(1)",
+    "P10-5(2)",
+    "P10-5(3)",
+    "P10-5(4)",
+    "P10-5(5)"
+  ],
+  "questions": [
+    {
+      "id": "P1-1(1)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla P1-1(1).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "P1-1(2)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla P1-1(2).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "P1-1(3)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla P1-1(3).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "P1-1(4)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla P1-1(4).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "P1-1(5)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla P1-1(5).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "P1-2(1)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Wanafunzi ____ hawajafanya mtihani (a thaba, b saba, c chaba).",
+      "steps": [
+        "Tahajia sahihi ni saba.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "b - Saba.",
+      "source_page": 1
+    },
+    {
+      "id": "P1-2(2)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Yupi si mnyama kati ya sungura, paka na kunguru? (a paka, b sungura, c kunguru).",
+      "steps": [
+        "Kunguru ni ndege; paka na sungura ni mamalia. Kibiolojia wote ni wanyama.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "c - Kunguru, kwa uainishaji wa kawaida wa somo: ndege tofauti na mamalia wawili.",
+      "source_page": 1
+    },
+    {
+      "id": "P1-2(3)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Umoja wa vitanda (a kitanda, b vitandio, c vitambaa).",
+      "steps": [
+        "Badili vi- kuwa ki-.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a - Kitanda.",
+      "source_page": 1
+    },
+    {
+      "id": "P1-2(4)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Mtu anapouliza hutumia alama gani? (a kiulizo, b mkato, c mshangao).",
+      "steps": [
+        "Swali humalizika kwa ?.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a - Kiulizo (?).",
+      "source_page": 1
+    },
+    {
+      "id": "P1-2(5)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Mwe-we lina silabi ngapi? (a mbili, b moja, c tatu).",
+      "steps": [
+        "Silabi ni mwe na we.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a - Mbili.",
+      "source_page": 1
+    },
+    {
+      "id": "P2-3(1)",
+      "section": "Alama za uandishi",
+      "prompt": "Andika alama ya mshangao.",
+      "steps": [
+        "Mshangao huonyeshwa kwa !.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "!",
+      "source_page": 2
+    },
+    {
+      "id": "P2-3(2)",
+      "section": "Alama za uandishi",
+      "prompt": "Andika alama ya kuuliza.",
+      "steps": [
+        "Swali hutumia ?.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "?",
+      "source_page": 2
+    },
+    {
+      "id": "P2-3(3)",
+      "section": "Alama za uandishi",
+      "prompt": "Andika alama ya mkato.",
+      "steps": [
+        "Mkato hutenganisha vitu vilivyoorodheshwa au sehemu ya sentensi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": ",",
+      "source_page": 2
+    },
+    {
+      "id": "P2-3(4)",
+      "section": "Alama za uandishi",
+      "prompt": "Andika alama ya nukta.",
+      "steps": [
+        "Nukta hufunga sentensi ya taarifa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": ".",
+      "source_page": 2
+    },
+    {
+      "id": "P2-3(5)",
+      "section": "Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: kongomanga",
+      "steps": [
+        "Badili kila herufi ya kongomanga kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "KONGOMANGA",
+      "source_page": 2
+    },
+    {
+      "id": "P2-4(1)",
+      "section": "Methali na vitendawili",
+      "prompt": "Tegua: Popo mbili zavuka mto.",
+      "steps": [
+        "Macho mawili yanalinganishwa na popo pande za pua.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Macho.",
+      "source_page": 2
+    },
+    {
+      "id": "P2-4(2)",
+      "section": "Methali na vitendawili",
+      "prompt": "Malizia: Asiyesikia la mkuu ____",
+      "steps": [
+        "Asiyepokea ushauri wa wenye busara anaweza kuingia matatizoni.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Huvunjika guu.",
+      "source_page": 2
+    },
+    {
+      "id": "P2-4(3)",
+      "section": "Methali na vitendawili",
+      "prompt": "Malizia: Haba na haba ____",
+      "steps": [
+        "Kukusanya kidogo kidogo hutoa kitu kingi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Hujaza kibaba.",
+      "source_page": 2
+    },
+    {
+      "id": "P2-4(4)",
+      "section": "Methali na vitendawili",
+      "prompt": "Tegua: Tajiri wa rangi.",
+      "steps": [
+        "Kinyonga hubadili rangi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kinyonga.",
+      "source_page": 2
+    },
+    {
+      "id": "P2-4(5)",
+      "section": "Methali na vitendawili",
+      "prompt": "Malizia: Samaki mkunje ____",
+      "steps": [
+        "Fundisha mtoto tabia njema mapema kabla hajakomaa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Angali mbichi.",
+      "source_page": 2
+    },
+    {
+      "id": "P3-5(1)",
+      "section": "Ufahamu",
+      "prompt": "Daudi aliwaona wadudu gani msituni?",
+      "steps": [
+        "Habari inawataja hawa kabla ya Daudi kufika mzingani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Nyigu, panzi na siafu.",
+      "source_page": 3
+    },
+    {
+      "id": "P3-5(2)",
+      "section": "Ufahamu",
+      "prompt": "Daudi alitoroka shule kwenda wapi?",
+      "steps": [
+        "Hii ndiyo safari iliyotajwa mwanzo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Porini kuangalia mizinga ya nyuki.",
+      "source_page": 3
+    },
+    {
+      "id": "P3-5(3)",
+      "section": "Ufahamu",
+      "prompt": "Mizinga ilikuwa ya nani?",
+      "steps": [
+        "Habari inasema ilikuwa ya baba yake.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Baba yake Daudi.",
+      "source_page": 3
+    },
+    {
+      "id": "P3-5(4)",
+      "section": "Ufahamu",
+      "prompt": "Kwa nini Daudi alipiga kelele?",
+      "steps": [
+        "Kelele zilifuata nyuki kumdhuru. Chanzo hutumia aling’atwa; nyuki hudunga.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Alidungwa na nyuki.",
+      "source_page": 3
+    },
+    {
+      "id": "P3-5(5)",
+      "section": "Ufahamu",
+      "prompt": "Wewe unampenda mdudu gani?",
+      "steps": [
+        "Hili linahitaji chaguo lako; kipepeo ni mdudu mwenye mabawa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Kipepeo.",
+      "source_page": 3,
+      "tip": "Jibu la binafsi, mfano mwingine wa mdudu unakubalika."
+    },
+    {
+      "id": "P4-Silabi(1)",
+      "section": "Kuunda maneno",
+      "prompt": "Unda neno linaloanza na ko-.",
+      "steps": [
+        "Neno kobe huanza kwa ko.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: kobe.",
+      "source_page": 4,
+      "tip": "Sw ni mkusanyiko wa konsonanti; silabi kamili ya sweta ni swe."
+    },
+    {
+      "id": "P4-Silabi(2)",
+      "section": "Kuunda maneno",
+      "prompt": "Unda neno linaloanza na ngu-.",
+      "steps": [
+        "Neno nguo huanza kwa ngu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: nguo.",
+      "source_page": 4,
+      "tip": "Sw ni mkusanyiko wa konsonanti; silabi kamili ya sweta ni swe."
+    },
+    {
+      "id": "P4-Silabi(3)",
+      "section": "Kuunda maneno",
+      "prompt": "Unda neno linaloanza na vu-.",
+      "steps": [
+        "Neno vumbi huanza kwa vu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: vumbi.",
+      "source_page": 4,
+      "tip": "Sw ni mkusanyiko wa konsonanti; silabi kamili ya sweta ni swe."
+    },
+    {
+      "id": "P4-Silabi(4)",
+      "section": "Kuunda maneno",
+      "prompt": "Unda neno linaloanza na sw-.",
+      "steps": [
+        "Neno sweta huanza kwa sw.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: sweta.",
+      "source_page": 4,
+      "tip": "Sw ni mkusanyiko wa konsonanti; silabi kamili ya sweta ni swe."
+    },
+    {
+      "id": "P4-Umoja(3)",
+      "section": "Umoja",
+      "prompt": "Andika umoja wa magari.",
+      "steps": [
+        "Vitu vingi ni magari; kimoja ni gari.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "gari.",
+      "source_page": 4
+    },
+    {
+      "id": "P4-Umoja(4)",
+      "section": "Umoja",
+      "prompt": "Andika umoja wa makochi.",
+      "steps": [
+        "Vitu vingi ni makochi; kimoja ni kochi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "kochi.",
+      "source_page": 4
+    },
+    {
+      "id": "P4-Umoja(5)",
+      "section": "Umoja",
+      "prompt": "Andika umoja wa mikeka.",
+      "steps": [
+        "Vitu vingi ni mikeka; kimoja ni mkeka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "mkeka.",
+      "source_page": 4
+    },
+    {
+      "id": "P5-Silabi(1)",
+      "section": "Kuunda maneno",
+      "prompt": "Unda neno linaloanza na ko-.",
+      "steps": [
+        "Neno kobe huanza kwa ko.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: kobe.",
+      "source_page": 5,
+      "tip": "Sw ni mkusanyiko wa konsonanti; silabi kamili ya sweta ni swe."
+    },
+    {
+      "id": "P5-Silabi(2)",
+      "section": "Kuunda maneno",
+      "prompt": "Unda neno linaloanza na ngu-.",
+      "steps": [
+        "Neno nguo huanza kwa ngu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: nguo.",
+      "source_page": 5,
+      "tip": "Sw ni mkusanyiko wa konsonanti; silabi kamili ya sweta ni swe."
+    },
+    {
+      "id": "P5-Silabi(3)",
+      "section": "Kuunda maneno",
+      "prompt": "Unda neno linaloanza na vu-.",
+      "steps": [
+        "Neno vumbi huanza kwa vu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: vumbi.",
+      "source_page": 5,
+      "tip": "Sw ni mkusanyiko wa konsonanti; silabi kamili ya sweta ni swe."
+    },
+    {
+      "id": "P5-Silabi(4)",
+      "section": "Kuunda maneno",
+      "prompt": "Unda neno linaloanza na sw-.",
+      "steps": [
+        "Neno sweta huanza kwa sw.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: sweta.",
+      "source_page": 5,
+      "tip": "Sw ni mkusanyiko wa konsonanti; silabi kamili ya sweta ni swe."
+    },
+    {
+      "id": "P5-Umoja(3)",
+      "section": "Umoja",
+      "prompt": "Andika umoja wa magari.",
+      "steps": [
+        "Vitu vingi ni magari; kimoja ni gari.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "gari.",
+      "source_page": 5
+    },
+    {
+      "id": "P5-Umoja(4)",
+      "section": "Umoja",
+      "prompt": "Andika umoja wa makochi.",
+      "steps": [
+        "Vitu vingi ni makochi; kimoja ni kochi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "kochi.",
+      "source_page": 5
+    },
+    {
+      "id": "P5-Umoja(5)",
+      "section": "Umoja",
+      "prompt": "Andika umoja wa mikeka.",
+      "steps": [
+        "Vitu vingi ni mikeka; kimoja ni mkeka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "mkeka.",
+      "source_page": 5
+    },
+    {
+      "id": "P7-Silabi(1)",
+      "section": "Kuunda maneno",
+      "prompt": "Unda neno linaloanza na ko-.",
+      "steps": [
+        "Neno kobe huanza kwa ko.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: kobe.",
+      "source_page": 7,
+      "tip": "Sw ni mkusanyiko wa konsonanti; silabi kamili ya sweta ni swe."
+    },
+    {
+      "id": "P7-Silabi(2)",
+      "section": "Kuunda maneno",
+      "prompt": "Unda neno linaloanza na ngu-.",
+      "steps": [
+        "Neno nguo huanza kwa ngu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: nguo.",
+      "source_page": 7,
+      "tip": "Sw ni mkusanyiko wa konsonanti; silabi kamili ya sweta ni swe."
+    },
+    {
+      "id": "P7-Silabi(3)",
+      "section": "Kuunda maneno",
+      "prompt": "Unda neno linaloanza na vu-.",
+      "steps": [
+        "Neno vumbi huanza kwa vu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: vumbi.",
+      "source_page": 7,
+      "tip": "Sw ni mkusanyiko wa konsonanti; silabi kamili ya sweta ni swe."
+    },
+    {
+      "id": "P7-Silabi(4)",
+      "section": "Kuunda maneno",
+      "prompt": "Unda neno linaloanza na sw-.",
+      "steps": [
+        "Neno sweta huanza kwa sw.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: sweta.",
+      "source_page": 7,
+      "tip": "Sw ni mkusanyiko wa konsonanti; silabi kamili ya sweta ni swe."
+    },
+    {
+      "id": "P7-Umoja(3)",
+      "section": "Umoja",
+      "prompt": "Andika umoja wa magari.",
+      "steps": [
+        "Vitu vingi ni magari; kimoja ni gari.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "gari.",
+      "source_page": 7
+    },
+    {
+      "id": "P7-Umoja(4)",
+      "section": "Umoja",
+      "prompt": "Andika umoja wa makochi.",
+      "steps": [
+        "Vitu vingi ni makochi; kimoja ni kochi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "kochi.",
+      "source_page": 7
+    },
+    {
+      "id": "P7-Umoja(5)",
+      "section": "Umoja",
+      "prompt": "Andika umoja wa mikeka.",
+      "steps": [
+        "Vitu vingi ni mikeka; kimoja ni mkeka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "mkeka.",
+      "source_page": 7
+    },
+    {
+      "id": "P4-nafasi(6)",
+      "section": "Nafasi bila agizo",
+      "prompt": "Nafasi 6 imechapishwa bila neno au swali la kujibu.",
+      "steps": [
+        "Angalia kwamba nafasi hii haina neno la kubadili wala agizo jingine.",
+        "Usibuni swali; pata maelekezo kutoka kwa mwalimu."
+      ],
+      "answer": "Hakuna jibu maalumu linaloweza kutolewa; mwalimu atoe agizo lililokosekana.",
+      "source_page": 4
+    },
+    {
+      "id": "P4-nafasi(7)",
+      "section": "Nafasi bila agizo",
+      "prompt": "Nafasi 7 imechapishwa bila neno au swali la kujibu.",
+      "steps": [
+        "Angalia kwamba nafasi hii haina neno la kubadili wala agizo jingine.",
+        "Usibuni swali; pata maelekezo kutoka kwa mwalimu."
+      ],
+      "answer": "Hakuna jibu maalumu linaloweza kutolewa; mwalimu atoe agizo lililokosekana.",
+      "source_page": 4
+    },
+    {
+      "id": "P4-nafasi(8)",
+      "section": "Nafasi bila agizo",
+      "prompt": "Nafasi 8 imechapishwa bila neno au swali la kujibu.",
+      "steps": [
+        "Angalia kwamba nafasi hii haina neno la kubadili wala agizo jingine.",
+        "Usibuni swali; pata maelekezo kutoka kwa mwalimu."
+      ],
+      "answer": "Hakuna jibu maalumu linaloweza kutolewa; mwalimu atoe agizo lililokosekana.",
+      "source_page": 4
+    },
+    {
+      "id": "P4-5-Chagua(1)",
+      "section": "Msamiati",
+      "prompt": "Chagua Jokofu, jogoo, hatari, gari au baibui: Mama amenunua ____ mwekundu.",
+      "steps": [
+        "Mwekundu hupatana na jogoo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Jogoo.",
+      "source_page": 4
+    },
+    {
+      "id": "P4-5-Chagua(2)",
+      "section": "Msamiati",
+      "prompt": "Chagua Jokofu, jogoo, hatari, gari au baibui: Mimi sipendi michezo ya ____ maana ninaweza nikaumia.",
+      "steps": [
+        "Hatari huleta uwezekano wa kuumia.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Hatari.",
+      "source_page": 4
+    },
+    {
+      "id": "P4-5-Chagua(3)",
+      "section": "Msamiati",
+      "prompt": "Chagua Jokofu, jogoo, hatari, gari au baibui: Nyumbani kwetu kuna ____ wengi juu ya kabati.",
+      "steps": [
+        "Buibui huweza kujenga utando juu ya kabati. Chanzo limeandika baibui kwa kosa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Buibui.",
+      "source_page": 4
+    },
+    {
+      "id": "P4-5-Chagua(4)",
+      "section": "Msamiati",
+      "prompt": "Chagua Jokofu, jogoo, hatari, gari au baibui: ____ letu haligandishi kwa sababu limeharibika.",
+      "steps": [
+        "Jokofu ni chombo cha kuhifadhi kwa baridi na kugandisha.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Jokofu.",
+      "source_page": 5
+    },
+    {
+      "id": "P4-5-Chagua(5)",
+      "section": "Msamiati",
+      "prompt": "Chagua Jokofu, jogoo, hatari, gari au baibui: Jana tulipanda ____ bovu wakati wa kurudi nyumbani.",
+      "steps": [
+        "Gari ni usafiri unaopandwa, na bovu hupatana na gari.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Gari.",
+      "source_page": 5
+    },
+    {
+      "id": "P6-7-Chagua(1)",
+      "section": "Msamiati",
+      "prompt": "Chagua Jokofu, jogoo, hatari, gari au baibui: Mama amenunua ____ mwekundu.",
+      "steps": [
+        "Mwekundu hupatana na jogoo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Jogoo.",
+      "source_page": 6
+    },
+    {
+      "id": "P6-7-Chagua(2)",
+      "section": "Msamiati",
+      "prompt": "Chagua Jokofu, jogoo, hatari, gari au baibui: Mimi sipendi michezo ya ____ maana ninaweza nikaumia.",
+      "steps": [
+        "Hatari huleta uwezekano wa kuumia.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Hatari.",
+      "source_page": 6
+    },
+    {
+      "id": "P6-7-Chagua(3)",
+      "section": "Msamiati",
+      "prompt": "Chagua Jokofu, jogoo, hatari, gari au baibui: Nyumbani kwetu kuna ____ wengi juu ya kabati.",
+      "steps": [
+        "Buibui huweza kujenga utando juu ya kabati. Chanzo limeandika baibui kwa kosa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Buibui.",
+      "source_page": 6
+    },
+    {
+      "id": "P6-7-Chagua(4)",
+      "section": "Msamiati",
+      "prompt": "Chagua Jokofu, jogoo, hatari, gari au baibui: ____ letu haligandishi kwa sababu limeharibika.",
+      "steps": [
+        "Jokofu ni chombo cha kuhifadhi kwa baridi na kugandisha.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Jokofu.",
+      "source_page": 6
+    },
+    {
+      "id": "P6-7-Chagua(5)",
+      "section": "Msamiati",
+      "prompt": "Chagua Jokofu, jogoo, hatari, gari au baibui: Jana tulipanda ____ bovu wakati wa kurudi nyumbani.",
+      "steps": [
+        "Gari ni usafiri unaopandwa, na bovu hupatana na gari.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Gari.",
+      "source_page": 7
+    },
+    {
+      "id": "P5-Panga(1)",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi: orogaf.",
+      "steps": [
+        "Kupata ghorofa kunahitaji kuongeza h ambayo haipo kwenye chanzo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Gorofa kwa herufi zilizotolewa; tahajia sanifu ni ghorofa.",
+      "source_page": 5
+    },
+    {
+      "id": "P5-Panga(2)",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi: giafo.",
+      "steps": [
+        "Herufi zilizotolewa hazina u ya ufagio.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Fagio kwa herufi zilizotolewa; kwa jina la chombo cha kufagia, tahajia sanifu ni ufagio.",
+      "source_page": 5
+    },
+    {
+      "id": "P5-Panga(3)",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi: hasiru.",
+      "steps": [
+        "Panga h-a-r-u-s-i.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Harusi.",
+      "source_page": 5
+    },
+    {
+      "id": "P5-Jaza(1)",
+      "section": "Herufi",
+      "prompt": "Jaza herufi katika g__t_.",
+      "steps": [
+        "Goti huandikwa g-o-t-i.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "o na i: goti.",
+      "source_page": 5
+    },
+    {
+      "id": "P5-Jaza(2)",
+      "section": "Herufi",
+      "prompt": "Jaza herufi katika ____a_ji.",
+      "steps": [
+        "Soma herufi zilizobaki a, j, i na utambue nafasi zisizo na urefu maalumu.",
+        "Mwalimu athibitishe neno lililokusudiwa kabla ya kulipa alama; usidhanie kwamba ni maji bila kurekebisha nafasi ya ziada."
+      ],
+      "answer": "Chanzo hakitoi picha, muktadha au urefu bayana wa mapengo; jibu moja haliwezi kuthibitishwa.",
+      "source_page": 5
+    },
+    {
+      "id": "P7-Panga(1)",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi: orogaf.",
+      "steps": [
+        "Kupata ghorofa kunahitaji kuongeza h ambayo haipo kwenye chanzo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Gorofa kwa herufi zilizotolewa; tahajia sanifu ni ghorofa.",
+      "source_page": 7
+    },
+    {
+      "id": "P7-Panga(2)",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi: giafo.",
+      "steps": [
+        "Herufi zilizotolewa hazina u ya ufagio.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Fagio kwa herufi zilizotolewa; kwa jina la chombo cha kufagia, tahajia sanifu ni ufagio.",
+      "source_page": 7
+    },
+    {
+      "id": "P7-Panga(3)",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi: hasiru.",
+      "steps": [
+        "Panga h-a-r-u-s-i.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Harusi.",
+      "source_page": 7
+    },
+    {
+      "id": "P7-Jaza(1)",
+      "section": "Herufi",
+      "prompt": "Jaza herufi katika g__t_.",
+      "steps": [
+        "Goti huandikwa g-o-t-i.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "o na i: goti.",
+      "source_page": 7
+    },
+    {
+      "id": "P7-Jaza(2)",
+      "section": "Herufi",
+      "prompt": "Jaza herufi katika ____a_ji.",
+      "steps": [
+        "Soma herufi zilizobaki a, j, i na utambue nafasi zisizo na urefu maalumu.",
+        "Mwalimu athibitishe neno lililokusudiwa kabla ya kulipa alama; usidhanie kwamba ni maji bila kurekebisha nafasi ya ziada."
+      ],
+      "answer": "Chanzo hakitoi picha, muktadha au urefu bayana wa mapengo; jibu moja haliwezi kuthibitishwa.",
+      "source_page": 7
+    },
+    {
+      "id": "P6-4(10)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla P6-4(10).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 6
+    },
+    {
+      "id": "P6-4(11)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla P6-4(11).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 6
+    },
+    {
+      "id": "P6-4(12)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla P6-4(12).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 6
+    },
+    {
+      "id": "P6-4(13)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla P6-4(13).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 6
+    },
+    {
+      "id": "P6-4(14)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla P6-4(14).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 6
+    },
+    {
+      "id": "P8-1(1)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla P8-1(1).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 8
+    },
+    {
+      "id": "P8-1(2)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla P8-1(2).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 8
+    },
+    {
+      "id": "P8-1(3)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla P8-1(3).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 8
+    },
+    {
+      "id": "P8-1(4)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla P8-1(4).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 8
+    },
+    {
+      "id": "P8-1(5)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla P8-1(5).",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 8
+    },
+    {
+      "id": "P8-2(1)",
+      "section": "Msamiati",
+      "prompt": "Asha anamwitaje mtoto wa pili Amina aliyezaliwa na mama yake?",
+      "steps": [
+        "Amina amezaliwa baada ya Asha.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mdogo wangu.",
+      "source_page": 8
+    },
+    {
+      "id": "P8-2(2)",
+      "section": "Msamiati",
+      "prompt": "Tegua: Popo mbili zavuka mto.",
+      "steps": [
+        "Macho mawili yapo pande mbili za pua.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Macho.",
+      "source_page": 8
+    },
+    {
+      "id": "P8-2(3)",
+      "section": "Msamiati",
+      "prompt": "Kuku watano wana jumla ya miguu mingapi?",
+      "steps": [
+        "Kila kuku ana miguu 2; 5 × 2 = 10.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "10 (kumi).",
+      "source_page": 8
+    },
+    {
+      "id": "P8-2(4)",
+      "section": "Msamiati",
+      "prompt": "Gauni, sketi, blauzi na kanga ni mavazi ya watu gani?",
+      "steps": [
+        "Chagua kundi lililotolewa kwenye kisanduku.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Wasichana, kwa machaguo ya swali.",
+      "source_page": 8
+    },
+    {
+      "id": "P8-2(5)",
+      "section": "Msamiati",
+      "prompt": "Ubao, nywele na viatu vya shule vina rangi gani?",
+      "steps": [
+        "Machaguo ya chanzo yanatoa nyeusi; si lazima kila ubao au kila kiatu kiwe cheusi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Nyeusi, kwa mifano iliyokusudiwa.",
+      "source_page": 8
+    },
+    {
+      "id": "P9-3(1)",
+      "section": "Majina ya makundi",
+      "prompt": "Andika jina la pamoja: Mchicha, matembele, kisamvu, kabichi.",
+      "steps": [
+        "Vyote huliwa kama mboga za majani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mboga za majani.",
+      "source_page": 9
+    },
+    {
+      "id": "P9-3(2)",
+      "section": "Majina ya makundi",
+      "prompt": "Andika jina la pamoja: Gauni, sketi, blauzi, kanzu.",
+      "steps": [
+        "Vyote huvaliwa mwilini.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mavazi.",
+      "source_page": 9
+    },
+    {
+      "id": "P9-3(3)",
+      "section": "Majina ya makundi",
+      "prompt": "Andika jina la pamoja: Malapa, buti, yeboyebo, kandambili.",
+      "steps": [
+        "Vyote huvaliwa miguuni.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Viatu.",
+      "source_page": 9
+    },
+    {
+      "id": "P9-3(4)",
+      "section": "Majina ya makundi",
+      "prompt": "Andika jina la pamoja: Soda, uji, maziwa, chai.",
+      "steps": [
+        "Vyote hunywewa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Vinywaji.",
+      "source_page": 9
+    },
+    {
+      "id": "P9-3(5)",
+      "section": "Majina ya makundi",
+      "prompt": "Andika jina la pamoja: Dodoma, Arusha, Mwanza, Tanga.",
+      "steps": [
+        "Kila jina ni la mkoa wa Tanzania na pia mji wake.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mikoa (pia ni majina ya miji).",
+      "source_page": 9
+    },
+    {
+      "id": "P9-4(1)",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi: iarbha.",
+      "steps": [
+        "Panga herufi katika tahajia habari.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Habari.",
+      "source_page": 9
+    },
+    {
+      "id": "P9-4(2)",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi: iuj.",
+      "steps": [
+        "Panga herufi katika tahajia uji.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Uji.",
+      "source_page": 9
+    },
+    {
+      "id": "P9-4(3)",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi: edreav.",
+      "steps": [
+        "Panga herufi katika tahajia dereva.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Dereva.",
+      "source_page": 9
+    },
+    {
+      "id": "P9-4(4)",
+      "section": "Silabi",
+      "prompt": "Tenganisha silabi za Barabara.",
+      "steps": [
+        "Gawanya kwa vipande vinavyotamkwa: ba-ra-ba-ra.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "ba-ra-ba-ra.",
+      "source_page": 9
+    },
+    {
+      "id": "P9-4(5)",
+      "section": "Silabi",
+      "prompt": "Tenganisha silabi za Kidimbwi.",
+      "steps": [
+        "Gawanya kwa vipande vinavyotamkwa: ki-di-mbwi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "ki-di-mbwi.",
+      "source_page": 9
+    },
+    {
+      "id": "P10-5(1)",
+      "section": "Ufahamu",
+      "prompt": "Nani anaunguza chakula ili watu walale njaa?",
+      "steps": [
+        "Maji amemtaja Moto kuwa ndiye huunguza chakula.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Moto.",
+      "source_page": 10
+    },
+    {
+      "id": "P10-5(2)",
+      "section": "Ufahamu",
+      "prompt": "Moto alimwita Maji jina gani ambalo hakulipenda?",
+      "steps": [
+        "Maji anakataa kuitwa Bwana mdogo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Bwana mdogo.",
+      "source_page": 10
+    },
+    {
+      "id": "P10-5(3)",
+      "section": "Ufahamu",
+      "prompt": "Moto amesema maji husababisha matatizo gani?",
+      "steps": [
+        "Haya ndiyo malalamiko ya Moto.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mafuriko na kuharibu makazi.",
+      "source_page": 10
+    },
+    {
+      "id": "P10-5(4)",
+      "section": "Ufahamu",
+      "prompt": "Nani alisema atamzima mwenzake mara moja?",
+      "steps": [
+        "Maji anasema anaweza kuuzima Moto.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Maji.",
+      "source_page": 10
+    },
+    {
+      "id": "P10-5(5)",
+      "section": "Ufahamu",
+      "prompt": "Kati ya Moto na Maji umempenda nani?",
+      "steps": [
+        "Chagua mmoja na toa sababu inayolingana na manufaa yake; Moto pia anaweza kuchaguliwa kwa kusaidia kupika.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Maji, kwa sababu yanatusaidia kunywa, kuoga na kuzima moto.",
+      "source_page": 10,
+      "tip": "Jibu la mfano; maoni yenye sababu nzuri yanakubalika."
+    }
+  ],
+  "summaries": {
+    "Imla": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Matumizi ya lugha": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Alama za uandishi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Herufi kubwa": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Methali na vitendawili": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ufahamu": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kuunda maneno": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Umoja": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Nafasi bila agizo": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Msamiati": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kupanga herufi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Herufi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Majina ya makundi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Silabi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "Standard Two Exams | 2010 - 2023 | Monthly, Midterm, Terminal and Annual Exams - Download All Subjects - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/standard-two-exams-2010-2023-monthly-midterm-terminal-and-annual-exams-download-all-subjects/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "PDF ina mkusanyiko wa majaribio na marudio ya maswali katika kurasa 4-10; yote yamejibiwa kwa vitambulisho vya kurasa.",
+    "Imla kurasa 1, 6 na 8 haina karatasi ya sentensi.",
+    "Ukurasa 4 nafasi vi-viii hazina maswali.",
+    "Kurasa 5 na 7: ____a_ji haina muktadha wa kutosha kupata jibu moja.",
+    "Kurasa 5 na 7: orogaf/giafo hazitoshi kwa tahajia sanifu ghorofa/ufagio.",
+    "Swali 2(ii) ukurasa 1 linatumia si mnyama kwa maana ya si mamalia; kunguru kibiolojia ni mnyama."
+  ],
+  "labelling_note": "Namba zimejirudia katika PDF; kila kipengele kina P ya ukurasa ili kujitofautisha.",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "700953d8a84bde5712aca0a8a24c7251420043c0739f976a9e743a28ac25ba9f"
+}

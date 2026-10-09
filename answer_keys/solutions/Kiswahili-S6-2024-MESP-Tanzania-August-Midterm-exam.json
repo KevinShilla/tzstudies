@@ -1,0 +1,426 @@
+{
+  "exam": "Kiswahili-S6-2024-MESP-Tanzania-August-Midterm-exam.pdf",
+  "output": "Kiswahili-S6-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey.pdf",
+  "sha256": "ea033d451e0ea6f686420df780c0fef72af989c9cdf3c433fa201619f1d77ea6",
+  "subject": "Kiswahili",
+  "level": "Standard Six",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Midterm exam - August",
+  "question_count": "Vipengele 31 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "reviewed": true,
+  "expected_parts": [
+    "1(1)",
+    "1(2)",
+    "1(3)",
+    "1(4)",
+    "1(5)",
+    "2(1)",
+    "2(2)",
+    "2(3)",
+    "2(4)",
+    "2(5)",
+    "2(6)",
+    "2(7)",
+    "2(8)",
+    "2(9)",
+    "2(10)",
+    "3(1)",
+    "3(2)",
+    "3(3)",
+    "3(4)",
+    "3(5)",
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "4(4)",
+    "4(5)",
+    "5(1)",
+    "5(2)",
+    "5(3)",
+    "5(4)",
+    "5(5)",
+    "6"
+  ],
+  "questions": [
+    {
+      "id": "1(1)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Habari uliyosikiliza inamuongelea nani? A Msomi, B Mzalendo, C Nyerere, D Rais, E Elimu.",
+      "steps": [
+        "Machaguo yanadokeza wasifu wa Julius Kambarage Nyerere. Mwalimu athibitishe kwa habari aliyosoma kabla ya kutoa alama.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Habari ya kusikiliza haijachapishwa. Kwa sharti kwamba habari ni wasifu wa Nyerere unaodokezwa na machaguo: C - Nyerere.",
+      "source_page": 1
+    },
+    {
+      "id": "1(2)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Mlengwa katika habari hiyo alizaliwa katika mkoa gani? A Tanga, B Butiama, C Musoma, D Mara, E Moshi.",
+      "steps": [
+        "Wasifu wa Ofisi ya Waziri Mkuu unaweka Butiama katika Mkoa wa Mara. Mwalimu athibitishe kwa habari aliyosoma kabla ya kutoa alama.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Habari ya kusikiliza haijachapishwa. Kwa sharti kwamba habari ni wasifu wa Nyerere unaodokezwa na machaguo: D - Mara.",
+      "source_page": 1
+    },
+    {
+      "id": "1(3)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Kiu ya elimu ilimvusha na kwenda kusoma katika chuo cha _____. A Elimu, B Makerere, C Uganda, D Butimba, E Dar es Salaam.",
+      "steps": [
+        "Wasifu unataja Chuo Kikuu cha Makerere, Kampala, Uganda. Mwalimu athibitishe kwa habari aliyosoma kabla ya kutoa alama.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Habari ya kusikiliza haijachapishwa. Kwa sharti kwamba habari ni wasifu wa Nyerere unaodokezwa na machaguo: B - Makerere.",
+      "source_page": 1
+    },
+    {
+      "id": "1(4)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Kwa mujibu wa habari mlengwa alizaliwa mwaka gani? A 1999, B 2022, C 1922, D 1980, E 1923.",
+      "steps": [
+        "Wasifu unataja tarehe 13 Aprili 1922. Mwalimu athibitishe kwa habari aliyosoma kabla ya kutoa alama.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Habari ya kusikiliza haijachapishwa. Kwa sharti kwamba habari ni wasifu wa Nyerere unaodokezwa na machaguo: C - 1922.",
+      "source_page": 1
+    },
+    {
+      "id": "1(5)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Alipokuwa Uingereza alihitimu shahada ya nini? A Ualimu, B Wanasheria, C Uanasiasa, D Uchumi na historia, E Uchumi na sayansi ya kati.",
+      "steps": [
+        "Chaguo hili ndilo linalolingana na elimu yake ya Edinburgh; Scotland ni sehemu ya Ufalme wa Muungano. Mwalimu athibitishe kwa habari aliyosoma kabla ya kutoa alama.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Habari ya kusikiliza haijachapishwa. Kwa sharti kwamba habari ni wasifu wa Nyerere unaodokezwa na machaguo: D - Uchumi na historia.",
+      "source_page": 2
+    },
+    {
+      "id": "2(1)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Katika sentensi “Yule ni mtoto mnene sana”, neno lipi limetumika kama kiwakilishi? A Yule, B ni, C mtoto, D mnene, E sana.",
+      "steps": [
+        "Yule limesimama badala ya jina la mtu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Yule.",
+      "source_page": 2
+    },
+    {
+      "id": "2(2)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Rais alikuwa ughaibuni anazindua filamu ya Royal Tour. Kinyume cha “ughaibuni” ni kipi? A Magharibi, B Nyumbani, C Nchi za mbali, D Nchi ya jirani, E Mashariki.",
+      "steps": [
+        "Ughaibuni ni ugenini/nchi za nje; nyumbani ni kwao.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Nyumbani.",
+      "source_page": 2
+    },
+    {
+      "id": "2(3)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Katika neno “sikudhani”, kiambishi kikanushi ni kipi? A Si, B Siku, C Sha, D Dha, E Ku.",
+      "steps": [
+        "Si- hukana nafsi ya kwanza umoja; -ku- huonyesha wakati uliopita uliokanushwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Si-.",
+      "source_page": 2
+    },
+    {
+      "id": "2(4)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Huyu _____ mwakilishi wa mwalimu katika tukio lile. A Ndiye, B ndiwo, C ndiyo, D ndio, E ndo.",
+      "steps": [
+        "Huyu ni mtu mmoja wa nafsi ya tatu; upatanisho ni ndiye.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Ndiye.",
+      "source_page": 2
+    },
+    {
+      "id": "2(5)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Jongo anapenda kuimba kilevi. “Kilevi” limetumika kama aina gani ya maneno? A N, B V, C W, D T, E E.",
+      "steps": [
+        "Kilevi kinaeleza namna Jongo anavyoimba.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - E, kielezi.",
+      "source_page": 2
+    },
+    {
+      "id": "2(6)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Mtoto haandiki _____ hasomi. Neno gani linakamilisha kwa usahihi? A Ila, B bali, C kama, D hata, E wala.",
+      "steps": [
+        "Wala huunganisha vitendo viwili vilivyokanushwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Wala.",
+      "source_page": 2
+    },
+    {
+      "id": "2(7)",
+      "section": "Matumizi ya lugha",
+      "prompt": "“Ukifanya vizuri utapongezwa.” Hii ni aina gani ya sentensi? A Sahili, B shurutia, C tegemezi, D changamano, E ambatano.",
+      "steps": [
+        "Ki- katika ukifanya kinaweka sharti la kupongezwa; swali linachanganya uainishaji wa masharti na wa muundo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Shurutia. Pia kimuundo ni changamano.",
+      "source_page": 2
+    },
+    {
+      "id": "2(8)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Fimbo inayowekwa mbele ya meza ya Spika wa Bunge kuonyesha kuwepo kwa Bunge huitwa _____. A Mpambe, B siwa, C rungu, D ngao, E bango.",
+      "steps": [
+        "Siwa ni alama ya mamlaka ya Spika/Bunge.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Siwa.",
+      "source_page": 2
+    },
+    {
+      "id": "2(9)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Angeendelea na maongezi _____ na gari. A Angeliachwa, B angaliachwa, C angeachwa, D ataachwa, E asingeliachwa.",
+      "steps": [
+        "Ange- katika sharti hulingana na ange- katika matokeo: angeendelea, angeachwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Angeachwa.",
+      "source_page": 2
+    },
+    {
+      "id": "2(10)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Majangili wengi hutumia _____ kuulia wanyama wakubwa kwa maslahi yao. A Kalamu, B kochi, C gobore, D mbinu, E mbwa.",
+      "steps": [
+        "Gobore ni bunduki inayotajwa kama kifaa cha kuulia wanyama katika machaguo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Gobore.",
+      "source_page": 3
+    },
+    {
+      "id": "3(1)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha Hatuna budi. Machaguo: A Kurina asali, B ni lazima, C kuchota aali, D kejeli, E kuongeza hamasa/matarajio.",
+      "steps": [
+        "Hatuna budi maana yake hatuna uchaguzi mwingine.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Ni lazima.",
+      "source_page": 3
+    },
+    {
+      "id": "3(2)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha Kuvuna asali. Machaguo: A Kurina asali, B ni lazima, C kuchota aali, D kejeli, E kuongeza hamasa/matarajio.",
+      "steps": [
+        "Kitendo cha kutoa asali katika mzinga huitwa kurina.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Kurina asali.",
+      "source_page": 3
+    },
+    {
+      "id": "3(3)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha Dhihaka. Machaguo: A Kurina asali, B ni lazima, C kuchota aali, D kejeli, E kuongeza hamasa/matarajio.",
+      "steps": [
+        "Dhihaka ni maneno/kitendo cha kumdhihaki mtu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Kejeli.",
+      "source_page": 3
+    },
+    {
+      "id": "3(4)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha Tia moyo. Machaguo: A Kurina asali, B ni lazima, C kuchota aali, D kejeli, E kuongeza hamasa/matarajio.",
+      "steps": [
+        "Kutia moyo ni kumhimiza mtu aendelee.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Kuongeza hamasa/matarajio.",
+      "source_page": 3
+    },
+    {
+      "id": "3(5)",
+      "section": "Kuonanisha",
+      "prompt": "Oanisha Konde. Machaguo: A Kurina asali, B ni lazima, C kuchota aali, D kejeli, E kuongeza hamasa/matarajio.",
+      "steps": [
+        "Machaguo yote yaliyobaki yanahusu asali; hakuna maana ya konde.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Hakuna chaguo sahihi. Konde ni ngumi; pia linaweza kumaanisha shamba dogo kulingana na muktadha.",
+      "source_page": 3
+    },
+    {
+      "id": "4(1)",
+      "section": "Utungaji",
+      "prompt": "Panga sentensi kwa A-E: Lakini rafiki zake walitupoza mioyo, kumbe alikwenda uwanja wa Sabasaba kuona mashindano ya riadha.",
+      "steps": [
+        "Maelezo ya rafiki yanamaliza wasiwasi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E",
+      "source_page": 3
+    },
+    {
+      "id": "4(2)",
+      "section": "Utungaji",
+      "prompt": "Panga sentensi kwa A-E: Baada ya kifungua kinywa, Juma alikwenda kucheza na wenzake.",
+      "steps": [
+        "Juma hutoka baada ya watu kuamka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B",
+      "source_page": 3
+    },
+    {
+      "id": "4(3)",
+      "section": "Utungaji",
+      "prompt": "Panga sentensi kwa A-E: Asubuhi sote tuliamka salama.",
+      "steps": [
+        "Huu ndio mwanzo wa siku.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A",
+      "source_page": 3
+    },
+    {
+      "id": "4(4)",
+      "section": "Utungaji",
+      "prompt": "Panga sentensi kwa A-E: Ndipo tulipoingiwa na wasiwasi mwingi.",
+      "steps": [
+        "Wasiwasi hufuata kumsubiri/kumtafuta kwa muda mrefu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D",
+      "source_page": 3
+    },
+    {
+      "id": "4(5)",
+      "section": "Utungaji",
+      "prompt": "Panga sentensi kwa A-E: Tulimtazama ka muda mrefu hadi adhuhuri siku ile.",
+      "steps": [
+        "Hii ndiyo sentensi iliyochapishwa; muktadha unaelekea kumsubiri/kumtafuta, ambayo husababisha wasiwasi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C",
+      "source_page": 3
+    },
+    {
+      "id": "5(1)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Kwa mujibu wa habari hii, watu wengi walikufa wakiwa kwenye tukio gani?",
+      "steps": [
+        "Habari inataja msongamano katika sherehe za kuaga mwili.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Sherehe za kuaga mwili wa mfalme wa Yemen.",
+      "source_page": 3
+    },
+    {
+      "id": "5(2)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Aliyesababisha mkusanyiko huo aliitwa nani?",
+      "steps": [
+        "Jina limeandikwa Tony mwishwa katika kifungu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tony Mwishwa, mfalme wa Yemen kama anavyotajwa katika habari.",
+      "source_page": 3
+    },
+    {
+      "id": "5(3)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Miili ya waliofariki kutokana na tukio hilo ilipelekwa na kuhifadhiwa wapi ili kusubiri siku ya mazishi?",
+      "steps": [
+        "Habari inasema miili ilipelekwa huko ili itambuliwe na ndugu; haielezi siku ya mazishi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Katika ukumbi maalumu wa Simbomu.",
+      "source_page": 3
+    },
+    {
+      "id": "5(4)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Tukio kubwa kama hilo katika nchi za kifalme za Kiarabu ni la ngapi kuwahi kutokea nchini humo?",
+      "steps": [
+        "Kifungu kimetumia neno kwanza.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "La kwanza, kwa mujibu wa kifungu.",
+      "source_page": 4
+    },
+    {
+      "id": "5(5)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Kutokana na habari hiyo, mji mkuu wa nchi hiyo ya Falme za Kiarabu unaitwaje?",
+      "steps": [
+        "Jina hili limechapishwa hivyo katika habari; si uthibitisho wa jiografia halisi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "ULIKI, kwa mujibu wa kifungu.",
+      "source_page": 4
+    },
+    {
+      "id": "6",
+      "section": "Barua",
+      "prompt": "Wewe ni Mkuu wa Shule ya Msingi MBEYA BOYS, S.L.P. 2024, Jijini Mbeya. Andika barua kumuomba Mwalimu Mkuu wa Shule ya Msingi KYELA, S.L.P. 34, Mbeya, ampokee kijana John Juma katika shule yake. Jina lako liwe Joti Masanja.",
+      "steps": [
+        "Weka anwani ya mwandishi na tarehe; fuatisha anwani ya mpokeaji, kichwa na salamu.",
+        "Eleza ombi la kumpokea John Juma; hitimisha kwa sahihi, jina Joti Masanja na cheo. Tarehe iliyotolewa hapa ni mfano."
+      ],
+      "answer": "Mfano wa barua:\n\nShule ya Msingi Mbeya Boys,\nS.L.P. 2024,\nMbeya.\n20 Agosti 2024.\n\nMwalimu Mkuu,\nShule ya Msingi Kyela,\nS.L.P. 34,\nMbeya.\n\nYAH: OMBI LA KUMPOKEA MWANAFUNZI JOHN JUMA\n\nNdugu Mwalimu Mkuu,\nNakuomba umpokee mwanafunzi John Juma katika shule yako ili aendelee na masomo. Tuko tayari kutoa kumbukumbu zake za masomo na taarifa nyingine zitakazohitajika.\nTafadhali tujulishe hatua za kukamilisha uhamisho wake. Tunashukuru kwa ushirikiano wako.\n\nWako katika utumishi,\n[Sahihi]\nJoti Masanja\nMwalimu Mkuu",
+      "source_page": 4,
+      "tip": "Barua nyingine yenye vipengele hivi na ombi sahihi inakubalika."
+    }
+  ],
+  "summaries": {
+    "Ufahamu wa kusikiliza": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Matumizi ya lugha": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Kuonanisha": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Utungaji": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Ufahamu wa kusoma": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Barua": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu."
+  },
+  "references": [
+    {
+      "title": "Standard Six Midterm Exams August 2024 By MESP Tanzania",
+      "url": "https://darasahuru.ac.tz/standard-six-midterm-exams-august-2024-by-mesp-tanzania/"
+    },
+    {
+      "title": "Ofisi ya Waziri Mkuu: Wasifu wa Julius Kambarage Nyerere",
+      "url": "https://www.pmo.go.tz/administration/profile/12"
+    },
+    {
+      "title": "University of Edinburgh: Julius Nyerere",
+      "url": "https://edinburgh-global.ed.ac.uk/uncovered/1940/julius-nyerere"
+    },
+    {
+      "title": "Bunge la Tanzania: maana ya Siwa",
+      "url": "https://bunge.go.tz/faqs"
+    }
+  ],
+  "limitations": [
+    "1(1-5): habari ya kusikiliza haimo; majibu ya wasifu wa Nyerere ni ya masharti, ya kuthibitishwa na msimamizi.",
+    "2(7): shurutia ni uainishaji wa masharti, changamano ni uainishaji wa muundo; yote yanafafanua sentensi katika mitazamo tofauti.",
+    "3(5): hakuna chaguo la maana ya konde.",
+    "4(5): tulimtazama ka muda mrefu ni kauli yenye hitilafu; mpangilio unafuata muktadha wa kumsubiri/kumtafuta.",
+    "5: kifungu kina taarifa za majina/jiografia zinazoshukiwa; majibu ni ufahamu wa kifungu, si uthibitisho wa tukio halisi."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "ff388552b7256487781bba354d4ae5bf665a67ba15e30a0dda0b1c093cb903af"
+}

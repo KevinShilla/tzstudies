@@ -1,0 +1,1703 @@
+{
+  "exam": "Mathematics-S2-2022-Iramba-DC-July-Terminal-exam.pdf",
+  "output": "Mathematics-S2-2022-Iramba-DC-July-Terminal-exam-AnswerKey.pdf",
+  "sha256": "06ce0e72544dbcab100925d42fb68002ea1b12943dc9560222ff422ca832b649",
+  "subject": "Mathematics",
+  "level": "Standard Two",
+  "year": "2022",
+  "code": "Not printed in source",
+  "board": "Iramba DC",
+  "exam_type": "Terminal exam - July",
+  "question_count": "120 tasks/parts, including all retained subject sections",
+  "language": "en",
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "SW-1",
+    "SW-2",
+    "SW-3",
+    "SW-4",
+    "SW-5",
+    "SW-6",
+    "SW-7",
+    "SW-8",
+    "SW-9",
+    "SW-10",
+    "SW-11",
+    "SW-12",
+    "SW-13",
+    "SW-14",
+    "SW-15",
+    "SW-16",
+    "SW-17",
+    "SW-18",
+    "SW-19",
+    "SW-20",
+    "English-R1",
+    "English-R2",
+    "English-R3",
+    "English-R4",
+    "English-R5",
+    "English-R6",
+    "English-R7",
+    "English-R8",
+    "English-R9",
+    "English-R10",
+    "English-R11",
+    "English-R12",
+    "English-R13",
+    "English-R14",
+    "English-R15",
+    "English-R16",
+    "English-R17",
+    "English-R18",
+    "English-R19",
+    "English-R20",
+    "English-W1",
+    "English-W2",
+    "English-W3",
+    "English-W4",
+    "English-W5",
+    "English-W6",
+    "English-W7",
+    "English-W8",
+    "English-W9",
+    "English-W10",
+    "English-W11",
+    "English-W12",
+    "English-W13",
+    "English-W14",
+    "English-W15",
+    "English-W16",
+    "English-W17",
+    "English-W18",
+    "English-W19",
+    "English-W20",
+    "Kiswahili-Kusoma-1",
+    "Kiswahili-Kusoma-2",
+    "Kiswahili-Kusoma-3",
+    "Kiswahili-Kusoma-4",
+    "Kiswahili-Kusoma-5",
+    "Kiswahili-Kusoma-6",
+    "Kiswahili-Kusoma-7",
+    "Kiswahili-Kusoma-8",
+    "Kiswahili-Kusoma-9",
+    "Kiswahili-Kusoma-10",
+    "Kiswahili-Kusoma-11",
+    "Kiswahili-Kusoma-12",
+    "Kiswahili-Kusoma-13",
+    "Kiswahili-Kusoma-14",
+    "Kiswahili-Kusoma-15",
+    "Kiswahili-Kusoma-16",
+    "Kiswahili-Kusoma-17",
+    "Kiswahili-Kusoma-18",
+    "Kiswahili-Kusoma-19",
+    "Kiswahili-Kusoma-20",
+    "Kiswahili-Kuandika-1",
+    "Kiswahili-Kuandika-2",
+    "Kiswahili-Kuandika-3",
+    "Kiswahili-Kuandika-4",
+    "Kiswahili-Kuandika-5",
+    "Kiswahili-Kuandika-6",
+    "Kiswahili-Kuandika-7",
+    "Kiswahili-Kuandika-8",
+    "Kiswahili-Kuandika-9",
+    "Kiswahili-Kuandika-10",
+    "Kiswahili-Kuandika-11",
+    "Kiswahili-Kuandika-12",
+    "Kiswahili-Kuandika-13",
+    "Kiswahili-Kuandika-14",
+    "Kiswahili-Kuandika-15",
+    "Kiswahili-Kuandika-16",
+    "Kiswahili-Kuandika-17",
+    "Kiswahili-Kuandika-18",
+    "Kiswahili-Kuandika-19",
+    "Kiswahili-Kuandika-20"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Numbers and calculations",
+      "prompt": "Write eighteen in numerals.",
+      "steps": [
+        "Eighteen = 10 + 8."
+      ],
+      "answer": "18",
+      "source_page": 1
+    },
+    {
+      "id": "2",
+      "section": "Numbers and calculations",
+      "prompt": "Write sixty-six in numerals.",
+      "steps": [
+        "Sixty-six = 60 + 6."
+      ],
+      "answer": "66",
+      "source_page": 1
+    },
+    {
+      "id": "3",
+      "section": "Numbers and calculations",
+      "prompt": "Write forty-nine in numerals.",
+      "steps": [
+        "Forty-nine = 40 + 9."
+      ],
+      "answer": "49",
+      "source_page": 1
+    },
+    {
+      "id": "4",
+      "section": "Numbers and calculations",
+      "prompt": "Write eighty-eight in numerals.",
+      "steps": [
+        "Eighty-eight = 80 + 8."
+      ],
+      "answer": "88",
+      "source_page": 1
+    },
+    {
+      "id": "5",
+      "section": "Numbers and calculations",
+      "prompt": "Write 99 in words.",
+      "steps": [
+        "Read hundreds, tens and ones in their places.",
+        "99 is ninety-nine."
+      ],
+      "answer": "Ninety-nine",
+      "source_page": 1
+    },
+    {
+      "id": "6",
+      "section": "Numbers and calculations",
+      "prompt": "Write 609 in words.",
+      "steps": [
+        "Read hundreds, tens and ones in their places.",
+        "609 is six hundred and nine."
+      ],
+      "answer": "Six hundred and nine",
+      "source_page": 1
+    },
+    {
+      "id": "7",
+      "section": "Numbers and calculations",
+      "prompt": "Write 848 in words.",
+      "steps": [
+        "Read hundreds, tens and ones in their places.",
+        "848 is eight hundred and forty-eight."
+      ],
+      "answer": "Eight hundred and forty-eight",
+      "source_page": 1
+    },
+    {
+      "id": "8",
+      "section": "Numbers and calculations",
+      "prompt": "Write 404 in words.",
+      "steps": [
+        "Read hundreds, tens and ones in their places.",
+        "404 is four hundred and four."
+      ],
+      "answer": "Four hundred and four",
+      "source_page": 1
+    },
+    {
+      "id": "9",
+      "section": "Calculations",
+      "prompt": "Calculate 683+138.",
+      "steps": [
+        "Ones column: 3 + 8 = 11. Write 1. Carry 1 to the next column.",
+        "Tens column: 8 + 3 + 1 = 12. Write 2. Carry 1 to the next column.",
+        "Hundreds column: 6 + 1 + 1 = 8. Write 8.",
+        "Read the digits from left to right: 821."
+      ],
+      "answer": "821",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "683+138",
+          "expected": "821"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "section": "Calculations",
+      "prompt": "Calculate 801+9.",
+      "steps": [
+        "Ones column: 1 + 9 = 10. Write 0. Carry 1 to the next column.",
+        "Tens column: 0 + 0 + 1 = 1. Write 1.",
+        "Hundreds column: 8 + 0 = 8. Write 8.",
+        "Read the digits from left to right: 810."
+      ],
+      "answer": "810",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "801+9",
+          "expected": "810"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "section": "Calculations",
+      "prompt": "Calculate 381+108.",
+      "steps": [
+        "Ones column: 1 + 8 = 9. Write 9.",
+        "Tens column: 8 + 0 = 8. Write 8.",
+        "Hundreds column: 3 + 1 = 4. Write 4.",
+        "Read the digits from left to right: 489."
+      ],
+      "answer": "489",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "381+108",
+          "expected": "489"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "section": "Calculations",
+      "prompt": "Calculate 353+275.",
+      "steps": [
+        "Ones column: 3 + 5 = 8. Write 8.",
+        "Tens column: 5 + 7 = 12. Write 2. Carry 1 to the next column.",
+        "Hundreds column: 3 + 2 + 1 = 6. Write 6.",
+        "Read the digits from left to right: 628."
+      ],
+      "answer": "628",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "353+275",
+          "expected": "628"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "section": "Calculations",
+      "prompt": "Calculate 530-210.",
+      "steps": [
+        "Ones column: 0 - 0 = 0; write 0.",
+        "Tens column: 3 - 1 = 2; write 2.",
+        "Hundreds column: 5 - 2 = 3; write 3.",
+        "Read the result: 320. Check: 320 + 210 = 530."
+      ],
+      "answer": "320",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "530-210",
+          "expected": "320"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "section": "Calculations",
+      "prompt": "Calculate 81-29.",
+      "steps": [
+        "Ones column: 1 is too small to subtract 9. Regroup from the columns on its left to make 11.",
+        "Ones column: 11 - 9 = 2; write 2.",
+        "Tens column: 7 - 2 = 5; write 5.",
+        "Read the result: 52. Check: 52 + 29 = 81."
+      ],
+      "answer": "52",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "81-29",
+          "expected": "52"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "section": "Calculations",
+      "prompt": "Calculate 105-22.",
+      "steps": [
+        "Ones column: 5 - 2 = 3; write 3.",
+        "Tens column: 0 is too small to subtract 2. Regroup from the columns on its left to make 10.",
+        "Tens column: 10 - 2 = 8; write 8.",
+        "Hundreds column: 0 - 0 = 0; write 0.",
+        "Read the result: 83. Check: 83 + 22 = 105."
+      ],
+      "answer": "83",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "105-22",
+          "expected": "83"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "section": "Calculations",
+      "prompt": "Calculate 99-7.",
+      "steps": [
+        "Ones column: 9 - 7 = 2; write 2.",
+        "Tens column: 9 - 0 = 9; write 9.",
+        "Read the result: 92. Check: 92 + 7 = 99."
+      ],
+      "answer": "92",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "99-7",
+          "expected": "92"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "section": "Numbers and calculations",
+      "prompt": "Continue 10,20,30,40,[ ].",
+      "steps": [
+        "Increase by 10.",
+        "40 + 10 = 50."
+      ],
+      "answer": "50",
+      "source_page": 1
+    },
+    {
+      "id": "18",
+      "section": "Numbers and calculations",
+      "prompt": "Name the first figure.",
+      "steps": [
+        "It has three sides."
+      ],
+      "answer": "Triangle",
+      "source_page": 1
+    },
+    {
+      "id": "19",
+      "section": "Numbers and calculations",
+      "prompt": "Name the second figure.",
+      "steps": [
+        "It is round with no corners."
+      ],
+      "answer": "Circle",
+      "source_page": 1
+    },
+    {
+      "id": "20",
+      "section": "Numbers and calculations",
+      "prompt": "Name the third figure.",
+      "steps": [
+        "It has four right angles and opposite equal sides."
+      ],
+      "answer": "Rectangle",
+      "source_page": 1
+    },
+    {
+      "id": "SW-1",
+      "section": "Kiswahili version",
+      "prompt": "Andika kumi na nane kwa tarakimu.",
+      "steps": [
+        "Kumi na nane ni 18."
+      ],
+      "answer": "18",
+      "source_page": 2
+    },
+    {
+      "id": "SW-2",
+      "section": "Kiswahili version",
+      "prompt": "Andika sitini na sita kwa tarakimu.",
+      "steps": [
+        "Sitini na sita ni 66."
+      ],
+      "answer": "66",
+      "source_page": 2
+    },
+    {
+      "id": "SW-3",
+      "section": "Kiswahili version",
+      "prompt": "Andika arobaini na nane kwa tarakimu.",
+      "steps": [
+        "Arobaini na nane ni 48."
+      ],
+      "answer": "48",
+      "source_page": 2
+    },
+    {
+      "id": "SW-4",
+      "section": "Kiswahili version",
+      "prompt": "Andika themanini na nane kwa tarakimu.",
+      "steps": [
+        "Themanini na nane ni 88."
+      ],
+      "answer": "88",
+      "source_page": 2
+    },
+    {
+      "id": "SW-5",
+      "section": "Kiswahili version",
+      "prompt": "Toleo la Kiswahili: Write 99 in words.",
+      "steps": [
+        "Read hundreds, tens and ones in their places.",
+        "99 is ninety-nine."
+      ],
+      "answer": "Tisini na tisa",
+      "source_page": 2
+    },
+    {
+      "id": "SW-6",
+      "section": "Kiswahili version",
+      "prompt": "Toleo la Kiswahili: Write 609 in words.",
+      "steps": [
+        "Read hundreds, tens and ones in their places.",
+        "609 is six hundred and nine."
+      ],
+      "answer": "Mia sita na tisa",
+      "source_page": 2
+    },
+    {
+      "id": "SW-7",
+      "section": "Kiswahili version",
+      "prompt": "Toleo la Kiswahili: Write 848 in words.",
+      "steps": [
+        "Read hundreds, tens and ones in their places.",
+        "848 is eight hundred and forty-eight."
+      ],
+      "answer": "Mia nane arobaini na nane",
+      "source_page": 2
+    },
+    {
+      "id": "SW-8",
+      "section": "Kiswahili version",
+      "prompt": "Toleo la Kiswahili: Write 404 in words.",
+      "steps": [
+        "Read hundreds, tens and ones in their places.",
+        "404 is four hundred and four."
+      ],
+      "answer": "Mia nne na nne",
+      "source_page": 2
+    },
+    {
+      "id": "SW-9",
+      "section": "Kiswahili version",
+      "prompt": "Toleo la Kiswahili: Calculate 683+138.",
+      "steps": [
+        "Ones column: 3 + 8 = 11. Write 1. Carry 1 to the next column.",
+        "Tens column: 8 + 3 + 1 = 12. Write 2. Carry 1 to the next column.",
+        "Hundreds column: 6 + 1 + 1 = 8. Write 8.",
+        "Read the digits from left to right: 821."
+      ],
+      "answer": "821",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "683+138",
+          "expected": "821"
+        }
+      ]
+    },
+    {
+      "id": "SW-10",
+      "section": "Kiswahili version",
+      "prompt": "Toleo la Kiswahili: Calculate 801+9.",
+      "steps": [
+        "Ones column: 1 + 9 = 10. Write 0. Carry 1 to the next column.",
+        "Tens column: 0 + 0 + 1 = 1. Write 1.",
+        "Hundreds column: 8 + 0 = 8. Write 8.",
+        "Read the digits from left to right: 810."
+      ],
+      "answer": "810",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "801+9",
+          "expected": "810"
+        }
+      ]
+    },
+    {
+      "id": "SW-11",
+      "section": "Kiswahili version",
+      "prompt": "Toleo la Kiswahili: Calculate 381+108.",
+      "steps": [
+        "Ones column: 1 + 8 = 9. Write 9.",
+        "Tens column: 8 + 0 = 8. Write 8.",
+        "Hundreds column: 3 + 1 = 4. Write 4.",
+        "Read the digits from left to right: 489."
+      ],
+      "answer": "489",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "381+108",
+          "expected": "489"
+        }
+      ]
+    },
+    {
+      "id": "SW-12",
+      "section": "Kiswahili version",
+      "prompt": "Toleo la Kiswahili: Calculate 353+275.",
+      "steps": [
+        "Ones column: 3 + 5 = 8. Write 8.",
+        "Tens column: 5 + 7 = 12. Write 2. Carry 1 to the next column.",
+        "Hundreds column: 3 + 2 + 1 = 6. Write 6.",
+        "Read the digits from left to right: 628."
+      ],
+      "answer": "628",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "353+275",
+          "expected": "628"
+        }
+      ]
+    },
+    {
+      "id": "SW-13",
+      "section": "Kiswahili version",
+      "prompt": "Toleo la Kiswahili: Calculate 530-210.",
+      "steps": [
+        "Ones column: 0 - 0 = 0; write 0.",
+        "Tens column: 3 - 1 = 2; write 2.",
+        "Hundreds column: 5 - 2 = 3; write 3.",
+        "Read the result: 320. Check: 320 + 210 = 530."
+      ],
+      "answer": "320",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "530-210",
+          "expected": "320"
+        }
+      ]
+    },
+    {
+      "id": "SW-14",
+      "section": "Kiswahili version",
+      "prompt": "Toleo la Kiswahili: Calculate 81-29.",
+      "steps": [
+        "Ones column: 1 is too small to subtract 9. Regroup from the columns on its left to make 11.",
+        "Ones column: 11 - 9 = 2; write 2.",
+        "Tens column: 7 - 2 = 5; write 5.",
+        "Read the result: 52. Check: 52 + 29 = 81."
+      ],
+      "answer": "52",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "81-29",
+          "expected": "52"
+        }
+      ]
+    },
+    {
+      "id": "SW-15",
+      "section": "Kiswahili version",
+      "prompt": "Toleo la Kiswahili: Calculate 105-22.",
+      "steps": [
+        "Ones column: 5 - 2 = 3; write 3.",
+        "Tens column: 0 is too small to subtract 2. Regroup from the columns on its left to make 10.",
+        "Tens column: 10 - 2 = 8; write 8.",
+        "Hundreds column: 0 - 0 = 0; write 0.",
+        "Read the result: 83. Check: 83 + 22 = 105."
+      ],
+      "answer": "83",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "105-22",
+          "expected": "83"
+        }
+      ]
+    },
+    {
+      "id": "SW-16",
+      "section": "Kiswahili version",
+      "prompt": "Toleo la Kiswahili: Calculate 99-7.",
+      "steps": [
+        "Ones column: 9 - 7 = 2; write 2.",
+        "Tens column: 9 - 0 = 9; write 9.",
+        "Read the result: 92. Check: 92 + 7 = 99."
+      ],
+      "answer": "92",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "99-7",
+          "expected": "92"
+        }
+      ]
+    },
+    {
+      "id": "SW-17",
+      "section": "Kiswahili version",
+      "prompt": "Toleo la Kiswahili: Continue 10,20,30,40,[ ].",
+      "steps": [
+        "Increase by 10.",
+        "40 + 10 = 50."
+      ],
+      "answer": "50",
+      "source_page": 2
+    },
+    {
+      "id": "SW-18",
+      "section": "Kiswahili version",
+      "prompt": "Toleo la Kiswahili: Name the first figure.",
+      "steps": [
+        "It has three sides."
+      ],
+      "answer": "Pembetatu",
+      "source_page": 2
+    },
+    {
+      "id": "SW-19",
+      "section": "Kiswahili version",
+      "prompt": "Toleo la Kiswahili: Name the second figure.",
+      "steps": [
+        "It is round with no corners."
+      ],
+      "answer": "Duara",
+      "source_page": 2
+    },
+    {
+      "id": "SW-20",
+      "section": "Kiswahili version",
+      "prompt": "Toleo la Kiswahili: Name the third figure.",
+      "steps": [
+        "It has four right angles and opposite equal sides."
+      ],
+      "answer": "Mstatili",
+      "source_page": 2
+    },
+    {
+      "id": "English-R1",
+      "section": "English - Oral reading",
+      "prompt": "Read aloud the following words: Seven",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Seven",
+      "source_page": 4,
+      "language": "en"
+    },
+    {
+      "id": "English-R2",
+      "section": "English - Oral reading",
+      "prompt": "Read aloud the following words: Lion",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Lion",
+      "source_page": 4,
+      "language": "en"
+    },
+    {
+      "id": "English-R3",
+      "section": "English - Oral reading",
+      "prompt": "Read aloud the following words: Glass",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Glass",
+      "source_page": 4,
+      "language": "en"
+    },
+    {
+      "id": "English-R4",
+      "section": "English - Oral reading",
+      "prompt": "Read aloud the following words: Family",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Family",
+      "source_page": 4,
+      "language": "en"
+    },
+    {
+      "id": "English-R5",
+      "section": "English - Oral reading",
+      "prompt": "Read aloud the following words: Chalks",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Chalks",
+      "source_page": 4,
+      "language": "en"
+    },
+    {
+      "id": "English-R6",
+      "section": "English - Oral reading",
+      "prompt": "Read aloud the following words: Banana",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Banana",
+      "source_page": 4,
+      "language": "en"
+    },
+    {
+      "id": "English-R7",
+      "section": "English - Oral reading",
+      "prompt": "Read aloud the following words: Table",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Table",
+      "source_page": 4,
+      "language": "en"
+    },
+    {
+      "id": "English-R8",
+      "section": "English - Oral reading",
+      "prompt": "Read aloud the following words: Blackboard",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Blackboard",
+      "source_page": 4,
+      "language": "en"
+    },
+    {
+      "id": "English-R9",
+      "section": "English - Oral reading",
+      "prompt": "Read aloud the following words: Rich",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Rich",
+      "source_page": 4,
+      "language": "en"
+    },
+    {
+      "id": "English-R10",
+      "section": "English - Oral reading",
+      "prompt": "Read aloud the following words: Bottle",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Bottle",
+      "source_page": 4,
+      "language": "en"
+    },
+    {
+      "id": "English-R11",
+      "section": "English - Oral reading",
+      "prompt": "Read aloud the following words: Begin",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Begin",
+      "source_page": 4,
+      "language": "en"
+    },
+    {
+      "id": "English-R12",
+      "section": "English - Oral reading",
+      "prompt": "Read aloud the following words: Evening",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Evening",
+      "source_page": 4,
+      "language": "en"
+    },
+    {
+      "id": "English-R13",
+      "section": "English - Oral reading",
+      "prompt": "Read aloud the following words: Basket",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Basket",
+      "source_page": 4,
+      "language": "en"
+    },
+    {
+      "id": "English-R14",
+      "section": "English - Oral reading",
+      "prompt": "Read aloud the following words: Window",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Window",
+      "source_page": 4,
+      "language": "en"
+    },
+    {
+      "id": "English-R15",
+      "section": "English - Oral reading",
+      "prompt": "Read aloud the following words: Book",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Book",
+      "source_page": 4,
+      "language": "en"
+    },
+    {
+      "id": "English-R16",
+      "section": "English - Oral reading",
+      "prompt": "Read aloud the following sentence: Father is digging in the farm.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Father is digging in the farm.",
+      "source_page": 4,
+      "language": "en"
+    },
+    {
+      "id": "English-R17",
+      "section": "English - Oral reading",
+      "prompt": "Read aloud the following sentence: There are seven days of the week.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: There are seven days of the week.",
+      "source_page": 4,
+      "language": "en"
+    },
+    {
+      "id": "English-R18",
+      "section": "English - Oral reading",
+      "prompt": "Read aloud the following sentence: The white cat has jumped.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: The white cat has jumped.",
+      "source_page": 4,
+      "language": "en"
+    },
+    {
+      "id": "English-R19",
+      "section": "English - Oral reading",
+      "prompt": "Read aloud the following sentence: The carpenter has come.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: The carpenter has come.",
+      "source_page": 4,
+      "language": "en"
+    },
+    {
+      "id": "English-R20",
+      "section": "English - Oral reading",
+      "prompt": "Read aloud the following sentence: The child is crying.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: The child is crying.",
+      "source_page": 4,
+      "language": "en"
+    },
+    {
+      "id": "English-W1",
+      "section": "English - Dictation",
+      "prompt": "Write dictation word 1.",
+      "steps": [
+        "The included marking sheet on page 4 supplies bed. Listen to its sounds, write the word and check its spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "bed.",
+      "source_page": 6,
+      "language": "en"
+    },
+    {
+      "id": "English-W2",
+      "section": "English - Dictation",
+      "prompt": "Write dictation word 2.",
+      "steps": [
+        "The included marking sheet on page 4 supplies rust. Listen to its sounds, write the word and check its spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "rust.",
+      "source_page": 6,
+      "language": "en"
+    },
+    {
+      "id": "English-W3",
+      "section": "English - Dictation",
+      "prompt": "Write dictation word 3.",
+      "steps": [
+        "The included marking sheet on page 4 supplies book. Listen to its sounds, write the word and check its spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "book.",
+      "source_page": 6,
+      "language": "en"
+    },
+    {
+      "id": "English-W4",
+      "section": "English - Dictation",
+      "prompt": "Write dictation word 4.",
+      "steps": [
+        "The included marking sheet on page 4 supplies pen. Listen to its sounds, write the word and check its spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "pen.",
+      "source_page": 6,
+      "language": "en"
+    },
+    {
+      "id": "English-W5",
+      "section": "English - Dictation",
+      "prompt": "Write dictation word 5.",
+      "steps": [
+        "The included marking sheet on page 4 supplies desk. Listen to its sounds, write the word and check its spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "desk.",
+      "source_page": 6,
+      "language": "en"
+    },
+    {
+      "id": "English-W6",
+      "section": "English - Picture vocabulary",
+      "prompt": "Name picture 6. The source illustration shows a curved fruit with a stalk.",
+      "steps": [
+        "Identify the object shown and spell banana. The marking sheet confirms this name.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Banana.",
+      "source_page": 6,
+      "language": "en"
+    },
+    {
+      "id": "English-W7",
+      "section": "English - Picture vocabulary",
+      "prompt": "Name picture 7. The source illustration shows a handled tool with many closely spaced teeth.",
+      "steps": [
+        "Identify the object shown and spell comb. The marking sheet confirms this name.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Comb.",
+      "source_page": 6,
+      "language": "en"
+    },
+    {
+      "id": "English-W8",
+      "section": "English - Picture vocabulary",
+      "prompt": "Name picture 8. The source illustration shows a seat with a back and four legs.",
+      "steps": [
+        "Identify the object shown and spell chair. The marking sheet confirms this name.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Chair.",
+      "source_page": 6,
+      "language": "en"
+    },
+    {
+      "id": "English-W9",
+      "section": "English - Picture vocabulary",
+      "prompt": "Name picture 9. The source illustration shows a small drinking container with a handle.",
+      "steps": [
+        "Identify the object shown and spell cup. The marking sheet confirms this name.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Cup.",
+      "source_page": 6,
+      "language": "en"
+    },
+    {
+      "id": "English-W10",
+      "section": "English - Picture vocabulary",
+      "prompt": "Name picture 10. The source illustration shows a round football with black-and-white panels.",
+      "steps": [
+        "Identify the object shown and spell ball. The marking sheet confirms this name.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Ball.",
+      "source_page": 6,
+      "language": "en"
+    },
+    {
+      "id": "English-W11",
+      "section": "English - Plurals",
+      "prompt": "Write the plural of ox.",
+      "steps": [
+        "Ox has the irregular plural oxen.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "oxen.",
+      "source_page": 7,
+      "language": "en"
+    },
+    {
+      "id": "English-W12",
+      "section": "English - Plurals",
+      "prompt": "Write the plural of tooth.",
+      "steps": [
+        "Tooth changes its vowel to make teeth.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "teeth.",
+      "source_page": 7,
+      "language": "en"
+    },
+    {
+      "id": "English-W13",
+      "section": "English - Plurals",
+      "prompt": "Write the plural of box.",
+      "steps": [
+        "Add es to a noun ending in x.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "boxes.",
+      "source_page": 7,
+      "language": "en"
+    },
+    {
+      "id": "English-W14",
+      "section": "English - Plurals",
+      "prompt": "Write the plural of pen.",
+      "steps": [
+        "Add s to this regular noun.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "pens.",
+      "source_page": 7,
+      "language": "en"
+    },
+    {
+      "id": "English-W15",
+      "section": "English - Plurals",
+      "prompt": "Write the plural of book.",
+      "steps": [
+        "Add s to this regular noun.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "books.",
+      "source_page": 7,
+      "language": "en"
+    },
+    {
+      "id": "English-W16",
+      "section": "English - Capital letters",
+      "prompt": "Write orange in capital letters.",
+      "steps": [
+        "Change every letter to its uppercase form while retaining the same spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "ORANGE.",
+      "source_page": 7,
+      "language": "en"
+    },
+    {
+      "id": "English-W17",
+      "section": "English - Capital letters",
+      "prompt": "Write water in capital letters.",
+      "steps": [
+        "Change every letter to its uppercase form while retaining the same spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "WATER.",
+      "source_page": 7,
+      "language": "en"
+    },
+    {
+      "id": "English-W18",
+      "section": "English - Capital letters",
+      "prompt": "Write door in capital letters.",
+      "steps": [
+        "Change every letter to its uppercase form while retaining the same spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "DOOR.",
+      "source_page": 7,
+      "language": "en"
+    },
+    {
+      "id": "English-W19",
+      "section": "English - Capital letters",
+      "prompt": "Write window in capital letters.",
+      "steps": [
+        "Change every letter to its uppercase form while retaining the same spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "WINDOW.",
+      "source_page": 7,
+      "language": "en"
+    },
+    {
+      "id": "English-W20",
+      "section": "English - Capital letters",
+      "prompt": "Write blackboard in capital letters.",
+      "steps": [
+        "Change every letter to its uppercase form while retaining the same spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "BLACKBOARD.",
+      "source_page": 7,
+      "language": "en"
+    },
+    {
+      "id": "Kiswahili-Kusoma-1",
+      "section": "Kiswahili - Kusoma maneno",
+      "prompt": "Soma kwa sauti: Saba.",
+      "steps": [
+        "Tambua herufi na silabi katika Saba.",
+        "Unganisha sauti hizo na utamke neno Saba kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: Saba.",
+      "source_page": 5,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kusoma-2",
+      "section": "Kiswahili - Kusoma maneno",
+      "prompt": "Soma kwa sauti: Simba.",
+      "steps": [
+        "Tambua herufi na silabi katika Simba.",
+        "Unganisha sauti hizo na utamke neno Simba kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: Simba.",
+      "source_page": 5,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kusoma-3",
+      "section": "Kiswahili - Kusoma maneno",
+      "prompt": "Soma kwa sauti: Nyasi.",
+      "steps": [
+        "Tambua herufi na silabi katika Nyasi.",
+        "Unganisha sauti hizo na utamke neno Nyasi kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: Nyasi.",
+      "source_page": 5,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kusoma-4",
+      "section": "Kiswahili - Kusoma maneno",
+      "prompt": "Soma kwa sauti: Familia.",
+      "steps": [
+        "Tambua herufi na silabi katika Familia.",
+        "Unganisha sauti hizo na utamke neno Familia kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: Familia.",
+      "source_page": 5,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kusoma-5",
+      "section": "Kiswahili - Kusoma maneno",
+      "prompt": "Soma kwa sauti: Chaki.",
+      "steps": [
+        "Tambua herufi na silabi katika Chaki.",
+        "Unganisha sauti hizo na utamke neno Chaki kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: Chaki.",
+      "source_page": 5,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kusoma-6",
+      "section": "Kiswahili - Kusoma maneno",
+      "prompt": "Soma kwa sauti: Ndizi.",
+      "steps": [
+        "Tambua herufi na silabi katika Ndizi.",
+        "Unganisha sauti hizo na utamke neno Ndizi kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: Ndizi.",
+      "source_page": 5,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kusoma-7",
+      "section": "Kiswahili - Kusoma maneno",
+      "prompt": "Soma kwa sauti: Meza.",
+      "steps": [
+        "Tambua herufi na silabi katika Meza.",
+        "Unganisha sauti hizo na utamke neno Meza kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: Meza.",
+      "source_page": 5,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kusoma-8",
+      "section": "Kiswahili - Kusoma maneno",
+      "prompt": "Soma kwa sauti: Ubao.",
+      "steps": [
+        "Tambua herufi na silabi katika Ubao.",
+        "Unganisha sauti hizo na utamke neno Ubao kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: Ubao.",
+      "source_page": 5,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kusoma-9",
+      "section": "Kiswahili - Kusoma maneno",
+      "prompt": "Soma kwa sauti: Tajiri.",
+      "steps": [
+        "Tambua herufi na silabi katika Tajiri.",
+        "Unganisha sauti hizo na utamke neno Tajiri kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: Tajiri.",
+      "source_page": 5,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kusoma-10",
+      "section": "Kiswahili - Kusoma maneno",
+      "prompt": "Soma kwa sauti: Chupa.",
+      "steps": [
+        "Tambua herufi na silabi katika Chupa.",
+        "Unganisha sauti hizo na utamke neno Chupa kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: Chupa.",
+      "source_page": 5,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kusoma-11",
+      "section": "Kiswahili - Kusoma maneno",
+      "prompt": "Soma kwa sauti: Anza.",
+      "steps": [
+        "Tambua herufi na silabi katika Anza.",
+        "Unganisha sauti hizo na utamke neno Anza kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: Anza.",
+      "source_page": 5,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kusoma-12",
+      "section": "Kiswahili - Kusoma maneno",
+      "prompt": "Soma kwa sauti: Jioni.",
+      "steps": [
+        "Tambua herufi na silabi katika Jioni.",
+        "Unganisha sauti hizo na utamke neno Jioni kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: Jioni.",
+      "source_page": 5,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kusoma-13",
+      "section": "Kiswahili - Kusoma maneno",
+      "prompt": "Soma kwa sauti: Kikapu.",
+      "steps": [
+        "Tambua herufi na silabi katika Kikapu.",
+        "Unganisha sauti hizo na utamke neno Kikapu kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: Kikapu.",
+      "source_page": 5,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kusoma-14",
+      "section": "Kiswahili - Kusoma maneno",
+      "prompt": "Soma kwa sauti: Dirisha.",
+      "steps": [
+        "Tambua herufi na silabi katika Dirisha.",
+        "Unganisha sauti hizo na utamke neno Dirisha kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: Dirisha.",
+      "source_page": 5,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kusoma-15",
+      "section": "Kiswahili - Kusoma maneno",
+      "prompt": "Soma kwa sauti: Kitabu.",
+      "steps": [
+        "Tambua herufi na silabi katika Kitabu.",
+        "Unganisha sauti hizo na utamke neno Kitabu kwa uwazi; mwalimu akague usahihi."
+      ],
+      "answer": "Soma: Kitabu.",
+      "source_page": 5,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kusoma-16",
+      "section": "Kiswahili - Kusoma sentensi",
+      "prompt": "Soma sentensi: Baba analima shamba.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Baba analima shamba.",
+      "source_page": 5,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi.",
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kusoma-17",
+      "section": "Kiswahili - Kusoma sentensi",
+      "prompt": "Soma sentensi: Kuna siku saba za wiki.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Kuna siku saba za wiki.",
+      "source_page": 5,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi.",
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kusoma-18",
+      "section": "Kiswahili - Kusoma sentensi",
+      "prompt": "Soma sentensi: Paka mweupe anaruka.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Paka mweupe anaruka.",
+      "source_page": 5,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi.",
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kusoma-19",
+      "section": "Kiswahili - Kusoma sentensi",
+      "prompt": "Soma sentensi: Seremala amekuja.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Seremala amekuja.",
+      "source_page": 5,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi.",
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kusoma-20",
+      "section": "Kiswahili - Kusoma sentensi",
+      "prompt": "Soma sentensi: Mtoto analia.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Mtoto analia.",
+      "source_page": 5,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi.",
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kuandika-1",
+      "section": "Kiswahili - Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla Kuandika-1.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 8,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kuandika-2",
+      "section": "Kiswahili - Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla Kuandika-2.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 8,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kuandika-3",
+      "section": "Kiswahili - Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla Kuandika-3.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 8,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kuandika-4",
+      "section": "Kiswahili - Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla Kuandika-4.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 8,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kuandika-5",
+      "section": "Kiswahili - Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla Kuandika-5.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 8,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kuandika-6",
+      "section": "Kiswahili - Picha na msamiati",
+      "prompt": "Andika jina la kitu katika picha 6.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: andika jina la kitu katika picha 6.",
+        "Tambua jina ndizi na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "ndizi.",
+      "source_page": 8,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S2-2022-Iramba-DC-July-Terminal-exam--Kuandika-6.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2.",
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kuandika-7",
+      "section": "Kiswahili - Picha na msamiati",
+      "prompt": "Andika jina la kitu katika picha 7.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: andika jina la kitu katika picha 7.",
+        "Tambua jina kitana na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "kitana.",
+      "source_page": 8,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S2-2022-Iramba-DC-July-Terminal-exam--Kuandika-7.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2.",
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kuandika-8",
+      "section": "Kiswahili - Picha na msamiati",
+      "prompt": "Andika jina la kitu katika picha 8.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: andika jina la kitu katika picha 8.",
+        "Tambua jina kiti na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "kiti.",
+      "source_page": 8,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S2-2022-Iramba-DC-July-Terminal-exam--Kuandika-8.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2.",
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kuandika-9",
+      "section": "Kiswahili - Picha na msamiati",
+      "prompt": "Andika jina la kitu katika picha 9.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: andika jina la kitu katika picha 9.",
+        "Tambua jina kikombe na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "kikombe.",
+      "source_page": 8,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S2-2022-Iramba-DC-July-Terminal-exam--Kuandika-9.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2.",
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kuandika-10",
+      "section": "Kiswahili - Picha na msamiati",
+      "prompt": "Andika jina la kitu katika picha 10.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: andika jina la kitu katika picha 10.",
+        "Tambua jina mpira na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "mpira.",
+      "source_page": 8,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S2-2022-Iramba-DC-July-Terminal-exam--Kuandika-10.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2.",
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kuandika-11",
+      "section": "Kiswahili - Umoja na wingi",
+      "prompt": "Andika wingi wa Shoka.",
+      "steps": [
+        "Taja vitu zaidi ya kimoja: shoka moja, mashoka mengi; kalamu ina umbo lilelile.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mashoka.",
+      "source_page": 9,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kuandika-12",
+      "section": "Kiswahili - Umoja na wingi",
+      "prompt": "Andika wingi wa Jino.",
+      "steps": [
+        "Taja vitu zaidi ya kimoja: jino moja, meno mengi; kalamu ina umbo lilelile.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Meno.",
+      "source_page": 9,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kuandika-13",
+      "section": "Kiswahili - Umoja na wingi",
+      "prompt": "Andika wingi wa Sanduku.",
+      "steps": [
+        "Taja vitu zaidi ya kimoja: sanduku moja, masanduku mengi; kalamu ina umbo lilelile.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Masanduku.",
+      "source_page": 9,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kuandika-14",
+      "section": "Kiswahili - Umoja na wingi",
+      "prompt": "Andika wingi wa Kalamu.",
+      "steps": [
+        "Taja vitu zaidi ya kimoja: kalamu moja, kalamu mengi; kalamu ina umbo lilelile.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kalamu.",
+      "source_page": 9,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kuandika-15",
+      "section": "Kiswahili - Umoja na wingi",
+      "prompt": "Andika wingi wa Kitabu.",
+      "steps": [
+        "Taja vitu zaidi ya kimoja: kitabu moja, vitabu mengi; kalamu ina umbo lilelile.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Vitabu.",
+      "source_page": 9,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kuandika-16",
+      "section": "Kiswahili - Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: chungwa",
+      "steps": [
+        "Badili kila herufi ya chungwa kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "CHUNGWA",
+      "source_page": 9,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kuandika-17",
+      "section": "Kiswahili - Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: maji",
+      "steps": [
+        "Badili kila herufi ya maji kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "MAJI",
+      "source_page": 9,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kuandika-18",
+      "section": "Kiswahili - Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: mlango",
+      "steps": [
+        "Badili kila herufi ya mlango kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "MLANGO",
+      "source_page": 9,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kuandika-19",
+      "section": "Kiswahili - Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: dirisha",
+      "steps": [
+        "Badili kila herufi ya dirisha kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "DIRISHA",
+      "source_page": 9,
+      "language": "sw"
+    },
+    {
+      "id": "Kiswahili-Kuandika-20",
+      "section": "Kiswahili - Herufi kubwa",
+      "prompt": "Andika kwa herufi kubwa: ubao",
+      "steps": [
+        "Badili kila herufi ya ubao kuwa kubwa.",
+        "Hifadhi maneno, nafasi na alama za uandishi katika mpangilio wake."
+      ],
+      "answer": "UBAO",
+      "source_page": 9,
+      "language": "sw"
+    }
+  ],
+  "summaries": {
+    "Numbers and calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Kiswahili version": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "English - Oral reading": "Read aloud in the printed order. Pronounce words clearly and pause at punctuation. Teachers assess accuracy and fluency; the printed text is the oral response.",
+    "English - Dictation": "Listen to the supplied teacher text and identify the exact detail asked for. Check spelling and sentence punctuation; missing scripts are explicitly identified.",
+    "English - Picture vocabulary": "Observe the pictured object or action. Name its identifying features and use correct spelling; action sentences use is or are with an ing verb.",
+    "English - Plurals": "Decide whether the noun has a regular or irregular plural. Apply its specific ending or spelling change and check subject-number agreement.",
+    "English - Capital letters": "Follow a clear sequence and keep the tense consistent. Introduce people and events before their pronouns, actions and final outcome.",
+    "Kiswahili - Kusoma maneno": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kiswahili - Kusoma sentensi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kiswahili - Imla": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kiswahili - Picha na msamiati": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kiswahili - Umoja na wingi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kiswahili - Herufi kubwa": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "Msomi Bora - Standard Two Exams | 2010 - 2023 | Monthly, Midterm, Terminal and Annual Exams - Download All Subjects - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/standard-two-exams-2010-2023-monthly-midterm-terminal-and-annual-exams-download-all-subjects/"
+    }
+  ],
+  "limitations": [
+    "Kuandika 1-5: mwongozo wa maneno ya imla haujajumuishwa."
+  ],
+  "reviewed": true,
+  "review_notes": [
+    "Q3 English prints forty-nine (49), while Kiswahili prints arobaini na nane (48); each version is answered as printed. Publisher English marking scheme wrongly gives 48.",
+    "Pages4-9 contain English/Kiswahili reading and writing tasks; main will merge those subject solutions."
+  ],
+  "related_sections": [
+    "English-S2-2022-Iramba-DC-July-Terminal-exam.pdf",
+    "Kiswahili-S2-2022-Iramba-DC-July-Terminal-exam.pdf"
+  ],
+  "labelling_note": "This source PDF retains more than one subject. The additional printed sections are answered after the main subject, with their original page references.",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "a92f4374df45f65e510290186ed2066f10db4580c7779d0d3285585ade28c4c9"
+}

@@ -1,0 +1,664 @@
+{
+  "exam": "Kiswahili-S2-2026-MESP-Tanzania-March-Midterm-exam.pdf",
+  "output": "Kiswahili-S2-2026-MESP-Tanzania-March-Midterm-exam-AnswerKey.pdf",
+  "sha256": "31d0bae4a469355b46c022ae98e8a8fbbec0bddcf9beba6ac024d2f0019151a3",
+  "subject": "Kiswahili",
+  "level": "Standard Two",
+  "year": "2026",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Midterm exam - March",
+  "question_count": "Vipengele 50 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "2",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 2.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "3",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 3.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "4",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 4.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "5",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 5.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "6",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 6.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "7",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 7.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "8",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 8.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "9",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 9.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "10",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 10.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 1
+    },
+    {
+      "id": "11",
+      "section": "Herufi, picha na sentensi",
+      "prompt": "Taja sauti ya mwanzo ya jina la mnyama kwenye picha ya ng’ombe.",
+      "steps": [
+        "Jina ni ng’ombe; sauti ya kwanza ni ng’, si ng bila alama.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Ng’ /ŋ/.",
+      "source_page": 1,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S2-2026-MESP-Tanzania-March-Midterm-exam--11.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 1."
+    },
+    {
+      "id": "12",
+      "section": "Herufi, picha na sentensi",
+      "prompt": "Kamilisha ____muni kwa silabi sahihi.",
+      "steps": [
+        "Soma kipande kilichochapishwa: ____muni.",
+        "Hakuna silabi iliyochaguliwa au picha ya kueleza maana. Msimamizi atoe neno lililokusudiwa; usibuni neno lisilothibitishwa."
+      ],
+      "answer": "Hakuna jibu moja linaloweza kuthibitishwa kwa ____muni pekee; picha, machaguo au muktadha wa neno haujapewa.",
+      "source_page": 1
+    },
+    {
+      "id": "13",
+      "section": "Herufi, picha na sentensi",
+      "prompt": "Taja jina la sehemu zilizo katika picha.",
+      "steps": [
+        "Picha inaonyesha mwisho wa miguu ya mnyama yenye kwato.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kwato.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S2-2026-MESP-Tanzania-March-Midterm-exam--13.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "14",
+      "section": "Herufi, picha na sentensi",
+      "prompt": "Tenganisha Babuanaishikilwa.",
+      "steps": [
+        "Tambua maneno Babu, anaishi na jina la mahali Kilwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Babu anaishi Kilwa.",
+      "source_page": 2
+    },
+    {
+      "id": "15",
+      "section": "Herufi, picha na sentensi",
+      "prompt": "Taja mnyama katika picha.",
+      "steps": [
+        "Picha ina mwili na mkia wa fisi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Fisi.",
+      "source_page": 1,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S2-2026-MESP-Tanzania-March-Midterm-exam--15.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 1."
+    },
+    {
+      "id": "16",
+      "section": "Herufi, picha na sentensi",
+      "prompt": "Panga: amevaa sketi nyeusi Asha.",
+      "steps": [
+        "Anza na Asha, fuata amevaa na sketi nyeusi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Asha amevaa sketi nyeusi.",
+      "source_page": 1
+    },
+    {
+      "id": "17",
+      "section": "Herufi, picha na sentensi",
+      "prompt": "Sauti za silabi ng’e ni zipi?",
+      "steps": [
+        "Silabi huundwa na konsonanti ng’ na irabu e.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Ng’ na e.",
+      "source_page": 2
+    },
+    {
+      "id": "18",
+      "section": "Herufi, picha na sentensi",
+      "prompt": "Jaza ____ra kwa ng’a, dha au ng’o.",
+      "steps": [
+        "Dha + ra hutengeneza neno dhara lenye maana ya madhara.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Dha: dhara.",
+      "source_page": 2
+    },
+    {
+      "id": "19",
+      "section": "Herufi, picha na sentensi",
+      "prompt": "Panga: Dhahabu wa mkufu mama alinunua.",
+      "steps": [
+        "Mtendaji ni Mama, kitendo alinunua, kitu ni mkufu wa dhahabu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mama alinunua mkufu wa dhahabu.",
+      "source_page": 2
+    },
+    {
+      "id": "20",
+      "section": "Herufi, picha na sentensi",
+      "prompt": "Taja mnyama katika picha yenye pembe na mistari nyeusi ubavuni.",
+      "steps": [
+        "Picha inaonyesha swala mwenye pembe na alama ubavuni.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Swala.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S2-2026-MESP-Tanzania-March-Midterm-exam--20.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "21",
+      "section": "Kuonanisha picha",
+      "prompt": "Oanisha picha 21 na jina lake.",
+      "steps": [
+        "Picha ina mdudu mwenye miguu ya nyuma ya kuruka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Nzige.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S2-2026-MESP-Tanzania-March-Midterm-exam--21.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "22",
+      "section": "Kuonanisha picha",
+      "prompt": "Oanisha picha 22 na jina lake.",
+      "steps": [
+        "Picha ina ndege njiwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Njiwa.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S2-2026-MESP-Tanzania-March-Midterm-exam--22.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "23",
+      "section": "Kuonanisha picha",
+      "prompt": "Oanisha picha 23 na jina lake.",
+      "steps": [
+        "Picha ina eneo la maji lililozungukwa na nchi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Bwawa.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S2-2026-MESP-Tanzania-March-Midterm-exam--23.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "24",
+      "section": "Kuonanisha picha",
+      "prompt": "Oanisha picha 24 na jina lake.",
+      "steps": [
+        "Picha ina vyombo viwili vya udongo; wingi wa chungu ni vyungu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "G - Vyungu.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S2-2026-MESP-Tanzania-March-Midterm-exam--24.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "25",
+      "section": "Kuonanisha picha",
+      "prompt": "Oanisha picha 25 na jina lake.",
+      "steps": [
+        "Picha ina pweza mwenye mikono minane.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Pweza.",
+      "source_page": 3,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S2-2026-MESP-Tanzania-March-Midterm-exam--25.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 3."
+    },
+    {
+      "id": "26",
+      "section": "Kuonanisha picha",
+      "prompt": "Oanisha picha 26 na jina lake.",
+      "steps": [
+        "Picha ni tunda la chungwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Chungwa.",
+      "source_page": 3,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S2-2026-MESP-Tanzania-March-Midterm-exam--26.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 3."
+    },
+    {
+      "id": "27",
+      "section": "Kupanga sentensi",
+      "prompt": "Panga maneno: skauti skafu imepotea ya.",
+      "steps": [
+        "Skafu ya skauti ndiyo kitu kilichopotea.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Skafu ya skauti imepotea.",
+      "source_page": 3
+    },
+    {
+      "id": "28",
+      "section": "Kupanga sentensi",
+      "prompt": "Panga maneno: soda kreti imejaa.",
+      "steps": [
+        "Kreti ndiyo imejaa; soda ndiyo yaliyomo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kreti imejaa soda.",
+      "source_page": 3
+    },
+    {
+      "id": "29",
+      "section": "Kupanga sentensi",
+      "prompt": "Panga maneno: Moza ni nyeupe soksi za.",
+      "steps": [
+        "Soksi ndiyo nomino kuu; nyeupe ni rangi yake.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Soksi za Moza ni nyeupe.",
+      "source_page": 3
+    },
+    {
+      "id": "30",
+      "section": "Kupanga sentensi",
+      "prompt": "Panga maneno: rangi fundi brashi kwa hupaka.",
+      "steps": [
+        "Fundi ni mtendaji na brashi ni chombo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Fundi hupaka rangi kwa brashi.",
+      "source_page": 3
+    },
+    {
+      "id": "31",
+      "section": "Kupanga sentensi",
+      "prompt": "Panga maneno: Ndugu ni Kyando na Myalange.",
+      "steps": [
+        "Unganisha majina na kauli ni ndugu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kyando na Myalange ni ndugu.",
+      "source_page": 3
+    },
+    {
+      "id": "32",
+      "section": "Kupanga sentensi",
+      "prompt": "Panga maneno: Alitengeneza kompyuta fundi.",
+      "steps": [
+        "Anza na mtendaji fundi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Fundi alitengeneza kompyuta.",
+      "source_page": 3
+    },
+    {
+      "id": "33",
+      "section": "Kupanga sentensi",
+      "prompt": "Panga maneno: Ni wilaya Kyela.",
+      "steps": [
+        "Kyela ndilo jina linaloelezwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kyela ni wilaya.",
+      "source_page": 3
+    },
+    {
+      "id": "34",
+      "section": "Kupanga sentensi",
+      "prompt": "Panga maneno: Maua nyuki anafyonza.",
+      "steps": [
+        "Kwa maneno yaliyopewa, nyuki ndiye mtendaji. Kwa maana sahihi: Nyuki anafyonza nekta kwenye maua.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Nyuki anafyonza maua.",
+      "source_page": 3
+    },
+    {
+      "id": "35",
+      "section": "Kupanga sentensi",
+      "prompt": "Panga maneno: Kimya kukaa wanafunzi darasani wanapaswa.",
+      "steps": [
+        "Taja wanafunzi, wajibu wa kukaa kimya, na mahali darasani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Wanafunzi wanapaswa kukaa kimya darasani.",
+      "source_page": 3
+    },
+    {
+      "id": "36",
+      "section": "Kupanga sentensi",
+      "prompt": "Panga maneno: Mpya fulana alivaa kaka.",
+      "steps": [
+        "Fulana mpya ndiyo vazi la kaka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kaka alivaa fulana mpya.",
+      "source_page": 3
+    },
+    {
+      "id": "37",
+      "section": "Kutunga sentensi",
+      "prompt": "Tunga sentensi kwa Mpya.",
+      "steps": [
+        "Mpya inaeleza fulana ambayo haijatumika sana.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Kaka amenunua fulana mpya.",
+      "source_page": 3,
+      "tip": "Sentensi nyingine sahihi yenye neno hilo inakubalika."
+    },
+    {
+      "id": "38",
+      "section": "Kutunga sentensi",
+      "prompt": "Tunga sentensi kwa Fyeka.",
+      "steps": [
+        "Fyeka ni agizo la kukata nyasi au vichaka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Fyeka nyasi kwa tahadhari.",
+      "source_page": 3,
+      "tip": "Sentensi nyingine sahihi yenye neno hilo inakubalika."
+    },
+    {
+      "id": "39",
+      "section": "Kutunga sentensi",
+      "prompt": "Tunga sentensi kwa Fyatua.",
+      "steps": [
+        "Fyatua inaweza kumaanisha kutengeneza matofali kwenye kalibu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Fyatua matofali kwa kutumia udongo.",
+      "source_page": 4,
+      "tip": "Sentensi nyingine sahihi yenye neno hilo inakubalika."
+    },
+    {
+      "id": "40",
+      "section": "Kutunga sentensi",
+      "prompt": "Tunga sentensi kwa Fyonza.",
+      "steps": [
+        "Fyonza ni kuvuta majimaji; sentensi imeonyesha maana yake.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Nyuki hufyonza nekta kwenye maua.",
+      "source_page": 4,
+      "tip": "Sentensi nyingine sahihi yenye neno hilo inakubalika."
+    },
+    {
+      "id": "41",
+      "section": "Kukamilisha silabi",
+      "prompt": "Tumia mya, fyo, pya, lwa au pyu: ____nza",
+      "steps": [
+        "fyo + nza huunda fyonza.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "fyo: fyonza.",
+      "source_page": 4
+    },
+    {
+      "id": "42",
+      "section": "Kukamilisha silabi",
+      "prompt": "Tumia mya, fyo, pya, lwa au pyu: Kom____ta",
+      "steps": [
+        "kom + pyu + ta huunda kompyuta.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "pyu: kompyuta.",
+      "source_page": 4
+    },
+    {
+      "id": "43",
+      "section": "Kukamilisha silabi",
+      "prompt": "Tumia mya, fyo, pya, lwa au pyu: Ku____",
+      "steps": [
+        "Ku + lwa huunda jina Kulwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "lwa: Kulwa.",
+      "source_page": 4
+    },
+    {
+      "id": "44",
+      "section": "Kukamilisha silabi",
+      "prompt": "Tumia mya, fyo, pya, lwa au pyu: Vi____",
+      "steps": [
+        "Vi + pya huunda vipya.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "pya: vipya.",
+      "source_page": 4
+    },
+    {
+      "id": "45",
+      "section": "Kukamilisha silabi",
+      "prompt": "Tumia mya, fyo, pya, lwa au pyu: Ki____",
+      "steps": [
+        "Ki + mya huunda kimya.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "mya: kimya.",
+      "source_page": 4
+    },
+    {
+      "id": "46",
+      "section": "Ufahamu",
+      "prompt": "Bustani lina silabi ngapi?",
+      "steps": [
+        "Gawanya bu, sta, ni; sta ni silabi mwambatano.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tatu: bu-sta-ni.",
+      "source_page": 4
+    },
+    {
+      "id": "47",
+      "section": "Ufahamu",
+      "prompt": "Besta hutumia mbolea gani?",
+      "steps": [
+        "Habari imetaja kuweka mbolea ya samadi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mbolea ya samadi.",
+      "source_page": 4
+    },
+    {
+      "id": "48",
+      "section": "Ufahamu",
+      "prompt": "Maksai maana yake nini?",
+      "steps": [
+        "Katika habari maksai huvuta plau kulimia.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Ng’ombe dume waliokwishahasiwa, wanaotumika kuvuta plau.",
+      "source_page": 4
+    },
+    {
+      "id": "49",
+      "section": "Ufahamu",
+      "prompt": "Besta amepanda stafeli, machungwa na miti gani?",
+      "steps": [
+        "Habari inataja miti ya stafeli, machungwa na maembe.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Maembe (miembe).",
+      "source_page": 4
+    },
+    {
+      "id": "50",
+      "section": "Ufahamu",
+      "prompt": "Kabla ya kupanda mazao Besta hufanya nini?",
+      "steps": [
+        "Hizi ndizo hatua zinazotangulia kupanda katika habari.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Huandaa bustani: huilima, huandaa matuta na huweka samadi.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Imla": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Herufi, picha na sentensi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kuonanisha picha": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kupanga sentensi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kutunga sentensi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kukamilisha silabi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ufahamu": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "MESP TZ Standard Two Midterm Examinations March 2026",
+      "url": "https://darasahuru.ac.tz/mesp-tz-standard-two-midterm-examinations-march-2026/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "Imla 1-10: sentensi za mwalimu hazijapatikana.",
+    "Swali 34 maneno yaliyotolewa yanasema nyuki anafyonza maua; kwa uhalisi hufyonza nekta kwenye maua.",
+    "Swali 12: ____muni halina machaguo, picha au muktadha; silabi sahihi haiwezi kuthibitishwa."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "aa5df4260629571007db630e708ef5e9bde8030f352e20886ba43ca6039bcb3e"
+}

@@ -1,0 +1,2767 @@
+{
+  "summary": {
+    "total_papers": 148,
+    "solution_sources": 148,
+    "published": 148,
+    "visually_approved": 148,
+    "answered_parts": 5310,
+    "math_checks": 2146,
+    "remaining": []
+  },
+  "papers": {
+    "English-S1-2022-Iramba-DC-July-Terminal-exam.pdf": {
+      "subject": "English",
+      "grade": "S1",
+      "status": "published",
+      "parts": 40,
+      "limitations": [],
+      "math_checks": 0,
+      "pages": 11,
+      "pdf_sha256": "eb4abcfd500bb7d10ceadb6a03630c9e8c7f4c20b049d1f5ba52d88b96e50f87",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S1-2022-Iramba-DC-July-Terminal-exam-AnswerKey",
+      "source_sha256": "198efc3dee69737892c48bcc7f1129f039829c5f8d13e51831f990c7a0947277",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S1-2022-MAP-July-Holiday-practice.pdf": {
+      "subject": "English",
+      "grade": "S1",
+      "status": "published",
+      "parts": 136,
+      "limitations": [
+        "W1: The teacher dictation words or audio are not included in this source.",
+        "W2: The teacher dictation words or audio are not included in this source.",
+        "W3: The teacher dictation words or audio are not included in this source.",
+        "W4: The teacher dictation words or audio are not included in this source.",
+        "W5: The teacher dictation words or audio are not included in this source.",
+        "W6: The teacher dictation words or audio are not included in this source.",
+        "W7: The teacher dictation words or audio are not included in this source.",
+        "W8: The teacher dictation words or audio are not included in this source.",
+        "W9: The teacher dictation words or audio are not included in this source.",
+        "W10: The teacher dictation words or audio are not included in this source.",
+        "W23: The handwriting term ground letter is undefined; both interpretations are explained.",
+        "W25: Nose and eons are both valid anagrams among the printed alternatives.",
+        "W49: Going to school is inferred; the dialogue does not explicitly give a post-breakfast instruction."
+      ],
+      "math_checks": 0,
+      "pages": 30,
+      "pdf_sha256": "a5a5f10291811807608bbe2e3025432f4c032b2ba904bc1777637795d542a05d",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S1-2022-MAP-July-Holiday-practice-AnswerKey",
+      "source_sha256": "78c365571f17f14f9eadf9e4160c9186a3dd52f8ab282845e77d95982fff6854",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S1-2022-Utu-Live-Primary-School-July-Terminal-exam.pdf": {
+      "subject": "English",
+      "grade": "S1",
+      "status": "published",
+      "parts": 25,
+      "limitations": [],
+      "math_checks": 0,
+      "pages": 8,
+      "pdf_sha256": "f8205ea914c9364371867f9c936c0edb7c53eefb465817c7c130475cc8d5c7ea",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S1-2022-Utu-Live-Primary-School-July-Terminal-exam-AnswerKey",
+      "source_sha256": "b027675482bd62e628dd6ef7f1630fbf5ef245996609d68853bc85a439a6c703",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S1-2024-MESP-Tanzania-August-Midterm-exam.pdf": {
+      "subject": "English",
+      "grade": "S1",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "20: The supplied Mary and Susan story mentions no dog or cat and supplies no corresponding name or owner.",
+        "23: The supplied Mary and Susan story mentions no dog or cat and supplies no corresponding name or owner.",
+        "24: The supplied Mary and Susan story mentions no dog or cat and supplies no corresponding name or owner.",
+        "18: Apples have different colours; no single yes/no answer follows without a particular variety."
+      ],
+      "math_checks": 0,
+      "pages": 9,
+      "pdf_sha256": "08bc6ffc634deae43767d1b21557dfca5c0575573f29e4ab795760c8922440a7",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S1-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey",
+      "source_sha256": "198269d699d0688f5fc754a94ed5db912b3a74531735df2babb049f7ba995806",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S1-2024-MESP-Tanzania-February-Monthly-test.pdf": {
+      "subject": "English",
+      "grade": "S1",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "16: The cell is blank: no object to draw is named or pictured.",
+        "17: The cell is blank: no object to draw is named or pictured.",
+        "18: The source picture cell is empty.",
+        "19: The source picture cell is empty.",
+        "20: The source picture cell is empty.",
+        "21: The source picture cell is empty.",
+        "22-24: Matching list is under-specified; intended pairs are distinguished from unique facts."
+      ],
+      "math_checks": 0,
+      "pages": 9,
+      "pdf_sha256": "4ec0cf3227dd4d005aea1a490528e90cb54fddbc67cb696cde5b8e630d80fb1c",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S1-2024-MESP-Tanzania-February-Monthly-test-AnswerKey",
+      "source_sha256": "689ea08c2ea8d4149a6c6db0da0ecd91a446c87a5eab1d7ef685ef354594431b",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S1-2024-MESP-Tanzania-March-Midterm-exam.pdf": {
+      "subject": "English",
+      "grade": "S1",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "22-23: Passage reverses the usual outer-to-inner colour order. Passage-based answers and scientific correction are both supplied."
+      ],
+      "math_checks": 0,
+      "pages": 8,
+      "pdf_sha256": "73a3f671a9902120432c2d464a6ebcb1ca6c1072795ed5b79c640e09e5f5397d",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S1-2024-MESP-Tanzania-March-Midterm-exam-AnswerKey",
+      "source_sha256": "8f276ea2ecf9b6e95ad17e982d28e484f70295b5a67d6a036e9d88ebc185bc32",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S1-2024-MESP-Tanzania-November-Annual-exam.pdf": {
+      "subject": "English",
+      "grade": "S1",
+      "status": "published",
+      "parts": 36,
+      "limitations": [],
+      "math_checks": 0,
+      "pages": 10,
+      "pdf_sha256": "84ed962129515f3ba13c76ed0e903eeb61bae845f6cd46a0174a4e9746e390f7",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S1-2024-MESP-Tanzania-November-Annual-exam-AnswerKey",
+      "source_sha256": "67036aca3066d94ada471f4a30c51e18b997330a60a3f6b38bedf418a4d85d1c",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S1-2025-Darasa-Huru-Joint-assessment.pdf": {
+      "subject": "English",
+      "grade": "S1",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "1(a): The teacher dictation words or audio are not included in this source.",
+        "1(b): The teacher dictation words or audio are not included in this source.",
+        "1(c): The teacher dictation words or audio are not included in this source.",
+        "1(d): The teacher dictation words or audio are not included in this source.",
+        "1(e): The teacher dictation words or audio are not included in this source."
+      ],
+      "math_checks": 0,
+      "pages": 8,
+      "pdf_sha256": "1007c478f650ead7028c4b13b678a5581f30c6dc8383e0b5c128f2717791843c",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S1-2025-Darasa-Huru-Joint-assessment-AnswerKey",
+      "source_sha256": "b69d8f5965d70dc881aba58762822c9276204642e33b9c00f355d5c58468a571",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S1-2026-MESP-Tanzania-March-Midterm-exam.pdf": {
+      "subject": "English",
+      "grade": "S1",
+      "status": "published",
+      "parts": 23,
+      "limitations": [],
+      "math_checks": 0,
+      "pages": 7,
+      "pdf_sha256": "49d67df28da1fc2eb8822df411160425659338fb51b53c49cd224a39d30ee8ba",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S1-2026-MESP-Tanzania-March-Midterm-exam-AnswerKey",
+      "source_sha256": "35ce90c96939a5315718e2ee082177cbf6699ce3e2964a20a4ac92af14623bd5",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S2-2022-Iramba-DC-July-Terminal-exam.pdf": {
+      "subject": "English",
+      "grade": "S2",
+      "status": "published",
+      "parts": 40,
+      "limitations": [],
+      "math_checks": 0,
+      "pages": 11,
+      "pdf_sha256": "8134a249f155131dd24f6cf9d55e2d3950b226de02def6e3666dfdc8a8884d78",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S2-2022-Iramba-DC-July-Terminal-exam-AnswerKey",
+      "source_sha256": "aaf06b0fe052be2e583504d8f4fdbf69a9b8a4714a90f8a134d45371a3daed78",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S2-2022-MAP-July-Holiday-practice.pdf": {
+      "subject": "English",
+      "grade": "S2",
+      "status": "published",
+      "parts": 104,
+      "limitations": [
+        "Retained-fragment-50: This retained fragment belongs to the preceding source section; its picture and earlier question are absent from the English extract.",
+        "W1: The teacher dictation words or audio are not included in this source.",
+        "W2: The teacher dictation words or audio are not included in this source.",
+        "W3: The teacher dictation words or audio are not included in this source.",
+        "W4: The teacher dictation words or audio are not included in this source.",
+        "W5: The teacher dictation words or audio are not included in this source.",
+        "W12: The printed word-building instruction and extra grid are not clearly linked; examples and grid words are distinguished.",
+        "W16: No printed option has exactly three phonemes; intended letter-count answer is explained.",
+        "W33: Ground letter is undefined; alternative handwriting interpretations are supplied.",
+        "W35: Nose and eons are both valid printed anagrams.",
+        "W49: The passage does not state Mary's class at the time of the death; an assumed promotion must not become a certain answer."
+      ],
+      "math_checks": 0,
+      "pages": 24,
+      "pdf_sha256": "f1ac1fff24fa2b21564191f9fd463df51338afe43af1e74fba7bb7ba916948ec",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S2-2022-MAP-July-Holiday-practice-AnswerKey",
+      "source_sha256": "deb81f2076da1ecc0592fedcc1d25b15209e18b2c71e48cc1a968b688245303d",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S2-2023-Mbezi-Bwa-January-Monthly-test.pdf": {
+      "subject": "English",
+      "grade": "S2",
+      "status": "published",
+      "parts": 50,
+      "limitations": [
+        "W1: The teacher dictation words or audio are not included in this source.",
+        "W2: The teacher dictation words or audio are not included in this source.",
+        "W3: The teacher dictation words or audio are not included in this source.",
+        "W4: The teacher dictation words or audio are not included in this source.",
+        "W5: The teacher dictation words or audio are not included in this source."
+      ],
+      "math_checks": 0,
+      "pages": 13,
+      "pdf_sha256": "0066ee20382d27d7b52d4afab81f3e260407cc2315b4547673e6f571a0397be1",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S2-2023-Mbezi-Bwa-January-Monthly-test-AnswerKey",
+      "source_sha256": "cfea2111bc986396277b7ab591c2584199f3a95043e681a1abaf38fd79036250",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S2-2024-MESP-Tanzania-August-Midterm-exam.pdf": {
+      "subject": "English",
+      "grade": "S2",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "1: The teacher dictation words or audio are not included in this source.",
+        "2: The teacher dictation words or audio are not included in this source.",
+        "3: The teacher dictation words or audio are not included in this source.",
+        "4: The teacher dictation words or audio are not included in this source.",
+        "5: The teacher dictation words or audio are not included in this source."
+      ],
+      "math_checks": 0,
+      "pages": 8,
+      "pdf_sha256": "e89b3b2c4c4326890de0b8a31140fdae4cff192678819b578fd2f6d7ef9a67c0",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S2-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey",
+      "source_sha256": "dbe9157c92812413a7e05b5d149e402f2a63b58a7a80c39f3fb3bd4596c4dbf8",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S2-2024-MESP-Tanzania-November-Annual-exam.pdf": {
+      "subject": "English",
+      "grade": "S2",
+      "status": "published",
+      "parts": 15,
+      "limitations": [
+        "3: The source prints seak, not a standard common word; seek or soak may be intended, but the spelling cannot be determined uniquely."
+      ],
+      "math_checks": 0,
+      "pages": 6,
+      "pdf_sha256": "bea24990257cf9a655e53b8e9764e49556966280e0c655637c8a2dfc8483d11e",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S2-2024-MESP-Tanzania-November-Annual-exam-AnswerKey",
+      "source_sha256": "979058a4c5ed1defeeb5e0e1f487d7cf342a182e1e2bb26c84b0b806cbaa1199",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S2-2025-Mbeya-region-February-Practice-assessment.pdf": {
+      "subject": "English",
+      "grade": "S2",
+      "status": "published",
+      "parts": 17,
+      "limitations": [],
+      "math_checks": 0,
+      "pages": 7,
+      "pdf_sha256": "04072206743b56445a9d5b8fbf0d94aacfabca6d87f7edbcda8df872582a25ea",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S2-2025-Mbeya-region-February-Practice-assessment-AnswerKey",
+      "source_sha256": "245355b4cdbd6f2f5015ea25bdd0689694402b21ed444ae9fa6aaf9d12ba3ae4",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S2-2025-Mbeya-region-May-Practice-assessment.pdf": {
+      "subject": "English",
+      "grade": "S2",
+      "status": "published",
+      "parts": 17,
+      "limitations": [],
+      "math_checks": 0,
+      "pages": 7,
+      "pdf_sha256": "60379e3569521259214f887cb561b0d737ee357eb0bd787d0fb18b491f34487e",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S2-2025-Mbeya-region-May-Practice-assessment-AnswerKey",
+      "source_sha256": "088b15418af13587406a96331bef66a13ddae8e6cfdb691a6110b1fe55e87313",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S2-2025-PENTA-January-Monthly-test.pdf": {
+      "subject": "English",
+      "grade": "S2",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "17: Goat is the intended rearrangement, but toga is an English word.",
+        "18: Table and bleat are both valid anagrams."
+      ],
+      "math_checks": 0,
+      "pages": 8,
+      "pdf_sha256": "955ef8ef90b9b1a3c82570531c696313bc90b6e60d6670da36b75e8a89d1deca",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S2-2025-PENTA-January-Monthly-test-AnswerKey",
+      "source_sha256": "985146d1f2018a3e2216f7c029ea6e968bb8b67b47080a3a29bb3b5d354c63e0",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S2-2026-MESP-Tanzania-March-Midterm-exam.pdf": {
+      "subject": "English",
+      "grade": "S2",
+      "status": "published",
+      "parts": 50,
+      "limitations": [
+        "33: Fight without its first sound leaves ight, not a normal standalone word; no invented replacement is supplied.",
+        "46: The narrator is named Musa; the author of the exam passage is not identified."
+      ],
+      "math_checks": 0,
+      "pages": 12,
+      "pdf_sha256": "7cce77a1a17d7f9294396ad1dc18ae466860b43aa72d947900fa70dcf23a5247",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S2-2026-MESP-Tanzania-March-Midterm-exam-AnswerKey",
+      "source_sha256": "68cd492576dd4b18d984c6d109a2c98abde3b6e144c8abe644fcc61e699f31c9",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S3-2022-MAP-July-Holiday-practice.pdf": {
+      "subject": "English",
+      "grade": "S3",
+      "status": "published",
+      "parts": 50,
+      "limitations": [
+        "1: The teacher dictation words or audio are not included in this source.",
+        "2: The teacher dictation words or audio are not included in this source.",
+        "3: The teacher dictation words or audio are not included in this source.",
+        "4: The teacher dictation words or audio are not included in this source.",
+        "5: The teacher dictation words or audio are not included in this source.",
+        "6: The teacher dictation words or audio are not included in this source.",
+        "7: The teacher dictation words or audio are not included in this source.",
+        "8: The teacher dictation words or audio are not included in this source.",
+        "9: The teacher dictation words or audio are not included in this source.",
+        "10: The teacher dictation words or audio are not included in this source."
+      ],
+      "math_checks": 0,
+      "pages": 13,
+      "pdf_sha256": "e66a13d79e9159dd5cc781f186190228082bf4e57bb6b35809e3ca4d7c51f062",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S3-2022-MAP-July-Holiday-practice-AnswerKey",
+      "source_sha256": "12ced75d7aece0a8e0a70296468281cfcd319361c11f854d8906f7658886a2ad",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S3-2022-PEPS-Tanzania-June-Monthly-test.pdf": {
+      "subject": "English",
+      "grade": "S3",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "1(i): The teacher dictation words or audio are not included in this source.",
+        "1(ii): The teacher dictation words or audio are not included in this source.",
+        "1(iii): The teacher dictation words or audio are not included in this source.",
+        "1(iv): The teacher dictation words or audio are not included in this source.",
+        "1(v): The teacher dictation words or audio are not included in this source."
+      ],
+      "math_checks": 0,
+      "pages": 8,
+      "pdf_sha256": "169fcb428f4ed476149725c73929391c6238ee45c65006065040ef6b9dfcfd9a",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S3-2022-PEPS-Tanzania-June-Monthly-test-AnswerKey",
+      "source_sha256": "bdc47ff77737eb3ec5e5c31bdd73e091a66fd63637e7d037952b1430e7477287",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S3-2022-School-assessment-November-Practice-assessment.pdf": {
+      "subject": "English",
+      "grade": "S3",
+      "status": "published",
+      "parts": 50,
+      "limitations": [
+        "2(v): Supplied scheme says eggs, but the correct answer is milk.",
+        "3(v): Printed on options A and C are identical.",
+        "Appendix-2(i): No Earth option is supplied; marking scheme is defective.",
+        "Appendix-3(v): Daytime visibility statement is too broad; factual qualification is provided.",
+        "Appendix-4(iii): Kausi is unclear terminology; eighth assumes the intended planet is Neptune."
+      ],
+      "math_checks": 0,
+      "pages": 13,
+      "pdf_sha256": "539730501d20b176fc3a0264ec467a13df37a1dbb49f5ae9c1693e982aa68fea",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S3-2022-School-assessment-November-Practice-assessment-AnswerKey",
+      "source_sha256": "6795b3deb2f88d2aa5b0021b8026bcaa428010edb8b60c2e3cd01757b18e8102",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S3-2024-Arusha-CC-November-Annual-exam.pdf": {
+      "subject": "English",
+      "grade": "S3",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "1(i): The teacher dictation words or audio are not included in this source.",
+        "1(ii): The teacher dictation words or audio are not included in this source.",
+        "1(iii): The teacher dictation words or audio are not included in this source.",
+        "1(iv): The teacher dictation words or audio are not included in this source.",
+        "1(v): The teacher dictation words or audio are not included in this source.",
+        "3(ii): The list incorrectly includes a spider among insects; corrected classification is explained."
+      ],
+      "math_checks": 0,
+      "pages": 7,
+      "pdf_sha256": "8254de964d55fb0812b8c7c1e2b0aee535a7a59ae9a181c8e492e3db43b17c74",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S3-2024-Arusha-CC-November-Annual-exam-AnswerKey",
+      "source_sha256": "3605c4947beb505bc4c571246be659170d0e49e0d677cd15f2a053e7623b8c6b",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S3-2024-MESP-Tanzania-February-Monthly-test.pdf": {
+      "subject": "English",
+      "grade": "S3",
+      "status": "published",
+      "parts": 33,
+      "limitations": [
+        "1: The teacher dictation words or audio are not included in this source.",
+        "2: The teacher dictation words or audio are not included in this source.",
+        "3: The teacher dictation words or audio are not included in this source.",
+        "4: The teacher dictation words or audio are not included in this source.",
+        "5: The teacher dictation words or audio are not included in this source.",
+        "7: The learner's actual school is not identified in this shared MESP paper. Choose the option matching your school; the later Nduruka passage does not identify the learner.",
+        "16,19: The word bank mixes an adjective with an incorrectly plural noun; complete correct phrases are supplied.",
+        "31: No story heading is printed; Our School is only a suggested title."
+      ],
+      "math_checks": 0,
+      "pages": 9,
+      "pdf_sha256": "4dadbd00cb9683e5c1eb0d464b1dc3df32b7d80861269e5d8b7506e85f2478b7",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S3-2024-MESP-Tanzania-February-Monthly-test-AnswerKey",
+      "source_sha256": "25c224a870cff665e3bebdc1e7b6afc096a3a96165221d3c0e08190199a1ea8e",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S3-2025-Nsunga-Primary-School-November-Annual-exam.pdf": {
+      "subject": "English",
+      "grade": "S3",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "1(i): The teacher dictation words or audio are not included in this source.",
+        "1(ii): The teacher dictation words or audio are not included in this source.",
+        "1(iii): The teacher dictation words or audio are not included in this source.",
+        "1(iv): The teacher dictation words or audio are not included in this source.",
+        "1(v): The teacher dictation words or audio are not included in this source."
+      ],
+      "math_checks": 0,
+      "pages": 7,
+      "pdf_sha256": "88d9050b587a8bfc6236895af976b4846abe331460598a979407bd8e687a7a22",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S3-2025-Nsunga-Primary-School-November-Annual-exam-AnswerKey",
+      "source_sha256": "809d3896ffdd487c977f67d1e555a2f67a2689bb36a2851e05a0b606f55b312b",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S3-2026-ASAP-March-Midterm-exam.pdf": {
+      "subject": "English",
+      "grade": "S3",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "1(i): The teacher dictation words or audio are not included in this source.",
+        "1(ii): The teacher dictation words or audio are not included in this source.",
+        "1(iii): The teacher dictation words or audio are not included in this source.",
+        "1(iv): The teacher dictation words or audio are not included in this source.",
+        "1(v): The teacher dictation words or audio are not included in this source.",
+        "2(v): Picture shows a chair, while the prompt says table.",
+        "4(i): Printed love does not agree with She; both printed grammar and corrected intended reference are explained."
+      ],
+      "math_checks": 0,
+      "pages": 7,
+      "pdf_sha256": "8198f114b2953d0aa5810d2e6afb805d2f62412103cec45b6800bec39f9c1b53",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S3-2026-ASAP-March-Midterm-exam-AnswerKey",
+      "source_sha256": "f75220ddcba5b3ee9b18a33698506cebbca291c3109c8c1d77ccf8df225e35d9",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S3-2026-Arusha-region-May-Terminal-exam.pdf": {
+      "subject": "English",
+      "grade": "S3",
+      "status": "published",
+      "parts": 32,
+      "limitations": [
+        "1(i): The teacher dictation words or audio are not included in this source.",
+        "1(ii): The teacher dictation words or audio are not included in this source.",
+        "1(iii): The teacher dictation words or audio are not included in this source.",
+        "1(iv): The teacher dictation words or audio are not included in this source.",
+        "1(v): The teacher dictation words or audio are not included in this source."
+      ],
+      "math_checks": 0,
+      "pages": 9,
+      "pdf_sha256": "c0af3aaa95665b9456548b00e887d37e637ba132dc799f45e522640daa41b814",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S3-2026-Arusha-region-May-Terminal-exam-AnswerKey",
+      "source_sha256": "828a36732924a6b31a57a8c521814d1494ee6bf02b300a74e7dcecd3c9f0d9d1",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S3-2026-Nyegezi-Primary-School-May-Terminal-exam.pdf": {
+      "subject": "English",
+      "grade": "S3",
+      "status": "published",
+      "parts": 32,
+      "limitations": [
+        "1(i): The teacher dictation words or audio are not included in this source.",
+        "1(ii): The teacher dictation words or audio are not included in this source.",
+        "1(iii): The teacher dictation words or audio are not included in this source.",
+        "1(iv): The teacher dictation words or audio are not included in this source.",
+        "1(v): The teacher dictation words or audio are not included in this source.",
+        "4(iii): Source prompt says cat and box, but the picture clearly shows a ball under a chair."
+      ],
+      "math_checks": 0,
+      "pages": 9,
+      "pdf_sha256": "40336b00c9a1315bb08a4091dea9fafd7a14ca6672a8d9da7231e9e0f998cca1",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S3-2026-Nyegezi-Primary-School-May-Terminal-exam-AnswerKey",
+      "source_sha256": "814b0efac58fb89dc18fd53a41315d72819356c18c9b1afb38f34ce05705ecef",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S4-2025-Bariadi-DC-July-Pre-mock-exam.pdf": {
+      "subject": "English",
+      "grade": "S4",
+      "status": "published",
+      "parts": 32,
+      "limitations": [
+        "1(i): The teacher dictation words or audio are not included in this source.",
+        "1(ii): The teacher dictation words or audio are not included in this source.",
+        "1(iii): The teacher dictation words or audio are not included in this source.",
+        "1(iv): The teacher dictation words or audio are not included in this source.",
+        "1(v): The teacher dictation words or audio are not included in this source.",
+        "2(v): Both sit and sleep make meaningful sentences; sleep is the likely intended answer."
+      ],
+      "math_checks": 0,
+      "pages": 9,
+      "pdf_sha256": "f6ac9ba4393b7ba3bfb5cd9fb8f75d439918450d34a23bfcdcbe9731524d7f86",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S4-2025-Bariadi-DC-July-Pre-mock-exam-AnswerKey",
+      "source_sha256": "3a559f245f96b31f8d439ce222b770e2f8f3f3cd8e630cb21defdf3c092731ad",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S4-2025-Chunya-DC-March-Practice-assessment.pdf": {
+      "subject": "English",
+      "grade": "S4",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "1(i): The teacher dictation words or audio are not included in this source.",
+        "1(ii): The teacher dictation words or audio are not included in this source.",
+        "1(iii): The teacher dictation words or audio are not included in this source.",
+        "1(iv): The teacher dictation words or audio are not included in this source.",
+        "1(v): The teacher dictation words or audio are not included in this source.",
+        "3(i): You and We both fit; the context does not prescribe one pronoun."
+      ],
+      "math_checks": 0,
+      "pages": 7,
+      "pdf_sha256": "bf684c96b50012d9b2746ab55cd7b69433d4c358619fbe1fe58aea91625518f2",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S4-2025-Chunya-DC-March-Practice-assessment-AnswerKey",
+      "source_sha256": "112cd2c7ab92e5801dad1d1b06fb3d7b489726ca702b94906fbd9b85772c1d25",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S4-2025-Dar-es-Salaam-city-July-Mock-exam.pdf": {
+      "subject": "English",
+      "grade": "S4",
+      "status": "published",
+      "parts": 32,
+      "limitations": [
+        "1(i): The teacher dictation words or audio are not included in this source.",
+        "1(ii): The teacher dictation words or audio are not included in this source.",
+        "1(iii): The teacher dictation words or audio are not included in this source.",
+        "1(iv): The teacher dictation words or audio are not included in this source.",
+        "1(v): The teacher dictation words or audio are not included in this source.",
+        "2(v): The auxiliary answer a is intended, but Yes and No are valid ordinary short replies."
+      ],
+      "math_checks": 0,
+      "pages": 9,
+      "pdf_sha256": "2c1153b2dfca56008ff718f092bf91688c60222ba7f32bea191ab50a106d1731",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S4-2025-Dar-es-Salaam-city-July-Mock-exam-AnswerKey",
+      "source_sha256": "b8ad92346b6b84dcb5b3f60a7f577cf12d86ec2f6ee90be7a4dc94f6e5b1831a",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S4-2025-KESS-July-Joint-assessment.pdf": {
+      "subject": "English",
+      "grade": "S4",
+      "status": "published",
+      "parts": 32,
+      "limitations": [
+        "1(i): The teacher dictation words or audio are not included in this source.",
+        "1(ii): The teacher dictation words or audio are not included in this source.",
+        "1(iii): The teacher dictation words or audio are not included in this source.",
+        "1(iv): The teacher dictation words or audio are not included in this source.",
+        "1(v): The teacher dictation words or audio are not included in this source."
+      ],
+      "math_checks": 0,
+      "pages": 9,
+      "pdf_sha256": "7714a11ad3a6e282757996ff60e0ce9ecc475961800a4c97ff05fc05f5db0ab7",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S4-2025-KESS-July-Joint-assessment-AnswerKey",
+      "source_sha256": "b6d4440d1f667e56e679c11e23ae91fbac1f74dd0b9cb94d3e2a245adadbfead",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S4-2025-Kibaha-TC-July-Mock-exam.pdf": {
+      "subject": "English",
+      "grade": "S4",
+      "status": "published",
+      "parts": 37,
+      "limitations": [
+        "1(i): The teacher dictation words or audio are not included in this source.",
+        "1(ii): The teacher dictation words or audio are not included in this source.",
+        "1(iii): The teacher dictation words or audio are not included in this source.",
+        "1(iv): The teacher dictation words or audio are not included in this source.",
+        "1(v): The teacher dictation words or audio are not included in this source.",
+        "3: Two different printed questions share the number 3; MC and Fill identify them uniquely.",
+        "4(iii): Printed jumble rohbtoush lacks letters needed for toothbrush.",
+        "2(ii): Several quantifiers are grammatical with different meanings; the intended neutral question uses any."
+      ],
+      "math_checks": 0,
+      "pages": 10,
+      "pdf_sha256": "3b4b7537b0fbcf940f93bd9e42e17f25da5ec93ee08faca4ea1c859f488bba67",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S4-2025-Kibaha-TC-July-Mock-exam-AnswerKey",
+      "source_sha256": "c54f0fea52bc08e3b6f4d46f99fdcfc55d4e805ad8168e304d2f6a4b1c52d51f",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S5-2022-Iramba-DC-July-Terminal-exam.pdf": {
+      "subject": "English",
+      "grade": "S5",
+      "status": "published",
+      "parts": 33,
+      "limitations": [
+        "10: Comparison is underspecified; supplied shorter and grammatical bigger require different measures.",
+        "32: Supplied marking scheme gives an incorrect unchanged singular."
+      ],
+      "math_checks": 0,
+      "pages": 9,
+      "pdf_sha256": "fdeed029d10672168977554b53e8190e088a472abf5f712a74c20d8fa54ca882",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S5-2022-Iramba-DC-July-Terminal-exam-AnswerKey",
+      "source_sha256": "68948a259587035c155e684e2e2b39baa1d66a2d5f60d4776dd6452c9426df95",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S5-2023-Luqman-Primary-School-August-Midterm-exam.pdf": {
+      "subject": "English",
+      "grade": "S5",
+      "status": "published",
+      "parts": 45,
+      "limitations": [
+        "6: Printed structure options omit or obscure essential past-simple sentence elements.",
+        "7: No base-form verb is supplied after does.",
+        "13: Neither/nor and duplicate either/or choices are all structurally possible.",
+        "21,34: No diagram or location clue makes the preposition unique.",
+        "23: Destination lacks to and several modal meanings are possible."
+      ],
+      "math_checks": 0,
+      "pages": 12,
+      "pdf_sha256": "4b4383baf435ee6be6ff3454d36109103d81b9d1774dba6936174ba9877bad33",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S5-2023-Luqman-Primary-School-August-Midterm-exam-AnswerKey",
+      "source_sha256": "03a5e97bc1a49b34bf41e444cc3f201ba00075b70d06aa4ade8365f9de6b3e17",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S5-2024-MESP-Tanzania-August-Midterm-exam.pdf": {
+      "subject": "English",
+      "grade": "S5",
+      "status": "published",
+      "parts": 34,
+      "limitations": [
+        "1(i): The Jasmeen/Baraka listening passage is absent. The Kiswahili text on page 5 concerns Fabu, Bera and Raja and is unrelated.",
+        "1(ii): The Jasmeen/Baraka listening passage is absent. The Kiswahili text on page 5 concerns Fabu, Bera and Raja and is unrelated.",
+        "1(iii): The Jasmeen/Baraka listening passage is absent. The Kiswahili text on page 5 concerns Fabu, Bera and Raja and is unrelated.",
+        "1(iv): The Jasmeen/Baraka listening passage is absent. The Kiswahili text on page 5 concerns Fabu, Bera and Raja and is unrelated.",
+        "1(v): The Jasmeen/Baraka listening passage is absent. The Kiswahili text on page 5 concerns Fabu, Bera and Raja and is unrelated.",
+        "2(iii): Comparative grammar is answerable; the national-intelligence assertion has no evidence in the source.",
+        "2(v): Printed barrow should be borrow.",
+        "3(iv): Intended any needs ordinary plural books in this context.",
+        "7: Birth, entry and Standard Five dates are inconsistent; form answers reproduce the supplied information.",
+        "5(iii): No target underline is visible; conditional adverb answer and other word functions are supplied."
+      ],
+      "math_checks": 0,
+      "pages": 10,
+      "pdf_sha256": "649f47c4e25b39aebe1cc710221ac577403cdb1a773a4c829d70556a20fb3a39",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S5-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey",
+      "source_sha256": "04fd6f91ca59b3986596ab784c69199ed2dd4e28e9b0f8d7649f7df75421fc15",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S5-2024-MESP-Tanzania-May-Terminal-exam.pdf": {
+      "subject": "English",
+      "grade": "S5",
+      "status": "published",
+      "parts": 35,
+      "limitations": [],
+      "math_checks": 0,
+      "pages": 9,
+      "pdf_sha256": "25b75faed597612bd3b89838292aee618a9d10f2b9b7863030948ba4236a04aa",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S5-2024-MESP-Tanzania-May-Terminal-exam-AnswerKey",
+      "source_sha256": "5ad887401d66f21df15647d0d3978cefee074873498598e91f1cdefe1b021c2f",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S5-2024-MESP-Tanzania-November-Annual-exam.pdf": {
+      "subject": "English",
+      "grade": "S5",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "1(i): The Upendo listening script is not printed. The choices alone cannot establish the story details.",
+        "1(ii): The Upendo listening script is not printed. The choices alone cannot establish the story details.",
+        "1(iii): The Upendo listening script is not printed. The choices alone cannot establish the story details.",
+        "1(iv): The Upendo listening script is not printed. The choices alone cannot establish the story details.",
+        "1(v): The Upendo listening script is not printed. The choices alone cannot establish the story details."
+      ],
+      "math_checks": 0,
+      "pages": 10,
+      "pdf_sha256": "a38b452eecb641a3bd6d123118bbbae5777d4b04bf946ebaf729c79d01d52ede",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S5-2024-MESP-Tanzania-November-Annual-exam-AnswerKey",
+      "source_sha256": "567b3e43a809352373435a1bab94817e2045748a245376981506a4fe96a6d008",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S5-2024-SPES-November-Annual-exam.pdf": {
+      "subject": "English",
+      "grade": "S5",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "3(iii): Besides is the intended addition meaning, but other printed prepositions have grammatical interpretations.",
+        "6(iii): Question changes Prince to Pendo; answer uses the passage event."
+      ],
+      "math_checks": 0,
+      "pages": 9,
+      "pdf_sha256": "cfa10a7b6b6c87d9eff8acc946e2aeb15b0a6a2b8315729ac1d4b391e3074210",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S5-2024-SPES-November-Annual-exam-AnswerKey",
+      "source_sha256": "cc3fcd6388b85e71698e65153cf30c62357d08a4d74519c189afc0d8b605f61c",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S5-2024-SPES-September-Monthly-test.pdf": {
+      "subject": "English",
+      "grade": "S5",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "3(iii): Besides is the intended addition meaning, but other printed prepositions have grammatical interpretations.",
+        "6(iii): Question changes Prince to Pendo; answer uses the passage event."
+      ],
+      "math_checks": 0,
+      "pages": 9,
+      "pdf_sha256": "bd0da9a7936648d5811f440eff122a4c44fd4dff60242205d103ce64c93394a4",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S5-2024-SPES-September-Monthly-test-AnswerKey",
+      "source_sha256": "fcbc8d70af619b043dae0e20e23218f26217814c877dbca8f01cee76d0f91512",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S5-2024-Sunland-Primary-School-May-Terminal-exam.pdf": {
+      "subject": "English",
+      "grade": "S5",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "1(ii): Listening script omits the word before Week, preventing a unique answer.",
+        "3(iv): Bank gives noun greed where adjective greedy is needed.",
+        "6(v): Passage election month is historically incorrect; the official date is supplied separately.",
+        "Listening script: AIDS is advanced HIV disease, not simply a high viral level; testing identifies HIV, and treatment can prevent progression."
+      ],
+      "math_checks": 0,
+      "pages": 10,
+      "pdf_sha256": "6c9da78d3c482a0ab3767c7bedf181df57ebad8590f1efa635207d59d01dd82d",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S5-2024-Sunland-Primary-School-May-Terminal-exam-AnswerKey",
+      "source_sha256": "c52507ae6923e5da7c8bf3bab8dd0a940da2132358fa0f05660ea7e1b8fac93c",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S5-2026-EMO-February-Practice-assessment.pdf": {
+      "subject": "English",
+      "grade": "S5",
+      "status": "published",
+      "parts": 34,
+      "limitations": [
+        "1(i): The meeting announcement/listening script is not included; the alternatives do not establish the answers.",
+        "1(ii): The meeting announcement/listening script is not included; the alternatives do not establish the answers.",
+        "1(iii): The meeting announcement/listening script is not included; the alternatives do not establish the answers.",
+        "1(iv): The meeting announcement/listening script is not included; the alternatives do not establish the answers.",
+        "1(v): The meeting announcement/listening script is not included; the alternatives do not establish the answers.",
+        "3(iii): Bank omits an exact adjective for attentiveness; early is a plausible punctuality answer.",
+        "5(i)-(v): Direction questions lack pictures/context, so alternatives may also be valid.",
+        "6: Only i, ii, iii and v are printed; item iv is absent, yielding 34 printed parts.",
+        "Health passage: HIV does not spread through shared food or ordinary social contact; WHO correction accompanies the wound answer."
+      ],
+      "math_checks": 0,
+      "pages": 10,
+      "pdf_sha256": "4169fabc24d6d2fc294fdec40abaac8ac0f68bfa664a95bb02aef0f4a4b43e27",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S5-2026-EMO-February-Practice-assessment-AnswerKey",
+      "source_sha256": "2baeacd02d8d990910e575e8f1dbc62c810aabd1b1c8548ee2517a23a8690c2d",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S6-2022-Mufindi-DC-November-Annual-exam.pdf": {
+      "subject": "English",
+      "grade": "S6",
+      "status": "published",
+      "parts": 44,
+      "limitations": [
+        "Numbering: 23 is absent in the printed paper, so 44 tasks are covered.",
+        "17: Fully past unreal condition requires had had, absent from the choices.",
+        "18: Neither auxiliary fits the printed verb phrase; both corrected versions are supplied.",
+        "37,40: Animal list count and area wording are defective. TANAPA lists Ruaha at about 20,226 square kilometres, rather than the printed figure."
+      ],
+      "math_checks": 0,
+      "pages": 11,
+      "pdf_sha256": "24895ab77fa63876917165cb8ba93f9b4dd403a6cbb44fe5b4269cd4d3a6cf8a",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S6-2022-Mufindi-DC-November-Annual-exam-AnswerKey",
+      "source_sha256": "701f24a1e38356f7ac1afba9582496159a71f64ec0d2e26e6ac874421d14ca21",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S6-2024-MESP-Tanzania-August-Midterm-exam.pdf": {
+      "subject": "English",
+      "grade": "S6",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "Numbering: Listening and bank both print 1; multiple-choice and matching both print 2. Unique labels retain all 35 parts.",
+        "1-Bank(v): A duplicated her makes the printed blank defective.",
+        "1-Listen(v): 3 litres is the script claim, not universal child-specific health advice.",
+        "1-Bank(iv): Target underline is absent. Young is an adjective and the most plausible bank-compatible target."
+      ],
+      "math_checks": 0,
+      "pages": 10,
+      "pdf_sha256": "85a8269aee8ecb7d29b6d1a9120cb4f8a1180a27f53650600c42fb81943370e4",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S6-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey",
+      "source_sha256": "32e0b2bada6c6cba53d87e2ec094af64abf8a30840e3d656b336f5403bb0564b",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S6-2024-MESP-Tanzania-May-Terminal-exam.pdf": {
+      "subject": "English",
+      "grade": "S6",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "3(i): Required Are is missing from the word bank.",
+        "3(iv): The question is truncated before any starting time/duration.",
+        "7(iv): Story calls Miriam the thief despite James also admitting theft; both facts are preserved."
+      ],
+      "math_checks": 0,
+      "pages": 10,
+      "pdf_sha256": "c91006746007b8ebe36a5351be71d1969ee97f3e41f19364b586de85f0d62f7f",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S6-2024-MESP-Tanzania-May-Terminal-exam-AnswerKey",
+      "source_sha256": "510de6e13f5f230c7b8dfc24e6b2c11c230e8e6b64d1240220283306bdce3b66",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S6-2024-MESP-Tanzania-November-Annual-exam.pdf": {
+      "subject": "English",
+      "grade": "S6",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "Listening: Geography superlatives and tourism figures are passage claims, not verified national statistics. Ngorongoro is specifically the largest unbroken caldera, rather than every kind of crater.",
+        "2(iii): So is omitted from the required so much...that construction.",
+        "4(i),4(v): Printed definitions do not accurately match their intended bank answers.",
+        "6(i): Four explicitly adjacent building adjectives are counted; additional room features are separately identified."
+      ],
+      "math_checks": 0,
+      "pages": 10,
+      "pdf_sha256": "895cfc8d3a0eea7119ed92b5ea208bea019102f821624c71076bc5908fee1c37",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S6-2024-MESP-Tanzania-November-Annual-exam-AnswerKey",
+      "source_sha256": "462559232db72a7dc4dd14a697cf92c1194118545afab664533ba4d2a8dfb65f",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S6-2024-SAP-September-Practice-assessment.pdf": {
+      "subject": "English",
+      "grade": "S6",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "1(i): The school-routine listening passage is not included; common routines cannot replace the prescribed script.",
+        "1(ii): The school-routine listening passage is not included; common routines cannot replace the prescribed script.",
+        "1(iii): The school-routine listening passage is not included; common routines cannot replace the prescribed script.",
+        "1(iv): The school-routine listening passage is not included; common routines cannot replace the prescribed script.",
+        "1(v): The school-routine listening passage is not included; common routines cannot replace the prescribed script.",
+        "2(iii): Required that is absent; none of the choices completes the sentence.",
+        "3(iii): Bank misspells memorable.",
+        "5(i): Pant should be paint for the wall-colour sentence."
+      ],
+      "math_checks": 0,
+      "pages": 10,
+      "pdf_sha256": "a997e37b27dae00b2c1cc6c68919d5406a96ec5d75fdc63a24dccc112bd4c803",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S6-2024-SAP-September-Practice-assessment-AnswerKey",
+      "source_sha256": "5a0c4a8a33a9f5f58f94d48724f89ffd236fa9155fdfdfad176b3d29e2850a99",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S6-2024-SPES-September-Monthly-test.pdf": {
+      "subject": "English",
+      "grade": "S6",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "1(i): Two printed choices use letter C; destination E is unambiguous."
+      ],
+      "math_checks": 0,
+      "pages": 10,
+      "pdf_sha256": "3b62a079bfe8182f5d22a693a7bc9b3b4585bd17d69c644c159a483c0a507966",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S6-2024-SPES-September-Monthly-test-AnswerKey",
+      "source_sha256": "8585d779e0943bcdccb5ed47ec812a733dd3d643c32e2118b0add7979b6b12bc",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S6-2024-Top-Abilities-November-Annual-exam.pdf": {
+      "subject": "English",
+      "grade": "S6",
+      "status": "published",
+      "parts": 36,
+      "limitations": [
+        "1(i): The flight-announcement listening script is not included; the choices cannot establish the narrated event.",
+        "1(ii): The flight-announcement listening script is not included; the choices cannot establish the narrated event.",
+        "1(iii): The flight-announcement listening script is not included; the choices cannot establish the narrated event.",
+        "1(iv): The flight-announcement listening script is not included; the choices cannot establish the narrated event.",
+        "1(v): The flight-announcement listening script is not included; the choices cannot establish the narrated event."
+      ],
+      "math_checks": 0,
+      "pages": 10,
+      "pdf_sha256": "0a64c1a8453653de1a496a28aa48289ffaf3c2b0f815a725bc206564aca97628",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S6-2024-Top-Abilities-November-Annual-exam-AnswerKey",
+      "source_sha256": "2110e984b1b8f4a1f810d8c8c55869059fb9c467c7c82c75d1d94bdc9df3f5ca",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S6-2025-Citizen-Primary-School-Practice-assessment.pdf": {
+      "subject": "English",
+      "grade": "S6",
+      "status": "published",
+      "parts": 36,
+      "limitations": [
+        "3(iii): Neither lie nor singular lays fits plural hens; lay is required.",
+        "3(iv): Subject I is missing and hited is an incorrect form.",
+        "6: Stieno in stanza two is a typo for Atieno.",
+        "6(v): Refrain is the literary function; no literal translation of yo is supplied."
+      ],
+      "math_checks": 0,
+      "pages": 10,
+      "pdf_sha256": "2a55c0cd97a935fbfedaaaed8fe54df6aa1df687f622e97739012f44598e84d9",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S6-2025-Citizen-Primary-School-Practice-assessment-AnswerKey",
+      "source_sha256": "c7e5cc65e2b52798a75ace62fa23b4fca24420ba0eff876267f924d1b9df26af",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "English-S6-2026-MESP-Tanzania-Practice-assessment.pdf": {
+      "subject": "English",
+      "grade": "S6",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "1(v): Script is absent. Wind is a conditional answer based on an exact match of all 35 tasks to the MESP S5 May 2024 paper, not an invented prescribed transcript."
+      ],
+      "math_checks": 0,
+      "pages": 9,
+      "pdf_sha256": "350cda1f713412594d3ddf59944443fc7ec6d25d5aaba74c9b8309a64cebe15c",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\English-S6-2026-MESP-Tanzania-Practice-assessment-AnswerKey",
+      "source_sha256": "6c1af048ad9840049e63cf480e594fc9341586dd981ab9b4f0dc2ef47debb572",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S1-2022-Iramba-DC-July-Terminal-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S1",
+      "status": "published",
+      "parts": 40,
+      "limitations": [
+        "Kuandika 1-5: karatasi haina maneno au sentensi za mwalimu za imla. Mwongozo umetolewa bila kubuni majibu."
+      ],
+      "math_checks": 0,
+      "pages": 14,
+      "pdf_sha256": "fc31374826989db097984dcf0d4c80df48a944e21174f4c6d2659f1972510c6f",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S1-2022-Iramba-DC-July-Terminal-exam-AnswerKey",
+      "source_sha256": "7175c2acbbced3631e6d639a307f0ae609715193259f44e8dc1c3f26058b3ca2",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S1-2022-MAP-July-Holiday-practice.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S1",
+      "status": "published",
+      "parts": 70,
+      "limitations": [
+        "Imla 1-10: maandishi au sauti ya mwalimu haijajumuishwa."
+      ],
+      "math_checks": 0,
+      "pages": 20,
+      "pdf_sha256": "26383a65192b5c1ee3a0fdf18ab9e6fe2f307845b0524e24bf8b3d7bd7922bdc",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S1-2022-MAP-July-Holiday-practice-AnswerKey",
+      "source_sha256": "1fa49ec8043a295db5e45bdeaed6555c0f7936315c7be36b6995e1f174e9d7b7",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S1-2024-MESP-Tanzania-August-Midterm-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S1",
+      "status": "published",
+      "parts": 26,
+      "limitations": [
+        "Habari: chanzo kina kosa la tahajia siko badala ya siku."
+      ],
+      "math_checks": 0,
+      "pages": 8,
+      "pdf_sha256": "1ee3e132bc955d16cd7bdeb4665d7904e822825d2a76311a0d9aba1ab30f3ab3",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S1-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey",
+      "source_sha256": "3bbe9e944b6416a8a3babb29b10080bca46a236534f9637792b13d97512197ff",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S1-2024-MESP-Tanzania-March-Midterm-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S1",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "Imla 1-5: maandishi ya mwalimu hayajachapishwa.",
+        "Swali 17 limechapisha ukuku. Kukuu hutumia herufi zote; kuku lingehitaji kuondoa u moja."
+      ],
+      "math_checks": 0,
+      "pages": 9,
+      "pdf_sha256": "5db5eb1babbdf7c39e1afcef2a5f2537e21edca1541b154250326e77815fbde0",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S1-2024-MESP-Tanzania-March-Midterm-exam-AnswerKey",
+      "source_sha256": "643d5b06b1ce7f255d6229067e912b6ccd0a748d4359389c23d868ee9392fe19",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S1-2024-MESP-Tanzania-May-Midterm-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S1",
+      "status": "published",
+      "parts": 25,
+      "limitations": [],
+      "math_checks": 0,
+      "pages": 8,
+      "pdf_sha256": "7f7fecae9cf3a94dddeb72d79e13ce08413d52e307c28fe840e74c9ffd6d3ec6",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S1-2024-MESP-Tanzania-May-Midterm-exam-AnswerKey",
+      "source_sha256": "4c30742e6051978b23254e5eb49eb9781322c3be32bb35093ad6ccf19d4859e4",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S1-2024-MESP-Tanzania-November-Annual-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S1",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "Swali 8: Bom_a haliwezi kukamilishwa kuwa bomba kwa irabu. Konsonanti b ndiyo inayokosekana; swali lina kosa."
+      ],
+      "math_checks": 0,
+      "pages": 12,
+      "pdf_sha256": "21e2e5cd1e604dc1e6c220b244b5fdd1d1fa79a9079569c03762ae5246d82def",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S1-2024-MESP-Tanzania-November-Annual-exam-AnswerKey",
+      "source_sha256": "80509cc6f1a009a91e65a8de715f5e9ca8968e6107854246640471d713d7b6c5",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S1-2024-Top-Abilities-Practice-assessment.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S1",
+      "status": "published",
+      "parts": 30,
+      "limitations": [
+        "Swali 3(iii) lina tahajia Husipojenga; limeandikwa kwa herufi kubwa kama chanzo. Methali ya kawaida ni Usipoziba ufa utajenga ukuta."
+      ],
+      "math_checks": 0,
+      "pages": 9,
+      "pdf_sha256": "5349610f9244ee9d12586cc12f7959c3e44ce6067040a105e2e8b2a92c72faf0",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S1-2024-Top-Abilities-Practice-assessment-AnswerKey",
+      "source_sha256": "241eb2fb215568345915a19043509356c10f1fe28d034e8f181805523484db8b",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S1-2026-MESP-Tanzania-March-Midterm-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S1",
+      "status": "published",
+      "parts": 33,
+      "limitations": [
+        "Agizo la majina yanayoanza kwa K linachanganya viwili (4); karatasi ina nafasi mbili 13 na 14. Zote zimejibiwa."
+      ],
+      "math_checks": 0,
+      "pages": 13,
+      "pdf_sha256": "ba3a7e28226ad4c03d7e23732f029af3a13e96ef25cc4dc21c6e630ba7378673",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S1-2026-MESP-Tanzania-March-Midterm-exam-AnswerKey",
+      "source_sha256": "ba45f75a02d099c89e5210b1686ab580503aed4e5ae3c271ccbd04659f4e7734",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S1-2026-PENTA-Monthly-test.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S1",
+      "status": "published",
+      "parts": 33,
+      "limitations": [
+        "Imla 1-5: maneno yatakayosomwa na mwalimu hayajachapishwa kwenye PDF."
+      ],
+      "math_checks": 0,
+      "pages": 14,
+      "pdf_sha256": "e54d957ed9e572dfa42d73c68aaaef03a0a83d884e459633351ff709ac280714",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S1-2026-PENTA-Monthly-test-AnswerKey",
+      "source_sha256": "d654aad14ac3db88290f0e2d5f7215d17f57a99b65394f9c9ae13fd620fd569c",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S2-2022-Iramba-DC-July-Terminal-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S2",
+      "status": "published",
+      "parts": 40,
+      "limitations": [
+        "Kuandika 1-5: mwongozo wa maneno ya imla haujajumuishwa."
+      ],
+      "math_checks": 0,
+      "pages": 13,
+      "pdf_sha256": "4464ed5bf7eed10a38564795c47ccb1f820b8fdec9df3c147ba2767b5a743c93",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S2-2022-Iramba-DC-July-Terminal-exam-AnswerKey",
+      "source_sha256": "5b181d0f72bfb98ec252f2332f4091427d4578b112d21237adaa9a9de21dee38",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S2-2022-MAP-July-Holiday-practice.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S2",
+      "status": "published",
+      "parts": 46,
+      "limitations": [
+        "Swali 42: 150 ni kondoo pamoja na mbuzi/ng’ombe. Idadi ya bata haijatajwa, hivyo jumla ya wanyama wote pamoja na ndege haiwezi kupatikana."
+      ],
+      "math_checks": 0,
+      "pages": 13,
+      "pdf_sha256": "815e7e9f5e2645559e1bde8bfe5eeb5c84bf3bcb41ef7d7e8cbb01f7af4bb136",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S2-2022-MAP-July-Holiday-practice-AnswerKey",
+      "source_sha256": "399caa4d9be5160266dc76539b814b08d26b4d3ca96bec2634aa28ecb542ae64",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S2-2023-Luqman-Primary-School-August-Midterm-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S2",
+      "status": "published",
+      "parts": 99,
+      "limitations": [
+        "PDF ina mkusanyiko wa majaribio na marudio ya maswali katika kurasa 4-10; yote yamejibiwa kwa vitambulisho vya kurasa.",
+        "Imla kurasa 1, 6 na 8 haina karatasi ya sentensi.",
+        "Ukurasa 4 nafasi vi-viii hazina maswali.",
+        "Kurasa 5 na 7: ____a_ji haina muktadha wa kutosha kupata jibu moja.",
+        "Kurasa 5 na 7: orogaf/giafo hazitoshi kwa tahajia sanifu ghorofa/ufagio.",
+        "Swali 2(ii) ukurasa 1 linatumia si mnyama kwa maana ya si mamalia; kunguru kibiolojia ni mnyama."
+      ],
+      "math_checks": 0,
+      "pages": 24,
+      "pdf_sha256": "700953d8a84bde5712aca0a8a24c7251420043c0739f976a9e743a28ac25ba9f",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S2-2023-Luqman-Primary-School-August-Midterm-exam-AnswerKey",
+      "source_sha256": "358d7392d924b535a0eb0b8edb87933bc4855c325b447426b268d4e43cbd2f30",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S2-2023-Mbezi-Bwa-January-Monthly-test.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S2",
+      "status": "published",
+      "parts": 50,
+      "limitations": [
+        "Kuandika 1-5: maandishi ya mwalimu ya imla hayajapatikana."
+      ],
+      "math_checks": 0,
+      "pages": 14,
+      "pdf_sha256": "750bf128d88b5b73fe75a2ec3489528773b0a9478109c4fcd71bdfe57a433ab8",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S2-2023-Mbezi-Bwa-January-Monthly-test-AnswerKey",
+      "source_sha256": "07fc4a9f6a3aa7db95118ea3a3c95106d16397b7156d49d60cb0e35c07147594",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S2-2024-MESP-Tanzania-August-Midterm-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S2",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "Imla 1-5: sentensi za mwalimu hazijajumuishwa."
+      ],
+      "math_checks": 0,
+      "pages": 8,
+      "pdf_sha256": "4e65be3d21e1c42be8fe8391f20f1cfa1bbdc0793abff1e887ea150338209881",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S2-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey",
+      "source_sha256": "7232cafcc1c8517d95808d248063c88826c8865cf0cb4531d967ebb61c9e873d",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S2-2024-MESP-Tanzania-February-Monthly-test.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S2",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "Imla 1-5: maneno ya mwalimu hayajachapishwa."
+      ],
+      "math_checks": 0,
+      "pages": 10,
+      "pdf_sha256": "8989ef20322da685043a332c899503908851058cbed0f804347a16fdfea93538",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S2-2024-MESP-Tanzania-February-Monthly-test-AnswerKey",
+      "source_sha256": "e8d1712cf1ae2e23d1b62cccec86d51b39b9b2f8e812f54b591583b7f7a51fa9",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S2-2024-MESP-Tanzania-November-Annual-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S2",
+      "status": "published",
+      "parts": 50,
+      "limitations": [
+        "Swali 16: jibu sahihi miguu halimo katika machaguo. Kosa limeelezwa badala ya kuchagua jibu lisilolingana."
+      ],
+      "math_checks": 0,
+      "pages": 14,
+      "pdf_sha256": "05c9daf1d87f932bd1d622b5f93e8b4251b8c3997d76019e0b0c36ad21d449ae",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S2-2024-MESP-Tanzania-November-Annual-exam-AnswerKey",
+      "source_sha256": "4f1891bb86ab7d6dec2770bc3685b62beeb452160aa9b2e3dba27850eeaabebe",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S2-2025-Mbeya-region-May-Practice-assessment.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S2",
+      "status": "published",
+      "parts": 11,
+      "limitations": [
+        "2(v): jinsia ya Hamisa haijaelezwa moja kwa moja; jibu linafuata muktadha uliokusudiwa.",
+        "2(x): 5 ni familia ya wazazi na watoto; ikiwa bibi wa Dar es Salaam anajumuishwa katika ukoo uliotajwa, watu ni 6."
+      ],
+      "math_checks": 0,
+      "pages": 5,
+      "pdf_sha256": "e860743217cae94f51318e974fffce2fe4b134589256b77d015c1487fc6b6d56",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S2-2025-Mbeya-region-May-Practice-assessment-AnswerKey",
+      "source_sha256": "b3543a7cdf8cb1806d1fba3af10282f27693bdb1a3b668eaa49cac3d066b0a01",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S2-2026-MESP-Tanzania-March-Midterm-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S2",
+      "status": "published",
+      "parts": 50,
+      "limitations": [
+        "Imla 1-10: sentensi za mwalimu hazijapatikana.",
+        "Swali 34 maneno yaliyotolewa yanasema nyuki anafyonza maua; kwa uhalisi hufyonza nekta kwenye maua.",
+        "Swali 12: ____muni halina machaguo, picha au muktadha; silabi sahihi haiwezi kuthibitishwa."
+      ],
+      "math_checks": 0,
+      "pages": 17,
+      "pdf_sha256": "aa5df4260629571007db630e708ef5e9bde8030f352e20886ba43ca6039bcb3e",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S2-2026-MESP-Tanzania-March-Midterm-exam-AnswerKey",
+      "source_sha256": "8c822f3733070633133c909418e82817e988c146ac4b40ab4ed9fdac51ff5ba2",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S3-2022-MAP-July-Holiday-practice.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S3",
+      "status": "published",
+      "parts": 51,
+      "limitations": [
+        "Imla 1-10: sentensi za mwalimu hazipo.",
+        "Swali 25 lina zaidi ya uunganishi mmoja unaoweza kutoa sentensi yenye maana; kwa ndilo jibu la kauli ya chakula na kitoweo iliyokusudiwa.",
+        "Maswali 41-45 hayabainishi kama juma linaanza Ijumaa, Jumapili au Jumatatu; majibu ya masharti yamewekwa.",
+        "38(b): kitendawili kina majibu tofauti ya kimapokeo; moto/miba na bahari yameelezwa kwa matoleo yake.",
+        "41-45: namba zinawakilisha nafasi za siku tano zilizotolewa; Jumatatu na Jumanne hazimo kwenye orodha."
+      ],
+      "math_checks": 0,
+      "pages": 14,
+      "pdf_sha256": "11f16f60abde4dee4eb0a0bf3e080565813cce818a26b5bc5171c0409ace98ef",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S3-2022-MAP-July-Holiday-practice-AnswerKey",
+      "source_sha256": "6b61f2518c064f49c36acae27e500d1c52427a6e85bf725240fe8a1059ebeef8",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S3-2023-Luqman-Primary-School-August-Midterm-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S3",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "Imla 1(i-v): sentensi za mwalimu hazipo."
+      ],
+      "math_checks": 0,
+      "pages": 8,
+      "pdf_sha256": "df02defc965d22982b5fa8035f5002cff0a2eb272ab2b3540da8a65094c0d40a",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S3-2023-Luqman-Primary-School-August-Midterm-exam-AnswerKey",
+      "source_sha256": "46f421aa43589a6090460a873a292698365695ad162e02c6955e87cbc94fb572",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S3-2024-Arusha-CC-November-Annual-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S3",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "Imla 1(i-v): sentensi za mwalimu hazijajumuishwa."
+      ],
+      "math_checks": 0,
+      "pages": 8,
+      "pdf_sha256": "917941d41ac3213e0449b8326157b3f00e7b57b4221dbc83d0a6044e5ff773b3",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S3-2024-Arusha-CC-November-Annual-exam-AnswerKey",
+      "source_sha256": "e76bb6583aad125669f5a54fd6326bfa4342730e8b81eba46eb8426308a4e180",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S3-2024-MESP-Tanzania-February-Monthly-test.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S3",
+      "status": "published",
+      "parts": 33,
+      "limitations": [
+        "Imla 1-5: sentensi za mwalimu hazipo.",
+        "Swali 8: machaguo hayana kengele ambayo ndiyo kawaida kwa kauli hii; hakuna jibu moja la wazi.",
+        "Swali 27 limeandika sikuu badala ya sikukuu. Idadi ya maneno bado ni 4."
+      ],
+      "math_checks": 0,
+      "pages": 11,
+      "pdf_sha256": "e458335edc6423286aff3201f8d95ae6918091ac46a04136cf7a81206775f40b",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S3-2024-MESP-Tanzania-February-Monthly-test-AnswerKey",
+      "source_sha256": "e267f2550e290d5904234c47a12bdeabf794f9ec1af3fb1a6b2260635e3d4ebe",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S3-2024-Malinyi-DC-Annual-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S3",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "Imla 1(i-v): sentensi za mwalimu hazipo."
+      ],
+      "math_checks": 0,
+      "pages": 8,
+      "pdf_sha256": "74375b20260f6eb8a22fb774d264678d40da7d16f0a68c4e1322a23339824b57",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S3-2024-Malinyi-DC-Annual-exam-AnswerKey",
+      "source_sha256": "e3f587d9451e8c4f3c8328b91b9f07bf69e801604f73f5ae254557e97843f619",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S3-2026-Arusha-region-May-Terminal-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S3",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "Imla 1(i-v): sentensi za mwalimu hazipo."
+      ],
+      "math_checks": 0,
+      "pages": 8,
+      "pdf_sha256": "cf5aa9d75f6f8408d0c394f3a00665416745b11588c1e4c307cdf2d1adba5072",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S3-2026-Arusha-region-May-Terminal-exam-AnswerKey",
+      "source_sha256": "5d6acc488389b7c318ef407af2d37927edbacb4b0abe72c643158f6955ddeb17",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S3-2026-Nyegezi-Primary-School-May-Terminal-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S3",
+      "status": "published",
+      "parts": 30,
+      "limitations": [
+        "Imla 1(i-v): sentensi za mwalimu hazijajumuishwa."
+      ],
+      "math_checks": 0,
+      "pages": 9,
+      "pdf_sha256": "4b2a1c8bb5efcb8ddc96faa8d6631dd1a3c8beb5adf4fe0cddf0e6f16d5e09f9",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S3-2026-Nyegezi-Primary-School-May-Terminal-exam-AnswerKey",
+      "source_sha256": "554033b03c3bb53ebdc1daae7f448b86ef6052d8b7842288ff129f7d77ea6723",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S4-2025-Chunya-DC-March-Practice-assessment.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S4",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "Imla 1(i-v): sentensi za mwalimu hazipo.",
+        "3(v): kula supu katika mchezo haijapewa maana na chanzo; jibu linaweka sharti la matumizi ya kutegea yanayofanana na piga supu. Mchapishaji athibitishe."
+      ],
+      "math_checks": 0,
+      "pages": 8,
+      "pdf_sha256": "1c5f64bc511798d02b2ef9bd12379ccb9efe290d49b96959382bb68b5de82195",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S4-2025-Chunya-DC-March-Practice-assessment-AnswerKey",
+      "source_sha256": "6b661b4f3f15119b29ef8cf5109d52c537880ece677d5ef779386576805e587b",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S4-2025-Dar-es-Salaam-city-July-Mock-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S4",
+      "status": "published",
+      "parts": 30,
+      "limitations": [
+        "Imla 1(i-v): sentensi hazijajumuishwa.",
+        "2(viii): kelele na makelele hutumika katika baadhi ya mifumo tofauti ya matumizi; kelele ndiyo umbo lisilobadilika la ngeli N-N."
+      ],
+      "math_checks": 0,
+      "pages": 9,
+      "pdf_sha256": "a6a9d578c6be54108955e191c49212179dced720cf5869f8fc1e8eb382611262",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S4-2025-Dar-es-Salaam-city-July-Mock-exam-AnswerKey",
+      "source_sha256": "f9e85066d8c91a8473ebd43c71654255fcd9e3265088ae4df36aaef6711ce649",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S4-2025-Dodoma-region-Mock-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S4",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "Imla 1(i-v): sentensi za mwalimu hazipo.",
+        "Swali 4 limeandika Mchemzo; jibu linafuata neno mchezo lililokusudiwa."
+      ],
+      "math_checks": 0,
+      "pages": 8,
+      "pdf_sha256": "df05f24b58684fc93f100d9c09f68831f30714733e9923024b9d402abf603829",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S4-2025-Dodoma-region-Mock-exam-AnswerKey",
+      "source_sha256": "abe3cb394bc106bd129a9b7af092d595d4fcda4c4862cd3ee756ea29aabb0779",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S4-2025-KESS-July-Joint-assessment.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S4",
+      "status": "published",
+      "parts": 30,
+      "limitations": [
+        "Imla 1(i-v): sentensi za mwalimu hazipo.",
+        "Swali 4 linabadilisha jina Lipake kuwa Likale kwenye sentensi ya mwisho; mpangilio unaendelea kumhusu mwanafunzi huyo."
+      ],
+      "math_checks": 0,
+      "pages": 10,
+      "pdf_sha256": "850095a35e0770bd4d5d4ffd97070ae43234ce21efc99dea37dc60c6b6170f4b",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S4-2025-KESS-July-Joint-assessment-AnswerKey",
+      "source_sha256": "43071c02558480fd6b457f12fdc4cc31c9731cabc4a08285dd56b70dcc99a438",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S4-2025-Kibaha-TC-July-Mock-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S4",
+      "status": "published",
+      "parts": 30,
+      "limitations": [],
+      "math_checks": 0,
+      "pages": 9,
+      "pdf_sha256": "c125e15040e4c5f22bffe419127aece214587290662638531b6857ee684b6ca1",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S4-2025-Kibaha-TC-July-Mock-exam-AnswerKey",
+      "source_sha256": "870467fdec456a6cbb1a2e3f61d7e9dd9da4fe55b87fceff41754f182b05317b",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S5-2022-Iramba-DC-July-Terminal-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S5",
+      "status": "published",
+      "parts": 45,
+      "limitations": [
+        "Swali 5 halibainishi kigezo cha tofauti; magharibi ni dira, mchana ni tofauti na nyakati za machweo.",
+        "Swali 7 lina visawe viwili vinavyoweza kufaa: mwisho na kikomo.",
+        "Swali 19: jibu la chanzo D-ijapokuwa halilingani vizuri na sharti; iwapo ndiyo kauli wazi. Maadamu huweza kufaa kwa maana ya kwa kuwa.",
+        "Swali 40 hutumia mapokeo ya kitendawili kuhusu kinyonga; halifundishi ukweli wa kibaiolojia."
+      ],
+      "math_checks": 0,
+      "pages": 12,
+      "pdf_sha256": "0ea285097418e65c563b261670d33c7cebcc020f435b6664c9583e2d6358d71c",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S5-2022-Iramba-DC-July-Terminal-exam-AnswerKey",
+      "source_sha256": "50f18a721a9f02cb6eaa81ebe598f46f54b77a76783c06473782e996ce32c991",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S5-2023-Luqman-Primary-School-August-Midterm-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S5",
+      "status": "published",
+      "parts": 45,
+      "limitations": [
+        "Maswali 1-5 yanategemea habari ya kusikiliza ambayo haijajumuishwa.",
+        "Swali 9 halina chaguo sanifu mkono wa birika kwa ubahili.",
+        "Swali 16 halina kivinimbi, kikembe cha nguruwe.",
+        "Swali 33 lina vipengele vinavyoweza kutumika kwa zaidi ya aina moja ya maandishi; insha ndiyo kawaida."
+      ],
+      "math_checks": 0,
+      "pages": 12,
+      "pdf_sha256": "3071aad9d45589f213cf32567114eb9ce2405137bf921fa239d2f08f707971d7",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S5-2023-Luqman-Primary-School-August-Midterm-exam-AnswerKey",
+      "source_sha256": "ee168671222c71bf45777ceef41df9eeda2dc7293c5d59c1f683eacd80664823",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S5-2024-MESP-Tanzania-April-Monthly-test.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S5",
+      "status": "published",
+      "parts": 30,
+      "limitations": [],
+      "math_checks": 0,
+      "pages": 9,
+      "pdf_sha256": "55a6a62904837452fc1746ed318379dcac8b309a44b6c694036c9e4987ced9e3",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S5-2024-MESP-Tanzania-April-Monthly-test-AnswerKey",
+      "source_sha256": "103978230ef122abdbb9d5ffd7294e42516b7231e8cb8fe4736d060b13af980a",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S5-2024-MESP-Tanzania-August-Midterm-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S5",
+      "status": "published",
+      "parts": 34,
+      "limitations": [
+        "Swali 1(i-v): habari ya mwalimu haijajumuishwa.",
+        "2(iv): injua na epua zote huonyesha kuondoa chombo motoni; chanzo kimeweka zote katika machaguo.",
+        "5(iv-v): aya ya kondoo ina hitilafu na haitaji chakula kikuu wala anaishi na nani. Majibu ya maarifa ya jumla yamewekewa lebo wazi."
+      ],
+      "math_checks": 0,
+      "pages": 11,
+      "pdf_sha256": "02bcc7a01b1b167460a9f7520d07a0eaf7f71d5a8392491959a92219f4a41d0b",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S5-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey",
+      "source_sha256": "b52b1aca679fece5c846918b68eb95c8466c7a176a506ee868977da69f325951",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S5-2024-MESP-Tanzania-May-Midterm-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S5",
+      "status": "published",
+      "parts": 35,
+      "limitations": [],
+      "math_checks": 0,
+      "pages": 10,
+      "pdf_sha256": "871fa58572d6ca619aca5f83c4cd7b7b59172f222e2d8c5891dd46fc6d3c3987",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S5-2024-MESP-Tanzania-May-Midterm-exam-AnswerKey",
+      "source_sha256": "9d14853b88600924d09e672d7887fb65ac3c843febfc8ae2883d65a39e6239a6",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S5-2024-MESP-Tanzania-November-Annual-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S5",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "Swali 4(i) limeandika alitoka sokoni kununua, kauli yenye hitilafu; mpangilio unaifuata safari/kurudi kwake.",
+        "Shairi lina tahajia wasoithamni; mpangilio wa mizani uliokusudiwa unahitaji wasoithamani."
+      ],
+      "math_checks": 0,
+      "pages": 10,
+      "pdf_sha256": "6b6fece151b85832ddad999f448219720b7ccbd3e7d2e1fe795cf1769fa38411",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S5-2024-MESP-Tanzania-November-Annual-exam-AnswerKey",
+      "source_sha256": "e58330f42a486995f33ab268e9521755ba7d40b93fd0c23c29079587c7be684c",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S5-2024-Sunland-Primary-School-May-Midterm-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S5",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "1(iii-v) hutegemea hadithi ya kufikirika yenye maumbile yaliyobadilishwa; majibu haya si maelezo halisi ya jongoo/nyoka.",
+        "3(i): karanga ni jamii ya mikunde, si nafaka. Kundi sahihi linalojumuisha vyote ni vyakula.",
+        "3(iii): matunda halimo kwenye machaguo, hivyo vyakula ndiyo pana inayofaa; B imerudiwa kwa usahihi."
+      ],
+      "math_checks": 0,
+      "pages": 11,
+      "pdf_sha256": "9d64850a010e1b6c5a2c6ab4a3dc8d5faaa492ac5ebdab317bd43c07f794ff3e",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S5-2024-Sunland-Primary-School-May-Midterm-exam-AnswerKey",
+      "source_sha256": "6779305009d4c280afb340b209cbd939b9a0eafae13c4f81692294d9d8c5b343",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S5-2024-VOPSO-April-Practice-assessment.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S5",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "1(i,iv,v): habari ya mwalimu haimo PDF. Majibu yamewekewa sharti la kutumia habari inayolingana katika MESP Aprili 2024 ukurasa 4; haya si uthibitisho wa script tofauti ya VOPSO."
+      ],
+      "math_checks": 0,
+      "pages": 11,
+      "pdf_sha256": "d15ce418b3bfb245945f1efb423723d78eb383420c50890d7a5abd453eb8303f",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S5-2024-VOPSO-April-Practice-assessment-AnswerKey",
+      "source_sha256": "6e1427635a5bf149b62406a4c1f5a41a7a14bef3718e1763ae77fc2af9b2d8f5",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S5-2026-Arusha-region-May-Terminal-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S5",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "1(i,iv,v): script ya mwalimu haimo. Majibu ya masharti hutumia habari inayolingana katika MESP Aprili 2024, ukurasa 4.",
+        "2(vi): kauli inahitaji baada ya; ya haijachapishwa.",
+        "2(viii): chaguo za, ambalo linapatana na lugha mbili, halipo."
+      ],
+      "math_checks": 0,
+      "pages": 11,
+      "pdf_sha256": "bbfd7ae23e999a88a41498181d13dc3074a0eba86cdba12e6436979c2d2de366",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S5-2026-Arusha-region-May-Terminal-exam-AnswerKey",
+      "source_sha256": "133073bef411be0e15c6944d33c6eddb9db7c7b15e01605b7cc002b4dcb1d37f",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S6-2024-MESP-Tanzania-August-Midterm-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S6",
+      "status": "published",
+      "parts": 31,
+      "limitations": [
+        "1(1-5): habari ya kusikiliza haimo; majibu ya wasifu wa Nyerere ni ya masharti, ya kuthibitishwa na msimamizi.",
+        "2(7): shurutia ni uainishaji wa masharti, changamano ni uainishaji wa muundo; yote yanafafanua sentensi katika mitazamo tofauti.",
+        "3(5): hakuna chaguo la maana ya konde.",
+        "4(5): tulimtazama ka muda mrefu ni kauli yenye hitilafu; mpangilio unafuata muktadha wa kumsubiri/kumtafuta.",
+        "5: kifungu kina taarifa za majina/jiografia zinazoshukiwa; majibu ni ufahamu wa kifungu, si uthibitisho wa tukio halisi."
+      ],
+      "math_checks": 0,
+      "pages": 11,
+      "pdf_sha256": "ff388552b7256487781bba354d4ae5bf665a67ba15e30a0dda0b1c093cb903af",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S6-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey",
+      "source_sha256": "842b991ebc50fc0e02dc05afb6b6b102c3260513e91a43577148bbc2d7cc0371",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S6-2024-MESP-Tanzania-May-Midterm-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S6",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "1(2): habari inatumia sherehe na karamu; A na B zina ushahidi.",
+        "3(2): kitendo pia nomino hakina chaguo sahihi wazi.",
+        "3(3): E inaelekea kukusudiwa lakini haijaunda kauli taarifa sanifu.",
+        "Chanzo kinaita swali la mwisho 7 na hakina swali 6; namba iliyochapishwa imehifadhiwa."
+      ],
+      "math_checks": 0,
+      "pages": 11,
+      "pdf_sha256": "5d078a175c1aa157f300f1bad3c617b7795502b0585dc789e208d4105294133b",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S6-2024-MESP-Tanzania-May-Midterm-exam-AnswerKey",
+      "source_sha256": "566c0eed921eae06cb640c85bf01b649a356eb6a3416dc900fb7a2820d3c5e6a",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S6-2024-MESP-Tanzania-November-Annual-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S6",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "2(7): A na D zinakubalika; D hutaja mazoea wazi.",
+        "2(8): kutendwa limechapishwa katika B na C."
+      ],
+      "math_checks": 0,
+      "pages": 11,
+      "pdf_sha256": "982f828fc0469d8a88cf40ccfef8eb208604a3abfb8acb6409ef865c4637ef2a",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S6-2024-MESP-Tanzania-November-Annual-exam-AnswerKey",
+      "source_sha256": "cf1fa1e0f6161123fa5dba497ff07fceb07d69de9fbf722b0313283ee08c69e5",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S6-2024-SAP-September-Practice-assessment.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S6",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "1(1-5): habari ya kusikiliza haimo; 1(1-2) zina mwongozo wa maana za machaguo lakini script ndiyo ithibitishe alama.",
+        "2(5): hakuna chaguo sahihi la kigeugeu.",
+        "2(8): chanzo kimechapisha x badala ya viii na kimerudia angevitunza katika A na D; ID 2(8) huitofautisha na 2(10).",
+        "5 imeita habari shairi kimakosa; ni kifungu cha nathari. 5(2) haitoi sababu ya jina la kiongozi.",
+        "6(1,3-5): tangazo lina maneno yaliyokosekana, lugha isiyokamilika, na Ijumaa isiyolingana na tarehe ya Jumatatu 08/07/2024."
+      ],
+      "math_checks": 0,
+      "pages": 11,
+      "pdf_sha256": "0fbae28bf0f1129b95c434c298a392e5633273359bb0f376649cef0ed601cb2e",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S6-2024-SAP-September-Practice-assessment-AnswerKey",
+      "source_sha256": "634783c509a41f218db3f7d617e76fd0a550282dffcd0a1fd8f814ad2b59ab44",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S6-2024-Top-Abilities-Joint-assessment.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S6",
+      "status": "published",
+      "parts": 32,
+      "limitations": [
+        "1(3,5): script ya kusikiliza haimo; 1(4) ina mwongozo wa msamiati lakini kiwango cha hatari hakijathibitishwa na habari.",
+        "3(1): Bakari pia ni jina la mtu; katika zoezi la vikembe bakari=ng’ombe, hivyo Ndama, lakini Mtoto ikitafsiriwa kama jina la binadamu inakubalika.",
+        "4: baadhi ya vinyume ni kauli za kawaida zinazokinzana; hakuna nahau moja ya lazima kwa kila maana.",
+        "6: siku mbili na tarehe 20/11 na 25/11 zina mgongano ikiwa zilikuwa zimekusudiwa kuwa siku mfululizo; mfano umetumia siku mbili tofauti.",
+        "Jalada linasema vipengele 35, lakini kurasa za maswali zina vipengele 31 vya kujibiwa pamoja na mfano mmoja uliochapishwa wa 4(i); vyote 32 vimefunikwa."
+      ],
+      "math_checks": 0,
+      "pages": 11,
+      "pdf_sha256": "3eba93f3fb7e710264b3903916a05ff795de2596a6b32e51addab86cb8a90092",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S6-2024-Top-Abilities-Joint-assessment-AnswerKey",
+      "source_sha256": "a2086aba2d90ae9cf4578ff61a60876f32f80bdef7a5cc0d412f29f48116c17b",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S6-2024-VOPSO-April-Practice-assessment.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S6",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "6: nafasi tano hazina namba kwenye chanzo; zimepewa 6(1)-6(5) kutoka juu kwenda chini. Tarehe na jina ni mifano.",
+        "1(1-5): script haimo VOPSO. Maswali yote matano yanalingana na MESP Darasa la Tano Mei 2024, ukurasa 4; majibu yamepewa sharti la script hiyo kuwa ndiyo iliyosomwa."
+      ],
+      "math_checks": 0,
+      "pages": 12,
+      "pdf_sha256": "950ccf45b9f243cb2fecacfaa246dcd7702a91d8d2526c904439a70f5033bcb5",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S6-2024-VOPSO-April-Practice-assessment-AnswerKey",
+      "source_sha256": "1f89b2b0381facf2868d40923e0033683387e3226ca106580584fb247ed488a4",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S6-2025-Citizen-Primary-School-Practice-assessment.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S6",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "2(1): machaguo yanachanganya kauli halisi/taarifa na aina za muundo; C halisi kwa usemi wa moja kwa moja, A rahisi kwa muundo.",
+        "2(9): chaguo sahihi ndimi halimo.",
+        "2(10): wimbo ndiyo nomino mahsusi; kuimba pia huweza kuwa nomino ya kitendo.",
+        "6(5): nafasi inaweza kuchukuliwa hitimisho au sahihi; K. Makundi inaendana na jina/cheo vinavyofuata.",
+        "6: kikao kimeandikwa Jumatatu 17/11/2024, lakini tarehe hiyo ilikuwa Jumapili; hitilafu ya chanzo, si ya majibu."
+      ],
+      "math_checks": 0,
+      "pages": 11,
+      "pdf_sha256": "48ce5cae363b9dbf9e8358f02305e3ac847360b65dae431e43be8499b00d7c1d",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S6-2025-Citizen-Primary-School-Practice-assessment-AnswerKey",
+      "source_sha256": "735739b15d27e7cdbd81220e086884fe6498c2b1910e17f229bce69c129211dd",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S6-2025-PENTA-August-Midterm-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S6",
+      "status": "published",
+      "parts": 35,
+      "limitations": [
+        "1(3): kifungu kimeita anemia kwa jumla ugonjwa wa kurithi; jibu E ni la ufahamu wa kifungu. Baadhi ya anemia hurithiwa na nyingine husababishwa na lishe, damu kupungua au magonjwa mengine.",
+        "2(2): Sarahangi imechapishwa badala ya sarhangi.",
+        "2(9): chaguo B linapanua methali; umbo sanifu limetolewa."
+      ],
+      "math_checks": 0,
+      "pages": 11,
+      "pdf_sha256": "e62806ef27f9297664ab5719566489ce35cdfd90077f65ea004dd7003308b91f",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S6-2025-PENTA-August-Midterm-exam-AnswerKey",
+      "source_sha256": "3c92f8132f16926d86bfeaf4d367ffebd3e9b918021c7e5ad5a4179666e6a4fe",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Kiswahili-S6-2026-Arusha-region-May-Terminal-exam.pdf": {
+      "subject": "Kiswahili",
+      "grade": "S6",
+      "status": "published",
+      "parts": 31,
+      "limitations": [
+        "1(1,3-5): habari ya kusikiliza haimo PDF; 1(2) linaweza kujibiwa kwa maana ya neno pekee.",
+        "3(1): awali ni chaguo lililo karibu; mwanzo/asili ni visawe mahsusi zaidi vya chanzo.",
+        "5(5): maneno ya nafsi ya kwanza yanaonyesha msemaji aliyesikitika. Hamisi ametajwa bila ushahidi kuwa ndiye msemaji; jina lake lisibuniwe kama jibu pekee."
+      ],
+      "math_checks": 0,
+      "pages": 10,
+      "pdf_sha256": "3f142cfeacc34cd210f74f11b1708dff967f8f5619205c710fd54921c17513c2",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Kiswahili-S6-2026-Arusha-region-May-Terminal-exam-AnswerKey",
+      "source_sha256": "5c24582a37270c3800a7b9d85d6175eadfa06310a6a2d24ae44393ba060627a0",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S1-2022-Iramba-DC-July-Terminal-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S1",
+      "status": "published",
+      "parts": 122,
+      "limitations": [
+        "Kuandika 1-5: karatasi haina maneno au sentensi za mwalimu za imla. Mwongozo umetolewa bila kubuni majibu."
+      ],
+      "math_checks": 28,
+      "pages": 31,
+      "pdf_sha256": "76260f7cc89a7d534f86a667fc7c3b3fa581e50e246d812a7f75f27eba4908dd",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S1-2022-Iramba-DC-July-Terminal-exam-AnswerKey",
+      "source_sha256": "1870b3c09437cc95cd9697137c9670cad55ce783e4f44bcec4bd92c9c3832562",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S1-2022-MAP-July-Holiday-practice.pdf": {
+      "subject": "Mathematics",
+      "grade": "S1",
+      "status": "published",
+      "parts": 50,
+      "limitations": [
+        "Question 34 has three blank stars between 90 and 95, although four intervening integers are needed; the correction is stated."
+      ],
+      "math_checks": 9,
+      "pages": 14,
+      "pdf_sha256": "18f97f76c73e57ce0a23789d01f1f5195e0d8f542858ed8b418cc4aa66bef748",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S1-2022-MAP-July-Holiday-practice-AnswerKey",
+      "source_sha256": "227297dc0e634e022589048929d10f0e81fca782e053d6322fd4b46b10f4808b",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S1-2022-Utu-Live-Primary-School-July-Terminal-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S1",
+      "status": "published",
+      "parts": 22,
+      "limitations": [],
+      "math_checks": 8,
+      "pages": 6,
+      "pdf_sha256": "df83e1dc60edb497a3edf90832d1f8c2b728b6b37cb3b76ea544ee4353661b8f",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S1-2022-Utu-Live-Primary-School-July-Terminal-exam-AnswerKey",
+      "source_sha256": "6e2620a7d84974b5b7edbea4b07670e592697fce11f427a4ee4fe25c79ebefae",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S1-2023-SHONZA-July-Practice-assessment.pdf": {
+      "subject": "Mathematics",
+      "grade": "S1",
+      "status": "published",
+      "parts": 35,
+      "limitations": [],
+      "math_checks": 6,
+      "pages": 9,
+      "pdf_sha256": "6441f46945dcbc8b678e1115336711f8cc79319e9eaefbbb6c3983b07e7bd07c",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S1-2023-SHONZA-July-Practice-assessment-AnswerKey",
+      "source_sha256": "38ff132fa1775fabb50820d1289f9a1775f42d8419cc0f187033c53dda2a0975",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S1-2024-MESP-Tanzania-August-Midterm-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S1",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "Question 2 has one surplus blank before the printed final 32; the intended consecutive sequence and correction are stated."
+      ],
+      "math_checks": 10,
+      "pages": 7,
+      "pdf_sha256": "d0fc3d006209d0225e24219d5d77a13f856e85046b5616a8fde5b2209e05e9e8",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S1-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey",
+      "source_sha256": "9629afde52f359d03505cffde53b411f2428a84f9ea3385f380e9e2308979df1",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S1-2024-MESP-Tanzania-March-Midterm-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S1",
+      "status": "published",
+      "parts": 25,
+      "limitations": [],
+      "math_checks": 4,
+      "pages": 7,
+      "pdf_sha256": "db53fe56e31e1ea3ce35f254e3b5b100c0786e4a0dc1c5ff7556bb731bd4779d",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S1-2024-MESP-Tanzania-March-Midterm-exam-AnswerKey",
+      "source_sha256": "d7af3c2ff4f5812138f6a3cfb7417c2d6535db0c85a9ac2563d7baf0d85e6a8e",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S1-2024-MESP-Tanzania-May-Terminal-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S1",
+      "status": "published",
+      "parts": 25,
+      "limitations": [],
+      "math_checks": 6,
+      "pages": 7,
+      "pdf_sha256": "2e9b5e0086e97b5445dcf3a6df5bcf739d0ec45b5dfe9583bedc9d0605c9e59f",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S1-2024-MESP-Tanzania-May-Terminal-exam-AnswerKey",
+      "source_sha256": "df7950801014b146e8f091af99495fc3f973b2baf29da361b5587b3b75089a52",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S1-2024-MESP-Tanzania-November-Annual-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S1",
+      "status": "published",
+      "parts": 50,
+      "limitations": [
+        "The source labels two different questions 14 and has no printed 15; both are covered by distinct ids.",
+        "Question 39 visibly omits its operation, and 41 visibly omits its equality/result; conditional answers are explained from the embedded text without pretending the visible source is complete."
+      ],
+      "math_checks": 10,
+      "pages": 12,
+      "pdf_sha256": "ee0ad0d2c58504c18528293ee1c126377d51d581406b61cd250630f2ad9faae6",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S1-2024-MESP-Tanzania-November-Annual-exam-AnswerKey",
+      "source_sha256": "abda774f97e60e5d5284700d11b0f5ed64fbf588dae1e1e5ee175df5a928dd28",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S1-2026-MESP-Tanzania-March-Midterm-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S1",
+      "status": "published",
+      "parts": 33,
+      "limitations": [],
+      "math_checks": 4,
+      "pages": 8,
+      "pdf_sha256": "5c82710c089f611f94b45e758aa64991cf6d1ebafe9399b323c424935a10c8eb",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S1-2026-MESP-Tanzania-March-Midterm-exam-AnswerKey",
+      "source_sha256": "25931a0e64332bc6c6944d708ff72c7c1ca111c84b3e4a2f7dad3b802de34d2e",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S2-2022-Iramba-DC-July-Terminal-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S2",
+      "status": "published",
+      "parts": 120,
+      "limitations": [
+        "Kuandika 1-5: mwongozo wa maneno ya imla haujajumuishwa."
+      ],
+      "math_checks": 16,
+      "pages": 30,
+      "pdf_sha256": "a92f4374df45f65e510290186ed2066f10db4580c7779d0d3285585ade28c4c9",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S2-2022-Iramba-DC-July-Terminal-exam-AnswerKey",
+      "source_sha256": "ba4e993a9647e852661810ecf0f4ecf589377fc4b0a28a0d6bf314283ce14d18",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S2-2022-MAP-July-Holiday-practice.pdf": {
+      "subject": "Mathematics",
+      "grade": "S2",
+      "status": "published",
+      "parts": 52,
+      "limitations": [
+        "Q 7 row endings rise by 4 but each row has 5 cells. Row-wise consecutive fills are supplied; a single consecutive whole-grid interpretation is impossible."
+      ],
+      "math_checks": 15,
+      "pages": 13,
+      "pdf_sha256": "d150ae075fa61c8b351c3e4ef1372797e55f8f5780b957bd543fd074c3b1af42",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S2-2022-MAP-July-Holiday-practice-AnswerKey",
+      "source_sha256": "d79ac3df3f69167af270e5a36f4a5449c7c2415a3082e570b224de42e12d55d0",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S2-2023-Luqman-Primary-School-August-Midterm-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S2",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "Q 2(i) calls multi-digit numbers digits; both literal-digit and intended-greatest-number interpretations are explained.",
+        "Q 4 has two different parts printed i; distinct ids preserve both."
+      ],
+      "math_checks": 0,
+      "pages": 7,
+      "pdf_sha256": "fb5ddf4fb1bd9a8841d33f61e8ee7c7791f689c179d7afe0ed0b41605aa1eb53",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S2-2023-Luqman-Primary-School-August-Midterm-exam-AnswerKey",
+      "source_sha256": "cb6a64aa6a9c66eb9d38781d55536116ba4110c85381b09920ad49f4db47046c",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S2-2023-Mbezi-Bwa-January-Monthly-test.pdf": {
+      "subject": "Mathematics",
+      "grade": "S2",
+      "status": "published",
+      "parts": 25,
+      "limitations": [],
+      "math_checks": 10,
+      "pages": 7,
+      "pdf_sha256": "9cd9c95165e1eabdee3d5951c932751ef45c7a7df18fe3af218d26ca94723f12",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S2-2023-Mbezi-Bwa-January-Monthly-test-AnswerKey",
+      "source_sha256": "cf3b675561fb4aae0c9ebc9d6919916939b4f5b63c2f9439c28ca645454d156f",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S2-2024-MESP-Tanzania-August-Midterm-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S2",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "Q 13 omits an operation sign between 7 and 800; the intended place-value addition is clearly marked conditional."
+      ],
+      "math_checks": 6,
+      "pages": 7,
+      "pdf_sha256": "08c73e4136ccabb13e316469d70933298991fee4a6bfac6cf19052aeb3f88660",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S2-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey",
+      "source_sha256": "27738ada16983cd9cf650f2c244275d3e4c5c613d4cc7ee7df2e9dbe99b96e05",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S2-2024-MESP-Tanzania-November-Annual-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S2",
+      "status": "published",
+      "parts": 50,
+      "limitations": [
+        "Q 45 lacks enough properties to identify a unique quadrilateral; rectangle is the intended primary-school answer and the ambiguity is stated."
+      ],
+      "math_checks": 10,
+      "pages": 12,
+      "pdf_sha256": "dbf108e3015f31036475349ba820e9b7b8c7d921ff7c2b704f4cbb3e3b4ca3f1",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S2-2024-MESP-Tanzania-November-Annual-exam-AnswerKey",
+      "source_sha256": "ec1e7d7a4081e8a9f0a4513523261cc5af9a729215ebfd004389bcb01f3d83a6",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S2-2025-Mbeya-region-February-Practice-assessment.pdf": {
+      "subject": "Mathematics",
+      "grade": "S2",
+      "status": "published",
+      "parts": 16,
+      "limitations": [],
+      "math_checks": 60,
+      "pages": 6,
+      "pdf_sha256": "39c40b792e300147e672ae87c5f5a6fa4fcd798c4de6e0d6330e0618be9818fd",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S2-2025-Mbeya-region-February-Practice-assessment-AnswerKey",
+      "source_sha256": "191d18c956fb836a4c239c010dd7c1f67184435ad2025e53f07e0fc3dddbaab4",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S2-2025-Mbeya-region-May-Practice-assessment.pdf": {
+      "subject": "Mathematics",
+      "grade": "S2",
+      "status": "published",
+      "parts": 16,
+      "limitations": [],
+      "math_checks": 56,
+      "pages": 6,
+      "pdf_sha256": "887ebb9e6413384afccf77397c75201f4d32cdbf0b13358a00cc7d027de791a5",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S2-2025-Mbeya-region-May-Practice-assessment-AnswerKey",
+      "source_sha256": "17bb01dcdcbf82783e4deac223b74d82e80a1d323a1bcbef5214cf135d7cf375",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S2-2026-MESP-Tanzania-March-Midterm-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S2",
+      "status": "published",
+      "parts": 50,
+      "limitations": [
+        "Q 40 repeats tens; its literal answer is 550. If the first term was intended as 8 ones, the answer would be 478, but that is not what is printed."
+      ],
+      "math_checks": 80,
+      "pages": 12,
+      "pdf_sha256": "a5178bd85845a24e38f0a19dab10fe10289723070cce1733028273f0eff872f5",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S2-2026-MESP-Tanzania-March-Midterm-exam-AnswerKey",
+      "source_sha256": "ac64e92a8e7bb9dca7e5e5ce82e46721c973c1f296b3588474e1141fb68e27c2",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S3-2022-Iramba-DC-July-Terminal-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S3",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "The publisher labels 3:00 a.m.; the pictured clock has no morning/evening information.",
+        "The hand-drawn shaded triangle is intended to have three equal regions."
+      ],
+      "math_checks": 43,
+      "pages": 7,
+      "pdf_sha256": "007f7f0689f2d909036e346bed8bc1d028c9f1ad9677d132b7189e351a0de7c9",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S3-2022-Iramba-DC-July-Terminal-exam-AnswerKey",
+      "source_sha256": "fc4128b93fb47e8401e5348b881dbfe7a0be05c29f53035d1cb60e3a31705e2a",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S3-2022-MAP-July-Holiday-practice.pdf": {
+      "subject": "Mathematics",
+      "grade": "S3",
+      "status": "published",
+      "parts": 51,
+      "limitations": [
+        "Q 32 has no solution as printed: 3984 plus any 5 X 45 is at least 9029, exceeding 8529.",
+        "Q 42 supplies six numbers for five circles. The shown solution leaves 5 unused; using all six exactly once is impossible.",
+        "Q 39 can mean three segments determined by labelled points or two adjacent pieces; both interpretations are stated."
+      ],
+      "math_checks": 55,
+      "pages": 12,
+      "pdf_sha256": "da680bebda2bb065dd10239a2e45ed5b21e9e0d3f9547d7908a7e03afb0eb27a",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S3-2022-MAP-July-Holiday-practice-AnswerKey",
+      "source_sha256": "e39bc8d87815781e8b2b5515ef1346df7ac98f2db839dd9eba75fa223acfd8a2",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S3-2024-Arusha-CC-November-Annual-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S3",
+      "status": "published",
+      "parts": 26,
+      "limitations": [],
+      "math_checks": 28,
+      "pages": 8,
+      "pdf_sha256": "93a039a12331508e8139782b27ab8dbba4f80ede3a30da072077b0c1db9ef29e",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S3-2024-Arusha-CC-November-Annual-exam-AnswerKey",
+      "source_sha256": "f7dcadaf67c2ff648f30f6ab9e2678df83d7ba53c5ef88d1eb053d6897eebad8",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S3-2024-Malinyi-DC-November-Annual-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S3",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "Kalenda iliyochapishwa ni ya 2019, ingawa mtihani ni 2024.",
+        "4(iv) hutofautisha vipande 3 kwa alama zote na vipande 2 vinavyopakana.",
+        "Mwezi si daima wiki 4 kamili."
+      ],
+      "math_checks": 15,
+      "pages": 7,
+      "pdf_sha256": "c9d7a64c0b76a0e4a7a5cc556802180963683d04e82bd88e77ceeb1c352373e9",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S3-2024-Malinyi-DC-November-Annual-exam-AnswerKey",
+      "source_sha256": "704d37167819cd7d078270acbdf6b749ef35355c96dcb3716cfb0fde748eef62",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S3-2025-Darasa-Huru-Annual-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S3",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "2(ii) hakuna mstari unaoweza kutambulika katika chanzo; kila thamani inayowezekana imeelezwa.",
+        "5(iv) pande sawa pekee hazitofautishi mraba na rombasi.",
+        "5(v) tarakimu 7:00 na maneno saa saba yanahitaji kutofautisha mfumo wa kimataifa na wa Kiswahili."
+      ],
+      "math_checks": 34,
+      "pages": 7,
+      "pdf_sha256": "11642a58e2d5c3079afa55d27dce37d43168821bcdaebd8761e68b3a89e0ea73",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S3-2025-Darasa-Huru-Annual-exam-AnswerKey",
+      "source_sha256": "f263f0d3464c6ab44c7a355bfefb4711f56d147fc2d1777b565bd3d0f62f07ee",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S3-2025-Nsunga-Primary-School-November-Annual-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S3",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "2(v) na 3(iii) hazina namba zao kwenye chanzo; zimepewa vitambulisho ili kuhifadhi kila sehemu.",
+        "5(i) imefasiriwa kama aina za vipimio (sanifu na visivyo sanifu), si idadi ya vipimo tofauti."
+      ],
+      "math_checks": 36,
+      "pages": 7,
+      "pdf_sha256": "bda550ac938e8bbf80a343a77e20ab4487f255eabeff87e8a3b5dc01b0979a3a",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S3-2025-Nsunga-Primary-School-November-Annual-exam-AnswerKey",
+      "source_sha256": "0eed47fad3496ad7eb2a93df2372568ff28ccd29b787c59dd648121abd4cadbc",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S3-2026-Arusha-region-May-Terminal-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S3",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "Chanzo kinaweka 5(a),5(b) kabla ya namba 5; vimehifadhiwa chini ya 5 kufuata mada ya vipimo."
+      ],
+      "math_checks": 37,
+      "pages": 7,
+      "pdf_sha256": "c9c16a3f80a19d777471dc8d894738ef57fcab8372a3943f6ebd14682b37ae72",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S3-2026-Arusha-region-May-Terminal-exam-AnswerKey",
+      "source_sha256": "51331d631de8e3fce64de1142e1cc057e24c3194d0f29cc21e1334947c199e2e",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S3-2026-Nyegezi-Primary-School-May-Terminal-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S3",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "6(iv) lebo zote zinasema Mamia. Jibu la lebo halisi 1000 na la abakasi ya kawaida 532 yameelezwa."
+      ],
+      "math_checks": 29,
+      "pages": 7,
+      "pdf_sha256": "1dd516c16879520d6bb1688f984856c21c620d7aee5d7f4a5d1c04a4901e7f27",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S3-2026-Nyegezi-Primary-School-May-Terminal-exam-AnswerKey",
+      "source_sha256": "583045ff089a49a3fb102ad39fcc9dd18bac1adb162304d02d718996b8cbc553",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S4-2025-Bariadi-DC-July-Pre-mock-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S4",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "Bariadi source issuer is Town Council (UMEKTA), although the catalogue filename identifies DC.",
+        "5(ii) confuses mass with volume and supplies no densities.",
+        "6(i) the drawn right triangle is inconsistent with the printed side lengths."
+      ],
+      "math_checks": 35,
+      "pages": 7,
+      "pdf_sha256": "bbd7246831f2e550807b54c6b2bf7083db5b3ef976a3264996199973eb3879ea",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S4-2025-Bariadi-DC-July-Pre-mock-exam-AnswerKey",
+      "source_sha256": "dca93cb638f8cf117b94fb1e337a34c251d223315c3e3711e69c538eb34d99d5",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S4-2025-Chunya-DC-March-Practice-assessment.pdf": {
+      "subject": "Mathematics",
+      "grade": "S4",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "5(iv) hutaja vipande vyote 3 na vipande vinavyopakana 2 kwa sababu ya utata wa swali."
+      ],
+      "math_checks": 45,
+      "pages": 8,
+      "pdf_sha256": "242273a17f313211378feff276aa09fb293ebbc165e41fcdb0ab1a2842f4fa20",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S4-2025-Chunya-DC-March-Practice-assessment-AnswerKey",
+      "source_sha256": "241762ed6798e0034825f58517601fc8c8c8afad317f96d2aafd9adbde1af0ec",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S4-2025-Dar-es-Salaam-city-July-Mock-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S4",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "The first two abacus rods both say TH; intended and literal interpretations are stated.",
+        "5(i) Dm is interpreted as decimetres (dm), consistent with the adjacent cm and mm columns."
+      ],
+      "math_checks": 59,
+      "pages": 8,
+      "pdf_sha256": "9daabf41d9685e0a141c35357478acabf392a2fdf99b7bda38684ff8f1233111",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S4-2025-Dar-es-Salaam-city-July-Mock-exam-AnswerKey",
+      "source_sha256": "cd201b0e2192cf045228c835ec08915c501d570226457653eda8ffcd951193ad",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S4-2025-Dodoma-region-January-Mock-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S4",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "Cover mentions seven questions/sections A-C, but the complete printed paper contains only questions 1-5; all 25 printed parts are solved."
+      ],
+      "math_checks": 61,
+      "pages": 8,
+      "pdf_sha256": "83d3d399d72ac34dde624336234ca3b49324e4ee4ab9b3f28b6ac06bebbc41a4",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S4-2025-Dodoma-region-January-Mock-exam-AnswerKey",
+      "source_sha256": "e6044dc10ed630875bfc0d4d4799b4cd91822e619be96a0ffba83c3d3a0aba1d",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S4-2025-KESS-July-Joint-assessment.pdf": {
+      "subject": "Mathematics",
+      "grade": "S4",
+      "status": "published",
+      "parts": 25,
+      "limitations": [
+        "1(b) asks for hundreds in 3570:complete hundreds 35, decimal hundreds 35.7, and hundreds digit 5 are distinguished.",
+        "4(a) second duration omits the word hour; it is interpreted as 1 hour 30 minutes."
+      ],
+      "math_checks": 43,
+      "pages": 7,
+      "pdf_sha256": "679558e1aab1145a93bc56aa67eb8557a1f164921ca91cd1b3bc498648d7d127",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S4-2025-KESS-July-Joint-assessment-AnswerKey",
+      "source_sha256": "ba6b39b1d8ad4108ce33eae6ff41aa82507427dbc01d667c09a54f28c186d3c9",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S4-2025-Kibaha-TC-July-Mock-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S4",
+      "status": "published",
+      "parts": 25,
+      "limitations": [],
+      "math_checks": 43,
+      "pages": 7,
+      "pdf_sha256": "dba20b08d05fa9314f15cc100e4c0db0615861b71d2b227c0c368fe79c959947",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S4-2025-Kibaha-TC-July-Mock-exam-AnswerKey",
+      "source_sha256": "8d17db23d73f39689842d619e4155dd9956ab284ece33105ee8630cc340d82d1",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S5-2022-Iramba-DC-July-Terminal-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S5",
+      "status": "published",
+      "parts": 90,
+      "limitations": [
+        "Both 45-question language versions are solved separately because 4,17,30 differ.",
+        "Publisher key is wrong for 14 (40117),21 (526035),28 (XLVIII), and Swahili 4 and 17.",
+        "English 30 has no digit solution; Swahili 30 omits the result.",
+        "English 40 misplaces the 14 cm label; the matching Swahili diagram makes the total width 14 cm explicit."
+      ],
+      "math_checks": 180,
+      "pages": 20,
+      "pdf_sha256": "ef9c1fd419d4378554c5394c349ce0dae9a22d528c1ba804c365cdf181d45ad6",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S5-2022-Iramba-DC-July-Terminal-exam-AnswerKey",
+      "source_sha256": "7dc354d66624a539407ebdf9e07fe4012e9835d1b758c2884b88f882010b6d44",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S5-2023-Brainmaster-Tanzania-July-Monthly-test.pdf": {
+      "subject": "Mathematics",
+      "grade": "S5",
+      "status": "published",
+      "parts": 47,
+      "limitations": [
+        "Q 5 one side 20 m differs from two 20 cm sides and violates the triangle inequality; intended equilateral form is conditional.",
+        "Q 11 between is treated strictly; inclusive endpoint 12 is mentioned.",
+        "Q 44 does not name the shape;90 cm requires a rectangle.",
+        "Q 45 does not say greatest; all common divisors and GCF are given."
+      ],
+      "math_checks": 90,
+      "pages": 12,
+      "pdf_sha256": "d5ce36a67eabeaf53f876a8d8856abffd239f10076191ca9f9ada3d30a5165d5",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S5-2023-Brainmaster-Tanzania-July-Monthly-test-AnswerKey",
+      "source_sha256": "26af4939d88a4024769f472cf2b0be2c8da9faf701824e5040506c60b2b83700",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S5-2024-HEAGTON-July-Monthly-test.pdf": {
+      "subject": "Mathematics",
+      "grade": "S5",
+      "status": "published",
+      "parts": 33,
+      "limitations": [],
+      "math_checks": 73,
+      "pages": 9,
+      "pdf_sha256": "d4e30cd5dbba10652703c8c985d57d87764e9541a021a7aff66710d030ae05ac",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S5-2024-HEAGTON-July-Monthly-test-AnswerKey",
+      "source_sha256": "725c8a3f4247b7eb5563c029ab4ae5cdde9b5a3e61dd186e5fb68f43a6fe666f",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S5-2024-KIPCO-Terminal-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S5",
+      "status": "published",
+      "parts": 33,
+      "limitations": [
+        "2(i) unusually repeats thousand; read as 300000+81000+3.",
+        "4(ii)27/4 is already improper; the likely intended mixed form is also shown.",
+        "5(iii)crate bottle capacity is missing; conditional 24 is identified as an assumption.",
+        "8(ii)height 12 cm contradicts equal sides 14 cm/base 24 cm; perimeter uses boundary labels."
+      ],
+      "math_checks": 96,
+      "pages": 10,
+      "pdf_sha256": "ab34673724dbdfcc562edea396561ab3f6b33e7862b2c457951103555e87382e",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S5-2024-KIPCO-Terminal-exam-AnswerKey",
+      "source_sha256": "f80db77b494612a5ba03f6bfccb15473a325505cf0dc611ae833b6e829bba0dd",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S5-2024-MESP-Tanzania-April-Monthly-test.pdf": {
+      "subject": "Mathematics",
+      "grade": "S5",
+      "status": "published",
+      "parts": 32,
+      "limitations": [
+        "Q 1(v) labels 20 cm,20 m,20 cm are inconsistent; intended equilateral answer is conditional.",
+        "3(ii) cut watermelon is interpreted as a half symbol (25 pupils), consistent with the pictogram."
+      ],
+      "math_checks": 51,
+      "pages": 9,
+      "pdf_sha256": "19f9e47716d5a45268c789148be6ecf421e17e96cccf2e25725850603997fbda",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S5-2024-MESP-Tanzania-April-Monthly-test-AnswerKey",
+      "source_sha256": "e9044cfddcabcc41e55504d7439e827beddf45fd33312fc17bfcd3ed5c07bbb8",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S5-2024-MESP-Tanzania-May-Terminal-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S5",
+      "status": "published",
+      "parts": 30,
+      "limitations": [
+        "3(ii)and 3(iii)are the same printed question; both retained.",
+        "6(iii)compares percentages of different salaries; only a 5 percentage-point difference is determined.",
+        "7(iii)the drawing is schematic; perimeter follows printed boundary labels."
+      ],
+      "math_checks": 65,
+      "pages": 9,
+      "pdf_sha256": "3c3c6096bd5dff9e76b4075f200d417773f769d654ad085b5f842d2575c93818",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S5-2024-MESP-Tanzania-May-Terminal-exam-AnswerKey",
+      "source_sha256": "2375e370fb0ca0c685956b47a3d03c9ca35a4124d1bf2bc1d99937318389893d",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S5-2024-MESP-Tanzania-November-Annual-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S5",
+      "status": "published",
+      "parts": 33,
+      "limitations": [
+        "8(c)inner vertical 6 m, two outer verticals 5 m conflict with total left 10 m;52 m is a formal printed-boundary sum.",
+        "Page 6 contains an unrelated Upendo passage with no questions; no answerable item follows it."
+      ],
+      "math_checks": 59,
+      "pages": 9,
+      "pdf_sha256": "eefc972f192a99345b7a7b8d78c785af993d2064c12bf9b353aeb294ec840f58",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S5-2024-MESP-Tanzania-November-Annual-exam-AnswerKey",
+      "source_sha256": "460fa5b46587621bd9110d79c15d78e12f22908d2ca209a19ac0091b95d211fd",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S5-2024-SPES-September-Monthly-test.pdf": {
+      "subject": "Mathematics",
+      "grade": "S5",
+      "status": "published",
+      "parts": 33,
+      "limitations": [
+        "7(iii)opposite parallelogram bases 600 and 300 contradict; both conditional areas given.",
+        "The final part is printed 8(iii); no 8(ii)is printed.",
+        "Cover erroneously says six questions; body contains 1-8."
+      ],
+      "math_checks": 76,
+      "pages": 9,
+      "pdf_sha256": "2a790714ad17b29ef8f85775598678b77c0c29b314235536704478bcdef9c3f5",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S5-2024-SPES-September-Monthly-test-AnswerKey",
+      "source_sha256": "396dcb57ea51ce76e7f28708fbfb8156427fb70e714607120188c525b7e85497",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S5-2026-Arusha-region-May-Terminal-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S5",
+      "status": "published",
+      "parts": 33,
+      "limitations": [
+        "4(i)between can be strict or inclusive; both sums are stated.",
+        "7(i)semicircle total perimeter includes the diameter; curved arc length is also stated.",
+        "7(ii)is absent; both printed 7(i)and 7(iii)are answered."
+      ],
+      "math_checks": 58,
+      "pages": 8,
+      "pdf_sha256": "841a40e6c0d770370ee85d87a61996dc79d1218ab498875ca39125cab19479d8",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S5-2026-Arusha-region-May-Terminal-exam-AnswerKey",
+      "source_sha256": "99d8d4edbd4d6b5b6e469c44dffccd4193027c3889790235b87ced9bc050c4a1",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S6-2024-MESP-Tanzania-August-Midterm-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S6",
+      "status": "published",
+      "parts": 33,
+      "limitations": [
+        "Q 8 has two parts printedii; both are separately identified."
+      ],
+      "math_checks": 75,
+      "pages": 9,
+      "pdf_sha256": "586f27b3198c575fb099b60ed686ec18732907c4c3bbfa6f929f1780e3ad6980",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S6-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey",
+      "source_sha256": "59aedf2f666435823a09205bcf742bf609edb5547277c08d7569c37b2cbabdcd",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S6-2024-MESP-Tanzania-May-Terminal-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S6",
+      "status": "published",
+      "parts": 34,
+      "limitations": [
+        "Question 1 prints vii twice; both items are answered (11 printed parts).",
+        "6(i) has the contradictory chain 100 = 2 y = 10; conditional interpretations are stated.",
+        "8(iii) prints only one interior angle, 78°; f needs a second angle.",
+        "3(i) uses the positive even sequence and identifies the alternative that starts at 0."
+      ],
+      "math_checks": 73,
+      "pages": 9,
+      "pdf_sha256": "b1819fb11c8fc3fd8f61c51dcbeabe668befc24b03d733919e9053fd787d4738",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S6-2024-MESP-Tanzania-May-Terminal-exam-AnswerKey",
+      "source_sha256": "00288207e938ccbeff08f6331561736270d359a153c9c66e707346849c030cb2",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S6-2024-MESP-Tanzania-November-Annual-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S6",
+      "status": "published",
+      "parts": 33,
+      "limitations": [
+        "8(ii) is intended as a semicircle, but its drawing resembles a circular segment; 72 cm is conditional on a semicircle and pi = 22/7.",
+        "8(iii) gives no approximation for pi; the exact area 1.96 pi and the common 22/7 approximation are both shown."
+      ],
+      "math_checks": 67,
+      "pages": 9,
+      "pdf_sha256": "d441c767b955fc00f6b95f5263214a216110db1fb22562490b56e3f62e70ce9d",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S6-2024-MESP-Tanzania-November-Annual-exam-AnswerKey",
+      "source_sha256": "5c88a380bd9e4495e932ea1284d388d49f5d9fbd2ab60f62fb8d9c5444204881",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S6-2024-SAP-September-Practice-assessment.pdf": {
+      "subject": "Mathematics",
+      "grade": "S6",
+      "status": "published",
+      "parts": 33,
+      "limitations": [
+        "8(i) upande mshazari AD wa 14 cm haupatani na urefu wa wima wa 14 cm na umbali wa mlalo wa 3 cm; eneo la 140 cm² hutumia vitako na urefu wa wima vilivyoandikwa.",
+        "2(v) neno \"kati\" limefasiriwa bila kujumuisha ncha ya 30; tafsiri inayojumuisha 30 pia imeelezwa."
+      ],
+      "math_checks": 70,
+      "pages": 9,
+      "pdf_sha256": "c255d2e22bd7d9e70f4ad3fdfd00bf0294b628649c0f29695851d5561921a097",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S6-2024-SAP-September-Practice-assessment-AnswerKey",
+      "source_sha256": "44745a983457cf9dec53bcf795a1170ecc101e51027f4ebd37f5f5e6643ca8e7",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S6-2024-SPES-September-Monthly-test.pdf": {
+      "subject": "Mathematics",
+      "grade": "S6",
+      "status": "published",
+      "parts": 33,
+      "limitations": [
+        "4(ii) uses the difference between the given years; birth and death dates are not provided.",
+        "5(iii) takes unspecified places as 0.",
+        "8(i) cannot be a parallelogram in cyclic order ABCD; unordered vertices allow M = -2 in order ABDC.",
+        "8(ii) prints very large values with units m² and m; those values are used literally."
+      ],
+      "math_checks": 69,
+      "pages": 9,
+      "pdf_sha256": "3b6d1d2e5d5c36d7e46d2cbbc4a169c54d4f025c9c5db8c64354bfa8f8e7db5f",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S6-2024-SPES-September-Monthly-test-AnswerKey",
+      "source_sha256": "96f5d4eaa5aff491a4e42cfbd235341d65a7538ebbc56ad642354907d557c147",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S6-2024-Top-Abilities-November-Annual-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S6",
+      "status": "published",
+      "parts": 33,
+      "limitations": [
+        "1(x) prints mixed forms with improper fractional parts; they are evaluated literally rather than silently corrected.",
+        "2(i) does not state whether digits may repeat; both interpretations are identified in the worked answer.",
+        "4(i) uses the intended primary-school simple-interest model.",
+        "5(i) equates reach with body height in its intended elementary model; actual body height cannot be uniquely inferred.",
+        "7(ii) and 8(i) do not specify an approximation for pi; exact expressions and the common 22/7 results are supplied.",
+        "7(i) uses the printed sector angles rather than measuring the schematic drawing."
+      ],
+      "math_checks": 45,
+      "pages": 10,
+      "pdf_sha256": "b9e2b0ddce31214abeee59332d401a6e5ec516032970e35c3f13616770be248c",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S6-2024-Top-Abilities-November-Annual-exam-AnswerKey",
+      "source_sha256": "90efb33d9fdf30d527b323e363c16dbf15f17d74c4bc244071551b3a103cd27a",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S6-2024-VOPSO-April-Practice-assessment.pdf": {
+      "subject": "Mathematics",
+      "grade": "S6",
+      "status": "published",
+      "parts": 33,
+      "limitations": [
+        "7(i) bar tops are schematic; the attendance values are read at the labelled 10-pupil scale as 50, 40, 30, 50, 40.",
+        "The instructions print \"six (8) questions\"; the source contains eight main questions and 33 answered parts."
+      ],
+      "math_checks": 32,
+      "pages": 10,
+      "pdf_sha256": "aaf57f265bf7fd2ac81abe959b1ee6f870884fafbdb5c1cf14b8fd834ef85f4a",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S6-2024-VOPSO-April-Practice-assessment-AnswerKey",
+      "source_sha256": "f456e8ac2ef893d6f5072382fcbe53163a7216827cedd8f75a56f5e21d628ec6",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S6-2025-Moshi-DC-Terminal-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S6",
+      "status": "published",
+      "parts": 33,
+      "limitations": [
+        "Chanzo kinasema \"Mtihani wa robo mhula wa I 2025\"; jina la faili lenye \"Terminal\" limehifadhiwa.",
+        "Tendo la kutoa baada ya 1(i) na eneo la mstatili katika 3 havina namba ndogo; yote yamejibiwa kwa vitambulisho tofauti.",
+        "1(vi) inachapisha 24√984 bila kueleza kama √ ni mzizi au alama ya mgawanyo mrefu; majibu ya tafsiri zote mbili yametolewa.",
+        "5(iii) inaandika \"kigawe kikubwa\" badala ya \"kigawo kikubwa\"; K.K.S. = 24 kwa maana inayotumika shuleni.",
+        "Grafu ya mvua ina kizio \"Mita\"; majibu yamehifadhi lebo hiyo bila kuibadili kuwa milimita."
+      ],
+      "math_checks": 33,
+      "pages": 11,
+      "pdf_sha256": "f0edcba922747b114fac00f78ecb81a45a6ff0754fe27ce9dca3bd5599a6dc4b",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S6-2025-Moshi-DC-Terminal-exam-AnswerKey",
+      "source_sha256": "bd0cf47bbec649199e49a0dc82d588958cf9b71228a4d57647224fb4fda96ffe",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    },
+    "Mathematics-S6-2026-Arusha-region-May-Terminal-exam.pdf": {
+      "subject": "Mathematics",
+      "grade": "S6",
+      "status": "published",
+      "parts": 33,
+      "limitations": [
+        "2(iv) interprets \"now\" as the printed paper year 2026, giving the school arithmetic answer 75 years.",
+        "2(iii) uses each listed digit once, the intended place-value convention.",
+        "8(i) does not specify an approximation for pi; the exact area and common 22/7 result are both given.",
+        "7(i) uses the right-angle mark for the rent sector rather than measuring the schematic drawing."
+      ],
+      "math_checks": 33,
+      "pages": 10,
+      "pdf_sha256": "2520d41dd052b82b83252025bc3ce914b07210f805c3be802a0a86499fbf17c9",
+      "layout_errors": [],
+      "preview_directory": "C:\\Users\\Kevin\\Desktop\\CODE\\tzstudies\\tmp\\primary-answers\\pdf-review\\Mathematics-S6-2026-Arusha-region-May-Terminal-exam-AnswerKey",
+      "source_sha256": "78a4c8398782f94fc21b9f4b7228d0a5149f464d41c25ab9cd1a01463622aed7",
+      "template_sha256": "b0242ce8746ad01a3261a5f97da090f63e2c9d2afc75b1d87dbb3d42841fcfb4",
+      "visual_reviewed": true
+    }
+  }
+}

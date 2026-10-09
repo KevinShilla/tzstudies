@@ -1,0 +1,455 @@
+{
+  "exam": "English-S5-2026-EMO-February-Practice-assessment.pdf",
+  "output": "English-S5-2026-EMO-February-Practice-assessment-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Five",
+  "year": "2026",
+  "code": "Not printed in source",
+  "board": "EMO",
+  "exam_type": "Practice assessment - February",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "6ec2c9a04978bb650ab409c206d52cf0b612c596b14839ee7b41a009f2c5cd3e",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Source-limited items",
+      "prompt": "What is the meeting's main aim? (ward councillor, Sunday 2 July 2025, plan village dispensary, Kilulu speech, village hospital)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The meeting announcement/listening script is not included; the alternatives do not establish the answers.",
+      "source_page": 2
+    },
+    {
+      "id": "1(ii)",
+      "section": "Source-limited items",
+      "prompt": "Who will address the meeting? (chairperson, VEO, village council members, councillor, villagers)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The meeting announcement/listening script is not included; the alternatives do not establish the answers.",
+      "source_page": 2
+    },
+    {
+      "id": "1(iii)",
+      "section": "Source-limited items",
+      "prompt": "Where will it occur? (Sunday 2 July 2025, football ground, Sunday 10 AM, dispensary ground, chairperson's office)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The meeting announcement/listening script is not included; the alternatives do not establish the answers.",
+      "source_page": 2
+    },
+    {
+      "id": "1(iv)",
+      "section": "Source-limited items",
+      "prompt": "When will it occur? (Sunday 2 July 2025, 10 AM, football ground, Majanga Kilulu, build dispensary)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The meeting announcement/listening script is not included; the alternatives do not establish the answers.",
+      "source_page": 2
+    },
+    {
+      "id": "1(v)",
+      "section": "Source-limited items",
+      "prompt": "Who will not accompany the councillor? (VEO, WEO, village chairperson, village council members, ward council members)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The meeting announcement/listening script is not included; the alternatives do not establish the answers.",
+      "source_page": 2
+    },
+    {
+      "id": "2(i)",
+      "section": "Grammar",
+      "prompt": "What is a group of buffaloes or elephants called? (A flock, B horde, C gang, D hedge, E herd)",
+      "steps": [
+        "Herd is the collective noun for these large grazing animals.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. A herd.",
+      "source_page": 2
+    },
+    {
+      "id": "2(ii)",
+      "section": "Grammar",
+      "prompt": "What is a synonym of purchase? (A sell, B buy, C selling, D exchange, E export)",
+      "steps": [
+        "Purchase means buy.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Buy.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Grammar",
+      "prompt": "Hardly had I started closing my eyes ___ the bell rang. (A than, B but, C when, D where, E and)",
+      "steps": [
+        "The construction is hardly...when.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. When.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Grammar",
+      "prompt": "Make passive: Ngulukenge is playing football at the playing ground.",
+      "steps": [
+        "Move the object to subject position and use is being played to preserve present continuous.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Football is being played by Ngulukenge at the playing ground.",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Grammar",
+      "prompt": "Make active: The chair was broken by Ken.",
+      "steps": [
+        "Ken becomes the subject; was broken becomes past active broke.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Ken broke the chair.",
+      "source_page": 2
+    },
+    {
+      "id": "3(i)",
+      "section": "Vocabulary and directions",
+      "prompt": "Every day I wake up ___ and prepare for school. Bank: happy, early, big, begin, teacher, end, sad, small, pupil, slow, late.",
+      "steps": [
+        "Early is the intended preparation time before school; late is possible only with a different routine.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Early.",
+      "source_page": 3
+    },
+    {
+      "id": "3(ii)",
+      "section": "Vocabulary and directions",
+      "prompt": "I feel ___ because I enjoy learning.",
+      "steps": [
+        "Enjoyment supports happy.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Happy.",
+      "source_page": 3
+    },
+    {
+      "id": "3(iii)",
+      "section": "Vocabulary and directions",
+      "prompt": "I try to be ___ in class and finish work on time.",
+      "steps": [
+        "Early fits punctuality. Slow contradicts timely completion, and the bank does not contain the natural adjective attentive.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Early is the most suitable available word, meaning arrive on time; there is no exact diligent/attentive option.",
+      "source_page": 3
+    },
+    {
+      "id": "3(iv)",
+      "section": "Vocabulary and directions",
+      "prompt": "We ___ lessons at 7:30 AM.",
+      "steps": [
+        "Begin means start.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Begin.",
+      "source_page": 3
+    },
+    {
+      "id": "3(v)",
+      "section": "Vocabulary and directions",
+      "prompt": "The library is ___; there is little space.",
+      "steps": [
+        "The lack of space indicates small size.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Small.",
+      "source_page": 3
+    },
+    {
+      "id": "4(i)",
+      "section": "Vocabulary and directions",
+      "prompt": "Match learn a lesson with A caning, B obey directions, C feel sorry, D classmate, E trembling, F written information, G feel guilty, H learn to prevent recurrence.",
+      "steps": [
+        "The idiom refers to gaining understanding from an experience.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "H. Learn something so it does not happen again.",
+      "source_page": 3
+    },
+    {
+      "id": "4(ii)",
+      "section": "Vocabulary and directions",
+      "prompt": "Match cane.",
+      "steps": [
+        "Cane is the verb described by the matching option.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Beating someone with a stick for wrongdoing (definition in source).",
+      "source_page": 3
+    },
+    {
+      "id": "4(iii)",
+      "section": "Vocabulary and directions",
+      "prompt": "Match ashamed.",
+      "steps": [
+        "Ashamed concerns embarrassment or guilt about an action.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "G. Feel guilty (best supplied option); C. feel sorry is related.",
+      "source_page": 3
+    },
+    {
+      "id": "4(iv)",
+      "section": "Vocabulary and directions",
+      "prompt": "Match statement.",
+      "steps": [
+        "This is the source's intended description of a statement.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "F. Something written that gives information.",
+      "source_page": 3
+    },
+    {
+      "id": "4(v)",
+      "section": "Vocabulary and directions",
+      "prompt": "Match obey.",
+      "steps": [
+        "Obey means follow an instruction.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Do what you are told.",
+      "source_page": 3
+    },
+    {
+      "id": "5(i)",
+      "section": "Vocabulary and directions",
+      "prompt": "The bird flew ___ the tree and landed. (onto, towards, into, across)",
+      "steps": [
+        "Onto emphasises arrival on a surface; the exact landing place is not shown.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Onto (intended landing on a branch); into is possible for entering the canopy.",
+      "source_page": 3
+    },
+    {
+      "id": "5(ii)",
+      "section": "Vocabulary and directions",
+      "prompt": "The cat jumped ___ the box. (into, onto, through)",
+      "steps": [
+        "Without a picture, jumping inside, onto the top, or through an opening are all possible.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Into, onto or through, depending on the movement.",
+      "source_page": 3
+    },
+    {
+      "id": "5(iii)",
+      "section": "Vocabulary and directions",
+      "prompt": "The cow walked slowly ___ the farm. (across, through, from, onto)",
+      "steps": [
+        "No destination or picture distinguishes the routes.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Across is likely intended; through/from/onto have other grammatical directions.",
+      "source_page": 3
+    },
+    {
+      "id": "5(iv)",
+      "section": "Vocabulary and directions",
+      "prompt": "Children went ___ the forest for firewood. (into, onto, across, through)",
+      "steps": [
+        "Into describes entering the forest to collect wood.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Into is intended; through or across could describe a route.",
+      "source_page": 3
+    },
+    {
+      "id": "5(v)",
+      "section": "Vocabulary and directions",
+      "prompt": "The dog ran ___ the gate after hearing noise. (into, onto, through, towards)",
+      "steps": [
+        "Towards means approaching; through means passing the opening.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Towards or through; no unique direction is specified.",
+      "source_page": 3
+    },
+    {
+      "id": "6(i)",
+      "section": "Comprehension and composition",
+      "prompt": "Who is the health teacher at Maweni?",
+      "steps": [
+        "The opening names her.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Ms. Jemima.",
+      "source_page": 4
+    },
+    {
+      "id": "6(ii)",
+      "section": "Comprehension and composition",
+      "prompt": "What were the two pupils doing?",
+      "steps": [
+        "The passage describes their behaviour.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Sharing one mango by biting from it.",
+      "source_page": 4
+    },
+    {
+      "id": "6(iii)",
+      "section": "Comprehension and composition",
+      "prompt": "Who taught the pupils health habits?",
+      "steps": [
+        "She addressed the assembly.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Ms. Jemima, the health teacher.",
+      "source_page": 4
+    },
+    {
+      "id": "6(v)",
+      "section": "Comprehension and composition",
+      "prompt": "Why should we avoid touching wounds without protection?",
+      "steps": [
+        "Wounds can expose people to blood; this does not mean HIV spreads through ordinary contact or shared food.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "To reduce exposure to blood and germs that may cause infection.",
+      "source_page": 4
+    },
+    {
+      "id": "7(i)",
+      "section": "Comprehension and composition",
+      "prompt": "Order A-E: The guide allowed photographs and we enjoyed learning about nature.",
+      "steps": [
+        "This follows the guide's explanation.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D.",
+      "source_page": 4
+    },
+    {
+      "id": "7(ii)",
+      "section": "Comprehension and composition",
+      "prompt": "Order: After an exciting day we returned home tired and happy.",
+      "steps": [
+        "The return ends the trip.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E.",
+      "source_page": 4
+    },
+    {
+      "id": "7(iii)",
+      "section": "Comprehension and composition",
+      "prompt": "Order: Last weekend our school organised a national-park trip.",
+      "steps": [
+        "Introduce the trip first.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A.",
+      "source_page": 4
+    },
+    {
+      "id": "7(iv)",
+      "section": "Comprehension and composition",
+      "prompt": "Order: On arrival we saw elephants, lions, zebras and cobras.",
+      "steps": [
+        "Arrival follows the introduction.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B.",
+      "source_page": 4
+    },
+    {
+      "id": "7(v)",
+      "section": "Comprehension and composition",
+      "prompt": "Order: The tour guide showed us the animals and explained their habits.",
+      "steps": [
+        "The guide's explanation precedes photographs.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Source-limited items": "The required script, picture or other information is missing. Use the stated limitation and obtain the original material before expecting a unique answer.",
+    "Grammar": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Vocabulary and directions": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Comprehension and composition": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "EMO Standard Five Assessment Examination New Syllabus 2026",
+      "url": "https://darasahuru.ac.tz/emo-standard-five-assessment-examination-new-syllabus-2026/"
+    },
+    {
+      "title": "WHO: HIV transmission and AIDS",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids"
+    }
+  ],
+  "limitations": [
+    "1(i): The meeting announcement/listening script is not included; the alternatives do not establish the answers.",
+    "1(ii): The meeting announcement/listening script is not included; the alternatives do not establish the answers.",
+    "1(iii): The meeting announcement/listening script is not included; the alternatives do not establish the answers.",
+    "1(iv): The meeting announcement/listening script is not included; the alternatives do not establish the answers.",
+    "1(v): The meeting announcement/listening script is not included; the alternatives do not establish the answers.",
+    "3(iii): Bank omits an exact adjective for attentiveness; early is a plausible punctuality answer.",
+    "5(i)-(v): Direction questions lack pictures/context, so alternatives may also be valid.",
+    "6: Only i, ii, iii and v are printed; item iv is absent, yielding 34 printed parts.",
+    "Health passage: HIV does not spread through shared food or ordinary social contact; WHO correction accompanies the wound answer."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(v)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)",
+    "7(v)"
+  ],
+  "question_count": "34 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "4169fabc24d6d2fc294fdec40abaac8ac0f68bfa664a95bb02aef0f4a4b43e27"
+}

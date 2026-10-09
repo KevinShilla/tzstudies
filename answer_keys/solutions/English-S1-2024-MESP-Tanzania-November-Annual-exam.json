@@ -1,0 +1,464 @@
+{
+  "exam": "English-S1-2024-MESP-Tanzania-November-Annual-exam.pdf",
+  "output": "English-S1-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard One",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Annual exam - November · Reading Nov.",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "0c0045fbef49419305856d6f17b64a819495100ba68c046e073a99903bd07758",
+  "questions": [
+    {
+      "id": "A-sounds",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sounds: Sh, q, Sn, b, Ck",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Sh, q, Sn, b, Ck",
+      "source_page": 1
+    },
+    {
+      "id": "A1",
+      "section": "Initial sounds",
+      "prompt": "Identify the initial sound/blend of Snow.",
+      "steps": [
+        "Say Snow and identify its first consonant sound or blend.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "sn.",
+      "source_page": 1
+    },
+    {
+      "id": "A2",
+      "section": "Initial sounds",
+      "prompt": "Identify the initial sound/blend of Blue.",
+      "steps": [
+        "Say Blue and identify its first consonant sound or blend.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "bl.",
+      "source_page": 1
+    },
+    {
+      "id": "A3",
+      "section": "Initial sounds",
+      "prompt": "Identify the initial sound/blend of Please.",
+      "steps": [
+        "Say Please and identify its first consonant sound or blend.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "pl.",
+      "source_page": 1
+    },
+    {
+      "id": "A4",
+      "section": "Initial sounds",
+      "prompt": "Identify the initial sound/blend of House.",
+      "steps": [
+        "Say House and identify its first consonant sound or blend.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "h.",
+      "source_page": 1
+    },
+    {
+      "id": "A5",
+      "section": "Initial sounds",
+      "prompt": "Identify the initial sound/blend of Chin.",
+      "steps": [
+        "Say Chin and identify its first consonant sound or blend.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "ch.",
+      "source_page": 1
+    },
+    {
+      "id": "Bword1",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Book",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Book",
+      "source_page": 2
+    },
+    {
+      "id": "Bword2",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Shirt",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Shirt",
+      "source_page": 2
+    },
+    {
+      "id": "Bword3",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: She",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: She",
+      "source_page": 2
+    },
+    {
+      "id": "Bword4",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Nod",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Nod",
+      "source_page": 2
+    },
+    {
+      "id": "Bword5",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Card",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Card",
+      "source_page": 2
+    },
+    {
+      "id": "Bword6",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Clock",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Clock",
+      "source_page": 2
+    },
+    {
+      "id": "Bword7",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Why",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Why",
+      "source_page": 2
+    },
+    {
+      "id": "Bword8",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Face",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Face",
+      "source_page": 2
+    },
+    {
+      "id": "Bword9",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Door",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Door",
+      "source_page": 2
+    },
+    {
+      "id": "Bword10",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Lamb",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Lamb",
+      "source_page": 2
+    },
+    {
+      "id": "Bword11",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Stone",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Stone",
+      "source_page": 2
+    },
+    {
+      "id": "Bword12",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Tie",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Tie",
+      "source_page": 2
+    },
+    {
+      "id": "Bword13",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Sun",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Sun",
+      "source_page": 2
+    },
+    {
+      "id": "Bword14",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Arrive",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Arrive",
+      "source_page": 2
+    },
+    {
+      "id": "Bword15",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Chalk",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Chalk",
+      "source_page": 2
+    },
+    {
+      "id": "Bword16",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Hide",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Hide",
+      "source_page": 2
+    },
+    {
+      "id": "Bword17",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Now",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Now",
+      "source_page": 2
+    },
+    {
+      "id": "Bword18",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Nut",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Nut",
+      "source_page": 2
+    },
+    {
+      "id": "Bword19",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Exercise",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Exercise",
+      "source_page": 2
+    },
+    {
+      "id": "Bword20",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Win",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Win",
+      "source_page": 2
+    },
+    {
+      "id": "Bsentence1",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: It will rain again.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: It will rain again.",
+      "source_page": 2
+    },
+    {
+      "id": "Bsentence2",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: I play the piano.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: I play the piano.",
+      "source_page": 2
+    },
+    {
+      "id": "Bsentence3",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: Can you skip rope?",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Can you skip rope?",
+      "source_page": 2
+    },
+    {
+      "id": "Bsentence4",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: Who is late today?",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Who is late today?",
+      "source_page": 2
+    },
+    {
+      "id": "Bsentence5",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: Fix the old car.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Fix the old car.",
+      "source_page": 2
+    },
+    {
+      "id": "C1",
+      "section": "Comprehension",
+      "prompt": "Who is Mr. Joseph?",
+      "steps": [
+        "The passage opens by naming his occupation.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A farmer.",
+      "source_page": 3
+    },
+    {
+      "id": "C2",
+      "section": "Comprehension",
+      "prompt": "How many goats does Mr. Joseph have?",
+      "steps": [
+        "The animal list includes fifteen goats, ten cows and eight sheep.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Fifteen goats.",
+      "source_page": 3
+    },
+    {
+      "id": "C3",
+      "section": "Comprehension",
+      "prompt": "What is the title of the story?",
+      "steps": [
+        "Read the heading above the passage.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A Farmer.",
+      "source_page": 3
+    },
+    {
+      "id": "C4",
+      "section": "Comprehension",
+      "prompt": "What does Mr. Joseph get after selling the animals?",
+      "steps": [
+        "The final sentence says he gets money by selling them.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A lot of money.",
+      "source_page": 3
+    },
+    {
+      "id": "C5",
+      "section": "Comprehension",
+      "prompt": "Where does Mr. Joseph live?",
+      "steps": [
+        "The opening sentences locate his home at Chanika.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Chanika.",
+      "source_page": 3
+    }
+  ],
+  "summaries": {
+    "Oral reading": "Read aloud in the printed order. Pronounce words clearly and pause at punctuation. Teachers assess accuracy and fluency; the printed text is the oral response.",
+    "Initial sounds": "Distinguish speech sounds from written letters. Blend consonants, recognise digraphs and compare pronunciations when identifying rhymes or homophones.",
+    "Comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "MESP STANDARD ONE ANNUAL EXAMS NOV 2024",
+      "url": "https://darasahuru.ac.tz/mesp-standard-one-annual-exams-nov-2024/"
+    }
+  ],
+  "limitations": [],
+  "expected_parts": [
+    "A-sounds",
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5",
+    "Bword1",
+    "Bword2",
+    "Bword3",
+    "Bword4",
+    "Bword5",
+    "Bword6",
+    "Bword7",
+    "Bword8",
+    "Bword9",
+    "Bword10",
+    "Bword11",
+    "Bword12",
+    "Bword13",
+    "Bword14",
+    "Bword15",
+    "Bword16",
+    "Bword17",
+    "Bword18",
+    "Bword19",
+    "Bword20",
+    "Bsentence1",
+    "Bsentence2",
+    "Bsentence3",
+    "Bsentence4",
+    "Bsentence5",
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5"
+  ],
+  "question_count": "36 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "84ed962129515f3ba13c76ed0e903eeb61bae845f6cd46a0174a4e9746e390f7"
+}

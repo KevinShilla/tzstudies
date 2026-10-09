@@ -1,0 +1,332 @@
+{
+  "exam": "Kiswahili-S1-2024-MESP-Tanzania-May-Midterm-exam.pdf",
+  "output": "Kiswahili-S1-2024-MESP-Tanzania-May-Midterm-exam-AnswerKey.pdf",
+  "sha256": "8b8664813235c0cfbf91b7b1c5484628c12d60b22dbf4995ff2c18f33f5e04f2",
+  "subject": "Kiswahili",
+  "level": "Standard One",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Midterm exam - May · Kuandika",
+  "question_count": "Vipengele 25 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Kuandika",
+      "prompt": "Andika upya: Hema.",
+      "steps": [
+        "Angalia mpangilio wa herufi za Hema.",
+        "Nakili Hema bila kuacha au kuongeza herufi; hakiki umbo na nafasi za herufi."
+      ],
+      "answer": "Hema.",
+      "source_page": 1
+    },
+    {
+      "id": "2",
+      "section": "Kuandika",
+      "prompt": "Andika upya: Duka.",
+      "steps": [
+        "Angalia mpangilio wa herufi za Duka.",
+        "Nakili Duka bila kuacha au kuongeza herufi; hakiki umbo na nafasi za herufi."
+      ],
+      "answer": "Duka.",
+      "source_page": 1
+    },
+    {
+      "id": "3",
+      "section": "Kuandika",
+      "prompt": "Andika upya: Fagia.",
+      "steps": [
+        "Angalia mpangilio wa herufi za Fagia.",
+        "Nakili Fagia bila kuacha au kuongeza herufi; hakiki umbo na nafasi za herufi."
+      ],
+      "answer": "Fagia.",
+      "source_page": 1
+    },
+    {
+      "id": "4",
+      "section": "Kuandika",
+      "prompt": "Andika upya: Silabi.",
+      "steps": [
+        "Angalia mpangilio wa herufi za Silabi.",
+        "Nakili Silabi bila kuacha au kuongeza herufi; hakiki umbo na nafasi za herufi."
+      ],
+      "answer": "Silabi.",
+      "source_page": 1
+    },
+    {
+      "id": "5",
+      "section": "Kuandika",
+      "prompt": "Andika upya: Nunua.",
+      "steps": [
+        "Angalia mpangilio wa herufi za Nunua.",
+        "Nakili Nunua bila kuacha au kuongeza herufi; hakiki umbo na nafasi za herufi."
+      ],
+      "answer": "Nunua.",
+      "source_page": 1
+    },
+    {
+      "id": "6",
+      "section": "Kuandika",
+      "prompt": "Andika upya: Watu.",
+      "steps": [
+        "Angalia mpangilio wa herufi za Watu.",
+        "Nakili Watu bila kuacha au kuongeza herufi; hakiki umbo na nafasi za herufi."
+      ],
+      "answer": "Watu.",
+      "source_page": 1
+    },
+    {
+      "id": "7",
+      "section": "Kuandika",
+      "prompt": "Andika upya: Walimu.",
+      "steps": [
+        "Angalia mpangilio wa herufi za Walimu.",
+        "Nakili Walimu bila kuacha au kuongeza herufi; hakiki umbo na nafasi za herufi."
+      ],
+      "answer": "Walimu.",
+      "source_page": 2
+    },
+    {
+      "id": "8",
+      "section": "Kuandika",
+      "prompt": "Andika upya: Simba.",
+      "steps": [
+        "Angalia mpangilio wa herufi za Simba.",
+        "Nakili Simba bila kuacha au kuongeza herufi; hakiki umbo na nafasi za herufi."
+      ],
+      "answer": "Simba.",
+      "source_page": 2
+    },
+    {
+      "id": "9",
+      "section": "Kuandika",
+      "prompt": "Andika upya: Maneno.",
+      "steps": [
+        "Angalia mpangilio wa herufi za Maneno.",
+        "Nakili Maneno bila kuacha au kuongeza herufi; hakiki umbo na nafasi za herufi."
+      ],
+      "answer": "Maneno.",
+      "source_page": 2
+    },
+    {
+      "id": "10",
+      "section": "Kuandika",
+      "prompt": "Andika upya: Kwaya.",
+      "steps": [
+        "Angalia mpangilio wa herufi za Kwaya.",
+        "Nakili Kwaya bila kuacha au kuongeza herufi; hakiki umbo na nafasi za herufi."
+      ],
+      "answer": "Kwaya.",
+      "source_page": 2
+    },
+    {
+      "id": "11",
+      "section": "Kuandika",
+      "prompt": "Andika upya: Mama anapika wali.",
+      "steps": [
+        "Angalia mpangilio wa herufi za Mama anapika wali..",
+        "Nakili Mama anapika wali. bila kuacha au kuongeza herufi; hakiki umbo na nafasi za herufi."
+      ],
+      "answer": "Mama anapika wali.",
+      "source_page": 2
+    },
+    {
+      "id": "12",
+      "section": "Kuandika",
+      "prompt": "Andika upya: Dada analima mchicha.",
+      "steps": [
+        "Angalia mpangilio wa herufi za Dada analima mchicha..",
+        "Nakili Dada analima mchicha. bila kuacha au kuongeza herufi; hakiki umbo na nafasi za herufi."
+      ],
+      "answer": "Dada analima mchicha.",
+      "source_page": 2
+    },
+    {
+      "id": "13",
+      "section": "Kuandika",
+      "prompt": "Andika upya: Mimi ninasoma kitabu.",
+      "steps": [
+        "Angalia mpangilio wa herufi za Mimi ninasoma kitabu..",
+        "Nakili Mimi ninasoma kitabu. bila kuacha au kuongeza herufi; hakiki umbo na nafasi za herufi."
+      ],
+      "answer": "Mimi ninasoma kitabu.",
+      "source_page": 2
+    },
+    {
+      "id": "14",
+      "section": "Kuandika",
+      "prompt": "Andika upya: Ngazi imevunjika.",
+      "steps": [
+        "Angalia mpangilio wa herufi za Ngazi imevunjika..",
+        "Nakili Ngazi imevunjika. bila kuacha au kuongeza herufi; hakiki umbo na nafasi za herufi."
+      ],
+      "answer": "Ngazi imevunjika.",
+      "source_page": 2
+    },
+    {
+      "id": "15",
+      "section": "Kuandika",
+      "prompt": "Andika upya: Watoto wanacheza mpira.",
+      "steps": [
+        "Angalia mpangilio wa herufi za Watoto wanacheza mpira..",
+        "Nakili Watoto wanacheza mpira. bila kuacha au kuongeza herufi; hakiki umbo na nafasi za herufi."
+      ],
+      "answer": "Watoto wanacheza mpira.",
+      "source_page": 2
+    },
+    {
+      "id": "16",
+      "section": "Silabi",
+      "prompt": "Unganisha Ba + ta kuunda neno.",
+      "steps": [
+        "Soma silabi Ba + ta kwa mpangilio.",
+        "Ziunganishe bila nafasi: Bata."
+      ],
+      "answer": "Bata.",
+      "source_page": 2
+    },
+    {
+      "id": "17",
+      "section": "Silabi",
+      "prompt": "Unganisha Ngo + zi kuunda neno.",
+      "steps": [
+        "Soma silabi Ngo + zi kwa mpangilio.",
+        "Ziunganishe bila nafasi: Ngozi."
+      ],
+      "answer": "Ngozi.",
+      "source_page": 2
+    },
+    {
+      "id": "18",
+      "section": "Silabi",
+      "prompt": "Unganisha Wa + na + fu + nzi kuunda neno.",
+      "steps": [
+        "Soma silabi Wa + na + fu + nzi kwa mpangilio.",
+        "Ziunganishe bila nafasi: Wanafunzi."
+      ],
+      "answer": "Wanafunzi.",
+      "source_page": 2
+    },
+    {
+      "id": "19",
+      "section": "Silabi",
+      "prompt": "Unganisha Ngu + o kuunda neno.",
+      "steps": [
+        "Soma silabi Ngu + o kwa mpangilio.",
+        "Ziunganishe bila nafasi: Nguo."
+      ],
+      "answer": "Nguo.",
+      "source_page": 2
+    },
+    {
+      "id": "20",
+      "section": "Silabi",
+      "prompt": "Unganisha Ma + zi + wa kuunda neno.",
+      "steps": [
+        "Soma silabi Ma + zi + wa kwa mpangilio.",
+        "Ziunganishe bila nafasi: Maziwa."
+      ],
+      "answer": "Maziwa.",
+      "source_page": 3
+    },
+    {
+      "id": "21",
+      "section": "Kukamilisha silabi",
+      "prompt": "Jaza silabi: Cha, __, __, cho, chu.",
+      "steps": [
+        "Irabu hufuata a, e, i, o, u: cha, che, chi, cho, chu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "che, chi.",
+      "source_page": 3
+    },
+    {
+      "id": "22",
+      "section": "Kukamilisha silabi",
+      "prompt": "Jaza silabi: Kwa, kwe, kwi, __, __.",
+      "steps": [
+        "Badili irabu ya kw kwa mfuatano a, e, i, o, u.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "kwo, kwu.",
+      "source_page": 3
+    },
+    {
+      "id": "23",
+      "section": "Kukamilisha silabi",
+      "prompt": "Jaza silabi: Mba, mbe, __, __, mbu.",
+      "steps": [
+        "Mfuatano ni mba, mbe, mbi, mbo, mbu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "mbi, mbo.",
+      "source_page": 3
+    },
+    {
+      "id": "24",
+      "section": "Kukamilisha silabi",
+      "prompt": "Jaza silabi: __, __, zi, zo, zu.",
+      "steps": [
+        "Mfuatano huanza za, ze kabla ya zi, zo, zu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "za, ze.",
+      "source_page": 3
+    },
+    {
+      "id": "25",
+      "section": "Kukamilisha silabi",
+      "prompt": "Jaza silabi: Pa, __, pi, __, pu.",
+      "steps": [
+        "Mfuatano ni pa, pe, pi, po, pu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "pe, po.",
+      "source_page": 3
+    }
+  ],
+  "summaries": {
+    "Kuandika": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Silabi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kukamilisha silabi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "MESP Tanzania Standard One Terminal Examinations May 2024",
+      "url": "https://darasahuru.ac.tz/mesp-tanzania-standard-one-terminal-examinations-may-2024/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "7f7fecae9cf3a94dddeb72d79e13ce08413d52e307c28fe840e74c9ffd6d3ec6"
+}

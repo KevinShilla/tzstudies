@@ -1,0 +1,423 @@
+{
+  "exam": "English-S3-2026-Nyegezi-Primary-School-May-Terminal-exam.pdf",
+  "output": "English-S3-2026-Nyegezi-Primary-School-May-Terminal-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Three",
+  "year": "2026",
+  "code": "Not printed in source",
+  "board": "Nyegezi Primary School",
+  "exam_type": "Terminal exam - May",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "8c3cb335acf904e10c7cbcefd965e39c638d6bf3b00aefd55f0e45c10e53a4cf",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation word i.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(ii)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation word ii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iii)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation word iii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iv)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation word iv.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(v)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation word v.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "2(i)",
+      "section": "Vocabulary and grammar",
+      "prompt": "Daudi is a pupil. ___ is in class three. (A She, B They, C He, D We)",
+      "steps": [
+        "The intended male name Daudi takes he.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. He.",
+      "source_page": 1
+    },
+    {
+      "id": "2(ii)",
+      "section": "Vocabulary and grammar",
+      "prompt": "We use ___ for writing. (A pen, B spoon, C bag, D razor blade)",
+      "steps": [
+        "A pen is a writing tool.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Pen.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iii)",
+      "section": "Vocabulary and grammar",
+      "prompt": "They ___ playing. (A is, B are, C has, D was)",
+      "steps": [
+        "They is plural and takes are.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Are.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iv)",
+      "section": "Vocabulary and grammar",
+      "prompt": "She ___ swimming. (A is, B has, C are, D have)",
+      "steps": [
+        "She is singular and takes is.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Is.",
+      "source_page": 1
+    },
+    {
+      "id": "2(v)",
+      "section": "Vocabulary and grammar",
+      "prompt": "Which is a domestic animal? (A elephant, B antelope, C lion, D cow)",
+      "steps": [
+        "Cows are commonly kept as livestock.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Cow.",
+      "source_page": 1
+    },
+    {
+      "id": "2(vi)",
+      "section": "Vocabulary and grammar",
+      "prompt": "Our mother told ___ to stay here. (A I, B we, C us, D he)",
+      "steps": [
+        "The verb told requires an object pronoun, us.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Us.",
+      "source_page": 1
+    },
+    {
+      "id": "2(vii)",
+      "section": "Vocabulary and grammar",
+      "prompt": "They are ___ football now. (A plays, B play, C playing, D played)",
+      "steps": [
+        "Are plus playing is present continuous.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Playing.",
+      "source_page": 1
+    },
+    {
+      "id": "2(viii)",
+      "section": "Vocabulary and grammar",
+      "prompt": "We sleep at ___. (A morning, B night, C noon, D tomorrow)",
+      "steps": [
+        "At night is the correct phrase and intended usual sleeping time.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Night.",
+      "source_page": 1
+    },
+    {
+      "id": "2(ix)",
+      "section": "Vocabulary and grammar",
+      "prompt": "___ are you late? (A Why, B What, C Where, D With)",
+      "steps": [
+        "Why asks for the reason for being late.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Why.",
+      "source_page": 1
+    },
+    {
+      "id": "2(x)",
+      "section": "Vocabulary and grammar",
+      "prompt": "The plural of book is ___. (A box, B boxes, C book, D books)",
+      "steps": [
+        "Add s to the regular noun.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Books.",
+      "source_page": 1
+    },
+    {
+      "id": "3(i)",
+      "section": "Vocabulary and grammar",
+      "prompt": "Rehema is my best friend. ___ loves cooking.",
+      "steps": [
+        "She refers to Rehema and agrees with loves.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "She.",
+      "source_page": 1
+    },
+    {
+      "id": "3(ii)",
+      "section": "Grammar and comprehension",
+      "prompt": "Peter is going to the birthday party. ___ is going with Baraka.",
+      "steps": [
+        "He refers to Peter.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "He.",
+      "source_page": 2
+    },
+    {
+      "id": "3(iii)",
+      "section": "Grammar and comprehension",
+      "prompt": "Elice and Lina are good dancers. ___ are intelligent girls too.",
+      "steps": [
+        "They refers to both girls.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "They.",
+      "source_page": 2
+    },
+    {
+      "id": "3(iv)",
+      "section": "Grammar and comprehension",
+      "prompt": "Look at the cow under the tree. ___ is big and fat.",
+      "steps": [
+        "It refers to the cow.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "It.",
+      "source_page": 2
+    },
+    {
+      "id": "3(v)",
+      "section": "Grammar and comprehension",
+      "prompt": "Japheti and I went to the zoo. ___ saw lions, giraffes and zebras.",
+      "steps": [
+        "A group including the speaker takes we.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "We.",
+      "source_page": 2
+    },
+    {
+      "id": "4(i)",
+      "section": "Grammar and comprehension",
+      "prompt": "The school bag is ___ the table.",
+      "steps": [
+        "The picture places the bag on the tabletop.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "On.",
+      "source_page": 2
+    },
+    {
+      "id": "4(ii)",
+      "section": "Grammar and comprehension",
+      "prompt": "The cat is ___ the box.",
+      "steps": [
+        "The cat is inside the open box.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "In.",
+      "source_page": 2
+    },
+    {
+      "id": "4(iii)",
+      "section": "Grammar and comprehension",
+      "prompt": "The cat is ___ the box (printed; picture shows a chair).",
+      "steps": [
+        "The picture shows a ball beneath a chair. Both cat and box in the printed sentence disagree with the illustration.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Under the chair (pictured ball); under is the intended preposition.",
+      "source_page": 2
+    },
+    {
+      "id": "5(i)",
+      "section": "Grammar and comprehension",
+      "prompt": "My parents ___ many hens. (have, has)",
+      "steps": [
+        "Parents is plural and takes have.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Have.",
+      "source_page": 2
+    },
+    {
+      "id": "5(ii)",
+      "section": "Grammar and comprehension",
+      "prompt": "Joyce ___ two pens. (have, has)",
+      "steps": [
+        "Joyce is singular and takes has.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Has.",
+      "source_page": 2
+    },
+    {
+      "id": "5(iii)",
+      "section": "Grammar and comprehension",
+      "prompt": "He ___ the best car. (have, has)",
+      "steps": [
+        "He takes has.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Has.",
+      "source_page": 2
+    },
+    {
+      "id": "5(iv)",
+      "section": "Grammar and comprehension",
+      "prompt": "We ___ many oranges. (have, has)",
+      "steps": [
+        "We takes have.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Have.",
+      "source_page": 2
+    },
+    {
+      "id": "6(i)",
+      "section": "Grammar and comprehension",
+      "prompt": "Who woke up late?",
+      "steps": [
+        "The opening sentence names him.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Musa.",
+      "source_page": 2
+    },
+    {
+      "id": "6(ii)",
+      "section": "Grammar and comprehension",
+      "prompt": "Why did Musa miss the bus?",
+      "steps": [
+        "The first sentence links his late waking with the missed bus.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "He woke up late.",
+      "source_page": 2
+    },
+    {
+      "id": "6(iii)",
+      "section": "Grammar and comprehension",
+      "prompt": "How did he feel on arrival?",
+      "steps": [
+        "The passage says he arrived tired.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Tired.",
+      "source_page": 2
+    },
+    {
+      "id": "6(iv)",
+      "section": "Grammar and comprehension",
+      "prompt": "Did he miss the test?",
+      "steps": [
+        "The final clause says he did not miss the test.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "No, he did not.",
+      "source_page": 2
+    },
+    {
+      "id": "6(v)",
+      "section": "Grammar and comprehension",
+      "prompt": "How did Musa walk to school?",
+      "steps": [
+        "He decided to walk quickly after missing the bus.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Quickly.",
+      "source_page": 2
+    }
+  ],
+  "summaries": {
+    "Source-limited items": "The required script, picture or other information is missing. Use the stated limitation and obtain the original material before expecting a unique answer.",
+    "Vocabulary and grammar": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Grammar and comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "Nyegezi Primary Darasa La Tatu Mtihani Wa Terminal Na Majibu 2026",
+      "url": "https://darasahuru.ac.tz/nyegezi-primary-darasa-la-tatu-mtihani-wa-terminal-na-majibu-2026/"
+    }
+  ],
+  "limitations": [
+    "1(i): The teacher dictation words or audio are not included in this source.",
+    "1(ii): The teacher dictation words or audio are not included in this source.",
+    "1(iii): The teacher dictation words or audio are not included in this source.",
+    "1(iv): The teacher dictation words or audio are not included in this source.",
+    "1(v): The teacher dictation words or audio are not included in this source.",
+    "4(iii): Source prompt says cat and box, but the picture clearly shows a ball under a chair."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "2(vii)",
+    "2(viii)",
+    "2(ix)",
+    "2(x)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)"
+  ],
+  "question_count": "32 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "40336b00c9a1315bb08a4091dea9fafd7a14ca6672a8d9da7231e9e0f998cca1"
+}

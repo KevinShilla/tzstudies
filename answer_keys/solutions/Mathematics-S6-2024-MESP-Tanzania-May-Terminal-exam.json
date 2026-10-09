@@ -1,0 +1,805 @@
+{
+  "exam": "Mathematics-S6-2024-MESP-Tanzania-May-Terminal-exam.pdf",
+  "output": "Mathematics-S6-2024-MESP-Tanzania-May-Terminal-exam-AnswerKey.pdf",
+  "sha256": "6f12c619deb2683dade4de142daec10cf44852a2650269811686ecf1d93460dc",
+  "subject": "Mathematics",
+  "level": "Standard Six",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Terminal exam - May",
+  "question_count": "34 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(ix)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)-divide",
+    "1(vii)-multiply",
+    "1(viii)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "7(i)",
+    "7(ii)",
+    "8(i)",
+    "8(ii)",
+    "8(iii)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Calculations",
+      "prompt": "Add 90000 + 68000.",
+      "steps": [
+        "1 place: 0 + 0 = 0; write 0.",
+        "10 place: 0 + 0 = 0; write 0.",
+        "100 place: 0 + 0 = 0; write 0.",
+        "1000 place: 0 + 8 = 8; write 8.",
+        "10000 place: 9 + 6 = 15; write 5, carry 1.",
+        "Write final carry 1 in the next place.",
+        "90000 + 68000 = 158000."
+      ],
+      "answer": "158000",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "90000+68000",
+          "expected": "158000"
+        },
+        {
+          "expression": "0 + 0",
+          "expected": "0"
+        },
+        {
+          "expression": "0 + 8",
+          "expected": "8"
+        },
+        {
+          "expression": "9 + 6",
+          "expected": "15"
+        },
+        {
+          "expression": "90000 + 68000",
+          "expected": "158000"
+        }
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Calculations",
+      "prompt": "Subtract 100000 - 1001.",
+      "steps": [
+        "1 place: regroup 1 from the next place; 10 - 1 = 9.",
+        "10 place: regroup 1 from the next place; 9 - 0 = 9.",
+        "100 place: regroup 1 from the next place; 9 - 0 = 9.",
+        "1000 place: regroup 1 from the next place; 9 - 1 = 8.",
+        "10000 place: regroup 1 from the next place; 9 - 0 = 9.",
+        "100000 place: 0 - 0 = 0.",
+        "100000 - 1001 = 98999; check 98999 + 1001 = 100000."
+      ],
+      "answer": "98999",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "100000-1001",
+          "expected": "98999"
+        },
+        {
+          "expression": "10 - 1",
+          "expected": "9"
+        },
+        {
+          "expression": "9 - 0",
+          "expected": "9"
+        },
+        {
+          "expression": "9 - 1",
+          "expected": "8"
+        },
+        {
+          "expression": "0 - 0",
+          "expected": "0"
+        },
+        {
+          "expression": "100000 - 1001",
+          "expected": "98999"
+        },
+        {
+          "expression": "98999 + 1001",
+          "expected": "100000"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Calculations",
+      "prompt": "Multiply 6800 x 25.",
+      "steps": [
+        "Split into place values: 6000 x 25 = 150000; 800 x 25 = 20000.",
+        "Add the partial products: 170000."
+      ],
+      "answer": "170000",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "6800*25",
+          "expected": "170000"
+        },
+        {
+          "expression": "6000*25",
+          "expected": "150000"
+        },
+        {
+          "expression": "800*25",
+          "expected": "20000"
+        }
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Calculations",
+      "prompt": "Divide 775 by 15.",
+      "steps": [
+        "77 / 15: write 5; 5 x 15 = 75; 77 - 75 = 2.",
+        "25 / 15: write 1; 1 x 15 = 15; 25 - 15 = 10.",
+        "15 x 51 = 765.",
+        "775 / 15 = 155/3; whole-number division: 51 remainder 10."
+      ],
+      "answer": "155/3",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "775/15",
+          "expected": "155/3"
+        },
+        {
+          "expression": "5*15",
+          "expected": "75"
+        },
+        {
+          "expression": "77 - 75",
+          "expected": "2"
+        },
+        {
+          "expression": "1*15",
+          "expected": "15"
+        },
+        {
+          "expression": "25 - 15",
+          "expected": "10"
+        },
+        {
+          "expression": "15*51",
+          "expected": "765"
+        },
+        {
+          "expression": "775 / 15",
+          "expected": "155/3"
+        }
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Mathematics",
+      "prompt": "Multiply (-280) x (-15).",
+      "steps": [
+        "The product of two negative numbers is positive.",
+        "280 x 15 = 4200."
+      ],
+      "answer": "4200",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "(-280)*(-15)",
+          "expected": "4200"
+        },
+        {
+          "expression": "280*15",
+          "expected": "4200"
+        }
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Mathematics",
+      "prompt": "Add 9 1/2 + 6 3/4.",
+      "steps": [
+        "9 1/2 = 38/4; 6 3/4 = 27/4.",
+        "38 + 27 = 65; 65/4 = 16 1/4."
+      ],
+      "answer": "16 1/4",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "9+1/2+6+3/4",
+          "expected": "65/4"
+        },
+        {
+          "expression": "38 + 27",
+          "expected": "65"
+        }
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Mathematics",
+      "prompt": "Subtract 12 3/7 - 6 2/12.",
+      "steps": [
+        "6 2/12 = 6 1/6.",
+        "Use the common denominator 42: 522/42 - 259/42.",
+        "522 - 259 = 263; 263/42 = 6 11/42."
+      ],
+      "answer": "6 11/42",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "(12+3/7)-(6+2/12)",
+          "expected": "263/42"
+        },
+        {
+          "expression": "522 - 259",
+          "expected": "263"
+        }
+      ]
+    },
+    {
+      "id": "1(vii)-divide",
+      "section": "Mathematics",
+      "prompt": "Divide 8/9 by 2/4.",
+      "steps": [
+        "Multiply 8/9 by 4/2.",
+        "32/18 = 16/9 = 1 7/9."
+      ],
+      "answer": "1 7/9",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "(8/9)/(2/4)",
+          "expected": "16/9"
+        },
+        {
+          "expression": "32/18",
+          "expected": "16/9"
+        }
+      ]
+    },
+    {
+      "id": "1(vii)-multiply",
+      "section": "Mathematics",
+      "prompt": "Multiply 7 3/5 x 4 2/3.",
+      "steps": [
+        "Convert the mixed numbers to 38/5 and 14/3.",
+        "38 x 14 = 532; 5 x 3 = 15.",
+        "532/15 = 35 7/15."
+      ],
+      "answer": "35 7/15",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "(7+3/5)*(4+2/3)",
+          "expected": "532/15"
+        },
+        {
+          "expression": "38*14",
+          "expected": "532"
+        },
+        {
+          "expression": "5*3",
+          "expected": "15"
+        }
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Mathematics",
+      "prompt": "Multiply 10.26 x 3.4.",
+      "steps": [
+        "Remove the decimal points: 1026 x 34 = 34884.",
+        "Restore 3 decimal places."
+      ],
+      "answer": "34.884",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "10.26*3.4",
+          "expected": "8721/250"
+        },
+        {
+          "expression": "1026*34",
+          "expected": "34884"
+        }
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Mathematics",
+      "prompt": "Add 9.0855 + 4.2040.",
+      "steps": [
+        "Align the 4 decimal places.",
+        "Ten-thousandths: 5 + 0 = 5; thousandths: 5 + 4 = 9; hundredths: 8 + 0 = 8; tenths: 0 + 2 = 2; whole-number part: 9 + 4 = 13."
+      ],
+      "answer": "13.2895",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "9.0855+4.2040",
+          "expected": "26579/2000"
+        },
+        {
+          "expression": "5+0",
+          "expected": "5"
+        },
+        {
+          "expression": "5+4",
+          "expected": "9"
+        },
+        {
+          "expression": "8+0",
+          "expected": "8"
+        },
+        {
+          "expression": "0+2",
+          "expected": "2"
+        },
+        {
+          "expression": "9+4",
+          "expected": "13"
+        }
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Mathematics",
+      "prompt": "Convert 2/5 to a percentage.",
+      "steps": [
+        "2 / 5 = 0.4.",
+        "0.4 x 100 = 40."
+      ],
+      "answer": "40%",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2 / 5",
+          "expected": "2/5"
+        },
+        {
+          "expression": "0.4*100",
+          "expected": "40"
+        }
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Mathematics",
+      "prompt": "Find the square of 49.",
+      "steps": [
+        "49 x 49 = 2401."
+      ],
+      "answer": "2401",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "49*49",
+          "expected": "2401"
+        }
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Mathematics",
+      "prompt": "Find the LCM of 9, 15 and 18.",
+      "steps": [
+        "9 = 3²; 15 = 3 x 5; 18 = 2 x 3².",
+        "Use the highest prime powers: 2 x 3² x 5 = 90."
+      ],
+      "answer": "90",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2*3**2*5",
+          "expected": "90"
+        }
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Mathematics",
+      "prompt": "Find the GCF of 59, 48 and 18.",
+      "steps": [
+        "59 is prime and divides neither 48 nor 18.",
+        "The only common factor is 1."
+      ],
+      "answer": "1",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Mathematics",
+      "prompt": "Convert 145% to a fraction.",
+      "steps": [
+        "Write 145/100 and divide the numerator and denominator by 5.",
+        "145/100 = 29/20 = 1 9/20."
+      ],
+      "answer": "29/20",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "145/100",
+          "expected": "29/20"
+        }
+      ]
+    },
+    {
+      "id": "2(vi)",
+      "section": "Mathematics",
+      "prompt": "List all odd numbers between 54 and 56.",
+      "steps": [
+        "55 is the only integer strictly between these numbers."
+      ],
+      "answer": "55",
+      "source_page": 2
+    },
+    {
+      "id": "3(i)",
+      "section": "Mathematics",
+      "prompt": "Find the sum of the first 6 positive even numbers.",
+      "steps": [
+        "2 + 4 + 6 + 8 + 10 + 12 = 42.",
+        "If the sequence starts at 0 instead, the sum is 0 + 2 + 4 + 6 + 8 + 10 = 30."
+      ],
+      "answer": "42 for positive even numbers (30 if including 0).",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2 + 4 + 6 + 8 + 10 + 12",
+          "expected": "42"
+        },
+        {
+          "expression": "0+2+4+6+8+10",
+          "expected": "30"
+        }
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Mathematics",
+      "prompt": "Subtract DV - CD and give the answer in Arabic numerals.",
+      "steps": [
+        "DV = 505; CD = 400.",
+        "505 - 400 = 105."
+      ],
+      "answer": "105",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "505 - 400",
+          "expected": "105"
+        }
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Mathematics",
+      "prompt": "Find the difference between the greatest and least prime numbers between 10 and 20.",
+      "steps": [
+        "The prime numbers are 11, 13, 17 and 19.",
+        "19 - 11 = 8."
+      ],
+      "answer": "8",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "19 - 11",
+          "expected": "8"
+        }
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Mathematics",
+      "prompt": "Find the mean of 15, 35, 0, 40 and 65.",
+      "steps": [
+        "15 + 35 + 0 + 40 + 65 = 155.",
+        "155 / 5 = 31."
+      ],
+      "answer": "31",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "15 + 35 + 0 + 40 + 65",
+          "expected": "155"
+        },
+        {
+          "expression": "155 / 5",
+          "expected": "31"
+        }
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Mathematics",
+      "prompt": "How many lines of symmetry does a non-square rectangle have?",
+      "steps": [
+        "Its lines of symmetry are the horizontal and vertical midlines."
+      ],
+      "answer": "2",
+      "source_page": 3
+    },
+    {
+      "id": "4(iii)",
+      "section": "Mathematics",
+      "prompt": "Find the difference between the areas of a 15 cm by 30 cm rectangle and a triangle with height 15 cm and base 30 cm.",
+      "steps": [
+        "Rectangle area: 15 x 30 = 450 cm².",
+        "Triangle area: 15 x 30 / 2 = 225 cm².",
+        "Difference: 450 - 225 = 225."
+      ],
+      "answer": "225 cm²",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "15*30",
+          "expected": "450"
+        },
+        {
+          "expression": "15*30 / 2",
+          "expected": "225"
+        },
+        {
+          "expression": "450 - 225",
+          "expected": "225"
+        }
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Mathematics",
+      "prompt": "Add 300 shillings to 12% of 3600 shillings.",
+      "steps": [
+        "3600 x 12 / 100 = 432.",
+        "432 + 300 = 732."
+      ],
+      "answer": "Sh 732",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "3600*12 / 100",
+          "expected": "432"
+        },
+        {
+          "expression": "432 + 300",
+          "expected": "732"
+        }
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Mathematics",
+      "prompt": "Subtract 3 hours 55 minutes from 4 hours 13 minutes.",
+      "steps": [
+        "Borrow an hour to write the larger duration as 3 hours 73 minutes.",
+        "73 - 55 = 18 minutes; hours: 3 - 3 = 0."
+      ],
+      "answer": "18 minutes",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "(4*60+13)-(3*60+55)",
+          "expected": "18"
+        },
+        {
+          "expression": "73 - 55",
+          "expected": "18"
+        },
+        {
+          "expression": "3-3",
+          "expected": "0"
+        }
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Mathematics",
+      "prompt": "What is the hundred-thousands digit in 4761592?",
+      "steps": [
+        "The digits are 4 in millions, 7 in hundred-thousands and 6 in ten-thousands."
+      ],
+      "answer": "7",
+      "source_page": 3
+    },
+    {
+      "id": "6(i)",
+      "section": "Mathematics",
+      "prompt": "Find y from the printed chain 100 = 2 x y = 10.",
+      "steps": [
+        "A chained equality requires 100 = 10, which is false.",
+        "If 100 = 2 y is intended, y = 50; if the part 2 y = 10 is intended, y = 5."
+      ],
+      "answer": "The printed chain has no solution. Conditional answers are y = 50 or y = 5, depending on the correction.",
+      "source_page": 3
+    },
+    {
+      "id": "6(ii)",
+      "section": "Mathematics",
+      "prompt": "Two bells ring every 7 and 11 minutes. When will they next ring together?",
+      "steps": [
+        "Both numbers are prime.",
+        "LCM = 7 x 11 = 77."
+      ],
+      "answer": "77 minutes",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "7*11",
+          "expected": "77"
+        }
+      ]
+    },
+    {
+      "id": "6(iii)",
+      "section": "Mathematics",
+      "prompt": "How many 1/4 parts make 1/2?",
+      "steps": [
+        "(1/2) / (1/4) = 2."
+      ],
+      "answer": "2",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "(1/2)/(1/4)",
+          "expected": "2"
+        }
+      ]
+    },
+    {
+      "id": "7(i)",
+      "section": "Mathematics",
+      "prompt": "A farmer harvests 25 sacks of beans, 65 of maize, 55 of rice and 35 of groundnuts, then sells 1/5 of each crop. How many sacks are sold?",
+      "steps": [
+        "25 + 65 + 55 + 35 = 180 sacks.",
+        "180 / 5 = 36."
+      ],
+      "answer": "36 sacks",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "25+65+55+35",
+          "expected": "180"
+        },
+        {
+          "expression": "180 / 5",
+          "expected": "36"
+        }
+      ]
+    },
+    {
+      "id": "7(ii)",
+      "section": "Mathematics",
+      "prompt": "Start with Sh 10000 and buy 3 cakes at Sh 500 each, 4 fruits at Sh 450 each and 3 kg of sugar at Sh 2200 per kg. Find the balance.",
+      "steps": [
+        "3 x 500 = 1500; 4 x 450 = 1800; 3 x 2200 = 6600.",
+        "1500 + 1800 + 6600 = 9900.",
+        "10000 - 9900 = 100."
+      ],
+      "answer": "Sh 100",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "3*500",
+          "expected": "1500"
+        },
+        {
+          "expression": "4*450",
+          "expected": "1800"
+        },
+        {
+          "expression": "3*2200",
+          "expected": "6600"
+        },
+        {
+          "expression": "1500 + 1800 + 6600",
+          "expected": "9900"
+        },
+        {
+          "expression": "10000 - 9900",
+          "expected": "100"
+        }
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Mathematics",
+      "prompt": "An isosceles triangle has apex angle 100°. Angle b is formed by the extended base and a ray parallel to the left side. Find b.",
+      "steps": [
+        "The base angles are equal; 180 - 100 = 80.",
+        "80 / 2 = 40.",
+        "The corresponding angle is b = 40."
+      ],
+      "answer": "40°",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "180 - 100",
+          "expected": "80"
+        },
+        {
+          "expression": "80 / 2",
+          "expected": "40"
+        }
+      ]
+    },
+    {
+      "id": "8(ii)",
+      "section": "Mathematics",
+      "prompt": "A right triangle has hypotenuse 13 cm and base 5 cm. Find its area.",
+      "steps": [
+        "Height² = 13² - 5² = 169 - 25 = 144, so the height is 12 cm.",
+        "Area = 5 x 12 / 2 = 30."
+      ],
+      "answer": "30 cm²",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "13**2-5**2",
+          "expected": "144"
+        },
+        {
+          "expression": "5*12 / 2",
+          "expected": "30"
+        }
+      ]
+    },
+    {
+      "id": "8(iii)",
+      "section": "Mathematics",
+      "prompt": "Find the exterior angle f at the left vertex. Only the lower interior angle of 78° is given.",
+      "steps": [
+        "Let the upper interior angle be t.",
+        "The exterior angle f is the sum of the opposite interior angles: 78° + t.",
+        "No value for t is printed. The adjacent angle at the lower crossing is 102°, but that is not f."
+      ],
+      "answer": "f = 78° + t; it cannot be uniquely determined without the upper angle.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Mathematics": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - MESP Tanzania Standard Six Terminal Exams May 2024",
+      "url": "https://darasahuru.ac.tz/mesp-tanzania-standard-six-terminal-exams-may-2024/"
+    }
+  ],
+  "limitations": [
+    "Question 1 prints vii twice; both items are answered (11 printed parts).",
+    "6(i) has the contradictory chain 100 = 2 y = 10; conditional interpretations are stated.",
+    "8(iii) prints only one interior angle, 78°; f needs a second angle.",
+    "3(i) uses the positive even sequence and identifies the alternative that starts at 0."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "b1819fb11c8fc3fd8f61c51dcbeabe668befc24b03d733919e9053fd787d4738"
+}

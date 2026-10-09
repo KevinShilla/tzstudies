@@ -1,0 +1,758 @@
+{
+  "exam": "Mathematics-S6-2024-MESP-Tanzania-November-Annual-exam.pdf",
+  "output": "Mathematics-S6-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf",
+  "sha256": "02c510a0210596af053af127f48a8024bd586d0d7af4dfca3a169186e262eb90",
+  "subject": "Mathematics",
+  "level": "Standard Six",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Annual exam - November",
+  "question_count": "33 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(ix)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "7(i)",
+    "7(ii)",
+    "8(i)",
+    "8(ii)",
+    "8(iii)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Calculations",
+      "prompt": "Multiply 94 x 765.",
+      "steps": [
+        "Split into place values: 90 x 765 = 68850; 4 x 765 = 3060.",
+        "Add the partial products: 71910."
+      ],
+      "answer": "71910",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "94*765",
+          "expected": "71910"
+        },
+        {
+          "expression": "90*765",
+          "expected": "68850"
+        },
+        {
+          "expression": "4*765",
+          "expected": "3060"
+        }
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Mathematics",
+      "prompt": "Divide 170.2 by 74.",
+      "steps": [
+        "Multiply both the numerator and denominator by 10: 1702/740.",
+        "740 x 2 = 1480, leaving remainder 222; 222/740 = 0.3.",
+        "2 + 0.3 = 2.3."
+      ],
+      "answer": "2.3",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "170.2/74",
+          "expected": "23/10"
+        },
+        {
+          "expression": "740*2",
+          "expected": "1480"
+        },
+        {
+          "expression": "222/740",
+          "expected": "3/10"
+        },
+        {
+          "expression": "2 + 0.3",
+          "expected": "23/10"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Mathematics",
+      "prompt": "Subtract 5 2/3 - 2 1/4.",
+      "steps": [
+        "Convert the mixed numbers to 17/3 and 9/4.",
+        "Use the common denominator 12: 68/12 - 27/12.",
+        "68 - 27 = 41; 41/12 = 3 5/12."
+      ],
+      "answer": "3 5/12",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "(5+2/3)-(2+1/4)",
+          "expected": "41/12"
+        },
+        {
+          "expression": "68 - 27",
+          "expected": "41"
+        }
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Mathematics",
+      "prompt": "Add +17 + (-35).",
+      "steps": [
+        "The signs are opposite: 35 - 17 = 18. The number with the greater magnitude is negative."
+      ],
+      "answer": "-18",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "17+(-35)",
+          "expected": "-18"
+        },
+        {
+          "expression": "35-17",
+          "expected": "18"
+        }
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Calculations",
+      "prompt": "Divide 7320 by 24.",
+      "steps": [
+        "73 / 24: write 3; 3 x 24 = 72; 73 - 72 = 1.",
+        "12 / 24: write 0; 0 x 24 = 0; 12 - 0 = 12.",
+        "120 / 24: write 5; 5 x 24 = 120; 120 - 120 = 0.",
+        "24 x 305 = 7320.",
+        "7320 / 24 = 305."
+      ],
+      "answer": "305",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "7320/24",
+          "expected": "305"
+        },
+        {
+          "expression": "3*24",
+          "expected": "72"
+        },
+        {
+          "expression": "73 - 72",
+          "expected": "1"
+        },
+        {
+          "expression": "0*24",
+          "expected": "0"
+        },
+        {
+          "expression": "12 - 0",
+          "expected": "12"
+        },
+        {
+          "expression": "5*24",
+          "expected": "120"
+        },
+        {
+          "expression": "120 - 120",
+          "expected": "0"
+        },
+        {
+          "expression": "24*305",
+          "expected": "7320"
+        },
+        {
+          "expression": "7320 / 24",
+          "expected": "305"
+        }
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Mathematics",
+      "prompt": "Divide 0.025 by 2.5.",
+      "steps": [
+        "Multiply both numbers by 1000: 25/2500.",
+        "25 / 2500 = 0.01."
+      ],
+      "answer": "0.01",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "0.025/2.5",
+          "expected": "1/100"
+        },
+        {
+          "expression": "25 / 2500",
+          "expected": "1/100"
+        }
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Mathematics",
+      "prompt": "Subtract 9 - 6.725.",
+      "steps": [
+        "Write 9 as 9.000.",
+        "Regroup to obtain 8 whole units, 9 tenths, 9 hundredths and 10 thousandths.",
+        "10 - 5 = 5; 9 - 2 = 7; 9 - 7 = 2; 8 - 6 = 2."
+      ],
+      "answer": "2.275",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "9-6.725",
+          "expected": "91/40"
+        },
+        {
+          "expression": "10-5",
+          "expected": "5"
+        },
+        {
+          "expression": "9-2",
+          "expected": "7"
+        },
+        {
+          "expression": "9-7",
+          "expected": "2"
+        },
+        {
+          "expression": "8-6",
+          "expected": "2"
+        }
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Mathematics",
+      "prompt": "Divide 7 1/7 by 6 1/4.",
+      "steps": [
+        "Convert the mixed numbers to 50/7 and 25/4.",
+        "Multiply 50/7 by 4/25; cancel the common factor: 50/25 = 2.",
+        "2 x 4 / 7 = 8/7."
+      ],
+      "answer": "1 1/7",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "(7+1/7)/(6+1/4)",
+          "expected": "8/7"
+        },
+        {
+          "expression": "50/25",
+          "expected": "2"
+        },
+        {
+          "expression": "2*4 / 7",
+          "expected": "8/7"
+        }
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Calculations",
+      "prompt": "Subtract 4405 - 3897.",
+      "steps": [
+        "1 place: regroup 1 from the next place; 15 - 7 = 8.",
+        "10 place: regroup 1 from the next place; 9 - 9 = 0.",
+        "100 place: regroup 1 from the next place; 13 - 8 = 5.",
+        "1000 place: 3 - 3 = 0.",
+        "4405 - 3897 = 508; check 508 + 3897 = 4405."
+      ],
+      "answer": "508",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "4405-3897",
+          "expected": "508"
+        },
+        {
+          "expression": "15 - 7",
+          "expected": "8"
+        },
+        {
+          "expression": "9 - 9",
+          "expected": "0"
+        },
+        {
+          "expression": "13 - 8",
+          "expected": "5"
+        },
+        {
+          "expression": "3 - 3",
+          "expected": "0"
+        },
+        {
+          "expression": "4405 - 3897",
+          "expected": "508"
+        },
+        {
+          "expression": "508 + 3897",
+          "expected": "4405"
+        }
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Mathematics",
+      "prompt": "Subtract 7 - 3 2/7.",
+      "steps": [
+        "7 = 49/7; 3 2/7 = 23/7.",
+        "49 - 23 = 26; 26/7 = 3 5/7."
+      ],
+      "answer": "3 5/7",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "7-(3+2/7)",
+          "expected": "26/7"
+        },
+        {
+          "expression": "49 - 23",
+          "expected": "26"
+        }
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Mathematics",
+      "prompt": "Write two million eight hundred forty-five thousand and twenty-nine in numerals.",
+      "steps": [
+        "2000000 + 845000 + 29 = 2845029."
+      ],
+      "answer": "2845029",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2000000+845000+29",
+          "expected": "2845029"
+        }
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Mathematics",
+      "prompt": "Round 424352 to the nearest thousand.",
+      "steps": [
+        "The hundreds digit is 3, which is less than 5. Keep the thousands digit 4 and replace 352 with 000."
+      ],
+      "answer": "424000",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Mathematics",
+      "prompt": "Name the place of the underlined 0 in 504251.",
+      "steps": [
+        "0 is the second digit of this six-digit number."
+      ],
+      "answer": "Ten-thousands",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Mathematics",
+      "prompt": "What is the ten-thousands digit in 7502780?",
+      "steps": [
+        "The digits are 7 in millions, 5 in hundred-thousands and 0 in ten-thousands."
+      ],
+      "answer": "0",
+      "source_page": 3
+    },
+    {
+      "id": "2(v)",
+      "section": "Mathematics",
+      "prompt": "Write CMXCIX in ordinary numerals.",
+      "steps": [
+        "CM = 900; XC = 90; IX = 9.",
+        "900 + 90 + 9 = 999."
+      ],
+      "answer": "999",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "900 + 90 + 9",
+          "expected": "999"
+        }
+      ]
+    },
+    {
+      "id": "2(vi)",
+      "section": "Mathematics",
+      "prompt": "Write 101101 in words.",
+      "steps": [
+        "101101 = 101000 + 101."
+      ],
+      "answer": "One hundred and one thousand one hundred and one",
+      "source_page": 3
+    },
+    {
+      "id": "3(i)",
+      "section": "Mathematics",
+      "prompt": "Write 37² in Roman numerals.",
+      "steps": [
+        "37 x 37 = 1369.",
+        "1000 = M; 300 = CCC; 60 = LX; 9 = IX."
+      ],
+      "answer": "MCCCLXIX",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "37*37",
+          "expected": "1369"
+        }
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Mathematics",
+      "prompt": "Find the GCF of 19, 38 and 114.",
+      "steps": [
+        "19 is prime; 38 = 2 x 19; 114 = 6 x 19."
+      ],
+      "answer": "19",
+      "source_page": 3
+    },
+    {
+      "id": "3(iii)",
+      "section": "Mathematics",
+      "prompt": "45% of 800 pupils like mathematics. How many do not like it?",
+      "steps": [
+        "100 - 45 = 55%.",
+        "800 x 55 / 100 = 440."
+      ],
+      "answer": "440 pupils",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "100 - 45",
+          "expected": "55"
+        },
+        {
+          "expression": "800*55 / 100",
+          "expected": "440"
+        }
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Mathematics",
+      "prompt": "A baby sleeps for 7 hours from 7:40 a.m. At what time does the baby wake up?",
+      "steps": [
+        "7:40 + 7 hours = 14:40.",
+        "14 - 12 = 2, so the time is in the afternoon."
+      ],
+      "answer": "2:40 p.m.",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "14-12",
+          "expected": "2"
+        }
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Mathematics",
+      "prompt": "Lusajo stays for 840 hours. How many days is that?",
+      "steps": [
+        "840 / 24 = 35."
+      ],
+      "answer": "35 days",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "840 / 24",
+          "expected": "35"
+        }
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Mathematics",
+      "prompt": "Yusufu arrives at 8:08 a.m., which is 30 minutes late. What was his intended arrival time?",
+      "steps": [
+        "8:08 minus 8 minutes = 8:00.",
+        "Subtract the remaining 22 minutes to obtain 7:38."
+      ],
+      "answer": "7:38 a.m.",
+      "source_page": 3
+    },
+    {
+      "id": "5(i)",
+      "section": "Mathematics",
+      "prompt": "Multiply 5 kg 50 g by 50.",
+      "steps": [
+        "5 kg 50 g = 5050 g.",
+        "5050 x 50 = 252500 g.",
+        "252500 g = 252 kg 500 g."
+      ],
+      "answer": "252 kg 500 g",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "5050*50",
+          "expected": "252500"
+        }
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Mathematics",
+      "prompt": "Convert 8 3/4 L to ml.",
+      "steps": [
+        "8 3/4 = 8.75.",
+        "8.75 x 1000 = 8750."
+      ],
+      "answer": "8750 ml",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "8.75*1000",
+          "expected": "8750"
+        }
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Mathematics",
+      "prompt": "Divide 607 km 50 m by 50.",
+      "steps": [
+        "607 km 50 m = 607050 m.",
+        "607050 / 50 = 12141 m."
+      ],
+      "answer": "12 km 141 m",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "607050 / 50",
+          "expected": "12141"
+        }
+      ]
+    },
+    {
+      "id": "6(i)",
+      "section": "Mathematics",
+      "prompt": "Given x = 2, y = 3 and 2 x + y - z = 12, find z.",
+      "steps": [
+        "2 x 2 + 3 = 7.",
+        "7 - z = 12, so z = 7 - 12 = -5.",
+        "Check: 7 - (-5) = 12."
+      ],
+      "answer": "z = -5",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "2*2+3-12",
+          "expected": "-5"
+        },
+        {
+          "expression": "2*2 + 3",
+          "expected": "7"
+        },
+        {
+          "expression": "7-12",
+          "expected": "-5"
+        },
+        {
+          "expression": "7-(-5)",
+          "expected": "12"
+        }
+      ]
+    },
+    {
+      "id": "6(ii)",
+      "section": "Mathematics",
+      "prompt": "Simplify 4 x²yz³ divided by 2 xyz.",
+      "steps": [
+        "Coefficients: 4/2 = 2; x²/x = x; y/y = 1; z³/z = z².",
+        "Cancel the nonzero factors x, y and z."
+      ],
+      "answer": "2 xz², with x, y and z nonzero.",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "4/2",
+          "expected": "2"
+        }
+      ]
+    },
+    {
+      "id": "6(iii)",
+      "section": "Mathematics",
+      "prompt": "Twice a number minus 6 equals 12. Find the number.",
+      "steps": [
+        "2 n = 12 + 6 = 18.",
+        "18 / 2 = 9."
+      ],
+      "answer": "9",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "12+6",
+          "expected": "18"
+        },
+        {
+          "expression": "18 / 2",
+          "expected": "9"
+        }
+      ]
+    },
+    {
+      "id": "7(i)",
+      "section": "Mathematics",
+      "prompt": "Find the mean of 45, 62, 38, 91 and 29.",
+      "steps": [
+        "45 + 62 + 38 + 91 + 29 = 265.",
+        "265 / 5 = 53."
+      ],
+      "answer": "53",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "45+62+38+91+29",
+          "expected": "265"
+        },
+        {
+          "expression": "265 / 5",
+          "expected": "53"
+        }
+      ]
+    },
+    {
+      "id": "7(ii)",
+      "section": "Mathematics",
+      "prompt": "The mean of 45, 90, 30, 29 and y is 56. Find y.",
+      "steps": [
+        "Total = 56 x 5 = 280.",
+        "Known total = 45 + 90 + 30 + 29 = 194.",
+        "280 - 194 = 86."
+      ],
+      "answer": "86",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "56*5",
+          "expected": "280"
+        },
+        {
+          "expression": "45+90+30+29",
+          "expected": "194"
+        },
+        {
+          "expression": "280 - 194",
+          "expected": "86"
+        }
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Mathematics",
+      "prompt": "A square has area 729 cm². Find its perimeter.",
+      "steps": [
+        "27 x 27 = 729, so the side is 27 cm.",
+        "4 x 27 = 108."
+      ],
+      "answer": "108 cm",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "27*27",
+          "expected": "729"
+        },
+        {
+          "expression": "4*27",
+          "expected": "108"
+        }
+      ]
+    },
+    {
+      "id": "8(ii)",
+      "section": "Mathematics",
+      "prompt": "Find the perimeter of the intended semicircle with diameter 28 cm.",
+      "steps": [
+        "Assuming a semicircle and pi = 22/7, the curved arc is (22/7) x 28 / 2 = 44 cm.",
+        "44 + 28 = 72."
+      ],
+      "answer": "72 cm if the shape is a semicircle, using pi = 22/7; the imprecise circular-segment drawing alone is insufficient.",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "(22/7)*28/2",
+          "expected": "44"
+        },
+        {
+          "expression": "44 + 28",
+          "expected": "72"
+        }
+      ]
+    },
+    {
+      "id": "8(iii)",
+      "section": "Mathematics",
+      "prompt": "A circle has diameter 2.8 m. Find its area.",
+      "steps": [
+        "Radius = 2.8 / 2 = 1.4 m.",
+        "Area = pi x r².",
+        "Using 22/7: (22/7) x 1.4 x 1.4 = 6.16."
+      ],
+      "answer": "1.96 pi m²; approximately 6.16 m² using pi = 22/7.",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "(22/7)*1.4*1.4",
+          "expected": "154/25"
+        },
+        {
+          "expression": "2.8 / 2",
+          "expected": "7/5"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Mathematics": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - MESP STANDARD SIX ANNUAL EXAMS NOV 2024",
+      "url": "https://darasahuru.ac.tz/mesp-standard-six-annual-exams-nov-2024/"
+    }
+  ],
+  "limitations": [
+    "8(ii) is intended as a semicircle, but its drawing resembles a circular segment; 72 cm is conditional on a semicircle and pi = 22/7.",
+    "8(iii) gives no approximation for pi; the exact area 1.96 pi and the common 22/7 approximation are both shown."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "d441c767b955fc00f6b95f5263214a216110db1fb22562490b56e3f62e70ce9d"
+}

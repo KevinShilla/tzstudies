@@ -1,0 +1,636 @@
+{
+  "exam": "English-S2-2026-MESP-Tanzania-March-Midterm-exam.pdf",
+  "output": "English-S2-2026-MESP-Tanzania-March-Midterm-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Two",
+  "year": "2026",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Midterm exam - March · Reading Skills",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "8af8d91cdca3be4ae8b5dc71ea271f50b6ef50395c54d5d2cfe35debdbe21e72",
+  "questions": [
+    {
+      "id": "1",
+      "section": "Vocabulary and grammar",
+      "prompt": "Which word begins with the same sound as ball? (A boy, B cat, C dog)",
+      "steps": [
+        "Ball and boy begin with /b/.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Boy.",
+      "source_page": 1
+    },
+    {
+      "id": "2",
+      "section": "Vocabulary and grammar",
+      "prompt": "A cow gives us ___. (A milk, B water, C grass)",
+      "steps": [
+        "Cows produce milk.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Milk.",
+      "source_page": 1
+    },
+    {
+      "id": "3",
+      "section": "Vocabulary and grammar",
+      "prompt": "Choose the plural of book. (A bookes, B books, C book)",
+      "steps": [
+        "Add s to the regular noun book.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Books.",
+      "source_page": 1
+    },
+    {
+      "id": "4",
+      "section": "Vocabulary and grammar",
+      "prompt": "Choose the opposite of big. (A short, B small, C long)",
+      "steps": [
+        "Small contrasts with big in size.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Small.",
+      "source_page": 1
+    },
+    {
+      "id": "5",
+      "section": "Vocabulary and grammar",
+      "prompt": "Arrange Playing, are, children, the into a sentence.",
+      "steps": [
+        "Put the subject first, then the plural auxiliary are and the -ing action.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "The children are playing.",
+      "source_page": 1
+    },
+    {
+      "id": "6",
+      "section": "Vocabulary and grammar",
+      "prompt": "Choose the past tense of jump. (A jumps, B jumping, C jumped)",
+      "steps": [
+        "Add ed to make the regular past tense.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Jumped.",
+      "source_page": 2
+    },
+    {
+      "id": "7",
+      "section": "Vocabulary and grammar",
+      "prompt": "The boy is eating a mango. What is he eating? (A banana, B mango, C orange)",
+      "steps": [
+        "The sentence directly names the food.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Mango.",
+      "source_page": 2
+    },
+    {
+      "id": "8",
+      "section": "Vocabulary and grammar",
+      "prompt": "Which word rhymes with cat? (A pen, B hat, C dog)",
+      "steps": [
+        "Cat and hat share the ending sound /æt/.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Hat.",
+      "source_page": 2
+    },
+    {
+      "id": "9",
+      "section": "Vocabulary and grammar",
+      "prompt": "She ___ to school every day. (A go, B goes, C going)",
+      "steps": [
+        "She is singular; the habitual present verb takes es.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Goes.",
+      "source_page": 2
+    },
+    {
+      "id": "10",
+      "section": "Vocabulary and grammar",
+      "prompt": "There are ___ days in a week. (A four, B seven, C eight)",
+      "steps": [
+        "Monday to Sunday gives seven days.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Seven.",
+      "source_page": 2
+    },
+    {
+      "id": "11",
+      "section": "Vocabulary and grammar",
+      "prompt": "I ___ many animals. (know, no)",
+      "steps": [
+        "Know means be familiar with; no is a negative response.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Know.",
+      "source_page": 2
+    },
+    {
+      "id": "12",
+      "section": "Vocabulary and grammar",
+      "prompt": "That stone is ___. (herd, hard)",
+      "steps": [
+        "Hard describes the stone's firmness.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Hard.",
+      "source_page": 2
+    },
+    {
+      "id": "13",
+      "section": "Vocabulary and grammar",
+      "prompt": "Mr. Mollel keeps a big ___ of cattle. (hard, herd)",
+      "steps": [
+        "Herd is a group of cattle.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Herd.",
+      "source_page": 2
+    },
+    {
+      "id": "14",
+      "section": "Vocabulary and grammar",
+      "prompt": "We carry things in a ___. (curt, cart)",
+      "steps": [
+        "A cart is a vehicle for carrying goods.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Cart.",
+      "source_page": 2
+    },
+    {
+      "id": "15",
+      "section": "Vocabulary and grammar",
+      "prompt": "We use a pencil to ___. (right, write)",
+      "steps": [
+        "Write is the action of forming words.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Write.",
+      "source_page": 2
+    },
+    {
+      "id": "16",
+      "section": "Vocabulary and grammar",
+      "prompt": "My uncle John keeps many ___. (pigs, bigs)",
+      "steps": [
+        "Pigs are animals; bigs is not the required noun.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Pigs.",
+      "source_page": 2
+    },
+    {
+      "id": "17",
+      "section": "Vocabulary and grammar",
+      "prompt": "Our mother cooks food in a ___. (boat, pot)",
+      "steps": [
+        "A pot is a cooking container.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Pot.",
+      "source_page": 2
+    },
+    {
+      "id": "18",
+      "section": "Vocabulary and grammar",
+      "prompt": "Where is the other ___? I saw it eating grass. (got, goat)",
+      "steps": [
+        "A goat is an animal that eats grass.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Goat.",
+      "source_page": 2
+    },
+    {
+      "id": "19",
+      "section": "Vocabulary and grammar",
+      "prompt": "Did you ___ the cock crowing? (hear, here)",
+      "steps": [
+        "Hear is the verb for perceiving sound.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Hear.",
+      "source_page": 2
+    },
+    {
+      "id": "20",
+      "section": "Vocabulary and grammar",
+      "prompt": "My father likes to wear a ___. (hat, hut)",
+      "steps": [
+        "A hat is worn on the head; a hut is a building.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Hat.",
+      "source_page": 3
+    },
+    {
+      "id": "21",
+      "section": "Picture vocabulary",
+      "prompt": "Name picture 21. The source illustration shows a sitting domestic canine with a pointed muzzle and tail.",
+      "steps": [
+        "Identify the visible object or animal and spell its name dog.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Dog.",
+      "source_page": 3
+    },
+    {
+      "id": "22",
+      "section": "Picture vocabulary",
+      "prompt": "Name picture 22. The source illustration shows furniture with pillows, a mattress and blanket.",
+      "steps": [
+        "Identify the visible object or animal and spell its name bed.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Bed.",
+      "source_page": 3
+    },
+    {
+      "id": "23",
+      "section": "Picture vocabulary",
+      "prompt": "Name picture 23. The source illustration shows an open cardboard container with four folded flaps.",
+      "steps": [
+        "Identify the visible object or animal and spell its name box.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Box.",
+      "source_page": 3
+    },
+    {
+      "id": "24",
+      "section": "Picture vocabulary",
+      "prompt": "Name picture 24. The source illustration shows a blue enclosed road vehicle with several windows.",
+      "steps": [
+        "Identify the visible object or animal and spell its name van.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Van.",
+      "source_page": 3
+    },
+    {
+      "id": "25",
+      "section": "Picture vocabulary",
+      "prompt": "Name picture 25. The source illustration shows a small hand-held cylindrical electric light.",
+      "steps": [
+        "Identify the visible object or animal and spell its name torch/flashlight.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Torch/flashlight.",
+      "source_page": 3
+    },
+    {
+      "id": "26",
+      "section": "Picture vocabulary",
+      "prompt": "Name picture 26. The source illustration shows a long-handled digging tool with a flat square blade.",
+      "steps": [
+        "Identify the visible object or animal and spell its name spade.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Spade.",
+      "source_page": 3
+    },
+    {
+      "id": "27",
+      "section": "Picture vocabulary",
+      "prompt": "Name picture 27. The source illustration shows a wild canine with thick fur, a pointed muzzle and upright ears.",
+      "steps": [
+        "Identify the visible object or animal and spell its name wolf.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Wolf.",
+      "source_page": 3
+    },
+    {
+      "id": "28",
+      "section": "Picture vocabulary",
+      "prompt": "Name picture 28. The source illustration shows a group of leafy and other edible garden plants.",
+      "steps": [
+        "Identify the visible object or animal and spell its name vegetables.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Vegetables.",
+      "source_page": 3
+    },
+    {
+      "id": "29",
+      "section": "Picture vocabulary",
+      "prompt": "Name picture 29. The source illustration shows a long limbless reptile.",
+      "steps": [
+        "Identify the visible object or animal and spell its name snake.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Snake.",
+      "source_page": 3
+    },
+    {
+      "id": "30",
+      "section": "Picture vocabulary",
+      "prompt": "Name picture 30. The source illustration shows a utensil with a handle and shallow oval bowl.",
+      "steps": [
+        "Identify the visible object or animal and spell its name spoon.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Spoon.",
+      "source_page": 3
+    },
+    {
+      "id": "31",
+      "section": "Removing initial sounds",
+      "prompt": "Delete the first sound from clock and write the new word.",
+      "steps": [
+        "Remove the initial /k/ sound, leaving lock.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "lock.",
+      "source_page": 3
+    },
+    {
+      "id": "32",
+      "section": "Removing initial sounds",
+      "prompt": "Delete the first sound from fear and write the new word.",
+      "steps": [
+        "Remove /f/, leaving ear.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "ear.",
+      "source_page": 3
+    },
+    {
+      "id": "33",
+      "section": "Removing initial sounds",
+      "prompt": "Delete the first sound from Fight and write the new word.",
+      "steps": [
+        "Removing /f/ leaves /aɪt/, written ight; the printed task cannot produce a normal word.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "ight (not a normal standalone word).",
+      "source_page": 3
+    },
+    {
+      "id": "34",
+      "section": "Removing initial sounds",
+      "prompt": "Delete the first sound from Box and write the new word.",
+      "steps": [
+        "Remove /b/, leaving ox.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "ox.",
+      "source_page": 3
+    },
+    {
+      "id": "35",
+      "section": "Removing initial sounds",
+      "prompt": "Delete the first sound from Strain and write the new word.",
+      "steps": [
+        "Remove the first /s/ sound, leaving train.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "train.",
+      "source_page": 3
+    },
+    {
+      "id": "36",
+      "section": "Removing initial sounds",
+      "prompt": "Delete the first sound from Box and write the new word.",
+      "steps": [
+        "Remove /b/, leaving ox.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "ox.",
+      "source_page": 3
+    },
+    {
+      "id": "37",
+      "section": "Removing initial sounds",
+      "prompt": "Delete the first sound from Bread and write the new word.",
+      "steps": [
+        "Remove the initial /b/ sound; the remaining /red/ is the past pronunciation of read.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "read (pronounced red).",
+      "source_page": 3
+    },
+    {
+      "id": "38",
+      "section": "Removing initial sounds",
+      "prompt": "Delete the first sound from Glove and write the new word.",
+      "steps": [
+        "Remove /g/, leaving love.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "love.",
+      "source_page": 3
+    },
+    {
+      "id": "39",
+      "section": "Removing initial sounds",
+      "prompt": "Delete the first sound from Stone and write the new word.",
+      "steps": [
+        "Remove /s/, leaving tone.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "tone.",
+      "source_page": 3
+    },
+    {
+      "id": "40",
+      "section": "Removing initial sounds",
+      "prompt": "Delete the first sound from Scare and write the new word.",
+      "steps": [
+        "Remove /s/, leaving care.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "care.",
+      "source_page": 3
+    },
+    {
+      "id": "41",
+      "section": "Comprehension",
+      "prompt": "How old is Musa?",
+      "steps": [
+        "The second sentence states his age.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Seven years old.",
+      "source_page": 4
+    },
+    {
+      "id": "42",
+      "section": "Comprehension",
+      "prompt": "What did Musa's mother do on the morning of 13 January?",
+      "steps": [
+        "These actions appear together at the start of the birthday account.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "She woke him up, hugged him and wished him a happy birthday.",
+      "source_page": 4
+    },
+    {
+      "id": "43",
+      "section": "Comprehension",
+      "prompt": "What present did Musa receive from his mother?",
+      "steps": [
+        "The passage directly names her gift.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A nice shirt.",
+      "source_page": 4
+    },
+    {
+      "id": "44",
+      "section": "Comprehension",
+      "prompt": "What present did Musa receive from his father?",
+      "steps": [
+        "The passage directly names his gift.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A new pair of shoes.",
+      "source_page": 4
+    },
+    {
+      "id": "45",
+      "section": "Comprehension",
+      "prompt": "What did Musa and his friends do?",
+      "steps": [
+        "The narrator describes these activities after the meal.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "They sang and danced cheerfully.",
+      "source_page": 4
+    },
+    {
+      "id": "46",
+      "section": "Comprehension",
+      "prompt": "What is the name of the person who wrote this story?",
+      "steps": [
+        "The first-person account starts 'My name is Musa', which identifies its narrator, not necessarily the writer.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Musa is the narrator; the actual author is not named.",
+      "source_page": 4
+    },
+    {
+      "id": "47",
+      "section": "Comprehension",
+      "prompt": "When was Musa's birthday?",
+      "steps": [
+        "The opening says his birthday was on 13 January.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "13 January.",
+      "source_page": 4
+    },
+    {
+      "id": "48",
+      "section": "Comprehension",
+      "prompt": "The birthday was enjoyable and ___.",
+      "steps": [
+        "This adjective completes the printed description.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Memorable.",
+      "source_page": 4
+    },
+    {
+      "id": "49",
+      "section": "Comprehension",
+      "prompt": "How did Musa feel after being given presents?",
+      "steps": [
+        "The final sentence says he was very happy.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Very happy.",
+      "source_page": 4
+    },
+    {
+      "id": "50",
+      "section": "Comprehension",
+      "prompt": "When the neighbours came, they ate delicious food and drank ___.",
+      "steps": [
+        "The passage names fresh fruit juice as their drink.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Fresh fruit juice.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Vocabulary and grammar": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Picture vocabulary": "Observe the pictured object or action. Name its identifying features and use correct spelling; action sentences use is or are with an ing verb.",
+    "Removing initial sounds": "Distinguish speech sounds from written letters. Blend consonants, recognise digraphs and compare pronunciations when identifying rhymes or homophones.",
+    "Comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "MESP TZ Standard Two Midterm Examinations March 2026",
+      "url": "https://darasahuru.ac.tz/mesp-tz-standard-two-midterm-examinations-march-2026/"
+    }
+  ],
+  "limitations": [
+    "33: Fight without its first sound leaves ight, not a normal standalone word; no invented replacement is supplied.",
+    "46: The narrator is named Musa; the author of the exam passage is not identified."
+  ],
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "question_count": "50 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "7cce77a1a17d7f9294396ad1dc18ae466860b43aa72d947900fa70dcf23a5247"
+}

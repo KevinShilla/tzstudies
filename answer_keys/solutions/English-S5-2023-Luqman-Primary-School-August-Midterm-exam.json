@@ -1,0 +1,578 @@
+{
+  "exam": "English-S5-2023-Luqman-Primary-School-August-Midterm-exam.pdf",
+  "output": "English-S5-2023-Luqman-Primary-School-August-Midterm-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Five",
+  "year": "2023",
+  "code": "Not printed in source",
+  "board": "Luqman Primary School",
+  "exam_type": "Midterm exam - August",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "668c4a0f92f0e6350529bd1fba177b39293cf08bff4f9c9ab0bac6c02a894ca0",
+  "questions": [
+    {
+      "id": "1",
+      "section": "Listening and grammar",
+      "prompt": "What did the Princess like doing? (A walk, B pick, C pick flowers and watch birds, D walk alone, E fight)",
+      "steps": [
+        "The included listening script on page 4 directly states these evening activities.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Picking flowers and watching birds.",
+      "source_page": 1
+    },
+    {
+      "id": "2",
+      "section": "Listening and grammar",
+      "prompt": "Who captured the Princess? (A brave man, B bad men, C poor boy, D group of men, E king)",
+      "steps": [
+        "The last sentence of the script uses this description.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. A group of men.",
+      "source_page": 1
+    },
+    {
+      "id": "3",
+      "section": "Listening and grammar",
+      "prompt": "When did the story take place? (A once, B long time, C once upon a time, D during Covid-19, E unknown)",
+      "steps": [
+        "The script opens with this traditional story phrase, giving no exact date.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Once upon a time.",
+      "source_page": 1
+    },
+    {
+      "id": "4",
+      "section": "Listening and grammar",
+      "prompt": "Where was the palace garden? (A near post office, B close to forest, C in forest, D inside palace, E above water)",
+      "steps": [
+        "The script explicitly locates the garden near the forest.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Close to the forest.",
+      "source_page": 1
+    },
+    {
+      "id": "5",
+      "section": "Listening and grammar",
+      "prompt": "How long did she stay in the forest? (A until morning, B until, C until dark, D all night, E did not go)",
+      "steps": [
+        "The script says she stayed until it became dark.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Until dark.",
+      "source_page": 1
+    },
+    {
+      "id": "6",
+      "section": "Listening and grammar",
+      "prompt": "Which structure makes a past simple sentence? (A N/p+mv, B have+mv, C S+mv-s, D S+will/shall+V+O, E mv in past+O)",
+      "steps": [
+        "A complete affirmative sentence needs a subject and a finite past verb; the printed alternatives do not state the full rule clearly.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Required complete structure: subject + past-tense main verb + object/complement. E indicates the intended past verb but omits the subject.",
+      "source_page": 1
+    },
+    {
+      "id": "7",
+      "section": "Listening and grammar",
+      "prompt": "Does giraffe ___ only vegetation? (A ate, B eats, C eaten, D feeds, E fed)",
+      "steps": [
+        "Does must be followed by the base verb eat or feed on; all printed verb forms are unsuitable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "No correct option. Corrected: Does a giraffe eat only vegetation?",
+      "source_page": 1
+    },
+    {
+      "id": "8",
+      "section": "Listening and grammar",
+      "prompt": "The children ___ played since yesterday. (A played, B plays, C has, D play, E have)",
+      "steps": [
+        "A plural subject takes have before the past participle played.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Have.",
+      "source_page": 1
+    },
+    {
+      "id": "9",
+      "section": "Listening and grammar",
+      "prompt": "My nephew comes home late. Which pronoun replaces my nephew? (A he, B she, C herself, D itself, E they)",
+      "steps": [
+        "Nephew is the male family term, so he is intended.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. He.",
+      "source_page": 1
+    },
+    {
+      "id": "10",
+      "section": "Listening and grammar",
+      "prompt": "I prefer eating bananas ___ rice. (A and, B at, C with, D for, E to)",
+      "steps": [
+        "Prefer X to Y compares preferences; with would instead mean eating the foods together.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. To, for a comparison.",
+      "source_page": 1
+    },
+    {
+      "id": "11",
+      "section": "Listening and grammar",
+      "prompt": "Mr. Mtango comes to school ___ motorcycle. (A with, B into, C on, D by, E at)",
+      "steps": [
+        "Use by before a means of transport without an article.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. By.",
+      "source_page": 1
+    },
+    {
+      "id": "12",
+      "section": "Listening and grammar",
+      "prompt": "Simba played ___ African sports. (A against, B with, C by, D at, E along)",
+      "steps": [
+        "Against identifies the opposing team.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Against is intended; with is grammatical in a shared-play sense.",
+      "source_page": 1
+    },
+    {
+      "id": "13",
+      "section": "Grammar and vocabulary",
+      "prompt": "___ Mainda ___ Kamtoni finished the assignment. (A neither/nor, B either/or, C neither/or, D either/or, E neither/either)",
+      "steps": [
+        "Both pairs are correct conjunctions; no context states whether neither or one of them finished.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Neither...nor, or B/D. either...or, depending on intended meaning.",
+      "source_page": 2
+    },
+    {
+      "id": "14",
+      "section": "Grammar and vocabulary",
+      "prompt": "They will ___ to Mtwara. (A went, B gone, C going, D go, E run)",
+      "steps": [
+        "Will takes a base verb; go expresses travel generally.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Go (intended); E. run is also grammatical.",
+      "source_page": 2
+    },
+    {
+      "id": "15",
+      "section": "Grammar and vocabulary",
+      "prompt": "He was making noise ___ the teacher was teaching. (A and, B as, C when, D while, E during)",
+      "steps": [
+        "While clearly expresses simultaneous ongoing actions.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. While is intended; as and when can also join these actions.",
+      "source_page": 2
+    },
+    {
+      "id": "16",
+      "section": "Grammar and vocabulary",
+      "prompt": "I have been here ___ a long period. (A since, B behind, C to, D of, E for)",
+      "steps": [
+        "For introduces duration; since introduces a starting point.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. For.",
+      "source_page": 2
+    },
+    {
+      "id": "17",
+      "section": "Grammar and vocabulary",
+      "prompt": "I saw a dog ___ I was on my way home. (A while, B on, C when, D in, E to)",
+      "steps": [
+        "Both conjunctions can connect the sighting with the journey.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. While or C. when.",
+      "source_page": 2
+    },
+    {
+      "id": "18",
+      "section": "Grammar and vocabulary",
+      "prompt": "___ you work hard, you will receive gifts. (A if, B unless, C although, D in spite of, E though)",
+      "steps": [
+        "If introduces the positive condition for the reward.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. If.",
+      "source_page": 2
+    },
+    {
+      "id": "19",
+      "section": "Grammar and vocabulary",
+      "prompt": "She ___ to swim every Friday. (A love, B loves, C loved, D is loving)",
+      "steps": [
+        "The third-person present form is loves; past loved would need a past context.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Loves, for a current habit.",
+      "source_page": 2
+    },
+    {
+      "id": "20",
+      "section": "Grammar and vocabulary",
+      "prompt": "An elephant is ___ than a lion. (A big, B biggest, C large, D bigger, E too big)",
+      "steps": [
+        "Than takes the comparative bigger.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Bigger.",
+      "source_page": 2
+    },
+    {
+      "id": "21",
+      "section": "Grammar and vocabulary",
+      "prompt": "I saw her pen ___ the chair. (A on, B at, C by, D above [printed obove], E under)",
+      "steps": [
+        "No picture or location clue is supplied, so a preposition cannot be prescribed uniquely.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "No unique answer: on, by, above or under can describe different positions.",
+      "source_page": 2
+    },
+    {
+      "id": "22",
+      "section": "Grammar and vocabulary",
+      "prompt": "Cornell ___ to jail. (A has been taken, B have been taken, C is, D in, E will)",
+      "steps": [
+        "Cornell is singular; has been taken is a complete passive verb phrase.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Has been taken.",
+      "source_page": 2
+    },
+    {
+      "id": "23",
+      "section": "Grammar and vocabulary",
+      "prompt": "They ___ fly Singapore next Friday night. (A go, B shall, C use, D should, E can)",
+      "steps": [
+        "Next Friday supports future intention, but it does not rule out advice or ability.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Shall is the intended future auxiliary; should/can are also grammatical with other meanings. Corrected: fly to Singapore.",
+      "source_page": 2
+    },
+    {
+      "id": "24",
+      "section": "Grammar and vocabulary",
+      "prompt": "___ she works fast, she will not finish. (A if, B unless, C since, D for, E should)",
+      "steps": [
+        "Unless means if she does not; the source also needs works instead of work.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Unless (intended warning).",
+      "source_page": 2
+    },
+    {
+      "id": "25",
+      "section": "Grammar and vocabulary",
+      "prompt": "Hour hand is just before 8; minute hand is at 10. What time is it? (A seven minutes to ten, B 7:10, C 8:50, D ten minutes to seven, E ten minutes to eight)",
+      "steps": [
+        "At 10 the minute hand shows 50 minutes; the approaching hour is 8.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Ten minutes to eight (7:50).",
+      "source_page": 2
+    },
+    {
+      "id": "26",
+      "section": "Grammar and vocabulary",
+      "prompt": "Ally would come ___ he had permission. (A unless, B if, C but, D because, E although)",
+      "steps": [
+        "Would plus if and past tense expresses a hypothetical condition.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. If, for the intended condition.",
+      "source_page": 2
+    },
+    {
+      "id": "27",
+      "section": "Grammar and vocabulary",
+      "prompt": "I came here ___ to see Juma. (A because, B in ordered to, C in order, D in order that, E in order to)",
+      "steps": [
+        "To is already printed after the blank, so in order makes in order to without doubling to.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. In order.",
+      "source_page": 2
+    },
+    {
+      "id": "28",
+      "section": "Grammar and vocabulary",
+      "prompt": "If we ___ a yacht, we would sail the Indian Ocean. (A have, B had, C has, D haven't, E hasn't)",
+      "steps": [
+        "A hypothetical conditional uses if + past and would + base verb.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Had.",
+      "source_page": 2
+    },
+    {
+      "id": "29",
+      "section": "Grammar and vocabulary",
+      "prompt": "Give the opposite of above. (A below, B blown, C under, D front, E up)",
+      "steps": [
+        "Above and below are the standard opposite pair; under has a related lower-position meaning.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Below (standard paired opposite).",
+      "source_page": 2
+    },
+    {
+      "id": "30",
+      "section": "Grammar and vocabulary",
+      "prompt": "What means help? (A assist, B hard, C aids, D service, E add)",
+      "steps": [
+        "Assist is the matching base-form synonym.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Assist.",
+      "source_page": 2
+    },
+    {
+      "id": "31",
+      "section": "Grammar and vocabulary",
+      "prompt": "That pond is the ___ in the area. (A shallow, B shallower, C shallowest, D shallowed, E shallowing)",
+      "steps": [
+        "Use the superlative for comparison with all ponds in the area.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Shallowest.",
+      "source_page": 2
+    },
+    {
+      "id": "32",
+      "section": "Grammar and vocabulary",
+      "prompt": "The kindergarten pupils will ___ soon. (A graduation, B graduate, C graduated, D party, E ceremony)",
+      "steps": [
+        "Will takes a base verb; graduate means complete a course.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Graduate (intended completion).",
+      "source_page": 2
+    },
+    {
+      "id": "33",
+      "section": "Grammar and vocabulary",
+      "prompt": "What does your mother's daughter call your mother? (A stepmother, B guardian, C mother, D aunt, E grandmother)",
+      "steps": [
+        "The woman is the daughter's mother too.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Mother.",
+      "source_page": 2
+    },
+    {
+      "id": "34",
+      "section": "Composition and comprehension",
+      "prompt": "The bottle is ___ the table. I left it there this morning. (A over, B in, C under, D besides, E on)",
+      "steps": [
+        "On describes resting on the tabletop; no printed clue establishes its location.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. On is likely intended; over/under are also possible without a picture.",
+      "source_page": 3
+    },
+    {
+      "id": "35",
+      "section": "Composition and comprehension",
+      "prompt": "A crowd is a group of ___. (A stars, B clouds, C people, D army, E pupils)",
+      "steps": [
+        "Crowd generally names many people gathered together.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. People (general answer); a crowd of pupils is also possible.",
+      "source_page": 3
+    },
+    {
+      "id": "36",
+      "section": "Composition and comprehension",
+      "prompt": "Order with A-E: Moses advised his sister to use the library to improve her grades.",
+      "steps": [
+        "Finish with the advice after discussing the library.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E.",
+      "source_page": 3
+    },
+    {
+      "id": "37",
+      "section": "Composition and comprehension",
+      "prompt": "Order: The library has many books arranged on shelves.",
+      "steps": [
+        "This detail follows the library definition.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D.",
+      "source_page": 3
+    },
+    {
+      "id": "38",
+      "section": "Composition and comprehension",
+      "prompt": "Order: Aziza said a library is a big room where books are kept for readers.",
+      "steps": [
+        "Give the definition after introducing their conversation.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C.",
+      "source_page": 3
+    },
+    {
+      "id": "39",
+      "section": "Composition and comprehension",
+      "prompt": "Order: One day Aziza and Moses talked about the school library.",
+      "steps": [
+        "The conversation follows introduction of the pupils.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B.",
+      "source_page": 3
+    },
+    {
+      "id": "40",
+      "section": "Composition and comprehension",
+      "prompt": "Order: Moses and Aziza are Standard Five pupils.",
+      "steps": [
+        "Introduce the characters first.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A.",
+      "source_page": 3
+    },
+    {
+      "id": "41",
+      "section": "Composition and comprehension",
+      "prompt": "Which bird is the largest in the world?",
+      "steps": [
+        "The comprehension passage explicitly identifies it.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "The ostrich.",
+      "source_page": 3
+    },
+    {
+      "id": "42",
+      "section": "Composition and comprehension",
+      "prompt": "What foods do birds eat, according to the passage?",
+      "steps": [
+        "Copy the diet list; it describes different birds, not every bird eating every food.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Nectar, fruits, plant seeds and small animals, including other birds.",
+      "source_page": 3
+    },
+    {
+      "id": "43",
+      "section": "Composition and comprehension",
+      "prompt": "What are birds kept at home called?",
+      "steps": [
+        "The final paragraph gives this term.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Domestic birds.",
+      "source_page": 3
+    },
+    {
+      "id": "44",
+      "section": "Composition and comprehension",
+      "prompt": "Which two products do hens and ducks give us?",
+      "steps": [
+        "The final sentence names both products.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Eggs and meat.",
+      "source_page": 3
+    },
+    {
+      "id": "45",
+      "section": "Composition and comprehension",
+      "prompt": "What weight can a fully grown ostrich reach in the passage?",
+      "steps": [
+        "The passage states this upper weight, rather than claiming every ostrich weighs 156 kg.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Up to 156 kilograms.",
+      "source_page": 3
+    }
+  ],
+  "summaries": {
+    "Listening and grammar": "Listen to the supplied teacher text and identify the exact detail asked for. Check spelling and sentence punctuation; missing scripts are explicitly identified.",
+    "Grammar and vocabulary": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Composition and comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "Standard Five Exams | 2010 - 2023 | Monthly, Midterm, Terminal and Annual Exams - Download All Subjects - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/standard-five-exams-2010-2023-monthly-midterm-terminal-and-annual-exams-download-all-subjects/"
+    }
+  ],
+  "limitations": [
+    "6: Printed structure options omit or obscure essential past-simple sentence elements.",
+    "7: No base-form verb is supplied after does.",
+    "13: Neither/nor and duplicate either/or choices are all structurally possible.",
+    "21,34: No diagram or location clue makes the preposition unique.",
+    "23: Destination lacks to and several modal meanings are possible."
+  ],
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+  ],
+  "question_count": "45 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "4b4383baf435ee6be6ff3454d36109103d81b9d1774dba6936174ba9877bad33"
+}

@@ -1,0 +1,906 @@
+{
+  "exam": "Mathematics-S5-2024-KIPCO-Terminal-exam.pdf",
+  "output": "Mathematics-S5-2024-KIPCO-Terminal-exam-AnswerKey.pdf",
+  "sha256": "5a9ddaa3cea5cc53addbfb9e9c897aa5a67219e39c6323756ff42345c9c265b1",
+  "subject": "Mathematics",
+  "level": "Standard Five",
+  "year": "2024",
+  "code": "02",
+  "board": "KIPCO",
+  "exam_type": "Terminal exam",
+  "question_count": "33 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(ix)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "7(i)",
+    "7(ii)",
+    "8(i)",
+    "8(ii)",
+    "8(iii)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Calculations",
+      "prompt": "Add 4999 +443276.",
+      "steps": [
+        "1 place: 9 + 6 = 15; write 5, carry 1.",
+        "10 place: 9 + 7 + carry 1 = 17; write 7, carry 1.",
+        "100 place: 9 + 2 + carry 1 = 12; write 2, carry 1.",
+        "1000 place: 4 + 3 + carry 1 = 8; write 8.",
+        "10000 place: 0 + 4 = 4; write 4.",
+        "100000 place: 0 + 4 = 4; write 4.",
+        "4999 + 443276 = 448275."
+      ],
+      "answer": "448275",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "4999+443276",
+          "expected": "448275"
+        },
+        {
+          "expression": "9 + 6",
+          "expected": "15"
+        },
+        {
+          "expression": "0 + 4",
+          "expected": "4"
+        },
+        {
+          "expression": "4999 + 443276",
+          "expected": "448275"
+        }
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Calculations",
+      "prompt": "Subtract 9804 from 11022.",
+      "steps": [
+        "1 place: regroup 1 from the next place; 12 - 4 = 8.",
+        "10 place: 1 - 0 = 1.",
+        "100 place: regroup 1 from the next place; 10 - 8 = 2.",
+        "1000 place: regroup 1 from the next place; 10 - 9 = 1.",
+        "10000 place: 0 - 0 = 0.",
+        "11022 - 9804 = 1218; check 1218 + 9804 = 11022."
+      ],
+      "answer": "1218",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "11022-9804",
+          "expected": "1218"
+        },
+        {
+          "expression": "12 - 4",
+          "expected": "8"
+        },
+        {
+          "expression": "1 - 0",
+          "expected": "1"
+        },
+        {
+          "expression": "10 - 8",
+          "expected": "2"
+        },
+        {
+          "expression": "10 - 9",
+          "expected": "1"
+        },
+        {
+          "expression": "0 - 0",
+          "expected": "0"
+        },
+        {
+          "expression": "11022 - 9804",
+          "expected": "1218"
+        },
+        {
+          "expression": "1218 + 9804",
+          "expected": "11022"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Calculations",
+      "prompt": "Multiply 922 x 37.",
+      "steps": [
+        "Split into place values: 900 x 37 = 33300; 20 x 37 = 740; 2 x 37 = 74.",
+        "Add the partial products: 34114."
+      ],
+      "answer": "34114",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "922*37",
+          "expected": "34114"
+        },
+        {
+          "expression": "900*37",
+          "expected": "33300"
+        },
+        {
+          "expression": "20*37",
+          "expected": "740"
+        },
+        {
+          "expression": "2*37",
+          "expected": "74"
+        }
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Calculations",
+      "prompt": "Add 6573 to 45768.",
+      "steps": [
+        "1 place: 3 + 8 = 11; write 1, carry 1.",
+        "10 place: 7 + 6 + carry 1 = 14; write 4, carry 1.",
+        "100 place: 5 + 7 + carry 1 = 13; write 3, carry 1.",
+        "1000 place: 6 + 5 + carry 1 = 12; write 2, carry 1.",
+        "10000 place: 0 + 4 + carry 1 = 5; write 5.",
+        "6573 + 45768 = 52341."
+      ],
+      "answer": "52341",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "6573+45768",
+          "expected": "52341"
+        },
+        {
+          "expression": "3 + 8",
+          "expected": "11"
+        },
+        {
+          "expression": "6573 + 45768",
+          "expected": "52341"
+        }
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Mathematics",
+      "prompt": "Add 1.09 +11.93.",
+      "steps": [
+        "Hundredths 9 + 3 = 12; write 2 carry 1.",
+        "Tenths 0 + 9 + 1 = 10; write 0 carry 1.",
+        "Whole parts 1 + 11 + 1 = 13."
+      ],
+      "answer": "13.02",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "1.09+11.93",
+          "expected": "651/50"
+        },
+        {
+          "expression": "9 + 3",
+          "expected": "12"
+        },
+        {
+          "expression": "0 + 9 + 1",
+          "expected": "10"
+        },
+        {
+          "expression": "1 + 11 + 1",
+          "expected": "13"
+        }
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Mathematics",
+      "prompt": "Calculate 5/9 +3/7.",
+      "steps": [
+        "Common denominator 63:5/9=35/63;3/7=27/63.",
+        "35 + 27 = 62."
+      ],
+      "answer": "62/63",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "5/9+3/7",
+          "expected": "62/63"
+        },
+        {
+          "expression": "5/9",
+          "expected": "5/9"
+        },
+        {
+          "expression": "3/7",
+          "expected": "3/7"
+        },
+        {
+          "expression": "35 + 27",
+          "expected": "62"
+        }
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Mathematics",
+      "prompt": "Subtract 1/5 -1/8.",
+      "steps": [
+        "Common denominator 40:1/5=8/40;1/8=5/40.",
+        "8 - 5 = 3."
+      ],
+      "answer": "3/40",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "1/5-1/8",
+          "expected": "3/40"
+        },
+        {
+          "expression": "1/5",
+          "expected": "1/5"
+        },
+        {
+          "expression": "1/8",
+          "expected": "1/8"
+        },
+        {
+          "expression": "8 - 5",
+          "expected": "3"
+        }
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Mathematics",
+      "prompt": "Multiply 7/12 x 11/24.",
+      "steps": [
+        "Numerators 7 x 11 = 77.",
+        "Denominators 12 x 24 = 288.",
+        "No common factor."
+      ],
+      "answer": "77/288",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "(7/12)*(11/24)",
+          "expected": "77/288"
+        },
+        {
+          "expression": "7*11",
+          "expected": "77"
+        },
+        {
+          "expression": "12*24",
+          "expected": "288"
+        }
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Calculations",
+      "prompt": "Divide 14148 by 18.",
+      "steps": [
+        "141 / 18: write 7; 7 x 18 = 126; 141 - 126 = 15.",
+        "154 / 18: write 8; 8 x 18 = 144; 154 - 144 = 10.",
+        "108 / 18: write 6; 6 x 18 = 108; 108 - 108 = 0.",
+        "18 x 786 = 14148.",
+        "14148 / 18 = 786."
+      ],
+      "answer": "786",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "14148/18",
+          "expected": "786"
+        },
+        {
+          "expression": "7*18",
+          "expected": "126"
+        },
+        {
+          "expression": "141 - 126",
+          "expected": "15"
+        },
+        {
+          "expression": "8*18",
+          "expected": "144"
+        },
+        {
+          "expression": "154 - 144",
+          "expected": "10"
+        },
+        {
+          "expression": "6*18",
+          "expected": "108"
+        },
+        {
+          "expression": "108 - 108",
+          "expected": "0"
+        },
+        {
+          "expression": "18*786",
+          "expected": "14148"
+        },
+        {
+          "expression": "14148 / 18",
+          "expected": "786"
+        }
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Mathematics",
+      "prompt": "Subtract 15 -10.09.",
+      "steps": [
+        "Write 15.00 and 10.09 aligned.",
+        "Borrow:14 whole,9 tenths,10 hundredths.",
+        "Hundredths 10 - 9 = 1; tenths 9 - 0 = 9; whole 14 - 10 = 4."
+      ],
+      "answer": "4.91",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "15-10.09",
+          "expected": "491/100"
+        },
+        {
+          "expression": "10 - 9",
+          "expected": "1"
+        },
+        {
+          "expression": "9 - 0",
+          "expected": "9"
+        },
+        {
+          "expression": "14 - 10",
+          "expected": "4"
+        }
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Mathematics",
+      "prompt": "Write three hundred thousand eighty-one thousand and three goats in figures.",
+      "steps": [
+        "Combine 300000+81000+3.",
+        "300000 + 81000 + 3 = 381003."
+      ],
+      "answer": "381003",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "300000 + 81000 + 3",
+          "expected": "381003"
+        }
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Mathematics",
+      "prompt": "Find sum of two consecutive numbers before 18041.",
+      "steps": [
+        "Numbers 18039 and 18040.",
+        "18039 + 18040 = 36079."
+      ],
+      "answer": "36079",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "18039 + 18040",
+          "expected": "36079"
+        }
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Calculations",
+      "prompt": "10000 cows;7011 die. Alive?",
+      "steps": [
+        "1 place: regroup 1 from the next place; 10 - 1 = 9.",
+        "10 place: regroup 1 from the next place; 9 - 1 = 8.",
+        "100 place: regroup 1 from the next place; 9 - 0 = 9.",
+        "1000 place: regroup 1 from the next place; 9 - 7 = 2.",
+        "10000 place: 0 - 0 = 0.",
+        "10000 - 7011 = 2989; check 2989 + 7011 = 10000."
+      ],
+      "answer": "2989 cows",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "10000-7011",
+          "expected": "2989"
+        },
+        {
+          "expression": "10 - 1",
+          "expected": "9"
+        },
+        {
+          "expression": "9 - 1",
+          "expected": "8"
+        },
+        {
+          "expression": "9 - 0",
+          "expected": "9"
+        },
+        {
+          "expression": "9 - 7",
+          "expected": "2"
+        },
+        {
+          "expression": "0 - 0",
+          "expected": "0"
+        },
+        {
+          "expression": "10000 - 7011",
+          "expected": "2989"
+        },
+        {
+          "expression": "2989 + 7011",
+          "expected": "10000"
+        }
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Mathematics",
+      "prompt": "Write 10.5 in words.",
+      "steps": [
+        "Read 10 then decimal digit 5."
+      ],
+      "answer": "Ten point five",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Mathematics",
+      "prompt": "Total value of the ten-thousands digit in 345556?",
+      "steps": [
+        "Digit 4 in ten-thousands.",
+        "4 x 10000 = 40000."
+      ],
+      "answer": "40000",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "4*10000",
+          "expected": "40000"
+        }
+      ]
+    },
+    {
+      "id": "2(vi)",
+      "section": "Mathematics",
+      "prompt": "Form smallest number using 7,0,6,5,3,4 once each.",
+      "steps": [
+        "First digit must be nonzero; choose 3.",
+        "Remaining ascending 0,4,5,6,7."
+      ],
+      "answer": "304567",
+      "source_page": 2
+    },
+    {
+      "id": "3(i)",
+      "section": "Calculations",
+      "prompt": "Handeni 561217 seedlings, Manyoni 393888. Total?",
+      "steps": [
+        "1 place: 7 + 8 = 15; write 5, carry 1.",
+        "10 place: 1 + 8 + carry 1 = 10; write 0, carry 1.",
+        "100 place: 2 + 8 + carry 1 = 11; write 1, carry 1.",
+        "1000 place: 1 + 3 + carry 1 = 5; write 5.",
+        "10000 place: 6 + 9 = 15; write 5, carry 1.",
+        "100000 place: 5 + 3 + carry 1 = 9; write 9.",
+        "561217 + 393888 = 955105."
+      ],
+      "answer": "955105 seedlings",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "561217+393888",
+          "expected": "955105"
+        },
+        {
+          "expression": "7 + 8",
+          "expected": "15"
+        },
+        {
+          "expression": "6 + 9",
+          "expected": "15"
+        },
+        {
+          "expression": "561217 + 393888",
+          "expected": "955105"
+        }
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Mathematics",
+      "prompt": "Three brothers have successive age differences 12 years; middle is 21. Youngest age?",
+      "steps": [
+        "Youngest is 12 years below middle.",
+        "21 - 12 = 9."
+      ],
+      "answer": "9 years",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "21 - 12",
+          "expected": "9"
+        }
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Mathematics",
+      "prompt": "Write 213 in Roman numerals.",
+      "steps": [
+        "200=CC;10=X;3=III."
+      ],
+      "answer": "CCXIII",
+      "source_page": 2
+    },
+    {
+      "id": "4(i)",
+      "section": "Mathematics",
+      "prompt": "Which number is both even and prime?",
+      "steps": [
+        "An even number above 2 has factors 1,2, itself.",
+        "2 has only 1 and 2."
+      ],
+      "answer": "2",
+      "source_page": 2
+    },
+    {
+      "id": "4(ii)",
+      "section": "Mathematics",
+      "prompt": "Change 27/4 into an improper fraction, as requested.",
+      "steps": [
+        "27>4, so 27/4 is already improper.",
+        "If mixed form were intended,27 / 4 gives 6 remainder 3."
+      ],
+      "answer": "27/4 already improper (mixed form 6 3/4).",
+      "source_page": 2
+    },
+    {
+      "id": "4(iii)",
+      "section": "Mathematics",
+      "prompt": "Convert 2 1/2 km to centimetres.",
+      "steps": [
+        "1 km=100000 cm.",
+        "2.5 x 100000 = 250000."
+      ],
+      "answer": "250000 cm",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2.5*100000",
+          "expected": "250000"
+        }
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Mathematics",
+      "prompt": "Which number multiplied by itself equals 361?",
+      "steps": [
+        "19 x 19 = 361.",
+        "Also(-19)x(-19)=361 if negative integers allowed."
+      ],
+      "answer": "19 (also-19 over all integers)",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "19*19",
+          "expected": "361"
+        },
+        {
+          "expression": "(-19)*(-19)",
+          "expected": "361"
+        }
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Calculations",
+      "prompt": "Halima 34656 bags, sells half. Remaining?",
+      "steps": [
+        "3 / 2: write 1; 1 x 2 = 2; 3 - 2 = 1.",
+        "14 / 2: write 7; 7 x 2 = 14; 14 - 14 = 0.",
+        "6 / 2: write 3; 3 x 2 = 6; 6 - 6 = 0.",
+        "5 / 2: write 2; 2 x 2 = 4; 5 - 4 = 1.",
+        "16 / 2: write 8; 8 x 2 = 16; 16 - 16 = 0.",
+        "2 x 17328 = 34656.",
+        "34656 / 2 = 17328."
+      ],
+      "answer": "17328 bags",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "34656/2",
+          "expected": "17328"
+        },
+        {
+          "expression": "1*2",
+          "expected": "2"
+        },
+        {
+          "expression": "3 - 2",
+          "expected": "1"
+        },
+        {
+          "expression": "7*2",
+          "expected": "14"
+        },
+        {
+          "expression": "14 - 14",
+          "expected": "0"
+        },
+        {
+          "expression": "3*2",
+          "expected": "6"
+        },
+        {
+          "expression": "6 - 6",
+          "expected": "0"
+        },
+        {
+          "expression": "2*2",
+          "expected": "4"
+        },
+        {
+          "expression": "5 - 4",
+          "expected": "1"
+        },
+        {
+          "expression": "8*2",
+          "expected": "16"
+        },
+        {
+          "expression": "16 - 16",
+          "expected": "0"
+        },
+        {
+          "expression": "2*17328",
+          "expected": "34656"
+        },
+        {
+          "expression": "34656 / 2",
+          "expected": "17328"
+        }
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Mathematics",
+      "prompt": "3 children share 3 crates of soda equally. Bottles per child?",
+      "steps": [
+        "3 / 3 = 1 crate each.",
+        "The number of bottles in one crate is not printed."
+      ],
+      "answer": "1 crate per child; bottle count cannot be determined without crate capacity (24 if a 24-bottle crate is assumed).",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "3 / 3",
+          "expected": "1"
+        }
+      ]
+    },
+    {
+      "id": "6(i)",
+      "section": "Calculations",
+      "prompt": "50 matchsticks per box;167 boxes. Total?",
+      "steps": [
+        "Split into place values: 50 x 167 = 8350.",
+        "Add the partial products: 8350."
+      ],
+      "answer": "8350 sticks",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "50*167",
+          "expected": "8350"
+        }
+      ]
+    },
+    {
+      "id": "6(ii)",
+      "section": "Mathematics",
+      "prompt": "A car covers 5 km in 3 minutes. Time in seconds for 2 km at same speed?",
+      "steps": [
+        "3 x 60 = 180 seconds for 5 km.",
+        "180 / 5 = 36 seconds perkm.",
+        "36 x 2 = 72."
+      ],
+      "answer": "72 seconds",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "3*60",
+          "expected": "180"
+        },
+        {
+          "expression": "180 / 5",
+          "expected": "36"
+        },
+        {
+          "expression": "36*2",
+          "expected": "72"
+        }
+      ]
+    },
+    {
+      "id": "6(iii)",
+      "section": "Mathematics",
+      "prompt": "Donny buys 3 plates for 145000 shillings. How many more plates if spending 290000?",
+      "steps": [
+        "290000 / 145000 = 2 times the cost.",
+        "3 x 2 = 6 plates in total.",
+        "6 - 3 = 3 more."
+      ],
+      "answer": "3 more (6 total)",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "290000 / 145000",
+          "expected": "2"
+        },
+        {
+          "expression": "3*2",
+          "expected": "6"
+        },
+        {
+          "expression": "6 - 3",
+          "expected": "3"
+        }
+      ]
+    },
+    {
+      "id": "7(i)",
+      "section": "Mathematics",
+      "prompt": "Flowers pictogram:Monday 6 symbols, Tuesday 4, Wednesday 7; each 17 flowers. Total?",
+      "steps": [
+        "6 + 4 + 7 = 17 symbols.",
+        "17 x 17 = 289."
+      ],
+      "answer": "289 flowers",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "6 + 4 + 7",
+          "expected": "17"
+        },
+        {
+          "expression": "17*17",
+          "expected": "289"
+        }
+      ]
+    },
+    {
+      "id": "7(ii)",
+      "section": "Mathematics",
+      "prompt": "Same pictogram:Monday 6 symbols, Tuesday 4, each 17 flowers. Total both days?",
+      "steps": [
+        "6 + 4 = 10 symbols.",
+        "10 x 17 = 170."
+      ],
+      "answer": "170 flowers",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "6 + 4",
+          "expected": "10"
+        },
+        {
+          "expression": "10*17",
+          "expected": "170"
+        }
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Mathematics",
+      "prompt": "Draw a parallelogram.",
+      "steps": [
+        "Draw two parallel horizontal sides.",
+        "Join ends with two parallel sloping sides."
+      ],
+      "answer": "Four-sided figure with both pairs of opposite sides parallel.",
+      "source_page": 4
+    },
+    {
+      "id": "8(ii)",
+      "section": "Mathematics",
+      "prompt": "Find perimeter of isosceles triangle with equal sides 14 cm, base 24 cm; printed height 12 cm.",
+      "steps": [
+        "Tick marks make both sloping sides 14 cm.",
+        "14 + 14 + 24 = 52.",
+        "Height 12 does not lie on the boundary; it is geometrically inconsistent with side 14 and half-base 12."
+      ],
+      "answer": "52 cm from boundary labels",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "14 + 14 + 24",
+          "expected": "52"
+        }
+      ]
+    },
+    {
+      "id": "8(iii)",
+      "section": "Mathematics",
+      "prompt": "Buy 1 kgmaize at 2000 sh/kg,2 kgbeans at 2500 sh/kg,2 soap bars at 1500 sh each. Total?",
+      "steps": [
+        "Maize 1 x 2000 = 2000.",
+        "Beans 2 x 2500 = 5000.",
+        "Soap 2 x 1500 = 3000.",
+        "2000 + 5000 + 3000 = 10000."
+      ],
+      "answer": "Sh 10000",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "1*2000",
+          "expected": "2000"
+        },
+        {
+          "expression": "2*2500",
+          "expected": "5000"
+        },
+        {
+          "expression": "2*1500",
+          "expected": "3000"
+        },
+        {
+          "expression": "2000 + 5000 + 3000",
+          "expected": "10000"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Mathematics": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - KIPCO Standard Five Terminal Examinations 2024",
+      "url": "https://darasahuru.ac.tz/kipco-standard-five-terminal-examinations-2024/"
+    }
+  ],
+  "limitations": [
+    "2(i) unusually repeats thousand; read as 300000+81000+3.",
+    "4(ii)27/4 is already improper; the likely intended mixed form is also shown.",
+    "5(iii)crate bottle capacity is missing; conditional 24 is identified as an assumption.",
+    "8(ii)height 12 cm contradicts equal sides 14 cm/base 24 cm; perimeter uses boundary labels."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "ab34673724dbdfcc562edea396561ab3f6b33e7862b2c457951103555e87382e"
+}

@@ -1,0 +1,514 @@
+{
+  "exam": "English-S2-2022-Iramba-DC-July-Terminal-exam.pdf",
+  "output": "English-S2-2022-Iramba-DC-July-Terminal-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Two",
+  "year": "2022",
+  "code": "Not printed in source",
+  "board": "Iramba DC",
+  "exam_type": "Terminal exam - July",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "3c89cdef3925343f43b518e4288bddafaf748f31202a3714baf686e3b6478db8",
+  "questions": [
+    {
+      "id": "R1",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Seven",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Seven",
+      "source_page": 1
+    },
+    {
+      "id": "R2",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Lion",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Lion",
+      "source_page": 1
+    },
+    {
+      "id": "R3",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Glass",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Glass",
+      "source_page": 1
+    },
+    {
+      "id": "R4",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Family",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Family",
+      "source_page": 1
+    },
+    {
+      "id": "R5",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Chalks",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Chalks",
+      "source_page": 1
+    },
+    {
+      "id": "R6",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Banana",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Banana",
+      "source_page": 1
+    },
+    {
+      "id": "R7",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Table",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Table",
+      "source_page": 1
+    },
+    {
+      "id": "R8",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Blackboard",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Blackboard",
+      "source_page": 1
+    },
+    {
+      "id": "R9",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Rich",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Rich",
+      "source_page": 1
+    },
+    {
+      "id": "R10",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Bottle",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Bottle",
+      "source_page": 1
+    },
+    {
+      "id": "R11",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Begin",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Begin",
+      "source_page": 1
+    },
+    {
+      "id": "R12",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Evening",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Evening",
+      "source_page": 1
+    },
+    {
+      "id": "R13",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Basket",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Basket",
+      "source_page": 1
+    },
+    {
+      "id": "R14",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Window",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Window",
+      "source_page": 1
+    },
+    {
+      "id": "R15",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Book",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Book",
+      "source_page": 1
+    },
+    {
+      "id": "R16",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: Father is digging in the farm.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Father is digging in the farm.",
+      "source_page": 1
+    },
+    {
+      "id": "R17",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: There are seven days of the week.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: There are seven days of the week.",
+      "source_page": 1
+    },
+    {
+      "id": "R18",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: The white cat has jumped.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: The white cat has jumped.",
+      "source_page": 1
+    },
+    {
+      "id": "R19",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: The carpenter has come.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: The carpenter has come.",
+      "source_page": 1
+    },
+    {
+      "id": "R20",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: The child is crying.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: The child is crying.",
+      "source_page": 1
+    },
+    {
+      "id": "W1",
+      "section": "Dictation",
+      "prompt": "Write dictation word 1.",
+      "steps": [
+        "The included marking sheet on page 4 supplies bed. Listen to its sounds, write the word and check its spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "bed.",
+      "source_page": 2
+    },
+    {
+      "id": "W2",
+      "section": "Dictation",
+      "prompt": "Write dictation word 2.",
+      "steps": [
+        "The included marking sheet on page 4 supplies rust. Listen to its sounds, write the word and check its spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "rust.",
+      "source_page": 2
+    },
+    {
+      "id": "W3",
+      "section": "Dictation",
+      "prompt": "Write dictation word 3.",
+      "steps": [
+        "The included marking sheet on page 4 supplies book. Listen to its sounds, write the word and check its spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "book.",
+      "source_page": 2
+    },
+    {
+      "id": "W4",
+      "section": "Dictation",
+      "prompt": "Write dictation word 4.",
+      "steps": [
+        "The included marking sheet on page 4 supplies pen. Listen to its sounds, write the word and check its spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "pen.",
+      "source_page": 2
+    },
+    {
+      "id": "W5",
+      "section": "Dictation",
+      "prompt": "Write dictation word 5.",
+      "steps": [
+        "The included marking sheet on page 4 supplies desk. Listen to its sounds, write the word and check its spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "desk.",
+      "source_page": 2
+    },
+    {
+      "id": "W6",
+      "section": "Picture vocabulary",
+      "prompt": "Name picture 6. The source illustration shows a curved fruit with a stalk.",
+      "steps": [
+        "Identify the object shown and spell banana. The marking sheet confirms this name.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Banana.",
+      "source_page": 2
+    },
+    {
+      "id": "W7",
+      "section": "Picture vocabulary",
+      "prompt": "Name picture 7. The source illustration shows a handled tool with many closely spaced teeth.",
+      "steps": [
+        "Identify the object shown and spell comb. The marking sheet confirms this name.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Comb.",
+      "source_page": 2
+    },
+    {
+      "id": "W8",
+      "section": "Picture vocabulary",
+      "prompt": "Name picture 8. The source illustration shows a seat with a back and four legs.",
+      "steps": [
+        "Identify the object shown and spell chair. The marking sheet confirms this name.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Chair.",
+      "source_page": 2
+    },
+    {
+      "id": "W9",
+      "section": "Picture vocabulary",
+      "prompt": "Name picture 9. The source illustration shows a small drinking container with a handle.",
+      "steps": [
+        "Identify the object shown and spell cup. The marking sheet confirms this name.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Cup.",
+      "source_page": 2
+    },
+    {
+      "id": "W10",
+      "section": "Picture vocabulary",
+      "prompt": "Name picture 10. The source illustration shows a round football with black-and-white panels.",
+      "steps": [
+        "Identify the object shown and spell ball. The marking sheet confirms this name.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Ball.",
+      "source_page": 2
+    },
+    {
+      "id": "W11",
+      "section": "Plurals",
+      "prompt": "Write the plural of ox.",
+      "steps": [
+        "Ox has the irregular plural oxen.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "oxen.",
+      "source_page": 3
+    },
+    {
+      "id": "W12",
+      "section": "Plurals",
+      "prompt": "Write the plural of tooth.",
+      "steps": [
+        "Tooth changes its vowel to make teeth.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "teeth.",
+      "source_page": 3
+    },
+    {
+      "id": "W13",
+      "section": "Plurals",
+      "prompt": "Write the plural of box.",
+      "steps": [
+        "Add es to a noun ending in x.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "boxes.",
+      "source_page": 3
+    },
+    {
+      "id": "W14",
+      "section": "Plurals",
+      "prompt": "Write the plural of pen.",
+      "steps": [
+        "Add s to this regular noun.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "pens.",
+      "source_page": 3
+    },
+    {
+      "id": "W15",
+      "section": "Plurals",
+      "prompt": "Write the plural of book.",
+      "steps": [
+        "Add s to this regular noun.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "books.",
+      "source_page": 3
+    },
+    {
+      "id": "W16",
+      "section": "Capital letters",
+      "prompt": "Write orange in capital letters.",
+      "steps": [
+        "Change every letter to its uppercase form while retaining the same spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "ORANGE.",
+      "source_page": 3
+    },
+    {
+      "id": "W17",
+      "section": "Capital letters",
+      "prompt": "Write water in capital letters.",
+      "steps": [
+        "Change every letter to its uppercase form while retaining the same spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "WATER.",
+      "source_page": 3
+    },
+    {
+      "id": "W18",
+      "section": "Capital letters",
+      "prompt": "Write door in capital letters.",
+      "steps": [
+        "Change every letter to its uppercase form while retaining the same spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "DOOR.",
+      "source_page": 3
+    },
+    {
+      "id": "W19",
+      "section": "Capital letters",
+      "prompt": "Write window in capital letters.",
+      "steps": [
+        "Change every letter to its uppercase form while retaining the same spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "WINDOW.",
+      "source_page": 3
+    },
+    {
+      "id": "W20",
+      "section": "Capital letters",
+      "prompt": "Write blackboard in capital letters.",
+      "steps": [
+        "Change every letter to its uppercase form while retaining the same spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "BLACKBOARD.",
+      "source_page": 3
+    }
+  ],
+  "summaries": {
+    "Oral reading": "Read aloud in the printed order. Pronounce words clearly and pause at punctuation. Teachers assess accuracy and fluency; the printed text is the oral response.",
+    "Dictation": "Listen to the supplied teacher text and identify the exact detail asked for. Check spelling and sentence punctuation; missing scripts are explicitly identified.",
+    "Picture vocabulary": "Observe the pictured object or action. Name its identifying features and use correct spelling; action sentences use is or are with an ing verb.",
+    "Plurals": "Decide whether the noun has a regular or irregular plural. Apply its specific ending or spelling change and check subject-number agreement.",
+    "Capital letters": "Follow a clear sequence and keep the tense consistent. Introduce people and events before their pronouns, actions and final outcome."
+  },
+  "references": [
+    {
+      "title": "Standard Two Exams | 2010 - 2023 | Monthly, Midterm, Terminal and Annual Exams - Download All Subjects - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/standard-two-exams-2010-2023-monthly-midterm-terminal-and-annual-exams-download-all-subjects/"
+    }
+  ],
+  "limitations": [],
+  "expected_parts": [
+    "R1",
+    "R2",
+    "R3",
+    "R4",
+    "R5",
+    "R6",
+    "R7",
+    "R8",
+    "R9",
+    "R10",
+    "R11",
+    "R12",
+    "R13",
+    "R14",
+    "R15",
+    "R16",
+    "R17",
+    "R18",
+    "R19",
+    "R20",
+    "W1",
+    "W2",
+    "W3",
+    "W4",
+    "W5",
+    "W6",
+    "W7",
+    "W8",
+    "W9",
+    "W10",
+    "W11",
+    "W12",
+    "W13",
+    "W14",
+    "W15",
+    "W16",
+    "W17",
+    "W18",
+    "W19",
+    "W20"
+  ],
+  "question_count": "40 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "8134a249f155131dd24f6cf9d55e2d3950b226de02def6e3666dfdc8a8884d78"
+}

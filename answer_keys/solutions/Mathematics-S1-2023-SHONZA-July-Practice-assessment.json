@@ -1,0 +1,483 @@
+{
+  "exam": "Mathematics-S1-2023-SHONZA-July-Practice-assessment.pdf",
+  "output": "Mathematics-S1-2023-SHONZA-July-Practice-assessment-AnswerKey.pdf",
+  "sha256": "7a6b9e51ddbb88f33c33463d4f41bf5dc26ec71d036ca83bcfb9eeca6efaa4e7",
+  "subject": "Mathematics",
+  "level": "Standard One",
+  "year": "2023",
+  "code": "Not printed in source",
+  "board": "SHONZA",
+  "exam_type": "Practice assessment - July · Arithmetic Std. I",
+  "question_count": "35 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18(a)",
+    "18(b)",
+    "19(a)",
+    "19(b)",
+    "20(a)",
+    "20(b)",
+    "21(a)",
+    "21(b)",
+    "24(a)",
+    "24(b)",
+    "25(c)",
+    "25(d)",
+    "22(a)",
+    "22(b)",
+    "23(a)",
+    "23(b)",
+    "25(a)",
+    "25(b)"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Numbers and calculations",
+      "prompt": "Which fruit group A or B has fewer items?",
+      "steps": [
+        "A has 8 mangoes and B has 6 bananas.",
+        "6 < 8."
+      ],
+      "answer": "B",
+      "source_page": 1
+    },
+    {
+      "id": "2",
+      "section": "Numbers and calculations",
+      "prompt": "Count the whistles and write the answer in words.",
+      "steps": [
+        "Each row has 5 whistles.",
+        "5 + 5 = 10."
+      ],
+      "answer": "Ten",
+      "source_page": 1
+    },
+    {
+      "id": "3",
+      "section": "Numbers and calculations",
+      "prompt": "Draw five balls like the example.",
+      "steps": [
+        "Draw five separate round outlines.",
+        "Count them again to check there are exactly 5."
+      ],
+      "answer": "Five balls.",
+      "source_page": 1
+    },
+    {
+      "id": "4",
+      "section": "Numbers and calculations",
+      "prompt": "Choose the words for 59: twenty-nine, thirty-nine or fifty-nine.",
+      "steps": [
+        "59 has 5 tens and 9 ones.",
+        "Five tens are fifty."
+      ],
+      "answer": "Fifty-nine",
+      "source_page": 1
+    },
+    {
+      "id": "5",
+      "section": "Numbers and calculations",
+      "prompt": "Find the smallest number among 9,6,2.",
+      "steps": [
+        "Compare all three numbers.",
+        "2 < 6 < 9."
+      ],
+      "answer": "2",
+      "source_page": 1
+    },
+    {
+      "id": "6",
+      "section": "Numbers and calculations",
+      "prompt": "Write 47 in words.",
+      "steps": [
+        "4 tens are forty, and 7 ones are seven."
+      ],
+      "answer": "Forty-seven",
+      "source_page": 1
+    },
+    {
+      "id": "7",
+      "section": "Numbers and calculations",
+      "prompt": "Write 8 in words.",
+      "steps": [
+        "The single digit 8 is read eight."
+      ],
+      "answer": "Eight",
+      "source_page": 1
+    },
+    {
+      "id": "8",
+      "section": "Numbers and calculations",
+      "prompt": "Write seventy-two in numerals.",
+      "steps": [
+        "70 + 2 = 72."
+      ],
+      "answer": "72",
+      "source_page": 2
+    },
+    {
+      "id": "9",
+      "section": "Numbers and calculations",
+      "prompt": "Write thirty-nine in numerals.",
+      "steps": [
+        "30 + 9 = 39."
+      ],
+      "answer": "39",
+      "source_page": 2
+    },
+    {
+      "id": "10",
+      "section": "Numbers and calculations",
+      "prompt": "What number comes immediately before 76?",
+      "steps": [
+        "76 - 1 = 75."
+      ],
+      "answer": "75",
+      "source_page": 2
+    },
+    {
+      "id": "11",
+      "section": "Numbers and calculations",
+      "prompt": "What number comes immediately after 19?",
+      "steps": [
+        "19 + 1 = 20."
+      ],
+      "answer": "20",
+      "source_page": 2
+    },
+    {
+      "id": "12",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 57,58,[ ],60,[ ].",
+      "steps": [
+        "Increase by 1 each time."
+      ],
+      "answer": "59, 61",
+      "source_page": 2
+    },
+    {
+      "id": "13",
+      "section": "Numbers and calculations",
+      "prompt": "Fill the missing positions in the number grid 1 to 15.",
+      "steps": [
+        "Read across rows, increasing by 1.",
+        "Row 1 needs 3 and 5; row 2 needs 9 and 10."
+      ],
+      "answer": "3, 5, 9, 10",
+      "source_page": 2
+    },
+    {
+      "id": "14",
+      "section": "Numbers and calculations",
+      "prompt": "Arrange 20,10,5,30 in ascending order.",
+      "steps": [
+        "Ascending means smallest to largest.",
+        "5 < 10 < 20 < 30."
+      ],
+      "answer": "5, 10, 20, 30",
+      "source_page": 2
+    },
+    {
+      "id": "15",
+      "section": "Numbers and calculations",
+      "prompt": "Give the values of 2 tens and 3 ones.",
+      "steps": [
+        "2 tens = 2 x 10 = 20.",
+        "3 ones = 3 x 1 = 3; together 23."
+      ],
+      "answer": "20; 3 (combined number 23)",
+      "source_page": 2
+    },
+    {
+      "id": "16",
+      "section": "Numbers and calculations",
+      "prompt": "Express 45 as tens and ones.",
+      "steps": [
+        "45 = 40 + 5.",
+        "40 contains 4 tens."
+      ],
+      "answer": "4 tens and 5 ones",
+      "source_page": 2
+    },
+    {
+      "id": "17",
+      "section": "Numbers and calculations",
+      "prompt": "Name the place value of each digit in 29.",
+      "steps": [
+        "2 is in the tens place; 9 is in the ones place.",
+        "Their values are 20 and 9."
+      ],
+      "answer": "2: tens; 9: ones",
+      "source_page": 2
+    },
+    {
+      "id": "18(a)",
+      "section": "Numbers and calculations",
+      "prompt": "Read the single-rod abacus.",
+      "steps": [
+        "Count its 6 beads.",
+        "A single ones rod represents six."
+      ],
+      "answer": "6",
+      "source_page": 2
+    },
+    {
+      "id": "18(b)",
+      "section": "Numbers and calculations",
+      "prompt": "Read the two-rod abacus.",
+      "steps": [
+        "There are 6 beads on the left tens rod and 4 on the right ones rod.",
+        "60 + 4 = 64."
+      ],
+      "answer": "64",
+      "source_page": 2
+    },
+    {
+      "id": "19(a)",
+      "section": "Numbers and calculations",
+      "prompt": "What is the value of 7 ones?",
+      "steps": [
+        "7 x 1 = 7."
+      ],
+      "answer": "7",
+      "source_page": 2
+    },
+    {
+      "id": "19(b)",
+      "section": "Numbers and calculations",
+      "prompt": "What is the value of 5 tens?",
+      "steps": [
+        "5 x 10 = 50."
+      ],
+      "answer": "50",
+      "source_page": 2
+    },
+    {
+      "id": "20(a)",
+      "section": "Numbers and calculations",
+      "prompt": "Write 30 + 5 in short form.",
+      "steps": [
+        "3 tens and 5 ones form 35."
+      ],
+      "answer": "35",
+      "source_page": 3
+    },
+    {
+      "id": "20(b)",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 17 = [ ] + [ ] in expanded place-value form.",
+      "steps": [
+        "17 has 1 ten and 7 ones.",
+        "10 + 7 = 17."
+      ],
+      "answer": "10 + 7",
+      "source_page": 3
+    },
+    {
+      "id": "21(a)",
+      "section": "Numbers and calculations",
+      "prompt": "Circle the largest of 5,9,16,4.",
+      "steps": [
+        "16 has a tens digit, unlike the other numbers.",
+        "16 is greater than 9, 5 and 4."
+      ],
+      "answer": "16",
+      "source_page": 3
+    },
+    {
+      "id": "21(b)",
+      "section": "Numbers and calculations",
+      "prompt": "Circle the smallest of 70,50,20,30.",
+      "steps": [
+        "Compare the tens digits.",
+        "2 tens is least."
+      ],
+      "answer": "20",
+      "source_page": 3
+    },
+    {
+      "id": "24(a)",
+      "section": "Numbers and calculations",
+      "prompt": "Solve 26 + [ ] = 37.",
+      "steps": [
+        "Subtract 26 from 37.",
+        "37 - 26 = 11; check 26 + 11 = 37."
+      ],
+      "answer": "11",
+      "source_page": 3
+    },
+    {
+      "id": "24(b)",
+      "section": "Numbers and calculations",
+      "prompt": "Solve [ ] - 36 = 22.",
+      "steps": [
+        "Add back what was subtracted.",
+        "22 + 36 = 58; check 58 - 36 = 22."
+      ],
+      "answer": "58",
+      "source_page": 3
+    },
+    {
+      "id": "25(c)",
+      "section": "Numbers and calculations",
+      "prompt": "Shade 1/2 of the circle.",
+      "steps": [
+        "The circle is split into 2 equal semicircles.",
+        "Shade exactly 1 semicircle."
+      ],
+      "answer": "One of the two equal halves shaded.",
+      "source_page": 3
+    },
+    {
+      "id": "25(d)",
+      "section": "Numbers and calculations",
+      "prompt": "Write the fraction shaded in the triangle divided into three parts.",
+      "steps": [
+        "There are 3 equal triangular regions.",
+        "One region is shaded."
+      ],
+      "answer": "1/3",
+      "source_page": 3
+    },
+    {
+      "id": "22(a)",
+      "section": "Calculations",
+      "prompt": "Calculate 2+8+6.",
+      "steps": [
+        "Ones column: 2 + 8 + 6 = 16. Write 6. Carry 1 to the next column.",
+        "Write the remaining carry, 1, on the left.",
+        "Read the digits from left to right: 16."
+      ],
+      "answer": "16",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "2+8+6",
+          "expected": "16"
+        }
+      ]
+    },
+    {
+      "id": "22(b)",
+      "section": "Calculations",
+      "prompt": "Calculate 44+24.",
+      "steps": [
+        "Ones column: 4 + 4 = 8. Write 8.",
+        "Tens column: 4 + 2 = 6. Write 6.",
+        "Read the digits from left to right: 68."
+      ],
+      "answer": "68",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "44+24",
+          "expected": "68"
+        }
+      ]
+    },
+    {
+      "id": "23(a)",
+      "section": "Calculations",
+      "prompt": "Calculate 77-24.",
+      "steps": [
+        "Ones column: 7 - 4 = 3; write 3.",
+        "Tens column: 7 - 2 = 5; write 5.",
+        "Read the result: 53. Check: 53 + 24 = 77."
+      ],
+      "answer": "53",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "77-24",
+          "expected": "53"
+        }
+      ]
+    },
+    {
+      "id": "23(b)",
+      "section": "Calculations",
+      "prompt": "Calculate 89-34.",
+      "steps": [
+        "Ones column: 9 - 4 = 5; write 5.",
+        "Tens column: 8 - 3 = 5; write 5.",
+        "Read the result: 55. Check: 55 + 34 = 89."
+      ],
+      "answer": "55",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "89-34",
+          "expected": "55"
+        }
+      ]
+    },
+    {
+      "id": "25(a)",
+      "section": "Calculations",
+      "prompt": "Calculate 62+27.",
+      "steps": [
+        "Ones column: 2 + 7 = 9. Write 9.",
+        "Tens column: 6 + 2 = 8. Write 8.",
+        "Read the digits from left to right: 89."
+      ],
+      "answer": "89",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "62+27",
+          "expected": "89"
+        }
+      ]
+    },
+    {
+      "id": "25(b)",
+      "section": "Calculations",
+      "prompt": "Calculate 96-46.",
+      "steps": [
+        "Ones column: 6 - 6 = 0; write 0.",
+        "Tens column: 9 - 4 = 5; write 5.",
+        "Read the result: 50. Check: 50 + 46 = 96."
+      ],
+      "answer": "50",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "96-46",
+          "expected": "50"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Numbers and calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Msomi Bora - Standard One Exams | 2010 - 2023 | Monthly, Midterm, Terminal and Annual Exams - Download All Subjects - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/standard-one-exams-2010-2023-monthly-midterm-terminal-and-annual-exams-download-all-subjects/"
+    }
+  ],
+  "limitations": [],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "6441f46945dcbc8b678e1115336711f8cc79319e9eaefbbb6c3983b07e7bd07c"
+}

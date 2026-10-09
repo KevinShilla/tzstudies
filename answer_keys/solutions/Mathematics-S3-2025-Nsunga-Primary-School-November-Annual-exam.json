@@ -1,0 +1,502 @@
+{
+  "exam": "Mathematics-S3-2025-Nsunga-Primary-School-November-Annual-exam.pdf",
+  "output": "Mathematics-S3-2025-Nsunga-Primary-School-November-Annual-exam-AnswerKey.pdf",
+  "sha256": "08bdefb527e0ba851dd2cecee5bff83e8512104c7461586932e7eb65d51d0a6b",
+  "subject": "Hisabati",
+  "level": "Standard Three",
+  "year": "2025",
+  "code": "Not printed in source",
+  "board": "Nsunga Primary School",
+  "exam_type": "Annual exam - November",
+  "question_count": "25 numbered questions/subparts",
+  "language": "sw",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)(a)",
+    "2(iv)(b)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)(a)",
+    "3(iii)(b)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika sabini na tano elfu mia mbili arobaini na moja kwa tarakimu.",
+      "steps": [
+        "75000 + 200 + 40 + 1 = 75241."
+      ],
+      "answer": "75241",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "75000 + 200 + 40 + 1",
+          "expected": "75241"
+        }
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Thamani ya 8 iliyopigiwa mstari katika 28950 ni ipi?",
+      "steps": [
+        "8 iko katika maelfu.",
+        "8 x 1000 = 8000."
+      ],
+      "answer": "8000",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "8 * 1000",
+          "expected": "8000"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika 6000 +300 +20 +1 kwa kifupi.",
+      "steps": [
+        "6000 + 300 + 20 + 1 = 6321."
+      ],
+      "answer": "6321",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "6000 + 300 + 20 + 1",
+          "expected": "6321"
+        }
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika 35780 kwa kirefu.",
+      "steps": [
+        "Tenga kila nafasi, ikiwemo 0 mamoja."
+      ],
+      "answer": "30000 +5000 +700 +80 +0",
+      "source_page": 1
+    },
+    {
+      "id": "1(v)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika sitini na sita elfu mia saba na sita kwa tarakimu.",
+      "steps": [
+        "66000 + 700 + 6 = 66706."
+      ],
+      "answer": "66706",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "66000 + 700 + 6",
+          "expected": "66706"
+        }
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Panga 100,250,600,50,300,150,500 kuanzia kubwa.",
+      "steps": [
+        "Linganisha mamia, kisha makumi."
+      ],
+      "answer": "600,500,300,250,150,100,50",
+      "source_page": 1
+    },
+    {
+      "id": "2(ii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Jaza 16,24,32,[ ].",
+      "steps": [
+        "Ongeza 8; 32 + 8 = 40."
+      ],
+      "answer": "40",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "32 + 8",
+          "expected": "40"
+        }
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika namba ya maelfu 8, mamia 8, makumi 9, mamoja 4.",
+      "steps": [
+        "8000 + 800 + 90 + 4 = 8894."
+      ],
+      "answer": "8894",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "8000 + 800 + 90 + 4",
+          "expected": "8894"
+        }
+      ]
+    },
+    {
+      "id": "2(iv)(a)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Linganisha 4889 na 408.",
+      "steps": [
+        "4889 ina maelfu;408 haina."
+      ],
+      "answer": ">",
+      "source_page": 1
+    },
+    {
+      "id": "2(iv)(b)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Linganisha 2500 na 2500.",
+      "steps": [
+        "Namba zinafanana."
+      ],
+      "answer": "=",
+      "source_page": 1
+    },
+    {
+      "id": "2(v)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Onesha thamani za tarakimu 6,7,4,5,8 katika 67458.",
+      "steps": [
+        "Soma kutoka kushoto: makumielfu, maelfu, mamia, makumi, mamoja."
+      ],
+      "answer": "60000;7000;400;50;8",
+      "source_page": 1
+    },
+    {
+      "id": "3(i)",
+      "section": "Hesabu",
+      "prompt": "Kokotoa 8560+1431.",
+      "steps": [
+        "1 nafasi: 0 + 1 = 1; andika 1.",
+        "10 nafasi: 6 + 3 = 9; andika 9.",
+        "100 nafasi: 5 + 4 = 9; andika 9.",
+        "1000 nafasi: 8 + 1 = 9; andika 9.",
+        "8560 + 1431 = 9991."
+      ],
+      "answer": "9991",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "8560+1431",
+          "expected": "9991"
+        },
+        {
+          "expression": "0 + 1",
+          "expected": "1"
+        },
+        {
+          "expression": "6 + 3",
+          "expected": "9"
+        },
+        {
+          "expression": "5 + 4",
+          "expected": "9"
+        },
+        {
+          "expression": "8 + 1",
+          "expected": "9"
+        },
+        {
+          "expression": "8560 + 1431",
+          "expected": "9991"
+        }
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Hesabu",
+      "prompt": "Kokotoa 58665-35433.",
+      "steps": [
+        "1 nafasi: 5 - 3 = 2.",
+        "10 nafasi: 6 - 3 = 3.",
+        "100 nafasi: 6 - 4 = 2.",
+        "1000 nafasi: 8 - 5 = 3.",
+        "10000 nafasi: 5 - 3 = 2.",
+        "58665 - 35433 = 23232; hakiki 23232 + 35433 = 58665."
+      ],
+      "answer": "23232",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "58665-35433",
+          "expected": "23232"
+        },
+        {
+          "expression": "5 - 3",
+          "expected": "2"
+        },
+        {
+          "expression": "6 - 3",
+          "expected": "3"
+        },
+        {
+          "expression": "6 - 4",
+          "expected": "2"
+        },
+        {
+          "expression": "8 - 5",
+          "expected": "3"
+        },
+        {
+          "expression": "58665 - 35433",
+          "expected": "23232"
+        },
+        {
+          "expression": "23232 + 35433",
+          "expected": "58665"
+        }
+      ]
+    },
+    {
+      "id": "3(iii)(a)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika 3/4 kwa maneno.",
+      "steps": [
+        "Sehemu 3 kati ya 4 sawa."
+      ],
+      "answer": "Robo tatu",
+      "source_page": 1
+    },
+    {
+      "id": "3(iii)(b)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika 1/4 kwa maneno.",
+      "steps": [
+        "Sehemu 1 kati ya 4 sawa."
+      ],
+      "answer": "Robo moja",
+      "source_page": 1
+    },
+    {
+      "id": "4(i)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika sehemu yenye kivuli katika picha ya duara 5.",
+      "steps": [
+        "Duara 3 yametiwa kivuli kati ya 5."
+      ],
+      "answer": "3/5",
+      "source_page": 2
+    },
+    {
+      "id": "4(ii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Nusu kilogramu ni gramu ngapi?",
+      "steps": [
+        "1 kg = 1000 g.",
+        "1000 / 2 = 500."
+      ],
+      "answer": "500 g",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "1000 / 2",
+          "expected": "500"
+        }
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Chora umbo linalowakilisha 1/4.",
+      "steps": [
+        "Chora mraba; ugawanye sehemu 4 sawa.",
+        "Tia kivuli sehemu 1 tu."
+      ],
+      "answer": "Mraba wenye sehemu 1 ya 4 sawa yenye kivuli.",
+      "source_page": 2
+    },
+    {
+      "id": "4(iv)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Umbo la mraba lina pembe ngapi?",
+      "steps": [
+        "Hesabu kona 4."
+      ],
+      "answer": "Pembe 4",
+      "source_page": 2
+    },
+    {
+      "id": "4(v)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Taja jina la umbo lenye pande 3 na pembe moja mraba.",
+      "steps": [
+        "Lina pande 3 na pembe 90°."
+      ],
+      "answer": "Pembetatu yenye pembe mraba",
+      "source_page": 2
+    },
+    {
+      "id": "5(i)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Kuna aina ngapi za vipimio vya urefu?",
+      "steps": [
+        "Makundi ya msingi ni vipimio sanifu na visivyo sanifu."
+      ],
+      "answer": "Aina 2:sanifu na visivyo sanifu",
+      "source_page": 2
+    },
+    {
+      "id": "5(ii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "1 km ni mita ngapi?",
+      "steps": [
+        "Kilo humaanisha 1000.",
+        "1 x 1000 = 1000."
+      ],
+      "answer": "1000 m",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "1 * 1000",
+          "expected": "1000"
+        }
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Hesabu",
+      "prompt": "Kokotoa 2890+1540.",
+      "steps": [
+        "1 nafasi: 0 + 0 = 0; andika 0.",
+        "10 nafasi: 9 + 4 = 13; andika 3, beba 1.",
+        "100 nafasi: 8 + 5 + beba 1 = 14; andika 4, beba 1.",
+        "1000 nafasi: 2 + 1 + beba 1 = 4; andika 4.",
+        "2890 + 1540 = 4430."
+      ],
+      "answer": "4430 shilingi",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2890+1540",
+          "expected": "4430"
+        },
+        {
+          "expression": "0 + 0",
+          "expected": "0"
+        },
+        {
+          "expression": "9 + 4",
+          "expected": "13"
+        },
+        {
+          "expression": "2890 + 1540",
+          "expected": "4430"
+        }
+      ]
+    },
+    {
+      "id": "5(iv)",
+      "section": "Hesabu",
+      "prompt": "Kokotoa 74860-6080.",
+      "steps": [
+        "1 nafasi: 0 - 0 = 0.",
+        "10 nafasi: azima 1 kutoka nafasi inayofuata; 16 - 8 = 8.",
+        "100 nafasi: 7 - 0 = 7.",
+        "1000 nafasi: azima 1 kutoka nafasi inayofuata; 14 - 6 = 8.",
+        "10000 nafasi: 6 - 0 = 6.",
+        "74860 - 6080 = 68780; hakiki 68780 + 6080 = 74860."
+      ],
+      "answer": "68780 shilingi",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "74860-6080",
+          "expected": "68780"
+        },
+        {
+          "expression": "0 - 0",
+          "expected": "0"
+        },
+        {
+          "expression": "16 - 8",
+          "expected": "8"
+        },
+        {
+          "expression": "7 - 0",
+          "expected": "7"
+        },
+        {
+          "expression": "14 - 6",
+          "expected": "8"
+        },
+        {
+          "expression": "6 - 0",
+          "expected": "6"
+        },
+        {
+          "expression": "74860 - 6080",
+          "expected": "68780"
+        },
+        {
+          "expression": "68780 + 6080",
+          "expected": "74860"
+        }
+      ]
+    },
+    {
+      "id": "5(v)",
+      "section": "Hesabu",
+      "prompt": "Kokotoa 32 x 13.",
+      "steps": [
+        "Gawanya kwa thamani ya nafasi: 30 x 13 = 390; 2 x 13 = 26.",
+        "Jumlisha matokeo: 416."
+      ],
+      "answer": "416",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "32*13",
+          "expected": "416"
+        },
+        {
+          "expression": "30 * 13",
+          "expected": "390"
+        },
+        {
+          "expression": "2 * 13",
+          "expected": "26"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Hesabu na matumizi": "Soma namba na vipimo kwa makini. Panga tarakimu kwa nafasi na hakikisha kwa tendo la kinyume. Katika picha, hesabu vitu vilivyoulizwa tu.",
+    "Hesabu": "Soma namba na vipimo kwa makini. Panga tarakimu kwa nafasi na hakikisha kwa tendo la kinyume. Katika picha, hesabu vitu vilivyoulizwa tu."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - DARASA LA 3 ANNUAL EXAMINATION NOVEMBER 2025 NSUNGA PRIMARY SCHOOL - Darasa Huru",
+      "url": "https://darasahuru.ac.tz/darasa-la-3-annual-examination-november-2025/"
+    }
+  ],
+  "limitations": [
+    "2(v) na 3(iii) hazina namba zao kwenye chanzo; zimepewa vitambulisho ili kuhifadhi kila sehemu.",
+    "5(i) imefasiriwa kama aina za vipimio (sanifu na visivyo sanifu), si idadi ya vipimo tofauti."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "bda550ac938e8bbf80a343a77e20ab4487f255eabeff87e8a3b5dc01b0979a3a"
+}

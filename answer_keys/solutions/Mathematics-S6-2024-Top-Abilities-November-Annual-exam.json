@@ -1,0 +1,714 @@
+{
+  "exam": "Mathematics-S6-2024-Top-Abilities-November-Annual-exam.pdf",
+  "output": "Mathematics-S6-2024-Top-Abilities-November-Annual-exam-AnswerKey.pdf",
+  "sha256": "d8c16101d275fd4332938787b3a304c0d67b33038bc63e5c50679ef2de2d77bb",
+  "subject": "Mathematics",
+  "level": "Standard Six",
+  "year": "2024",
+  "code": "04",
+  "board": "Top Abilities",
+  "exam_type": "Pre-annual joint assessment - November",
+  "question_count": "33 numbered questions/subparts (8 main questions)",
+  "language": "en",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(ix)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "7(i)",
+    "7(ii)",
+    "8(i)",
+    "8(ii)",
+    "8(iii)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate 10199 + 11.",
+      "steps": [
+        "1 place: 9 + 1 = 10; write 0, carry 1.",
+        "10 place: 9 + 1 + carry 1 = 11; write 1, carry 1.",
+        "100 place: 1 + 0 + carry 1 = 2; write 2.",
+        "1000 place: 0 + 0 = 0; write 0.",
+        "10000 place: 1 + 0 = 1; write 1.",
+        "10199 + 11 = 10210."
+      ],
+      "answer": "10210",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "10199+11",
+          "expected": "10210"
+        }
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate 791 x 88.",
+      "steps": [
+        "Split into place values: 700 x 88 = 61600; 90 x 88 = 7920; 1 x 88 = 88.",
+        "Add the partial products: 69608."
+      ],
+      "answer": "69608",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "791*88",
+          "expected": "69608"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate 90000 - 3856.",
+      "steps": [
+        "1 place: regroup 1 from the next place; 10 - 6 = 4.",
+        "10 place: regroup 1 from the next place; 9 - 5 = 4.",
+        "100 place: regroup 1 from the next place; 9 - 8 = 1.",
+        "1000 place: regroup 1 from the next place; 9 - 3 = 6.",
+        "10000 place: 8 - 0 = 8.",
+        "90000 - 3856 = 86144; check 86144 + 3856 = 90000."
+      ],
+      "answer": "86144",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "90000-3856",
+          "expected": "86144"
+        }
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate 18415 / 29.",
+      "steps": [
+        "184 / 29: write 6; 6 x 29 = 174; 184 - 174 = 10.",
+        "101 / 29: write 3; 3 x 29 = 87; 101 - 87 = 14.",
+        "145 / 29: write 5; 5 x 29 = 145; 145 - 145 = 0.",
+        "29 x 635 = 18415.",
+        "18415 / 29 = 635."
+      ],
+      "answer": "635",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "18415/29",
+          "expected": "635"
+        }
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate 8 2/3 + 7 1/4.",
+      "steps": [
+        "Convert the mixed numbers: (8 x 3 + 2)/3 = 26/3; (7 x 4 + 1)/4 = 29/4.",
+        "Use denominator 12: 26/3 = 104/12 and 29/4 = 87/12.",
+        "104/12 + 87/12 = 191/12 = 15 11/12."
+      ],
+      "answer": "15 11/12",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "8+2/3+7+1/4",
+          "expected": "191/12"
+        }
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate 0.729 x 7.04.",
+      "steps": [
+        "First calculate whole-number products: 729 x 700 = 510300 and 729 x 4 = 2916.",
+        "510300 + 2916 = 513216.",
+        "The factors have 3 + 2 = 5 decimal places in total, so the product is 5.13216."
+      ],
+      "answer": "5.13216",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "729*700",
+          "expected": "510300"
+        },
+        {
+          "expression": "729*4",
+          "expected": "2916"
+        },
+        {
+          "expression": "510300+2916",
+          "expected": "513216"
+        },
+        {
+          "expression": "0.729*7.04",
+          "expected": "16038/3125"
+        }
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate 1 - 0.3094.",
+      "steps": [
+        "Write 1 as 1.0000 and align decimal places.",
+        "Regroup through the zeros to give 9 tenths, 9 hundredths, 9 thousandths and 10 ten-thousandths.",
+        "Subtract from the right: 10 - 4 = 6; 9 - 9 = 0; 9 - 0 = 9; 9 - 3 = 6.",
+        "Therefore 1.0000 - 0.3094 = 0.6906."
+      ],
+      "answer": "0.6906",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "1-0.3094",
+          "expected": "3453/5000"
+        }
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate -107 - 68 + 2.",
+      "steps": [
+        "-107 - 68 = -175.",
+        "-175 + 2 = -173."
+      ],
+      "answer": "-173",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "-107-68+2",
+          "expected": "-173"
+        }
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate 0.258 / 0.05.",
+      "steps": [
+        "Multiply both numbers by 1000 to remove decimal points: 0.258/0.05 = 258/50.",
+        "50 x 5 = 250, leaving 258 - 250 = 8.",
+        "8/50 = 0.16, so 258/50 = 5.16."
+      ],
+      "answer": "5.16",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "0.258/0.05",
+          "expected": "129/25"
+        }
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate the printed mixed-number forms 3 5/3 / 9 9/4.",
+      "steps": [
+        "Read the printed mixed forms literally: 3 + 5/3 = 14/3 and 9 + 9/4 = 45/4.",
+        "Divide by multiplying by the reciprocal: (14/3) x (4/45).",
+        "14 x 4 = 56 and 3 x 45 = 135; the fraction 56/135 is already simplest."
+      ],
+      "answer": "56/135",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "(3+5/3)/(9+9/4)",
+          "expected": "56/135"
+        }
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Section B: Word problems",
+      "prompt": "Form the smallest four-digit numeral divisible by 5 from the digits 2, 7, 0, 5, 6.",
+      "steps": [
+        "A number divisible by 5 must end in 0 or 5.",
+        "Using each selected digit once, the smallest numeral ending in 5 is 2065; the smallest ending in 0 is 2560.",
+        "2065 < 2560, so the intended distinct-digit answer is 2065.",
+        "The question does not explicitly prohibit repetition. If repetition is allowed, 2000 is the smallest possible numeral."
+      ],
+      "answer": "2065 using distinct digits; 2000 if repeated digits are allowed.",
+      "source_page": 3
+    },
+    {
+      "id": "2(ii)",
+      "section": "Section B: Word problems",
+      "prompt": "A candidate received MCV votes from the town and XXXIV votes from the village. Find the total in Roman numerals.",
+      "steps": [
+        "MCV = 1000 + 100 + 5 = 1105; XXXIV = 30 + 4 = 34.",
+        "1105 + 34 = 1139.",
+        "1139 = 1000 + 100 + 30 + 9 = M + C + XXX + IX = MCXXXIX."
+      ],
+      "answer": "MCXXXIX (1139 votes)",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "1000+100+5",
+          "expected": "1105"
+        },
+        {
+          "expression": "30+4",
+          "expected": "34"
+        },
+        {
+          "expression": "1105+34",
+          "expected": "1139"
+        }
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Section B: Word problems",
+      "prompt": "Fill the missing number: 34, 68, 102, __, 170.",
+      "steps": [
+        "68 - 34 = 34 and 102 - 68 = 34, so add 34 each time.",
+        "102 + 34 = 136; check 136 + 34 = 170."
+      ],
+      "answer": "136",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "102+34",
+          "expected": "136"
+        },
+        {
+          "expression": "136+34",
+          "expected": "170"
+        }
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Section B: Word problems",
+      "prompt": "6840 posters were shared equally among 20 towns. How many posters did 10 towns receive altogether?",
+      "steps": [
+        "Each town received 6840/20 = 342 posters.",
+        "Ten towns received 342 x 10 = 3420 posters."
+      ],
+      "answer": "3420 posters",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "6840/20",
+          "expected": "342"
+        },
+        {
+          "expression": "342*10",
+          "expected": "3420"
+        }
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Section B: Word problems",
+      "prompt": "Round 0.6379 to two decimal places.",
+      "steps": [
+        "The hundredths digit is 3 and the next digit is 7.",
+        "Since 7 is at least 5, raise the hundredths digit from 3 to 4."
+      ],
+      "answer": "0.64",
+      "source_page": 3
+    },
+    {
+      "id": "2(vi)",
+      "section": "Section B: Word problems",
+      "prompt": "Find the total value of the digit 5 in the product of 9 and 435.",
+      "steps": [
+        "9 x 435 = 9 x (400 + 30 + 5) = 3600 + 270 + 45 = 3915.",
+        "The digit 5 in 3915 is in the ones place, so its value is 5."
+      ],
+      "answer": "5",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "9*435",
+          "expected": "3915"
+        }
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Section B: Word problems",
+      "prompt": "Find the sum of the LCM and GCF of 12, 36 and 15.",
+      "steps": [
+        "12 = 2² x 3; 36 = 2² x 3²; 15 = 3 x 5.",
+        "LCM = 2² x 3² x 5 = 180; the only common prime factor is 3, so GCF = 3.",
+        "180 + 3 = 183."
+      ],
+      "answer": "183",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "2**2*3**2*5+3",
+          "expected": "183"
+        }
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Section B: Word problems",
+      "prompt": "The three sisters are 19, 23 and 31 years old. Find the average age of only the two youngest sisters.",
+      "steps": [
+        "The two youngest ages are 19 and 23 years.",
+        "19 + 23 = 42; 42/2 = 21."
+      ],
+      "answer": "21 years",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "(19+23)/2",
+          "expected": "21"
+        }
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Section B: Word problems",
+      "prompt": "A worker earns Sh 720000 and spends 1/4 of his salary on rent. The remainder is shared equally for the school fees of his 12 children. Find the fee for one child.",
+      "steps": [
+        "Rent = 720000 x 1/4 = Sh 180000.",
+        "Remaining salary = 720000 - 180000 = Sh 540000.",
+        "One fee = 540000/12 = Sh 45000."
+      ],
+      "answer": "Sh 45000",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "720000/4",
+          "expected": "180000"
+        },
+        {
+          "expression": "(720000-180000)/12",
+          "expected": "45000"
+        }
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Section B: Word problems",
+      "prompt": "Joharia deposited Sh 600000 at 6% interest per year. After how many years will she earn Sh 90000 interest?",
+      "steps": [
+        "Using simple interest, interest for one year = 600000 x 6/100 = Sh 36000.",
+        "Time = 90000/36000 = 5/2 = 2.5 years.",
+        "Half a year is 6 months."
+      ],
+      "answer": "2.5 years (2 years 6 months)",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "90000/(600000*6/100)",
+          "expected": "5/2"
+        }
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Section B: Word problems",
+      "prompt": "A plane travels at 7324.73 km/h for 7 hours. Find the distance travelled.",
+      "steps": [
+        "Distance = speed x time.",
+        "7324.73 x 7 = 51273.11."
+      ],
+      "answer": "51273.11 km",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "7324.73*7",
+          "expected": "5127311/100"
+        }
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Section B: Word problems",
+      "prompt": "How many 0.975 are there in 156?",
+      "steps": [
+        "Number of groups = 156/0.975.",
+        "Multiply numerator and denominator by 1000: 156000/975 = 160.",
+        "Check 0.975 x 160 = 156."
+      ],
+      "answer": "160",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "156/0.975",
+          "expected": "160"
+        }
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Section B: Word problems",
+      "prompt": "An engineer can reach a ceiling bulb 9 m above the ground while standing on a table 750 cm high. Find his height.",
+      "steps": [
+        "Convert the table height: 750/100 = 7.5 m.",
+        "Under the intended table-plus-person model, height = 9 - 7.5 = 1.5 m.",
+        "Reaching height and body height differ in practice; the printed information only directly determines a 1.5 m reach above the table."
+      ],
+      "answer": "1.5 m under the intended elementary model; body height is not independently determined.",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "750/100",
+          "expected": "15/2"
+        },
+        {
+          "expression": "9-7.5",
+          "expected": "3/2"
+        }
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Section B: Word problems",
+      "prompt": "Find k if 7(k - 1) = -k + 9.",
+      "steps": [
+        "Expand: 7 k - 7 = -k + 9.",
+        "Add k to both sides and add 7 to both sides: 8 k = 16.",
+        "k = 16/8 = 2.",
+        "Check: 7 x (2 - 1) = 7 and -2 + 9 = 7."
+      ],
+      "answer": "k = 2",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "7*(2-1)",
+          "expected": "7"
+        },
+        {
+          "expression": "-2+9",
+          "expected": "7"
+        }
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Section B: Word problems",
+      "prompt": "A number multiplied by 8 and then increased by 15 equals 22. Find the number.",
+      "steps": [
+        "Let the number be n: 8 n + 15 = 22.",
+        "8 n = 22 - 15 = 7.",
+        "n = 7/8.",
+        "Check: 8 x (7/8) + 15 = 22."
+      ],
+      "answer": "7/8",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "8*(7/8)+15",
+          "expected": "22"
+        }
+      ]
+    },
+    {
+      "id": "6(i)",
+      "section": "Section B: Word problems",
+      "prompt": "Evaluate x²y when x = 4/5 and y = 2/3.",
+      "steps": [
+        "(4/5)² = 16/25.",
+        "(16/25) x (2/3) = (16 x 2)/(25 x 3) = 32/75."
+      ],
+      "answer": "32/75",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "(4/5)**2*(2/3)",
+          "expected": "32/75"
+        }
+      ]
+    },
+    {
+      "id": "6(ii)",
+      "section": "Section B: Word problems",
+      "prompt": "A circle has circumference 423.9 m. Find its diameter using pi = 3.14.",
+      "steps": [
+        "Circumference = pi x diameter, so diameter = 423.9/3.14.",
+        "Since 3.14 x 135 = 423.9, the diameter is 135 m."
+      ],
+      "answer": "135 m",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "423.9/3.14",
+          "expected": "135"
+        }
+      ]
+    },
+    {
+      "id": "6(iii)",
+      "section": "Section B: Word problems",
+      "prompt": "A parallelogram has base 36 cm and perpendicular height 12 cm. Find its area.",
+      "steps": [
+        "Area = base x perpendicular height.",
+        "36 x 12 = 432."
+      ],
+      "answer": "432 cm²",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "36*12",
+          "expected": "432"
+        }
+      ]
+    },
+    {
+      "id": "7(i)",
+      "section": "Section C: Geometry and statistics",
+      "prompt": "14400 animals were illegally hunted in Manyara National Park between January and October 2024. The pie chart labels buffaloes 90° (right-angle mark), zebras 100° and lions 50°. How many antelopes were hunted?",
+      "steps": [
+        "A full pie chart is 360°.",
+        "Antelope angle = 360 - 90 - 100 - 50 = 120°.",
+        "Antelope fraction = 120/360 = 1/3.",
+        "14400 x 1/3 = 4800."
+      ],
+      "answer": "4800 antelopes",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "360-90-100-50",
+          "expected": "120"
+        },
+        {
+          "expression": "14400*120/360",
+          "expected": "4800"
+        }
+      ]
+    },
+    {
+      "id": "7(ii)",
+      "section": "Section C: Geometry and statistics",
+      "prompt": "Two cylindrical concrete tanks each have radius 7 m and height 50 m. Find their combined capacity in cubic metres.",
+      "steps": [
+        "Volume of one tank = pi x radius² x height = pi x 7² x 50 = 2450 pi m³.",
+        "Combined capacity = 2 x 2450 pi = 4900 pi m³.",
+        "If pi = 22/7 is used, capacity = 4900 x 22/7 = 15400 m³."
+      ],
+      "answer": "4900 pi m³ (15400 m³ using pi = 22/7)",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "7**2*50",
+          "expected": "2450"
+        },
+        {
+          "expression": "2*7**2*50",
+          "expected": "4900"
+        },
+        {
+          "expression": "2*(22/7)*7**2*50",
+          "expected": "15400"
+        }
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Section C: Geometry and statistics",
+      "prompt": "A semicircle has diameter 28 cm and its right half is shaded. Find the shaded area.",
+      "steps": [
+        "Radius = 28/2 = 14 cm.",
+        "The shaded part is one quarter of a full circle.",
+        "Area = pi x 14²/4 = 49 pi cm².",
+        "If pi = 22/7 is used, 49 x 22/7 = 154 cm²."
+      ],
+      "answer": "49 pi cm² (154 cm² using pi = 22/7)",
+      "source_page": 6,
+      "math_checks": [
+        {
+          "expression": "14**2/4",
+          "expected": "49"
+        },
+        {
+          "expression": "(22/7)*14**2/4",
+          "expected": "154"
+        }
+      ]
+    },
+    {
+      "id": "8(ii)",
+      "section": "Section C: Geometry and statistics",
+      "prompt": "A right triangle has hypotenuse 10 cm and vertical leg 6 cm. Find its area.",
+      "steps": [
+        "Base² = 10² - 6² = 100 - 36 = 64.",
+        "The positive base length is 8 cm because 8² = 64.",
+        "Area = 8 x 6/2 = 24."
+      ],
+      "answer": "24 cm²",
+      "source_page": 6,
+      "math_checks": [
+        {
+          "expression": "10**2-6**2",
+          "expected": "64"
+        },
+        {
+          "expression": "8*6/2",
+          "expected": "24"
+        }
+      ]
+    },
+    {
+      "id": "8(iii)",
+      "section": "Section C: Geometry and statistics",
+      "prompt": "Write the coordinates of points A and B on the grid.",
+      "steps": [
+        "Read the horizontal coordinate first and the vertical coordinate second.",
+        "A is 1 unit left and 3 units above the origin, so A = (-1, 3).",
+        "B is 2 units right and 2 units below the origin, so B = (2, -2)."
+      ],
+      "answer": "A = (-1, 3); B = (2, -2).",
+      "source_page": 6
+    }
+  ],
+  "summaries": {
+    "Section A: Mathematical operations": "Align place values and decimal points. Convert mixed numbers to improper fractions; use a common denominator for addition and subtraction and the reciprocal for division.",
+    "Section B: Word problems": "Choose the operation from the question, convert to consistent units, and check the result. LCM uses the highest prime powers; GCF uses only factors shared by all numbers.",
+    "Section C: Geometry and statistics": "Use marked measurements and angles. Circle sectors are fractions of 360°. Right triangles obey a² + b² = c²; cylinder volume is pi x r² x h. Read graph coordinates as (x, y)."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - TOP ABILITIES STANDARD SIX PRE-ANNUAL JOINT EXAMS 2024",
+      "url": "https://darasahuru.ac.tz/top-abilities-standard-six-pre-annual-joint-exams-2024/"
+    }
+  ],
+  "limitations": [
+    "1(x) prints mixed forms with improper fractional parts; they are evaluated literally rather than silently corrected.",
+    "2(i) does not state whether digits may repeat; both interpretations are identified in the worked answer.",
+    "4(i) uses the intended primary-school simple-interest model.",
+    "5(i) equates reach with body height in its intended elementary model; actual body height cannot be uniquely inferred.",
+    "7(ii) and 8(i) do not specify an approximation for pi; exact expressions and the common 22/7 results are supplied.",
+    "7(i) uses the printed sector angles rather than measuring the schematic drawing."
+  ],
+  "reviewed": true,
+  "review_notes": [
+    "Every source page was visually inspected; OCR was checked against the printed operands, diagram labels and graph scales."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "b9e2b0ddce31214abeee59332d401a6e5ec516032970e35c3f13616770be248c"
+}

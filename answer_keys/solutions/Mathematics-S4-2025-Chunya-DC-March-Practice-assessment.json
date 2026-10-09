@@ -1,0 +1,550 @@
+{
+  "exam": "Mathematics-S4-2025-Chunya-DC-March-Practice-assessment.pdf",
+  "output": "Mathematics-S4-2025-Chunya-DC-March-Practice-assessment-AnswerKey.pdf",
+  "sha256": "870074987e8dd174d941fa36ff2e278126d3a02e137df5564befe2e7e9cc7f26",
+  "subject": "Hisabati",
+  "level": "Standard Four",
+  "year": "2025",
+  "code": "Not printed in source",
+  "board": "Chunya DC",
+  "exam_type": "Practice assessment - March",
+  "question_count": "25 numbered questions/subparts",
+  "language": "sw",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika thelathini na moja elfu kwa tarakimu.",
+      "steps": [
+        "31 x 1000 = 31000."
+      ],
+      "answer": "31000",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "31 * 1000",
+          "expected": "31000"
+        }
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Thamani ya 9 katika 58920?",
+      "steps": [
+        "9 iko kwenye mamia.",
+        "9 x 100 = 900."
+      ],
+      "answer": "900",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "9 * 100",
+          "expected": "900"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika 9000 +700 +0 +6 kwa kifupi.",
+      "steps": [
+        "9000 + 700 + 0 + 6 = 9706."
+      ],
+      "answer": "9706",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "9000 + 700 + 0 + 6",
+          "expected": "9706"
+        }
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika CXI kwa numerali za kiarabu.",
+      "steps": [
+        "C = 100, X = 10, I = 1.",
+        "100 + 10 + 1 = 111."
+      ],
+      "answer": "111",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "100 + 10 + 1",
+          "expected": "111"
+        }
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Tarakimu ya makumielfu katika 235819?",
+      "steps": [
+        "Nafasi ya makumielfu ni ya pili kutoka kushoto."
+      ],
+      "answer": "3",
+      "source_page": 1
+    },
+    {
+      "id": "2(i)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Jaza 2570,2580,2590,[ ].",
+      "steps": [
+        "Ongeza 10; 2590 + 10 = 2600."
+      ],
+      "answer": "2600",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "2590 + 10",
+          "expected": "2600"
+        }
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Kenya 1963, Tanganyika 1961, Uganda 1962, Zimbabwe 1980. Ipi ilipata uhuru kwanza?",
+      "steps": [
+        "Panga miaka 1961,1962,1963,1980.",
+        "1961 ndiyo ya kwanza katika taarifa zilizotolewa."
+      ],
+      "answer": "Tanganyika",
+      "source_page": 1
+    },
+    {
+      "id": "2(iii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Jaza L, XC, CXXX, CLXX,[ ].",
+      "steps": [
+        "Namba ni 50,90,130,170; ongezeko 40.",
+        "170 + 40 = 210;210 = CCX."
+      ],
+      "answer": "CCX",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "170 + 40",
+          "expected": "210"
+        }
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Tendo lipi linapata 120,90,60,30,[ ]?",
+      "steps": [
+        "120 - 90 = 30.",
+        "Punguza 30 kila hatua; 30 - 30 = 0."
+      ],
+      "answer": "Kutoa 30; namba inayofuata 0",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "120 - 90",
+          "expected": "30"
+        },
+        {
+          "expression": "30 - 30",
+          "expected": "0"
+        }
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Tengeneza namba ndogo kwa tarakimu 3,1,5,4 kila moja mara moja.",
+      "steps": [
+        "Panga tarakimu kuanzia ndogo:1,3,4,5."
+      ],
+      "answer": "1345",
+      "source_page": 1
+    },
+    {
+      "id": "3(i)",
+      "section": "Hesabu",
+      "prompt": "Jumlisha 7987 +974.",
+      "steps": [
+        "1 nafasi: 7 + 4 = 11; andika 1, beba 1.",
+        "10 nafasi: 8 + 7 + beba 1 = 16; andika 6, beba 1.",
+        "100 nafasi: 9 + 9 + beba 1 = 19; andika 9, beba 1.",
+        "1000 nafasi: 7 + 0 + beba 1 = 8; andika 8.",
+        "7987 + 974 = 8961."
+      ],
+      "answer": "8961",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "7987+974",
+          "expected": "8961"
+        },
+        {
+          "expression": "7 + 4",
+          "expected": "11"
+        },
+        {
+          "expression": "7987 + 974",
+          "expected": "8961"
+        }
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Hesabu",
+      "prompt": "Tafuta zao la 24 na 7.",
+      "steps": [
+        "Gawanya kwa thamani ya nafasi: 20 x 7 = 140; 4 x 7 = 28.",
+        "Jumlisha matokeo: 168."
+      ],
+      "answer": "168",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "24*7",
+          "expected": "168"
+        },
+        {
+          "expression": "20 * 7",
+          "expected": "140"
+        },
+        {
+          "expression": "4 * 7",
+          "expected": "28"
+        }
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Hesabu",
+      "prompt": "Shule 42 kila moja hupata vitabu 21. Jumla?",
+      "steps": [
+        "Gawanya kwa thamani ya nafasi: 40 x 21 = 840; 2 x 21 = 42.",
+        "Jumlisha matokeo: 882."
+      ],
+      "answer": "882 vitabu",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "42*21",
+          "expected": "882"
+        },
+        {
+          "expression": "40 * 21",
+          "expected": "840"
+        },
+        {
+          "expression": "2 * 21",
+          "expected": "42"
+        }
+      ]
+    },
+    {
+      "id": "3(iv)",
+      "section": "Hesabu",
+      "prompt": "Miche 5120;798 imekauka. Iliyobaki?",
+      "steps": [
+        "1 nafasi: azima 1 kutoka nafasi inayofuata; 10 - 8 = 2.",
+        "10 nafasi: azima 1 kutoka nafasi inayofuata; 11 - 9 = 2.",
+        "100 nafasi: azima 1 kutoka nafasi inayofuata; 10 - 7 = 3.",
+        "1000 nafasi: 4 - 0 = 4.",
+        "5120 - 798 = 4322; hakiki 4322 + 798 = 5120."
+      ],
+      "answer": "4322 miche",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "5120-798",
+          "expected": "4322"
+        },
+        {
+          "expression": "10 - 8",
+          "expected": "2"
+        },
+        {
+          "expression": "11 - 9",
+          "expected": "2"
+        },
+        {
+          "expression": "10 - 7",
+          "expected": "3"
+        },
+        {
+          "expression": "4 - 0",
+          "expected": "4"
+        },
+        {
+          "expression": "5120 - 798",
+          "expected": "4322"
+        },
+        {
+          "expression": "4322 + 798",
+          "expected": "5120"
+        }
+      ]
+    },
+    {
+      "id": "3(v)",
+      "section": "Hesabu",
+      "prompt": "Tafuta zao la 3524 na 23.",
+      "steps": [
+        "Gawanya kwa thamani ya nafasi: 3000 x 23 = 69000; 500 x 23 = 11500; 20 x 23 = 460; 4 x 23 = 92.",
+        "Jumlisha matokeo: 81052."
+      ],
+      "answer": "81052",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "3524*23",
+          "expected": "81052"
+        },
+        {
+          "expression": "3000 * 23",
+          "expected": "69000"
+        },
+        {
+          "expression": "500 * 23",
+          "expected": "11500"
+        },
+        {
+          "expression": "20 * 23",
+          "expected": "460"
+        },
+        {
+          "expression": "4 * 23",
+          "expected": "92"
+        }
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Taja kizio kimoja cha urefu kinachopimwa kwa rula.",
+      "steps": [
+        "Rula huwa na alama za sentimita na milimita."
+      ],
+      "answer": "Sentimita (au milimita)",
+      "source_page": 1
+    },
+    {
+      "id": "4(ii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Barabara 2 km ni meta ngapi?",
+      "steps": [
+        "1 km = 1000 m.",
+        "2 x 1000 = 2000."
+      ],
+      "answer": "2000 m",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "2 * 1000",
+          "expected": "2000"
+        }
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Soma saa yenye mshale mrefu 3 na mfupi baada ya 6.",
+      "steps": [
+        "Mrefu 3:3 x 5 = 15 dakika.",
+        "Saa ya kimataifa 6:15; Kiswahili 6 + 6 = 12."
+      ],
+      "answer": "Saa kumi na mbili na robo (12:15 Kiswahili;6:15 kimataifa).",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "3 * 5",
+          "expected": "15"
+        },
+        {
+          "expression": "6 + 6",
+          "expected": "12"
+        }
+      ]
+    },
+    {
+      "id": "4(iv)",
+      "section": "Hesabu",
+      "prompt": "Jumlisha Sh 45550 na Sh 10700.",
+      "steps": [
+        "1 nafasi: 0 + 0 = 0; andika 0.",
+        "10 nafasi: 5 + 0 = 5; andika 5.",
+        "100 nafasi: 5 + 7 = 12; andika 2, beba 1.",
+        "1000 nafasi: 5 + 0 + beba 1 = 6; andika 6.",
+        "10000 nafasi: 4 + 1 = 5; andika 5.",
+        "45550 + 10700 = 56250."
+      ],
+      "answer": "56250 shilingi",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "45550+10700",
+          "expected": "56250"
+        },
+        {
+          "expression": "0 + 0",
+          "expected": "0"
+        },
+        {
+          "expression": "5 + 0",
+          "expected": "5"
+        },
+        {
+          "expression": "5 + 7",
+          "expected": "12"
+        },
+        {
+          "expression": "4 + 1",
+          "expected": "5"
+        },
+        {
+          "expression": "45550 + 10700",
+          "expected": "56250"
+        }
+      ]
+    },
+    {
+      "id": "4(v)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Sh 10000 zenye noti za Sh 2000 ni noti ngapi?",
+      "steps": [
+        "10000 / 2000 = 5."
+      ],
+      "answer": "Noti 5",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "10000 / 2000",
+          "expected": "5"
+        }
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Kokotoa 23/36 +9/36.",
+      "steps": [
+        "23 + 9 = 32; asili 36.",
+        "32/36 = 8/9 kwa kugawa juu na chini kwa 4."
+      ],
+      "answer": "8/9",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "23/36+9/36",
+          "expected": "8/9"
+        },
+        {
+          "expression": "23 + 9",
+          "expected": "32"
+        },
+        {
+          "expression": "32/36",
+          "expected": "8/9"
+        }
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Kokotoa 8/30 -4/30.",
+      "steps": [
+        "8 - 4 = 4; asili 30.",
+        "4/30 = 2/15 kwa kugawa kwa 2."
+      ],
+      "answer": "2/15",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "8/30-4/30",
+          "expected": "2/15"
+        },
+        {
+          "expression": "8 - 4",
+          "expected": "4"
+        },
+        {
+          "expression": "4/30",
+          "expected": "2/15"
+        }
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Taja jina la sehemu yenye kivuli katika duara.",
+      "steps": [
+        "Sehemu 1 ya 3 sawa ina kivuli."
+      ],
+      "answer": "Theluthi moja",
+      "source_page": 1
+    },
+    {
+      "id": "5(iv)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Kuna vipande vingapi vinavyotokana na alama R, S, T kwenye mstari?",
+      "steps": [
+        "Vipande ni RS, ST na RT.",
+        "RS na ST ni vipande 2 vinavyopakana."
+      ],
+      "answer": "3 kwa alama zote;2 vinavyopakana.",
+      "source_page": 1
+    },
+    {
+      "id": "5(v)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Taja jina la umbo lenye pande 5.",
+      "steps": [
+        "Hesabu pande 5 na kona 5."
+      ],
+      "answer": "Pentagoni (pembetano)",
+      "source_page": 1
+    }
+  ],
+  "summaries": {
+    "Hesabu na matumizi": "Soma namba na vipimo kwa makini. Panga tarakimu kwa nafasi na hakikisha kwa tendo la kinyume. Katika picha, hesabu vitu vilivyoulizwa tu.",
+    "Hesabu": "Soma namba na vipimo kwa makini. Panga tarakimu kwa nafasi na hakikisha kwa tendo la kinyume. Katika picha, hesabu vitu vilivyoulizwa tu."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - CHUNYA DC Standard Four Examination Test March 2025",
+      "url": "https://darasahuru.ac.tz/chunya-dc-standard-four-examination-test-march-2025/"
+    }
+  ],
+  "limitations": [
+    "5(iv) hutaja vipande vyote 3 na vipande vinavyopakana 2 kwa sababu ya utata wa swali."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "242273a17f313211378feff276aa09fb293ebbc165e41fcdb0ab1a2842f4fa20"
+}

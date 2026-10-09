@@ -1,0 +1,652 @@
+{
+  "exam": "English-S3-2022-School-assessment-November-Practice-assessment.pdf",
+  "output": "English-S3-2022-School-assessment-November-Practice-assessment-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Three",
+  "year": "2022",
+  "code": "Not printed in source",
+  "board": "School assessment",
+  "exam_type": "Practice assessment - November",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "f07129013d14191670e374533b76d9d2a5d5ceafd94e44ddd74c9a9d6dc30b25",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Dictation",
+      "prompt": "Write dictation item i.",
+      "steps": [
+        "The included English marking sheet on page 5 supplies Football. Listen and check its spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Football.",
+      "source_page": 1
+    },
+    {
+      "id": "1(ii)",
+      "section": "Dictation",
+      "prompt": "Write dictation item ii.",
+      "steps": [
+        "The included English marking sheet on page 5 supplies Open. Listen and check its spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Open.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iii)",
+      "section": "Dictation",
+      "prompt": "Write dictation item iii.",
+      "steps": [
+        "The included English marking sheet on page 5 supplies Friday. Listen and check its spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Friday.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iv)",
+      "section": "Dictation",
+      "prompt": "Write dictation item iv.",
+      "steps": [
+        "The included English marking sheet on page 5 supplies Twenty. Listen and check its spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Twenty.",
+      "source_page": 1
+    },
+    {
+      "id": "1(v)",
+      "section": "Dictation",
+      "prompt": "Write dictation item v.",
+      "steps": [
+        "The included English marking sheet on page 5 supplies Lion. Listen and check its spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Lion.",
+      "source_page": 1
+    },
+    {
+      "id": "2(i)",
+      "section": "Vocabulary and grammar",
+      "prompt": "Asha is my uncle's daughter. She is my ___. (A Aunt, B sister, C niece, D Causin)",
+      "steps": [
+        "A parent's sibling's child is a cousin.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Cousin (printed Causin is misspelled).",
+      "source_page": 1
+    },
+    {
+      "id": "2(ii)",
+      "section": "Vocabulary and grammar",
+      "prompt": "___ madam, may I come in? (A Can, B please, C may, D use)",
+      "steps": [
+        "Please makes the request polite.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Please.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iii)",
+      "section": "Vocabulary and grammar",
+      "prompt": "The opposite of long is ___. (A Small, B Tall, C Thin, D Short)",
+      "steps": [
+        "Long and short contrast in length.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Short.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iv)",
+      "section": "Vocabulary and grammar",
+      "prompt": "The first month is ___. (A December, B February, C January, D July)",
+      "steps": [
+        "The calendar year begins in January.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. January.",
+      "source_page": 1
+    },
+    {
+      "id": "2(v)",
+      "section": "Vocabulary and grammar",
+      "prompt": "Cows and goats give us ___ and meat. (A eggs, B wool, C milk, D soup)",
+      "steps": [
+        "Cows and goats produce milk. The supplied marking sheet's A is incorrect.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Milk.",
+      "source_page": 1
+    },
+    {
+      "id": "3(i)",
+      "section": "Vocabulary and grammar",
+      "prompt": "Jane ___ netball every evening. (A Plays, B play, C Played, D Playing)",
+      "steps": [
+        "Jane is singular; every evening indicates a habitual present action.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Plays.",
+      "source_page": 1
+    },
+    {
+      "id": "3(ii)",
+      "section": "Vocabulary and grammar",
+      "prompt": "___ are my parents. (A These, B This, C She, D He)",
+      "steps": [
+        "These and are both refer to plural parents.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. These.",
+      "source_page": 1
+    },
+    {
+      "id": "3(iii)",
+      "section": "Vocabulary and grammar",
+      "prompt": "The teacher is writing ___ the blackboard. (A In, B on, C At, D Near)",
+      "steps": [
+        "Writing is placed on the surface of the board.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. On.",
+      "source_page": 1
+    },
+    {
+      "id": "3(iv)",
+      "section": "Vocabulary and grammar",
+      "prompt": "What is the opposite of clean? (A Long, B Short, C Dirty, D Thin)",
+      "steps": [
+        "Dirty is the antonym of clean.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Dirty.",
+      "source_page": 1
+    },
+    {
+      "id": "3(v)",
+      "section": "Vocabulary and grammar",
+      "prompt": "We do not go to school ___ Sunday. (A On, B by, C on, D in)",
+      "steps": [
+        "Use on with a named day. Both printed options are the same word.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A or C. On/on (duplicate options).",
+      "source_page": 1
+    },
+    {
+      "id": "4(i)",
+      "section": "Composition",
+      "prompt": "Complete using plays, wakes, goes, brushes, eats: Tonny ___ up early.",
+      "steps": [
+        "Wake up means stop sleeping; the singular subject takes wakes.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "wakes.",
+      "source_page": 2
+    },
+    {
+      "id": "4(ii)",
+      "section": "Composition",
+      "prompt": "Complete using plays, wakes, goes, brushes, eats: He ___ his teeth.",
+      "steps": [
+        "Brush teeth is the relevant daily hygiene action.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "brushes.",
+      "source_page": 2
+    },
+    {
+      "id": "4(iii)",
+      "section": "Composition",
+      "prompt": "Complete using plays, wakes, goes, brushes, eats: He ___ breakfast.",
+      "steps": [
+        "Eat fits the meal breakfast.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "eats.",
+      "source_page": 2
+    },
+    {
+      "id": "4(iv)",
+      "section": "Composition",
+      "prompt": "Complete using plays, wakes, goes, brushes, eats: He ___ to school.",
+      "steps": [
+        "Go to school expresses travel.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "goes.",
+      "source_page": 2
+    },
+    {
+      "id": "4(v)",
+      "section": "Composition",
+      "prompt": "Complete using plays, wakes, goes, brushes, eats: He ___ football in the evening.",
+      "steps": [
+        "Play football is the correct verb phrase.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "plays.",
+      "source_page": 2
+    },
+    {
+      "id": "5(i)",
+      "section": "Comprehension",
+      "prompt": "Name the big animals in Serengeti from the passage.",
+      "steps": [
+        "The first animal list names all six groups.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Lions, elephants, giraffes, buffaloes, rhinos and zebras.",
+      "source_page": 2
+    },
+    {
+      "id": "5(ii)",
+      "section": "Comprehension",
+      "prompt": "Name the small animals in the passage.",
+      "steps": [
+        "Copy the second list rather than inventing other animals.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Wild dogs, foxes, rabbits, antelopes and monkeys.",
+      "source_page": 2
+    },
+    {
+      "id": "5(iii)",
+      "section": "Comprehension",
+      "prompt": "John's father keeps ___ and ___ at home.",
+      "steps": [
+        "The passage names cows, sheep and goats; choose any two for the two blanks.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Examples: cows and sheep; goats are also listed and acceptable.",
+      "source_page": 2
+    },
+    {
+      "id": "5(iv)",
+      "section": "Comprehension",
+      "prompt": "Cows give them ___ and ___.",
+      "steps": [
+        "The passage explicitly lists these products.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Milk and meat.",
+      "source_page": 2
+    },
+    {
+      "id": "5(v)",
+      "section": "Comprehension",
+      "prompt": "Hens and ducks give us ___ and ___.",
+      "steps": [
+        "The final sentence identifies eggs and meat.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Eggs and meat.",
+      "source_page": 2
+    },
+    {
+      "id": "Appendix-1(i)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Jotoridi hupimwa kwa kifaa gani? (A Rula, B Kipimajoto, C moto)",
+      "steps": [
+        "A thermometer measures temperature.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Kipimajoto (thermometer).",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-1(ii)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Vitu vyote vinavyomzunguka mwanadamu huitwaje? (A Mazingira, B kitanda, C maua)",
+      "steps": [
+        "Environment includes the surroundings of a person.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Mazingira (environment).",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-1(iii)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Mtoto wa mjomba anaitwaje? (A Shangazi, B Binamu, C Mama mdogo)",
+      "steps": [
+        "An uncle's child is a cousin.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Binamu (cousin).",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-1(iv)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Ni jambo gani hudumisha utamaduni? (A Kuimba nyimbo, B kuvuta bangi, C kuiba mifugo)",
+      "steps": [
+        "Traditional songs help preserve culture.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Kuimba nyimbo.",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-1(v)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Dunia ni sayari ya ngapi kutoka Jua? (A kwanza, B tatu, C tano)",
+      "steps": [
+        "Mercury is first, Venus second and Earth third.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Ya tatu (third).",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-2(i)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Match Sayari tunamoishi (planet we live on) with the printed list.",
+      "steps": [
+        "Earth is the planet we inhabit. Animals' milk, independence dates and insects are not planets.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Dunia/Earth; no correct option is printed.",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-2(ii)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Match Michezo (sports).",
+      "steps": [
+        "Physical exercise helps develop strength and fitness.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Ujenga ukakamavu (builds fitness/strength).",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-2(iii)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Match Uhuru wa Tanganyika.",
+      "steps": [
+        "Tanganyika became independent in 1961.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. 1961.",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-2(iv)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Match Faida ya ufugaji (benefit of keeping livestock).",
+      "steps": [
+        "Livestock can provide milk; the supplied answer F does not exist in the printed list.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Maziwa ya wanyama (animals' milk).",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-2(v)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Match Viumbe hatari (dangerous creatures).",
+      "steps": [
+        "These are the dangerous creatures among the choices.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Nyoka na ng'e (snakes and scorpions).",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-3(i)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Mvua husaidia kukuza mazao. True or false?",
+      "steps": [
+        "Rain supplies water needed for crops to grow.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Kweli (true).",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-3(ii)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Fagio na jembe ni vifaa vya kutunza mazingira. True or false?",
+      "steps": [
+        "Brooms and hoes can clean or maintain surroundings.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Kweli (true).",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-3(iii)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Sweta na jaketi huvaliwa wakati wa baridi. True or false?",
+      "steps": [
+        "These garments help keep the wearer warm.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Kweli (true).",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-3(iv)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Mifugo na ardhi ni rasilimali. True or false?",
+      "steps": [
+        "Livestock and land are useful resources.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Kweli (true).",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-3(v)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Nyota na mwezi huonekana mchana. True or false?",
+      "steps": [
+        "Most distant stars are obscured by daylight; the Moon is sometimes visible. The wording does not say all stars or only the night sky.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Not a sound absolute true/false item. The intended school answer is si kweli, but the Moon and the Sun (a star) can be visible by day.",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-4(i)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Waziri mkuu wa kwanza wa Tanzania aliitwaje?",
+      "steps": [
+        "The included scheme names Kawawa. The political entity and date matter: Julius Nyerere was the first prime minister of Tanganyika.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Rashidi Mfaume Kawawa (source's intended historical answer); distinguish Tanzania from pre-union Tanganyika.",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-4(ii)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Mifugo, ardhi na mazao ni mifano ya nini?",
+      "steps": [
+        "These are useful assets supporting people's lives.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Rasilimali (resources).",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-4(iii)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Kausi ni sayari ya ngapi kwenye mfumo wa Jua?",
+      "steps": [
+        "The source scheme intends the eighth planet; Neptune is eighth from the Sun.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Nane/eighth, if the source's Kausi means Neptune.",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-4(iv)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Chimbuko la familia linaanzia kwa ___ na ___.",
+      "steps": [
+        "The question asks for two parental roles; real families can have different structures.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Baba na mama (father and mother), the source's intended pair.",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-4(v)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Taja vifaa viwili vya usafi wa mazingira.",
+      "steps": [
+        "Both can be used to clean or maintain surroundings; other suitable tools are acceptable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Examples: fagio na jembe (broom and hoe).",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-5(i)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Chora kiti/chair.",
+      "steps": [
+        "Sketch the main outline, add its identifying features and keep the drawing clear.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Drawing rubric: a recognisable kiti/chair with a seat, back and supporting legs.",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-5(ii)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Chora meza/table.",
+      "steps": [
+        "Sketch the main outline, add its identifying features and keep the drawing clear.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Drawing rubric: a recognisable meza/table with a flat top and supporting legs.",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-5(iii)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Chora ndoo/bucket.",
+      "steps": [
+        "Sketch the main outline, add its identifying features and keep the drawing clear.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Drawing rubric: a recognisable ndoo/bucket with a container with an opening and handle.",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-5(iv)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Chora mpira/ball.",
+      "steps": [
+        "Sketch the main outline, add its identifying features and keep the drawing clear.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Drawing rubric: a recognisable mpira/ball with a round outline.",
+      "source_page": 3
+    },
+    {
+      "id": "Appendix-5(v)",
+      "section": "Retained Social Studies appendix",
+      "prompt": "Chora bakuli/bowl.",
+      "steps": [
+        "Sketch the main outline, add its identifying features and keep the drawing clear.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Drawing rubric: a recognisable bakuli/bowl with an open curved container.",
+      "source_page": 3
+    }
+  ],
+  "summaries": {
+    "Dictation": "Listen to the supplied teacher text and identify the exact detail asked for. Check spelling and sentence punctuation; missing scripts are explicitly identified.",
+    "Vocabulary and grammar": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Composition": "Follow a clear sequence and keep the tense consistent. Introduce people and events before their pronouns, actions and final outcome.",
+    "Comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations.",
+    "Retained Social Studies appendix": "Apply the concept asked for in each retained Social Studies task. The key explains errors in the supplied scheme and gives drawing rubrics where required."
+  },
+  "references": [
+    {
+      "title": "Standard Three Exams | 2010 - 2023 | Monthly, Midterm, Terminal and Annual Exams - Download All Subjects - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/standard-three-exams-2010-2023-monthly-midterm-terminal-and-annual-exams-download-all-subjects/"
+    },
+    {
+      "title": "Prime Minister Office: Rashidi Mfaume Kawawa",
+      "url": "https://www.pmo.go.tz/administration/profile/13"
+    },
+    {
+      "title": "NASA: Neptune, eighth planet",
+      "url": "https://science.nasa.gov/neptune/"
+    },
+    {
+      "title": "NASA: Moon visible during the day",
+      "url": "https://www.nasa.gov/solar-system/why-can-you-see-the-moon-during-the-day-we-asked-a-nasa-scientist-episode-19/"
+    }
+  ],
+  "limitations": [
+    "2(v): Supplied scheme says eggs, but the correct answer is milk.",
+    "3(v): Printed on options A and C are identical.",
+    "Appendix-2(i): No Earth option is supplied; marking scheme is defective.",
+    "Appendix-3(v): Daytime visibility statement is too broad; factual qualification is provided.",
+    "Appendix-4(iii): Kausi is unclear terminology; eighth assumes the intended planet is Neptune."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "Appendix-1(i)",
+    "Appendix-1(ii)",
+    "Appendix-1(iii)",
+    "Appendix-1(iv)",
+    "Appendix-1(v)",
+    "Appendix-2(i)",
+    "Appendix-2(ii)",
+    "Appendix-2(iii)",
+    "Appendix-2(iv)",
+    "Appendix-2(v)",
+    "Appendix-3(i)",
+    "Appendix-3(ii)",
+    "Appendix-3(iii)",
+    "Appendix-3(iv)",
+    "Appendix-3(v)",
+    "Appendix-4(i)",
+    "Appendix-4(ii)",
+    "Appendix-4(iii)",
+    "Appendix-4(iv)",
+    "Appendix-4(v)",
+    "Appendix-5(i)",
+    "Appendix-5(ii)",
+    "Appendix-5(iii)",
+    "Appendix-5(iv)",
+    "Appendix-5(v)"
+  ],
+  "question_count": "50 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "539730501d20b176fc3a0264ec467a13df37a1dbb49f5ae9c1693e982aa68fea"
+}

@@ -1,0 +1,423 @@
+{
+  "exam": "English-S4-2025-KESS-July-Joint-assessment.pdf",
+  "output": "English-S4-2025-KESS-July-Joint-assessment-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Four",
+  "year": "2025",
+  "code": "02",
+  "board": "KESS",
+  "exam_type": "Joint assessment - July",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "e89a13fb1bbd5e5709f4d83c0d0b1785e56b5f3e2bdc1e964ee97ee6232a07b7",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence i.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "1(ii)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence ii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "1(iii)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence iii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "1(iv)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence iv.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "1(v)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence v.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "2(i)",
+      "section": "Grammar and vocabulary",
+      "prompt": "The sick boy stood ___ the door waiting for the doctor. (A on, B at, C over, D in)",
+      "steps": [
+        "At the door means by the doorway.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. At.",
+      "source_page": 2
+    },
+    {
+      "id": "2(ii)",
+      "section": "Grammar and vocabulary",
+      "prompt": "There is ___ juice in the glass. (A some, B any, C a, D many)",
+      "steps": [
+        "Use some with an uncountable noun in an affirmative statement.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Some.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Grammar and vocabulary",
+      "prompt": "She always ___ before sleeping and after waking up. (A pray, B will pray, C prays, D praying)",
+      "steps": [
+        "She takes prays for a habitual present action.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Prays.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Grammar and vocabulary",
+      "prompt": "My mother is a doctor. ___ works at Umoja dispensary. (A He, B We, C They, D She)",
+      "steps": [
+        "She refers to mother.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. She.",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Grammar and vocabulary",
+      "prompt": "She bought two ___ of bread. (A loaf, B loafs, C loaves, D loavies)",
+      "steps": [
+        "The plural of loaf changes f to ves.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Loaves.",
+      "source_page": 2
+    },
+    {
+      "id": "2(vi)",
+      "section": "Grammar and vocabulary",
+      "prompt": "James prefers milk ___ juice. (A but, B to, C than, D with)",
+      "steps": [
+        "The construction is prefer one thing to another.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. To.",
+      "source_page": 2
+    },
+    {
+      "id": "2(vii)",
+      "section": "Grammar and vocabulary",
+      "prompt": "After paying, the shopkeeper gave us a ___. (A receipt, B ticket, C bill, D buyer)",
+      "steps": [
+        "A receipt records payment already made.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Receipt.",
+      "source_page": 2
+    },
+    {
+      "id": "2(viii)",
+      "section": "Composition",
+      "prompt": "Pupils were punished ___ they made noise. (A and, B but, C because, D so)",
+      "steps": [
+        "Because introduces the cause of punishment.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Because.",
+      "source_page": 3
+    },
+    {
+      "id": "2(ix)",
+      "section": "Composition",
+      "prompt": "Yesterday I went to school early ___ the morning. (A at, B on, C for, D in)",
+      "steps": [
+        "Use in the morning.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. In.",
+      "source_page": 3
+    },
+    {
+      "id": "2(x)",
+      "section": "Composition",
+      "prompt": "Maria, Agness and I ___ new uniforms. (A have, B has, C were, D are)",
+      "steps": [
+        "A plural subject takes have to express possession.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Have.",
+      "source_page": 3
+    },
+    {
+      "id": "3(i)",
+      "section": "Composition",
+      "prompt": "We watched a football ___. (match, march)",
+      "steps": [
+        "A football game is a match; march is a walk or a month.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Match.",
+      "source_page": 3
+    },
+    {
+      "id": "3(ii)",
+      "section": "Composition",
+      "prompt": "Every child has the ___ to education. (right, write)",
+      "steps": [
+        "Right means an entitlement.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Right.",
+      "source_page": 3
+    },
+    {
+      "id": "3(iii)",
+      "section": "Composition",
+      "prompt": "Grandmother ___ people. (heels, heals)",
+      "steps": [
+        "Heal means make well; heels are parts of feet.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Heals.",
+      "source_page": 3
+    },
+    {
+      "id": "3(iv)",
+      "section": "Composition",
+      "prompt": "His ___ cried after bee stings. (son, sun)",
+      "steps": [
+        "Son names a child; sun is the star.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Son.",
+      "source_page": 3
+    },
+    {
+      "id": "3(v)",
+      "section": "Composition",
+      "prompt": "Jacob and James ___ at church on Sundays. (meat, meet)",
+      "steps": [
+        "Meet is the verb for coming together.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Meet.",
+      "source_page": 3
+    },
+    {
+      "id": "4(i)",
+      "section": "Composition",
+      "prompt": "The ___ cares for patients in the ward. Arrange sunre.",
+      "steps": [
+        "Use every letter once to make nurse.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Nurse.",
+      "source_page": 3
+    },
+    {
+      "id": "4(ii)",
+      "section": "Composition",
+      "prompt": "His ___ has the seat number and departure time. Arrange citkte.",
+      "steps": [
+        "The letters make ticket.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Ticket.",
+      "source_page": 3
+    },
+    {
+      "id": "4(iii)",
+      "section": "Composition",
+      "prompt": "My ___ love me. Arrange esraptn.",
+      "steps": [
+        "The letters make parents.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Parents.",
+      "source_page": 3
+    },
+    {
+      "id": "5(i)",
+      "section": "Composition",
+      "prompt": "One day I ___ to market with my father. (go)",
+      "steps": [
+        "The story describes a completed past visit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Went.",
+      "source_page": 3
+    },
+    {
+      "id": "5(ii)",
+      "section": "Composition",
+      "prompt": "People were ___ and buying things. (sell)",
+      "steps": [
+        "Were plus selling forms past continuous.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Selling.",
+      "source_page": 3
+    },
+    {
+      "id": "5(iii)",
+      "section": "Composition",
+      "prompt": "My father ___ rice, fruit and vegetables. (buy)",
+      "steps": [
+        "Bought is the simple past of buy.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Bought.",
+      "source_page": 3
+    },
+    {
+      "id": "5(iv)",
+      "section": "Composition",
+      "prompt": "After buying everything we ___ home. (come)",
+      "steps": [
+        "Came is the simple past of come.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Came.",
+      "source_page": 3
+    },
+    {
+      "id": "6(i)",
+      "section": "Comprehension",
+      "prompt": "What happened after Amani's goats wandered off?",
+      "steps": [
+        "The first paragraph explicitly states this.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "They got lost.",
+      "source_page": 4
+    },
+    {
+      "id": "6(ii)",
+      "section": "Comprehension",
+      "prompt": "Why did Amani and his friends split up?",
+      "steps": [
+        "The second paragraph links their unsuccessful search with splitting up.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "They had searched the tall grass without finding the goats, so they searched different places.",
+      "source_page": 4
+    },
+    {
+      "id": "6(iii)",
+      "section": "Comprehension",
+      "prompt": "How did Amani feel when he found the goats?",
+      "steps": [
+        "The passage states his emotion.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Happy.",
+      "source_page": 4
+    },
+    {
+      "id": "6(iv)",
+      "section": "Comprehension",
+      "prompt": "What did he do after finding the goats?",
+      "steps": [
+        "The final paragraph states his first action after finding them.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "He called his friends to tell them he had found the goats.",
+      "source_page": 4
+    },
+    {
+      "id": "6(v)",
+      "section": "Comprehension",
+      "prompt": "What did Amani promise?",
+      "steps": [
+        "The final sentence supplies his promise.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "To look after his goats more carefully from that day.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Source-limited items": "The required script, picture or other information is missing. Use the stated limitation and obtain the original material before expecting a unique answer.",
+    "Grammar and vocabulary": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Composition": "Follow a clear sequence and keep the tense consistent. Introduce people and events before their pronouns, actions and final outcome.",
+    "Comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "KESS Standard Four Second Joint Exams July 2025",
+      "url": "https://darasahuru.ac.tz/kess-standard-four-second-joint-exams-july-2025/"
+    }
+  ],
+  "limitations": [
+    "1(i): The teacher dictation words or audio are not included in this source.",
+    "1(ii): The teacher dictation words or audio are not included in this source.",
+    "1(iii): The teacher dictation words or audio are not included in this source.",
+    "1(iv): The teacher dictation words or audio are not included in this source.",
+    "1(v): The teacher dictation words or audio are not included in this source."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "2(vii)",
+    "2(viii)",
+    "2(ix)",
+    "2(x)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)"
+  ],
+  "question_count": "32 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "7714a11ad3a6e282757996ff60e0ce9ecc475961800a4c97ff05fc05f5db0ab7"
+}

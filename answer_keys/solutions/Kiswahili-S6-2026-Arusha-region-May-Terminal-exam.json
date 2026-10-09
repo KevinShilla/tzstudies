@@ -1,0 +1,412 @@
+{
+  "exam": "Kiswahili-S6-2026-Arusha-region-May-Terminal-exam.pdf",
+  "output": "Kiswahili-S6-2026-Arusha-region-May-Terminal-exam-AnswerKey.pdf",
+  "sha256": "231c816070a7081f488f37325be0bc0847af961201e080015ec15ebe43e36bb3",
+  "subject": "Kiswahili",
+  "level": "Standard Six",
+  "year": "2026",
+  "code": "Not printed in source",
+  "board": "Arusha region",
+  "exam_type": "Terminal exam - May",
+  "question_count": "Vipengele 31 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "reviewed": true,
+  "expected_parts": [
+    "1(1)",
+    "1(2)",
+    "1(3)",
+    "1(4)",
+    "1(5)",
+    "2(1)",
+    "2(2)",
+    "2(3)",
+    "2(4)",
+    "2(5)",
+    "2(6)",
+    "2(7)",
+    "2(8)",
+    "2(9)",
+    "2(10)",
+    "3(1)",
+    "3(2)",
+    "3(3)",
+    "3(4)",
+    "3(5)",
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "4(4)",
+    "4(5)",
+    "5(1)",
+    "5(2)",
+    "5(3)",
+    "5(4)",
+    "5(5)",
+    "6"
+  ],
+  "questions": [
+    {
+      "id": "1(1)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Kichwa cha habari kingefaa kuwa kipi? A Faida ya Elimu, B Anza leo, C Umuhimu wa runinga, D Kazi za watu, E Shule kwanza.",
+      "steps": [
+        "Chagua kichwa kinachojumuisha wazo kuu la habari halisi ya msimamizi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Habari ya kusikiliza haimo; kichwa hakiwezi kuthibitishwa.",
+      "source_page": 1
+    },
+    {
+      "id": "1(2)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "“Kinagaubaga” kama lilivyotumika kwenye habari lina maana gani? A pasipo kikomo, B kwa adabu, C bila ya kificho, D kwa kuficha ukweli, D kutotoa uwazi.",
+      "steps": [
+        "Maana ya msamiati inatosha kujibu, ingawa script haimo. Chanzo kimerudia D.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Bila ya kificho/kwa uwazi.",
+      "source_page": 1
+    },
+    {
+      "id": "1(3)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Familia ya kina Amina ina watu wangapi kwa mujibu wa habari? A watatu, B wawili, C watano, D wanne, E saba.",
+      "steps": [
+        "Hesabu watu waliotajwa kwenye habari halisi; hakuna orodha kwenye PDF.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Habari ya kusikiliza haimo; idadi haiwezi kuthibitishwa.",
+      "source_page": 1
+    },
+    {
+      "id": "1(4)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Unafikiri Amina alipata wapi wazo la kuwa rubani? A shuleni, B kwa wazazi wake, C kwenye runinga, D kwa rafiki, E kanisani.",
+      "steps": [
+        "Swali linahitaji tukio katika maisha ya Amina; machaguo peke yake hayatoshi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Habari ya kusikiliza haimo; chanzo cha wazo hakiwezi kuthibitishwa.",
+      "source_page": 1
+    },
+    {
+      "id": "1(5)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Jina jingine la Amina ni lipi? A Koku, B Rubani, C Shufaa, D Kaningu, E Kaisiki.",
+      "steps": [
+        "Jina la pili litafutwe katika habari halisi ya msimamizi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Habari ya kusikiliza haimo; jina haliwezi kuthibitishwa.",
+      "source_page": 1
+    },
+    {
+      "id": "2(1)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Mwalimu anataka mwanafunzi _____ aende ofisini. A moja, B mumoja, C wamoja, D mmoja, E wote.",
+      "steps": [
+        "Mwanafunzi ni umoja wa mtu; moja hupatana kuwa mmoja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Mmoja.",
+      "source_page": 1
+    },
+    {
+      "id": "2(2)",
+      "section": "Matumizi ya lugha",
+      "prompt": "“Wimbo huu unaimbika.” Kauli gani? A kutendana, B kutendwa, C kutendeka, D kutendea, E kutenda.",
+      "steps": [
+        "-ik- katika imbika huonyesha uwezekano wa kuimbwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Kutendeka.",
+      "source_page": 1
+    },
+    {
+      "id": "2(3)",
+      "section": "Matumizi ya lugha",
+      "prompt": "“Mama anasonga ugali na baba anasoma gazeti.” Aina gani ya sentensi? A changamano, B sahili, C ambatano, D shurutia, E tata.",
+      "steps": [
+        "Na imeunganisha sentensi mbili huru: Mama anasonga ugali; baba anasoma gazeti.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Ambatano.",
+      "source_page": 1
+    },
+    {
+      "id": "2(4)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Wananchi wa Kilimanjaro, Dodoma na Dar es Salaam walitembea _____ miguu kukusanya fedha za watoto waishio katika mazingira magumu. A na, B pamoja, C kwa, D juu ya, E ni.",
+      "steps": [
+        "Usemi sanifu wa namna ya kusafiri ni kwa miguu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Kwa.",
+      "source_page": 1
+    },
+    {
+      "id": "2(5)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Mtu aliyezaliwa na wazazi wenye asili tofauti huitwa nini katika machaguo? A mzungu, B Mwafrika, C Mhindi, D Mwarabu, E chotara.",
+      "steps": [
+        "Hilo ndilo neno la msamiati lililokusudiwa; kwa mazungumzo ya heshima mtu anaweza kuelezwa kuwa mwenye asili mchanganyiko.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Chotara.",
+      "source_page": 1
+    },
+    {
+      "id": "2(6)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Methali gani inafanana na “Sanda ya mbali haiziki”? A Adhabu ya kaburi aijuaye maiti, B Adui wa mtu ni mtu, C Fimbo ya mbali haiui nyoka, D Abebwaye hujishikilia, E Asiyefunzwa na mamaye hufunzwa na ulimwengu.",
+      "steps": [
+        "Msaada/rasilimali iliyo mbali haiwezi kutumika kutimiza hitaji la sasa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Fimbo ya mbali haiui nyoka.",
+      "source_page": 1
+    },
+    {
+      "id": "2(7)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Nahau “piga jeki” maana yake nini? A kumweka mtu, B kumwumiza mtu, C kumwonea mtu, D kumwadhibu, E kumsaidia mtu.",
+      "steps": [
+        "Piga jeki ni kumpa mtu msaada ili afanikishe jambo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Kumsaidia mtu.",
+      "source_page": 2
+    },
+    {
+      "id": "2(8)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Cha mlevi huliwa na _____. A kila mtu, B siafu, C mgema, D wote, E wapita njia.",
+      "steps": [
+        "Methali huonyesha mali ya asiyejali inaweza kunufaisha anayemhudumia.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Mgema.",
+      "source_page": 2
+    },
+    {
+      "id": "2(9)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Bibi kizee kabeba mzigo mgongoni. Tegua: A kobe, B gari, C nyungu, D nanasi, E ugali.",
+      "steps": [
+        "Gamba la kobe linafananishwa na mzigo anaoubeba.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Kobe.",
+      "source_page": 2
+    },
+    {
+      "id": "2(10)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Katika “wananilaumu”, kiambishi gani kinaonyesha nafsi? A la, B wa, C li, D ku, E la.",
+      "steps": [
+        "Wa- humtaja mtenda “wao”; -ni- pia huonyesha mtendwa “mimi” lakini haimo kwenye machaguo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Wa-, nafsi ya tatu wingi.",
+      "source_page": 2
+    },
+    {
+      "id": "3(1)",
+      "section": "Visawe",
+      "prompt": "Oanisha Chanzo. Machaguo: A Makubaliano, B Awali, C Chache, D Shuka, E Panda, F Kula yamini, G Haraka au upesi.",
+      "steps": [
+        "Chanzo hutaja mahali jambo linapoanzia; awali hutaja mwanzo wa wakati.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Awali, ndilo lililo karibu katika machaguo. Maana sahihi zaidi ni mwanzo/asili.",
+      "source_page": 2
+    },
+    {
+      "id": "3(2)",
+      "section": "Visawe",
+      "prompt": "Oanisha Apa. Machaguo: A Makubaliano, B Awali, C Chache, D Shuka, E Panda, F Kula yamini, G Haraka au upesi.",
+      "steps": [
+        "Kuapa ni kula kiapo/yamini.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "F - Kula yamini.",
+      "source_page": 2
+    },
+    {
+      "id": "3(3)",
+      "section": "Visawe",
+      "prompt": "Oanisha Adimu. Machaguo: A Makubaliano, B Awali, C Chache, D Shuka, E Panda, F Kula yamini, G Haraka au upesi.",
+      "steps": [
+        "Adimu ni chache/kitu kisichopatikana kwa urahisi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Chache.",
+      "source_page": 2
+    },
+    {
+      "id": "3(4)",
+      "section": "Visawe",
+      "prompt": "Oanisha Teremka. Machaguo: A Makubaliano, B Awali, C Chache, D Shuka, E Panda, F Kula yamini, G Haraka au upesi.",
+      "steps": [
+        "Teremka na shuka vina maana ya kwenda chini.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Shuka.",
+      "source_page": 2
+    },
+    {
+      "id": "3(5)",
+      "section": "Visawe",
+      "prompt": "Oanisha Muafaka. Machaguo: A Makubaliano, B Awali, C Chache, D Shuka, E Panda, F Kula yamini, G Haraka au upesi.",
+      "steps": [
+        "Muafaka ni maafikiano/makubaliano.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Makubaliano.",
+      "source_page": 2
+    },
+    {
+      "id": "4(1)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Baada ya hapo wataanza safari ya kurudi kwao.",
+      "steps": [
+        "Kurudi kwao hufuata kukata tiketi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E",
+      "source_page": 2
+    },
+    {
+      "id": "4(2)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Leo ni siku ya Jumapili hivyo wageni wetu tumekwenda nao kanisani.",
+      "steps": [
+        "Leo hufuata juzi na jana.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C",
+      "source_page": 2
+    },
+    {
+      "id": "4(3)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Juzi walikuja wageni.",
+      "steps": [
+        "Juzi ndiyo siku ya mwanzo katika orodha.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A",
+      "source_page": 2
+    },
+    {
+      "id": "4(4)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Jana mama aliwatembeza wageni.",
+      "steps": [
+        "Jana hufuata juzi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B",
+      "source_page": 2
+    },
+    {
+      "id": "4(5)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Kesho kutwa tutawapeleka stendi kukata tiketi.",
+      "steps": [
+        "Kesho kutwa hufuata leo; tiketi hutangulia safari.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D",
+      "source_page": 2
+    },
+    {
+      "id": "5(1)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Shairi hili lina beti ngapi?",
+      "steps": [
+        "Kuna mafungu mawili yenye mishororo minne.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Beti mbili.",
+      "source_page": 3
+    },
+    {
+      "id": "5(2)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Katika ubeti wa pili mshororo wa kwanza, neno gani lina maana ya maoni anayopewa mtu kumsaidia kupata suluhu ya tatizo?",
+      "steps": [
+        "Mshororo unasema “Njia panda nasimama, ninaomba ushauri”.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Ushauri.",
+      "source_page": 3
+    },
+    {
+      "id": "5(3)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Andika vina vya kati na mwisho katika ubeti wa kwanza.",
+      "steps": [
+        "Kati: nasikitika, yamenifika, nafilisika, alichopanda. Mwisho: sicheki, hayaelezeki, kuhakiki, kingine.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Vina vya kati: ka, ka, ka, nda. Vina vya mwisho: ki, ki, ki, ne.",
+      "source_page": 3
+    },
+    {
+      "id": "5(4)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Katika shairi hili kituo ni kipi?",
+      "steps": [
+        "Mshororo huu hujirudia mwishoni mwa kila ubeti, hivyo ni mkarara/kibwagizo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Huvuna alichopanda, mtu havuni kingine.",
+      "source_page": 3
+    },
+    {
+      "id": "5(5)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Ni nani aliyefikwa na masikitiko katika shairi?",
+      "steps": [
+        "Viambishi vya nafsi ya kwanza vinaonyesha aliyepatwa; Hamisi anaonekana kutajwa kama anayeambiwa, si jina la msemaji lililothibitishwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Msemaji/mshairi anayesema “Nalia nasikitika” na “yamenifika”.",
+      "source_page": 3
+    },
+    {
+      "id": "6",
+      "section": "Simu ya maandishi",
+      "prompt": "Wewe unaitwa Jamali. Mwandikie kaka yako Baraka, S.L.P. 304, Morogoro, simu ya maandishi yenye maneno kumi kumjulisha baba yenu ni mgonjwa sana na kumsisitiza arudi nyumbani kwa ajili ya kumuuguza.",
+      "steps": [
+        "Andika anwani ya Baraka kando na ujumbe. Ujumbe: Baba(1) ni(2) mgonjwa(3) sana(4) rudi(5) nyumbani(6) haraka(7) tusaidiane(8) kumuuguza(9) Jamali(10).",
+        "Ujumbe unatoa hali ya baba, agizo la kurudi haraka, kusudi la kumuuguza na jina la mtumaji; maneno ya anwani hayajahesabiwa katika maneno kumi ya ujumbe."
+      ],
+      "answer": "Kwa: Baraka, S.L.P. 304, Morogoro.\nUjumbe wa mfano: Baba ni mgonjwa sana rudi nyumbani haraka tusaidiane kumuuguza Jamali.",
+      "source_page": 3,
+      "tip": "Huu ni mfano; ujumbe mwingine wenye maneno kumi na taarifa zote unakubalika."
+    }
+  ],
+  "summaries": {
+    "Ufahamu wa kusikiliza": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Matumizi ya lugha": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Visawe": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Utungaji": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Ufahamu wa shairi": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Simu ya maandishi": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu."
+  },
+  "references": [
+    {
+      "title": "Arusha Region Standard Six Terminal Exams May 2026",
+      "url": "https://darasahuru.ac.tz/arusha-region-standard-six-terminal-exams-may-2026/"
+    }
+  ],
+  "limitations": [
+    "1(1,3-5): habari ya kusikiliza haimo PDF; 1(2) linaweza kujibiwa kwa maana ya neno pekee.",
+    "3(1): awali ni chaguo lililo karibu; mwanzo/asili ni visawe mahsusi zaidi vya chanzo.",
+    "5(5): maneno ya nafsi ya kwanza yanaonyesha msemaji aliyesikitika. Hamisi ametajwa bila ushahidi kuwa ndiye msemaji; jina lake lisibuniwe kama jibu pekee."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "3f142cfeacc34cd210f74f11b1708dff967f8f5619205c710fd54921c17513c2"
+}

@@ -1,0 +1,449 @@
+{
+  "exam": "Kiswahili-S5-2024-MESP-Tanzania-August-Midterm-exam.pdf",
+  "output": "Kiswahili-S5-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey.pdf",
+  "sha256": "e18197c083bab8eb4442c888ba5378be74e92d346ceb95727b8fb62965068c78",
+  "subject": "Kiswahili",
+  "level": "Standard Five",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Midterm exam - August",
+  "question_count": "Vipengele 34 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1(1)",
+    "1(2)",
+    "1(3)",
+    "1(4)",
+    "1(5)",
+    "2(1)",
+    "2(2)",
+    "2(3)",
+    "2(4)",
+    "2(5)",
+    "2(6)",
+    "2(7)",
+    "2(8)",
+    "2(9)",
+    "2(10)",
+    "3(1)",
+    "3(2)",
+    "3(3)",
+    "3(4)",
+    "3(5)",
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "4(4)",
+    "4(5)",
+    "5(1)",
+    "5(2(a))",
+    "5(2(b))",
+    "5(3(a))",
+    "5(3(b))",
+    "5(3(c))",
+    "5(4)",
+    "5(5)",
+    "6"
+  ],
+  "questions": [
+    {
+      "id": "1(1)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Nani aliwahi shuleni? A mzee, B mwalimu, C Raja, D Fabu, E Bera.",
+      "steps": [
+        "Sikiliza habari ya mwalimu kuhusu Fabu, Bera na Raja.",
+        "Chagua tu kauli iliyothibitishwa na habari; majina au tabia kwenye machaguo si ushahidi."
+      ],
+      "answer": "Jibu haliwezi kuthibitishwa: habari ya Fabu, Bera na Raja haijajumuishwa katika PDF.",
+      "source_page": 1
+    },
+    {
+      "id": "1(2)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Fabu alikuwa na tabia gani? A udokozi, B mbaya, C udhalimu, D ukaidi, E njema.",
+      "steps": [
+        "Sikiliza habari ya mwalimu kuhusu Fabu, Bera na Raja.",
+        "Chagua tu kauli iliyothibitishwa na habari; majina au tabia kwenye machaguo si ushahidi."
+      ],
+      "answer": "Jibu haliwezi kuthibitishwa: habari ya Fabu, Bera na Raja haijajumuishwa katika PDF.",
+      "source_page": 1
+    },
+    {
+      "id": "1(3)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Bera na Raja walikuwa na tabia gani? A ujambazi, B wanakwaya, C wadokozi, D ukaidi, E njema.",
+      "steps": [
+        "Sikiliza habari ya mwalimu kuhusu Fabu, Bera na Raja.",
+        "Chagua tu kauli iliyothibitishwa na habari; majina au tabia kwenye machaguo si ushahidi."
+      ],
+      "answer": "Jibu haliwezi kuthibitishwa: habari ya Fabu, Bera na Raja haijajumuishwa katika PDF.",
+      "source_page": 1
+    },
+    {
+      "id": "1(4)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Fabu alipata zawadi gani? A usafi/ukaidi, B ufaulu/zawadi, C nidhamu/ukatili, D utoro/nidhamu, E nidhamu/usafi/ufaulu.",
+      "steps": [
+        "Sikiliza habari ya mwalimu kuhusu Fabu, Bera na Raja.",
+        "Chagua tu kauli iliyothibitishwa na habari; majina au tabia kwenye machaguo si ushahidi."
+      ],
+      "answer": "Jibu haliwezi kuthibitishwa: habari ya Fabu, Bera na Raja haijajumuishwa katika PDF.",
+      "source_page": 1
+    },
+    {
+      "id": "1(5)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Swali gani lilimsumbua Fabu? A kwa nini anafaulu, B anafeli, C wenzake wanachelewa, D kula, E kufagia.",
+      "steps": [
+        "Sikiliza habari ya mwalimu kuhusu Fabu, Bera na Raja.",
+        "Chagua tu kauli iliyothibitishwa na habari; majina au tabia kwenye machaguo si ushahidi."
+      ],
+      "answer": "Jibu haliwezi kuthibitishwa: habari ya Fabu, Bera na Raja haijajumuishwa katika PDF.",
+      "source_page": 1
+    },
+    {
+      "id": "2(1)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Umoja wa Meno yangu yanang’aa. A Jino langu linang’aa, B Jino yanguinang’aa, C Kajino kangu kanang’aa, D Jino yang’aa, E linang’aa sana.",
+      "steps": [
+        "Meno/yangu/ya- hubadili kuwa jino/langu/li-.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Jino langu linang’aa.",
+      "source_page": 2
+    },
+    {
+      "id": "2(2)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kisawe cha azimia? A azimisha, B makusudi, C fanya bidii, D zimia, E kusudia.",
+      "steps": [
+        "Azimia ni kuwa na nia ya kufanya jambo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Kusudia.",
+      "source_page": 2
+    },
+    {
+      "id": "2(3)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kisawe cha ridhaa? A kusudi, B idhini, C rushwa, D kibao, E fimbo.",
+      "steps": [
+        "Ridhaa ni kukubali au kutoa ruhusa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Idhini.",
+      "source_page": 2
+    },
+    {
+      "id": "2(4)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kinyume cha injika? A bandika, B weka, C injua, D injuka, E epua.",
+      "steps": [
+        "Injika ni kuweka chungu jikoni; injua/epua ni kukiondoa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Injua; E - Epua pia lina maana ya kuondoa chombo motoni.",
+      "source_page": 2
+    },
+    {
+      "id": "2(5)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Aliwapiga jeki ndugu zake: maana gani? A taarifa, B ushauri, C msaada, D omba, E tengeneza.",
+      "steps": [
+        "Piga jeki ni kusaidia kuongeza uwezo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Aliwapa msaada.",
+      "source_page": 2
+    },
+    {
+      "id": "2(6)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Siamini kama yeye ndiye mshindi: kiwakilishi cha tatu umoja? A siamini, B mshindi, C yeye, D ndiye, E kama.",
+      "steps": [
+        "Yeye humtaja mtu mmoja anayezungumziwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Yeye.",
+      "source_page": 2
+    },
+    {
+      "id": "2(7)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Wingi wa unywele? A nywele, B minywele, C vinywele, D manywele, E unywele.",
+      "steps": [
+        "Unywele mmoja, nywele nyingi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Nywele.",
+      "source_page": 2
+    },
+    {
+      "id": "2(8)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Vitu vinavyotokana na maziwa? A samli/jibini/siagi, B samadi/samuli/kokoto, C jibini/samadi/kinyesi, D samadi, E nguo/vishikizo.",
+      "steps": [
+        "Hivi hutengenezwa kutoka maziwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Samli, jibini na siagi.",
+      "source_page": 2
+    },
+    {
+      "id": "2(9)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Umoja ni nguvu ____ A utangamano upo, B utangamano ni udhaifu, C hulia kivulini, D utengano ni uzaifu, E uvumilivu ni subira.",
+      "steps": [
+        "Methali husisitiza ushirikiano; chanzo kimekosea tahajia udhaifu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Utengano ni udhaifu.",
+      "source_page": 2
+    },
+    {
+      "id": "2(10)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Anaoga sana lakini hatakati: A konokono, B kinyonga, C chura, D jongoo, E kobe.",
+      "steps": [
+        "Kitendawili humfananisha chura anayeishi majini na anayeoga daima.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Chura.",
+      "source_page": 2
+    },
+    {
+      "id": "3(1)",
+      "section": "Visawe",
+      "prompt": "Oanisha Fedheha.",
+      "steps": [
+        "Fedheha ni aibu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Aibu au soni.",
+      "source_page": 3
+    },
+    {
+      "id": "3(2)",
+      "section": "Visawe",
+      "prompt": "Oanisha Tafrija.",
+      "steps": [
+        "Tafrija ni shughuli ya kusherehekea.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Sherehe au karamu.",
+      "source_page": 3
+    },
+    {
+      "id": "3(3)",
+      "section": "Visawe",
+      "prompt": "Oanisha Nasaha.",
+      "steps": [
+        "Nasaha ni ushauri.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Mawaidha.",
+      "source_page": 3
+    },
+    {
+      "id": "3(4)",
+      "section": "Visawe",
+      "prompt": "Oanisha Riziki.",
+      "steps": [
+        "Riziki ni kile kinachopatikana kwa maisha; katika machaguo huendana na neema.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Neema.",
+      "source_page": 3
+    },
+    {
+      "id": "3(5)",
+      "section": "Visawe",
+      "prompt": "Oanisha Chumvi.",
+      "steps": [
+        "Munyu ni kisawe cha chumvi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Munyu.",
+      "source_page": 3
+    },
+    {
+      "id": "4(1)",
+      "section": "Methali",
+      "prompt": "Hakuna marefu ____",
+      "steps": [
+        "Kila jambo lina mwisho.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Yasiyo na ncha.",
+      "source_page": 3
+    },
+    {
+      "id": "4(2)",
+      "section": "Methali",
+      "prompt": "Mtaka yote kwa pupa ____",
+      "steps": [
+        "Tamaa ya haraka huweza kuleta hasara.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Hukosa yote.",
+      "source_page": 3
+    },
+    {
+      "id": "4(3)",
+      "section": "Methali",
+      "prompt": "Jungu kuu ____",
+      "steps": [
+        "Wazee wenye uzoefu huwa na kitu cha kusaidia.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Halikosi ukoko.",
+      "source_page": 3
+    },
+    {
+      "id": "4(4)",
+      "section": "Methali",
+      "prompt": "Mchumia juani ____",
+      "steps": [
+        "Anayejitahidi hupata nafuu baadaye.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Hulia kivulini.",
+      "source_page": 3
+    },
+    {
+      "id": "4(5)",
+      "section": "Methali",
+      "prompt": "Akufaaye kwa dhiki ____",
+      "steps": [
+        "Rafiki wa kweli husaidia wakati wa shida.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Ndiye rafiki.",
+      "source_page": 3
+    },
+    {
+      "id": "5(1)",
+      "section": "Ufahamu",
+      "prompt": "Kiumbe anayejisifia ni nani?",
+      "steps": [
+        "Habari inaanza Mimi ni kondoo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kondoo.",
+      "source_page": 3
+    },
+    {
+      "id": "5(2(a))",
+      "section": "Ufahamu",
+      "prompt": "Taja manufaa ya kwanza kutoka kondoo.",
+      "steps": [
+        "Habari inataja samadi kwa kilimo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Samadi kwa kilimo.",
+      "source_page": 3
+    },
+    {
+      "id": "5(2(b))",
+      "section": "Ufahamu",
+      "prompt": "Taja manufaa mengine kutoka kondoo.",
+      "steps": [
+        "Habari inataja manyoya yanayotumika kwa sufu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Manyoya ya kutengeneza sufu.",
+      "source_page": 3
+    },
+    {
+      "id": "5(3(a))",
+      "section": "Ufahamu",
+      "prompt": "Taja bidhaa ya kwanza inayotengenezwa kwa sufu.",
+      "steps": [
+        "Nguo ni bidhaa iliyotajwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Nguo.",
+      "source_page": 3
+    },
+    {
+      "id": "5(3(b))",
+      "section": "Ufahamu",
+      "prompt": "Taja bidhaa ya pili ya sufu.",
+      "steps": [
+        "Matandiko yametajwa baada ya nguo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Matandiko.",
+      "source_page": 3
+    },
+    {
+      "id": "5(3(c))",
+      "section": "Ufahamu",
+      "prompt": "Taja bidhaa ya tatu ya sufu.",
+      "steps": [
+        "Blanketi ni bidhaa nyingine iliyotajwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Blanketi.",
+      "source_page": 3
+    },
+    {
+      "id": "5(4)",
+      "section": "Ufahamu",
+      "prompt": "Chakula kikuu cha kondoo ni kipi?",
+      "steps": [
+        "Kondoo ni mnyama anayekula mimea; hili haliwezi kunukuliwa kutoka aya yenye hitilafu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Nyasi/majani, kwa maarifa ya jumla. Habari iliyochapishwa haijataja chakula chake.",
+      "source_page": 3
+    },
+    {
+      "id": "5(5)",
+      "section": "Ufahamu",
+      "prompt": "Kondoo hupenda kuishi na nani?",
+      "steps": [
+        "Aya haielezi anaishi na nani, hivyo jibu maalumu la ufahamu haliwezi kuthibitishwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kondoo wengine kwenye kundi; hufugwa na binadamu. Habari haijatoa jibu la moja kwa moja.",
+      "source_page": 4
+    },
+    {
+      "id": "6",
+      "section": "Utungaji wa barua",
+      "prompt": "Wewe ni Mkuu wa Mbeya Boys, S.L.P. 2024 Mbeya, Joti Masanja. Andika barua kwa Mkuu wa Shule ya Kyela, S.L.P. 34 Mbeya, kumwomba ampokee John Juma.",
+      "steps": [
+        "Anza na anwani ya mwandishi, tarehe ya mfano, anwani ya mpokeaji, salamu na kichwa cha ombi.",
+        "Katika kiini omba kumpokea John Juma kwa lugha ya heshima; usidai tayari amekubaliwa.",
+        "Hitimisha kwa shukrani, sahihi, jina Joti Masanja na cheo Mkuu wa Shule."
+      ],
+      "answer": "Mfano wa barua:\nShule ya Msingi Mbeya Boys,\nS.L.P. 2024,\nMbeya.\n15 Agosti 2024.\n\nMwalimu Mkuu,\nShule ya Msingi Kyela,\nS.L.P. 34,\nMbeya.\n\nNdugu,\nYAH: OMBI LA KUMPOKEA MWANAFUNZI JOHN JUMA\n\nNaomba umpokee mwanafunzi John Juma katika shule yako ili aendelee na masomo yake. Nitashirikiana nawe katika kukamilisha taratibu na kuwasilisha kumbukumbu zinazohitajika.\n\nNatanguliza shukrani zangu kwa ushirikiano wako.\n\nWako katika elimu,\n[Sahihi]\nJoti Masanja,\nMkuu wa Shule.",
+      "source_page": 4,
+      "tip": "Tarehe ni ya mfano. Alama zitegemee mpangilio, ombi sahihi, lugha na tahajia; barua nyingine yenye vipengele hivi inakubalika."
+    }
+  ],
+  "summaries": {
+    "Ufahamu wa kusikiliza": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Matumizi ya lugha": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Visawe": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Methali": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ufahamu": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Utungaji wa barua": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "Standard Five Midterm Exams August 2024 From MESP Tanzania",
+      "url": "https://darasahuru.ac.tz/standard-five-midterm-exams-august-2024-from-mesp-tanzania/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "Swali 1(i-v): habari ya mwalimu haijajumuishwa.",
+    "2(iv): injua na epua zote huonyesha kuondoa chombo motoni; chanzo kimeweka zote katika machaguo.",
+    "5(iv-v): aya ya kondoo ina hitilafu na haitaji chakula kikuu wala anaishi na nani. Majibu ya maarifa ya jumla yamewekewa lebo wazi."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "02bcc7a01b1b167460a9f7520d07a0eaf7f71d5a8392491959a92219f4a41d0b"
+}

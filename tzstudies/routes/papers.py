@@ -151,7 +151,8 @@ def answer_keys_page():
 @login_required
 def view_key(filename):
     _ensure_paper(filename, _get_answer_keys_folder(), "key")
-    return render_template("view_key.html", filename=filename, exam=metadata(filename))
+    exam = next((e for e in _catalogue() if identity(e["filename"]) == identity(filename)), metadata(filename))
+    return render_template("view_key.html", filename=filename, exam=exam)
 
 
 @papers_bp.route("/serve_key/<path:filename>")

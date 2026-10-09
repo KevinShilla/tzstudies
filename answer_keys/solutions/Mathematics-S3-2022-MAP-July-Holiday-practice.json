@@ -1,0 +1,912 @@
+{
+  "exam": "Mathematics-S3-2022-MAP-July-Holiday-practice.pdf",
+  "output": "Mathematics-S3-2022-MAP-July-Holiday-practice-AnswerKey.pdf",
+  "sha256": "e3f7ca4be630e955a1fbff8f550354053bf69ef2ca90e52ffa9e688403bcaec7",
+  "subject": "Mathematics",
+  "level": "Standard Three",
+  "year": "2022",
+  "code": "Not printed in source",
+  "board": "MAP",
+  "exam_type": "Holiday practice - July",
+  "question_count": "51 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26(a)",
+    "26(b)",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Numbers and calculations",
+      "prompt": "Write 3612 in words.",
+      "steps": [
+        "3612 = 3000 + 600 + 12."
+      ],
+      "answer": "Three thousand six hundred and twelve",
+      "source_page": 2
+    },
+    {
+      "id": "2",
+      "section": "Numbers and calculations",
+      "prompt": "Write three hundred and two in figures.",
+      "steps": [
+        "300 + 2 = 302."
+      ],
+      "answer": "302",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "300 + 2",
+          "expected": "302"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "section": "Numbers and calculations",
+      "prompt": "Write 3030 in words.",
+      "steps": [
+        "3030 = 3000 + 30."
+      ],
+      "answer": "Three thousand and thirty",
+      "source_page": 2
+    },
+    {
+      "id": "4",
+      "section": "Numbers and calculations",
+      "prompt": "Write sixty-three in figures.",
+      "steps": [
+        "60 + 3 = 63."
+      ],
+      "answer": "63",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "60 + 3",
+          "expected": "63"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "section": "Numbers and calculations",
+      "prompt": "Pili planted 100 trees. Write the count in words.",
+      "steps": [
+        "Read 100 as one hundred."
+      ],
+      "answer": "One hundred trees",
+      "source_page": 2
+    },
+    {
+      "id": "6",
+      "section": "Numbers and calculations",
+      "prompt": "Show the place value of each digit in 1364.",
+      "steps": [
+        "Read left to right as thousands, hundreds, tens, ones."
+      ],
+      "answer": "1 thousand; 3 hundreds; 6 tens; 4 ones (1000,300,60,4).",
+      "source_page": 2
+    },
+    {
+      "id": "7",
+      "section": "Numbers and calculations",
+      "prompt": "Arrange 30,20,15,5,10,25 in descending order.",
+      "steps": [
+        "Choose greatest to least."
+      ],
+      "answer": "30,25,20,15,10,5",
+      "source_page": 2
+    },
+    {
+      "id": "8",
+      "section": "Numbers and calculations",
+      "prompt": "Expand 2968.",
+      "steps": [
+        "Separate its four place-value contributions."
+      ],
+      "answer": "2000 + 900 + 60 + 8",
+      "source_page": 2
+    },
+    {
+      "id": "9",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 32,[ ],24,20,[ ],12.",
+      "steps": [
+        "Subtract 4; 32 - 4 = 28; 20 - 4 = 16."
+      ],
+      "answer": "28,16",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "32 - 4",
+          "expected": "28"
+        },
+        {
+          "expression": "20 - 4",
+          "expected": "16"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "section": "Numbers and calculations",
+      "prompt": "Write the number represented on the abacus.",
+      "steps": [
+        "The four rods contain 3,2,3,4 beads from left to right.",
+        "3000 + 200 + 30 + 4 = 3234."
+      ],
+      "answer": "3234",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "3000 + 200 + 30 + 4",
+          "expected": "3234"
+        }
+      ],
+      "image": "answer_keys/figures/primary-math/Mathematics-S3-2022-MAP-July-Holiday-practice-Q10.png"
+    },
+    {
+      "id": "11",
+      "section": "Calculations",
+      "prompt": "Calculate 3246+2312.",
+      "steps": [
+        "1 place: 6 + 2 = 8; write 8.",
+        "10 place: 4 + 1 = 5; write 5.",
+        "100 place: 2 + 3 = 5; write 5.",
+        "1000 place: 3 + 2 = 5; write 5.",
+        "3246 + 2312 = 5558."
+      ],
+      "answer": "5558",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "3246+2312",
+          "expected": "5558"
+        },
+        {
+          "expression": "6 + 2",
+          "expected": "8"
+        },
+        {
+          "expression": "4 + 1",
+          "expected": "5"
+        },
+        {
+          "expression": "2 + 3",
+          "expected": "5"
+        },
+        {
+          "expression": "3 + 2",
+          "expected": "5"
+        },
+        {
+          "expression": "3246 + 2312",
+          "expected": "5558"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "section": "Calculations",
+      "prompt": "Calculate 8216-1461.",
+      "steps": [
+        "1 place: 6 - 1 = 5.",
+        "10 place: regroup 1 from the next place; 11 - 6 = 5.",
+        "100 place: regroup 1 from the next place; 11 - 4 = 7.",
+        "1000 place: 7 - 1 = 6.",
+        "8216 - 1461 = 6755; check 6755 + 1461 = 8216."
+      ],
+      "answer": "6755",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "8216-1461",
+          "expected": "6755"
+        },
+        {
+          "expression": "6 - 1",
+          "expected": "5"
+        },
+        {
+          "expression": "11 - 6",
+          "expected": "5"
+        },
+        {
+          "expression": "11 - 4",
+          "expected": "7"
+        },
+        {
+          "expression": "7 - 1",
+          "expected": "6"
+        },
+        {
+          "expression": "8216 - 1461",
+          "expected": "6755"
+        },
+        {
+          "expression": "6755 + 1461",
+          "expected": "8216"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "section": "Calculations",
+      "prompt": "Calculate 38 x 8.",
+      "steps": [
+        "Split into place values: 30 x 8 = 240; 8 x 8 = 64.",
+        "Add the partial products: 304."
+      ],
+      "answer": "304",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "38*8",
+          "expected": "304"
+        },
+        {
+          "expression": "30 * 8",
+          "expected": "240"
+        },
+        {
+          "expression": "8 * 8",
+          "expected": "64"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "section": "Numbers and calculations",
+      "prompt": "A farmer has 5 cows, each producing 15 litres of milk a day. Find the daily milk total.",
+      "steps": [
+        "5 x 15 = 75."
+      ],
+      "answer": "75 litres per day",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "5 * 15",
+          "expected": "75"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "section": "Numbers and calculations",
+      "prompt": "Tatu harvests 2338 oranges and Joseph 6600. Find their total.",
+      "steps": [
+        "2338 + 6600 = 8938."
+      ],
+      "answer": "8938 oranges",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "2338 + 6600",
+          "expected": "8938"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "section": "Numbers and calculations",
+      "prompt": "Write the shaded fraction of the triangle.",
+      "steps": [
+        "The triangle has 2 equal parts; 1 is shaded."
+      ],
+      "answer": "1/2",
+      "source_page": 3,
+      "image": "answer_keys/figures/primary-math/Mathematics-S3-2022-MAP-July-Holiday-practice-Q16.png"
+    },
+    {
+      "id": "17",
+      "section": "Numbers and calculations",
+      "prompt": "Write the unshaded fraction of the 5 circles.",
+      "steps": [
+        "3 circles are clear and 2 are shaded.",
+        "Unshaded count / total = 3/5."
+      ],
+      "answer": "3/5",
+      "source_page": 3,
+      "image": "answer_keys/figures/primary-math/Mathematics-S3-2022-MAP-July-Holiday-practice-Q17.png"
+    },
+    {
+      "id": "18",
+      "section": "Numbers and calculations",
+      "prompt": "Name the pictured triangle.",
+      "steps": [
+        "It has three sides and one right angle."
+      ],
+      "answer": "Right-angled triangle",
+      "source_page": 3
+    },
+    {
+      "id": "19",
+      "section": "Numbers and calculations",
+      "prompt": "Write two-sevenths in numerals.",
+      "steps": [
+        "Put 2 over 7."
+      ],
+      "answer": "2/7",
+      "source_page": 3
+    },
+    {
+      "id": "20",
+      "section": "Numbers and calculations",
+      "prompt": "How many 1/4 parts make a whole object?",
+      "steps": [
+        "1 / (1/4) = 4."
+      ],
+      "answer": "4",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "1 / (1/4)",
+          "expected": "4"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "section": "Numbers and calculations",
+      "prompt": "Which digit in 8769 has the greatest value?",
+      "steps": [
+        "Place values are 8000,700,60,9.",
+        "8000 is greatest, represented by 8."
+      ],
+      "answer": "8",
+      "source_page": 4
+    },
+    {
+      "id": "22",
+      "section": "Numbers and calculations",
+      "prompt": "Expand 768.",
+      "steps": [
+        "7 hundreds,6 tens,8 ones."
+      ],
+      "answer": "700 + 60 + 8",
+      "source_page": 4
+    },
+    {
+      "id": "23",
+      "section": "Numbers and calculations",
+      "prompt": "Write five thousand three hundred and one pupils in numerals.",
+      "steps": [
+        "5000 + 300 + 1 = 5301."
+      ],
+      "answer": "5301 pupils",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "5000 + 300 + 1",
+          "expected": "5301"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "section": "Numbers and calculations",
+      "prompt": "Give the place value of each digit in 3456.",
+      "steps": [
+        "Read four-digit places left to right."
+      ],
+      "answer": "3 thousands;4 hundreds;5 tens;6 ones.",
+      "source_page": 4
+    },
+    {
+      "id": "25",
+      "section": "Numbers and calculations",
+      "prompt": "Write 800 + 4000 + 3 + 70 in short form.",
+      "steps": [
+        "4000 + 800 + 70 + 3 = 4873."
+      ],
+      "answer": "4873",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "4000 + 800 + 70 + 3",
+          "expected": "4873"
+        }
+      ]
+    },
+    {
+      "id": "26(a)",
+      "section": "Numbers and calculations",
+      "prompt": "Write the first of the two consecutive numbers before 879.",
+      "steps": [
+        "879 - 2 = 877."
+      ],
+      "answer": "877",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "879 - 2",
+          "expected": "877"
+        }
+      ]
+    },
+    {
+      "id": "26(b)",
+      "section": "Numbers and calculations",
+      "prompt": "Write the second of the two consecutive numbers before 879.",
+      "steps": [
+        "879 - 1 = 878."
+      ],
+      "answer": "878",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "879 - 1",
+          "expected": "878"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "section": "Numbers and calculations",
+      "prompt": "Which comes first when 345,245,145,445 are arranged in ascending order?",
+      "steps": [
+        "145 < 245 < 345 < 445."
+      ],
+      "answer": "145",
+      "source_page": 4
+    },
+    {
+      "id": "28",
+      "section": "Numbers and calculations",
+      "prompt": "A farmer has 237 cows,465 sheep and 768 goats. Find the total in words.",
+      "steps": [
+        "237 + 465 = 702.",
+        "702 + 768 = 1470."
+      ],
+      "answer": "One thousand four hundred and seventy animals",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "237 + 465",
+          "expected": "702"
+        },
+        {
+          "expression": "702 + 768",
+          "expected": "1470"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 2,9,16,[ ],30,37.",
+      "steps": [
+        "Increase by 7; 16 + 7 = 23."
+      ],
+      "answer": "23",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "16 + 7",
+          "expected": "23"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "section": "Numbers and calculations",
+      "prompt": "Write the greatest four-digit number.",
+      "steps": [
+        "The largest digit is 9; use 9 in all four places."
+      ],
+      "answer": "9999",
+      "source_page": 4
+    },
+    {
+      "id": "31",
+      "section": "Calculations",
+      "prompt": "Calculate 6798 x 3.",
+      "steps": [
+        "Split into place values: 6000 x 3 = 18000; 700 x 3 = 2100; 90 x 3 = 270; 8 x 3 = 24.",
+        "Add the partial products: 20394."
+      ],
+      "answer": "20394",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "6798*3",
+          "expected": "20394"
+        },
+        {
+          "expression": "6000 * 3",
+          "expected": "18000"
+        },
+        {
+          "expression": "700 * 3",
+          "expected": "2100"
+        },
+        {
+          "expression": "90 * 3",
+          "expected": "270"
+        },
+        {
+          "expression": "8 * 3",
+          "expected": "24"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "section": "Numbers and calculations",
+      "prompt": "Find X in the column sum 3984 + 5 X 45 = 8529.",
+      "steps": [
+        "8529 - 3984 = 4545.",
+        "The required addend starts with 4, but the source fixes its first digit as 5.",
+        "No choice of X can correct this discrepancy."
+      ],
+      "answer": "No solution as printed; if the first addend digit 5 is a typo for 4, X = 5.",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "8529 - 3984",
+          "expected": "4545"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "section": "Numbers and calculations",
+      "prompt": "Mary has 70 mangoes and 77 apples, and gives away 30 mangoes and 55 apples. How many of each remain?",
+      "steps": [
+        "Mangoes: 70 - 30 = 40.",
+        "Apples: 77 - 55 = 22.",
+        "Total fruit: 40 + 22 = 62."
+      ],
+      "answer": "40 mangoes and 22 apples;62 fruits altogether",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "70 - 30",
+          "expected": "40"
+        },
+        {
+          "expression": "77 - 55",
+          "expected": "22"
+        },
+        {
+          "expression": "40 + 22",
+          "expected": "62"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "section": "Calculations",
+      "prompt": "Calculate 8769+2341+3423.",
+      "steps": [
+        "Ones column: 9 + 1 + 3 = 13. Write 3. Carry 1 to the next column.",
+        "Tens column: 6 + 4 + 2 + 1 = 13. Write 3. Carry 1 to the next column.",
+        "Hundreds column: 7 + 3 + 4 + 1 = 15. Write 5. Carry 1 to the next column.",
+        "Thousands column: 8 + 2 + 3 + 1 = 14. Write 4. Carry 1 to the next column.",
+        "Write the remaining carry, 1, on the left.",
+        "Read the digits from left to right: 14533."
+      ],
+      "answer": "14533",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "8769+2341+3423",
+          "expected": "14533"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "section": "Calculations",
+      "prompt": "Calculate 7896-4557.",
+      "steps": [
+        "1 place: regroup 1 from the next place; 16 - 7 = 9.",
+        "10 place: 8 - 5 = 3.",
+        "100 place: 8 - 5 = 3.",
+        "1000 place: 7 - 4 = 3.",
+        "7896 - 4557 = 3339; check 3339 + 4557 = 7896."
+      ],
+      "answer": "3339",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "7896-4557",
+          "expected": "3339"
+        },
+        {
+          "expression": "16 - 7",
+          "expected": "9"
+        },
+        {
+          "expression": "8 - 5",
+          "expected": "3"
+        },
+        {
+          "expression": "7 - 4",
+          "expected": "3"
+        },
+        {
+          "expression": "7896 - 4557",
+          "expected": "3339"
+        },
+        {
+          "expression": "3339 + 4557",
+          "expected": "7896"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "section": "Numbers and calculations",
+      "prompt": "How many quarters make 2 whole shapes?",
+      "steps": [
+        "Each whole has 4 quarters.",
+        "2 x 4 = 8."
+      ],
+      "answer": "8 quarters",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "2 * 4",
+          "expected": "8"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "section": "Numbers and calculations",
+      "prompt": "One loaf weighs 400 g. How much do 5 loaves weigh?",
+      "steps": [
+        "5 x 400 = 2000."
+      ],
+      "answer": "2000 g",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "5 * 400",
+          "expected": "2000"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "section": "Numbers and calculations",
+      "prompt": "Name the pictured solid.",
+      "steps": [
+        "It has six rectangular faces and unequal dimensions."
+      ],
+      "answer": "Cuboid",
+      "source_page": 5,
+      "image": "answer_keys/figures/primary-math/Mathematics-S3-2022-MAP-July-Holiday-practice-Q38.png"
+    },
+    {
+      "id": "39",
+      "section": "Numbers and calculations",
+      "prompt": "How many line segments are determined by the labelled points X, Y, W on the line?",
+      "steps": [
+        "Count XY and YW, then the longer segment XW.",
+        "The full line continues in both directions."
+      ],
+      "answer": "3 segments: XY, YW, XW (2 adjacent pieces).",
+      "source_page": 5
+    },
+    {
+      "id": "40",
+      "section": "Numbers and calculations",
+      "prompt": "David Selena has 235 papers and 238 rulers. Find the total stationery items.",
+      "steps": [
+        "235 + 238 = 473."
+      ],
+      "answer": "473 items",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "235 + 238",
+          "expected": "473"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "section": "Numbers and calculations",
+      "prompt": "Pendo harvests 5047 sacks in the first year and 3438 sacks in the second. Find the difference.",
+      "steps": [
+        "5047 - 3438 = 1609."
+      ],
+      "answer": "1609 sacks",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "5047 - 3438",
+          "expected": "1609"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "section": "Numbers and calculations",
+      "prompt": "Use numbers 0,1,2,3,4,5 without repeats in the 5 circles so that each diagonal sums to 5.",
+      "steps": [
+        "There are 5 circles but 6 offered numbers, so one must be unused.",
+        "Put 1 in the centre; pair 0 with 4 and 2 with 2 would repeat, so choose a different centre.",
+        "Use centre 0; opposite diagonal pairs 1+4 and 2+3 each sum to 5."
+      ],
+      "answer": "Centre 0; top-left 1, bottom-right 4; bottom-left 2, top-right 3;5 unused.",
+      "source_page": 5
+    },
+    {
+      "id": "43",
+      "section": "Numbers and calculations",
+      "prompt": "Arrange 707,800,7007,8000,909,660 in descending order.",
+      "steps": [
+        "Compare number of digits, then place values."
+      ],
+      "answer": "8000,7007,909,800,707,660",
+      "source_page": 5
+    },
+    {
+      "id": "44",
+      "section": "Numbers and calculations",
+      "prompt": "Give the next term in VIII, XII, XVI, XX in Hindu-Arabic numerals.",
+      "steps": [
+        "Values are 8,12,16,20.",
+        "Add 4; 20 + 4 = 24."
+      ],
+      "answer": "24",
+      "source_page": 6,
+      "math_checks": [
+        {
+          "expression": "20 + 4",
+          "expected": "24"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 176,180,[ ],188.",
+      "steps": [
+        "Add 4; 180 + 4 = 184."
+      ],
+      "answer": "184",
+      "source_page": 6,
+      "math_checks": [
+        {
+          "expression": "180 + 4",
+          "expected": "184"
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "section": "Numbers and calculations",
+      "prompt": "Write 46 in Roman numerals.",
+      "steps": [
+        "40 = XL;6 = VI.",
+        "Combine XL and VI."
+      ],
+      "answer": "XLVI",
+      "source_page": 6
+    },
+    {
+      "id": "47",
+      "section": "Numbers and calculations",
+      "prompt": "Given elections in 1995,2000,2005, find the sixth year if the five-year pattern continues.",
+      "steps": [
+        "The sixth is 5 intervals after the first.",
+        "1995 + 5 x 5 = 2020."
+      ],
+      "answer": "2020",
+      "source_page": 6,
+      "math_checks": [
+        {
+          "expression": "1995 + 5 * 5",
+          "expected": "2020"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "section": "Numbers and calculations",
+      "prompt": "Jacob is 7 years older than 23-year-old Michael. How old is Jacob?",
+      "steps": [
+        "23 + 7 = 30."
+      ],
+      "answer": "30 years",
+      "source_page": 6,
+      "math_checks": [
+        {
+          "expression": "23 + 7",
+          "expected": "30"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "section": "Numbers and calculations",
+      "prompt": "Name the sloping four-sided figure.",
+      "steps": [
+        "Both pairs of opposite sides are parallel."
+      ],
+      "answer": "Parallelogram",
+      "source_page": 6
+    },
+    {
+      "id": "50",
+      "section": "Numbers and calculations",
+      "prompt": "Name the three-sided plane figure.",
+      "steps": [
+        "A closed figure with three straight sides is a triangle."
+      ],
+      "answer": "Triangle",
+      "source_page": 6
+    }
+  ],
+  "summaries": {
+    "Numbers and calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Msomi Bora - Standard Three Exams | 2010 - 2023 | Monthly, Midterm, Terminal and Annual Exams - Download All Subjects - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/standard-three-exams-2010-2023-monthly-midterm-terminal-and-annual-exams-download-all-subjects/"
+    }
+  ],
+  "limitations": [
+    "Q 32 has no solution as printed: 3984 plus any 5 X 45 is at least 9029, exceeding 8529.",
+    "Q 42 supplies six numbers for five circles. The shown solution leaves 5 unused; using all six exactly once is impossible.",
+    "Q 39 can mean three segments determined by labelled points or two adjacent pieces; both interpretations are stated."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "da680bebda2bb065dd10239a2e45ed5b21e9e0d3f9547d7908a7e03afb0eb27a"
+}

@@ -1,0 +1,672 @@
+{
+  "exam": "Mathematics-S5-2024-MESP-Tanzania-April-Monthly-test.pdf",
+  "output": "Mathematics-S5-2024-MESP-Tanzania-April-Monthly-test-AnswerKey.pdf",
+  "sha256": "ed7c8b5d8657aa10d2091dc8cb8fdfb8001ee6979a689467b9e75dca3477a8ab",
+  "subject": "Mathematics",
+  "level": "Standard Five",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Monthly test - April",
+  "question_count": "32 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(ix)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "8(i)",
+    "8(ii)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Mathematics",
+      "prompt": "Name the place value of 7 in 70965.",
+      "steps": [
+        "First of 5 digits is ten-thousands."
+      ],
+      "answer": "Ten-thousands",
+      "source_page": 2
+    },
+    {
+      "id": "1(ii)",
+      "section": "Mathematics",
+      "prompt": "Write six hundred and six thousand and six in figures.",
+      "steps": [
+        "606000 + 6 = 606006."
+      ],
+      "answer": "606006",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "606000 + 6",
+          "expected": "606006"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Mathematics",
+      "prompt": "Write 34.654 in words.",
+      "steps": [
+        "Read 34 then each decimal digit 6,5,4."
+      ],
+      "answer": "Thirty-four point six five four",
+      "source_page": 2
+    },
+    {
+      "id": "1(iv)",
+      "section": "Mathematics",
+      "prompt": "Rearrange digits 7968 to form the largest number.",
+      "steps": [
+        "Arrange digits greatest first:9,8,7,6."
+      ],
+      "answer": "9876",
+      "source_page": 2
+    },
+    {
+      "id": "1(ix)",
+      "section": "Mathematics",
+      "prompt": "Use prime factorization to give all factors of 72.",
+      "steps": [
+        "72=2³x 3².",
+        "Choose powers of 2 from 0 to 3 and powers of 3 from 0 to 2, multiply every combination."
+      ],
+      "answer": "Prime factors 2 x 2 x 2 x 3 x 3; all factors 1,2,3,4,6,8,9,12,18,24,36,72.",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "2**3*3**2",
+          "expected": "72"
+        }
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Mathematics",
+      "prompt": "Name the triangle with labels 20 cm,20 m,20 cm.",
+      "steps": [
+        "The drawing is a triangle; literal 20 m=2000 cm exceeds 20+20 cm, so lengths cannot form a triangle.",
+        "If 20 m is a typo for 20 cm, all three sides are equal."
+      ],
+      "answer": "Triangle; intended equilateral triangle if 20 mshould be 20 cm.",
+      "source_page": 2
+    },
+    {
+      "id": "1(vi)",
+      "section": "Mathematics",
+      "prompt": "Write 2 1/2 kgmeat as an improper fraction.",
+      "steps": [
+        "2 x 2 = 4.",
+        "4 + 1 = 5; denominator 2."
+      ],
+      "answer": "5/2 kg",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2+1/2",
+          "expected": "5/2"
+        },
+        {
+          "expression": "2*2",
+          "expected": "4"
+        },
+        {
+          "expression": "4 + 1",
+          "expected": "5"
+        }
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Calculations",
+      "prompt": "Wambura has 846 goats,8076 sheep,405 chickens. Total animals?",
+      "steps": [
+        "846 + 8076 = 8922.",
+        "846 + 8076 + 405 = 9327.",
+        "846+8076+405 = 9327."
+      ],
+      "answer": "9327 animals",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "846+8076+405",
+          "expected": "9327"
+        },
+        {
+          "expression": "846 + 8076",
+          "expected": "8922"
+        },
+        {
+          "expression": "846 + 8076 + 405",
+          "expected": "9327"
+        }
+      ]
+    },
+    {
+      "id": "1(viii)",
+      "section": "Mathematics",
+      "prompt": "Calculate IV/VIII +III/VIII in Arabic fractions.",
+      "steps": [
+        "IV=4; III=3; VIII=8.",
+        "4 + 3 = 7; denominator 8."
+      ],
+      "answer": "7/8",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "4/8+3/8",
+          "expected": "7/8"
+        },
+        {
+          "expression": "4 + 3",
+          "expected": "7"
+        }
+      ]
+    },
+    {
+      "id": "1(x)",
+      "section": "Mathematics",
+      "prompt": "Identify the improper fraction from 11/3,3 2/3,5/6,0.69.",
+      "steps": [
+        "11>3 so 11/3 is improper.",
+        "3 2/3 is written as a mixed number."
+      ],
+      "answer": "11/3",
+      "source_page": 3
+    },
+    {
+      "id": "2(i)",
+      "section": "Mathematics",
+      "prompt": "List multiples of 6 strictly between 12 and 39.",
+      "steps": [
+        "6 x 3=18;6 x 4=24;6 x 5=30;6 x 6=36."
+      ],
+      "answer": "18,24,30,36 (include 12 only if endpoints are intended inclusive).",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "6*3",
+          "expected": "18"
+        },
+        {
+          "expression": "6*4",
+          "expected": "24"
+        },
+        {
+          "expression": "6*5",
+          "expected": "30"
+        },
+        {
+          "expression": "6*6",
+          "expected": "36"
+        }
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Mathematics",
+      "prompt": "Give first 3 positive multiples of 8.",
+      "steps": [
+        "8 x 1 = 8;8 x 2 = 16;8 x 3 = 24."
+      ],
+      "answer": "8,16,24",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "8*1",
+          "expected": "8"
+        },
+        {
+          "expression": "8*2",
+          "expected": "16"
+        },
+        {
+          "expression": "8*3",
+          "expected": "24"
+        }
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Mathematics",
+      "prompt": "Continue 29,23,19,[ ],[ ].",
+      "steps": [
+        "These are primes in descending order.",
+        "The next lower primes are 17 and 13."
+      ],
+      "answer": "17,13",
+      "source_page": 3
+    },
+    {
+      "id": "2(iv)",
+      "section": "Mathematics",
+      "prompt": "Give first 2 positive common multiples of 6 and 7.",
+      "steps": [
+        "6=2 x 3;7 is prime.",
+        "LCM=2 x 3 x 7 = 42.",
+        "Next common multiple 2 x 42 = 84."
+      ],
+      "answer": "42,84",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "2*3*7",
+          "expected": "42"
+        },
+        {
+          "expression": "2*42",
+          "expected": "84"
+        }
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Calculations",
+      "prompt": "Kyoma and Halima share 600000 shillings equally. Each amount?",
+      "steps": [
+        "6 / 2: write 3; 3 x 2 = 6; 6 - 6 = 0.",
+        "0 / 2: write 0; 0 x 2 = 0; 0 - 0 = 0.",
+        "0 / 2: write 0; 0 x 2 = 0; 0 - 0 = 0.",
+        "0 / 2: write 0; 0 x 2 = 0; 0 - 0 = 0.",
+        "0 / 2: write 0; 0 x 2 = 0; 0 - 0 = 0.",
+        "0 / 2: write 0; 0 x 2 = 0; 0 - 0 = 0.",
+        "2 x 300000 = 600000.",
+        "600000 / 2 = 300000."
+      ],
+      "answer": "300000 shillings",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "600000/2",
+          "expected": "300000"
+        },
+        {
+          "expression": "3*2",
+          "expected": "6"
+        },
+        {
+          "expression": "6 - 6",
+          "expected": "0"
+        },
+        {
+          "expression": "0*2",
+          "expected": "0"
+        },
+        {
+          "expression": "0 - 0",
+          "expected": "0"
+        },
+        {
+          "expression": "2*300000",
+          "expected": "600000"
+        },
+        {
+          "expression": "600000 / 2",
+          "expected": "300000"
+        }
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Mathematics",
+      "prompt": "Anold shares 45 goats equally among 7 children. How many per child and left?",
+      "steps": [
+        "7 x 6 = 42.",
+        "45 - 42 = 3."
+      ],
+      "answer": "6 goats each;3 left",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "7*6",
+          "expected": "42"
+        },
+        {
+          "expression": "45 - 42",
+          "expected": "3"
+        }
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Mathematics",
+      "prompt": "Pictogram has 5 whole watermelons and 1 half;1 whole represents 50 pupils. Find pupil count.",
+      "steps": [
+        "5 x 50 = 250.",
+        "Half symbol=50 / 2 = 25.",
+        "250 + 25 = 275."
+      ],
+      "answer": "275 pupils",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "5*50",
+          "expected": "250"
+        },
+        {
+          "expression": "50 / 2",
+          "expected": "25"
+        },
+        {
+          "expression": "250 + 25",
+          "expected": "275"
+        }
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Mathematics",
+      "prompt": "Kiumbo stays 3 days. How many hours?",
+      "steps": [
+        "3 x 24 = 72."
+      ],
+      "answer": "72 hours",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "3*24",
+          "expected": "72"
+        }
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Mathematics",
+      "prompt": "How many angles in a pentagon?",
+      "steps": [
+        "One angle per corner; there are 5 corners."
+      ],
+      "answer": "5",
+      "source_page": 4
+    },
+    {
+      "id": "4(ii)",
+      "section": "Mathematics",
+      "prompt": "Find sum of primes in 12,13,14,15,16,17,18,19.",
+      "steps": [
+        "Primes 13,17,19.",
+        "13 + 17 + 19 = 49."
+      ],
+      "answer": "49",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "13 + 17 + 19",
+          "expected": "49"
+        }
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Mathematics",
+      "prompt": "Rectangle 55 m long,25 m wide. Find distance around it.",
+      "steps": [
+        "Perimeter=2(length+width).",
+        "55 + 25 = 80.",
+        "2 x 80 = 160."
+      ],
+      "answer": "160 m",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "55 + 25",
+          "expected": "80"
+        },
+        {
+          "expression": "2*80",
+          "expected": "160"
+        }
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Mathematics",
+      "prompt": "Dogs bark every 4,6,12 minutes. When next together?",
+      "steps": [
+        "4=2²;6=2 x 3;12=2²x 3.",
+        "LCM=2² x 3 =12."
+      ],
+      "answer": "12 minutes",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "2**2*3",
+          "expected": "12"
+        }
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Mathematics",
+      "prompt": "Continue seedling heights 11,16,21,26,31 cm. Find sixth.",
+      "steps": [
+        "Increase 5 cm; 31 + 5 = 36."
+      ],
+      "answer": "36 cm",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "31 + 5",
+          "expected": "36"
+        }
+      ]
+    },
+    {
+      "id": "5(iii)",
+      "section": "Mathematics",
+      "prompt": "Bells ring every 6,8,12 minutes. When next together?",
+      "steps": [
+        "6=2 x 3;8=2³;12=2²x 3.",
+        "LCM=2³ x 3 =24."
+      ],
+      "answer": "24 minutes",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "2**3*3",
+          "expected": "24"
+        }
+      ]
+    },
+    {
+      "id": "6(i)",
+      "section": "Mathematics",
+      "prompt": "Find reciprocal of 3 1/7 (printed as mixed number).",
+      "steps": [
+        "3 x 7 + 1 = 22;3 1/7=22/7.",
+        "Swap numerator and denominator."
+      ],
+      "answer": "7/22",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "1/(3+1/7)",
+          "expected": "7/22"
+        },
+        {
+          "expression": "3*7 + 1",
+          "expected": "22"
+        }
+      ]
+    },
+    {
+      "id": "6(ii)",
+      "section": "Mathematics",
+      "prompt": "Which is greater,3/6 or 2/5?",
+      "steps": [
+        "3/6=1/2=5/10;2/5=4/10.",
+        "5>4."
+      ],
+      "answer": "3/6",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "3/6",
+          "expected": "1/2"
+        },
+        {
+          "expression": "2/5",
+          "expected": "2/5"
+        }
+      ]
+    },
+    {
+      "id": "6(iii)",
+      "section": "Mathematics",
+      "prompt": "St Peter has 897 pupils,45 teachers,50 staff. Total people in Roman numerals?",
+      "steps": [
+        "897 + 45 + 50 = 992.",
+        "900=CM;90=XC;2=II."
+      ],
+      "answer": "CMXCII",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "897 + 45 + 50",
+          "expected": "992"
+        }
+      ]
+    },
+    {
+      "id": "7(i)",
+      "section": "Mathematics",
+      "prompt": "List all positive factors of 24.",
+      "steps": [
+        "Factor pairs 1 x 24,2 x 12,3 x 8,4 x 6."
+      ],
+      "answer": "1,2,3,4,6,8,12,24",
+      "source_page": 5
+    },
+    {
+      "id": "7(ii)",
+      "section": "Mathematics",
+      "prompt": "Find the difference between 5 and 8.8.",
+      "steps": [
+        "Subtract smaller from larger.",
+        "8.8 - 5 = 3.8."
+      ],
+      "answer": "3.8",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "8.8 - 5",
+          "expected": "19/5"
+        }
+      ]
+    },
+    {
+      "id": "7(iii)",
+      "section": "Calculations",
+      "prompt": "137932 pupils,5472 guests,1379 staff attend. Total?",
+      "steps": [
+        "137932 + 5472 = 143404.",
+        "137932 + 5472 + 1379 = 144783.",
+        "137932+5472+1379 = 144783."
+      ],
+      "answer": "144783 people",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "137932+5472+1379",
+          "expected": "144783"
+        },
+        {
+          "expression": "137932 + 5472",
+          "expected": "143404"
+        },
+        {
+          "expression": "137932 + 5472 + 1379",
+          "expected": "144783"
+        }
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Mathematics",
+      "prompt": "Give the value of 9 in seven hundred nine thousand five hundred twenty.",
+      "steps": [
+        "Number 709520;9 is thousands.",
+        "9 x 1000 = 9000."
+      ],
+      "answer": "9000",
+      "source_page": 6,
+      "math_checks": [
+        {
+          "expression": "9*1000",
+          "expected": "9000"
+        }
+      ]
+    },
+    {
+      "id": "8(ii)",
+      "section": "Mathematics",
+      "prompt": "Find 5/10 +3/5.",
+      "steps": [
+        "Common denominator 10:3/5=6/10.",
+        "5 + 6 = 11.",
+        "11/10=1 1/10."
+      ],
+      "answer": "1 1/10",
+      "source_page": 6,
+      "math_checks": [
+        {
+          "expression": "5/10+3/5",
+          "expected": "11/10"
+        },
+        {
+          "expression": "3/5",
+          "expected": "3/5"
+        },
+        {
+          "expression": "5 + 6",
+          "expected": "11"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Mathematics": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - MESP Tanzania Standard Five End Of Moth Examinations April 2024",
+      "url": "https://darasahuru.ac.tz/mesp-tanzania-standard-five-end-of-moth-examinations-april-2024/"
+    }
+  ],
+  "limitations": [
+    "Q 1(v) labels 20 cm,20 m,20 cm are inconsistent; intended equilateral answer is conditional.",
+    "3(ii) cut watermelon is interpreted as a half symbol (25 pupils), consistent with the pictogram."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "19f9e47716d5a45268c789148be6ecf421e17e96cccf2e25725850603997fbda"
+}

@@ -1,0 +1,167 @@
+{
+  "exam": "Kiswahili-S2-2025-Mbeya-region-May-Practice-assessment.pdf",
+  "output": "Kiswahili-S2-2025-Mbeya-region-May-Practice-assessment-AnswerKey.pdf",
+  "sha256": "ff914ace2a860caf37fcdd31403574f3d4a874740b04c2a6134dc399c63bf417",
+  "subject": "Kiswahili",
+  "level": "Standard Two",
+  "year": "2025",
+  "code": "Not printed in source",
+  "board": "Mbeya region",
+  "exam_type": "Practice assessment - May · Kusoma",
+  "question_count": "Vipengele 11 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1",
+    "2(1)",
+    "2(2)",
+    "2(3)",
+    "2(4)",
+    "2(5)",
+    "2(6)",
+    "2(7)",
+    "2(8)",
+    "2(9)",
+    "2(10)"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Kusoma kwa ufasaha",
+      "prompt": "Soma sentensi: Mwalimu Kolimba anaishi Mbeya Mjini, anafundisha katika Shule ya Msingi Muungano. Siku ya michezo hucheza na wanafunzi wa Awali. Wanafunzi hupenda jinsi anavyofundisha michezo. Anafundisha mchezo wa mpira wa miguu na kikapu. Wiki iliyopita aliwafundisha kupiga danadana na mchezo wa kikapu. Wanafunzi wote wanampenda mwalimu Kolimba kwa umahiri wake.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Mwalimu Kolimba anaishi Mbeya Mjini, anafundisha katika Shule ya Msingi Muungano. Siku ya michezo hucheza na wanafunzi wa Awali. Wanafunzi hupenda jinsi anavyofundisha michezo. Anafundisha mchezo wa mpira wa miguu na kikapu. Wiki iliyopita aliwafundisha kupiga danadana na mchezo wa kikapu. Wanafunzi wote wanampenda mwalimu Kolimba kwa umahiri wake.",
+      "source_page": 1,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi."
+    },
+    {
+      "id": "2(1)",
+      "section": "Ufahamu",
+      "prompt": "Mwakalinga ni muuguzi katika hospitali gani?",
+      "steps": [
+        "Hii ndiyo hospitali inayotajwa mwanzo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Hospitali ya Rufaa Mbeya.",
+      "source_page": 1
+    },
+    {
+      "id": "2(2)",
+      "section": "Ufahamu",
+      "prompt": "Hamisa anasoma darasa la ngapi?",
+      "steps": [
+        "Habari imetaja darasa la saba.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Darasa la saba.",
+      "source_page": 1
+    },
+    {
+      "id": "2(3)",
+      "section": "Ufahamu",
+      "prompt": "Nani ni dereva?",
+      "steps": [
+        "Habari inasema Amani yeye ni dereva.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Amani.",
+      "source_page": 1
+    },
+    {
+      "id": "2(4)",
+      "section": "Ufahamu",
+      "prompt": "Anayeishi Iringa anaitwaje?",
+      "steps": [
+        "Musa ni mwalimu anayeishi Iringa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Musa.",
+      "source_page": 1
+    },
+    {
+      "id": "2(5)",
+      "section": "Ufahamu",
+      "prompt": "Mtoto wa kike anaitwaje?",
+      "steps": [
+        "Katika orodha ya Musa, Amani na Hamisa, chanzo kinaonekana kumkusudia Hamisa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Hamisa, kwa muktadha uliokusudiwa.",
+      "source_page": 1
+    },
+    {
+      "id": "2(6)",
+      "section": "Ufahamu",
+      "prompt": "Nani ni msusi?",
+      "steps": [
+        "Habari inasema bibi yake ni msusi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Bibi yake Hamisa.",
+      "source_page": 1
+    },
+    {
+      "id": "2(7)",
+      "section": "Ufahamu",
+      "prompt": "Nani anafanya ualimu?",
+      "steps": [
+        "Musa ametajwa kama mwalimu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Musa.",
+      "source_page": 1
+    },
+    {
+      "id": "2(8)",
+      "section": "Ufahamu",
+      "prompt": "Familia ina watoto wangapi?",
+      "steps": [
+        "Watoto ni Musa, Amani na Hamisa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Watatu.",
+      "source_page": 1
+    },
+    {
+      "id": "2(9)",
+      "section": "Ufahamu",
+      "prompt": "Kazi ya msusi ni ipi?",
+      "steps": [
+        "Msusi husuka nywele kwa mitindo mbalimbali.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kusuka nywele.",
+      "source_page": 1
+    },
+    {
+      "id": "2(10)",
+      "section": "Ufahamu",
+      "prompt": "Familia ya Mwakalinga ina jumla ya watu wangapi?",
+      "steps": [
+        "Hesabu 2 + 3 = 5. Ukijumuisha bibi aliyetajwa, wanafamilia waliotajwa wote ni 6.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Watano katika familia ya wazazi na watoto: baba, mama na watoto watatu.",
+      "source_page": 1
+    }
+  ],
+  "summaries": {
+    "Kusoma kwa ufasaha": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ufahamu": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "MBEYA STANDARD TWO (DARASA LA PILI) REGIONAL ASSESSMENT EXAMS - MAY, 2025",
+      "url": "https://darasahuru.ac.tz/mbeya-standard-two-darasa-la-pili-regional-assessment-exams-may-2025/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "2(v): jinsia ya Hamisa haijaelezwa moja kwa moja; jibu linafuata muktadha uliokusudiwa.",
+    "2(x): 5 ni familia ya wazazi na watoto; ikiwa bibi wa Dar es Salaam anajumuishwa katika ukoo uliotajwa, watu ni 6."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "e860743217cae94f51318e974fffce2fe4b134589256b77d015c1487fc6b6d56"
+}

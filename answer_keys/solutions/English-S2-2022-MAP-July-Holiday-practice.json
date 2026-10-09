@@ -1,0 +1,1300 @@
+{
+  "exam": "English-S2-2022-MAP-July-Holiday-practice.pdf",
+  "output": "English-S2-2022-MAP-July-Holiday-practice-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Two",
+  "year": "2022",
+  "code": "Not printed in source",
+  "board": "MAP",
+  "exam_type": "Holiday practice - July",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "49759665f3f013a2b35846209b67d22f0c04754f4a596332976da157db25a0c6",
+  "questions": [
+    {
+      "id": "Retained-fragment-50",
+      "section": "Source-limited items",
+      "prompt": "Why is the man doing that activity? (fragment preceding English writing)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. This retained fragment belongs to the preceding source section; its picture and earlier question are absent from the English extract.",
+      "source_page": 2
+    },
+    {
+      "id": "W1",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence 1.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "W2",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence 2.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "W3",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence 3.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "W4",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence 4.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "W5",
+      "section": "Source-limited items",
+      "prompt": "Write dictation sentence 5.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "W6",
+      "section": "Vocabulary",
+      "prompt": "A person who teaches pupils at school is a ___.",
+      "steps": [
+        "Teacher is the occupation associated with teaching.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Teacher.",
+      "source_page": 2
+    },
+    {
+      "id": "W7",
+      "section": "Vocabulary",
+      "prompt": "Yellow, green, blue and black are colours of the national ___.",
+      "steps": [
+        "These are the colours of Tanzania's flag.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Flag.",
+      "source_page": 2
+    },
+    {
+      "id": "W8",
+      "section": "Vocabulary",
+      "prompt": "A person who treats sick people is called a ___.",
+      "steps": [
+        "A doctor provides medical treatment.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Doctor.",
+      "source_page": 2
+    },
+    {
+      "id": "W9",
+      "section": "Vocabulary",
+      "prompt": "O, a, e, u, ur, oo, er are called ___.",
+      "steps": [
+        "The single letters are vowels; ur, oo and er are spellings representing vowel sounds.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Vowels/vowel sounds (intended).",
+      "source_page": 2
+    },
+    {
+      "id": "W10",
+      "section": "Vocabulary",
+      "prompt": "The female parent who bears children is called a ___.",
+      "steps": [
+        "Mother means a female parent.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Mother.",
+      "source_page": 2
+    },
+    {
+      "id": "W11",
+      "section": "Vocabulary",
+      "prompt": "Pupils study at ___ (School, Home).",
+      "steps": [
+        "School is the organised place for pupils to learn, though learning can also occur at home.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "School (intended).",
+      "source_page": 2
+    },
+    {
+      "id": "W12(a)",
+      "section": "Vocabulary",
+      "prompt": "Make an English word from the printed letters s, e, v, e, n.",
+      "steps": [
+        "Use the letters to spell seven in the given order.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Example: seven.",
+      "source_page": 2
+    },
+    {
+      "id": "W12(b)",
+      "section": "Vocabulary",
+      "prompt": "Make another English word from the printed letters s, e, v, e, n.",
+      "steps": [
+        "Even uses e, v, e and n from the supplied letters; if every letter must be used, evens is a valid plural word.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Example: even.",
+      "source_page": 2
+    },
+    {
+      "id": "W12-grid",
+      "section": "Vocabulary",
+      "prompt": "Identify words in the extra printed grid: p i c k i / c a k e i / f a n e w.",
+      "steps": [
+        "Read the rows from left to right and identify complete words; no separate instruction accompanies this grid.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Pick, cake and fan appear across the three rows.",
+      "source_page": 3
+    },
+    {
+      "id": "W13",
+      "section": "Vocabulary",
+      "prompt": "I saw three ___ of a bitch. (puppies, calves)",
+      "steps": [
+        "A bitch is an adult female dog; its young are puppies.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Puppies.",
+      "source_page": 3
+    },
+    {
+      "id": "W14",
+      "section": "Vocabulary",
+      "prompt": "Esther flies an aeroplane. She is a ___ (pilot, mason).",
+      "steps": [
+        "A pilot flies an aircraft.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Pilot.",
+      "source_page": 3
+    },
+    {
+      "id": "W15(a)",
+      "section": "Vocabulary",
+      "prompt": "Write a word beginning with scr.",
+      "steps": [
+        "Scrub begins with the consonant blend scr.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Example: scrub.",
+      "source_page": 3
+    },
+    {
+      "id": "W15(b)",
+      "section": "Vocabulary",
+      "prompt": "Write another word beginning with scr.",
+      "steps": [
+        "Scream begins with scr; other correct examples are acceptable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Example: scream.",
+      "source_page": 3
+    },
+    {
+      "id": "W16",
+      "section": "Vocabulary",
+      "prompt": "Which word has three sounds? (A capital, B hoe, C know, D hunger)",
+      "steps": [
+        "Hoe has three letters but normally two phonemes /h/ and /əʊ/; know also has two phonemes. Letters and sounds are not the same.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "No option clearly has three phonemes. B. hoe is the intended answer only if 'sounds' means letters.",
+      "source_page": 3
+    },
+    {
+      "id": "W17",
+      "section": "Vocabulary",
+      "prompt": "How do you call the brother of your brother? (A Uncle, B father, C Brother, D sister)",
+      "steps": [
+        "Another male child of the same parents is your brother; a brother's brother could also be the speaker in some families.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Brother (usual intended relationship).",
+      "source_page": 3
+    },
+    {
+      "id": "W18",
+      "section": "Vocabulary",
+      "prompt": "How many consonant letters are in IMPLEMENTATION? (A Six, B eight, C nine, D ten)",
+      "steps": [
+        "Count M, P, L, M, N, T, T and N: eight consonant letters.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Eight.",
+      "source_page": 3
+    },
+    {
+      "id": "W19",
+      "section": "Vocabulary",
+      "prompt": "Which punctuation mark is missing from 'Where are you going'?",
+      "steps": [
+        "The sentence asks a question.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Question mark (?).",
+      "source_page": 3
+    },
+    {
+      "id": "W20",
+      "section": "Vocabulary",
+      "prompt": "What is the young one of a pig called? (A baby, B puppy, C kitten, D piglet)",
+      "steps": [
+        "Piglet is the specific name for a young pig.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Piglet.",
+      "source_page": 3
+    },
+    {
+      "id": "W21",
+      "section": "Grammar",
+      "prompt": "Zawadi is ___ some water at the moment. (A Drinks, B drinking, C drink, D Drank)",
+      "steps": [
+        "Is plus an -ing verb describes an action happening now.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Drinking.",
+      "source_page": 3
+    },
+    {
+      "id": "W22",
+      "section": "Grammar",
+      "prompt": "We saw ___ elephant at Dar es Salaam zoo. (A The, B a, C an, D two)",
+      "steps": [
+        "Elephant starts with a vowel sound, so an introduces one elephant; the is also grammatical if it is an already identified elephant.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. An (intended indefinite form).",
+      "source_page": 3
+    },
+    {
+      "id": "W23",
+      "section": "Grammar",
+      "prompt": "Sharmah is ___ than Muyassarah. (A Shorter, B shortest, C short, D Shorting)",
+      "steps": [
+        "Than compares two people, requiring the comparative form.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Shorter.",
+      "source_page": 3
+    },
+    {
+      "id": "W24",
+      "section": "Grammar",
+      "prompt": "Manegese goes to school ___ a school bus. (A With, B by, C on, D to)",
+      "steps": [
+        "Use on a school bus when the article a is present; by school bus would omit a.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. On.",
+      "source_page": 3
+    },
+    {
+      "id": "W25",
+      "section": "Grammar",
+      "prompt": "Upendo ___ to school on foot every day. (A Goes, B gone, C is go, D went)",
+      "steps": [
+        "Every day signals a present habit; Upendo is a singular subject.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Goes.",
+      "source_page": 3
+    },
+    {
+      "id": "W26",
+      "section": "Grammar",
+      "prompt": "Class two pupils ___ some water now. (A Are drinking, B is drinking, C are drink, D is drink)",
+      "steps": [
+        "Pupils is plural and now calls for present continuous.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Are drinking.",
+      "source_page": 4
+    },
+    {
+      "id": "W27",
+      "section": "Grammar",
+      "prompt": "Which word must begin with a capital letter? (A girl, B monday, C bag, D pencil)",
+      "steps": [
+        "Names of days begin with capitals.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Monday.",
+      "source_page": 4
+    },
+    {
+      "id": "W28",
+      "section": "Grammar",
+      "prompt": "What is the plural form of cattle? (A Cattles, B cattle, C cattlees, D cattls)",
+      "steps": [
+        "Cattle is already a plural collective noun; use cow or bull for one animal.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Cattle.",
+      "source_page": 4
+    },
+    {
+      "id": "W29",
+      "section": "Grammar",
+      "prompt": "Yesterday Mr. Mapengo ___ a good picture. (A Draw, B is draw, C drew, D drown)",
+      "steps": [
+        "Yesterday requires the past tense of draw: drew.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Drew.",
+      "source_page": 4
+    },
+    {
+      "id": "W30",
+      "section": "Grammar",
+      "prompt": "Kausari's book is ___ the table. (A In, B over, C besides, D on)",
+      "steps": [
+        "A book normally rests on the table's surface; the sentence alone supplies no picture.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. On (intended).",
+      "source_page": 4
+    },
+    {
+      "id": "W31",
+      "section": "Grammar",
+      "prompt": "This is ___ brother. (A My, B I, C Mine, D Me)",
+      "steps": [
+        "My is the possessive determiner before brother.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. My.",
+      "source_page": 4
+    },
+    {
+      "id": "W32",
+      "section": "Grammar",
+      "prompt": "Bees in their hive are making something sweet. (A ivory, B milk, C honey, D soda)",
+      "steps": [
+        "Bees produce honey.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Honey.",
+      "source_page": 4
+    },
+    {
+      "id": "W33",
+      "section": "Grammar",
+      "prompt": "Which is a ground letter in dog? (A g, B o, C d, D dog)",
+      "steps": [
+        "The g extends below the line; o stays in the middle; d extends above. The source does not define its term.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. g if ground means a descender; B. o if it means the middle writing zone.",
+      "source_page": 4
+    },
+    {
+      "id": "W34",
+      "section": "Grammar",
+      "prompt": "Weak is for ___. (A West, B week, C worst, D work)",
+      "steps": [
+        "Weak and week are homophones.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Week.",
+      "source_page": 4
+    },
+    {
+      "id": "W35",
+      "section": "Grammar",
+      "prompt": "Which word is formed from SENO? (A Nose, B Seno, C Enos, D Eons)",
+      "steps": [
+        "Both words use the letters S, E, N and O exactly once.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Nose is intended; D. eons is also a valid anagram.",
+      "source_page": 4
+    },
+    {
+      "id": "W36",
+      "section": "Composition",
+      "prompt": "Give this sentence A-E in chronological order: Lastly I go to school.",
+      "steps": [
+        "Follow the explicit sequence words: firstly A, secondly B, thirdly C, fourthly D, lastly E.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E.",
+      "source_page": 4
+    },
+    {
+      "id": "W37",
+      "section": "Composition",
+      "prompt": "Give this sentence A-E in chronological order: Thirdly I take my breakfast.",
+      "steps": [
+        "Follow the explicit sequence words: firstly A, secondly B, thirdly C, fourthly D, lastly E.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C.",
+      "source_page": 4
+    },
+    {
+      "id": "W38",
+      "section": "Composition",
+      "prompt": "Give this sentence A-E in chronological order: Secondly I get a shower and wear my uniform.",
+      "steps": [
+        "Follow the explicit sequence words: firstly A, secondly B, thirdly C, fourthly D, lastly E.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B.",
+      "source_page": 4
+    },
+    {
+      "id": "W39",
+      "section": "Composition",
+      "prompt": "Give this sentence A-E in chronological order: Firstly I wake up early in the morning.",
+      "steps": [
+        "Follow the explicit sequence words: firstly A, secondly B, thirdly C, fourthly D, lastly E.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A.",
+      "source_page": 4
+    },
+    {
+      "id": "W40",
+      "section": "Composition",
+      "prompt": "Give this sentence A-E in chronological order: Fourthly I take my bag ready for school.",
+      "steps": [
+        "Follow the explicit sequence words: firstly A, secondly B, thirdly C, fourthly D, lastly E.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D.",
+      "source_page": 4
+    },
+    {
+      "id": "W41",
+      "section": "Punctuation",
+      "prompt": "Punctuate: Where are you going ___",
+      "steps": [
+        "This is a direct question, so end it with a question mark.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Where are you going?",
+      "source_page": 4
+    },
+    {
+      "id": "W42",
+      "section": "Punctuation",
+      "prompt": "Punctuate: Oh dear ___ I am very sorry for that.",
+      "steps": [
+        "An exclamation mark expresses the strong feeling; a comma is also acceptable in a single flowing sentence.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Oh dear! I am very sorry for that.",
+      "source_page": 4
+    },
+    {
+      "id": "W43",
+      "section": "Punctuation",
+      "prompt": "Punctuate: My father is a doctor and my mother is a nurse ___",
+      "steps": [
+        "This is a statement, so end it with a full stop.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "My father is a doctor and my mother is a nurse.",
+      "source_page": 4
+    },
+    {
+      "id": "W44",
+      "section": "Punctuation",
+      "prompt": "Punctuate: Our father bought us mangoes ___ pineapples and cucumbers.",
+      "steps": [
+        "Use a comma to separate items in the list.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Our father bought us mangoes, pineapples and cucumbers.",
+      "source_page": 4
+    },
+    {
+      "id": "W45",
+      "section": "Handwriting",
+      "prompt": "Rewrite neatly: The car is on the road",
+      "steps": [
+        "Copy each word in the same order, retaining its spelling.",
+        "Use clear letter shapes, spaces and the printed capital letters and punctuation."
+      ],
+      "answer": "The car is on the road",
+      "source_page": 5
+    },
+    {
+      "id": "W46",
+      "section": "Comprehension",
+      "prompt": "When did Pamela meet her best friend?",
+      "steps": [
+        "The opening event is dated last Friday.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Last Friday.",
+      "source_page": 5
+    },
+    {
+      "id": "W47",
+      "section": "Comprehension",
+      "prompt": "From which school did Mary drop out?",
+      "steps": [
+        "Pamela attends Mkimbizi and Mary is identified as her classmate.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Mkimbizi Primary School (implied by classmate).",
+      "source_page": 5
+    },
+    {
+      "id": "W48",
+      "section": "Comprehension",
+      "prompt": "Which class is Pamela studying?",
+      "steps": [
+        "The first sentence states her grade.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Grade Two.",
+      "source_page": 5
+    },
+    {
+      "id": "W49",
+      "section": "Comprehension",
+      "prompt": "Which class was Mary in when her parents died?",
+      "steps": [
+        "The story calls her Pamela's classmate and places the death last year without stating her class then.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Not stated exactly. Standard One is possible if she was promoted normally, but cannot be confirmed.",
+      "source_page": 5
+    },
+    {
+      "id": "W50",
+      "section": "Comprehension",
+      "prompt": "Why is Mary now a street child?",
+      "steps": [
+        "The passage directly links the death to her leaving school and becoming a street child.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Her parent(s) died in a car crash, and she dropped out of school.",
+      "source_page": 5
+    },
+    {
+      "id": "R1",
+      "section": "Blends and words",
+      "prompt": "Identify a consonant blend in the bolded word street.",
+      "steps": [
+        "Street begins with three consonants blended as str.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "str.",
+      "source_page": 6
+    },
+    {
+      "id": "R2",
+      "section": "Blends and words",
+      "prompt": "Identify a consonant blend in the bolded word discipline.",
+      "steps": [
+        "The consonant blend pl occurs inside discipline; sc represents one /s/ sound here.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "pl.",
+      "source_page": 6
+    },
+    {
+      "id": "R3",
+      "section": "Blends and words",
+      "prompt": "Identify a consonant blend in the bolded word three.",
+      "steps": [
+        "The th digraph represents one sound and combines with r at the start.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "thr (a consonant cluster).",
+      "source_page": 6
+    },
+    {
+      "id": "R4",
+      "section": "Blends and words",
+      "prompt": "Identify a consonant blend in the bolded word district.",
+      "steps": [
+        "District contains the consonant cluster str inside the word and the final cluster ct, pronounced /kt/.",
+        "Identify adjacent consonant sounds rather than treating every pair of letters as a blend."
+      ],
+      "answer": "str (also the final ct cluster /kt/).",
+      "source_page": 6
+    },
+    {
+      "id": "R5",
+      "section": "Blends and words",
+      "prompt": "Identify a consonant blend in the bolded word questions.",
+      "steps": [
+        "Qu represents the initial /k/ and /w/ sounds in questions.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "qu (/kw/).",
+      "source_page": 6
+    },
+    {
+      "id": "R6",
+      "section": "Blends and words",
+      "prompt": "Write a word containing oo.",
+      "steps": [
+        "The example moon contains oo. Other suitable correctly spelled examples are acceptable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Example: moon.",
+      "source_page": 6
+    },
+    {
+      "id": "R7",
+      "section": "Blends and words",
+      "prompt": "Write a word containing oo.",
+      "steps": [
+        "The example soon contains oo. Other suitable correctly spelled examples are acceptable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Example: soon.",
+      "source_page": 6
+    },
+    {
+      "id": "R8",
+      "section": "Blends and words",
+      "prompt": "Write a word containing ee.",
+      "steps": [
+        "The example tree contains ee. Other suitable correctly spelled examples are acceptable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Example: tree.",
+      "source_page": 6
+    },
+    {
+      "id": "R9",
+      "section": "Blends and words",
+      "prompt": "Write a word containing ee.",
+      "steps": [
+        "The example bee contains ee. Other suitable correctly spelled examples are acceptable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Example: bee.",
+      "source_page": 6
+    },
+    {
+      "id": "R10",
+      "section": "Blends and words",
+      "prompt": "Write a word containing ight.",
+      "steps": [
+        "The example night contains ight. Other suitable correctly spelled examples are acceptable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Example: night.",
+      "source_page": 6
+    },
+    {
+      "id": "R11",
+      "section": "Reading vocabulary",
+      "prompt": "Match Management with Bloom, Sweat, Week, Development, Cheer.",
+      "steps": [
+        "Both words end with the suffix ment.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Development.",
+      "source_page": 6
+    },
+    {
+      "id": "R12",
+      "section": "Reading vocabulary",
+      "prompt": "Match Weak with Bloom, Sweat, Week, Development, Cheer.",
+      "steps": [
+        "Weak and week sound the same.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Week.",
+      "source_page": 6
+    },
+    {
+      "id": "R13",
+      "section": "Reading vocabulary",
+      "prompt": "Match Sweet with Bloom, Sweat, Week, Development, Cheer.",
+      "steps": [
+        "Sweet and sweat begin with /sw/ but have different vowel sounds.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Sweat only for shared initial sw; they do not rhyme.",
+      "source_page": 6
+    },
+    {
+      "id": "R14",
+      "section": "Reading vocabulary",
+      "prompt": "Match Chair with Bloom, Sweat, Week, Development, Cheer.",
+      "steps": [
+        "Both begin with the sound /tʃ/, but their vowel sounds differ.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Cheer for initial ch; they are not homophones.",
+      "source_page": 6
+    },
+    {
+      "id": "R15",
+      "section": "Reading vocabulary",
+      "prompt": "Match Broom with Bloom, Sweat, Week, Development, Cheer.",
+      "steps": [
+        "Broom and bloom rhyme, ending in /u:m/.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Bloom.",
+      "source_page": 6
+    },
+    {
+      "id": "R16",
+      "section": "Reading vocabulary",
+      "prompt": "My friend fell while running and I told him ___.",
+      "steps": [
+        "Sorry expresses sympathy.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Sorry.",
+      "source_page": 6
+    },
+    {
+      "id": "R17",
+      "section": "Reading vocabulary",
+      "prompt": "___ Madam Beatrice, may I go out?",
+      "steps": [
+        "Please makes the request polite.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Please.",
+      "source_page": 6
+    },
+    {
+      "id": "R18",
+      "section": "Reading vocabulary",
+      "prompt": "When my father woke up he ate ___.",
+      "steps": [
+        "Breakfast is the morning meal.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Breakfast.",
+      "source_page": 6
+    },
+    {
+      "id": "R19",
+      "section": "Reading vocabulary",
+      "prompt": "We ate ___ before going to sleep.",
+      "steps": [
+        "Dinner is the intended night meal in the bank.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Dinner.",
+      "source_page": 7
+    },
+    {
+      "id": "R20",
+      "section": "Reading vocabulary",
+      "prompt": "After a bell rang we went to the kitchen to take ___.",
+      "steps": [
+        "Lunch is the remaining meal in the word bank; the bell's time is unspecified.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Lunch (intended by elimination).",
+      "source_page": 7
+    },
+    {
+      "id": "R21",
+      "section": "Reading vocabulary",
+      "prompt": "What sound does a cat make?",
+      "steps": [
+        "Cats meow; the table asks for sounds despite its incorrect opposites heading.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Meows.",
+      "source_page": 7
+    },
+    {
+      "id": "R22",
+      "section": "Reading vocabulary",
+      "prompt": "Which animal barks?",
+      "steps": [
+        "Dogs bark.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Dog.",
+      "source_page": 7
+    },
+    {
+      "id": "R23",
+      "section": "Reading vocabulary",
+      "prompt": "What sound does a snake make?",
+      "steps": [
+        "Snakes hiss.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Hisses.",
+      "source_page": 7
+    },
+    {
+      "id": "R24",
+      "section": "Reading vocabulary",
+      "prompt": "Which animal roars?",
+      "steps": [
+        "Lions roar.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Lion.",
+      "source_page": 7
+    },
+    {
+      "id": "R25",
+      "section": "Reading vocabulary",
+      "prompt": "What sound does a pig make?",
+      "steps": [
+        "Pigs grunt or oink.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Grunts/oinks.",
+      "source_page": 7
+    },
+    {
+      "id": "R26",
+      "section": "Reading vocabulary",
+      "prompt": "The night meal is called ___.",
+      "steps": [
+        "The source intends different labels for night and evening, although ordinary usage overlaps.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Dinner (intended); supper is also a valid evening/night meal.",
+      "source_page": 7
+    },
+    {
+      "id": "R27",
+      "section": "Reading vocabulary",
+      "prompt": "The morning meal is called ___.",
+      "steps": [
+        "Breakfast is the morning meal.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Breakfast.",
+      "source_page": 7
+    },
+    {
+      "id": "R28",
+      "section": "Reading vocabulary",
+      "prompt": "The afternoon meal is called ___.",
+      "steps": [
+        "Lunch is normally eaten around midday.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Lunch.",
+      "source_page": 7
+    },
+    {
+      "id": "R29",
+      "section": "Reading vocabulary",
+      "prompt": "Cabbage, spinach and cassava leaves are ___.",
+      "steps": [
+        "They are edible plant foods.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Vegetables.",
+      "source_page": 7
+    },
+    {
+      "id": "R30",
+      "section": "Reading vocabulary",
+      "prompt": "The evening meal is called ___.",
+      "steps": [
+        "Supper and dinner can both name an evening meal.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Supper (intended); dinner is also acceptable.",
+      "source_page": 7
+    },
+    {
+      "id": "R31",
+      "section": "Picture sentences",
+      "prompt": "Describe the action in picture 31. The source illustration shows one child holding an open book while other children gather and listen.",
+      "steps": [
+        "The picture shows one child holding an open book and other children listening.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Model sentence: The children are reading a book together.",
+      "source_page": 7
+    },
+    {
+      "id": "R32",
+      "section": "Picture sentences",
+      "prompt": "Describe the action in picture 32. The source illustration shows a child moving a football with his feet.",
+      "steps": [
+        "The child is kicking a ball.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Model sentence: The boy is playing football.",
+      "source_page": 7
+    },
+    {
+      "id": "R33",
+      "section": "Picture sentences",
+      "prompt": "Describe the action in picture 33. The source illustration shows children holding a rope while another child jumps.",
+      "steps": [
+        "Two children hold the rope while another jumps.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Model sentence: The children are skipping rope.",
+      "source_page": 8
+    },
+    {
+      "id": "R34",
+      "section": "Picture sentences",
+      "prompt": "Describe the action in picture 34. The source illustration shows children grappling with one another.",
+      "steps": [
+        "The pictured children are grappling; a sensible extension is that fighting can hurt people.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Model sentence: The children are fighting.",
+      "source_page": 8
+    },
+    {
+      "id": "R35",
+      "section": "Picture sentences",
+      "prompt": "Describe the action in picture 35. The source illustration shows a child holding a sandwich and a drink.",
+      "steps": [
+        "He holds a sandwich and a drink.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Model sentence: The boy is eating and drinking.",
+      "source_page": 8
+    },
+    {
+      "id": "R36",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: A saw a baboon climbing a tree.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: A saw a baboon climbing a tree.",
+      "source_page": 8
+    },
+    {
+      "id": "R37",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: The prime minister arrived in a white car.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: The prime minister arrived in a white car.",
+      "source_page": 8
+    },
+    {
+      "id": "R38",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: Our class teacher is tall.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Our class teacher is tall.",
+      "source_page": 8
+    },
+    {
+      "id": "R39",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: Develop yourself in reading.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Develop yourself in reading.",
+      "source_page": 8
+    },
+    {
+      "id": "R40",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following sentence: Last week, we took the money to the bank.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Last week, we took the money to the bank.",
+      "source_page": 8
+    },
+    {
+      "id": "R41",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Eggplant, Spinach, Mortal, Umbrella",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Eggplant, Spinach, Mortal, Umbrella",
+      "source_page": 9
+    },
+    {
+      "id": "R42",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Bedroom, Ceiling, Cabbage, Spring",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Bedroom, Ceiling, Cabbage, Spring",
+      "source_page": 9
+    },
+    {
+      "id": "R43",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Peas, Tulip, Bullet, Antelope",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Peas, Tulip, Bullet, Antelope",
+      "source_page": 9
+    },
+    {
+      "id": "R44",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Edition, Concentration, Enjoyment, Friction",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Edition, Concentration, Enjoyment, Friction",
+      "source_page": 9
+    },
+    {
+      "id": "R45",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Pepper, Paper, Energy, Fog",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Pepper, Paper, Energy, Fog",
+      "source_page": 9
+    },
+    {
+      "id": "R46",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Reduce, pet, teach, read",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Reduce, pet, teach, read",
+      "source_page": 9
+    },
+    {
+      "id": "R47",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Father, mother, children, baby",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Father, mother, children, baby",
+      "source_page": 9
+    },
+    {
+      "id": "R48",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Doctor, nurse, pot, house",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Doctor, nurse, pot, house",
+      "source_page": 9
+    },
+    {
+      "id": "R49",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Monitor, soon, moon, room",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Monitor, soon, moon, room",
+      "source_page": 9
+    },
+    {
+      "id": "R50",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following words: Foot, root, coomb, door",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: Foot, root, coomb, door",
+      "source_page": 9
+    }
+  ],
+  "summaries": {
+    "Source-limited items": "The required script, picture or other information is missing. Use the stated limitation and obtain the original material before expecting a unique answer.",
+    "Vocabulary": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Grammar": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Composition": "Follow a clear sequence and keep the tense consistent. Introduce people and events before their pronouns, actions and final outcome.",
+    "Punctuation": "Statements end with full stops and questions with question marks. Use commas for list items and exclamation marks where strong feeling is expressed.",
+    "Handwriting": "Copy the words carefully with clear letters, spaces, capitals and punctuation. Retain the source wording while noticing any printed error.",
+    "Comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations.",
+    "Blends and words": "Distinguish speech sounds from written letters. Blend consonants, recognise digraphs and compare pronunciations when identifying rhymes or homophones.",
+    "Reading vocabulary": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Picture sentences": "Observe the pictured object or action. Name its identifying features and use correct spelling; action sentences use is or are with an ing verb.",
+    "Oral reading": "Read aloud in the printed order. Pronounce words clearly and pause at punctuation. Teachers assess accuracy and fluency; the printed text is the oral response."
+  },
+  "references": [
+    {
+      "title": "Standard Two Exams | 2010 - 2023 | Monthly, Midterm, Terminal and Annual Exams - Download All Subjects - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/standard-two-exams-2010-2023-monthly-midterm-terminal-and-annual-exams-download-all-subjects/"
+    }
+  ],
+  "limitations": [
+    "Retained-fragment-50: This retained fragment belongs to the preceding source section; its picture and earlier question are absent from the English extract.",
+    "W1: The teacher dictation words or audio are not included in this source.",
+    "W2: The teacher dictation words or audio are not included in this source.",
+    "W3: The teacher dictation words or audio are not included in this source.",
+    "W4: The teacher dictation words or audio are not included in this source.",
+    "W5: The teacher dictation words or audio are not included in this source.",
+    "W12: The printed word-building instruction and extra grid are not clearly linked; examples and grid words are distinguished.",
+    "W16: No printed option has exactly three phonemes; intended letter-count answer is explained.",
+    "W33: Ground letter is undefined; alternative handwriting interpretations are supplied.",
+    "W35: Nose and eons are both valid printed anagrams.",
+    "W49: The passage does not state Mary's class at the time of the death; an assumed promotion must not become a certain answer."
+  ],
+  "expected_parts": [
+    "Retained-fragment-50",
+    "W1",
+    "W2",
+    "W3",
+    "W4",
+    "W5",
+    "W6",
+    "W7",
+    "W8",
+    "W9",
+    "W10",
+    "W11",
+    "W12(a)",
+    "W12(b)",
+    "W12-grid",
+    "W13",
+    "W14",
+    "W15(a)",
+    "W15(b)",
+    "W16",
+    "W17",
+    "W18",
+    "W19",
+    "W20",
+    "W21",
+    "W22",
+    "W23",
+    "W24",
+    "W25",
+    "W26",
+    "W27",
+    "W28",
+    "W29",
+    "W30",
+    "W31",
+    "W32",
+    "W33",
+    "W34",
+    "W35",
+    "W36",
+    "W37",
+    "W38",
+    "W39",
+    "W40",
+    "W41",
+    "W42",
+    "W43",
+    "W44",
+    "W45",
+    "W46",
+    "W47",
+    "W48",
+    "W49",
+    "W50",
+    "R1",
+    "R2",
+    "R3",
+    "R4",
+    "R5",
+    "R6",
+    "R7",
+    "R8",
+    "R9",
+    "R10",
+    "R11",
+    "R12",
+    "R13",
+    "R14",
+    "R15",
+    "R16",
+    "R17",
+    "R18",
+    "R19",
+    "R20",
+    "R21",
+    "R22",
+    "R23",
+    "R24",
+    "R25",
+    "R26",
+    "R27",
+    "R28",
+    "R29",
+    "R30",
+    "R31",
+    "R32",
+    "R33",
+    "R34",
+    "R35",
+    "R36",
+    "R37",
+    "R38",
+    "R39",
+    "R40",
+    "R41",
+    "R42",
+    "R43",
+    "R44",
+    "R45",
+    "R46",
+    "R47",
+    "R48",
+    "R49",
+    "R50"
+  ],
+  "question_count": "104 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "f1ac1fff24fa2b21564191f9fd463df51338afe43af1e74fba7bb7ba916948ec"
+}

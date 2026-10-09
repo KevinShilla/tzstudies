@@ -1,0 +1,335 @@
+{
+  "exam": "English-S2-2025-PENTA-January-Monthly-test.pdf",
+  "output": "English-S2-2025-PENTA-January-Monthly-test-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Two",
+  "year": "2025",
+  "code": "Not printed in source",
+  "board": "PENTA",
+  "exam_type": "Monthly test - January",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "4c49b476bf42790e922e493e59d20f074c80e212750c6ad73053ca1e0c1d055c",
+  "questions": [
+    {
+      "id": "1",
+      "section": "Dictation",
+      "prompt": "Write dictation item 1.",
+      "steps": [
+        "The supplied dictation teacher sheet on page 4 gives this exact item. Listen carefully; for sentences, use a capital and full stop.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Delicious",
+      "source_page": 2
+    },
+    {
+      "id": "2",
+      "section": "Dictation",
+      "prompt": "Write dictation item 2.",
+      "steps": [
+        "The supplied dictation teacher sheet on page 4 gives this exact item. Listen carefully; for sentences, use a capital and full stop.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Fruit",
+      "source_page": 2
+    },
+    {
+      "id": "3",
+      "section": "Dictation",
+      "prompt": "Write dictation item 3.",
+      "steps": [
+        "The supplied dictation teacher sheet on page 4 gives this exact item. Listen carefully; for sentences, use a capital and full stop.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Bought",
+      "source_page": 2
+    },
+    {
+      "id": "4",
+      "section": "Dictation",
+      "prompt": "Write dictation item 4.",
+      "steps": [
+        "The supplied dictation teacher sheet on page 4 gives this exact item. Listen carefully; for sentences, use a capital and full stop.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Duty",
+      "source_page": 2
+    },
+    {
+      "id": "5",
+      "section": "Dictation",
+      "prompt": "Write dictation item 5.",
+      "steps": [
+        "The supplied dictation teacher sheet on page 4 gives this exact item. Listen carefully; for sentences, use a capital and full stop.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Parent",
+      "source_page": 2
+    },
+    {
+      "id": "6",
+      "section": "Dictation",
+      "prompt": "Write dictation item 6.",
+      "steps": [
+        "The supplied dictation teacher sheet on page 4 gives this exact item. Listen carefully; for sentences, use a capital and full stop.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Traffic",
+      "source_page": 2
+    },
+    {
+      "id": "7",
+      "section": "Dictation",
+      "prompt": "Write dictation item 7.",
+      "steps": [
+        "The supplied dictation teacher sheet on page 4 gives this exact item. Listen carefully; for sentences, use a capital and full stop.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Beach",
+      "source_page": 2
+    },
+    {
+      "id": "8",
+      "section": "Dictation",
+      "prompt": "Write dictation item 8.",
+      "steps": [
+        "The supplied dictation teacher sheet on page 4 gives this exact item. Listen carefully; for sentences, use a capital and full stop.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "She has a white blouse.",
+      "source_page": 2
+    },
+    {
+      "id": "9",
+      "section": "Dictation",
+      "prompt": "Write dictation item 9.",
+      "steps": [
+        "The supplied dictation teacher sheet on page 4 gives this exact item. Listen carefully; for sentences, use a capital and full stop.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "They are studying together.",
+      "source_page": 2
+    },
+    {
+      "id": "10",
+      "section": "Dictation",
+      "prompt": "Write dictation item 10.",
+      "steps": [
+        "The supplied dictation teacher sheet on page 4 gives this exact item. Listen carefully; for sentences, use a capital and full stop.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "The dog has black spots.",
+      "source_page": 2
+    },
+    {
+      "id": "11",
+      "section": "Vocabulary",
+      "prompt": "Pupils go to learn at ___. (A Home, B School, C Hospital)",
+      "steps": [
+        "School is the intended learning institution.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. School.",
+      "source_page": 2
+    },
+    {
+      "id": "12",
+      "section": "Vocabulary",
+      "prompt": "She was told to mop the ___. (A Flower, B Floor, C Flour)",
+      "steps": [
+        "A floor is a surface that can be mopped.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Floor.",
+      "source_page": 2
+    },
+    {
+      "id": "13",
+      "section": "Vocabulary",
+      "prompt": "I wear a cap ___ my head. (A Under, B On, C In)",
+      "steps": [
+        "A cap rests on the head.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. On.",
+      "source_page": 2
+    },
+    {
+      "id": "14",
+      "section": "Vocabulary",
+      "prompt": "The ___ was roaring at midnight. (A Lion, B Elephant, C Donkey)",
+      "steps": [
+        "A lion roars.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Lion.",
+      "source_page": 2
+    },
+    {
+      "id": "15",
+      "section": "Vocabulary",
+      "prompt": "The teacher puts her books ___ the table. (A Under, B On, C In)",
+      "steps": [
+        "On is the ordinary intended surface location; no picture restricts the place.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. On (intended); A. under is grammatical in another situation.",
+      "source_page": 2
+    },
+    {
+      "id": "16",
+      "section": "Vocabulary",
+      "prompt": "Rearrange dirb into a word.",
+      "steps": [
+        "Reorder d, i, r, b to b-i-r-d, using every letter once.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Bird.",
+      "source_page": 2
+    },
+    {
+      "id": "17",
+      "section": "Vocabulary",
+      "prompt": "Rearrange toga into a word.",
+      "steps": [
+        "G-o-a-t uses every printed letter; toga is a garment, so the anagram is not unique.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Goat (intended); toga is itself a valid word.",
+      "source_page": 2
+    },
+    {
+      "id": "18",
+      "section": "Vocabulary",
+      "prompt": "Rearrange bleta into a word.",
+      "steps": [
+        "T-a-b-l-e and b-l-e-a-t both use all the letters.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Table (intended); bleat is also valid.",
+      "source_page": 2
+    },
+    {
+      "id": "19",
+      "section": "Vocabulary",
+      "prompt": "Rearrange adhe into a word.",
+      "steps": [
+        "H-e-a-d uses every letter once.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Head.",
+      "source_page": 2
+    },
+    {
+      "id": "20",
+      "section": "Comprehension and animal young",
+      "prompt": "Write the young one of the pictured cat.",
+      "steps": [
+        "The picture shows a cat; its young is a kitten.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Kitten.",
+      "source_page": 3
+    },
+    {
+      "id": "21",
+      "section": "Comprehension and animal young",
+      "prompt": "Write the young one of a lion.",
+      "steps": [
+        "A young lion is a cub.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Cub.",
+      "source_page": 3
+    },
+    {
+      "id": "22",
+      "section": "Comprehension and animal young",
+      "prompt": "Write the young one of a hen.",
+      "steps": [
+        "A young chicken is a chick.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Chick.",
+      "source_page": 3
+    },
+    {
+      "id": "23",
+      "section": "Comprehension and animal young",
+      "prompt": "According to the story, who is an artist?",
+      "steps": [
+        "The passage names him as a good artist.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Mr. Kasongo.",
+      "source_page": 3
+    },
+    {
+      "id": "24",
+      "section": "Comprehension and animal young",
+      "prompt": "What does Mr. Kasongo get through his job?",
+      "steps": [
+        "The final sentence says he gets money through his work.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A lot of money.",
+      "source_page": 3
+    },
+    {
+      "id": "25",
+      "section": "Comprehension and animal young",
+      "prompt": "Write the opposite of the underlined word good.",
+      "steps": [
+        "The underlined adjective good has the antonym bad.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Bad.",
+      "source_page": 3
+    }
+  ],
+  "summaries": {
+    "Dictation": "Listen to the supplied teacher text and identify the exact detail asked for. Check spelling and sentence punctuation; missing scripts are explicitly identified.",
+    "Vocabulary": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Comprehension and animal young": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "PENTA Standard Two Monthly Exams January 2025",
+      "url": "https://darasahuru.ac.tz/penta-standard-two-monthly-exams-january-2025-2/"
+    }
+  ],
+  "limitations": [
+    "17: Goat is the intended rearrangement, but toga is an English word.",
+    "18: Table and bleat are both valid anagrams."
+  ],
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25"
+  ],
+  "question_count": "25 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "955ef8ef90b9b1a3c82570531c696313bc90b6e60d6670da36b75e8a89d1deca"
+}

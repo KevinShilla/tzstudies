@@ -1,0 +1,452 @@
+{
+  "exam": "English-S5-2024-MESP-Tanzania-May-Terminal-exam.pdf",
+  "output": "English-S5-2024-MESP-Tanzania-May-Terminal-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Five",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Terminal exam - May",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "cc3aa28e873e5ca1b4f496d6ae21ccb1f622ff49141cda460d707d7c166ebb6f",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Listening",
+      "prompt": "What does for the time being mean? (a at the moment, b at the same time, c at the beginning, d in present, e sometimes)",
+      "steps": [
+        "The phrase means for now.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "a. At the moment/temporarily.",
+      "source_page": 1
+    },
+    {
+      "id": "1(ii)",
+      "section": "Listening",
+      "prompt": "What does the land loses its temperature mean? (a gets high temperature, b does not change, c cools, d was cool, e becomes)",
+      "steps": [
+        "The listening passage describes land losing heat at night.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "c. It cools.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iii)",
+      "section": "Listening",
+      "prompt": "What does gradually mean? (a normal, b usual, c quickly, d slowly, e as usual)",
+      "steps": [
+        "Gradually describes a change in small stages.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "d. Slowly/by degrees.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iv)",
+      "section": "Listening",
+      "prompt": "Give the opposite of appear. (a disappear, b happen, c slow, d highly, e quickly)",
+      "steps": [
+        "Disappear means stop being visible.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "a. Disappear.",
+      "source_page": 1
+    },
+    {
+      "id": "1(v)",
+      "section": "Listening",
+      "prompt": "Choose the best listening-passage title. (a temperature, b pressure, c wind, d water, e land)",
+      "steps": [
+        "The included script ends by explaining wind blowing from land to sea at night.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "c. Wind; more specifically Land Breeze.",
+      "source_page": 1
+    },
+    {
+      "id": "2(i)",
+      "section": "Grammar and composition",
+      "prompt": "A chairperson ___ in this office every month. (a work, b working, c works, d worked, e will work)",
+      "steps": [
+        "A singular subject takes works for a present habit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "c. Works.",
+      "source_page": 2
+    },
+    {
+      "id": "2(ii)",
+      "section": "Grammar and composition",
+      "prompt": "My father owns the car. It belongs to ___. (a him, b her, c their, d yours, e our)",
+      "steps": [
+        "To takes the object pronoun him.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "a. Him.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Grammar and composition",
+      "prompt": "Opposite of heavy? (a heavier, b heaviest, c dark, d light, e noon)",
+      "steps": [
+        "Light contrasts with heavy in weight.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "d. Light.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Grammar and composition",
+      "prompt": "Farida is among the students ___ received scholarships. (a whom, b which, c she, d whose, e who)",
+      "steps": [
+        "Who is the subject relative pronoun for people.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "e. Who.",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Grammar and composition",
+      "prompt": "The team ___ its matches in the 1900s challenge cup. (a won, b wins, c winning, d is winning, e win)",
+      "steps": [
+        "A completed historical event uses past tense.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "a. Won.",
+      "source_page": 2
+    },
+    {
+      "id": "3(i)",
+      "section": "Grammar and composition",
+      "prompt": "How ___ girls are in class? (much, many)",
+      "steps": [
+        "Girls is a plural count noun.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Many.",
+      "source_page": 2
+    },
+    {
+      "id": "3(ii)",
+      "section": "Grammar and composition",
+      "prompt": "I was born ___ 1990. (on, in)",
+      "steps": [
+        "Use in with a year.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "In.",
+      "source_page": 2
+    },
+    {
+      "id": "3(iii)",
+      "section": "Grammar and composition",
+      "prompt": "His head is full of ___. (foolishiness, foolishness)",
+      "steps": [
+        "This is the correctly spelled noun formed from foolish.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Foolishness.",
+      "source_page": 2
+    },
+    {
+      "id": "3(iv)",
+      "section": "Grammar and composition",
+      "prompt": "Our dog barks ___ at night. (loudly, roudly)",
+      "steps": [
+        "Loudly is the correct adverb and spelling.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Loudly.",
+      "source_page": 2
+    },
+    {
+      "id": "3(v)",
+      "section": "Grammar and composition",
+      "prompt": "What ___ your brother doing now? (are, is)",
+      "steps": [
+        "The singular brother takes is.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Is.",
+      "source_page": 2
+    },
+    {
+      "id": "4(i)",
+      "section": "Grammar and composition",
+      "prompt": "Match library with A medical treatment, B education, C read/borrow books, D milk sold, E minerals extracted.",
+      "steps": [
+        "This is a library's function.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. A place to read and borrow books.",
+      "source_page": 2
+    },
+    {
+      "id": "4(ii)",
+      "section": "Grammar and composition",
+      "prompt": "Match mine.",
+      "steps": [
+        "Mine here names an excavation, not a possessive pronoun.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. A place where minerals are extracted.",
+      "source_page": 2
+    },
+    {
+      "id": "4(iii)",
+      "section": "Grammar and composition",
+      "prompt": "Match hospital.",
+      "steps": [
+        "A hospital provides care for sick people.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. A place for medical treatment.",
+      "source_page": 2
+    },
+    {
+      "id": "4(iv)",
+      "section": "Grammar and composition",
+      "prompt": "Match school.",
+      "steps": [
+        "A school teaches pupils.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. A place for pupils' education.",
+      "source_page": 2
+    },
+    {
+      "id": "4(v)",
+      "section": "Grammar and composition",
+      "prompt": "Match dairy.",
+      "steps": [
+        "Dairy relates to milk and milk products.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. A place where milk is sold.",
+      "source_page": 2
+    },
+    {
+      "id": "5(i)",
+      "section": "Grammar and composition",
+      "prompt": "Order with A-E: She asked them to wait.",
+      "steps": [
+        "The nurse's request follows arrival and the explanation.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D.",
+      "source_page": 2
+    },
+    {
+      "id": "5(ii)",
+      "section": "Grammar and composition",
+      "prompt": "Order: Riziki was sick.",
+      "steps": [
+        "Introduce the illness first.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A.",
+      "source_page": 2
+    },
+    {
+      "id": "5(iii)",
+      "section": "Grammar and composition",
+      "prompt": "Order: At hospital the nurse said the doctor was very busy.",
+      "steps": [
+        "This follows travel to the hospital.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C.",
+      "source_page": 2
+    },
+    {
+      "id": "5(iv)",
+      "section": "Grammar and composition",
+      "prompt": "Order: His aunt took him to hospital.",
+      "steps": [
+        "The illness prompts the hospital visit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B.",
+      "source_page": 2
+    },
+    {
+      "id": "5(v)",
+      "section": "Grammar and composition",
+      "prompt": "Order: They waited on the bench for a long time.",
+      "steps": [
+        "Waiting follows the nurse's instruction.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E.",
+      "source_page": 2
+    },
+    {
+      "id": "6(i)",
+      "section": "Comprehension",
+      "prompt": "The director is ___ rewards. (provide)",
+      "steps": [
+        "Is takes an ing verb; drop final e before ing.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Providing.",
+      "source_page": 3
+    },
+    {
+      "id": "6(ii)",
+      "section": "Comprehension",
+      "prompt": "If my brother ___ early, he will board the bus. (wake up)",
+      "steps": [
+        "Use present simple after if in this future condition.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Wakes up.",
+      "source_page": 3
+    },
+    {
+      "id": "6(iii)",
+      "section": "Comprehension",
+      "prompt": "Have Baba and Mama ___ to the teacher? (speak)",
+      "steps": [
+        "Have requires the past participle spoken.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Spoken.",
+      "source_page": 3
+    },
+    {
+      "id": "6(iv)",
+      "section": "Comprehension",
+      "prompt": "My children rarely ___ with toys. (play)",
+      "steps": [
+        "The plural subject takes play for a habit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Play.",
+      "source_page": 3
+    },
+    {
+      "id": "6(v)",
+      "section": "Comprehension",
+      "prompt": "He checked the tube by ___ it in water. (put)",
+      "steps": [
+        "After by use ing; double t in putting.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Putting.",
+      "source_page": 3
+    },
+    {
+      "id": "7(i)",
+      "section": "Comprehension",
+      "prompt": "Who did Mrs. Kuti prepare food for?",
+      "steps": [
+        "The opening sentence identifies the diners.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "The guests.",
+      "source_page": 3
+    },
+    {
+      "id": "7(ii)",
+      "section": "Comprehension",
+      "prompt": "What does verandah mean?",
+      "steps": [
+        "The guests sit in this sheltered outdoor part after eating.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A covered, open porch or gallery alongside the outside of a house.",
+      "source_page": 3
+    },
+    {
+      "id": "7(iii)",
+      "section": "Comprehension",
+      "prompt": "Who congratulated the Kuti family?",
+      "steps": [
+        "The final paragraph names the speaker.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Mr. Jembe, on behalf of the other guests.",
+      "source_page": 3
+    },
+    {
+      "id": "7(iv)",
+      "section": "Comprehension",
+      "prompt": "When did the party end?",
+      "steps": [
+        "The final paragraph gives the ending time.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "6:00 PM.",
+      "source_page": 3
+    },
+    {
+      "id": "7(v)",
+      "section": "Comprehension",
+      "prompt": "What is the passage about?",
+      "steps": [
+        "The congratulation indicates the occasion.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A party celebrating the Kuti family's beautiful house.",
+      "source_page": 3
+    }
+  ],
+  "summaries": {
+    "Listening": "Listen to the supplied teacher text and identify the exact detail asked for. Check spelling and sentence punctuation; missing scripts are explicitly identified.",
+    "Grammar and composition": "Follow a clear sequence and keep the tense consistent. Introduce people and events before their pronouns, actions and final outcome.",
+    "Comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "MESP Tanzania Standard Five Terminal Examinations May 2024",
+      "url": "https://darasahuru.ac.tz/mesp-tanzania-standard-five-terminal-examinations-may-2024/"
+    }
+  ],
+  "limitations": [],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)",
+    "7(v)"
+  ],
+  "question_count": "35 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "25b75faed597612bd3b89838292aee618a9d10f2b9b7863030948ba4236a04aa"
+}

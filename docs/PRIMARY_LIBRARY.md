@@ -36,7 +36,7 @@ Machine-readable counts are in `docs/primary-library-coverage.csv`.
 - The main sources are [Darasa Huru](https://darasahuru.ac.tz/standard-one-examinations-all-subjects/) and [Msomi Bora's public primary collections](https://www.msomibora.com/2025/12/school-exams-for-english-medium-primary-schools/). Each imported paper has its specific source page, original download URL, file size, page count, SHA-256 hash and date basis in `exams/catalogue.json`.
 - Original publisher attribution and question layouts are preserved. Reviewed subject sections were extracted from multi-subject packs with the original cover/pagination retained where applicable. The manifest records the original file hash and selected page numbers. One malformed source PDF had its object references repaired; active-content validation still passed after repair.
 - Unreadable/unsafe files, answer-only files, duplicate copies, papers for other subjects/standards, and a Math PDF with missing fraction operands were excluded. No new exam questions or missing dates were invented.
-- The existing 60 worked answer keys are retained. New imports do not claim to have a separate TZStudies worked answer key. Some original source papers include their publisher's own answers within the PDF.
+- The existing 60 worked answer keys are retained. The 148 imports now have separate TZStudies worked keys in the same branded format, including steps, final answers, study notes and honest explanations for missing scripts or defective source items. Some source PDFs also retain their publisher's own marking pages; incorrect supplied answers were checked rather than copied blindly. See `docs/PRIMARY_ANSWER_KEYS.md` and `output/primary-answer-key-review.json` for the review record.
 
 ## Navigation and performance
 

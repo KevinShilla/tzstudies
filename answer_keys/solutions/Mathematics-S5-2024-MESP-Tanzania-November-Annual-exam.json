@@ -1,0 +1,715 @@
+{
+  "exam": "Mathematics-S5-2024-MESP-Tanzania-November-Annual-exam.pdf",
+  "output": "Mathematics-S5-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf",
+  "sha256": "14f63b3fe1f772c8077a1a2375fa7b81b9ce558235cb4c03007c903fd3279879",
+  "subject": "Mathematics",
+  "level": "Standard Five",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Annual exam - November",
+  "question_count": "33 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(a)",
+    "1(b)",
+    "1(c)",
+    "1(d)",
+    "1(e)",
+    "1(f)",
+    "1(g)",
+    "1(h)",
+    "1(i)",
+    "1(j)",
+    "2(a)",
+    "2(b)",
+    "2(c)",
+    "2(d)",
+    "2(e)",
+    "2(f)",
+    "3(a)",
+    "3(b)",
+    "3(c)",
+    "4(a)",
+    "4(b)",
+    "4(c)",
+    "5(a)",
+    "5(b)",
+    "5(c)",
+    "6(a)",
+    "6(b)",
+    "6(c)",
+    "7(a)",
+    "7(b)",
+    "8(a)",
+    "8(b)",
+    "8(c)"
+  ],
+  "questions": [
+    {
+      "id": "1(a)",
+      "section": "Calculations",
+      "prompt": "Add 451 +69.",
+      "steps": [
+        "1 place: 1 + 9 = 10; write 0, carry 1.",
+        "10 place: 5 + 6 + carry 1 = 12; write 2, carry 1.",
+        "100 place: 4 + 0 + carry 1 = 5; write 5.",
+        "451 + 69 = 520."
+      ],
+      "answer": "520",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "451+69",
+          "expected": "520"
+        },
+        {
+          "expression": "1 + 9",
+          "expected": "10"
+        },
+        {
+          "expression": "451 + 69",
+          "expected": "520"
+        }
+      ]
+    },
+    {
+      "id": "1(b)",
+      "section": "Calculations",
+      "prompt": "Subtract 10231 -4232.",
+      "steps": [
+        "1 place: regroup 1 from the next place; 11 - 2 = 9.",
+        "10 place: regroup 1 from the next place; 12 - 3 = 9.",
+        "100 place: regroup 1 from the next place; 11 - 2 = 9.",
+        "1000 place: regroup 1 from the next place; 9 - 4 = 5.",
+        "10000 place: 0 - 0 = 0.",
+        "10231 - 4232 = 5999; check 5999 + 4232 = 10231."
+      ],
+      "answer": "5999",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "10231-4232",
+          "expected": "5999"
+        },
+        {
+          "expression": "11 - 2",
+          "expected": "9"
+        },
+        {
+          "expression": "12 - 3",
+          "expected": "9"
+        },
+        {
+          "expression": "9 - 4",
+          "expected": "5"
+        },
+        {
+          "expression": "0 - 0",
+          "expected": "0"
+        },
+        {
+          "expression": "10231 - 4232",
+          "expected": "5999"
+        },
+        {
+          "expression": "5999 + 4232",
+          "expected": "10231"
+        }
+      ]
+    },
+    {
+      "id": "1(c)",
+      "section": "Calculations",
+      "prompt": "Multiply 54 x 17.",
+      "steps": [
+        "Split into place values: 50 x 17 = 850; 4 x 17 = 68.",
+        "Add the partial products: 918."
+      ],
+      "answer": "918",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "54*17",
+          "expected": "918"
+        },
+        {
+          "expression": "50*17",
+          "expected": "850"
+        },
+        {
+          "expression": "4*17",
+          "expected": "68"
+        }
+      ]
+    },
+    {
+      "id": "1(d)",
+      "section": "Calculations",
+      "prompt": "Divide 240 by 48.",
+      "steps": [
+        "240 / 48: write 5; 5 x 48 = 240; 240 - 240 = 0.",
+        "48 x 5 = 240.",
+        "240 / 48 = 5."
+      ],
+      "answer": "5",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "240/48",
+          "expected": "5"
+        },
+        {
+          "expression": "5*48",
+          "expected": "240"
+        },
+        {
+          "expression": "240 - 240",
+          "expected": "0"
+        },
+        {
+          "expression": "48*5",
+          "expected": "240"
+        },
+        {
+          "expression": "240 / 48",
+          "expected": "5"
+        }
+      ]
+    },
+    {
+      "id": "1(e)",
+      "section": "Mathematics",
+      "prompt": "Add 2/7 +2/5.",
+      "steps": [
+        "Common denominator 35:10/35+14/35.",
+        "10 + 14 = 24."
+      ],
+      "answer": "24/35",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "2/7+2/5",
+          "expected": "24/35"
+        },
+        {
+          "expression": "10 + 14",
+          "expected": "24"
+        }
+      ]
+    },
+    {
+      "id": "1(f)",
+      "section": "Mathematics",
+      "prompt": "Add 3.4 +1.5.",
+      "steps": [
+        "Tenths 4 + 5 = 9; whole 3 + 1 = 4."
+      ],
+      "answer": "4.9",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "3.4+1.5",
+          "expected": "49/10"
+        },
+        {
+          "expression": "4 + 5",
+          "expected": "9"
+        },
+        {
+          "expression": "3 + 1",
+          "expected": "4"
+        }
+      ]
+    },
+    {
+      "id": "1(g)",
+      "section": "Mathematics",
+      "prompt": "Multiply 3/4 x 3/5.",
+      "steps": [
+        "3 x 3 = 9; numerator.",
+        "4 x 5 = 20; denominator."
+      ],
+      "answer": "9/20",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "(3/4)*(3/5)",
+          "expected": "9/20"
+        },
+        {
+          "expression": "3*3",
+          "expected": "9"
+        },
+        {
+          "expression": "4*5",
+          "expected": "20"
+        }
+      ]
+    },
+    {
+      "id": "1(h)",
+      "section": "Mathematics",
+      "prompt": "Subtract 24.5 -13.7.",
+      "steps": [
+        "Borrow 1 whole:23 whole,15 tenths.",
+        "15 - 7 = 8 tenths;23 - 13 = 10 whole."
+      ],
+      "answer": "10.8",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "24.5-13.7",
+          "expected": "54/5"
+        },
+        {
+          "expression": "15 - 7",
+          "expected": "8"
+        },
+        {
+          "expression": "23 - 13",
+          "expected": "10"
+        }
+      ]
+    },
+    {
+      "id": "1(i)",
+      "section": "Mathematics",
+      "prompt": "Subtract 2 -1/3.",
+      "steps": [
+        "2=6/3.",
+        "6 - 1 = 5;5/3=1 2/3."
+      ],
+      "answer": "1 2/3",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2-1/3",
+          "expected": "5/3"
+        },
+        {
+          "expression": "6 - 1",
+          "expected": "5"
+        }
+      ]
+    },
+    {
+      "id": "1(j)",
+      "section": "Mathematics",
+      "prompt": "Multiply 3.42 x 8.",
+      "steps": [
+        "Ignore decimal:342 x 8 = 2736.",
+        "There are 2 decimal places; restore them."
+      ],
+      "answer": "27.36",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "3.42*8",
+          "expected": "684/25"
+        },
+        {
+          "expression": "342*8",
+          "expected": "2736"
+        }
+      ]
+    },
+    {
+      "id": "2(a)",
+      "section": "Mathematics",
+      "prompt": "Write five hundred thousand one hundred and fifty in numerals.",
+      "steps": [
+        "500000 + 100 + 50 = 500150."
+      ],
+      "answer": "500150",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "500000 + 100 + 50",
+          "expected": "500150"
+        }
+      ]
+    },
+    {
+      "id": "2(b)",
+      "section": "Mathematics",
+      "prompt": "Ten-thousands digit in 618034?",
+      "steps": [
+        "Second of 6 digits is ten-thousands."
+      ],
+      "answer": "1",
+      "source_page": 2
+    },
+    {
+      "id": "2(c)",
+      "section": "Mathematics",
+      "prompt": "Write 215 in Roman numerals.",
+      "steps": [
+        "200=CC;10=X;5=V."
+      ],
+      "answer": "CCXV",
+      "source_page": 2
+    },
+    {
+      "id": "2(d)",
+      "section": "Mathematics",
+      "prompt": "Give value of 4 in the five-rod abacus with beads 1,2,4,5,0 from left.",
+      "steps": [
+        "Five places represent 12450.",
+        "4 is in the hundreds column.",
+        "4 x 100 = 400."
+      ],
+      "answer": "400",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "4*100",
+          "expected": "400"
+        }
+      ]
+    },
+    {
+      "id": "2(e)",
+      "section": "Mathematics",
+      "prompt": "Smallest five-digit number with no repeated digits?",
+      "steps": [
+        "First digit 1(nonzero); then 0,2,3,4 in order."
+      ],
+      "answer": "10234",
+      "source_page": 2
+    },
+    {
+      "id": "2(f)",
+      "section": "Mathematics",
+      "prompt": "Improper fraction among 1/2,2/6,9/5,1 2/3?",
+      "steps": [
+        "9>5;9/5 is improper.",
+        "1 2/3 is a mixed number."
+      ],
+      "answer": "9/5",
+      "source_page": 3
+    },
+    {
+      "id": "3(a)",
+      "section": "Mathematics",
+      "prompt": "How many odd numbers between 30 and 40?",
+      "steps": [
+        "31,33,35,37,39 are the 5 odd numbers."
+      ],
+      "answer": "5",
+      "source_page": 3
+    },
+    {
+      "id": "3(b)",
+      "section": "Mathematics",
+      "prompt": "Find the GCF of 13 and 39.",
+      "steps": [
+        "13 is prime;39=3 x 13.",
+        "Largest shared factor 13."
+      ],
+      "answer": "13",
+      "source_page": 3
+    },
+    {
+      "id": "3(c)",
+      "section": "Mathematics",
+      "prompt": "Continue 18,16,14,12,[ ],[ ].",
+      "steps": [
+        "Subtract 2.",
+        "12 - 2 = 10;10 - 2 = 8."
+      ],
+      "answer": "10,8",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "12 - 2",
+          "expected": "10"
+        },
+        {
+          "expression": "10 - 2",
+          "expected": "8"
+        }
+      ]
+    },
+    {
+      "id": "4(a)",
+      "section": "Mathematics",
+      "prompt": "Which number squared equals 625?",
+      "steps": [
+        "25 x 25 = 625.",
+        "Negative 25 also squares to 625 if negative values allowed."
+      ],
+      "answer": "25 (also-25 over all integers)",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "25*25",
+          "expected": "625"
+        }
+      ]
+    },
+    {
+      "id": "4(b)",
+      "section": "Mathematics",
+      "prompt": "Kangaroo runs 1/3 of 15 km. Find distance.",
+      "steps": [
+        "15 / 3 = 5."
+      ],
+      "answer": "5 km",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "15 / 3",
+          "expected": "5"
+        }
+      ]
+    },
+    {
+      "id": "4(c)",
+      "section": "Mathematics",
+      "prompt": "Difference between 5 hours 30 minutes and 7 hours 15 minutes?",
+      "steps": [
+        "Borrow 1 hour:6 hours 75 minutes.",
+        "75 - 30 = 45 minutes;6 - 5 = 1 hour."
+      ],
+      "answer": "1 hour 45 minutes",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "(7*60+15)-(5*60+30)",
+          "expected": "105"
+        },
+        {
+          "expression": "75 - 30",
+          "expected": "45"
+        },
+        {
+          "expression": "6 - 5",
+          "expected": "1"
+        }
+      ]
+    },
+    {
+      "id": "5(a)",
+      "section": "Mathematics",
+      "prompt": "Multiply 22 years 11 months by 3.",
+      "steps": [
+        "11 x 3 = 33 months=2 years 9 months.",
+        "22 x 3 = 66 years.",
+        "66 + 2 = 68 years."
+      ],
+      "answer": "68 years 9 months",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "(22*12+11)*3",
+          "expected": "825"
+        },
+        {
+          "expression": "11*3",
+          "expected": "33"
+        },
+        {
+          "expression": "22*3",
+          "expected": "66"
+        },
+        {
+          "expression": "66 + 2",
+          "expected": "68"
+        }
+      ]
+    },
+    {
+      "id": "5(b)",
+      "section": "Mathematics",
+      "prompt": "Convert 3 mto centimetres.",
+      "steps": [
+        "3 x 100 = 300."
+      ],
+      "answer": "300 cm",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "3*100",
+          "expected": "300"
+        }
+      ]
+    },
+    {
+      "id": "5(c)",
+      "section": "Mathematics",
+      "prompt": "Add 6 m 81 cm and 3 m 45 cm.",
+      "steps": [
+        "81 + 45 = 126 cm=1 m 26 cm.",
+        "6 + 3 + 1 = 10 m."
+      ],
+      "answer": "10 m 26 cm",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "681+345",
+          "expected": "1026"
+        },
+        {
+          "expression": "81 + 45",
+          "expected": "126"
+        },
+        {
+          "expression": "6 + 3 + 1",
+          "expected": "10"
+        }
+      ]
+    },
+    {
+      "id": "6(a)",
+      "section": "Mathematics",
+      "prompt": "Give coefficient of 2 x².",
+      "steps": [
+        "Coefficient is the numerical multiplier."
+      ],
+      "answer": "2",
+      "source_page": 4
+    },
+    {
+      "id": "6(b)",
+      "section": "Mathematics",
+      "prompt": "Simplify 5 a -3 b +2 a.",
+      "steps": [
+        "Collect like aterms:5 + 2 = 7.",
+        "bterm remains-3 b."
+      ],
+      "answer": "7 a -3 b",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "5 + 2",
+          "expected": "7"
+        }
+      ]
+    },
+    {
+      "id": "6(c)",
+      "section": "Mathematics",
+      "prompt": "Which number plus 5000 equals 50000?",
+      "steps": [
+        "50000 - 5000 = 45000."
+      ],
+      "answer": "45000",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "50000 - 5000",
+          "expected": "45000"
+        }
+      ]
+    },
+    {
+      "id": "7(a)",
+      "section": "Mathematics",
+      "prompt": "Malaria table Jan 160, Feb 180, Mar 120, Apr 200. Difference January-April?",
+      "steps": [
+        "200 - 160 = 40."
+      ],
+      "answer": "40 patients",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "200 - 160",
+          "expected": "40"
+        }
+      ]
+    },
+    {
+      "id": "7(b)",
+      "section": "Mathematics",
+      "prompt": "Mean patients from Jan 160, Feb 180, Mar 120, Apr 200?",
+      "steps": [
+        "160 + 180 + 120 + 200 = 660.",
+        "660 / 4 = 165."
+      ],
+      "answer": "165 patients",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "160 + 180 + 120 + 200",
+          "expected": "660"
+        },
+        {
+          "expression": "660 / 4",
+          "expected": "165"
+        }
+      ]
+    },
+    {
+      "id": "8(a)",
+      "section": "Mathematics",
+      "prompt": "Triangle base 32 m, height 25 m. Area?",
+      "steps": [
+        "Area=base xheight/2.",
+        "32 x 25 = 800.",
+        "800 / 2 = 400."
+      ],
+      "answer": "400 m²",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "32*25",
+          "expected": "800"
+        },
+        {
+          "expression": "800 / 2",
+          "expected": "400"
+        }
+      ]
+    },
+    {
+      "id": "8(b)",
+      "section": "Mathematics",
+      "prompt": "Symmetry lines in the triangle whose two sloping sides have equal tick marks?",
+      "steps": [
+        "An isosceles triangle folds along vertex-to-base-midpoint line."
+      ],
+      "answer": "1",
+      "source_page": 5
+    },
+    {
+      "id": "8(c)",
+      "section": "Mathematics",
+      "prompt": "Find boundary length of the building:top 7 m, right-top 5 m, three inset edges equal 6 m, right-bottom 5 m, bottom 7 m, left 10 m.",
+      "steps": [
+        "Tick marks assign 6 mto all 3 inset edges.",
+        "7 + 5 + 6 + 6 + 6 + 5 + 7 + 10 = 52.",
+        "Vertical lengths conflict:5+6+5=16, while left is labelled 10."
+      ],
+      "answer": "52 m as sum of printed lengths; geometry is inconsistent.",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "7 + 5 + 6 + 6 + 6 + 5 + 7 + 10",
+          "expected": "52"
+        },
+        {
+          "expression": "5+6+5",
+          "expected": "16"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Mathematics": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - MESP STANDARD FIVE ANNUAL EXAMS NOV 2024",
+      "url": "https://darasahuru.ac.tz/mesp-standard-five-annual-exams-nov-2024/"
+    }
+  ],
+  "limitations": [
+    "8(c)inner vertical 6 m, two outer verticals 5 m conflict with total left 10 m;52 m is a formal printed-boundary sum.",
+    "Page 6 contains an unrelated Upendo passage with no questions; no answerable item follows it."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "eefc972f192a99345b7a7b8d78c785af993d2064c12bf9b353aeb294ec840f58"
+}

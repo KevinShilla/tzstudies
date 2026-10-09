@@ -1,0 +1,471 @@
+{
+  "exam": "Kiswahili-S6-2025-PENTA-August-Midterm-exam.pdf",
+  "output": "Kiswahili-S6-2025-PENTA-August-Midterm-exam-AnswerKey.pdf",
+  "sha256": "302485c18bdea9917dd38f20ea1b26b9a96be401347f4863fde1b68847b7a0b5",
+  "subject": "Kiswahili",
+  "level": "Standard Six",
+  "year": "2025",
+  "code": "Not printed in source",
+  "board": "PENTA",
+  "exam_type": "Midterm exam - August",
+  "question_count": "Vipengele 35 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "reviewed": true,
+  "expected_parts": [
+    "1(1)",
+    "1(2)",
+    "1(3)",
+    "1(4)",
+    "1(5)",
+    "2(1)",
+    "2(2)",
+    "2(3)",
+    "2(4)",
+    "2(5)",
+    "2(6)",
+    "2(7)",
+    "2(8)",
+    "2(9)",
+    "2(10)",
+    "3(1)",
+    "3(2)",
+    "3(3)",
+    "3(4)",
+    "3(5)",
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "4(4)",
+    "4(5)",
+    "5(1)",
+    "5(2)",
+    "5(3)",
+    "5(4)",
+    "5(5)",
+    "6(1)",
+    "6(2)",
+    "6(3)",
+    "6(4)",
+    "6(5)"
+  ],
+  "questions": [
+    {
+      "id": "1(1)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Kisawe cha ugonjwa kama lilivyotumika katika habari ni kipi? A ndwele, B selimundu, C korona, D virusi, E plasmodia.",
+      "steps": [
+        "Ndwele ni jina lingine la ugonjwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Ndwele.",
+      "source_page": 2
+    },
+    {
+      "id": "1(2)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Kwa mujibu wa habari kuna aina ngapi za magonjwa? A 1, B 2, C 5, D 3, E 6.",
+      "steps": [
+        "Habari ukurasa 5 imegawa magonjwa katika kuambukizwa, yasiyoambukizwa na ya kurithi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Tatu.",
+      "source_page": 2
+    },
+    {
+      "id": "1(3)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Orodha ipi ni mfano wa magonjwa ya kurithi kutokana na habari? A selimundu na kwashakoo, B plasmodia na amiba, C fangasi na anaemia, D korona na kifua, E selimundu na anaemia.",
+      "steps": [
+        "Kifungu kinataja anemia na selimundu. Kitaalamu baadhi ya aina za anemia hurithiwa, lakini si anemia zote.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Selimundu na anaemia, kwa mujibu wa kifungu.",
+      "source_page": 2
+    },
+    {
+      "id": "1(4)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Kichwa gani kinafaa kwa habari iliyosikilizwa? A Magonjwa yasiyoambukiza, B Ugonjwa wa kipindupindu, C Magonjwa, D Ajali, E Ugonjwa wa kipindupindu.",
+      "steps": [
+        "Habari inaeleza magonjwa kwa jumla, sababu na makundi yake.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Magonjwa.",
+      "source_page": 2
+    },
+    {
+      "id": "1(5)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Kitu gani si ugonjwa katika habari? A selimundu, B korona, C kifua kikuu, D pumu, E plasmodia.",
+      "steps": [
+        "Plasmodia ni vimelea vinavyoweza kusababisha ugonjwa; habari imeviweka katika orodha ya vimelea.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Plasmodia.",
+      "source_page": 2
+    },
+    {
+      "id": "2(1)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Alikuwa amelima shamba kubwa. Sentensi ipo katika wakati gani? A uliopita ukanushi, B uliopo ukanushi, C uliopita timilifu, D mazoea, E ujao.",
+      "steps": [
+        "Alikuwa huweka wakati uliopita; amelima huonyesha kitendo kilichotimia.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Wakati uliopita hali timilifu.",
+      "source_page": 2
+    },
+    {
+      "id": "2(2)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kiongozi wa meli ni nahodha. Mtu anayemsaidia nahodha huitwaje? A sarahangi, B manju, C mdarisi, D kandawala, E shaha.",
+      "steps": [
+        "Sarhangi ni msaidizi wa nahodha; chanzo kimeongeza a katika Sarahangi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Sarahangi (sarhangi).",
+      "source_page": 2
+    },
+    {
+      "id": "2(3)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Wimbo wangu umeimbwa vibaya. Kauli gani ya utendaji? A kutendwa, B kutenda, C kutendea, D kutendeka, E kutendana.",
+      "steps": [
+        "Wimbo unapokea kitendo cha kuimbwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Kutendwa.",
+      "source_page": 2
+    },
+    {
+      "id": "2(4)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Wasichana watatu wanaitwa na mwalimu wa darasa. “Watatu” ni aina gani ya neno? A kitenzi, B kiwakilishi, C kivumishi, D nomino, E kielezi.",
+      "steps": [
+        "Watatu linaeleza idadi ya wasichana.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Kivumishi cha idadi.",
+      "source_page": 2
+    },
+    {
+      "id": "2(5)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Asha alisema, “Sitakuja kwenu tena.” Kauli gani? A tata, B halisi, C changamoto, D amri, E taarifa.",
+      "steps": [
+        "Maneno ya Asha yamenukuliwa moja kwa moja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Halisi.",
+      "source_page": 2
+    },
+    {
+      "id": "2(6)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Ningalikuwa na pesa _____ sherehe kubwa. A nisingalifanya, B ningefanya, C nitafanya, D ningalifanya, E nisingelifanya.",
+      "steps": [
+        "Ningali- katika sharti huendana na ningali- katika matokeo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Ningalifanya.",
+      "source_page": 2
+    },
+    {
+      "id": "2(7)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Dada alitupikia chakula kitamu. Kisawe cha “chakula” ni kipi? A marula, B yabisi, C maakuli, D staftahi, E kisabeho.",
+      "steps": [
+        "Maakuli ni vyakula.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Maakuli.",
+      "source_page": 2
+    },
+    {
+      "id": "2(8)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Hannah hakuwa na rafiki kutokana na tabia ya kuvimba kichwa. Nahau hiyo ina maana gani? A kuwa na kiburi, B wivu, C uchoyo, D roho mbaya, E kupenda sifa.",
+      "steps": [
+        "Kuvimba kichwa ni kujiona bora kuliko wengine.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Kuwa na kiburi.",
+      "source_page": 2
+    },
+    {
+      "id": "2(9)",
+      "section": "Matumizi ya lugha",
+      "prompt": "_____ ungali wima. Kamilisha methali: A lazima umwagilie mgomba, B inafaa kuusemea mgomba, C upende mgomba, D usipande mgomba, E ukate mgomba.",
+      "steps": [
+        "Himiza kushughulikia/kuheshimu jambo au mtu kabla ya kuanguka/kupotea.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Inafaa kuusemea mgomba (kama chaguo lilivyopanuliwa). Methali sanifu: Usemee mgomba ungali wima.",
+      "source_page": 2
+    },
+    {
+      "id": "2(10)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Hali ya mtu kuhisi soni baada ya jambo la aibu huitwaje? A tahamamu, B tashwishi, C tahayari, D tahamaki, E taharuki.",
+      "steps": [
+        "Tahayari ni kuona aibu/soni.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Tahayari.",
+      "source_page": 2
+    },
+    {
+      "id": "3(1)",
+      "section": "Msamiati",
+      "prompt": "Oanisha Shaha. Machaguo: A mahiri wa kupiga ngoma, B hupakia na kupakua mizigo kwenye gari, C mahiri wa kuimba mashairi, D mwalimu wa malenga, E mtu anayezibua vyoo, F mahiri wa kuimba katika ngoma, G hupakia na kupakua mizigo kwenye meli.",
+      "steps": [
+        "Shaha ni mwalimu/mtaalamu anayewaongoza malenga.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Mwalimu wa malenga.",
+      "source_page": 3
+    },
+    {
+      "id": "3(2)",
+      "section": "Msamiati",
+      "prompt": "Oanisha Utingo. Machaguo: A mahiri wa kupiga ngoma, B hupakia na kupakua mizigo kwenye gari, C mahiri wa kuimba mashairi, D mwalimu wa malenga, E mtu anayezibua vyoo, F mahiri wa kuimba katika ngoma, G hupakia na kupakua mizigo kwenye meli.",
+      "steps": [
+        "Utingo ni msaidizi wa dereva anayehudumia abiria/mizigo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Hupakia na kupakua mizigo kwenye gari.",
+      "source_page": 3
+    },
+    {
+      "id": "3(3)",
+      "section": "Msamiati",
+      "prompt": "Oanisha Topasi. Machaguo: A mahiri wa kupiga ngoma, B hupakia na kupakua mizigo kwenye gari, C mahiri wa kuimba mashairi, D mwalimu wa malenga, E mtu anayezibua vyoo, F mahiri wa kuimba katika ngoma, G hupakia na kupakua mizigo kwenye meli.",
+      "steps": [
+        "Topasi hushughulika na kusafisha/kuzibua vyoo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Mtu anayefanya kazi ya kuzibua vyoo.",
+      "source_page": 3
+    },
+    {
+      "id": "3(4)",
+      "section": "Msamiati",
+      "prompt": "Oanisha Kuli. Machaguo: A mahiri wa kupiga ngoma, B hupakia na kupakua mizigo kwenye gari, C mahiri wa kuimba mashairi, D mwalimu wa malenga, E mtu anayezibua vyoo, F mahiri wa kuimba katika ngoma, G hupakia na kupakua mizigo kwenye meli.",
+      "steps": [
+        "Kuli ni mbeba mizigo; G ndiyo maana inayohusu bandari/meli katika machaguo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "G - Hupakia na kupakua mizigo kwenye meli.",
+      "source_page": 3
+    },
+    {
+      "id": "3(5)",
+      "section": "Msamiati",
+      "prompt": "Oanisha Sogora. Machaguo: A mahiri wa kupiga ngoma, B hupakia na kupakua mizigo kwenye gari, C mahiri wa kuimba mashairi, D mwalimu wa malenga, E mtu anayezibua vyoo, F mahiri wa kuimba katika ngoma, G hupakia na kupakua mizigo kwenye meli.",
+      "steps": [
+        "Sogora ni kiongozi/stadi wa ngoma; maana ya jumla ni mtaalamu wa jambo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "F - Mahiri wa kuimba katika ngoma, ndilo linalofaa zaidi katika machaguo.",
+      "source_page": 3
+    },
+    {
+      "id": "4(1)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Aliruka na kula samaki wote bila kuonekana.",
+      "steps": [
+        "Paka hula samaki baada ya kutambulishwa dirishani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D",
+      "source_page": 3
+    },
+    {
+      "id": "4(2)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Aliandaliwa kwa ajili ya wageni.",
+      "steps": [
+        "Sentensi humrejelea samaki aliyepikwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B",
+      "source_page": 3
+    },
+    {
+      "id": "4(3)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Wageni waliokuja waliambulia patupu.",
+      "steps": [
+        "Wageni hukosa chakula baada ya paka kula samaki.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E",
+      "source_page": 3
+    },
+    {
+      "id": "4(4)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Samaki alipikwa vizuri.",
+      "steps": [
+        "Hutambulisha samaki na maandalizi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A",
+      "source_page": 3
+    },
+    {
+      "id": "4(5)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Kumbe kulikuwa na paka mwenye njaa, alikaa dirishani.",
+      "steps": [
+        "Humtambulisha paka kabla ya kuruka kula samaki.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C",
+      "source_page": 3
+    },
+    {
+      "id": "5(1)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Andika mleo wa shairi hili katika ubeti wa pili.",
+      "steps": [
+        "Mleo ni mshororo wa tatu wa ubeti; nakili maneno ya mstari huo kama yalivyochapishwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Hawataki tegemewa, siku zijazo usoni.",
+      "source_page": 3
+    },
+    {
+      "id": "5(2)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "“Kubarizi” lina maana gani katika shairi?",
+      "steps": [
+        "Mshairi anasema watoto wanapenda burudani kuliko kujisomea.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kustarehe/kupumzika au kukaa nje kwa burudani.",
+      "source_page": 3
+    },
+    {
+      "id": "5(3)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Shairi lenye vipande viwili huitwaje?",
+      "steps": [
+        "Kila mshororo hugawika katika ukwapi na utao.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mathnawi.",
+      "source_page": 3
+    },
+    {
+      "id": "5(4)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Kipande cha kwanza ni ukwapi. Kipande cha nne huitwaje?",
+      "steps": [
+        "Mpangilio wa vipande ni ukwapi, utao, mwandamizi, ukingo; shairi la swali lenyewe lina viwili tu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Ukingo.",
+      "source_page": 3
+    },
+    {
+      "id": "5(5)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Mtunzi ametumia muundo gani?",
+      "steps": [
+        "Muundo unaoulizwa kwa idadi ya mishororo ni tarbia.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tarbia: kila ubeti una mishororo minne.",
+      "source_page": 3
+    },
+    {
+      "id": "6(1)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Kipi kinafaa kuwa kichwa cha matini uliyosoma?",
+      "steps": [
+        "Habari yote inaeleza shughuli na furaha za kipindi hicho.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Msimu wa sikukuu za mwisho wa mwaka.",
+      "source_page": 4
+    },
+    {
+      "id": "6(2)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Matini uliyosoma inaitwaje?",
+      "steps": [
+        "Imeandikwa kwa aya zenye maelezo, si kwa mishororo ya shairi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Matini ya habari/kifungu cha nathari.",
+      "source_page": 4
+    },
+    {
+      "id": "6(3)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Kisawe cha “mbalimbali” ni kipi?",
+      "steps": [
+        "Sehemu mbalimbali maana yake sehemu nyingi zilizo tofauti.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tofauti tofauti.",
+      "source_page": 4
+    },
+    {
+      "id": "6(4)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Wahusika gani hufurahi zaidi katika msimu wa sikukuu?",
+      "steps": [
+        "Habari inasema wanafurahi nguo mpya, kutembea na kusafiri.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Watoto.",
+      "source_page": 4
+    },
+    {
+      "id": "6(5)",
+      "section": "Ufahamu wa kusoma",
+      "prompt": "Kwa nini wafanyabiashara hufanya biashara zaidi katika kipindi hiki?",
+      "steps": [
+        "Kifungu kinasema kila mtu hupenda kununua licha ya bei kuwa juu, hivyo wateja huongezeka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Watu wengi hununua bidhaa kwa ajili ya familia zao wakati wa sikukuu.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Ufahamu wa kusikiliza": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Matumizi ya lugha": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Msamiati": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Utungaji": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Ufahamu wa shairi": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu.",
+    "Ufahamu wa kusoma": "Soma agizo, tumia ushahidi wa habari au kanuni iliyofafanuliwa, na hakiki tahajia. Vipengele vyenye hitilafu vimeelezwa katika majibu."
+  },
+  "references": [
+    {
+      "title": "PENTA STANDARD SIX MIDTERM EXAMINATIONS AUGUST 2025",
+      "url": "https://darasahuru.ac.tz/penta-standard-six-midterm-examinations-august-2025/"
+    },
+    {
+      "title": "Elongo Publishers: istilahi za ushairi, mleo na ukingo",
+      "url": "https://elongopublishers.co.ke/books/ushairi.pdf"
+    },
+    {
+      "title": "TUKI: Kamusi ya Kiswahili-Kiingereza, sogora",
+      "url": "https://hist.hse.ru/data/2021/06/13/1440903528/Kamusi%20ya%20Kiswahili%20-%20Kiingereza.pdf"
+    },
+    {
+      "title": "NHLBI/NIH: baadhi ya anemia hurithiwa na nyingine zina sababu zinazopatikana baada ya kuzaliwa",
+      "url": "https://www.nhlbi.nih.gov/health/anemia/causes"
+    }
+  ],
+  "limitations": [
+    "1(3): kifungu kimeita anemia kwa jumla ugonjwa wa kurithi; jibu E ni la ufahamu wa kifungu. Baadhi ya anemia hurithiwa na nyingine husababishwa na lishe, damu kupungua au magonjwa mengine.",
+    "2(2): Sarahangi imechapishwa badala ya sarhangi.",
+    "2(9): chaguo B linapanua methali; umbo sanifu limetolewa."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "e62806ef27f9297664ab5719566489ce35cdfd90077f65ea004dd7003308b91f"
+}

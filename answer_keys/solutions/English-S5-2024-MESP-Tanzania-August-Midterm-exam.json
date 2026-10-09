@@ -1,0 +1,452 @@
+{
+  "exam": "English-S5-2024-MESP-Tanzania-August-Midterm-exam.pdf",
+  "output": "English-S5-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Five",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Midterm exam - August",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "1263d05dbe4d44814467b0d23a2e472669756c3ac9392fdadad5df2d7ce703ac",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Source-limited items",
+      "prompt": "In which year did Jasmeen complete primary school? (A 2020, B 2023, C 2018, D 2022, E no correct answer)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The Jasmeen/Baraka listening passage is absent. The Kiswahili text on page 5 concerns Fabu, Bera and Raja and is unrelated.",
+      "source_page": 1
+    },
+    {
+      "id": "1(ii)",
+      "section": "Source-limited items",
+      "prompt": "What is Jasmeen's younger brother's name? (A Kidando, B Tupendane, C Utulivu, D Elimika, E Baraka)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The Jasmeen/Baraka listening passage is absent. The Kiswahili text on page 5 concerns Fabu, Bera and Raja and is unrelated.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iii)",
+      "section": "Source-limited items",
+      "prompt": "Which school does Baraka attend? (A Kidando, B Umoja, C Utulivu, D Tupendane, E Elimika Primary School)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The Jasmeen/Baraka listening passage is absent. The Kiswahili text on page 5 concerns Fabu, Bera and Raja and is unrelated.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iv)",
+      "section": "Source-limited items",
+      "prompt": "Which parks will Jasmeen and Baraka visit? (A Arusha/Manyara, B Dodoma/Manyara, C Arusha/Dodoma, D Tarangire/Manyara, E Mikumi/Serengeti)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The Jasmeen/Baraka listening passage is absent. The Kiswahili text on page 5 concerns Fabu, Bera and Raja and is unrelated.",
+      "source_page": 1
+    },
+    {
+      "id": "1(v)",
+      "section": "Source-limited items",
+      "prompt": "Where will they go on holiday? (A Arusha, B Dodoma, C Manyara, D Mwanza, E Kigoma)",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The Jasmeen/Baraka listening passage is absent. The Kiswahili text on page 5 concerns Fabu, Bera and Raja and is unrelated.",
+      "source_page": 2
+    },
+    {
+      "id": "2(i)",
+      "section": "Grammar",
+      "prompt": "They studied hard ___ they failed. (A so, B or, C and, D therefore, E yet)",
+      "steps": [
+        "Yet contrasts effort with an unexpected outcome; and is also a grammatical simple link.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Yet, the intended contrast.",
+      "source_page": 2
+    },
+    {
+      "id": "2(ii)",
+      "section": "Grammar",
+      "prompt": "It is cold. Switch ___ the fan. (A on, B off, C of, D in, E at)",
+      "steps": [
+        "Turn off the fan to stop its cooling airflow.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Off.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Grammar",
+      "prompt": "The citizens are ___ intelligent than neighbouring countries (printed). (A most, B more, C some, D very, E both)",
+      "steps": [
+        "Than takes more; the sentence's nationality comparison is an unsupported assertion and compares people with countries.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. More completes the comparative grammar. Correct comparison would be with people in neighbouring countries.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Grammar",
+      "prompt": "Mathematics ___ my best subject. (A are, B were, C have, D is, E does)",
+      "steps": [
+        "Mathematics is treated as a singular subject name.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Is.",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Grammar",
+      "prompt": "Please can I ___ your bicycle? (A lend, B lending, C barrow, D barrowing, E to barrow)",
+      "steps": [
+        "Borrow means receive for temporary use; can takes a base verb.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C is intended as borrow, but barrow is misspelled.",
+      "source_page": 2
+    },
+    {
+      "id": "3(i)",
+      "section": "Vocabulary",
+      "prompt": "John is so rich ___ she can buy this car. Bank: from, any, since, and, that, some, but.",
+      "steps": [
+        "So...that links degree with result; the pronoun in the source is inconsistent with the usual intended John/he reference.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "That.",
+      "source_page": 3
+    },
+    {
+      "id": "3(ii)",
+      "section": "Vocabulary",
+      "prompt": "Moses is suffering ___ skin cancer.",
+      "steps": [
+        "The phrase is suffer from an illness.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "From.",
+      "source_page": 3
+    },
+    {
+      "id": "3(iii)",
+      "section": "Vocabulary",
+      "prompt": "I have been living here ___ 2010.",
+      "steps": [
+        "Since introduces the starting year.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Since.",
+      "source_page": 3
+    },
+    {
+      "id": "3(iv)",
+      "section": "Vocabulary",
+      "prompt": "Do you have ___ book in your bag?",
+      "steps": [
+        "Any is the intended question word, but ordinary plural books is needed here.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Any; corrected count-noun version: any books or a book.",
+      "source_page": 3
+    },
+    {
+      "id": "3(v)",
+      "section": "Vocabulary",
+      "prompt": "He can play both football ___ basketball.",
+      "steps": [
+        "Use both...and.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "And.",
+      "source_page": 3
+    },
+    {
+      "id": "4(i)",
+      "section": "Vocabulary",
+      "prompt": "Match buy with A journalist, B breakfast, C depart, D teacher, E purchase, F causing pain and suffering, G slowly.",
+      "steps": [
+        "Purchase is a synonym of buy.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Purchase.",
+      "source_page": 3
+    },
+    {
+      "id": "4(ii)",
+      "section": "Vocabulary",
+      "prompt": "Match cruel.",
+      "steps": [
+        "Cruel describes deliberate unkindness or suffering.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "F. Causing pain and suffering.",
+      "source_page": 3
+    },
+    {
+      "id": "4(iii)",
+      "section": "Vocabulary",
+      "prompt": "Match a person who writes for a newspaper.",
+      "steps": [
+        "A journalist reports and writes news.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Journalist.",
+      "source_page": 3
+    },
+    {
+      "id": "4(iv)",
+      "section": "Vocabulary",
+      "prompt": "Match the opposite of arrive.",
+      "steps": [
+        "Depart means leave, opposite arrive.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Depart.",
+      "source_page": 3
+    },
+    {
+      "id": "4(v)",
+      "section": "Vocabulary",
+      "prompt": "Match a compound word.",
+      "steps": [
+        "The word combines break and fast.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Breakfast.",
+      "source_page": 3
+    },
+    {
+      "id": "5(i)",
+      "section": "Vocabulary",
+      "prompt": "This is Amina's dress. It is ___.",
+      "steps": [
+        "Hers is the possessive pronoun for Amina.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Hers.",
+      "source_page": 3
+    },
+    {
+      "id": "5(ii)",
+      "section": "Vocabulary",
+      "prompt": "The doctor ___ treated my mother has come.",
+      "steps": [
+        "A relative pronoun introduces the clause describing the doctor.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Who (also that).",
+      "source_page": 3
+    },
+    {
+      "id": "5(iii)",
+      "section": "Vocabulary",
+      "prompt": "Identify the part of speech of the underlined word in Shabani drove the school bus carelessly. The source does not visibly underline a word.",
+      "steps": [
+        "Check the missing underline before prescribing one part of speech.",
+        "Use the word function: carelessly describes how the driving occurred, so it is an adverb."
+      ],
+      "answer": "No unique target word is marked. If carelessly was intended, it is an adverb. Shabani is a proper noun, drove a verb, the an article/determiner, school an attributive noun and bus a noun.",
+      "source_page": 3
+    },
+    {
+      "id": "5(iv)",
+      "section": "Vocabulary",
+      "prompt": "I have nothing in my pocket. Give me ___ money.",
+      "steps": [
+        "Some introduces an unspecified amount requested.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Some.",
+      "source_page": 3
+    },
+    {
+      "id": "5(v)",
+      "section": "Vocabulary",
+      "prompt": "Macdonad is a citizen of Tanzania. She is a ___.",
+      "steps": [
+        "Tanzanian is the nationality adjective/noun.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Tanzanian.",
+      "source_page": 3
+    },
+    {
+      "id": "6(i)",
+      "section": "Comprehension and form filling",
+      "prompt": "Who lived in Mkunguni village?",
+      "steps": [
+        "The children travelled there to visit them.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Alen and Pendo's grandparents.",
+      "source_page": 4
+    },
+    {
+      "id": "6(ii)",
+      "section": "Comprehension and form filling",
+      "prompt": "How old is Pendo?",
+      "steps": [
+        "Alen is eleven; Pendo is two years younger: 11 - 2 = 9.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Nine years old.",
+      "source_page": 4
+    },
+    {
+      "id": "6(iii)",
+      "section": "Comprehension and form filling",
+      "prompt": "Which river did they cross?",
+      "steps": [
+        "The passage names this river.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Rau River.",
+      "source_page": 4
+    },
+    {
+      "id": "6(iv)",
+      "section": "Comprehension and form filling",
+      "prompt": "When did the bus reach the village?",
+      "steps": [
+        "The third paragraph gives the arrival period.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "In the evening.",
+      "source_page": 4
+    },
+    {
+      "id": "6(v)",
+      "section": "Comprehension and form filling",
+      "prompt": "Who told the hare-and-hyena story?",
+      "steps": [
+        "The passage identifies the storyteller.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Their grandfather.",
+      "source_page": 4
+    },
+    {
+      "id": "7(i)",
+      "section": "Comprehension and form filling",
+      "prompt": "Fill the identity card pupil name from the Misongo passage.",
+      "steps": [
+        "Copy the given full name.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Misongo Masata.",
+      "source_page": 4
+    },
+    {
+      "id": "7(ii)",
+      "section": "Comprehension and form filling",
+      "prompt": "Fill the school name.",
+      "steps": [
+        "Copy the school named in the passage.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Upepo Primary School.",
+      "source_page": 4
+    },
+    {
+      "id": "7(iii)",
+      "section": "Comprehension and form filling",
+      "prompt": "Fill the class.",
+      "steps": [
+        "Use the class explicitly provided despite the inconsistent chronology.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Standard Five.",
+      "source_page": 4
+    },
+    {
+      "id": "7(iv)",
+      "section": "Comprehension and form filling",
+      "prompt": "Fill the school entry date.",
+      "steps": [
+        "Use the date printed for his first school day.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "8 January 2024.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Source-limited items": "The required script, picture or other information is missing. Use the stated limitation and obtain the original material before expecting a unique answer.",
+    "Grammar": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Vocabulary": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Comprehension and form filling": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "Standard Five Midterm Exams August 2024 From MESP Tanzania",
+      "url": "https://darasahuru.ac.tz/standard-five-midterm-exams-august-2024-from-mesp-tanzania/"
+    }
+  ],
+  "limitations": [
+    "1(i): The Jasmeen/Baraka listening passage is absent. The Kiswahili text on page 5 concerns Fabu, Bera and Raja and is unrelated.",
+    "1(ii): The Jasmeen/Baraka listening passage is absent. The Kiswahili text on page 5 concerns Fabu, Bera and Raja and is unrelated.",
+    "1(iii): The Jasmeen/Baraka listening passage is absent. The Kiswahili text on page 5 concerns Fabu, Bera and Raja and is unrelated.",
+    "1(iv): The Jasmeen/Baraka listening passage is absent. The Kiswahili text on page 5 concerns Fabu, Bera and Raja and is unrelated.",
+    "1(v): The Jasmeen/Baraka listening passage is absent. The Kiswahili text on page 5 concerns Fabu, Bera and Raja and is unrelated.",
+    "2(iii): Comparative grammar is answerable; the national-intelligence assertion has no evidence in the source.",
+    "2(v): Printed barrow should be borrow.",
+    "3(iv): Intended any needs ordinary plural books in this context.",
+    "7: Birth, entry and Standard Five dates are inconsistent; form answers reproduce the supplied information.",
+    "5(iii): No target underline is visible; conditional adverb answer and other word functions are supplied."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)"
+  ],
+  "question_count": "34 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "649f47c4e25b39aebe1cc710221ac577403cdb1a773a4c829d70556a20fb3a39"
+}

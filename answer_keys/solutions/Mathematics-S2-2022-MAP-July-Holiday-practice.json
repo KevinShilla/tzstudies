@@ -1,0 +1,752 @@
+{
+  "exam": "Mathematics-S2-2022-MAP-July-Holiday-practice.pdf",
+  "output": "Mathematics-S2-2022-MAP-July-Holiday-practice-AnswerKey.pdf",
+  "sha256": "4963a14709a49244ec90524ee626dc7a9525ac1ef2299b932cbb5c54d4c66b4d",
+  "subject": "Mathematics",
+  "level": "Standard Two",
+  "year": "2022",
+  "code": "Not printed in source",
+  "board": "MAP",
+  "exam_type": "Holiday practice - July",
+  "question_count": "52 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "13",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27(a)",
+    "27(b)",
+    "27(c)",
+    "28",
+    "29",
+    "30",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "12",
+    "14",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Numbers and calculations",
+      "prompt": "Write 421 in words.",
+      "steps": [
+        "421 = 400 + 20 + 1.",
+        "Read each place value."
+      ],
+      "answer": "Four hundred and twenty-one",
+      "source_page": 2
+    },
+    {
+      "id": "2",
+      "section": "Numbers and calculations",
+      "prompt": "Write the greatest of fourteen, forty-four, four hundred and fourteen, forty-five in numerals.",
+      "steps": [
+        "Convert them to 14,44,414,45.",
+        "Only 414 has hundreds."
+      ],
+      "answer": "414",
+      "source_page": 2
+    },
+    {
+      "id": "3",
+      "section": "Numbers and calculations",
+      "prompt": "Count the solid figures shown.",
+      "steps": [
+        "There are 3 rows of 3 figures.",
+        "3 x 3 = 9."
+      ],
+      "answer": "9",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-math/Mathematics-S2-2022-MAP-July-Holiday-practice-Q3.png"
+    },
+    {
+      "id": "4",
+      "section": "Numbers and calculations",
+      "prompt": "Write five hundred and seventy-five in numerals.",
+      "steps": [
+        "500 + 70 + 5 = 575."
+      ],
+      "answer": "575",
+      "source_page": 2
+    },
+    {
+      "id": "5",
+      "section": "Numbers and calculations",
+      "prompt": "Count the arrows shown, ignoring cylinders.",
+      "steps": [
+        "Count 3 left arrows, 1 next arrow, 4 middle horizontal arrows, 2 more vertical arrows and 6 right horizontal arrows.",
+        "3 + 1 + 4 + 2 + 6 = 16."
+      ],
+      "answer": "16",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-math/Mathematics-S2-2022-MAP-July-Holiday-practice-Q5.png"
+    },
+    {
+      "id": "6",
+      "section": "Numbers and calculations",
+      "prompt": "Write 3 + 400 + 20 in short form.",
+      "steps": [
+        "Order place values as 400 + 20 + 3.",
+        "The total is 423."
+      ],
+      "answer": "423",
+      "source_page": 2
+    },
+    {
+      "id": "7",
+      "section": "Numbers and calculations",
+      "prompt": "Fill the five-column grid whose row endings are 54,58,62,66,70.",
+      "steps": [
+        "Count backwards by 1 within each row from its given ending.",
+        "Because endings differ by 4 but rows have 5 cells, successive rows overlap; the source is inconsistent with a single consecutive grid."
+      ],
+      "answer": "Rows: 50,51,52,53,54; 54,55,56,57,58; 58,59,60,61,62; 62,63,64,65,66; 66,67,68,69,70 (row-wise interpretation).",
+      "source_page": 2
+    },
+    {
+      "id": "8",
+      "section": "Numbers and calculations",
+      "prompt": "Find the smallest of 76,78,72,71,73,75,74.",
+      "steps": [
+        "All have 7 tens.",
+        "71 has the least ones digit."
+      ],
+      "answer": "71",
+      "source_page": 2
+    },
+    {
+      "id": "9",
+      "section": "Numbers and calculations",
+      "prompt": "Expand 601.",
+      "steps": [
+        "6 hundreds = 600; 0 tens = 0; 1 one = 1."
+      ],
+      "answer": "600 + 0 + 1",
+      "source_page": 2
+    },
+    {
+      "id": "10",
+      "section": "Numbers and calculations",
+      "prompt": "Give the place value of each digit in 456.",
+      "steps": [
+        "Read from right: ones, tens, hundreds."
+      ],
+      "answer": "4 hundreds; 5 tens; 6 ones (values 400,50,6).",
+      "source_page": 3
+    },
+    {
+      "id": "11",
+      "section": "Numbers and calculations",
+      "prompt": "Add 167 + 138 using an abacus with regrouping.",
+      "steps": [
+        "Ones: 7 + 8 = 15; exchange 10 ones for 1 ten, leaving 5.",
+        "Tens: 6 + 3 + 1 = 10; exchange 10 tens for 1 hundred, leaving 0 tens.",
+        "Hundreds: 1 + 1 + 1 = 3."
+      ],
+      "answer": "305; abacus beads H=3, T=0, O=5.",
+      "source_page": 3,
+      "image": "answer_keys/figures/primary-math/Mathematics-S2-2022-MAP-July-Holiday-practice-Q11.png"
+    },
+    {
+      "id": "13",
+      "section": "Numbers and calculations",
+      "prompt": "Count the black dots, then take away 15.",
+      "steps": [
+        "Counting each disc gives 24 dots.",
+        "24 - 15 = 9."
+      ],
+      "answer": "9",
+      "source_page": 3
+    },
+    {
+      "id": "15",
+      "section": "Numbers and calculations",
+      "prompt": "Asha receives 350 shillings for a pencil and 520 for a sharpener. How much altogether?",
+      "steps": [
+        "Add both amounts.",
+        "350 + 520 = 870."
+      ],
+      "answer": "Sh. 870",
+      "source_page": 3
+    },
+    {
+      "id": "16",
+      "section": "Numbers and calculations",
+      "prompt": "Give the shaded fraction of the two pictured figures.",
+      "steps": [
+        "Diamond: 1 of 4 equal parts is shaded.",
+        "Rectangle: 2 of 8 equal triangular parts are shaded; 2/8 = 1/4."
+      ],
+      "answer": "Diamond 1/4; rectangle 2/8 = 1/4.",
+      "source_page": 3,
+      "image": "answer_keys/figures/primary-math/Mathematics-S2-2022-MAP-July-Holiday-practice-Q16.png"
+    },
+    {
+      "id": "17",
+      "section": "Numbers and calculations",
+      "prompt": "Name figures A and B.",
+      "steps": [
+        "A is a solid with circular ends and a curved surface.",
+        "B is a plane shape with four right angles."
+      ],
+      "answer": "A cylinder; B rectangle",
+      "source_page": 4
+    },
+    {
+      "id": "18",
+      "section": "Numbers and calculations",
+      "prompt": "How many 100-shilling coins equal one 500-shilling coin?",
+      "steps": [
+        "Divide total value by each coin value.",
+        "500 / 100 = 5."
+      ],
+      "answer": "5 coins",
+      "source_page": 4
+    },
+    {
+      "id": "19",
+      "section": "Numbers and calculations",
+      "prompt": "Name the solid with one circular base and a pointed top.",
+      "steps": [
+        "A circular base narrows to one vertex."
+      ],
+      "answer": "Cone",
+      "source_page": 4
+    },
+    {
+      "id": "20",
+      "section": "Numbers and calculations",
+      "prompt": "Pamela and Jackiline share Sh.1,000 equally. How much does Pamela receive?",
+      "steps": [
+        "There are 2 equal shares.",
+        "1,000 / 2 = 500."
+      ],
+      "answer": "Sh.500",
+      "source_page": 4
+    },
+    {
+      "id": "21",
+      "section": "Numbers and calculations",
+      "prompt": "Write 131 in words.",
+      "steps": [
+        "131 = 100 + 30 + 1."
+      ],
+      "answer": "One hundred and thirty-one",
+      "source_page": 4
+    },
+    {
+      "id": "22",
+      "section": "Numbers and calculations",
+      "prompt": "Write nine hundred and seventy-five in figures.",
+      "steps": [
+        "900 + 70 + 5 = 975."
+      ],
+      "answer": "975",
+      "source_page": 4
+    },
+    {
+      "id": "23",
+      "section": "Numbers and calculations",
+      "prompt": "Write the answer to 12 + 14 in words.",
+      "steps": [
+        "12 + 14 = 26.",
+        "Read 26 as twenty-six."
+      ],
+      "answer": "Twenty-six",
+      "source_page": 4
+    },
+    {
+      "id": "24",
+      "section": "Numbers and calculations",
+      "prompt": "Count the thin vertical lines between the stars.",
+      "steps": [
+        "Ignore the stars.",
+        "The groups have 6,4 and 5 lines: 6 + 4 + 5 = 15."
+      ],
+      "answer": "15",
+      "source_page": 4
+    },
+    {
+      "id": "25",
+      "section": "Numbers and calculations",
+      "prompt": "Write 96 in words.",
+      "steps": [
+        "90 is ninety; 6 is six."
+      ],
+      "answer": "Ninety-six",
+      "source_page": 5
+    },
+    {
+      "id": "26",
+      "section": "Numbers and calculations",
+      "prompt": "Which digit is in the hundreds place in 340?",
+      "steps": [
+        "340 = 300 + 40 + 0.",
+        "The hundreds digit is 3."
+      ],
+      "answer": "3",
+      "source_page": 5
+    },
+    {
+      "id": "27(a)",
+      "section": "Numbers and calculations",
+      "prompt": "Give the ones digit in 789.",
+      "steps": [
+        "The rightmost digit is ones."
+      ],
+      "answer": "9",
+      "source_page": 5
+    },
+    {
+      "id": "27(b)",
+      "section": "Numbers and calculations",
+      "prompt": "Give the hundreds digit in 789.",
+      "steps": [
+        "The leftmost of three digits is hundreds."
+      ],
+      "answer": "7",
+      "source_page": 5
+    },
+    {
+      "id": "27(c)",
+      "section": "Numbers and calculations",
+      "prompt": "Give the tens digit in 789.",
+      "steps": [
+        "The middle digit is tens."
+      ],
+      "answer": "8",
+      "source_page": 5
+    },
+    {
+      "id": "28",
+      "section": "Numbers and calculations",
+      "prompt": "Write 70 + 100 + 5 in short form.",
+      "steps": [
+        "100 + 70 + 5 = 175."
+      ],
+      "answer": "175",
+      "source_page": 5
+    },
+    {
+      "id": "29",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 59,[ ],61,62,[ ],64,[ ].",
+      "steps": [
+        "Increase by 1 each time."
+      ],
+      "answer": "60,63,65",
+      "source_page": 5
+    },
+    {
+      "id": "30",
+      "section": "Numbers and calculations",
+      "prompt": "Write 689 in long form.",
+      "steps": [
+        "6 hundreds,8 tens and 9 ones."
+      ],
+      "answer": "600 + 80 + 9",
+      "source_page": 5
+    },
+    {
+      "id": "36",
+      "section": "Numbers and calculations",
+      "prompt": "Name the five-pointed figure.",
+      "steps": [
+        "It has five outward points."
+      ],
+      "answer": "Star",
+      "source_page": 6
+    },
+    {
+      "id": "37",
+      "section": "Numbers and calculations",
+      "prompt": "Which figure A or B is a rectangle?",
+      "steps": [
+        "A is a cuboid solid.",
+        "B is a flat four-sided rectangle."
+      ],
+      "answer": "B",
+      "source_page": 6
+    },
+    {
+      "id": "38",
+      "section": "Numbers and calculations",
+      "prompt": "Name the horizontal figure with arrows at both ends.",
+      "steps": [
+        "It continues indefinitely in both directions."
+      ],
+      "answer": "Straight horizontal line",
+      "source_page": 6,
+      "image": "answer_keys/figures/primary-math/Mathematics-S2-2022-MAP-July-Holiday-practice-Q38.png"
+    },
+    {
+      "id": "39",
+      "section": "Numbers and calculations",
+      "prompt": "Redraw the tilted four-sided figure.",
+      "steps": [
+        "Draw four equal sides meeting at four right angles.",
+        "Turn the square so one vertex points up."
+      ],
+      "answer": "A tilted square (diamond outline).",
+      "source_page": 6
+    },
+    {
+      "id": "40",
+      "section": "Numbers and calculations",
+      "prompt": "Which figure A or B is a triangle?",
+      "steps": [
+        "B has three straight sides; A has four."
+      ],
+      "answer": "B",
+      "source_page": 6
+    },
+    {
+      "id": "41",
+      "section": "Numbers and calculations",
+      "prompt": "Find the smallest sum in the first data row of the addition chart.",
+      "steps": [
+        "The first data row is headed 201.",
+        "Its smallest column is 201: 201 + 201 = 402."
+      ],
+      "answer": "402",
+      "source_page": 6
+    },
+    {
+      "id": "42",
+      "section": "Numbers and calculations",
+      "prompt": "Find the greatest sum in the fifth data row of the addition chart.",
+      "steps": [
+        "The fifth data row is headed 205.",
+        "The greatest column is 206: 205 + 206 = 411."
+      ],
+      "answer": "411",
+      "source_page": 6
+    },
+    {
+      "id": "12",
+      "section": "Calculations",
+      "prompt": "Calculate 564+53+235.",
+      "steps": [
+        "Ones column: 4 + 3 + 5 = 12. Write 2. Carry 1 to the next column.",
+        "Tens column: 6 + 5 + 3 + 1 = 15. Write 5. Carry 1 to the next column.",
+        "Hundreds column: 5 + 0 + 2 + 1 = 8. Write 8.",
+        "Read the digits from left to right: 852."
+      ],
+      "answer": "852",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "564+53+235",
+          "expected": "852"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "section": "Calculations",
+      "prompt": "Calculate 756-461.",
+      "steps": [
+        "Ones column: 6 - 1 = 5; write 5.",
+        "Tens column: 5 is too small to subtract 6. Regroup from the columns on its left to make 15.",
+        "Tens column: 15 - 6 = 9; write 9.",
+        "Hundreds column: 6 - 4 = 2; write 2.",
+        "Read the result: 295. Check: 295 + 461 = 756."
+      ],
+      "answer": "295",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "756-461",
+          "expected": "295"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "section": "Calculations",
+      "prompt": "Calculate 12+23+11.",
+      "steps": [
+        "Ones column: 2 + 3 + 1 = 6. Write 6.",
+        "Tens column: 1 + 2 + 1 = 4. Write 4.",
+        "Read the digits from left to right: 46."
+      ],
+      "answer": "46",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "12+23+11",
+          "expected": "46"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "section": "Calculations",
+      "prompt": "Calculate 873-253.",
+      "steps": [
+        "Ones column: 3 - 3 = 0; write 0.",
+        "Tens column: 7 - 5 = 2; write 2.",
+        "Hundreds column: 8 - 2 = 6; write 6.",
+        "Read the result: 620. Check: 620 + 253 = 873."
+      ],
+      "answer": "620",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "873-253",
+          "expected": "620"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "section": "Calculations",
+      "prompt": "Calculate 563+231.",
+      "steps": [
+        "Ones column: 3 + 1 = 4. Write 4.",
+        "Tens column: 6 + 3 = 9. Write 9.",
+        "Hundreds column: 5 + 2 = 7. Write 7.",
+        "Read the digits from left to right: 794."
+      ],
+      "answer": "794",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "563+231",
+          "expected": "794"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "section": "Calculations",
+      "prompt": "Calculate 695-384.",
+      "steps": [
+        "Ones column: 5 - 4 = 1; write 1.",
+        "Tens column: 9 - 8 = 1; write 1.",
+        "Hundreds column: 6 - 3 = 3; write 3.",
+        "Read the result: 311. Check: 311 + 384 = 695."
+      ],
+      "answer": "311",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "695-384",
+          "expected": "311"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "section": "Calculations",
+      "prompt": "Calculate 453+156.",
+      "steps": [
+        "Ones column: 3 + 6 = 9. Write 9.",
+        "Tens column: 5 + 5 = 10. Write 0. Carry 1 to the next column.",
+        "Hundreds column: 4 + 1 + 1 = 6. Write 6.",
+        "Read the digits from left to right: 609."
+      ],
+      "answer": "609",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "453+156",
+          "expected": "609"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "section": "Addition chart",
+      "prompt": "Find the sum represented by A in the addition chart.",
+      "steps": [
+        "Read row 201 and column 202.",
+        "201 + 202 = 403."
+      ],
+      "answer": "403",
+      "source_page": 7,
+      "math_checks": [
+        {
+          "expression": "201+202",
+          "expected": "403"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "section": "Addition chart",
+      "prompt": "Find the sum represented by B in the addition chart.",
+      "steps": [
+        "Read row 203 and column 203.",
+        "203 + 203 = 406."
+      ],
+      "answer": "406",
+      "source_page": 7,
+      "math_checks": [
+        {
+          "expression": "203+203",
+          "expected": "406"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "section": "Addition chart",
+      "prompt": "Find the sum represented by C in the addition chart.",
+      "steps": [
+        "Read row 206 and column 205.",
+        "206 + 205 = 411."
+      ],
+      "answer": "411",
+      "source_page": 7,
+      "math_checks": [
+        {
+          "expression": "206+205",
+          "expected": "411"
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "section": "Addition chart",
+      "prompt": "Find the sum represented by D in the addition chart.",
+      "steps": [
+        "Read row 202 and column 206.",
+        "202 + 206 = 408."
+      ],
+      "answer": "408",
+      "source_page": 7,
+      "math_checks": [
+        {
+          "expression": "202+206",
+          "expected": "408"
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "section": "Addition chart",
+      "prompt": "Find the sum represented by E in the addition chart.",
+      "steps": [
+        "Read row 201 and column 204.",
+        "201 + 204 = 405."
+      ],
+      "answer": "405",
+      "source_page": 7,
+      "math_checks": [
+        {
+          "expression": "201+204",
+          "expected": "405"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "section": "Addition chart",
+      "prompt": "Find the sum represented by F in the addition chart.",
+      "steps": [
+        "Read row 204 and column 201.",
+        "204 + 201 = 405."
+      ],
+      "answer": "405",
+      "source_page": 7,
+      "math_checks": [
+        {
+          "expression": "204+201",
+          "expected": "405"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "section": "Addition chart",
+      "prompt": "Find the sum represented by G in the addition chart.",
+      "steps": [
+        "Read row 206 and column 201.",
+        "206 + 201 = 407."
+      ],
+      "answer": "407",
+      "source_page": 7,
+      "math_checks": [
+        {
+          "expression": "206+201",
+          "expected": "407"
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "section": "Addition chart",
+      "prompt": "Find the sum represented by H in the addition chart.",
+      "steps": [
+        "Read row 205 and column 203.",
+        "205 + 203 = 408."
+      ],
+      "answer": "408",
+      "source_page": 7,
+      "math_checks": [
+        {
+          "expression": "205+203",
+          "expected": "408"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Numbers and calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Addition chart": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Msomi Bora - Standard Two Exams | 2010 - 2023 | Monthly, Midterm, Terminal and Annual Exams - Download All Subjects - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/standard-two-exams-2010-2023-monthly-midterm-terminal-and-annual-exams-download-all-subjects/"
+    }
+  ],
+  "limitations": [
+    "Q 7 row endings rise by 4 but each row has 5 cells. Row-wise consecutive fills are supplied; a single consecutive whole-grid interpretation is impossible."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "d150ae075fa61c8b351c3e4ef1372797e55f8f5780b957bd543fd074c3b1af42"
+}

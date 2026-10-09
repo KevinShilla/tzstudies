@@ -1,0 +1,462 @@
+{
+  "exam": "Kiswahili-S5-2024-MESP-Tanzania-November-Annual-exam.pdf",
+  "output": "Kiswahili-S5-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf",
+  "sha256": "1e40415a850d4931cb1f0ceaed839a0a84cbd48434e7d74a52641d397ac4d686",
+  "subject": "Kiswahili",
+  "level": "Standard Five",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Annual exam - November",
+  "question_count": "Vipengele 35 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1(1)",
+    "1(2)",
+    "1(3)",
+    "1(4)",
+    "1(5)",
+    "2(1)",
+    "2(2)",
+    "2(3)",
+    "2(4)",
+    "2(5)",
+    "2(6)",
+    "2(7)",
+    "2(8)",
+    "2(9)",
+    "2(10)",
+    "3(1)",
+    "3(2)",
+    "3(3)",
+    "3(4)",
+    "3(5)",
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "4(4)",
+    "4(5)",
+    "5(1)",
+    "5(2)",
+    "5(3)",
+    "5(4)",
+    "5(5)",
+    "6(1)",
+    "6(2)",
+    "6(3)",
+    "6(4)",
+    "6(5)"
+  ],
+  "questions": [
+    {
+      "id": "1(1)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Maktaba ilianzishwa na nani? A watu wazima, B walimu, C mwalimu mkuu, D wanakijiji, E wanafunzi.",
+      "steps": [
+        "Habari ya mwalimu ukurasa 4 inasema Mwalimu Mkuu Akilimali.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Mwalimu mkuu.",
+      "source_page": 1
+    },
+    {
+      "id": "1(2)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Vitabu vilihifadhiwa wapi? A kabati, B begi, C rafu, D mezani, E sandukuni.",
+      "steps": [
+        "Habari inataja rafu mbili kubwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Rafu.",
+      "source_page": 1
+    },
+    {
+      "id": "1(3)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Nani walitiwa shime kutumia maktaba? A walimu, B wanafunzi, C wazee, D wanakijiji, E vijana.",
+      "steps": [
+        "Akilimali aliwatia shime wanafunzi wote.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Wanafunzi.",
+      "source_page": 1
+    },
+    {
+      "id": "1(4)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Mwalimu mkuu aliitwa nani? A mkutubi, B Kilimahewa, C mchapaji, D Akilimali, E Kichwamoto.",
+      "steps": [
+        "Kilimahewa ni shule; Akilimali ni mwalimu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Akilimali.",
+      "source_page": 1
+    },
+    {
+      "id": "1(5)",
+      "section": "Ufahamu wa kusikiliza",
+      "prompt": "Anayefanya kazi maktabani huitwaje? A mkutubi, B matababu, C mwalimu, D mhudumu, E mtaalamu.",
+      "steps": [
+        "Habari imetaja mhudumu wa maktaba kama mkutubi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Mkutubi.",
+      "source_page": 1
+    },
+    {
+      "id": "2(1)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kiambishi cha wakati katika analima? A a, B na, C li, D ma, E lim.",
+      "steps": [
+        "A- ni nafsi; na- ni wakati uliopo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Na-.",
+      "source_page": 1
+    },
+    {
+      "id": "2(2)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Maria alisema kwamba anaumwa tumbo: kauli gani? A halisi, B tata, C matata, D taarifa, E funge.",
+      "steps": [
+        "Kwamba huonyesha usemi unaosimuliwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Kauli taarifa.",
+      "source_page": 2
+    },
+    {
+      "id": "2(3)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Huyu ____ kijana mzalendo. A ndiwo, B ndiwe, C ndio, D ndiye, E ndiko.",
+      "steps": [
+        "Huyu ni nafsi ya tatu umoja, hupatana na ndiye.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Ndiye.",
+      "source_page": 2
+    },
+    {
+      "id": "2(4)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kanusha walikula: A hajakula, B hakuli, C hali, D hawakula, E hataki kula.",
+      "steps": [
+        "Hawa- huonyesha wingi uliokanushwa; wakati uliopita hubaki katika umbo hawakula.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Hawakula.",
+      "source_page": 2
+    },
+    {
+      "id": "2(5)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Bora lawama ____ A kuliko fedha, B maneno, C fedheha, D mbele amani, E vita.",
+      "steps": [
+        "Ni bora kulaumiwa kuliko kuingia aibu kubwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Kuliko fedheha.",
+      "source_page": 2
+    },
+    {
+      "id": "2(6)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Darasa lilifanya vizuri sana katika insha: nahau? A bega kwa bega, B vunja mbavu, C tia fora, D shika adabu, E pigwa butwaa.",
+      "steps": [
+        "Tia fora ni kufanikiwa kuliko wengine.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Tia fora.",
+      "source_page": 2
+    },
+    {
+      "id": "2(7)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Anaoga sana lakini hatakati: A moto, B chura, C mtoto, D kichaa, E fisi.",
+      "steps": [
+        "Kitendawili hutumia maisha ya chura majini.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Chura.",
+      "source_page": 2
+    },
+    {
+      "id": "2(8)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Tofauti kati ya fisi, chui, ng’ombe, nyani, ngiri? A ngiri, B chui, C nyani, D fisi, E ng’ombe.",
+      "steps": [
+        "Ng’ombe ni mnyama wa kufugwa, wengine ni wa porini.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Ng’ombe.",
+      "source_page": 2
+    },
+    {
+      "id": "2(9)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Chembe na chembe mkate huwa: methali sawa? A haba na haba hujaza kibaba, B kawia ufike, C hasira hasara, D penye miti wengi hapana wajenzi, C mwenda pole hajikwai.",
+      "steps": [
+        "Vyote huhimiza mkusanyiko wa vitu vidogo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Haba na haba hujaza kibaba.",
+      "source_page": 2
+    },
+    {
+      "id": "2(10)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kisawe cha mkonge? A msitu, B katani, C mboga, D matunda, E mihogo.",
+      "steps": [
+        "Katani ni jina lingine la mkonge.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Katani.",
+      "source_page": 2
+    },
+    {
+      "id": "3(1)",
+      "section": "Vinyume",
+      "prompt": "Oanisha kinyume cha Mbali.",
+      "steps": [
+        "Karibu hupingana na mbali.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "F - Karibu.",
+      "source_page": 3
+    },
+    {
+      "id": "3(2)",
+      "section": "Vinyume",
+      "prompt": "Oanisha kinyume cha Tamu.",
+      "steps": [
+        "Chungu hupingana na ladha tamu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Chungu.",
+      "source_page": 3
+    },
+    {
+      "id": "3(3)",
+      "section": "Vinyume",
+      "prompt": "Oanisha kinyume cha Mchana.",
+      "steps": [
+        "Usiku hupingana na mchana.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "G - Usiku.",
+      "source_page": 3
+    },
+    {
+      "id": "3(4)",
+      "section": "Vinyume",
+      "prompt": "Oanisha kinyume cha Zoa.",
+      "steps": [
+        "Zoa ni kukusanya; mwaga ni kutawanya.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E - Mwaga.",
+      "source_page": 3
+    },
+    {
+      "id": "3(5)",
+      "section": "Vinyume",
+      "prompt": "Oanisha kinyume cha Kunja.",
+      "steps": [
+        "Kunjua ni kuondoa mikunjo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Kunjua.",
+      "source_page": 3
+    },
+    {
+      "id": "4(1)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Dada alitoka sokoni kununua mahitaji.",
+      "steps": [
+        "Hii inaanzisha safari/kurudi kwa dada; chanzo kimechanganya alitoka sokoni na kununua.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A",
+      "source_page": 3
+    },
+    {
+      "id": "4(2)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Njoo huku haraka ilisikika sauti ya dada.",
+      "steps": [
+        "Maneno ya kumwita kaka hufuata kupiga kelele.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D",
+      "source_page": 3
+    },
+    {
+      "id": "4(3)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Alipoingia barazani alikuta kenge amelala.",
+      "steps": [
+        "Kukutana na kenge hufuata kufika nyumbani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B",
+      "source_page": 3
+    },
+    {
+      "id": "4(4)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Alipiga kelele kumwita kaka chumbani.",
+      "steps": [
+        "Kenge alisababisha kumwita kaka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C",
+      "source_page": 3
+    },
+    {
+      "id": "4(5)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Kaka alikuja mbio na jambia.",
+      "steps": [
+        "Kaka huja baada ya kuitwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E",
+      "source_page": 3
+    },
+    {
+      "id": "5(1)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Shairi lina mishororo mingapi?",
+      "steps": [
+        "Beti mbili × mishororo minne = 8.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Minane.",
+      "source_page": 3
+    },
+    {
+      "id": "5(2)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Vina vya kati vya ubeti wa pili ni vipi?",
+      "steps": [
+        "Angalia maneno kabla ya mkato: nafichama, nakama, adhama, yangu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "ma, ma, ma, ngu.",
+      "source_page": 3
+    },
+    {
+      "id": "5(3)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Malenga anaisifia nchi gani?",
+      "steps": [
+        "Mkarara unasema Tanzania nchi yangu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tanzania.",
+      "source_page": 3
+    },
+    {
+      "id": "5(4)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Rabana maana yake nini?",
+      "steps": [
+        "Rabana imetumiwa katika dua ya kumwomba Mungu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mungu/Mola wetu.",
+      "source_page": 3
+    },
+    {
+      "id": "5(5)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Shairi lina mizani ngapi?",
+      "steps": [
+        "Mfano: n-chi-ya-ngu-ya-tha-ma-ni (8), ha-ki-ka-ni-na-i-pe-nda (8). Chanzo kina kosa wasoithamni badala ya wasoithamani; hesabu ya mtungo ufuate tahajia sahihi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mpangilio uliokusudiwa ni mizani 16 kwa mshororo: 8 + 8. Kwa mishororo minane yenye mpangilio huo ni 128.",
+      "source_page": 3
+    },
+    {
+      "id": "6(1)",
+      "section": "Barua",
+      "prompt": "Jaza kutoka kisanduku: Mji wa anwani ya mwandishi.",
+      "steps": [
+        "Mwanza ni mji unaofaa kwenye anwani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mwanza.",
+      "source_page": 4
+    },
+    {
+      "id": "6(2)",
+      "section": "Barua",
+      "prompt": "Jaza kutoka kisanduku: Kipengele kabla ya anwani ya Mkuu wa Shule.",
+      "steps": [
+        "Kumbukumbu namba hutambulisha barua.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kumb. Na/S/M. 0007.",
+      "source_page": 4
+    },
+    {
+      "id": "6(3)",
+      "section": "Barua",
+      "prompt": "Jaza kutoka kisanduku: Sanduku la Shule ya Kambimbovu.",
+      "steps": [
+        "Machaguo yanatoa namba ya sanduku 80.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "S.L.P. 80.",
+      "source_page": 4
+    },
+    {
+      "id": "6(4)",
+      "section": "Barua",
+      "prompt": "Jaza kutoka kisanduku: Sehemu baada ya kiini kabla ya sahihi.",
+      "steps": [
+        "Hapa ndipo kauli ya kuhitimisha huwekwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mwisho wa barua.",
+      "source_page": 4
+    },
+    {
+      "id": "6(5)",
+      "section": "Barua",
+      "prompt": "Jaza kutoka kisanduku: Sehemu kabla ya jina Bahati Msakatonge.",
+      "steps": [
+        "Sahihi huwekwa kabla ya jina linalosomeka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Sahihi ya mwandishi.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Ufahamu wa kusikiliza": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Matumizi ya lugha": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Vinyume": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Utungaji": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ufahamu wa shairi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Barua": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "MESP STANDARD FIVE ANNUAL EXAMS NOV 2024",
+      "url": "https://darasahuru.ac.tz/mesp-standard-five-annual-exams-nov-2024/"
+    },
+    {
+      "title": "Chuo Kikuu Huria cha Tanzania: usilabi wa n-chi",
+      "url": "https://repository.out.ac.tz/3014/1/fredrick.pdf"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "Swali 4(i) limeandika alitoka sokoni kununua, kauli yenye hitilafu; mpangilio unaifuata safari/kurudi kwake.",
+    "Shairi lina tahajia wasoithamni; mpangilio wa mizani uliokusudiwa unahitaji wasoithamani."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "6b6fece151b85832ddad999f448219720b7ccbd3e7d2e1fe795cf1769fa38411"
+}

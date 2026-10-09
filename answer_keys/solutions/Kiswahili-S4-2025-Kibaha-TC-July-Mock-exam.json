@@ -1,0 +1,395 @@
+{
+  "exam": "Kiswahili-S4-2025-Kibaha-TC-July-Mock-exam.pdf",
+  "output": "Kiswahili-S4-2025-Kibaha-TC-July-Mock-exam-AnswerKey.pdf",
+  "sha256": "77316c8559b845a18dedaaccef475d9e8b50258d838a092f47cf231c66937378",
+  "subject": "Kiswahili",
+  "level": "Standard Four",
+  "year": "2025",
+  "code": "01",
+  "board": "Kibaha TC",
+  "exam_type": "Mock exam - July",
+  "question_count": "Vipengele 30 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1(1)",
+    "1(2)",
+    "1(3)",
+    "1(4)",
+    "1(5)",
+    "2(1)",
+    "2(2)",
+    "2(3)",
+    "2(4)",
+    "2(5)",
+    "2(6)",
+    "2(7)",
+    "2(8)",
+    "2(9)",
+    "2(10)",
+    "3(1)",
+    "3(2)",
+    "3(3)",
+    "3(4)",
+    "3(5)",
+    "4(1)",
+    "4(2)",
+    "4(3)",
+    "4(4)",
+    "4(5)",
+    "5(1)",
+    "5(2)",
+    "5(3)",
+    "5(4)",
+    "5(5)"
+  ],
+  "questions": [
+    {
+      "id": "1(1)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike sentensi 1.",
+      "steps": [
+        "Tumia sentensi ya karatasi ya msimamizi katika ukurasa 5.",
+        "Andika Dhahabu ina thamani kubwa. Hakiki nafasi, tahajia na nukta."
+      ],
+      "answer": "Dhahabu ina thamani kubwa.",
+      "source_page": 2
+    },
+    {
+      "id": "1(2)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike sentensi 2.",
+      "steps": [
+        "Tumia sentensi ya karatasi ya msimamizi katika ukurasa 5.",
+        "Andika Wizi ni tabia hatarishi. Hakiki nafasi, tahajia na nukta."
+      ],
+      "answer": "Wizi ni tabia hatarishi.",
+      "source_page": 2
+    },
+    {
+      "id": "1(3)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike sentensi 3.",
+      "steps": [
+        "Tumia sentensi ya karatasi ya msimamizi katika ukurasa 5.",
+        "Andika Babu amefuga ng’ombe wengi. Hakiki nafasi, tahajia na nukta."
+      ],
+      "answer": "Babu amefuga ng’ombe wengi.",
+      "source_page": 2
+    },
+    {
+      "id": "1(4)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike sentensi 4.",
+      "steps": [
+        "Tumia sentensi ya karatasi ya msimamizi katika ukurasa 5.",
+        "Andika Wanafunzi themanini wamefaulu mtihani. Hakiki nafasi, tahajia na nukta."
+      ],
+      "answer": "Wanafunzi themanini wamefaulu mtihani.",
+      "source_page": 2
+    },
+    {
+      "id": "1(5)",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike sentensi 5.",
+      "steps": [
+        "Tumia sentensi ya karatasi ya msimamizi katika ukurasa 5.",
+        "Andika Mlevi ameanguka kwenye mtaro. Hakiki nafasi, tahajia na nukta."
+      ],
+      "answer": "Mlevi ameanguka kwenye mtaro.",
+      "source_page": 2
+    },
+    {
+      "id": "2(1)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Mama hupika chakula: wakati gani? A mazoea, B mtimilifu, C ujao, D uliopita.",
+      "steps": [
+        "Hu- inaonyesha jambo la kawaida.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Mazoea.",
+      "source_page": 2
+    },
+    {
+      "id": "2(2)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Amelala fofofo: maana gani? A amepitiwa na usingizi, B bila kuamka, C usingizi mzito, D kifudifudi.",
+      "steps": [
+        "Fofofo huonyesha kina cha usingizi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Amelala usingizi mzito.",
+      "source_page": 2
+    },
+    {
+      "id": "2(3)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Tunaamka wakati wa ____ A adhuhuri, B alfajiri, C jioni, B mchana.",
+      "steps": [
+        "Alfajiri ni mwanzo wa asubuhi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Alfajiri (chaguo la pili).",
+      "source_page": 2
+    },
+    {
+      "id": "2(4)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Amina ni mtoto wa dada yake Bakari. Atamwitaje? A babu, B binamu, C mjomba, D mpwa.",
+      "steps": [
+        "Bakari ni kaka/ndugu wa kiume wa mama yake Amina.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Mjomba.",
+      "source_page": 2
+    },
+    {
+      "id": "2(5)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Wananchi ____ kufika mkutanoni. A amewahi, B ashawahi, C wamewahi, D aliwahi.",
+      "steps": [
+        "Wananchi ni wingi, hivyo wa- katika wamewahi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Wamewahi.",
+      "source_page": 2
+    },
+    {
+      "id": "2(6)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Amevaa miwani: nahau gani? A amependeza, B kipofu, C amelewa, D anaumwa macho.",
+      "steps": [
+        "Hili ni matumizi ya nahau, si kuvaa kifaa cha macho.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Amelewa.",
+      "source_page": 3
+    },
+    {
+      "id": "2(7)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Mwanzo wa ngoma ni ____ A kucheza, B lele, C kuimba, D mzuri.",
+      "steps": [
+        "Mwanzo wa jambo hutanguliwa na ishara au maandalizi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Lele.",
+      "source_page": 3
+    },
+    {
+      "id": "2(8)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Kipara cha babu chafuka moshi. A ndizi, B nguo, C ugali, D ana kipara.",
+      "steps": [
+        "Uso wa ugali wa moto hufananishwa na kipara chenye mvuke.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Ugali.",
+      "source_page": 3
+    },
+    {
+      "id": "2(9)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Jogoo wa shamba ____ A mtamu, B hawiki mjini, C hakosi kamba mguuni, D hana manyoya.",
+      "steps": [
+        "Ujuzi wa eneo moja si lazima ufae eneo jingine.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Hawiki mjini.",
+      "source_page": 3
+    },
+    {
+      "id": "2(10)",
+      "section": "Matumizi ya lugha",
+      "prompt": "Mvumilivu ____ A hachoki, B huchoka, C hula mbivu, D ataumia.",
+      "steps": [
+        "Uvumilivu huleta matokeo mazuri.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Hula mbivu.",
+      "source_page": 3
+    },
+    {
+      "id": "3(1)",
+      "section": "Alama za uandishi",
+      "prompt": "Weka alama zinazofaa: “Ingieni darasani haraka Alisema mwalimu wetu.",
+      "steps": [
+        "Funga maneno yaliyosemwa kwa alama ya kunukuu na utenganishe na taarifa ya msemaji kwa mkato.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "“Ingieni darasani haraka,” alisema mwalimu wetu.",
+      "source_page": 3
+    },
+    {
+      "id": "3(2)",
+      "section": "Alama za uandishi",
+      "prompt": "Weka alama zinazofaa: Je, Mwamvua ataondoka lini",
+      "steps": [
+        "Sentensi ni swali, malizia kwa kiulizo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Je, Mwamvua ataondoka lini?",
+      "source_page": 3
+    },
+    {
+      "id": "3(3)",
+      "section": "Alama za uandishi",
+      "prompt": "Weka alama zinazofaa: Kanunue machungwa mawili limao moja na mapapai matatu.",
+      "steps": [
+        "Mkato hutenganisha vitu katika orodha.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kanunue machungwa mawili, limao moja na mapapai matatu.",
+      "source_page": 3
+    },
+    {
+      "id": "3(4)",
+      "section": "Alama za uandishi",
+      "prompt": "Weka alama zinazofaa: Walimu oyeeeeee",
+      "steps": [
+        "Shangwe hutumia mshangao !.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Walimu oyeeeeee!",
+      "source_page": 3
+    },
+    {
+      "id": "3(5)",
+      "section": "Alama za uandishi",
+      "prompt": "Weka alama zinazofaa: Mbuzi na ng’ombe ni wanyama wanaofugwa na binadamu",
+      "steps": [
+        "Taarifa humalizwa kwa nukta.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mbuzi na ng’ombe ni wanyama wanaofugwa na binadamu.",
+      "source_page": 3
+    },
+    {
+      "id": "4(1)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Aliipua na kuchuja chai ikawa tayari.",
+      "steps": [
+        "Kuipua na kuchuja ni hatua ya mwisho.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E",
+      "source_page": 4
+    },
+    {
+      "id": "4(2)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Akamimina maji kwenye sufuria.",
+      "steps": [
+        "Maji yawekwe kabla ya kubandika sufuria.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B",
+      "source_page": 4
+    },
+    {
+      "id": "4(3)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Alianza kwa kukoka moto.",
+      "steps": [
+        "Moto ndio hatua ya mwanzo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A",
+      "source_page": 4
+    },
+    {
+      "id": "4(4)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Maji yalipochemka aliweka majani ya chai na sukari.",
+      "steps": [
+        "Hii hufuata kuchemsha maji.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D",
+      "source_page": 4
+    },
+    {
+      "id": "4(5)",
+      "section": "Utungaji",
+      "prompt": "Panga kwa A-E: Kisha akabandika sufuria jikoni.",
+      "steps": [
+        "Sufuria yenye maji iwekwe motoni.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C",
+      "source_page": 4
+    },
+    {
+      "id": "5(1)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Shairi lina beti ngapi?",
+      "steps": [
+        "Kuna makundi matatu ya mistari minne.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Tatu.",
+      "source_page": 4
+    },
+    {
+      "id": "5(2)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Mshairi anatarajia nini matokeo yakitoka?",
+      "steps": [
+        "Ubeti wa tatu unataja matarajio hayo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Hamasa ya kusoma kwa bidii zaidi, kujiimarisha na kupata nguvu.",
+      "source_page": 4
+    },
+    {
+      "id": "5(3)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Huu ni mtihani wa ngapi?",
+      "steps": [
+        "Kauli Mtihani wa kwanza huu inajirudia.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Wa kwanza.",
+      "source_page": 4
+    },
+    {
+      "id": "5(4)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Kisawe cha Mola katika ubeti wa kwanza.",
+      "steps": [
+        "Mola ni jina la Mungu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mungu.",
+      "source_page": 4
+    },
+    {
+      "id": "5(5)",
+      "section": "Ufahamu wa shairi",
+      "prompt": "Pendekeza kichwa cha shairi.",
+      "steps": [
+        "Kichwa kinahusiana na maandalizi na matarajio ya mtihani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Mtihani wa Kwanza Katika Mtaala Mpya.",
+      "source_page": 4,
+      "tip": "Kichwa kingine kifupi kinachohusiana na maudhui kinakubalika."
+    }
+  ],
+  "summaries": {
+    "Imla": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Matumizi ya lugha": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Alama za uandishi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Utungaji": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ufahamu wa shairi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "Kibaha TC Standard Four Mock Examination July 2025 - Misugusugu-Kongowe A-Mbwawa And Kibaha Wards",
+      "url": "https://darasahuru.ac.tz/kibaha-tc-standard-four-mock-examination-july-2025/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "c125e15040e4c5f22bffe419127aece214587290662638531b6857ee684b6ca1"
+}

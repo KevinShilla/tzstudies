@@ -1,0 +1,348 @@
+{
+  "exam": "Kiswahili-S1-2024-MESP-Tanzania-March-Midterm-exam.pdf",
+  "output": "Kiswahili-S1-2024-MESP-Tanzania-March-Midterm-exam-AnswerKey.pdf",
+  "sha256": "87d7fef495bfcb9c71bcd00dd85a669f742299c1c307f7ccb9d05ec4c035c94d",
+  "subject": "Kiswahili",
+  "level": "Standard One",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Midterm exam - March · Kuandika",
+  "question_count": "Vipengele 25 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "2",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 2.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "3",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 3.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "4",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 4.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "5",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 5.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "6",
+      "section": "Umoja na wingi",
+      "prompt": "Andika wingi wa kisu.",
+      "steps": [
+        "Kisu hubadili ki- kuwa vi- katika wingi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Visu.",
+      "source_page": 2
+    },
+    {
+      "id": "7",
+      "section": "Umoja na wingi",
+      "prompt": "Andika umoja wa maembe.",
+      "steps": [
+        "Tunda moja ni embe; mengi ni maembe.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Embe.",
+      "source_page": 2
+    },
+    {
+      "id": "8",
+      "section": "Umoja na wingi",
+      "prompt": "Andika wingi wa kinu.",
+      "steps": [
+        "Kinu hubadili ki- kuwa vi- katika wingi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Vinu.",
+      "source_page": 2
+    },
+    {
+      "id": "9",
+      "section": "Umoja na wingi",
+      "prompt": "Andika umoja wa masweta.",
+      "steps": [
+        "Ondoa kiambishi cha wingi ma-.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Sweta.",
+      "source_page": 2
+    },
+    {
+      "id": "10",
+      "section": "Umoja na wingi",
+      "prompt": "Andika wingi wa ndege.",
+      "steps": [
+        "Neno ndege lina umbo lilelile katika umoja na wingi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Ndege.",
+      "source_page": 2
+    },
+    {
+      "id": "11",
+      "section": "Mwandiko",
+      "prompt": "Andika kwa mwandiko wa kuunga: Matunda",
+      "steps": [
+        "Nakili herufi zote za Matunda kwa mpangilio wake.",
+        "Unganisha herufi kwa mwandiko wa kuunga unaosomeka, bila kubadili tahajia."
+      ],
+      "answer": "Matunda",
+      "source_page": 2,
+      "tip": "PDF hii hutoa tahajia; mwalimu akague namna herufi zilivyounganishwa kwenye daftari."
+    },
+    {
+      "id": "12",
+      "section": "Mwandiko",
+      "prompt": "Andika kwa mwandiko wa kuunga: Chaki",
+      "steps": [
+        "Nakili herufi zote za Chaki kwa mpangilio wake.",
+        "Unganisha herufi kwa mwandiko wa kuunga unaosomeka, bila kubadili tahajia."
+      ],
+      "answer": "Chaki",
+      "source_page": 2,
+      "tip": "PDF hii hutoa tahajia; mwalimu akague namna herufi zilivyounganishwa kwenye daftari."
+    },
+    {
+      "id": "13",
+      "section": "Mwandiko",
+      "prompt": "Andika kwa mwandiko wa kuunga: Mwanajeshi",
+      "steps": [
+        "Nakili herufi zote za Mwanajeshi kwa mpangilio wake.",
+        "Unganisha herufi kwa mwandiko wa kuunga unaosomeka, bila kubadili tahajia."
+      ],
+      "answer": "Mwanajeshi",
+      "source_page": 2,
+      "tip": "PDF hii hutoa tahajia; mwalimu akague namna herufi zilivyounganishwa kwenye daftari."
+    },
+    {
+      "id": "14",
+      "section": "Mwandiko",
+      "prompt": "Andika kwa mwandiko wa kuunga: Morogoro",
+      "steps": [
+        "Nakili herufi zote za Morogoro kwa mpangilio wake.",
+        "Unganisha herufi kwa mwandiko wa kuunga unaosomeka, bila kubadili tahajia."
+      ],
+      "answer": "Morogoro",
+      "source_page": 2,
+      "tip": "PDF hii hutoa tahajia; mwalimu akague namna herufi zilivyounganishwa kwenye daftari."
+    },
+    {
+      "id": "15",
+      "section": "Mwandiko",
+      "prompt": "Andika kwa mwandiko wa kuunga: Mafiga",
+      "steps": [
+        "Nakili herufi zote za Mafiga kwa mpangilio wake.",
+        "Unganisha herufi kwa mwandiko wa kuunga unaosomeka, bila kubadili tahajia."
+      ],
+      "answer": "Mafiga",
+      "source_page": 2,
+      "tip": "PDF hii hutoa tahajia; mwalimu akague namna herufi zilivyounganishwa kwenye daftari."
+    },
+    {
+      "id": "16",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi kuunda neno: koafi",
+      "steps": [
+        "Panga herufi k-o-f-i-a.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kofia.",
+      "source_page": 3
+    },
+    {
+      "id": "17",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi kuunda neno: ukuku",
+      "steps": [
+        "Herufi u-k-u-k-u zinaweza kupangwa k-u-k-u-u, yaani kitu kilichochakaa. Ikiwa mwalimu alikusudia kuku, chanzo kina u ya ziada.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kukuu.",
+      "source_page": 3
+    },
+    {
+      "id": "18",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi kuunda neno: kashu",
+      "steps": [
+        "Panga herufi sh-u-k-a; sh ni mchanganyiko wa herufi mbili unaotoa sauti moja.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Shuka.",
+      "source_page": 3
+    },
+    {
+      "id": "19",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi kuunda neno: miku",
+      "steps": [
+        "Panga herufi k-u-m-i.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kumi.",
+      "source_page": 3
+    },
+    {
+      "id": "20",
+      "section": "Kupanga herufi",
+      "prompt": "Panga herufi kuunda neno: noji",
+      "steps": [
+        "Panga herufi j-i-n-o.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Jino.",
+      "source_page": 3
+    },
+    {
+      "id": "21",
+      "section": "Ndege",
+      "prompt": "Taja aina ya ndege.",
+      "steps": [
+        "Kuku ana mabawa, manyoya na hutaga mayai.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Kuku.",
+      "source_page": 3,
+      "tip": "Aina nyingine sahihi ya ndege inakubalika."
+    },
+    {
+      "id": "22",
+      "section": "Ndege",
+      "prompt": "Taja aina ya ndege.",
+      "steps": [
+        "Bata ana mabawa, manyoya na hutaga mayai.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Bata.",
+      "source_page": 3,
+      "tip": "Aina nyingine sahihi ya ndege inakubalika."
+    },
+    {
+      "id": "23",
+      "section": "Wanyama",
+      "prompt": "Taja mnyama wa nyumbani.",
+      "steps": [
+        "Ng’ombe anaweza kufugwa nyumbani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Ng’ombe.",
+      "source_page": 3,
+      "tip": "Usirudie jina moja katika nafasi tatu."
+    },
+    {
+      "id": "24",
+      "section": "Wanyama",
+      "prompt": "Taja mnyama wa nyumbani.",
+      "steps": [
+        "Mbuzi anaweza kufugwa nyumbani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Mbuzi.",
+      "source_page": 3,
+      "tip": "Usirudie jina moja katika nafasi tatu."
+    },
+    {
+      "id": "25",
+      "section": "Wanyama",
+      "prompt": "Taja mnyama wa nyumbani.",
+      "steps": [
+        "Paka anaweza kufugwa nyumbani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Paka.",
+      "source_page": 3,
+      "tip": "Usirudie jina moja katika nafasi tatu."
+    }
+  ],
+  "summaries": {
+    "Imla": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Umoja na wingi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Mwandiko": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kupanga herufi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ndege": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Wanyama": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "MESP Tanzania Standard One Midterm Examinations March 2024",
+      "url": "https://darasahuru.ac.tz/mesp-tanzania-standard-one-midterm-examinations-march-2024/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "Imla 1-5: maandishi ya mwalimu hayajachapishwa.",
+    "Swali 17 limechapisha ukuku. Kukuu hutumia herufi zote; kuku lingehitaji kuondoa u moja."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "5db5eb1babbdf7c39e1afcef2a5f2537e21edca1541b154250326e77815fbde0"
+}

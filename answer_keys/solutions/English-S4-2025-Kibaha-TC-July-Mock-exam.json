@@ -1,0 +1,486 @@
+{
+  "exam": "English-S4-2025-Kibaha-TC-July-Mock-exam.pdf",
+  "output": "English-S4-2025-Kibaha-TC-July-Mock-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Four",
+  "year": "2025",
+  "code": "L02",
+  "board": "Kibaha TC",
+  "exam_type": "Mock exam - July",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "2bba8ca00db7bfe37ab22295101e2cc0a7c44d49406f6ea4e569350578a12c1a",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence i.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "1(ii)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence ii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "1(iii)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence iii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "1(iv)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence iv.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "1(v)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence v.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "2(i)",
+      "section": "Language use",
+      "prompt": "Chicken is ___ than beef. (A most expensive, B more expensive, C expensive, D the most expensive)",
+      "steps": [
+        "Than calls for the comparative more expensive.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. More expensive.",
+      "source_page": 2
+    },
+    {
+      "id": "2(ii)",
+      "section": "Language use",
+      "prompt": "Is there ___ water in the tank? (A much, B any, C less, D a lot)",
+      "steps": [
+        "Any asks whether water is present; much asks about quantity and less compares quantities.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Any is intended; A. much and C. less are possible with different meanings.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Language use",
+      "prompt": "I ___ Madandari for a very long time. (A have known, B know, C knew, D has known)",
+      "steps": [
+        "For a continuing period use the present perfect have known.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Have known.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Language use",
+      "prompt": "This is Mussa's car. It is ___. (A his, B hers, C ours, D theirs)",
+      "steps": [
+        "His is the possessive pronoun for the stated male owner.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. His.",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Language use",
+      "prompt": "My sister bought a ___ of bananas. (A tray, B group, C bunch, D troop)",
+      "steps": [
+        "A connected cluster of bananas is a bunch.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Bunch.",
+      "source_page": 2
+    },
+    {
+      "id": "3-MC(i)",
+      "section": "Grammar and vocabulary",
+      "prompt": "What opens or locks a house door? (A torch, B spoon, C key, D hammer)",
+      "steps": [
+        "A key operates a lock.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Key.",
+      "source_page": 3
+    },
+    {
+      "id": "3-MC(ii)",
+      "section": "Grammar and vocabulary",
+      "prompt": "Amina rides her ___ to school daily. (A bicycle, B wheelbarrow, C van, D car)",
+      "steps": [
+        "Ride a bicycle is the intended means of travel.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Bicycle.",
+      "source_page": 3
+    },
+    {
+      "id": "3-MC(iii)",
+      "section": "Grammar and vocabulary",
+      "prompt": "We cook food in the ___. (A meat, B kitchen, C bathroom, D bedroom)",
+      "steps": [
+        "A kitchen is used for cooking.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Kitchen.",
+      "source_page": 3
+    },
+    {
+      "id": "3-MC(iv)",
+      "section": "Grammar and vocabulary",
+      "prompt": "Which differs from table, chair, desk, chalk? (A table, B desk, C chalk, D furniture)",
+      "steps": [
+        "The others are furniture; chalk is a writing material.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Chalk.",
+      "source_page": 3
+    },
+    {
+      "id": "3-MC(v)",
+      "section": "Grammar and vocabulary",
+      "prompt": "Who sells goods in a shop? (A buyer, B sell, C shopkeeper, D fisherman)",
+      "steps": [
+        "Shopkeeper names the person running a shop.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Shopkeeper.",
+      "source_page": 3
+    },
+    {
+      "id": "3-MC(vi)",
+      "section": "Grammar and vocabulary",
+      "prompt": "The teacher is ___ us English now. (A teaching, B taught, C teaches, D teach)",
+      "steps": [
+        "Is teaching is present continuous.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Teaching.",
+      "source_page": 3
+    },
+    {
+      "id": "3-MC(vii)",
+      "section": "Grammar and vocabulary",
+      "prompt": "John ___ a pen and pencil in his bag. (A was, B has, C have, D is)",
+      "steps": [
+        "John takes has for possession.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Has.",
+      "source_page": 3
+    },
+    {
+      "id": "3-MC(viii)",
+      "section": "Grammar and vocabulary",
+      "prompt": "We have ___ teachers. (A any, B a lot, C much, D many)",
+      "steps": [
+        "Many goes with the plural count noun teachers.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Many.",
+      "source_page": 3
+    },
+    {
+      "id": "3-MC(ix)",
+      "section": "Grammar and vocabulary",
+      "prompt": "The roof is ___ the classroom. (A under, B near, C over, D in)",
+      "steps": [
+        "A roof covers the room from above.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Over.",
+      "source_page": 3
+    },
+    {
+      "id": "3-MC(x)",
+      "section": "Grammar and vocabulary",
+      "prompt": "We ___ to Mikumi last holiday. (A go, B went, C going, D goes)",
+      "steps": [
+        "Last holiday calls for the past tense went.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Went.",
+      "source_page": 3
+    },
+    {
+      "id": "3-Fill(i)",
+      "section": "Composition and comprehension",
+      "prompt": "His ___ looked at the ___ (sun, son).",
+      "steps": [
+        "A son is a person who looks; the sun is the object seen.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "His son looked at the sun.",
+      "source_page": 4
+    },
+    {
+      "id": "3-Fill(ii)",
+      "section": "Composition and comprehension",
+      "prompt": "Throw ___ away. (eat, it)",
+      "steps": [
+        "It is an object pronoun after throw.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "It.",
+      "source_page": 4
+    },
+    {
+      "id": "3-Fill(iii)",
+      "section": "Composition and comprehension",
+      "prompt": "Give us ___ sugar. (sum, some)",
+      "steps": [
+        "Some expresses an unspecified quantity of sugar.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Some.",
+      "source_page": 4
+    },
+    {
+      "id": "3-Fill(iv)",
+      "section": "Composition and comprehension",
+      "prompt": "His grandfather ___ people. (heels, heals)",
+      "steps": [
+        "Heal means make well.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Heals.",
+      "source_page": 4
+    },
+    {
+      "id": "3-Fill(v)",
+      "section": "Composition and comprehension",
+      "prompt": "He is too ___ to walk. (week, weak)",
+      "steps": [
+        "Weak means lacking strength.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Weak.",
+      "source_page": 4
+    },
+    {
+      "id": "4(i)",
+      "section": "Composition and comprehension",
+      "prompt": "Pupils used ___ to sweep the classroom. Arrange mboors.",
+      "steps": [
+        "All letters form brooms, tools used for sweeping.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Brooms.",
+      "source_page": 4
+    },
+    {
+      "id": "4(ii)",
+      "section": "Composition and comprehension",
+      "prompt": "Many ___ are made of steel. Arrange sitenlsu.",
+      "steps": [
+        "The letters form utensils.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Utensils.",
+      "source_page": 4
+    },
+    {
+      "id": "4(iii)",
+      "section": "Composition and comprehension",
+      "prompt": "I brush my teeth with a ___. Arrange rohbtoush.",
+      "steps": [
+        "Toothbrush requires an additional t and o; it cannot be formed from rohbtoush exactly.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Toothbrush is intended, but the printed letters are defective.",
+      "source_page": 4
+    },
+    {
+      "id": "5(i)",
+      "section": "Composition and comprehension",
+      "prompt": "Naomi ___ a chart on the wall. (notice)",
+      "steps": [
+        "The story is in the past; add d to notice.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Noticed.",
+      "source_page": 4
+    },
+    {
+      "id": "5(ii)",
+      "section": "Composition and comprehension",
+      "prompt": "As she ___ into her classroom. (walk)",
+      "steps": [
+        "Walked gives the completed past action; was walking describes the ongoing action when she noticed the chart.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Walked; was walking is also possible.",
+      "source_page": 4
+    },
+    {
+      "id": "5(iii)",
+      "section": "Composition and comprehension",
+      "prompt": "Each box was ___ with colours. (fill)",
+      "steps": [
+        "Use the past participle after was in the passive.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Filled.",
+      "source_page": 4
+    },
+    {
+      "id": "5(iv)",
+      "section": "Composition and comprehension",
+      "prompt": "Mathematics was ___ by Kiswahili. (follow)",
+      "steps": [
+        "Followed by means occurring next in sequence.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Followed.",
+      "source_page": 4
+    },
+    {
+      "id": "6(i)",
+      "section": "Composition and comprehension",
+      "prompt": "Where did David and his mother wait for a bus?",
+      "steps": [
+        "The passage states their waiting place.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "At the bus stand.",
+      "source_page": 4
+    },
+    {
+      "id": "6(ii)",
+      "section": "Composition and comprehension",
+      "prompt": "What did the nurse use to take David's temperature?",
+      "steps": [
+        "The passage names the instrument.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A thermometer.",
+      "source_page": 4
+    },
+    {
+      "id": "6(iii)",
+      "section": "Composition and comprehension",
+      "prompt": "What did the doctor use to find injured parts?",
+      "steps": [
+        "The passage says the doctor used X-ray imaging.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "An X-ray.",
+      "source_page": 4
+    },
+    {
+      "id": "6(iv)",
+      "section": "Composition and comprehension",
+      "prompt": "What is the hospital place where patients are kept for rest?",
+      "steps": [
+        "David was sent to ward number one.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A ward.",
+      "source_page": 4
+    },
+    {
+      "id": "6(v)",
+      "section": "Composition and comprehension",
+      "prompt": "When patients feel better, they are ___ from hospital.",
+      "steps": [
+        "The passage says David was discharged after recovering.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Discharged.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Source-limited items": "The required script, picture or other information is missing. Use the stated limitation and obtain the original material before expecting a unique answer.",
+    "Language use": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Grammar and vocabulary": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Composition and comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "Kibaha TC Standard Four Mock Examination July 2025 - Misugusugu-Kongowe A-Mbwawa And Kibaha Wards",
+      "url": "https://darasahuru.ac.tz/kibaha-tc-standard-four-mock-examination-july-2025/"
+    }
+  ],
+  "limitations": [
+    "1(i): The teacher dictation words or audio are not included in this source.",
+    "1(ii): The teacher dictation words or audio are not included in this source.",
+    "1(iii): The teacher dictation words or audio are not included in this source.",
+    "1(iv): The teacher dictation words or audio are not included in this source.",
+    "1(v): The teacher dictation words or audio are not included in this source.",
+    "3: Two different printed questions share the number 3; MC and Fill identify them uniquely.",
+    "4(iii): Printed jumble rohbtoush lacks letters needed for toothbrush.",
+    "2(ii): Several quantifiers are grammatical with different meanings; the intended neutral question uses any."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3-MC(i)",
+    "3-MC(ii)",
+    "3-MC(iii)",
+    "3-MC(iv)",
+    "3-MC(v)",
+    "3-MC(vi)",
+    "3-MC(vii)",
+    "3-MC(viii)",
+    "3-MC(ix)",
+    "3-MC(x)",
+    "3-Fill(i)",
+    "3-Fill(ii)",
+    "3-Fill(iii)",
+    "3-Fill(iv)",
+    "3-Fill(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)"
+  ],
+  "question_count": "37 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "3b4b7537b0fbcf940f93bd9e42e17f25da5ec93ee08faca4ea1c859f488bba67"
+}

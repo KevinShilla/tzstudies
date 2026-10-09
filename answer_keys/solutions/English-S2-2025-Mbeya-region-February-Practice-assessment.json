@@ -1,0 +1,237 @@
+{
+  "exam": "English-S2-2025-Mbeya-region-February-Practice-assessment.pdf",
+  "output": "English-S2-2025-Mbeya-region-February-Practice-assessment-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Two",
+  "year": "2025",
+  "code": "Not printed in source",
+  "board": "Mbeya region",
+  "exam_type": "Practice assessment - February",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "1b8d100a932e8e5870fa65ebf42487c67033fc47c2f8755314322098698bfc26",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Oral communication",
+      "prompt": "Respond to Good morning.",
+      "steps": [
+        "Return the same appropriate time-of-day greeting.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Good morning.",
+      "source_page": 1
+    },
+    {
+      "id": "1(ii)",
+      "section": "Oral communication",
+      "prompt": "Respond to How are you?",
+      "steps": [
+        "Answer politely about how you feel; other natural truthful responses are acceptable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Model: I am fine, thank you. How are you?",
+      "source_page": 1
+    },
+    {
+      "id": "2(i)",
+      "section": "Personal introduction",
+      "prompt": "What is your name?",
+      "steps": [
+        "Decide which information the question asks for.",
+        "Answer in a complete sentence using your own details. Different truthful responses are acceptable."
+      ],
+      "answer": "Model only: My name is Amina. Replace the example with your own truthful information.",
+      "source_page": 1
+    },
+    {
+      "id": "2(ii)",
+      "section": "Personal introduction",
+      "prompt": "Are you a boy or a girl?",
+      "steps": [
+        "Decide which information the question asks for.",
+        "Answer in a complete sentence using your own details. Different truthful responses are acceptable."
+      ],
+      "answer": "Model only: I am a girl. Replace the example with your own truthful information.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iii)",
+      "section": "Personal introduction",
+      "prompt": "How old are you?",
+      "steps": [
+        "Decide which information the question asks for.",
+        "Answer in a complete sentence using your own details. Different truthful responses are acceptable."
+      ],
+      "answer": "Model only: I am seven years old. Replace the example with your own truthful information.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iv)",
+      "section": "Personal introduction",
+      "prompt": "Where do you live?",
+      "steps": [
+        "Decide which information the question asks for.",
+        "Answer in a complete sentence using your own details. Different truthful responses are acceptable."
+      ],
+      "answer": "Model only: I live at Dodoma. Replace the example with your own truthful information.",
+      "source_page": 1
+    },
+    {
+      "id": "2(v)",
+      "section": "Personal introduction",
+      "prompt": "What is your favourite game?",
+      "steps": [
+        "Decide which information the question asks for.",
+        "Answer in a complete sentence using your own details. Different truthful responses are acceptable."
+      ],
+      "answer": "Model only: I like football. Replace the example with your own truthful information.",
+      "source_page": 1
+    },
+    {
+      "id": "3(i)",
+      "section": "Personal introduction",
+      "prompt": "How many people are in your family?",
+      "steps": [
+        "Decide which information the question asks for.",
+        "Answer in a complete sentence using your own details. Different truthful responses are acceptable."
+      ],
+      "answer": "Model only: There are four people in my family. Replace the example with your own truthful information.",
+      "source_page": 1
+    },
+    {
+      "id": "3(ii)",
+      "section": "Personal introduction",
+      "prompt": "When is your birthday?",
+      "steps": [
+        "Decide which information the question asks for.",
+        "Answer in a complete sentence using your own details. Different truthful responses are acceptable."
+      ],
+      "answer": "Model only: My birthday is on 13 January. Replace the example with your own truthful information.",
+      "source_page": 1
+    },
+    {
+      "id": "3(iii)",
+      "section": "Personal introduction",
+      "prompt": "What is your hobby?",
+      "steps": [
+        "Decide which information the question asks for.",
+        "Answer in a complete sentence using your own details. Different truthful responses are acceptable."
+      ],
+      "answer": "Model only: My hobby is reading. Replace the example with your own truthful information.",
+      "source_page": 1
+    },
+    {
+      "id": "3(iv)",
+      "section": "Personal introduction",
+      "prompt": "What is your favourite colour?",
+      "steps": [
+        "Decide which information the question asks for.",
+        "Answer in a complete sentence using your own details. Different truthful responses are acceptable."
+      ],
+      "answer": "Model only: My favourite colour is green. Replace the example with your own truthful information.",
+      "source_page": 1
+    },
+    {
+      "id": "3(v)",
+      "section": "Personal introduction",
+      "prompt": "Do you love your family?",
+      "steps": [
+        "Decide which information the question asks for.",
+        "Answer in a complete sentence using your own details. Different truthful responses are acceptable."
+      ],
+      "answer": "Model only: Yes, I love my family. Replace the example with your own truthful information.",
+      "source_page": 1
+    },
+    {
+      "id": "4(i)",
+      "section": "Picture sentences",
+      "prompt": "Write a short sentence describing picture 1. The source illustration shows a child using water at a basin on his face.",
+      "steps": [
+        "Name the person and identify the visible action; use is/are plus the -ing verb. Other sentences accurately describing the same picture are acceptable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Model sentence: The boy is washing his face.",
+      "source_page": 1
+    },
+    {
+      "id": "4(ii)",
+      "section": "Picture sentences",
+      "prompt": "Write a short sentence describing picture 2. The source illustration shows a schoolgirl with her hand on a door handle.",
+      "steps": [
+        "Name the person and identify the visible action; use is/are plus the -ing verb. Other sentences accurately describing the same picture are acceptable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Model sentence: The girl is opening the door.",
+      "source_page": 1
+    },
+    {
+      "id": "4(iii)",
+      "section": "Picture sentences",
+      "prompt": "Write a short sentence describing picture 3. The source illustration shows a seated person holding an open book.",
+      "steps": [
+        "Name the person and identify the visible action; use is/are plus the -ing verb. Other sentences accurately describing the same picture are acceptable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Model sentence: The woman is reading a book.",
+      "source_page": 1
+    },
+    {
+      "id": "4(iv)",
+      "section": "Picture sentences",
+      "prompt": "Write a short sentence describing picture 4. The source illustration shows a boy holding a toothbrush at his mouth.",
+      "steps": [
+        "Name the person and identify the visible action; use is/are plus the -ing verb. Other sentences accurately describing the same picture are acceptable.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Model sentence: The boy is brushing his teeth.",
+      "source_page": 1
+    },
+    {
+      "id": "5",
+      "section": "Oral reading",
+      "prompt": "Read aloud the following passage: This is a big house, in the village, there are beautiful garden with different flowers. I like this house.",
+      "steps": [
+        "Look at each printed word or letter carefully and say it in its printed order.",
+        "Blend sounds into words; for sentences, pause at punctuation. A teacher should assess pronunciation and fluency, rather than a different written answer."
+      ],
+      "answer": "Oral response: This is a big house, in the village, there are beautiful garden with different flowers. I like this house.",
+      "source_page": 1
+    }
+  ],
+  "summaries": {
+    "Oral communication": "Read aloud in the printed order. Pronounce words clearly and pause at punctuation. Teachers assess accuracy and fluency; the printed text is the oral response.",
+    "Personal introduction": "Use your own truthful details in complete sentences. The printed examples show a suitable response and do not prescribe a pupil identity.",
+    "Picture sentences": "Observe the pictured object or action. Name its identifying features and use correct spelling; action sentences use is or are with an ing verb.",
+    "Oral reading": "Read aloud in the printed order. Pronounce words clearly and pause at punctuation. Teachers assess accuracy and fluency; the printed text is the oral response. Natural corrected practice wording: beautiful gardens."
+  },
+  "references": [
+    {
+      "title": "Mbeya Standard Two Regional Assessment Exams February, 2025",
+      "url": "https://darasahuru.ac.tz/mbeya-standard-two-regional-assessment-exams-february-2025/"
+    }
+  ],
+  "limitations": [],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "5"
+  ],
+  "question_count": "17 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "04072206743b56445a9d5b8fbf0d94aacfabca6d87f7edbcda8df872582a25ea"
+}

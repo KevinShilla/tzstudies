@@ -1,0 +1,424 @@
+{
+  "exam": "English-S4-2025-Dar-es-Salaam-city-July-Mock-exam.pdf",
+  "output": "English-S4-2025-Dar-es-Salaam-city-July-Mock-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Four",
+  "year": "2025",
+  "code": "02",
+  "board": "Dar es Salaam city",
+  "exam_type": "Mock exam - July",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "0f5f97d1e4cd40ccf183e2a59d238e44e0bb00df940d9bbb93da69a224939cde",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence i.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "1(ii)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence ii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "1(iii)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence iii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "1(iv)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence iv.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "1(v)",
+      "section": "Source-limited items",
+      "prompt": "Listen and write dictation sentence v.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 2
+    },
+    {
+      "id": "2(i)",
+      "section": "Grammar",
+      "prompt": "He normally ___ the plants daily. (a water, b waters, c watering, d watered)",
+      "steps": [
+        "He takes waters for a daily present habit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "b. Waters.",
+      "source_page": 2
+    },
+    {
+      "id": "2(ii)",
+      "section": "Grammar",
+      "prompt": "These women are ___ the family dishes now. (a washes, b washing, c wash, d washed)",
+      "steps": [
+        "Are plus an ing verb forms present continuous.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "b. Washing.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Grammar",
+      "prompt": "This dog cannot go far; it ___ a chain on its neck. (a have, b has, c is having, d had)",
+      "steps": [
+        "It takes has to express possession now.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "b. Has.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Grammar",
+      "prompt": "Tom and I visited Mikumi last year. ___ saw many animals. (a He, b She, c They, d We)",
+      "steps": [
+        "Tom and the speaker are we.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "d. We.",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Grammar",
+      "prompt": "Choose a short answer to Was she cooking Makande? (a No she was not, b Yes she was not, c No, d Yes)",
+      "steps": [
+        "Repeat was and the subject in the standard grammar exercise form.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "a. No, she was not (expected auxiliary answer). Yes or No alone are also valid brief replies.",
+      "source_page": 2
+    },
+    {
+      "id": "2(vi)",
+      "section": "Grammar",
+      "prompt": "Didn't your sister ___ you a story yesterday? (a tell, b tells, c teller, d told)",
+      "steps": [
+        "After did not use the base verb tell.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "a. Tell.",
+      "source_page": 2
+    },
+    {
+      "id": "2(vii)",
+      "section": "Vocabulary",
+      "prompt": "She bought bread and cakes from our neighbour's ___. (a barbershop, b greengrocer, c grocery, d bakery)",
+      "steps": [
+        "A bakery produces and sells bread and cakes.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "d. Bakery.",
+      "source_page": 3
+    },
+    {
+      "id": "2(viii)",
+      "section": "Vocabulary",
+      "prompt": "The young ones of a goose are ___. (a goslings, b geese, c gooslings, d gosling)",
+      "steps": [
+        "The plural of the young-bird name gosling is goslings.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "a. Goslings.",
+      "source_page": 3
+    },
+    {
+      "id": "2(ix)",
+      "section": "Vocabulary",
+      "prompt": "She sells fruits and vegetables. She is a ___. (a grocery, b florist, c fruiterer, d greengrocer)",
+      "steps": [
+        "A greengrocer sells both fruit and vegetables.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "d. Greengrocer.",
+      "source_page": 3
+    },
+    {
+      "id": "2(x)",
+      "section": "Vocabulary",
+      "prompt": "Mr. and Mrs. Ezekiel own ten dairy cows. The cows belong to ___. (a them, b her, c his, d him)",
+      "steps": [
+        "Two owners take the object pronoun them after to.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "a. Them.",
+      "source_page": 3
+    },
+    {
+      "id": "3(i)",
+      "section": "Vocabulary",
+      "prompt": "A ___ receives treatment at hospital. (patient, surgeon)",
+      "steps": [
+        "Patient names the person receiving medical care.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Patient.",
+      "source_page": 3
+    },
+    {
+      "id": "3(ii)",
+      "section": "Vocabulary",
+      "prompt": "Aisha sells medicines. She is ___. (a pharmacist, a chemistry)",
+      "steps": [
+        "Pharmacist is a person; chemistry is a subject.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A pharmacist.",
+      "source_page": 3
+    },
+    {
+      "id": "3(iii)",
+      "section": "Vocabulary",
+      "prompt": "Who diagnoses and treats patients? (nurse, doctor)",
+      "steps": [
+        "The question describes the conventional role of a doctor; nurses also provide treatment within their training.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Doctor (intended general occupation).",
+      "source_page": 3
+    },
+    {
+      "id": "3(iv)",
+      "section": "Vocabulary",
+      "prompt": "My keys were not ___ in the cupboard. (their, there)",
+      "steps": [
+        "There names a location; their shows possession.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "There.",
+      "source_page": 3
+    },
+    {
+      "id": "3(v)",
+      "section": "Vocabulary",
+      "prompt": "I do not ___ well today. (feel, fell)",
+      "steps": [
+        "After do not use the base verb feel.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Feel.",
+      "source_page": 3
+    },
+    {
+      "id": "4(i)",
+      "section": "Vocabulary",
+      "prompt": "Our ___ barks at night. Arrange dgo.",
+      "steps": [
+        "Rearrange d-g-o to dog.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Dog.",
+      "source_page": 3
+    },
+    {
+      "id": "4(ii)",
+      "section": "Vocabulary",
+      "prompt": "We are in the library reading ___. Arrange bkoos.",
+      "steps": [
+        "Use every letter to form books.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Books.",
+      "source_page": 3
+    },
+    {
+      "id": "4(iii)",
+      "section": "Vocabulary",
+      "prompt": "The hens have laid many ___. Arrange gsge.",
+      "steps": [
+        "The letters make eggs, which hens lay.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Eggs.",
+      "source_page": 3
+    },
+    {
+      "id": "5(i)",
+      "section": "Composition and comprehension",
+      "prompt": "One afternoon Andrew was ___ football. (play)",
+      "steps": [
+        "Was plus playing forms past continuous.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Playing.",
+      "source_page": 4
+    },
+    {
+      "id": "5(ii)",
+      "section": "Composition and comprehension",
+      "prompt": "He accidentally hit the window and ___ it. (break)",
+      "steps": [
+        "The completed past event requires broke.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Broke.",
+      "source_page": 4
+    },
+    {
+      "id": "5(iii)",
+      "section": "Composition and comprehension",
+      "prompt": "His father ___ what Andrew did. (see)",
+      "steps": [
+        "Saw is the simple past of see.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Saw.",
+      "source_page": 4
+    },
+    {
+      "id": "5(iv)",
+      "section": "Composition and comprehension",
+      "prompt": "His father ___ at him angrily. (shout)",
+      "steps": [
+        "Add ed to form the regular past tense.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Shouted.",
+      "source_page": 4
+    },
+    {
+      "id": "6(i)",
+      "section": "Composition and comprehension",
+      "prompt": "What is a person whose parents are dead called?",
+      "steps": [
+        "The passage identifies Sharon as an orphan.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "An orphan.",
+      "source_page": 4
+    },
+    {
+      "id": "6(ii)",
+      "section": "Composition and comprehension",
+      "prompt": "Who cared for Sharon after her mother's death?",
+      "steps": [
+        "The second sentence gives the carer.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Her uncle.",
+      "source_page": 4
+    },
+    {
+      "id": "6(iii)",
+      "section": "Composition and comprehension",
+      "prompt": "What did Sharon want to become?",
+      "steps": [
+        "She tells her uncle her ambition.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A primary school teacher.",
+      "source_page": 4
+    },
+    {
+      "id": "6(iv)",
+      "section": "Composition and comprehension",
+      "prompt": "What advice did her uncle give?",
+      "steps": [
+        "The passage supplies both parts of his advice.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Work hard and behave well wherever she went.",
+      "source_page": 4
+    },
+    {
+      "id": "6(v)",
+      "section": "Composition and comprehension",
+      "prompt": "Where did Sharon train as a teacher?",
+      "steps": [
+        "The passage names the training college.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Tarime Teachers' College.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Source-limited items": "The required script, picture or other information is missing. Use the stated limitation and obtain the original material before expecting a unique answer.",
+    "Grammar": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Vocabulary": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Composition and comprehension": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "DAR ES SALAAM City Standard Four (Darasa La Nne) Mock Assessment Exams July 2025",
+      "url": "https://darasahuru.ac.tz/dar-es-salaam-city-standard-four-darasa-la-nne-mock-assessment-exams-july-2025/"
+    }
+  ],
+  "limitations": [
+    "1(i): The teacher dictation words or audio are not included in this source.",
+    "1(ii): The teacher dictation words or audio are not included in this source.",
+    "1(iii): The teacher dictation words or audio are not included in this source.",
+    "1(iv): The teacher dictation words or audio are not included in this source.",
+    "1(v): The teacher dictation words or audio are not included in this source.",
+    "2(v): The auxiliary answer a is intended, but Yes and No are valid ordinary short replies."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "2(vii)",
+    "2(viii)",
+    "2(ix)",
+    "2(x)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)"
+  ],
+  "question_count": "32 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "2c1153b2dfca56008ff718f092bf91688c60222ba7f32bea191ab50a106d1731"
+}

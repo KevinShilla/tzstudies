@@ -1,0 +1,462 @@
+{
+  "exam": "English-S6-2024-MESP-Tanzania-November-Annual-exam.pdf",
+  "output": "English-S6-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Six",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Annual exam - November",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "5ffff7f7ad44232fa32f1116b78c11621c35a81619426f4a41f3d20d373808f8",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Listening",
+      "prompt": "Which country has Ngorongoro and Lake Victoria in the script? (A tourism, B Arusha, C Tanzania, D Zanzibar, E Kilimanjaro)",
+      "steps": [
+        "The page 5 script identifies Tanzania. Lake Victoria is shared with neighbouring countries.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Tanzania.",
+      "source_page": 1
+    },
+    {
+      "id": "1(ii)",
+      "section": "Listening",
+      "prompt": "How many tourists visited in 2018 according to the script? (A 900, B 900000, C 90, D 9000, E 990)",
+      "steps": [
+        "This answer reproduces the listening text rather than independently verifying tourism statistics.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. 900,000, as the script states.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iii)",
+      "section": "Listening",
+      "prompt": "Which place has the highest animal concentration according to the script? (A Serengeti, B Kilimanjaro, C Selous, D Oldonyo Lengai, E Ngorongoro)",
+      "steps": [
+        "The script makes this claim about Serengeti.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Serengeti.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iv)",
+      "section": "Listening",
+      "prompt": "Which is the largest game reserve according to the script? (A Mkomazi, B Ngorongoro, C Serengeti, D Mikumi, E Selous)",
+      "steps": [
+        "The script names Selous.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Selous.",
+      "source_page": 1
+    },
+    {
+      "id": "1(v)",
+      "section": "Listening",
+      "prompt": "How much did tourists spend in 2018 according to the script? (A $900, B TSh900000, C $990 million, D $900000 million, E TSh990 million)",
+      "steps": [
+        "Use the script's amount and currency; do not treat it as a verified national total.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. 990 million dollars, as stated in the script.",
+      "source_page": 1
+    },
+    {
+      "id": "2(i)",
+      "section": "Listening",
+      "prompt": "Rain fell ___ morning to noon. (A for, B since, C from, D during, E through)",
+      "steps": [
+        "Use from...to for the beginning and end of a period.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. From.",
+      "source_page": 1
+    },
+    {
+      "id": "2(ii)",
+      "section": "Grammar and vocabulary",
+      "prompt": "I know the man ___ son was bitten. (A whose, B who, C whom, D which, E where)",
+      "steps": [
+        "Whose shows the son's relationship to the man.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Whose.",
+      "source_page": 2
+    },
+    {
+      "id": "2(iii)",
+      "section": "Grammar and vocabulary",
+      "prompt": "Teacher gave us ___ homework that we could not finish. (A little, B many, C few, D much, E more)",
+      "steps": [
+        "Homework is uncountable; so is needed to introduce the degree-result construction.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Much is intended, but complete grammatical result phrase is so much homework that...",
+      "source_page": 2
+    },
+    {
+      "id": "2(iv)",
+      "section": "Grammar and vocabulary",
+      "prompt": "If I had studied hard, I ___ the assessment. (A pass, B would pass, C would passed, D would have passed, E passed)",
+      "steps": [
+        "A past unreal condition takes would have plus past participle.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Would have passed.",
+      "source_page": 2
+    },
+    {
+      "id": "2(v)",
+      "section": "Grammar and vocabulary",
+      "prompt": "Identify quickly in Pupils ran quickly to assembly. (A verb, B adjective, C noun, D conjunction, E adverb)",
+      "steps": [
+        "Quickly describes how they ran.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Adverb.",
+      "source_page": 2
+    },
+    {
+      "id": "3(i)",
+      "section": "Grammar and vocabulary",
+      "prompt": "The patient will die ___ he receives quick treatment. Bank: both, all, if, unless, but, than, neither, then, but also, either.",
+      "steps": [
+        "Unless means if he does not receive treatment.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Unless.",
+      "source_page": 2
+    },
+    {
+      "id": "3(ii)",
+      "section": "Grammar and vocabulary",
+      "prompt": "Father is not only an MP ___ a minister.",
+      "steps": [
+        "Use not only...but also.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "But also.",
+      "source_page": 2
+    },
+    {
+      "id": "3(iii)",
+      "section": "Grammar and vocabulary",
+      "prompt": "___ of my eyes hurt.",
+      "steps": [
+        "Both refers to the two eyes.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Both.",
+      "source_page": 2
+    },
+    {
+      "id": "3(iv)",
+      "section": "Grammar and vocabulary",
+      "prompt": "He ___ smokes nor drinks.",
+      "steps": [
+        "Use neither...nor.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Neither.",
+      "source_page": 2
+    },
+    {
+      "id": "3(v)",
+      "section": "Grammar and vocabulary",
+      "prompt": "No sooner had the bus left ___ we arrived.",
+      "steps": [
+        "Use no sooner...than.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Than.",
+      "source_page": 2
+    },
+    {
+      "id": "4(i)",
+      "section": "Grammar and vocabulary",
+      "prompt": "Match To be encouraged about something: A campaign, B revenue, C eager, D impressed, E adventure, F commission, G unity.",
+      "steps": [
+        "Impressed means positively affected or admiring; the definition should be corrected.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Impressed is the closest intended option, but does not exactly mean encouraged.",
+      "source_page": 2
+    },
+    {
+      "id": "4(ii)",
+      "section": "Grammar and vocabulary",
+      "prompt": "Match a group assigned to investigate something.",
+      "steps": [
+        "A commission can be appointed to investigate a matter.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "F. Commission.",
+      "source_page": 2
+    },
+    {
+      "id": "4(iii)",
+      "section": "Grammar and vocabulary",
+      "prompt": "Match being ready/keen to do something.",
+      "steps": [
+        "Eager means keen and enthusiastic.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Eager.",
+      "source_page": 2
+    },
+    {
+      "id": "4(iv)",
+      "section": "Grammar and vocabulary",
+      "prompt": "Match fighting/working for one goal.",
+      "steps": [
+        "A campaign is organised action to achieve a goal.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Campaign.",
+      "source_page": 2
+    },
+    {
+      "id": "4(v)",
+      "section": "Grammar and vocabulary",
+      "prompt": "Match Something that is often an usual (printed).",
+      "steps": [
+        "Adventure describes an unusual or exciting experience, not something merely usual.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E. Adventure is likely intended if unusual experience was meant; no exact match to the printed wording.",
+      "source_page": 2
+    },
+    {
+      "id": "5(i)",
+      "section": "Grammar",
+      "prompt": "The patient ___ to hospital by neighbours at the moment. (take)",
+      "steps": [
+        "At the moment requires present continuous passive.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Is being taken.",
+      "source_page": 3
+    },
+    {
+      "id": "5(ii)",
+      "section": "Grammar",
+      "prompt": "Villagers ___ votes last week. (cast)",
+      "steps": [
+        "The past of cast remains cast.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Cast.",
+      "source_page": 3
+    },
+    {
+      "id": "5(iii)",
+      "section": "Grammar",
+      "prompt": "Father ___ to London before the baby was born. (go)",
+      "steps": [
+        "The earlier completed event uses past perfect.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Had gone.",
+      "source_page": 3
+    },
+    {
+      "id": "5(iv)",
+      "section": "Grammar",
+      "prompt": "The boy ___ six glasses already. (break)",
+      "steps": [
+        "Already supports present perfect; break has participle broken.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Has broken.",
+      "source_page": 3
+    },
+    {
+      "id": "5(v)",
+      "section": "Grammar",
+      "prompt": "Farmers ___ crops every rainy season. (grow)",
+      "steps": [
+        "A plural habitual subject takes grow.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Grow.",
+      "source_page": 3
+    },
+    {
+      "id": "6(i)",
+      "section": "Comprehension and composition",
+      "prompt": "How many describing characteristics are listed for the station building?",
+      "steps": [
+        "Count the four adjectives in the building-description sentence; broader feature counting needs an explicit rule.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Four: big, beautiful, neat and attractive. The passage also separately mentions a large reception hall and soundproof room.",
+      "source_page": 4
+    },
+    {
+      "id": "6(ii)",
+      "section": "Comprehension and composition",
+      "prompt": "What is the condition preventing sound being heard outside a room called?",
+      "steps": [
+        "The passage calls the announcer's room soundproof.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Soundproof/soundproofing.",
+      "source_page": 4
+    },
+    {
+      "id": "6(iii)",
+      "section": "Comprehension and composition",
+      "prompt": "How many seconds did people clap if they clapped for about two minutes?",
+      "steps": [
+        "2 x 60 = 120.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "About 120 seconds.",
+      "source_page": 4
+    },
+    {
+      "id": "6(iv)",
+      "section": "Comprehension and composition",
+      "prompt": "Suggest a suitable title.",
+      "steps": [
+        "Choose a title matching the visit and programme.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Example: Our Visit to Amani Radio Station. Other relevant titles acceptable.",
+      "source_page": 4
+    },
+    {
+      "id": "6(v)",
+      "section": "Comprehension and composition",
+      "prompt": "Give a synonym of opportunity as used in the passage.",
+      "steps": [
+        "Opportunity means a chance to do something.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Chance.",
+      "source_page": 4
+    },
+    {
+      "id": "7(i)",
+      "section": "Comprehension and composition",
+      "prompt": "Order A-E: One day he woke in the middle of the night.",
+      "steps": [
+        "This begins the incident after describing the man.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C.",
+      "source_page": 4
+    },
+    {
+      "id": "7(ii)",
+      "section": "Comprehension and composition",
+      "prompt": "Order: His friends called him Mr. Forgetful.",
+      "steps": [
+        "This expands the introductory character description.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B.",
+      "source_page": 4
+    },
+    {
+      "id": "7(iii)",
+      "section": "Comprehension and composition",
+      "prompt": "Order: He found no cook and no breakfast.",
+      "steps": [
+        "The discovery follows his visit to the kitchen.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "E.",
+      "source_page": 4
+    },
+    {
+      "id": "7(iv)",
+      "section": "Comprehension and composition",
+      "prompt": "Order: Once upon a time there was a forgetful person.",
+      "steps": [
+        "Introduce the character first.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A.",
+      "source_page": 4
+    },
+    {
+      "id": "7(v)",
+      "section": "Comprehension and composition",
+      "prompt": "Order: Thinking it morning, he went to the kitchen for breakfast.",
+      "steps": [
+        "His mistaken search follows waking.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D.",
+      "source_page": 4
+    }
+  ],
+  "summaries": {
+    "Listening": "Listen to the supplied teacher text and identify the exact detail asked for. Check spelling and sentence punctuation; missing scripts are explicitly identified.",
+    "Grammar and vocabulary": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Grammar": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices.",
+    "Comprehension and composition": "Find evidence in the passage or poem before answering. Distinguish explicit statements, reasonable inferences and model interpretations."
+  },
+  "references": [
+    {
+      "title": "MESP STANDARD SIX ANNUAL EXAMS NOV 2024",
+      "url": "https://darasahuru.ac.tz/mesp-standard-six-annual-exams-nov-2024/"
+    },
+    {
+      "title": "NCAA: Ngorongoro caldera description",
+      "url": "https://geopark.ncaa.go.tz/major-attractions/"
+    }
+  ],
+  "limitations": [
+    "Listening: Geography superlatives and tourism figures are passage claims, not verified national statistics. Ngorongoro is specifically the largest unbroken caldera, rather than every kind of crater.",
+    "2(iii): So is omitted from the required so much...that construction.",
+    "4(i),4(v): Printed definitions do not accurately match their intended bank answers.",
+    "6(i): Four explicitly adjacent building adjectives are counted; additional room features are separately identified."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "6(iv)",
+    "6(v)",
+    "7(i)",
+    "7(ii)",
+    "7(iii)",
+    "7(iv)",
+    "7(v)"
+  ],
+  "question_count": "35 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "895cfc8d3a0eea7119ed92b5ea208bea019102f821624c71076bc5908fee1c37"
+}

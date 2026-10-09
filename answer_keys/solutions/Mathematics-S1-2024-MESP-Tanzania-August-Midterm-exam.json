@@ -1,0 +1,392 @@
+{
+  "exam": "Mathematics-S1-2024-MESP-Tanzania-August-Midterm-exam.pdf",
+  "output": "Mathematics-S1-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey.pdf",
+  "sha256": "9f9cfab39bce45edfd5b08e3ae2e6ed7dd685473108f6117ea9839fe9dcfe610",
+  "subject": "Mathematics",
+  "level": "Standard One",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Midterm exam - August · Arithmetic",
+  "question_count": "25 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 3,[ ],5,[ ],[ ],8,[ ],10,[ ].",
+      "steps": [
+        "Increase by 1 from 3 to 11.",
+        "Fill each missing consecutive value."
+      ],
+      "answer": "4,6,7,9,11",
+      "source_page": 1
+    },
+    {
+      "id": "2",
+      "section": "Numbers and calculations",
+      "prompt": "Fill the printed sequence 25,[ ],[ ],28,[ ],30,[ ],[ ]32.",
+      "steps": [
+        "The intended consecutive sequence is 25 through 32.",
+        "It needs 26,27,29,31; the source adds an extra blank immediately before printed 32."
+      ],
+      "answer": "26,27,29,31; the extra final blank is a printing error.",
+      "source_page": 1
+    },
+    {
+      "id": "3",
+      "section": "Numbers and calculations",
+      "prompt": "Write seventeen in figures.",
+      "steps": [
+        "Seventeen represents 1 tens and 7 ones.",
+        "Write the digits 17."
+      ],
+      "answer": "17",
+      "source_page": 1
+    },
+    {
+      "id": "4",
+      "section": "Numbers and calculations",
+      "prompt": "Write thirty-eight in figures.",
+      "steps": [
+        "Thirty-eight represents 3 tens and 8 ones.",
+        "Write the digits 38."
+      ],
+      "answer": "38",
+      "source_page": 1
+    },
+    {
+      "id": "5",
+      "section": "Numbers and calculations",
+      "prompt": "Write thirty in figures.",
+      "steps": [
+        "Thirty represents 3 tens and 0 ones.",
+        "Write the digits 30."
+      ],
+      "answer": "30",
+      "source_page": 1
+    },
+    {
+      "id": "6",
+      "section": "Numbers and calculations",
+      "prompt": "Write eight in figures.",
+      "steps": [
+        "Eight represents 0 tens and 8 ones.",
+        "Write the digits 8."
+      ],
+      "answer": "8",
+      "source_page": 1
+    },
+    {
+      "id": "7",
+      "section": "Numbers and calculations",
+      "prompt": "Write forty-four in figures.",
+      "steps": [
+        "Forty-four represents 4 tens and 4 ones.",
+        "Write the digits 44."
+      ],
+      "answer": "44",
+      "source_page": 1
+    },
+    {
+      "id": "8",
+      "section": "Numbers and calculations",
+      "prompt": "Write fourteen in figures.",
+      "steps": [
+        "Fourteen represents 1 tens and 4 ones.",
+        "Write the digits 14."
+      ],
+      "answer": "14",
+      "source_page": 1
+    },
+    {
+      "id": "9",
+      "section": "Numbers and calculations",
+      "prompt": "Write thirteen in figures.",
+      "steps": [
+        "Thirteen represents 1 tens and 3 ones.",
+        "Write the digits 13."
+      ],
+      "answer": "13",
+      "source_page": 1
+    },
+    {
+      "id": "10",
+      "section": "Numbers and calculations",
+      "prompt": "Write twelve in figures.",
+      "steps": [
+        "Twelve represents 1 tens and 2 ones.",
+        "Write the digits 12."
+      ],
+      "answer": "12",
+      "source_page": 2
+    },
+    {
+      "id": "11",
+      "section": "Calculations",
+      "prompt": "Calculate 4+8.",
+      "steps": [
+        "Ones column: 4 + 8 = 12. Write 2. Carry 1 to the next column.",
+        "Write the remaining carry, 1, on the left.",
+        "Read the digits from left to right: 12."
+      ],
+      "answer": "12",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "4+8",
+          "expected": "12"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "section": "Calculations",
+      "prompt": "Calculate 7+2+3.",
+      "steps": [
+        "Ones column: 7 + 2 + 3 = 12. Write 2. Carry 1 to the next column.",
+        "Write the remaining carry, 1, on the left.",
+        "Read the digits from left to right: 12."
+      ],
+      "answer": "12",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "7+2+3",
+          "expected": "12"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "section": "Calculations",
+      "prompt": "Calculate 8+2.",
+      "steps": [
+        "Ones column: 8 + 2 = 10. Write 0. Carry 1 to the next column.",
+        "Write the remaining carry, 1, on the left.",
+        "Read the digits from left to right: 10."
+      ],
+      "answer": "10",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "8+2",
+          "expected": "10"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "section": "Calculations",
+      "prompt": "Calculate 2+0+2.",
+      "steps": [
+        "Ones column: 2 + 0 + 2 = 4. Write 4.",
+        "Read the digits from left to right: 4."
+      ],
+      "answer": "4",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2+0+2",
+          "expected": "4"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "section": "Calculations",
+      "prompt": "Calculate 9+4+3.",
+      "steps": [
+        "Ones column: 9 + 4 + 3 = 16. Write 6. Carry 1 to the next column.",
+        "Write the remaining carry, 1, on the left.",
+        "Read the digits from left to right: 16."
+      ],
+      "answer": "16",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "9+4+3",
+          "expected": "16"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "section": "Numbers and calculations",
+      "prompt": "Circle thirteen from 13,31.",
+      "steps": [
+        "Thirteen is written 13.",
+        "Choose that number, keeping the digits in their correct places."
+      ],
+      "answer": "13",
+      "source_page": 2
+    },
+    {
+      "id": "17",
+      "section": "Numbers and calculations",
+      "prompt": "Circle fifteen from 15,51.",
+      "steps": [
+        "Fifteen is written 15.",
+        "Choose that number, keeping the digits in their correct places."
+      ],
+      "answer": "15",
+      "source_page": 2
+    },
+    {
+      "id": "18",
+      "section": "Numbers and calculations",
+      "prompt": "Circle fourteen from 44,14.",
+      "steps": [
+        "Fourteen is written 14.",
+        "Choose that number, keeping the digits in their correct places."
+      ],
+      "answer": "14",
+      "source_page": 2
+    },
+    {
+      "id": "19",
+      "section": "Numbers and calculations",
+      "prompt": "Circle thirty-one from 31,13.",
+      "steps": [
+        "Thirty-one is written 31.",
+        "Choose that number, keeping the digits in their correct places."
+      ],
+      "answer": "31",
+      "source_page": 2
+    },
+    {
+      "id": "20",
+      "section": "Numbers and calculations",
+      "prompt": "Circle seventeen from 17,71.",
+      "steps": [
+        "Seventeen is written 17.",
+        "Choose that number, keeping the digits in their correct places."
+      ],
+      "answer": "17",
+      "source_page": 2
+    },
+    {
+      "id": "21",
+      "section": "Numbers and calculations",
+      "prompt": "Write the number immediately before 20.",
+      "steps": [
+        "Subtract 1: 20 - 1 = 19."
+      ],
+      "answer": "19",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "20-1",
+          "expected": "19"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "section": "Numbers and calculations",
+      "prompt": "Write the number immediately before 18.",
+      "steps": [
+        "Subtract 1: 18 - 1 = 17."
+      ],
+      "answer": "17",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "18-1",
+          "expected": "17"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "section": "Numbers and calculations",
+      "prompt": "Write the number immediately before 30.",
+      "steps": [
+        "Subtract 1: 30 - 1 = 29."
+      ],
+      "answer": "29",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "30-1",
+          "expected": "29"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "section": "Numbers and calculations",
+      "prompt": "Write the number immediately before 14.",
+      "steps": [
+        "Subtract 1: 14 - 1 = 13."
+      ],
+      "answer": "13",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "14-1",
+          "expected": "13"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "section": "Numbers and calculations",
+      "prompt": "Write the number immediately before 29.",
+      "steps": [
+        "Subtract 1: 29 - 1 = 28."
+      ],
+      "answer": "28",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "29-1",
+          "expected": "28"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Numbers and calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - MESP Tanzania Standard One Midterm Exams August 2024",
+      "url": "https://darasahuru.ac.tz/mesp-tanzania-standard-one-midterm-exams-august-2024/"
+    }
+  ],
+  "limitations": [
+    "Question 2 has one surplus blank before the printed final 32; the intended consecutive sequence and correction are stated."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "d0fc3d006209d0225e24219d5d77a13f856e85046b5616a8fde5b2209e05e9e8"
+}

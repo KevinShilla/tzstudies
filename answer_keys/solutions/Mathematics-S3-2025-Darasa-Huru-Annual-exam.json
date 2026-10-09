@@ -1,0 +1,492 @@
+{
+  "exam": "Mathematics-S3-2025-Darasa-Huru-Annual-exam.pdf",
+  "output": "Mathematics-S3-2025-Darasa-Huru-Annual-exam-AnswerKey.pdf",
+  "sha256": "0da8b55943f7458e24ae74586fa39d22b39785ace7f573adf089a062e2b7fb11",
+  "subject": "Hisabati",
+  "level": "Standard Three",
+  "year": "2025",
+  "code": "Not printed in source",
+  "board": "Darasa Huru",
+  "exam_type": "Annual exam",
+  "question_count": "25 numbered questions/subparts",
+  "language": "sw",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika 3450 kwa maneno.",
+      "steps": [
+        "3450 = 3000 +400 +50."
+      ],
+      "answer": "Elfu tatu mia nne hamsini",
+      "source_page": 1
+    },
+    {
+      "id": "1(ii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika elfu moja mia tano ishirini kwa tarakimu.",
+      "steps": [
+        "1000 + 500 + 20 = 1520."
+      ],
+      "answer": "1520",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "1000 + 500 + 20",
+          "expected": "1520"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Fafanua 2345.",
+      "steps": [
+        "Tenga thamani ya kila nafasi."
+      ],
+      "answer": "2000 +300 +40 +5",
+      "source_page": 1
+    },
+    {
+      "id": "1(iv)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika 8000 +300 +40 +1 kwa kifupi.",
+      "steps": [
+        "8000 + 300 + 40 + 1 = 8341."
+      ],
+      "answer": "8341",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "8000 + 300 + 40 + 1",
+          "expected": "8341"
+        }
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Jaza 15,17,19,[ ],23,25.",
+      "steps": [
+        "Ongeza 2; 19 + 2 = 21."
+      ],
+      "answer": "21",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "19 + 2",
+          "expected": "21"
+        }
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Jaza 45,40,[ ],30,25,20.",
+      "steps": [
+        "Punguza 5; 40 - 5 = 35."
+      ],
+      "answer": "35",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "40 - 5",
+          "expected": "35"
+        }
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika thamani ya tarakimu iliyopigiwa mstari katika 47612; mstari hauonekani kwenye chanzo.",
+      "steps": [
+        "Thamani za kila tarakimu:4 makumielfu,7 maelfu,6 mamia,1 makumi,2 mamoja."
+      ],
+      "answer": "Ikiwa 4:40000;7:7000;6:600;1:10;2:2. Haiwezekani kuchagua moja bila mstari.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Panga 60,44,37,100,9,218 kuanzia kubwa.",
+      "steps": [
+        "Linganisha idadi ya tarakimu, kisha thamani za nafasi."
+      ],
+      "answer": "218,100,60,44,37,9",
+      "source_page": 1
+    },
+    {
+      "id": "2(iv)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Taja ndogo kuliko zote:900,300,700,100,500.",
+      "steps": [
+        "1 mia ni chini ya 3,5,7 au 9 mamia."
+      ],
+      "answer": "100",
+      "source_page": 1
+    },
+    {
+      "id": "2(v)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika namba ya maelfu 7, mamia 6, makumi 2, mamoja 2.",
+      "steps": [
+        "7000 + 600 + 20 + 2 = 7622."
+      ],
+      "answer": "7622",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "7000 + 600 + 20 + 2",
+          "expected": "7622"
+        }
+      ]
+    },
+    {
+      "id": "3(i)",
+      "section": "Hesabu",
+      "prompt": "Kokotoa 1418+2631.",
+      "steps": [
+        "1 nafasi: 8 + 1 = 9; andika 9.",
+        "10 nafasi: 1 + 3 = 4; andika 4.",
+        "100 nafasi: 4 + 6 = 10; andika 0, beba 1.",
+        "1000 nafasi: 1 + 2 + beba 1 = 4; andika 4.",
+        "1418 + 2631 = 4049."
+      ],
+      "answer": "4049",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "1418+2631",
+          "expected": "4049"
+        },
+        {
+          "expression": "8 + 1",
+          "expected": "9"
+        },
+        {
+          "expression": "1 + 3",
+          "expected": "4"
+        },
+        {
+          "expression": "4 + 6",
+          "expected": "10"
+        },
+        {
+          "expression": "1418 + 2631",
+          "expected": "4049"
+        }
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Hesabu",
+      "prompt": "Kokotoa 8973-7642.",
+      "steps": [
+        "1 nafasi: 3 - 2 = 1.",
+        "10 nafasi: 7 - 4 = 3.",
+        "100 nafasi: 9 - 6 = 3.",
+        "1000 nafasi: 8 - 7 = 1.",
+        "8973 - 7642 = 1331; hakiki 1331 + 7642 = 8973."
+      ],
+      "answer": "1331",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "8973-7642",
+          "expected": "1331"
+        },
+        {
+          "expression": "3 - 2",
+          "expected": "1"
+        },
+        {
+          "expression": "7 - 4",
+          "expected": "3"
+        },
+        {
+          "expression": "9 - 6",
+          "expected": "3"
+        },
+        {
+          "expression": "8 - 7",
+          "expected": "1"
+        },
+        {
+          "expression": "8973 - 7642",
+          "expected": "1331"
+        },
+        {
+          "expression": "1331 + 7642",
+          "expected": "8973"
+        }
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Hesabu",
+      "prompt": "Kokotoa 6027+1784.",
+      "steps": [
+        "1 nafasi: 7 + 4 = 11; andika 1, beba 1.",
+        "10 nafasi: 2 + 8 + beba 1 = 11; andika 1, beba 1.",
+        "100 nafasi: 0 + 7 + beba 1 = 8; andika 8.",
+        "1000 nafasi: 6 + 1 = 7; andika 7.",
+        "6027 + 1784 = 7811."
+      ],
+      "answer": "7811",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "6027+1784",
+          "expected": "7811"
+        },
+        {
+          "expression": "7 + 4",
+          "expected": "11"
+        },
+        {
+          "expression": "6 + 1",
+          "expected": "7"
+        },
+        {
+          "expression": "6027 + 1784",
+          "expected": "7811"
+        }
+      ]
+    },
+    {
+      "id": "3(iv)",
+      "section": "Hesabu",
+      "prompt": "Kokotoa 3822-1713.",
+      "steps": [
+        "1 nafasi: azima 1 kutoka nafasi inayofuata; 12 - 3 = 9.",
+        "10 nafasi: 1 - 1 = 0.",
+        "100 nafasi: 8 - 7 = 1.",
+        "1000 nafasi: 3 - 1 = 2.",
+        "3822 - 1713 = 2109; hakiki 2109 + 1713 = 3822."
+      ],
+      "answer": "2109",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "3822-1713",
+          "expected": "2109"
+        },
+        {
+          "expression": "12 - 3",
+          "expected": "9"
+        },
+        {
+          "expression": "1 - 1",
+          "expected": "0"
+        },
+        {
+          "expression": "8 - 7",
+          "expected": "1"
+        },
+        {
+          "expression": "3 - 1",
+          "expected": "2"
+        },
+        {
+          "expression": "3822 - 1713",
+          "expected": "2109"
+        },
+        {
+          "expression": "2109 + 1713",
+          "expected": "3822"
+        }
+      ]
+    },
+    {
+      "id": "3(v)",
+      "section": "Hesabu",
+      "prompt": "Kokotoa 5000+4000.",
+      "steps": [
+        "1 nafasi: 0 + 0 = 0; andika 0.",
+        "10 nafasi: 0 + 0 = 0; andika 0.",
+        "100 nafasi: 0 + 0 = 0; andika 0.",
+        "1000 nafasi: 5 + 4 = 9; andika 9.",
+        "5000 + 4000 = 9000."
+      ],
+      "answer": "9000 shilingi",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "5000+4000",
+          "expected": "9000"
+        },
+        {
+          "expression": "0 + 0",
+          "expected": "0"
+        },
+        {
+          "expression": "5 + 4",
+          "expected": "9"
+        },
+        {
+          "expression": "5000 + 4000",
+          "expected": "9000"
+        }
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Duka lina simu 2972; za mkononi ni 1235. Za mezani ni ngapi?",
+      "steps": [
+        "2972 - 1235 = 1737."
+      ],
+      "answer": "Simu 1737",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2972 - 1235",
+          "expected": "1737"
+        }
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Juma avuna maembe 5630 kwenye mti mmoja na 480 mwingine. Jumla?",
+      "steps": [
+        "5630 + 480 = 6110."
+      ],
+      "answer": "Maembe 6110",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "5630 + 480",
+          "expected": "6110"
+        }
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika 1/2 kwa maneno.",
+      "steps": [
+        "Sehemu 1 ya 2 sawa ni nusu."
+      ],
+      "answer": "Nusu",
+      "source_page": 2
+    },
+    {
+      "id": "4(iv)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika theluthi kwa numerali.",
+      "steps": [
+        "Sehemu 1 kati ya 3 sawa."
+      ],
+      "answer": "1/3",
+      "source_page": 2
+    },
+    {
+      "id": "4(v)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Andika theluthi mbili kwa numerali.",
+      "steps": [
+        "Sehemu 2 kati ya 3 sawa."
+      ],
+      "answer": "2/3",
+      "source_page": 2
+    },
+    {
+      "id": "5(i)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Taja jina la umbo la kwanza.",
+      "steps": [
+        "Mpaka wake ni duara la mviringo."
+      ],
+      "answer": "Duara",
+      "source_page": 2
+    },
+    {
+      "id": "5(ii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Taja jina la umbo la pili.",
+      "steps": [
+        "Lina pande 3 na pembe 3."
+      ],
+      "answer": "Pembetatu",
+      "source_page": 2
+    },
+    {
+      "id": "5(iii)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Saa 1 ni dakika ngapi?",
+      "steps": [
+        "Saa moja ina dakika 60."
+      ],
+      "answer": "Dakika 60",
+      "source_page": 2
+    },
+    {
+      "id": "5(iv)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Umbo la pande nne zote sawa huitwaje?",
+      "steps": [
+        "Jibu linalotarajiwa ni mraba wenye pembe mraba.",
+        "Rombasi pia ina pande zote sawa; pembe hazikutajwa."
+      ],
+      "answer": "Mraba (linalotarajiwa); rombasi pia inatimiza maelezo.",
+      "source_page": 2
+    },
+    {
+      "id": "5(v)",
+      "section": "Hesabu na matumizi",
+      "prompt": "Chora saa kuonyesha 7:00 (saa saba kamili) kama ilivyoandikwa.",
+      "steps": [
+        "Kwa tarakimu za kimataifa 7:00: mshale mfupi 7, mrefu 12.",
+        "Kwa maneno ya saa za Kiswahili, saa saba ni 1:00 kimataifa (tofauti ya 6); mfupi 1, mrefu 12."
+      ],
+      "answer": "Tarakimu 7:00: mfupi 7, mrefu 12. Ikiwa maneno saa saba ya Kiswahili yamekusudiwa:mfupi 1, mrefu 12.",
+      "source_page": 2
+    }
+  ],
+  "summaries": {
+    "Hesabu na matumizi": "Soma namba na vipimo kwa makini. Panga tarakimu kwa nafasi na hakikisha kwa tendo la kinyume. Katika picha, hesabu vitu vilivyoulizwa tu.",
+    "Hesabu": "Soma namba na vipimo kwa makini. Panga tarakimu kwa nafasi na hakikisha kwa tendo la kinyume. Katika picha, hesabu vitu vilivyoulizwa tu."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - Hisabati Darasa La Tatu Annual Exam 2025 - Darasa Huru",
+      "url": "https://darasahuru.ac.tz/hisabati-darasa-la-tatu-annual-exam-2025/"
+    }
+  ],
+  "limitations": [
+    "2(ii) hakuna mstari unaoweza kutambulika katika chanzo; kila thamani inayowezekana imeelezwa.",
+    "5(iv) pande sawa pekee hazitofautishi mraba na rombasi.",
+    "5(v) tarakimu 7:00 na maneno saa saba yanahitaji kutofautisha mfumo wa kimataifa na wa Kiswahili."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "11642a58e2d5c3079afa55d27dce37d43168821bcdaebd8761e68b3a89e0ea73"
+}

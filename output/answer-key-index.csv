@@ -1,61 +1,209 @@
-﻿file,source,pages,answered_parts,sha256
-BasicMath-F2-2021-AnswerKey.pdf,BasicMath-F2-2021.pdf,12,28,d584767a7d90851f7d83411c5d11f388bc40035d1b45d40e73f1df86f551c75d
-BasicMath-F2-2022-AnswerKey.pdf,BasicMath-F2-2022.pdf,14,39,dd03f1966bb91b61f31a98862be8cefab617bd39a3cf8f4ce684a32f2e7ddaf0
-BasicMath-F2-2023-AnswerKey.pdf,BasicMath-F2-2023.pdf,10,23,afcce71fe8cd465869c7b0591254b81a2e94aca894102c8108b957072eb2e117
-BasicMath-F2-2024-AnswerKey.pdf,BasicMath-F2-2024.pdf,9,21,2c1efe81576c9b5f5daf4b08eba6db706862bae896cd7a7406e211c96d00e25c
-BasicMath-F2-2025-AnswerKey.pdf,BasicMath-F2-2025.pdf,10,24,7fdb9f141941f4a36c08684736b5e7d7b16a45ce4dc80ad8102d896ddf94d485
-BasicMath-F4-2021-AnswerKey.pdf,BasicMath-F4-2021.pdf,12,38,3ff358355318e2ed2edc8be5db42d628089d4c6629c338fb2a93ffa159c1c439
-BasicMath-F4-2022-AnswerKey.pdf,BasicMath-F4-2022.pdf,12,40,cd676a6b1a1da2a9002e378ec24ef0cd3b3c008beda197ba2833be7329c0c654
-BasicMath-F4-2023-AnswerKey.pdf,BasicMath-F4-2023.pdf,13,39,6eb2088af4516a27a2620b3d98737df19bc82cff506ac04c12b60b86221f9ad1
-BasicMath-F4-2024-AnswerKey.pdf,BasicMath-F4-2024.pdf,12,40,10e2038c12e15bb054aba29275647d6fe942a1d9dd5c31bd8973d31483e0e9f8
-BasicMath-F4-2025-AnswerKey.pdf,BasicMath-F4-2025.pdf,10,33,091dec5a7906c639a6d9976a49a9a033bf7dd92cbcbace78ff1a1438dfa5f8e9
-English-F2-2021-AnswerKey.pdf,English-F2-2021.pdf,16,60,e5a5509191f658f165025f58a9dfdc17f2b7bfb65ca8eecdc304b1bd702f1c1e
-English-F2-2022-AnswerKey.pdf,English-F2-2022.pdf,14,53,3390e488626f56ac90627bbe052489874313ec68676dfe4664787867e6e9dbf1
-English-F2-2023-AnswerKey.pdf,English-F2-2023.pdf,15,53,0b36ce379a2abde132637b86c51a9310d03c74965ee1f0c5d3b9ddf59830ecd1
-English-F2-2024-AnswerKey.pdf,English-F2-2024.pdf,14,52,8fb05c85631c2b3877aa94d8caaecf13e23d4f72a5f1dfee13b80e9b08c2c5ec
-English-F2-2025-AnswerKey.pdf,English-F2-2025.pdf,20,66,f52bafe381f454058befa5b94aba864b71d9757aa6583d5ec909949dc1e604f6
-English-F4-2021-AnswerKey.pdf,English-F4-2021.pdf,16,52,6598154f1ed7849e872fe25b33d1a5ad74c081486dc258361678476b461bd386
-English-F4-2022-AnswerKey.pdf,English-F4-2022.pdf,19,60,dbb67d9ad31ffa15d39e85ad7391e0eb104e48c345b2a4ce86acb36bf330b503
-English-F4-2023-AnswerKey.pdf,English-F4-2023.pdf,17,53,d965a6eca4ad41f2eb23650f112db2c307b6457b72613087c386aa926c506a96
-English-F4-2024-AnswerKey.pdf,English-F4-2024.pdf,16,60,f285cb1c911ddcb598979bfeab8b91bf9d93cb45a7074943465513dfa11fc045
-English-F4-2025-AnswerKey.pdf,English-F4-2025.pdf,17,59,3b3b36310c474aa4929130292cd9ab82ccfa726d5267fe0a9db0c6d078e33801
-English-S4-2021-AnswerKey.pdf,English-S4-2021.pdf,8,25,79ed86ca2745d544160a20e471d54d654d2211fd6eb256ba1177c4c0bf05274e
-English-S4-2022-AnswerKey.pdf,English-S4-2022.pdf,9,26,2a1964d6fe4b5874fcb47d054f65e845f28abc2e5ae92a13292e7e046c1d8dc8
-English-S4-2023-AnswerKey.pdf,English-S4-2023.pdf,8,25,c2b700e00edd7ea8da6436a6a4ff767b6013fac3b1d65af94cbeefa6e1bd1a65
-English-S4-2024-AnswerKey.pdf,English-S4-2024.pdf,8,25,69e0d0ae0b0a2fdf01ab967f64e5c96317c40f0e15b0b723f9ad75a701b2e0f2
-English-S7-2016-AnswerKey.pdf,English - S7 - 2016.pdf,12,50,4e029b05ea1c8cb69e77a3ce4f5633486849954a1e8df906ea9900e711ea324b
-English-S7-2021-AnswerKey.pdf,English-S7-2021.pdf,11,45,7a2c30c5cb7c3d0bc13302041d0eb3d7168f20eb88f878d2917c92bbed6b4524
-English-S7-2022-AnswerKey.pdf,English-S7-2022.pdf,11,45,8448c36a0d49526cd37658493e652b3095392b1bb86dd8af30aaef00bc999333
-English-S7-2023-AnswerKey.pdf,English-S7-2023.pdf,11,45,0dcac94f978329951263fd72b4a7a26972047c67fe66d4647016d5421905a676
-English-S7-2024-AnswerKey.pdf,English-S7-2024.pdf,10,35,7afa2c3c4ce0f2b1f5f0781b258712c1e76218c0505ac4c14d216033220f89d6
-Hisabati-S4-2021-AnswerKey.pdf,Hisabati-S4-2021.pdf,8,25,27cdc29064ad272149ed4b193c74fadc5124ec78f985a6c03ce5d86842d8f4ef
-Hisabati-S4-2022-AnswerKey.pdf,Hisabati-S4-2022.pdf,8,25,a7260ae9764a256f6a55cfc941890b2d151b83e3851fcf83af028a167edfc6ac
-Hisabati-S4-2023-AnswerKey.pdf,Hisabati-S4-2023.pdf,7,25,c20551844332e38784d9fd17ed18512f7395f722041a82d3c579d72e82d6bbf2
-Hisabati-S4-2024-AnswerKey.pdf,Hisabati-S4-2024.pdf,8,25,7f9c52fdd158cec4cb43839c1fffefb74b245cae28eab6d192dcab10017e30b2
-Hisabati-S7-2022-AnswerKey.pdf,Hisabati-S7-2022.pdf,13,45,ddab1ea7f7f6e8752359b0dffcadca39d18f13da0444195c3112f71016795123
-Hisabati-S7-2023-AnswerKey.pdf,Hisabati-S7-2023.pdf,13,45,4be18e7da734d10697ba36f00eeeb0d679bafa05c87d26fab5e8fecb9e14d049
-Hisabati-S7-2024-AnswerKey.pdf,Hisabati-S7-2024.pdf,12,33,bb0c9ad6800406eae610d3ebeeaaf424e1bd5cdca2c5f1cfd4652ace10197f63
-Kiswahili-F2-2021-AnswerKey.pdf,Kiswahili-F2-2021.pdf,13,47,aae5cd921bcf29dbd4b6c4f363064a99683c968f5454d3c80dddb57eea1a50ad
-Kiswahili-F2-2022-AnswerKey.pdf,Kiswahili-F2-2022.pdf,14,55,5da80509215aa4ce4cc138c87fb0b5f2e1c4d350a18dd1a4c1f31fbfcf237357
-Kiswahili-F2-2023-AnswerKey.pdf,Kiswahili-F2-2023.pdf,13,54,ca428e4eb5b74d20590be4a7d9281341f06a9084d6c62385979be799ceb7a792
-Kiswahili-F2-2024-AnswerKey.pdf,Kiswahili-F2-2024.pdf,13,52,06c690d1fcead75597e41aa3ec815d481d3a0f6963d0c9c6d87d07a01bf4efb9
-Kiswahili-F2-2025-AnswerKey.pdf,Kiswahili-F2-2025.pdf,15,64,fa8840392631cfbe327a9abb35edad15a9541e4297709e074efc0ab6f0e58adb
-Kiswahili-F4-2021-AnswerKey.pdf,Kiswahili-F4-2021.pdf,16,35,7a06986ea33809f47f32877dfc8e4c03590a80036760e1b6cf04358ac5393df6
-Kiswahili-F4-2022-AnswerKey.pdf,Kiswahili-F4-2022.pdf,15,34,f44929505045dee64d520d70ef080993d9c064d5ab0b39e014ca508344fe1c29
-Kiswahili-F4-2023-AnswerKey.pdf,Kiswahili-F4-2023.pdf,19,57,986cf67766469dc2d99e3aac981cd9969cb7f905d6c92171de51c9744f46b6a6
-Kiswahili-F4-2024-AnswerKey.pdf,KISWAHILI-F4-2024.pdf,16,45,9518f7832db52be816e93f83f8b36e2b0b1d1cd6aaf8440721b7a125833c10e4
-Kiswahili-F4-2025-AnswerKey.pdf,Kiswahili-F4-2025.pdf,18,58,0a6a272c9ba4cbf4c39611f08b0ae9135aeb81b4222ffd2474d4902996b584e9
-Kiswahili-S4-2021-AnswerKey.pdf,Kiswahili-S4-2021.pdf,8,25,c30482907bc146c3a247d263408b48066535df14a25c8f9cd6d9847322757ef9
-Kiswahili-S4-2022-AnswerKey.pdf,Kiswahili-S4-2022.pdf,8,25,13a511fc344436c8af5b2c882e9f21ad111dc7b4ecbee192acbeea2206ede2fe
-Kiswahili-S4-2023-AnswerKey.pdf,Kiswahili-S4-2023.pdf,8,27,ee179b9a776b7e42e965188f006528ebccf4738584b2236121c7aaf0a6b91e2f
-Kiswahili-S4-2024-AnswerKey.pdf,Kiswahili-S4-2024.pdf,8,25,b89b0621bef1761ca769110f02d90454d729d151ac50e8c96c21228f4a2954da
-Kiswahili-S7-2021-AnswerKey.pdf,Kiswahili-S7-2021.pdf,11,45,a11ffbb7eadd07c06b79a12d4ae28699b3b6822499c1030221a91cc5b215b4ab
-Kiswahili-S7-2022-AnswerKey.pdf,Kiswahili-S7-2022.pdf,11,45,477ea8bfcbd11374759b87d4acb8cd8c92d4dba85ea80a41b89bdbb0ba649298
-Kiswahili-S7-2023-AnswerKey.pdf,Kiswahili-S7-2023.pdf,11,45,83d28dd72ce416dc2e46f4bc7f48d0cf04f1ea56bbedccad5d99359a1e9353f8
-Kiswahili-S7-2024-AnswerKey.pdf,Kiswahili-S7-2024.pdf,9,31,757bef3bf5a5e974a10377d1e73901733d5867f0fe6224472f77ffa7154d4434
-Mathematics-S4-2020-AnswerKey.pdf,Mathematics-S4-2020.pdf,8,25,fefa0fcc800afb121cc2bee748aa60631f05f59500cd7e0c03d9e0858536850e
-Mathematics-S4-2021-AnswerKey.pdf,Mathematics-S4-2021.pdf,8,25,ad886dda1463c1f8f83073c03ce0739752ea77621d77bd96703df16cf2b44b93
-Mathematics-S4-2022-AnswerKey.pdf,Mathematics-S4-2022.pdf,8,25,a4c3b5860e2011b77e61421c6812e4ff560ac904deacbef70f8838362e43b988
-Mathematics-S4-2023-AnswerKey.pdf,Mathematics-S4-2023.pdf,8,25,31ae69e14b1305bca938e11f865235682c1f35bff4f822bcbc1989a6a4065b43
-Mathematics-S4-2024-AnswerKey.pdf,Mathematics-S4-2024.pdf,8,25,20544bef62e85f7490f581ab53ecddea2bb8ff4b03f37b4864247149e1fe430e
-Mathematics-S7-2021-AnswerKey.pdf,Mathematics-S7-2021.pdf,12,45,fe3b34028345d58af239a3e7e3d507e1c864f8f32e97ad6651bedbede57ed4a0
+﻿exam,answer_key,subject,level,year,issuer,answered_parts,bytes
+English-S1-2026-MESP-Tanzania-March-Midterm-exam.pdf,English-S1-2026-MESP-Tanzania-March-Midterm-exam-AnswerKey.pdf,English,Standard 1,2026,MESP Tanzania,23,54035
+English-S2-2026-MESP-Tanzania-March-Midterm-exam.pdf,English-S2-2026-MESP-Tanzania-March-Midterm-exam-AnswerKey.pdf,English,Standard 2,2026,MESP Tanzania,50,62924
+English-S3-2026-Arusha-region-May-Terminal-exam.pdf,English-S3-2026-Arusha-region-May-Terminal-exam-AnswerKey.pdf,English,Standard 3,2026,Arusha region,32,57859
+English-S3-2026-ASAP-March-Midterm-exam.pdf,English-S3-2026-ASAP-March-Midterm-exam-AnswerKey.pdf,English,Standard 3,2026,ASAP,25,54510
+English-S3-2026-Nyegezi-Primary-School-May-Terminal-exam.pdf,English-S3-2026-Nyegezi-Primary-School-May-Terminal-exam-AnswerKey.pdf,English,Standard 3,2026,Nyegezi Primary School,32,57383
+English-S5-2026-EMO-February-Practice-assessment.pdf,English-S5-2026-EMO-February-Practice-assessment-AnswerKey.pdf,English,Standard 5,2026,EMO,34,60829
+English-S6-2026-MESP-Tanzania-Practice-assessment.pdf,English-S6-2026-MESP-Tanzania-Practice-assessment-AnswerKey.pdf,English,Standard 6,2026,MESP Tanzania,35,58801
+Kiswahili-S1-2026-MESP-Tanzania-March-Midterm-exam.pdf,Kiswahili-S1-2026-MESP-Tanzania-March-Midterm-exam-AnswerKey.pdf,Kiswahili,Standard 1,2026,MESP Tanzania,33,480271
+Kiswahili-S1-2026-PENTA-Monthly-test.pdf,Kiswahili-S1-2026-PENTA-Monthly-test-AnswerKey.pdf,Kiswahili,Standard 1,2026,PENTA,33,214687
+Kiswahili-S2-2026-MESP-Tanzania-March-Midterm-exam.pdf,Kiswahili-S2-2026-MESP-Tanzania-March-Midterm-exam-AnswerKey.pdf,Kiswahili,Standard 2,2026,MESP Tanzania,50,539302
+Kiswahili-S3-2026-Arusha-region-May-Terminal-exam.pdf,Kiswahili-S3-2026-Arusha-region-May-Terminal-exam-AnswerKey.pdf,Kiswahili,Standard 3,2026,Arusha region,25,56021
+Kiswahili-S3-2026-Nyegezi-Primary-School-May-Terminal-exam.pdf,Kiswahili-S3-2026-Nyegezi-Primary-School-May-Terminal-exam-AnswerKey.pdf,Kiswahili,Standard 3,2026,Nyegezi Primary School,30,102922
+Kiswahili-S5-2026-Arusha-region-May-Terminal-exam.pdf,Kiswahili-S5-2026-Arusha-region-May-Terminal-exam-AnswerKey.pdf,Kiswahili,Standard 5,2026,Arusha region,35,61203
+Kiswahili-S6-2026-Arusha-region-May-Terminal-exam.pdf,Kiswahili-S6-2026-Arusha-region-May-Terminal-exam-AnswerKey.pdf,Kiswahili,Standard 6,2026,Arusha region,31,61221
+Mathematics-S1-2026-MESP-Tanzania-March-Midterm-exam.pdf,Mathematics-S1-2026-MESP-Tanzania-March-Midterm-exam-AnswerKey.pdf,Mathematics,Standard 1,2026,MESP Tanzania,33,55016
+Mathematics-S2-2026-MESP-Tanzania-March-Midterm-exam.pdf,Mathematics-S2-2026-MESP-Tanzania-March-Midterm-exam-AnswerKey.pdf,Mathematics,Standard 2,2026,MESP Tanzania,50,60610
+Mathematics-S3-2026-Arusha-region-May-Terminal-exam.pdf,Mathematics-S3-2026-Arusha-region-May-Terminal-exam-AnswerKey.pdf,Mathematics,Standard 3,2026,Arusha region,25,54434
+Mathematics-S3-2026-Nyegezi-Primary-School-May-Terminal-exam.pdf,Mathematics-S3-2026-Nyegezi-Primary-School-May-Terminal-exam-AnswerKey.pdf,Mathematics,Standard 3,2026,Nyegezi Primary School,25,53899
+Mathematics-S5-2026-Arusha-region-May-Terminal-exam.pdf,Mathematics-S5-2026-Arusha-region-May-Terminal-exam-AnswerKey.pdf,Mathematics,Standard 5,2026,Arusha region,33,56226
+Mathematics-S6-2026-Arusha-region-May-Terminal-exam.pdf,Mathematics-S6-2026-Arusha-region-May-Terminal-exam-AnswerKey.pdf,Mathematics,Standard 6,2026,Arusha region,33,61292
+BasicMath-F2-2025.pdf,BasicMath-F2-2025-AnswerKey.pdf,Basic Mathematics,Form 2,2025,NECTA,24,78899
+BasicMath-F4-2025.pdf,BasicMath-F4-2025-AnswerKey.pdf,Basic Mathematics,Form 4,2025,NECTA,33,109941
+English-F2-2025.pdf,English-F2-2025-AnswerKey.pdf,English,Form 2,2025,NECTA,66,78229
+English-F4-2025.pdf,English-F4-2025-AnswerKey.pdf,English,Form 4,2025,NECTA,59,75088
+English-S1-2025-Darasa-Huru-Joint-assessment.pdf,English-S1-2025-Darasa-Huru-Joint-assessment-AnswerKey.pdf,English,Standard 1,2025,Darasa Huru,25,55954
+English-S2-2025-Mbeya-region-February-Practice-assessment.pdf,English-S2-2025-Mbeya-region-February-Practice-assessment-AnswerKey.pdf,English,Standard 2,2025,Mbeya region,17,54262
+English-S2-2025-Mbeya-region-May-Practice-assessment.pdf,English-S2-2025-Mbeya-region-May-Practice-assessment-AnswerKey.pdf,English,Standard 2,2025,Mbeya region,17,54320
+English-S2-2025-PENTA-January-Monthly-test.pdf,English-S2-2025-PENTA-January-Monthly-test-AnswerKey.pdf,English,Standard 2,2025,PENTA,25,55390
+English-S3-2025-Nsunga-Primary-School-November-Annual-exam.pdf,English-S3-2025-Nsunga-Primary-School-November-Annual-exam-AnswerKey.pdf,English,Standard 3,2025,Nsunga Primary School,25,54345
+English-S4-2025-Bariadi-DC-July-Pre-mock-exam.pdf,English-S4-2025-Bariadi-DC-July-Pre-mock-exam-AnswerKey.pdf,English,Standard 4,2025,Bariadi Town Council (UMEKTA),32,57947
+English-S4-2025-Chunya-DC-March-Practice-assessment.pdf,English-S4-2025-Chunya-DC-March-Practice-assessment-AnswerKey.pdf,English,Standard 4,2025,Chunya DC,25,54906
+English-S4-2025-Dar-es-Salaam-city-July-Mock-exam.pdf,English-S4-2025-Dar-es-Salaam-city-July-Mock-exam-AnswerKey.pdf,English,Standard 4,2025,Dar es Salaam city,32,58316
+English-S4-2025-KESS-July-Joint-assessment.pdf,English-S4-2025-KESS-July-Joint-assessment-AnswerKey.pdf,English,Standard 4,2025,KESS,32,58070
+English-S4-2025-Kibaha-TC-July-Mock-exam.pdf,English-S4-2025-Kibaha-TC-July-Mock-exam-AnswerKey.pdf,English,Standard 4,2025,Kibaha TC,37,60104
+English-S6-2025-Citizen-Primary-School-Practice-assessment.pdf,English-S6-2025-Citizen-Primary-School-Practice-assessment-AnswerKey.pdf,English,Standard 6,2025,Citizen Primary School,36,60265
+Kiswahili-F2-2025.pdf,Kiswahili-F2-2025-AnswerKey.pdf,Kiswahili,Form 2,2025,NECTA,64,68817
+Kiswahili-F4-2025.pdf,Kiswahili-F4-2025-AnswerKey.pdf,Kiswahili,Form 4,2025,NECTA,58,77029
+Kiswahili-S2-2025-Mbeya-region-May-Practice-assessment.pdf,Kiswahili-S2-2025-Mbeya-region-May-Practice-assessment-AnswerKey.pdf,Kiswahili,Standard 2,2025,Mbeya region,11,51374
+Kiswahili-S4-2025-Chunya-DC-March-Practice-assessment.pdf,Kiswahili-S4-2025-Chunya-DC-March-Practice-assessment-AnswerKey.pdf,Kiswahili,Standard 4,2025,Chunya DC,25,56778
+Kiswahili-S4-2025-Dar-es-Salaam-city-July-Mock-exam.pdf,Kiswahili-S4-2025-Dar-es-Salaam-city-July-Mock-exam-AnswerKey.pdf,Kiswahili,Standard 4,2025,Dar es Salaam city,30,57732
+Kiswahili-S4-2025-Dodoma-region-Mock-exam.pdf,Kiswahili-S4-2025-Dodoma-region-Mock-exam-AnswerKey.pdf,Kiswahili,Standard 4,2025,Dodoma region,25,55771
+Kiswahili-S4-2025-KESS-July-Joint-assessment.pdf,Kiswahili-S4-2025-KESS-July-Joint-assessment-AnswerKey.pdf,Kiswahili,Standard 4,2025,KESS,30,190701
+Kiswahili-S4-2025-Kibaha-TC-July-Mock-exam.pdf,Kiswahili-S4-2025-Kibaha-TC-July-Mock-exam-AnswerKey.pdf,Kiswahili,Standard 4,2025,Kibaha TC,30,58099
+Kiswahili-S6-2025-Citizen-Primary-School-Practice-assessment.pdf,Kiswahili-S6-2025-Citizen-Primary-School-Practice-assessment-AnswerKey.pdf,Kiswahili,Standard 6,2025,Citizen Primary School,35,62855
+Kiswahili-S6-2025-PENTA-August-Midterm-exam.pdf,Kiswahili-S6-2025-PENTA-August-Midterm-exam-AnswerKey.pdf,Kiswahili,Standard 6,2025,PENTA,35,63393
+Mathematics-S2-2025-Mbeya-region-February-Practice-assessment.pdf,Mathematics-S2-2025-Mbeya-region-February-Practice-assessment-AnswerKey.pdf,Mathematics,Standard 2,2025,Mbeya region,16,52811
+Mathematics-S2-2025-Mbeya-region-May-Practice-assessment.pdf,Mathematics-S2-2025-Mbeya-region-May-Practice-assessment-AnswerKey.pdf,Mathematics,Standard 2,2025,Mbeya region,16,53248
+Mathematics-S3-2025-Darasa-Huru-Annual-exam.pdf,Mathematics-S3-2025-Darasa-Huru-Annual-exam-AnswerKey.pdf,Mathematics,Standard 3,2025,Darasa Huru,25,54225
+Mathematics-S3-2025-Nsunga-Primary-School-November-Annual-exam.pdf,Mathematics-S3-2025-Nsunga-Primary-School-November-Annual-exam-AnswerKey.pdf,Mathematics,Standard 3,2025,Nsunga Primary School,25,54448
+Mathematics-S4-2025-Bariadi-DC-July-Pre-mock-exam.pdf,Mathematics-S4-2025-Bariadi-DC-July-Pre-mock-exam-AnswerKey.pdf,Mathematics,Standard 4,2025,Bariadi Town Council (UMEKTA),25,54782
+Mathematics-S4-2025-Chunya-DC-March-Practice-assessment.pdf,Mathematics-S4-2025-Chunya-DC-March-Practice-assessment-AnswerKey.pdf,Mathematics,Standard 4,2025,Chunya DC,25,55174
+Mathematics-S4-2025-Dar-es-Salaam-city-July-Mock-exam.pdf,Mathematics-S4-2025-Dar-es-Salaam-city-July-Mock-exam-AnswerKey.pdf,Mathematics,Standard 4,2025,Dar es Salaam city,25,56071
+Mathematics-S4-2025-Dodoma-region-January-Mock-exam.pdf,Mathematics-S4-2025-Dodoma-region-January-Mock-exam-AnswerKey.pdf,Mathematics,Standard 4,2025,Dodoma region,25,55432
+Mathematics-S4-2025-KESS-July-Joint-assessment.pdf,Mathematics-S4-2025-KESS-July-Joint-assessment-AnswerKey.pdf,Mathematics,Standard 4,2025,KESS,25,54572
+Mathematics-S4-2025-Kibaha-TC-July-Mock-exam.pdf,Mathematics-S4-2025-Kibaha-TC-July-Mock-exam-AnswerKey.pdf,Mathematics,Standard 4,2025,Kibaha TC,25,54916
+Mathematics-S6-2025-Moshi-DC-Terminal-exam.pdf,Mathematics-S6-2025-Moshi-DC-Terminal-exam-AnswerKey.pdf,Mathematics,Standard 6,2025,Moshi DC,33,61179
+BasicMath-F2-2024.pdf,BasicMath-F2-2024-AnswerKey.pdf,Basic Mathematics,Form 2,2024,NECTA,21,79336
+BasicMath-F4-2024.pdf,BasicMath-F4-2024-AnswerKey.pdf,Basic Mathematics,Form 4,2024,NECTA,40,146506
+English-F2-2024.pdf,English-F2-2024-AnswerKey.pdf,English,Form 2,2024,NECTA,52,68812
+English-F4-2024.pdf,English-F4-2024-AnswerKey.pdf,English,Form 4,2024,NECTA,60,73230
+English-S1-2024-MESP-Tanzania-August-Midterm-exam.pdf,English-S1-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey.pdf,English,Standard 1,2024,MESP Tanzania,25,57352
+English-S1-2024-MESP-Tanzania-February-Monthly-test.pdf,English-S1-2024-MESP-Tanzania-February-Monthly-test-AnswerKey.pdf,English,Standard 1,2024,MESP Tanzania,25,57172
+English-S1-2024-MESP-Tanzania-March-Midterm-exam.pdf,English-S1-2024-MESP-Tanzania-March-Midterm-exam-AnswerKey.pdf,English,Standard 1,2024,MESP Tanzania,25,55782
+English-S1-2024-MESP-Tanzania-November-Annual-exam.pdf,English-S1-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf,English,Standard 1,2024,MESP Tanzania,36,57974
+English-S2-2024-MESP-Tanzania-August-Midterm-exam.pdf,English-S2-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey.pdf,English,Standard 2,2024,MESP Tanzania,25,55794
+English-S2-2024-MESP-Tanzania-November-Annual-exam.pdf,English-S2-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf,English,Standard 2,2024,MESP Tanzania,15,53131
+English-S3-2024-Arusha-CC-November-Annual-exam.pdf,English-S3-2024-Arusha-CC-November-Annual-exam-AnswerKey.pdf,English,Standard 3,2024,Arusha CC,25,54726
+English-S3-2024-MESP-Tanzania-February-Monthly-test.pdf,English-S3-2024-MESP-Tanzania-February-Monthly-test-AnswerKey.pdf,English,Standard 3,2024,MESP Tanzania,33,58098
+English-S4-2024.pdf,English-S4-2024-AnswerKey.pdf,English,Standard 4,2024,NECTA,25,56640
+English-S5-2024-MESP-Tanzania-August-Midterm-exam.pdf,English-S5-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey.pdf,English,Standard 5,2024,MESP Tanzania,34,60187
+English-S5-2024-MESP-Tanzania-May-Terminal-exam.pdf,English-S5-2024-MESP-Tanzania-May-Terminal-exam-AnswerKey.pdf,English,Standard 5,2024,MESP Tanzania,35,58023
+English-S5-2024-MESP-Tanzania-November-Annual-exam.pdf,English-S5-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf,English,Standard 5,2024,MESP Tanzania,35,59917
+English-S5-2024-SPES-November-Annual-exam.pdf,English-S5-2024-SPES-November-Annual-exam-AnswerKey.pdf,English,Standard 5,2024,SPES,35,58562
+English-S5-2024-SPES-September-Monthly-test.pdf,English-S5-2024-SPES-September-Monthly-test-AnswerKey.pdf,English,Standard 5,2024,SPES,35,58566
+English-S5-2024-Sunland-Primary-School-May-Terminal-exam.pdf,English-S5-2024-Sunland-Primary-School-May-Terminal-exam-AnswerKey.pdf,English,Standard 5,2024,Sunland Primary School,35,60168
+English-S6-2024-MESP-Tanzania-August-Midterm-exam.pdf,English-S6-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey.pdf,English,Standard 6,2024,MESP Tanzania,35,60088
+English-S6-2024-MESP-Tanzania-May-Terminal-exam.pdf,English-S6-2024-MESP-Tanzania-May-Terminal-exam-AnswerKey.pdf,English,Standard 6,2024,MESP Tanzania,35,59484
+English-S6-2024-MESP-Tanzania-November-Annual-exam.pdf,English-S6-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf,English,Standard 6,2024,MESP Tanzania,35,60479
+English-S6-2024-SAP-September-Practice-assessment.pdf,English-S6-2024-SAP-September-Practice-assessment-AnswerKey.pdf,English,Standard 6,2024,SAP,35,60088
+English-S6-2024-SPES-September-Monthly-test.pdf,English-S6-2024-SPES-September-Monthly-test-AnswerKey.pdf,English,Standard 6,2024,SPES,35,59761
+English-S6-2024-Top-Abilities-November-Annual-exam.pdf,English-S6-2024-Top-Abilities-November-Annual-exam-AnswerKey.pdf,English,Standard 6,2024,Top Abilities,36,60485
+English-S7-2024.pdf,English-S7-2024-AnswerKey.pdf,English,Standard 7,2024,NECTA,35,61427
+Hisabati-S4-2024.pdf,Hisabati-S4-2024-AnswerKey.pdf,Hisabati,Standard 4,2024,NECTA,25,55484
+Hisabati-S7-2024.pdf,Hisabati-S7-2024-AnswerKey.pdf,Hisabati,Standard 7,2024,NECTA,33,63670
+Kiswahili-F2-2024.pdf,Kiswahili-F2-2024-AnswerKey.pdf,Kiswahili,Form 2,2024,NECTA,52,66017
+KISWAHILI-F4-2024.pdf,Kiswahili-F4-2024-AnswerKey.pdf,Kiswahili,Form 4,2024,NECTA,45,72709
+Kiswahili-S1-2024-MESP-Tanzania-August-Midterm-exam.pdf,Kiswahili-S1-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey.pdf,Kiswahili,Standard 1,2024,MESP Tanzania,26,55079
+Kiswahili-S1-2024-MESP-Tanzania-March-Midterm-exam.pdf,Kiswahili-S1-2024-MESP-Tanzania-March-Midterm-exam-AnswerKey.pdf,Kiswahili,Standard 1,2024,MESP Tanzania,25,57094
+Kiswahili-S1-2024-MESP-Tanzania-May-Midterm-exam.pdf,Kiswahili-S1-2024-MESP-Tanzania-May-Midterm-exam-AnswerKey.pdf,Kiswahili,Standard 1,2024,MESP Tanzania,25,54198
+Kiswahili-S1-2024-MESP-Tanzania-November-Annual-exam.pdf,Kiswahili-S1-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf,Kiswahili,Standard 1,2024,MESP Tanzania,35,219404
+Kiswahili-S1-2024-Top-Abilities-Practice-assessment.pdf,Kiswahili-S1-2024-Top-Abilities-Practice-assessment-AnswerKey.pdf,Kiswahili,Standard 1,2024,Top Abilities,30,408146
+Kiswahili-S2-2024-MESP-Tanzania-August-Midterm-exam.pdf,Kiswahili-S2-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey.pdf,Kiswahili,Standard 2,2024,MESP Tanzania,25,56567
+Kiswahili-S2-2024-MESP-Tanzania-February-Monthly-test.pdf,Kiswahili-S2-2024-MESP-Tanzania-February-Monthly-test-AnswerKey.pdf,Kiswahili,Standard 2,2024,MESP Tanzania,25,199889
+Kiswahili-S2-2024-MESP-Tanzania-November-Annual-exam.pdf,Kiswahili-S2-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf,Kiswahili,Standard 2,2024,MESP Tanzania,50,64440
+Kiswahili-S3-2024-Arusha-CC-November-Annual-exam.pdf,Kiswahili-S3-2024-Arusha-CC-November-Annual-exam-AnswerKey.pdf,Kiswahili,Standard 3,2024,Arusha CC,25,55866
+Kiswahili-S3-2024-Malinyi-DC-Annual-exam.pdf,Kiswahili-S3-2024-Malinyi-DC-Annual-exam-AnswerKey.pdf,Kiswahili,Standard 3,2024,Malinyi DC,25,56053
+Kiswahili-S3-2024-MESP-Tanzania-February-Monthly-test.pdf,Kiswahili-S3-2024-MESP-Tanzania-February-Monthly-test-AnswerKey.pdf,Kiswahili,Standard 3,2024,MESP Tanzania,33,60062
+Kiswahili-S4-2024.pdf,Kiswahili-S4-2024-AnswerKey.pdf,Kiswahili,Standard 4,2024,NECTA,25,57000
+Kiswahili-S5-2024-MESP-Tanzania-April-Monthly-test.pdf,Kiswahili-S5-2024-MESP-Tanzania-April-Monthly-test-AnswerKey.pdf,Kiswahili,Standard 5,2024,MESP Tanzania,30,57345
+Kiswahili-S5-2024-MESP-Tanzania-August-Midterm-exam.pdf,Kiswahili-S5-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey.pdf,Kiswahili,Standard 5,2024,MESP Tanzania,34,61262
+Kiswahili-S5-2024-MESP-Tanzania-May-Midterm-exam.pdf,Kiswahili-S5-2024-MESP-Tanzania-May-Midterm-exam-AnswerKey.pdf,Kiswahili,Standard 5,2024,MESP Tanzania,35,59537
+Kiswahili-S5-2024-MESP-Tanzania-November-Annual-exam.pdf,Kiswahili-S5-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf,Kiswahili,Standard 5,2024,MESP Tanzania,35,60136
+Kiswahili-S5-2024-Sunland-Primary-School-May-Midterm-exam.pdf,Kiswahili-S5-2024-Sunland-Primary-School-May-Midterm-exam-AnswerKey.pdf,Kiswahili,Standard 5,2024,Sunland Primary School,35,61124
+Kiswahili-S5-2024-VOPSO-April-Practice-assessment.pdf,Kiswahili-S5-2024-VOPSO-April-Practice-assessment-AnswerKey.pdf,Kiswahili,Standard 5,2024,VOPSO,35,61084
+Kiswahili-S6-2024-MESP-Tanzania-August-Midterm-exam.pdf,Kiswahili-S6-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey.pdf,Kiswahili,Standard 6,2024,MESP Tanzania,31,63448
+Kiswahili-S6-2024-MESP-Tanzania-May-Midterm-exam.pdf,Kiswahili-S6-2024-MESP-Tanzania-May-Midterm-exam-AnswerKey.pdf,Kiswahili,Standard 6,2024,MESP Tanzania,35,63237
+Kiswahili-S6-2024-MESP-Tanzania-November-Annual-exam.pdf,Kiswahili-S6-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf,Kiswahili,Standard 6,2024,MESP Tanzania,35,62934
+Kiswahili-S6-2024-SAP-September-Practice-assessment.pdf,Kiswahili-S6-2024-SAP-September-Practice-assessment-AnswerKey.pdf,Kiswahili,Standard 6,2024,SAP,35,63166
+Kiswahili-S6-2024-Top-Abilities-Joint-assessment.pdf,Kiswahili-S6-2024-Top-Abilities-Joint-assessment-AnswerKey.pdf,Kiswahili,Standard 6,2024,Top Abilities,32,63495
+Kiswahili-S6-2024-VOPSO-April-Practice-assessment.pdf,Kiswahili-S6-2024-VOPSO-April-Practice-assessment-AnswerKey.pdf,Kiswahili,Standard 6,2024,VOPSO,35,64713
+Kiswahili-S7-2024.pdf,Kiswahili-S7-2024-AnswerKey.pdf,Kiswahili,Standard 7,2024,NECTA,31,59339
+Mathematics-S1-2024-MESP-Tanzania-August-Midterm-exam.pdf,Mathematics-S1-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey.pdf,Mathematics,Standard 1,2024,MESP Tanzania,25,53595
+Mathematics-S1-2024-MESP-Tanzania-March-Midterm-exam.pdf,Mathematics-S1-2024-MESP-Tanzania-March-Midterm-exam-AnswerKey.pdf,Mathematics,Standard 1,2024,MESP Tanzania,25,180582
+Mathematics-S1-2024-MESP-Tanzania-May-Terminal-exam.pdf,Mathematics-S1-2024-MESP-Tanzania-May-Terminal-exam-AnswerKey.pdf,Mathematics,Standard 1,2024,MESP Tanzania,25,53718
+Mathematics-S1-2024-MESP-Tanzania-November-Annual-exam.pdf,Mathematics-S1-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf,Mathematics,Standard 1,2024,MESP Tanzania,50,168043
+Mathematics-S2-2024-MESP-Tanzania-August-Midterm-exam.pdf,Mathematics-S2-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey.pdf,Mathematics,Standard 2,2024,MESP Tanzania,25,64451
+Mathematics-S2-2024-MESP-Tanzania-November-Annual-exam.pdf,Mathematics-S2-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf,Mathematics,Standard 2,2024,MESP Tanzania,50,61210
+Mathematics-S3-2024-Arusha-CC-November-Annual-exam.pdf,Mathematics-S3-2024-Arusha-CC-November-Annual-exam-AnswerKey.pdf,Mathematics,Standard 3,2024,Arusha CC,26,55154
+Mathematics-S3-2024-Malinyi-DC-November-Annual-exam.pdf,Mathematics-S3-2024-Malinyi-DC-November-Annual-exam-AnswerKey.pdf,Mathematics,Standard 3,2024,Malinyi DC,25,53925
+Mathematics-S4-2024.pdf,Mathematics-S4-2024-AnswerKey.pdf,Mathematics,Standard 4,2024,NECTA,25,55430
+Mathematics-S5-2024-HEAGTON-July-Monthly-test.pdf,Mathematics-S5-2024-HEAGTON-July-Monthly-test-AnswerKey.pdf,Mathematics,Standard 5,2024,HEAGTON,33,57053
+Mathematics-S5-2024-KIPCO-Terminal-exam.pdf,Mathematics-S5-2024-KIPCO-Terminal-exam-AnswerKey.pdf,Mathematics,Standard 5,2024,KIPCO,33,59331
+Mathematics-S5-2024-MESP-Tanzania-April-Monthly-test.pdf,Mathematics-S5-2024-MESP-Tanzania-April-Monthly-test-AnswerKey.pdf,Mathematics,Standard 5,2024,MESP Tanzania,32,57601
+Mathematics-S5-2024-MESP-Tanzania-May-Terminal-exam.pdf,Mathematics-S5-2024-MESP-Tanzania-May-Terminal-exam-AnswerKey.pdf,Mathematics,Standard 5,2024,MESP Tanzania,30,57769
+Mathematics-S5-2024-MESP-Tanzania-November-Annual-exam.pdf,Mathematics-S5-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf,Mathematics,Standard 5,2024,MESP Tanzania,33,57163
+Mathematics-S5-2024-SPES-September-Monthly-test.pdf,Mathematics-S5-2024-SPES-September-Monthly-test-AnswerKey.pdf,Mathematics,Standard 5,2024,SPES,33,57828
+Mathematics-S6-2024-MESP-Tanzania-August-Midterm-exam.pdf,Mathematics-S6-2024-MESP-Tanzania-August-Midterm-exam-AnswerKey.pdf,Mathematics,Standard 6,2024,MESP Tanzania,33,57826
+Mathematics-S6-2024-MESP-Tanzania-May-Terminal-exam.pdf,Mathematics-S6-2024-MESP-Tanzania-May-Terminal-exam-AnswerKey.pdf,Mathematics,Standard 6,2024,MESP Tanzania,34,58593
+Mathematics-S6-2024-MESP-Tanzania-November-Annual-exam.pdf,Mathematics-S6-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf,Mathematics,Standard 6,2024,MESP Tanzania,33,58096
+Mathematics-S6-2024-SAP-September-Practice-assessment.pdf,Mathematics-S6-2024-SAP-September-Practice-assessment-AnswerKey.pdf,Mathematics,Standard 6,2024,SAP,33,58652
+Mathematics-S6-2024-SPES-September-Monthly-test.pdf,Mathematics-S6-2024-SPES-September-Monthly-test-AnswerKey.pdf,Mathematics,Standard 6,2024,SPES,33,58854
+Mathematics-S6-2024-Top-Abilities-November-Annual-exam.pdf,Mathematics-S6-2024-Top-Abilities-November-Annual-exam-AnswerKey.pdf,Mathematics,Standard 6,2024,Top Abilities,33,61754
+Mathematics-S6-2024-VOPSO-April-Practice-assessment.pdf,Mathematics-S6-2024-VOPSO-April-Practice-assessment-AnswerKey.pdf,Mathematics,Standard 6,2024,VOPSO,33,60556
+BasicMath-F2-2023.pdf,BasicMath-F2-2023-AnswerKey.pdf,Basic Mathematics,Form 2,2023,NECTA,23,88277
+BasicMath-F4-2023.pdf,BasicMath-F4-2023-AnswerKey.pdf,Basic Mathematics,Form 4,2023,NECTA,39,332350
+English-F2-2023.pdf,English-F2-2023-AnswerKey.pdf,English,Form 2,2023,NECTA,53,69571
+English-F4-2023.pdf,English-F4-2023-AnswerKey.pdf,English,Form 4,2023,NECTA,53,75241
+English-S2-2023-Mbezi-Bwa-January-Monthly-test.pdf,English-S2-2023-Mbezi-Bwa-January-Monthly-test-AnswerKey.pdf,English,Standard 2,2023,Mbezi Bwa,50,65013
+English-S4-2023.pdf,English-S4-2023-AnswerKey.pdf,English,Standard 4,2023,NECTA,25,56628
+English-S5-2023-Luqman-Primary-School-August-Midterm-exam.pdf,English-S5-2023-Luqman-Primary-School-August-Midterm-exam-AnswerKey.pdf,English,Standard 5,2023,Luqman Primary School,45,64757
+English-S7-2023.pdf,English-S7-2023-AnswerKey.pdf,English,Standard 7,2023,NECTA,45,63063
+Hisabati-S4-2023.pdf,Hisabati-S4-2023-AnswerKey.pdf,Hisabati,Standard 4,2023,NECTA,25,54262
+Hisabati-S7-2023.pdf,Hisabati-S7-2023-AnswerKey.pdf,Hisabati,Standard 7,2023,NECTA,45,66695
+Kiswahili-F2-2023.pdf,Kiswahili-F2-2023-AnswerKey.pdf,Kiswahili,Form 2,2023,NECTA,54,65265
+Kiswahili-F4-2023.pdf,Kiswahili-F4-2023-AnswerKey.pdf,Kiswahili,Form 4,2023,NECTA,57,78819
+Kiswahili-S2-2023-Luqman-Primary-School-August-Midterm-exam.pdf,Kiswahili-S2-2023-Luqman-Primary-School-August-Midterm-exam-AnswerKey.pdf,Kiswahili,Standard 2,2023,Luqman Primary School,99,81627
+Kiswahili-S2-2023-Mbezi-Bwa-January-Monthly-test.pdf,Kiswahili-S2-2023-Mbezi-Bwa-January-Monthly-test-AnswerKey.pdf,Kiswahili,Standard 2,2023,Mbezi Bwa,50,66430
+Kiswahili-S3-2023-Luqman-Primary-School-August-Midterm-exam.pdf,Kiswahili-S3-2023-Luqman-Primary-School-August-Midterm-exam-AnswerKey.pdf,Kiswahili,Standard 3,2023,Luqman Primary School,25,56633
+Kiswahili-S4-2023.pdf,Kiswahili-S4-2023-AnswerKey.pdf,Kiswahili,Standard 4,2023,NECTA,27,57049
+Kiswahili-S5-2023-Luqman-Primary-School-August-Midterm-exam.pdf,Kiswahili-S5-2023-Luqman-Primary-School-August-Midterm-exam-AnswerKey.pdf,Kiswahili,Standard 5,2023,Luqman Primary School,45,63860
+Kiswahili-S7-2023.pdf,Kiswahili-S7-2023-AnswerKey.pdf,Kiswahili,Standard 7,2023,NECTA,45,62516
+Mathematics-S1-2023-SHONZA-July-Practice-assessment.pdf,Mathematics-S1-2023-SHONZA-July-Practice-assessment-AnswerKey.pdf,Mathematics,Standard 1,2023,SHONZA,35,57009
+Mathematics-S2-2023-Luqman-Primary-School-August-Midterm-exam.pdf,Mathematics-S2-2023-Luqman-Primary-School-August-Midterm-exam-AnswerKey.pdf,Mathematics,Standard 2,2023,Luqman Primary School,25,54682
+Mathematics-S2-2023-Mbezi-Bwa-January-Monthly-test.pdf,Mathematics-S2-2023-Mbezi-Bwa-January-Monthly-test-AnswerKey.pdf,Mathematics,Standard 2,2023,Mbezi Bwa,25,54129
+Mathematics-S4-2023.pdf,Mathematics-S4-2023-AnswerKey.pdf,Mathematics,Standard 4,2023,NECTA,25,55439
+Mathematics-S5-2023-Brainmaster-Tanzania-July-Monthly-test.pdf,Mathematics-S5-2023-Brainmaster-Tanzania-July-Monthly-test-AnswerKey.pdf,Mathematics,Standard 5,2023,Brainmaster Tanzania,47,62808
+BasicMath-F2-2022.pdf,BasicMath-F2-2022-AnswerKey.pdf,Basic Mathematics,Form 2,2022,NECTA,39,185014
+BasicMath-F4-2022.pdf,BasicMath-F4-2022-AnswerKey.pdf,Basic Mathematics,Form 4,2022,NECTA,40,149036
+English-F2-2022.pdf,English-F2-2022-AnswerKey.pdf,English,Form 2,2022,NECTA,53,69218
+English-F4-2022.pdf,English-F4-2022-AnswerKey.pdf,English,Form 4,2022,NECTA,60,77766
+English-S1-2022-Iramba-DC-July-Terminal-exam.pdf,English-S1-2022-Iramba-DC-July-Terminal-exam-AnswerKey.pdf,English,Standard 1,2022,Iramba DC,40,59976
+English-S1-2022-MAP-July-Holiday-practice.pdf,English-S1-2022-MAP-July-Holiday-practice-AnswerKey.pdf,English,Standard 1,2022,MAP,136,89279
+English-S1-2022-Utu-Live-Primary-School-July-Terminal-exam.pdf,English-S1-2022-Utu-Live-Primary-School-July-Terminal-exam-AnswerKey.pdf,English,Standard 1,2022,Utu-Live Primary School,25,55961
+English-S2-2022-Iramba-DC-July-Terminal-exam.pdf,English-S2-2022-Iramba-DC-July-Terminal-exam-AnswerKey.pdf,English,Standard 2,2022,Iramba DC,40,60018
+English-S2-2022-MAP-July-Holiday-practice.pdf,English-S2-2022-MAP-July-Holiday-practice-AnswerKey.pdf,English,Standard 2,2022,MAP,104,83957
+English-S3-2022-MAP-July-Holiday-practice.pdf,English-S3-2022-MAP-July-Holiday-practice-AnswerKey.pdf,English,Standard 3,2022,MAP,50,64321
+English-S3-2022-PEPS-Tanzania-June-Monthly-test.pdf,English-S3-2022-PEPS-Tanzania-June-Monthly-test-AnswerKey.pdf,English,Standard 3,2022,PEPS Tanzania,25,57329
+English-S3-2022-School-assessment-November-Practice-assessment.pdf,English-S3-2022-School-assessment-November-Practice-assessment-AnswerKey.pdf,English,Standard 3,2022,School assessment,50,65876
+English-S4-2022.pdf,English-S4-2022-AnswerKey.pdf,English,Standard 4,2022,NECTA,26,58439
+English-S5-2022-Iramba-DC-July-Terminal-exam.pdf,English-S5-2022-Iramba-DC-July-Terminal-exam-AnswerKey.pdf,English,Standard 5,2022,Iramba DC,33,57560
+English-S6-2022-Mufindi-DC-November-Annual-exam.pdf,English-S6-2022-Mufindi-DC-November-Annual-exam-AnswerKey.pdf,English,Standard 6,2022,Mufindi DC,44,62989
+English-S7-2022.pdf,English-S7-2022-AnswerKey.pdf,English,Standard 7,2022,NECTA,45,62588
+Hisabati-S4-2022.pdf,Hisabati-S4-2022-AnswerKey.pdf,Hisabati,Standard 4,2022,NECTA,25,55680
+Hisabati-S7-2022.pdf,Hisabati-S7-2022-AnswerKey.pdf,Hisabati,Standard 7,2022,NECTA,45,67492
+Kiswahili-F2-2022.pdf,Kiswahili-F2-2022-AnswerKey.pdf,Kiswahili,Form 2,2022,NECTA,55,67421
+Kiswahili-F4-2022.pdf,Kiswahili-F4-2022-AnswerKey.pdf,Kiswahili,Form 4,2022,NECTA,34,71247
+Kiswahili-S1-2022-Iramba-DC-July-Terminal-exam.pdf,Kiswahili-S1-2022-Iramba-DC-July-Terminal-exam-AnswerKey.pdf,Kiswahili,Standard 1,2022,Iramba DC,40,182825
+Kiswahili-S1-2022-MAP-July-Holiday-practice.pdf,Kiswahili-S1-2022-MAP-July-Holiday-practice-AnswerKey.pdf,Kiswahili,Standard 1,2022,MAP,70,248086
+Kiswahili-S2-2022-Iramba-DC-July-Terminal-exam.pdf,Kiswahili-S2-2022-Iramba-DC-July-Terminal-exam-AnswerKey.pdf,Kiswahili,Standard 2,2022,Iramba DC,40,210906
+Kiswahili-S2-2022-MAP-July-Holiday-practice.pdf,Kiswahili-S2-2022-MAP-July-Holiday-practice-AnswerKey.pdf,Kiswahili,Standard 2,2022,MAP,46,64435
+Kiswahili-S3-2022-MAP-July-Holiday-practice.pdf,Kiswahili-S3-2022-MAP-July-Holiday-practice-AnswerKey.pdf,Kiswahili,Standard 3,2022,MAP,51,67738
+Kiswahili-S4-2022.pdf,Kiswahili-S4-2022-AnswerKey.pdf,Kiswahili,Standard 4,2022,NECTA,25,57306
+Kiswahili-S5-2022-Iramba-DC-July-Terminal-exam.pdf,Kiswahili-S5-2022-Iramba-DC-July-Terminal-exam-AnswerKey.pdf,Kiswahili,Standard 5,2022,Iramba DC,45,63179
+Kiswahili-S7-2022.pdf,Kiswahili-S7-2022-AnswerKey.pdf,Kiswahili,Standard 7,2022,NECTA,45,62499
+Mathematics-S1-2022-Iramba-DC-July-Terminal-exam.pdf,Mathematics-S1-2022-Iramba-DC-July-Terminal-exam-AnswerKey.pdf,Mathematics,Standard 1,2022,Iramba DC,122,268418
+Mathematics-S1-2022-MAP-July-Holiday-practice.pdf,Mathematics-S1-2022-MAP-July-Holiday-practice-AnswerKey.pdf,Mathematics,Standard 1,2022,MAP,50,533338
+Mathematics-S1-2022-Utu-Live-Primary-School-July-Terminal-exam.pdf,Mathematics-S1-2022-Utu-Live-Primary-School-July-Terminal-exam-AnswerKey.pdf,Mathematics,Standard 1,2022,Utu-Live Primary School,22,53698
+Mathematics-S2-2022-Iramba-DC-July-Terminal-exam.pdf,Mathematics-S2-2022-Iramba-DC-July-Terminal-exam-AnswerKey.pdf,Mathematics,Standard 2,2022,Iramba DC,120,236674
+Mathematics-S2-2022-MAP-July-Holiday-practice.pdf,Mathematics-S2-2022-MAP-July-Holiday-practice-AnswerKey.pdf,Mathematics,Standard 2,2022,MAP,52,332228
+Mathematics-S3-2022-Iramba-DC-July-Terminal-exam.pdf,Mathematics-S3-2022-Iramba-DC-July-Terminal-exam-AnswerKey.pdf,Mathematics,Standard 3,2022,Iramba DC,25,54333
+Mathematics-S3-2022-MAP-July-Holiday-practice.pdf,Mathematics-S3-2022-MAP-July-Holiday-practice-AnswerKey.pdf,Mathematics,Standard 3,2022,MAP,51,203372
+Mathematics-S4-2022.pdf,Mathematics-S4-2022-AnswerKey.pdf,Mathematics,Standard 4,2022,NECTA,25,55849
+Mathematics-S5-2022-Iramba-DC-July-Terminal-exam.pdf,Mathematics-S5-2022-Iramba-DC-July-Terminal-exam-AnswerKey.pdf,Mathematics,Standard 5,2022,Iramba DC,90,75183
+BasicMath-F2-2021.pdf,BasicMath-F2-2021-AnswerKey.pdf,Basic Mathematics,Form 2,2021,NECTA,28,163565
+BasicMath-F4-2021.pdf,BasicMath-F4-2021-AnswerKey.pdf,Basic Mathematics,Form 4,2021,NECTA,38,114447
+English-F2-2021.pdf,English-F2-2021-AnswerKey.pdf,English,Form 2,2021,NECTA,60,72220
+English-F4-2021.pdf,English-F4-2021-AnswerKey.pdf,English,Form 4,2021,NECTA,52,75314
+English-S4-2021.pdf,English-S4-2021-AnswerKey.pdf,English,Standard 4,2021,NECTA,25,57319
+English-S7-2021.pdf,English-S7-2021-AnswerKey.pdf,English,Standard 7,2021,NECTA,45,62873
+Hisabati-S4-2021.pdf,Hisabati-S4-2021-AnswerKey.pdf,Hisabati,Standard 4,2021,NECTA,25,55829
+Kiswahili-F2-2021.pdf,Kiswahili-F2-2021-AnswerKey.pdf,Kiswahili,Form 2,2021,NECTA,47,66423
+Kiswahili-F4-2021.pdf,Kiswahili-F4-2021-AnswerKey.pdf,Kiswahili,Form 4,2021,NECTA,35,72842
+Kiswahili-S4-2021.pdf,Kiswahili-S4-2021-AnswerKey.pdf,Kiswahili,Standard 4,2021,NECTA,25,57346
+Kiswahili-S7-2021.pdf,Kiswahili-S7-2021-AnswerKey.pdf,Kiswahili,Standard 7,2021,NECTA,45,64254
+Mathematics-S4-2021.pdf,Mathematics-S4-2021-AnswerKey.pdf,Mathematics,Standard 4,2021,NECTA,25,56052
+Mathematics-S7-2021.pdf,Mathematics-S7-2021-AnswerKey.pdf,Mathematics,Standard 7,2021,NECTA,45,66432
+Mathematics-S4-2020.pdf,Mathematics-S4-2020-AnswerKey.pdf,Mathematics,Standard 4,2020,NECTA,25,55507
+English - S7 - 2016.pdf,English-S7-2016-AnswerKey.pdf,English,Standard 7,2016,NECTA,0,64553

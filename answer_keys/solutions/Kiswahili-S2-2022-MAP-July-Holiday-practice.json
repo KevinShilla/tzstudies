@@ -1,0 +1,593 @@
+{
+  "exam": "Kiswahili-S2-2022-MAP-July-Holiday-practice.pdf",
+  "output": "Kiswahili-S2-2022-MAP-July-Holiday-practice-AnswerKey.pdf",
+  "sha256": "96c97860b9d0949a0ca7e8004046dd5f48d464c01590a40541194130fb9319c5",
+  "subject": "Kiswahili",
+  "level": "Standard Two",
+  "year": "2022",
+  "code": "Not printed in source",
+  "board": "MAP",
+  "exam_type": "Holiday practice - July",
+  "question_count": "Vipengele 46 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "F-habari"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 1.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "2",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 2.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "3",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 3.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "4",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 4.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "5",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 5.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "6",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 6.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "7",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 7.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "8",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 8.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "9",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 9.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "10",
+      "section": "Imla",
+      "prompt": "Sikiliza na uandike kipengele cha imla 10.",
+      "steps": [
+        "Sikiliza mwalimu mpaka mwisho kabla ya kuandika.",
+        "Andika maneno uliyosikia; hakiki tahajia, nafasi, herufi kubwa na alama za mwisho."
+      ],
+      "answer": "Jibu hutegemea maneno au sentensi zitakazosomwa na mwalimu; maandishi hayo hayamo katika karatasi hii.",
+      "source_page": 2
+    },
+    {
+      "id": "11",
+      "section": "Msamiati na matumizi ya lugha",
+      "prompt": "Mzazi wa kike wa mama au baba yako huitwaje? A Nyanya, B kitunguu, C mapera, D babu.",
+      "steps": [
+        "Nyanya ni mama wa mzazi wako.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Nyanya.",
+      "source_page": 2
+    },
+    {
+      "id": "12",
+      "section": "Msamiati na matumizi ya lugha",
+      "prompt": "Mahali pa wanafunzi kupata elimu huitwaje? A shule, B hospitali, C wodini, D ofisini.",
+      "steps": [
+        "Shule ndiyo mahali pa kujifunza.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A - Shule.",
+      "source_page": 2
+    },
+    {
+      "id": "13",
+      "section": "Msamiati na matumizi ya lugha",
+      "prompt": "Wingi wa kuku ni upi? A vyuku, B mikuku, C makuku, D kuku.",
+      "steps": [
+        "Neno kuku halibadili umbo katika wingi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D - Kuku.",
+      "source_page": 2
+    },
+    {
+      "id": "14",
+      "section": "Msamiati na matumizi ya lugha",
+      "prompt": "Mti unaozaa mapera huitwaje? A mapera, B mpera, C vipera, D mti.",
+      "steps": [
+        "Tunda ni pera; mti wake ni mpera.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B - Mpera.",
+      "source_page": 2
+    },
+    {
+      "id": "15",
+      "section": "Msamiati na matumizi ya lugha",
+      "prompt": "Siku inayofuata leo huitwaje? A keshokutwa, B juzi, C kesho, D Jumapili.",
+      "steps": [
+        "Kesho ni siku baada ya leo; keshokutwa ni siku baada ya kesho.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C - Kesho.",
+      "source_page": 2
+    },
+    {
+      "id": "16",
+      "section": "Msamiati na matumizi ya lugha",
+      "prompt": "Watoto wanakunywa uji ____ kikombe (kwa, na).",
+      "steps": [
+        "Kwa huonyesha chombo cha kunywea.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Kwa.",
+      "source_page": 2
+    },
+    {
+      "id": "17",
+      "section": "Msamiati na matumizi ya lugha",
+      "prompt": "Juma lina siku ____ (sita, saba).",
+      "steps": [
+        "Hesabu Jumatatu hadi Jumapili: siku saba.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Saba.",
+      "source_page": 2
+    },
+    {
+      "id": "18",
+      "section": "Msamiati na matumizi ya lugha",
+      "prompt": "Kuku wapo kwenye ____ lao (banda, nyumba).",
+      "steps": [
+        "Makazi ya kuku huitwa banda.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Banda.",
+      "source_page": 2
+    },
+    {
+      "id": "19",
+      "section": "Msamiati na matumizi ya lugha",
+      "prompt": "Punda, ng’ombe na paka ni ____ (wanyama, ndege).",
+      "steps": [
+        "Hawa ni wanyama wa kufugwa, si ndege.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Wanyama.",
+      "source_page": 2
+    },
+    {
+      "id": "20",
+      "section": "Msamiati na matumizi ya lugha",
+      "prompt": "Umoja wa vyumba ni ____ (nyumba, chumba).",
+      "steps": [
+        "Badili kiambishi vy- cha wingi kuwa ch- katika chumba.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Chumba.",
+      "source_page": 2
+    },
+    {
+      "id": "21",
+      "section": "Fasihi na alama za uandishi",
+      "prompt": "Haba na haba ____ (hujaza kibaba, hujaza kisoda).",
+      "steps": [
+        "Vitu vidogo vikikusanywa huwa vingi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Hujaza kibaba.",
+      "source_page": 3
+    },
+    {
+      "id": "22",
+      "section": "Fasihi na alama za uandishi",
+      "prompt": "Popoo mbili zavuka mto (meno, macho).",
+      "steps": [
+        "Macho mawili yapo pande mbili za pua kama popo kuvuka mto.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Macho.",
+      "source_page": 3
+    },
+    {
+      "id": "23",
+      "section": "Fasihi na alama za uandishi",
+      "prompt": "Bwana afya wa porini (fisi, kobe).",
+      "steps": [
+        "Fisi hula mizoga; kitendawili humfananisha na msafishaji wa porini.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Fisi.",
+      "source_page": 3
+    },
+    {
+      "id": "24",
+      "section": "Fasihi na alama za uandishi",
+      "prompt": "____ ndivyo akuavyo (mtoto umleavyo, mtoto alivyo).",
+      "steps": [
+        "Malezi ya mtoto huathiri ukuaji na tabia yake.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mtoto umleavyo.",
+      "source_page": 3
+    },
+    {
+      "id": "25",
+      "section": "Fasihi na alama za uandishi",
+      "prompt": "Kila utupacho wewe kwake ni dhahabu (nzi, nge).",
+      "steps": [
+        "Nzi huvutiwa na taka na mabaki yanayotupwa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Nzi.",
+      "source_page": 3
+    },
+    {
+      "id": "26",
+      "section": "Fasihi na alama za uandishi",
+      "prompt": "Popoo mbili zavuka mto (macho, pua).",
+      "steps": [
+        "Macho mawili yako pande za pua.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Macho.",
+      "source_page": 3
+    },
+    {
+      "id": "27",
+      "section": "Fasihi na alama za uandishi",
+      "prompt": "Hana adabu wala staha kwa watu (utelezi, kamba).",
+      "steps": [
+        "Utelezi unaweza kumwangusha mtu yeyote bila kumheshimu.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Utelezi.",
+      "source_page": 3
+    },
+    {
+      "id": "28",
+      "section": "Fasihi na alama za uandishi",
+      "prompt": "Nyumba yangu haina mlango (yai, gari).",
+      "steps": [
+        "Ganda la yai limefunga kilichomo ndani bila mlango.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Yai.",
+      "source_page": 3
+    },
+    {
+      "id": "29",
+      "section": "Fasihi na alama za uandishi",
+      "prompt": "Weka alama: Wewe unaitwa nani____",
+      "steps": [
+        "Sentensi inauliza swali, hivyo weka kiulizo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Wewe unaitwa nani?",
+      "source_page": 3
+    },
+    {
+      "id": "30",
+      "section": "Fasihi na alama za uandishi",
+      "prompt": "Weka alama: Wanakula ugali kwa samaki____",
+      "steps": [
+        "Hii ni taarifa inayomalizwa kwa nukta.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Wanakula ugali kwa samaki.",
+      "source_page": 3
+    },
+    {
+      "id": "31",
+      "section": "Mpangilio",
+      "prompt": "Panga kwa herufi A-E: Ninakwenda shuleni.",
+      "steps": [
+        "Ni mwisho baada ya kuamka, kujiandaa, kula na kubeba begi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E",
+      "source_page": 3
+    },
+    {
+      "id": "32",
+      "section": "Mpangilio",
+      "prompt": "Panga kwa herufi A-E: Ninaamuka asubuhi na mapema.",
+      "steps": [
+        "Kuamka ndiko huanza maandalizi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A",
+      "source_page": 3
+    },
+    {
+      "id": "33",
+      "section": "Mpangilio",
+      "prompt": "Panga kwa herufi A-E: Ninapata kifungua kinywa.",
+      "steps": [
+        "Baada ya kuoga na kuvaa, mtoto anakula kabla ya kutoka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "C",
+      "source_page": 3
+    },
+    {
+      "id": "34",
+      "section": "Mpangilio",
+      "prompt": "Panga kwa herufi A-E: Ninaoga na kuvaa sare ya shule.",
+      "steps": [
+        "Hii hufuata kuamka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B",
+      "source_page": 3
+    },
+    {
+      "id": "35",
+      "section": "Mpangilio",
+      "prompt": "Panga kwa herufi A-E: Ninabeba begi langu la madaftari.",
+      "steps": [
+        "Begi hubebwa kabla ya kwenda shuleni.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "D",
+      "source_page": 3
+    },
+    {
+      "id": "36",
+      "section": "Kuandika",
+      "prompt": "Andika upya: Redio yetu ya mbao imeibiwa.",
+      "steps": [
+        "Angalia mpangilio wa herufi za Redio yetu ya mbao imeibiwa..",
+        "Nakili Redio yetu ya mbao imeibiwa. bila kuacha au kuongeza herufi; hakiki umbo na nafasi za herufi."
+      ],
+      "answer": "Redio yetu ya mbao imeibiwa.",
+      "source_page": 3
+    },
+    {
+      "id": "37",
+      "section": "Kuandika",
+      "prompt": "Andika upya: Ugonjwa wa Uviko-19.",
+      "steps": [
+        "Angalia mpangilio wa herufi za Ugonjwa wa Uviko-19..",
+        "Nakili Ugonjwa wa Uviko-19. bila kuacha au kuongeza herufi; hakiki umbo na nafasi za herufi."
+      ],
+      "answer": "Ugonjwa wa Uviko-19.",
+      "source_page": 4
+    },
+    {
+      "id": "38",
+      "section": "Kuandika",
+      "prompt": "Andika upya: Mzee Jumbe hana haja na thamani.",
+      "steps": [
+        "Angalia mpangilio wa herufi za Mzee Jumbe hana haja na thamani..",
+        "Nakili Mzee Jumbe hana haja na thamani. bila kuacha au kuongeza herufi; hakiki umbo na nafasi za herufi."
+      ],
+      "answer": "Mzee Jumbe hana haja na thamani.",
+      "source_page": 4
+    },
+    {
+      "id": "39",
+      "section": "Kuandika",
+      "prompt": "Andika upya: Utakuja lini kunitembelea?",
+      "steps": [
+        "Angalia mpangilio wa herufi za Utakuja lini kunitembelea?.",
+        "Nakili Utakuja lini kunitembelea? bila kuacha au kuongeza herufi; hakiki umbo na nafasi za herufi."
+      ],
+      "answer": "Utakuja lini kunitembelea?",
+      "source_page": 4
+    },
+    {
+      "id": "40",
+      "section": "Kuandika",
+      "prompt": "Andika upya: Samaki na nyama ni vitoweo.",
+      "steps": [
+        "Angalia mpangilio wa herufi za Samaki na nyama ni vitoweo..",
+        "Nakili Samaki na nyama ni vitoweo. bila kuacha au kuongeza herufi; hakiki umbo na nafasi za herufi."
+      ],
+      "answer": "Samaki na nyama ni vitoweo.",
+      "source_page": 4
+    },
+    {
+      "id": "41",
+      "section": "Ufahamu",
+      "prompt": "Andika idadi ya kondoo kwa maneno.",
+      "steps": [
+        "Habari inasema kondoo 30; 30 huandikwa thelathini.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Thelathini.",
+      "source_page": 4
+    },
+    {
+      "id": "42",
+      "section": "Ufahamu",
+      "prompt": "Mzee Mbuga ana wanyama wangapi?",
+      "steps": [
+        "Jumlisha wanyama hao: 30 + 120 = 150. Kware 80 ni ndege, na idadi ya bata haikutolewa.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Wanyama wa kufugwa waliotajwa kwa idadi ni 150 (kondoo 30 + mbuzi na ng’ombe 120).",
+      "source_page": 4,
+      "tip": "Kibiolojia ndege pia ni wanyama. Ukiwahesabu wote, jumla kamili haiwezi kujulikana kwa kuwa idadi ya bata haijatolewa."
+    },
+    {
+      "id": "43",
+      "section": "Ufahamu",
+      "prompt": "Mzee Mbuga huishi katika pori gani?",
+      "steps": [
+        "Pori la Jomile limetajwa katika sentensi ya mwanzo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Jomile.",
+      "source_page": 4
+    },
+    {
+      "id": "44",
+      "section": "Ufahamu",
+      "prompt": "Mke wa Mzee Mbuga anaitwaje?",
+      "steps": [
+        "Habari inasema mke wake Joromi hufanya kazi ya kusuka.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Joromi.",
+      "source_page": 4
+    },
+    {
+      "id": "45",
+      "section": "Ufahamu",
+      "prompt": "Neno kware lina silabi ngapi?",
+      "steps": [
+        "Gawanya neno kwenye vipande vinavyotamkwa: kwa na re.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mbili: kwa-re.",
+      "source_page": 4
+    },
+    {
+      "id": "F-habari",
+      "section": "Stadi za kusoma habari",
+      "prompt": "Soma sentensi: Amina ni mtoto wa kike wa pekee wa mama Dauzeni. Mtoto huyu anasoma darasa la pili katika shule ya Maendeleo mkoani Mwanza. Siku za Jumamosi na Jumapili huwasaidia wazazi wao kazi ndogondogo za nyumbani. Kaka yake Amina husoma darasa la sita. Baba yao ni mfugaji na mkulima. Mama yao ni muuguzi katika zahanati ya kijiji cha Maendeleo. Familia hii huishi kwa furaha na amani.",
+      "steps": [
+        "Soma kila neno kwa mpangilio unaoonekana katika sentensi.",
+        "Unganisha maneno kwa sauti ya kawaida; pumzika kwenye alama za uandishi."
+      ],
+      "answer": "Amina ni mtoto wa kike wa pekee wa mama Dauzeni. Mtoto huyu anasoma darasa la pili katika shule ya Maendeleo mkoani Mwanza. Siku za Jumamosi na Jumapili huwasaidia wazazi wao kazi ndogondogo za nyumbani. Kaka yake Amina husoma darasa la sita. Baba yao ni mfugaji na mkulima. Mama yao ni muuguzi katika zahanati ya kijiji cha Maendeleo. Familia hii huishi kwa furaha na amani.",
+      "source_page": 4,
+      "tip": "Huu ni mwongozo wa kusoma kwa sauti; alama zitegemee utendaji wa mwanafunzi."
+    }
+  ],
+  "summaries": {
+    "Imla": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Msamiati na matumizi ya lugha": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Fasihi na alama za uandishi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Mpangilio": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Kuandika": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Ufahamu": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Stadi za kusoma habari": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "Standard Two Exams | 2010 - 2023 | Monthly, Midterm, Terminal and Annual Exams - Download All Subjects - Msomi Bora",
+      "url": "https://www.msomibora.com/2024/03/standard-two-exams-2010-2023-monthly-midterm-terminal-and-annual-exams-download-all-subjects/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "Swali 42: 150 ni kondoo pamoja na mbuzi/ng’ombe. Idadi ya bata haijatajwa, hivyo jumla ya wanyama wote pamoja na ndege haiwezi kupatikana."
+  ],
+  "labelling_note": "Sehemu F ni kusoma kwa sauti bila maswali ya ufahamu; mwongozo wa habari nzima umejumuishwa.",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "815e7e9f5e2645559e1bde8bfe5eeb5c84bf3bcb41ef7d7e8cbb01f7af4bb136"
+}

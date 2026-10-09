@@ -1,0 +1,639 @@
+{
+  "exam": "Mathematics-S6-2024-VOPSO-April-Practice-assessment.pdf",
+  "output": "Mathematics-S6-2024-VOPSO-April-Practice-assessment-AnswerKey.pdf",
+  "sha256": "c59ed2c4811515aa921e91511a4d4e098bcf961111096ce848d32c3ccf729b76",
+  "subject": "Mathematics",
+  "level": "Standard Six",
+  "year": "2024",
+  "code": "02E",
+  "board": "VOPSO",
+  "exam_type": "First evaluation assessment - April",
+  "question_count": "33 numbered questions/subparts (8 main questions)",
+  "language": "en",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "1(vi)",
+    "1(vii)",
+    "1(viii)",
+    "1(ix)",
+    "1(x)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "2(vi)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "6(i)",
+    "6(ii)",
+    "6(iii)",
+    "7(i)",
+    "7(ii)",
+    "8(i)",
+    "8(ii)",
+    "8(iii)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate 99997 + 3.",
+      "steps": [
+        "1 place: 7 + 3 = 10; write 0, carry 1.",
+        "10 place: 9 + 0 + carry 1 = 10; write 0, carry 1.",
+        "100 place: 9 + 0 + carry 1 = 10; write 0, carry 1.",
+        "1000 place: 9 + 0 + carry 1 = 10; write 0, carry 1.",
+        "10000 place: 9 + 0 + carry 1 = 10; write 0, carry 1.",
+        "Write final carry 1 in the next place.",
+        "99997 + 3 = 100000."
+      ],
+      "answer": "100000",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "99997+3",
+          "expected": "100000"
+        }
+      ]
+    },
+    {
+      "id": "1(ii)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate 4590 - 98.",
+      "steps": [
+        "1 place: regroup 1 from the next place; 10 - 8 = 2.",
+        "10 place: regroup 1 from the next place; 18 - 9 = 9.",
+        "100 place: 4 - 0 = 4.",
+        "1000 place: 4 - 0 = 4.",
+        "4590 - 98 = 4492; check 4492 + 98 = 4590."
+      ],
+      "answer": "4492",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "4590-98",
+          "expected": "4492"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Subtract 12 from -15.",
+      "steps": [
+        "-15 - 12 means move 12 further units in the negative direction.",
+        "15 + 12 = 27, so -15 - 12 = -27."
+      ],
+      "answer": "-27",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "-15-12",
+          "expected": "-27"
+        }
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate -5 + 4.",
+      "steps": [
+        "The numbers have opposite signs; subtract their magnitudes: 5 - 4 = 1.",
+        "The greater magnitude belongs to -5, so the result is -1."
+      ],
+      "answer": "-1",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "-5+4",
+          "expected": "-1"
+        }
+      ]
+    },
+    {
+      "id": "1(v)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Calculate 7004 / 34.",
+      "steps": [
+        "70 / 34: write 2; 2 x 34 = 68; 70 - 68 = 2.",
+        "20 / 34: write 0; 0 x 34 = 0; 20 - 0 = 20.",
+        "204 / 34: write 6; 6 x 34 = 204; 204 - 204 = 0.",
+        "34 x 206 = 7004.",
+        "7004 / 34 = 206."
+      ],
+      "answer": "206",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "7004/34",
+          "expected": "206"
+        }
+      ]
+    },
+    {
+      "id": "1(vi)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Multiply 3 km 125 m by 8.",
+      "steps": [
+        "Convert to metres: 3 x 1000 + 125 = 3125 m.",
+        "3125 x 8 = 25000 m.",
+        "25000/1000 = 25 km."
+      ],
+      "answer": "25 km",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "3*1000+125",
+          "expected": "3125"
+        },
+        {
+          "expression": "3125*8",
+          "expected": "25000"
+        },
+        {
+          "expression": "25000/1000",
+          "expected": "25"
+        }
+      ]
+    },
+    {
+      "id": "1(vii)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Simplify 2 x + 3 y - x + 6 y.",
+      "steps": [
+        "Combine x terms: 2 x - x = (2 - 1)x = x.",
+        "Combine y terms: 3 y + 6 y = (3 + 6)y = 9 y.",
+        "Therefore the expression is x + 9 y."
+      ],
+      "answer": "x + 9 y",
+      "source_page": 2
+    },
+    {
+      "id": "1(viii)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "Find the sum of the total values of digits 3 and 4 in 560.34.",
+      "steps": [
+        "The value of 3 in the tenths place is 3/10 = 0.3.",
+        "The value of 4 in the hundredths place is 4/100 = 0.04.",
+        "0.3 + 0.04 = 0.34."
+      ],
+      "answer": "0.34",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "0.3+0.04",
+          "expected": "17/50"
+        }
+      ]
+    },
+    {
+      "id": "1(ix)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "What is the place value of the underlined digit 0 in 50814?",
+      "steps": [
+        "From right to left, the places are ones (4), tens (1), hundreds (8), thousands (0) and ten-thousands (5).",
+        "The underlined 0 is in the thousands place."
+      ],
+      "answer": "Thousands",
+      "source_page": 2
+    },
+    {
+      "id": "1(x)",
+      "section": "Section A: Mathematical operations",
+      "prompt": "A school has 362 pupils. Write 362 in Roman numerals.",
+      "steps": [
+        "362 = 300 + 60 + 2.",
+        "300 = CCC, 60 = LX and 2 = II.",
+        "Combine them: CCCLXII."
+      ],
+      "answer": "CCCLXII",
+      "source_page": 2
+    },
+    {
+      "id": "2(i)",
+      "section": "Section B: Word problems",
+      "prompt": "Asma did homework from 2140 hours to 2310 hours. How much time did she spend?",
+      "steps": [
+        "Convert the times to minutes after midnight: 21 x 60 + 40 = 1300; 23 x 60 + 10 = 1390.",
+        "1390 - 1300 = 90 minutes.",
+        "90 minutes = 1 hour 30 minutes."
+      ],
+      "answer": "1 hour 30 minutes",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "(23*60+10)-(21*60+40)",
+          "expected": "90"
+        }
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Section B: Word problems",
+      "prompt": "The head teacher distributed 8/13 of the school library's 260 books. How many books were distributed?",
+      "steps": [
+        "One thirteenth of 260 = 260/13 = 20 books.",
+        "Eight thirteenths = 20 x 8 = 160 books."
+      ],
+      "answer": "160 books",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "260*8/13",
+          "expected": "160"
+        }
+      ]
+    },
+    {
+      "id": "2(iii)",
+      "section": "Section B: Word problems",
+      "prompt": "Write the number with 2 in millions, 7 in hundred-thousands, 1 in ten-thousands, 5 in hundreds and 6 in tens.",
+      "steps": [
+        "The given place values are 2000000, 700000, 10000, 500 and 60.",
+        "Use zero in the unmentioned thousands and ones places.",
+        "2000000 + 700000 + 10000 + 500 + 60 = 2710560."
+      ],
+      "answer": "2710560",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "2000000+700000+10000+500+60",
+          "expected": "2710560"
+        }
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Section B: Word problems",
+      "prompt": "Bhoke multiplied a number by itself and obtained 841. Find the number.",
+      "steps": [
+        "29 x 29 = 841, so the expected positive whole number is 29.",
+        "If negative integers are allowed, (-29) x (-29) = 841 also."
+      ],
+      "answer": "29 (also -29 if negative integers are allowed)",
+      "source_page": 2,
+      "math_checks": [
+        {
+          "expression": "29**2",
+          "expected": "841"
+        },
+        {
+          "expression": "(-29)**2",
+          "expected": "841"
+        }
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Section B: Word problems",
+      "prompt": "Find the GCF of the first two even numbers between 11 and 17.",
+      "steps": [
+        "The first two even numbers are 12 and 14.",
+        "Factors of 12 are 1, 2, 3, 4, 6, 12; factors of 14 are 1, 2, 7, 14.",
+        "Their common factors are 1 and 2; the greatest is 2."
+      ],
+      "answer": "2",
+      "source_page": 3
+    },
+    {
+      "id": "2(vi)",
+      "section": "Section B: Word problems",
+      "prompt": "Asfia formed the smallest five-digit number with no repeated digits. Find that number.",
+      "steps": [
+        "The first digit must be nonzero, so choose 1.",
+        "For the remaining places choose the smallest unused digits in order: 0, 2, 3, 4.",
+        "The result is 10234."
+      ],
+      "answer": "10234",
+      "source_page": 3
+    },
+    {
+      "id": "3(i)",
+      "section": "Section B: Word problems",
+      "prompt": "One cow has mass 150.008 kg. Find the mass in grams of 20 cows of the same size.",
+      "steps": [
+        "150.008 x 20 = 3000.16 kg.",
+        "Since 1 kg = 1000 g, 3000.16 x 1000 = 3000160 g."
+      ],
+      "answer": "3000160 g",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "150.008*20*1000",
+          "expected": "3000160"
+        }
+      ]
+    },
+    {
+      "id": "3(ii)",
+      "section": "Section B: Word problems",
+      "prompt": "The Mwanza-Shirati distance is 96.3 km and the Manila-Mbire distance is 102 km. Find their total distance.",
+      "steps": [
+        "Align decimal places: 96.3 + 102.0.",
+        "96.3 + 102 = 198.3."
+      ],
+      "answer": "198.3 km",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "96.3+102",
+          "expected": "1983/10"
+        }
+      ]
+    },
+    {
+      "id": "3(iii)",
+      "section": "Section B: Word problems",
+      "prompt": "Mr. Majasho ran once around a rectangular garden measuring 300 m by 100 m. How far did he run?",
+      "steps": [
+        "The distance is the perimeter: 2 x (300 + 100).",
+        "300 + 100 = 400; 2 x 400 = 800."
+      ],
+      "answer": "800 m",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "2*(300+100)",
+          "expected": "800"
+        }
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Section B: Word problems",
+      "prompt": "Each matchbox contains 85 sticks. How many sticks are in 163 such boxes?",
+      "steps": [
+        "Split into place values: 80 x 163 = 13040; 5 x 163 = 815.",
+        "Add the partial products: 13855."
+      ],
+      "answer": "13855 sticks",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "85*163",
+          "expected": "13855"
+        }
+      ]
+    },
+    {
+      "id": "4(ii)",
+      "section": "Section B: Word problems",
+      "prompt": "Three school bells ring at intervals of 15, 20 and 30 minutes. After how many minutes will they next ring together?",
+      "steps": [
+        "Find the LCM: 15 = 3 x 5; 20 = 2² x 5; 30 = 2 x 3 x 5.",
+        "LCM = 2² x 3 x 5 = 60.",
+        "60/15 = 4, 60/20 = 3 and 60/30 = 2, so all three intervals divide 60."
+      ],
+      "answer": "60 minutes",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "2**2*3*5",
+          "expected": "60"
+        }
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Section B: Word problems",
+      "prompt": "Nindi's journey from the Earth to the Moon takes 30 days. Express this as weeks and days.",
+      "steps": [
+        "One week has 7 days.",
+        "7 x 4 = 28; 30 - 28 = 2."
+      ],
+      "answer": "4 weeks 2 days",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "30-7*4",
+          "expected": "2"
+        }
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Section B: Word problems",
+      "prompt": "Convert 1.44 into a fraction.",
+      "steps": [
+        "1.44 = 144/100.",
+        "The numerator and denominator share factor 4: (144/4)/(100/4) = 36/25.",
+        "As a mixed number, 36/25 = 1 11/25."
+      ],
+      "answer": "36/25 (1 11/25)",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "1.44",
+          "expected": "36/25"
+        }
+      ]
+    },
+    {
+      "id": "5(ii)",
+      "section": "Section B: Word problems",
+      "prompt": "Round 17506410 to the nearest million.",
+      "steps": [
+        "17506410 = 17000000 + 506410.",
+        "506410 is at least 500000, so round up from 17 million to 18 million."
+      ],
+      "answer": "18000000",
+      "source_page": 3
+    },
+    {
+      "id": "5(iii)",
+      "section": "Section B: Word problems",
+      "prompt": "A division has divisor 40 and dividend 8. Find the quotient.",
+      "steps": [
+        "Quotient = dividend/divisor = 8/40.",
+        "Divide numerator and denominator by 8: 8/40 = 1/5 = 0.2."
+      ],
+      "answer": "0.2",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "8/40",
+          "expected": "1/5"
+        }
+      ]
+    },
+    {
+      "id": "6(i)",
+      "section": "Section B: Word problems",
+      "prompt": "Write 900 + 200000 + 3000 + 60 + 1000000 in short form.",
+      "steps": [
+        "Group the place values in descending order.",
+        "1000000 + 200000 + 3000 + 900 + 60 = 1203960."
+      ],
+      "answer": "1203960",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "900+200000+3000+60+1000000",
+          "expected": "1203960"
+        }
+      ]
+    },
+    {
+      "id": "6(ii)",
+      "section": "Section B: Word problems",
+      "prompt": "Sabrina has Sh 5000. She buys two pens at Sh 400 each and one book at Sh 1500. Find her remaining money.",
+      "steps": [
+        "Pens cost 2 x 400 = Sh 800.",
+        "Total spent = 800 + 1500 = Sh 2300.",
+        "Remaining = 5000 - 2300 = Sh 2700."
+      ],
+      "answer": "Sh 2700",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "2*400+1500",
+          "expected": "2300"
+        },
+        {
+          "expression": "5000-(2*400+1500)",
+          "expected": "2700"
+        }
+      ]
+    },
+    {
+      "id": "6(iii)",
+      "section": "Section B: Word problems",
+      "prompt": "A child is 120 months old. Find the age in years.",
+      "steps": [
+        "There are 12 months in one year.",
+        "120/12 = 10."
+      ],
+      "answer": "10 years",
+      "source_page": 3,
+      "math_checks": [
+        {
+          "expression": "120/12",
+          "expected": "10"
+        }
+      ]
+    },
+    {
+      "id": "7(i)",
+      "section": "Section C: Geometry and statistics",
+      "prompt": "The bar graph gives attendance for Monday, Tuesday, Wednesday, Thursday and Friday. Find the total attendance for the five days.",
+      "steps": [
+        "Read the bars against the labelled scale: Monday 50, Tuesday 40, Wednesday 30, Thursday 50 and Friday 40.",
+        "50 + 40 + 30 + 50 + 40 = 210."
+      ],
+      "answer": "210 pupil attendances",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "50+40+30+50+40",
+          "expected": "210"
+        }
+      ]
+    },
+    {
+      "id": "7(ii)",
+      "section": "Section C: Geometry and statistics",
+      "prompt": "Five children weigh 6 kg, 2000 g, 7 kg, 5 kg and 12000 g. Find their average weight in grams.",
+      "steps": [
+        "Convert kilograms to grams: 6 kg = 6000 g, 7 kg = 7000 g and 5 kg = 5000 g.",
+        "Total = 6000 + 2000 + 7000 + 5000 + 12000 = 32000 g.",
+        "Average = 32000/5 = 6400 g."
+      ],
+      "answer": "6400 g",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "(6000+2000+7000+5000+12000)/5",
+          "expected": "6400"
+        }
+      ]
+    },
+    {
+      "id": "8(i)",
+      "section": "Section C: Geometry and statistics",
+      "prompt": "Triangle ABC is right-angled at C, with AB = 25 cm and CB = 24 cm. Find AC.",
+      "steps": [
+        "By Pythagoras, AC² = AB² - CB² = 25² - 24².",
+        "625 - 576 = 49.",
+        "Since 7² = 49 and a length is positive, AC = 7 cm."
+      ],
+      "answer": "7 cm",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "25**2-24**2",
+          "expected": "49"
+        },
+        {
+          "expression": "7**2",
+          "expected": "49"
+        }
+      ]
+    },
+    {
+      "id": "8(ii)",
+      "section": "Section C: Geometry and statistics",
+      "prompt": "Name the type of angle shown with a small square at its vertex.",
+      "steps": [
+        "The small square denotes perpendicular rays.",
+        "The angle measures 90°, so it is a right angle."
+      ],
+      "answer": "Right angle",
+      "source_page": 4
+    },
+    {
+      "id": "8(iii)",
+      "section": "Section C: Geometry and statistics",
+      "prompt": "A rectangle has perimeter 340 cm and length 96 cm. Find its area.",
+      "steps": [
+        "2 x (length + width) = 340, so length + width = 340/2 = 170 cm.",
+        "Width = 170 - 96 = 74 cm.",
+        "Area = 96 x 74 = 7104 cm²."
+      ],
+      "answer": "7104 cm²",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "340/2-96",
+          "expected": "74"
+        },
+        {
+          "expression": "96*(340/2-96)",
+          "expected": "7104"
+        }
+      ]
+    }
+  ],
+  "summaries": {
+    "Section A: Mathematical operations": "Align place values and decimal points. Convert mixed numbers to improper fractions; use a common denominator for addition and subtraction and the reciprocal for division.",
+    "Section B: Word problems": "Choose the operation from the question, convert to consistent units, and check the result. LCM uses the highest prime powers; GCF uses only factors shared by all numbers.",
+    "Section C: Geometry and statistics": "Use marked measurements and angles. Circle sectors are fractions of 360°. Right triangles obey a² + b² = c²; cylinder volume is pi x r² x h. Read graph coordinates as (x, y)."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - VOPSO Standard Six Assessment Examination April 2024",
+      "url": "https://darasahuru.ac.tz/vopso-standard-six-assessment-examination-april-2024-2/"
+    }
+  ],
+  "limitations": [
+    "7(i) bar tops are schematic; the attendance values are read at the labelled 10-pupil scale as 50, 40, 30, 50, 40.",
+    "The instructions print \"six (8) questions\"; the source contains eight main questions and 33 answered parts."
+  ],
+  "reviewed": true,
+  "review_notes": [
+    "Every source page was visually inspected; OCR was checked against the printed operands, diagram labels and graph scales."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "aaf57f265bf7fd2ac81abe959b1ee6f870884fafbdb5c1cf14b8fd834ef85f4a"
+}

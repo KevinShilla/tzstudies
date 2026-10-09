@@ -1,0 +1,337 @@
+{
+  "exam": "English-S3-2025-Nsunga-Primary-School-November-Annual-exam.pdf",
+  "output": "English-S3-2025-Nsunga-Primary-School-November-Annual-exam-AnswerKey.pdf",
+  "subject": "English Language",
+  "level": "Standard Three",
+  "year": "2025",
+  "code": "Not printed in source",
+  "board": "Nsunga Primary School",
+  "exam_type": "Annual exam - November",
+  "language": "en",
+  "reviewed": true,
+  "sha256": "de751a91cae18bff2893a05d15cdca83c5695548d5a5fc4b008f3ab09df5f040",
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation item i.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(ii)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation item ii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iii)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation item iii.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(iv)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation item iv.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "1(v)",
+      "section": "Source-limited items",
+      "prompt": "Write dictation item v.",
+      "steps": [
+        "Check whether the required spoken words, picture or source information is supplied.",
+        "Ask the teacher for the missing material. Do not substitute an invented official answer."
+      ],
+      "answer": "No unique answer can be recovered from this paper. The teacher dictation words or audio are not included in this source.",
+      "source_page": 1
+    },
+    {
+      "id": "2(i)",
+      "section": "Grammar",
+      "prompt": "Bakari is ___ football. (A play, B playing, C player, D plays)",
+      "steps": [
+        "Is plus an -ing verb describes an ongoing action.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "B. Playing.",
+      "source_page": 1
+    },
+    {
+      "id": "2(ii)",
+      "section": "Grammar",
+      "prompt": "We are ___ to school now. (A going, B gone, C goes, D go)",
+      "steps": [
+        "Are going is present continuous.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Going.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iii)",
+      "section": "Grammar",
+      "prompt": "I ___ sweeping the classroom. (A is, B are, C am, D has)",
+      "steps": [
+        "I takes am.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "C. Am.",
+      "source_page": 1
+    },
+    {
+      "id": "2(iv)",
+      "section": "Grammar",
+      "prompt": "Every day he ___ his face with water. (A wash, B washing, C washing, D washes)",
+      "steps": [
+        "He takes washes for a daily habit.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "D. Washes.",
+      "source_page": 1
+    },
+    {
+      "id": "2(v)",
+      "section": "Grammar",
+      "prompt": "They ___ a story book every day. (A read, B reading, C reads, D reader)",
+      "steps": [
+        "They takes the base present verb read.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "A. Read.",
+      "source_page": 1
+    },
+    {
+      "id": "3(i)",
+      "section": "Grammar",
+      "prompt": "I ___ a nice watch. (It, has, have, and, but, my)",
+      "steps": [
+        "I takes have.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Have.",
+      "source_page": 1
+    },
+    {
+      "id": "3(ii)",
+      "section": "Grammar",
+      "prompt": "Amina eats ugali ___ Baraka does not.",
+      "steps": [
+        "But links contrasting eating habits.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "But.",
+      "source_page": 1
+    },
+    {
+      "id": "3(iii)",
+      "section": "Grammar",
+      "prompt": "___ name is Zawadi.",
+      "steps": [
+        "My is the possessive determiner before name.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "My.",
+      "source_page": 1
+    },
+    {
+      "id": "3(iv)",
+      "section": "Grammar",
+      "prompt": "A hen ___ two legs.",
+      "steps": [
+        "A hen is singular and takes has.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Has.",
+      "source_page": 1
+    },
+    {
+      "id": "3(v)",
+      "section": "Grammar",
+      "prompt": "Halima ___ Ashura are friends.",
+      "steps": [
+        "And joins the two people.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "And.",
+      "source_page": 1
+    },
+    {
+      "id": "3(vi)",
+      "section": "Grammar",
+      "prompt": "Look at the cow. ___ is big and fat.",
+      "steps": [
+        "It refers back to the cow.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "It.",
+      "source_page": 2
+    },
+    {
+      "id": "4(i)",
+      "section": "Grammar",
+      "prompt": "The hen is ___ the table. Use in, on or under.",
+      "steps": [
+        "The picture places the hen on the table's top surface.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "On.",
+      "source_page": 2
+    },
+    {
+      "id": "4(ii)",
+      "section": "Grammar",
+      "prompt": "The ball is ___ the chair. Use in, on or under.",
+      "steps": [
+        "The ball is pictured beneath the chair's seat.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Under.",
+      "source_page": 2
+    },
+    {
+      "id": "4(iii)",
+      "section": "Grammar",
+      "prompt": "The oranges are ___ the basket. Use in, on or under.",
+      "steps": [
+        "The oranges are inside the basket.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "In.",
+      "source_page": 2
+    },
+    {
+      "id": "5(i)",
+      "section": "Grammar",
+      "prompt": "Write the plural of dog.",
+      "steps": [
+        "Add s to this regular noun.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Dogs.",
+      "source_page": 2
+    },
+    {
+      "id": "5(ii)",
+      "section": "Grammar",
+      "prompt": "Write the plural of loaf.",
+      "steps": [
+        "Change f to ves in this plural.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Loaves.",
+      "source_page": 2
+    },
+    {
+      "id": "5(iii)",
+      "section": "Grammar",
+      "prompt": "Write the singular of flies.",
+      "steps": [
+        "Change ies back to y.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Fly.",
+      "source_page": 2
+    },
+    {
+      "id": "5(iv)",
+      "section": "Grammar",
+      "prompt": "Write the singular of cars.",
+      "steps": [
+        "Remove the plural s.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Car.",
+      "source_page": 2
+    },
+    {
+      "id": "5(v)",
+      "section": "Grammar",
+      "prompt": "Write the plural of flower.",
+      "steps": [
+        "Add s to the regular noun.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Flowers.",
+      "source_page": 2
+    },
+    {
+      "id": "5(vi)",
+      "section": "Grammar",
+      "prompt": "Write the singular of leaves.",
+      "steps": [
+        "Leaves is the irregular plural of leaf.",
+        "Use this rule or evidence to write the answer below."
+      ],
+      "answer": "Leaf.",
+      "source_page": 2
+    }
+  ],
+  "summaries": {
+    "Source-limited items": "The required script, picture or other information is missing. Use the stated limitation and obtain the original material before expecting a unique answer.",
+    "Grammar": "Use sentence meaning, subject agreement and time clues to choose the word or verb form. Apply the specific rule explained for each task and note ambiguous choices."
+  },
+  "references": [
+    {
+      "title": "DARASA LA 3 ANNUAL EXAMINATION NOVEMBER 2025 NSUNGA PRIMARY SCHOOL - Darasa Huru",
+      "url": "https://darasahuru.ac.tz/darasa-la-3-annual-examination-november-2025/"
+    }
+  ],
+  "limitations": [
+    "1(i): The teacher dictation words or audio are not included in this source.",
+    "1(ii): The teacher dictation words or audio are not included in this source.",
+    "1(iii): The teacher dictation words or audio are not included in this source.",
+    "1(iv): The teacher dictation words or audio are not included in this source.",
+    "1(v): The teacher dictation words or audio are not included in this source."
+  ],
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "3(vi)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "5(vi)"
+  ],
+  "question_count": "25 individually answered tasks/parts (oral items included)",
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "88d9050b587a8bfc6236895af976b4846abe331460598a979407bd8e687a7a22"
+}

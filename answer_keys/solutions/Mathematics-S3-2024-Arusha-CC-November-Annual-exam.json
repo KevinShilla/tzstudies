@@ -1,0 +1,473 @@
+{
+  "exam": "Mathematics-S3-2024-Arusha-CC-November-Annual-exam.pdf",
+  "output": "Mathematics-S3-2024-Arusha-CC-November-Annual-exam-AnswerKey.pdf",
+  "sha256": "c27cb7bb1e4ddfafe2008821681073780f31dc885cca96adf627d5840e30c8b8",
+  "subject": "Mathematics",
+  "level": "Standard Three",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "Arusha CC",
+  "exam_type": "Annual exam - November",
+  "question_count": "26 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1(i)",
+    "1(ii)",
+    "1(iii)",
+    "1(iv)",
+    "1(v)",
+    "2(i)",
+    "2(ii)",
+    "2(iii)",
+    "2(iv)",
+    "2(v)",
+    "3(i)",
+    "3(ii)",
+    "3(iii)",
+    "3(iv)",
+    "3(v)",
+    "4(i)",
+    "4(ii)",
+    "4(iii)",
+    "4(iv)",
+    "4(v)",
+    "5(i)",
+    "5(ii)",
+    "5(iii)",
+    "5(iv)",
+    "5(v)",
+    "5(vi)"
+  ],
+  "questions": [
+    {
+      "id": "1(i)",
+      "section": "Numbers and applications",
+      "prompt": "2165 pupils attend an examination. Write their number in words.",
+      "steps": [
+        "2165 = 2000 + 100 + 60 + 5."
+      ],
+      "answer": "Two thousand one hundred and sixty-five",
+      "source_page": 1
+    },
+    {
+      "id": "1(ii)",
+      "section": "Numbers and applications",
+      "prompt": "Write eight thousand eight hundred and ninety-six in digits.",
+      "steps": [
+        "8000 + 800 + 90 + 6 = 8896."
+      ],
+      "answer": "8896",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "8000 + 800 + 90 + 6",
+          "expected": "8896"
+        }
+      ]
+    },
+    {
+      "id": "1(iii)",
+      "section": "Numbers and applications",
+      "prompt": "Combine 5 ten-thousands,3 thousands,0 hundreds,2 tens,5 ones.",
+      "steps": [
+        "50000 + 3000 + 0 + 20 + 5 = 53025."
+      ],
+      "answer": "53025",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "50000 + 3000 + 0 + 20 + 5",
+          "expected": "53025"
+        }
+      ]
+    },
+    {
+      "id": "1(iv)",
+      "section": "Numbers and applications",
+      "prompt": "Name the place value of 5 in 19352.",
+      "steps": [
+        "5 is second from the right."
+      ],
+      "answer": "Tens (value 50)",
+      "source_page": 1
+    },
+    {
+      "id": "1(v)",
+      "section": "Numbers and applications",
+      "prompt": "Give the value of underlined 2 in 32068.",
+      "steps": [
+        "2 occupies the thousands place.",
+        "2 x 1000 = 2000."
+      ],
+      "answer": "2000",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "2 * 1000",
+          "expected": "2000"
+        }
+      ]
+    },
+    {
+      "id": "2(i)",
+      "section": "Numbers and applications",
+      "prompt": "Write 5 +80 +200 +4000 in short form.",
+      "steps": [
+        "4000 + 200 + 80 + 5 = 4285."
+      ],
+      "answer": "4285",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "4000 + 200 + 80 + 5",
+          "expected": "4285"
+        }
+      ]
+    },
+    {
+      "id": "2(ii)",
+      "section": "Numbers and applications",
+      "prompt": "Expand 5593.",
+      "steps": [
+        "Read thousands, hundreds, tens, ones."
+      ],
+      "answer": "5000 +500 +90 +3",
+      "source_page": 1
+    },
+    {
+      "id": "2(iii)",
+      "section": "Numbers and applications",
+      "prompt": "Fill 1010,1020,1030,1040,[ ],1060.",
+      "steps": [
+        "Add 10; 1040 + 10 = 1050."
+      ],
+      "answer": "1050",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "1040 + 10",
+          "expected": "1050"
+        }
+      ]
+    },
+    {
+      "id": "2(iv)",
+      "section": "Numbers and applications",
+      "prompt": "Continue 60,50,40,30,20,10,[ ].",
+      "steps": [
+        "Subtract 10; 10 - 10 = 0."
+      ],
+      "answer": "0",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "10 - 10",
+          "expected": "0"
+        }
+      ]
+    },
+    {
+      "id": "2(v)",
+      "section": "Numbers and applications",
+      "prompt": "Arrange 169,196,100 from smallest to largest.",
+      "steps": [
+        "Hundreds match; compare tens then ones."
+      ],
+      "answer": "100,169,196",
+      "source_page": 1
+    },
+    {
+      "id": "3(i)",
+      "section": "Numbers and applications",
+      "prompt": "Compare 96 and 69 using<,=,>.",
+      "steps": [
+        "9 tens exceed 6 tens."
+      ],
+      "answer": ">",
+      "source_page": 1
+    },
+    {
+      "id": "3(ii)",
+      "section": "Numbers and applications",
+      "prompt": "Compare 100 and 100 using<,=,>.",
+      "steps": [
+        "Both numbers are identical."
+      ],
+      "answer": "=",
+      "source_page": 1
+    },
+    {
+      "id": "3(iii)",
+      "section": "Calculations",
+      "prompt": "Calculate 48638+20961.",
+      "steps": [
+        "1 place: 8 + 1 = 9; write 9.",
+        "10 place: 3 + 6 = 9; write 9.",
+        "100 place: 6 + 9 = 15; write 5, carry 1.",
+        "1000 place: 8 + 0 + carry 1 = 9; write 9.",
+        "10000 place: 4 + 2 = 6; write 6.",
+        "48638 + 20961 = 69599."
+      ],
+      "answer": "69599",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "48638+20961",
+          "expected": "69599"
+        },
+        {
+          "expression": "8 + 1",
+          "expected": "9"
+        },
+        {
+          "expression": "3 + 6",
+          "expected": "9"
+        },
+        {
+          "expression": "6 + 9",
+          "expected": "15"
+        },
+        {
+          "expression": "4 + 2",
+          "expected": "6"
+        },
+        {
+          "expression": "48638 + 20961",
+          "expected": "69599"
+        }
+      ]
+    },
+    {
+      "id": "3(iv)",
+      "section": "Calculations",
+      "prompt": "Calculate 876543-765452.",
+      "steps": [
+        "1 place: 3 - 2 = 1.",
+        "10 place: regroup 1 from the next place; 14 - 5 = 9.",
+        "100 place: 4 - 4 = 0.",
+        "1000 place: 6 - 5 = 1.",
+        "10000 place: 7 - 6 = 1.",
+        "100000 place: 8 - 7 = 1.",
+        "876543 - 765452 = 111091; check 111091 + 765452 = 876543."
+      ],
+      "answer": "111091",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "876543-765452",
+          "expected": "111091"
+        },
+        {
+          "expression": "3 - 2",
+          "expected": "1"
+        },
+        {
+          "expression": "14 - 5",
+          "expected": "9"
+        },
+        {
+          "expression": "4 - 4",
+          "expected": "0"
+        },
+        {
+          "expression": "6 - 5",
+          "expected": "1"
+        },
+        {
+          "expression": "7 - 6",
+          "expected": "1"
+        },
+        {
+          "expression": "8 - 7",
+          "expected": "1"
+        },
+        {
+          "expression": "876543 - 765452",
+          "expected": "111091"
+        },
+        {
+          "expression": "111091 + 765452",
+          "expected": "876543"
+        }
+      ]
+    },
+    {
+      "id": "3(v)",
+      "section": "Calculations",
+      "prompt": "Calculate 200+500.",
+      "steps": [
+        "1 place: 0 + 0 = 0; write 0.",
+        "10 place: 0 + 0 = 0; write 0.",
+        "100 place: 2 + 5 = 7; write 7.",
+        "200 + 500 = 700."
+      ],
+      "answer": "700 shillings",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "200+500",
+          "expected": "700"
+        },
+        {
+          "expression": "0 + 0",
+          "expected": "0"
+        },
+        {
+          "expression": "2 + 5",
+          "expected": "7"
+        },
+        {
+          "expression": "200 + 500",
+          "expected": "700"
+        }
+      ]
+    },
+    {
+      "id": "4(i)",
+      "section": "Numbers and applications",
+      "prompt": "Name one device for measuring the height of a table.",
+      "steps": [
+        "Measure a vertical length from floor to tabletop."
+      ],
+      "answer": "Metre rule or measuring tape",
+      "source_page": 1
+    },
+    {
+      "id": "4(ii)",
+      "section": "Numbers and applications",
+      "prompt": "A school has 2634 pupils,1202 boys. How many girls?",
+      "steps": [
+        "2634 - 1202 = 1432."
+      ],
+      "answer": "1432 girls",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "2634 - 1202",
+          "expected": "1432"
+        }
+      ]
+    },
+    {
+      "id": "4(iii)",
+      "section": "Numbers and applications",
+      "prompt": "Juma and Paulo each eat half of one orange. What fraction does each eat?",
+      "steps": [
+        "One whole is shared into 2 equal pieces."
+      ],
+      "answer": "1/2",
+      "source_page": 1
+    },
+    {
+      "id": "4(iv)",
+      "section": "Numbers and applications",
+      "prompt": "Calculate 11/20 +6/20.",
+      "steps": [
+        "The denominators match; add 11 + 6 = 17.",
+        "Keep denominator 20."
+      ],
+      "answer": "17/20",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "11/20+6/20",
+          "expected": "17/20"
+        }
+      ]
+    },
+    {
+      "id": "4(v)",
+      "section": "Numbers and applications",
+      "prompt": "Calculate 9/14 -8/14.",
+      "steps": [
+        "The denominators match; subtract 9 - 8 = 1.",
+        "Keep denominator 14."
+      ],
+      "answer": "1/14",
+      "source_page": 1,
+      "math_checks": [
+        {
+          "expression": "9/14-8/14",
+          "expected": "1/14"
+        }
+      ]
+    },
+    {
+      "id": "5(i)",
+      "section": "Numbers and applications",
+      "prompt": "Which month comes after September?",
+      "steps": [
+        "September is month 9; month 10 follows."
+      ],
+      "answer": "October",
+      "source_page": 1
+    },
+    {
+      "id": "5(ii)",
+      "section": "Numbers and applications",
+      "prompt": "Read the clock with minute hand 12 and hour hand 6.",
+      "steps": [
+        "Minute hand 12 means 0 minutes.",
+        "Hour hand 6 means six o'clock."
+      ],
+      "answer": "6:00",
+      "source_page": 1
+    },
+    {
+      "id": "5(iii)",
+      "section": "Numbers and applications",
+      "prompt": "Write quarter past ten in numbers.",
+      "steps": [
+        "A quarter hour is 15 minutes.",
+        "Add 15 minutes to 10:00."
+      ],
+      "answer": "10:15",
+      "source_page": 1
+    },
+    {
+      "id": "5(iv)",
+      "section": "Numbers and applications",
+      "prompt": "Name the shaded four-sided plane figure.",
+      "steps": [
+        "It has four right angles and unequal adjacent sides."
+      ],
+      "answer": "Rectangle",
+      "source_page": 1
+    },
+    {
+      "id": "5(v)",
+      "section": "Numbers and applications",
+      "prompt": "Name the segment between marked endpoints A and B on the pictured line.",
+      "steps": [
+        "Name a segment by its two endpoints."
+      ],
+      "answer": "AB",
+      "source_page": 1
+    },
+    {
+      "id": "5(vi)",
+      "section": "Numbers and applications",
+      "prompt": "Find the length of segment TU labelled Sm 50.",
+      "steps": [
+        "Sm is sentimita, meaning centimetres.",
+        "Read the labelled length."
+      ],
+      "answer": "50 cm",
+      "source_page": 1
+    }
+  ],
+  "summaries": {
+    "Numbers and applications": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - ARUSHA CC Standard Three Annual Exams November 2024 - KISWAHILI And ENGLISH MEDIUM",
+      "url": "https://darasahuru.ac.tz/download-arusha-cc-standard-three-annual-exams-november-2024-kiswahili-and-english-medium/"
+    }
+  ],
+  "limitations": [],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "93a039a12331508e8139782b27ab8dbba4f80ede3a30da072077b0c1db9ef29e"
+}

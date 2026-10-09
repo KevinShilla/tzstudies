@@ -1,0 +1,455 @@
+{
+  "exam": "Kiswahili-S1-2026-MESP-Tanzania-March-Midterm-exam.pdf",
+  "output": "Kiswahili-S1-2026-MESP-Tanzania-March-Midterm-exam-AnswerKey.pdf",
+  "sha256": "faf530866c064f33a0988fa71aea9ede90f015178b7a358a57601ab7067515de",
+  "subject": "Kiswahili",
+  "level": "Standard One",
+  "year": "2026",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Midterm exam - March",
+  "question_count": "Vipengele 33 vilivyojibiwa au kupewa mwongozo wa tathmini",
+  "language": "sw",
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Irabu",
+      "prompt": "Andika irabu ya 1 katika mfuatano wa irabu zote.",
+      "steps": [
+        "Irabu tano za Kiswahili ni a, e, i, o, u.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "a",
+      "source_page": 1
+    },
+    {
+      "id": "2",
+      "section": "Irabu",
+      "prompt": "Andika irabu ya 2 katika mfuatano wa irabu zote.",
+      "steps": [
+        "Irabu tano za Kiswahili ni a, e, i, o, u.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "e",
+      "source_page": 1
+    },
+    {
+      "id": "3",
+      "section": "Irabu",
+      "prompt": "Andika irabu ya 3 katika mfuatano wa irabu zote.",
+      "steps": [
+        "Irabu tano za Kiswahili ni a, e, i, o, u.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "i",
+      "source_page": 1
+    },
+    {
+      "id": "4",
+      "section": "Irabu",
+      "prompt": "Andika irabu ya 4 katika mfuatano wa irabu zote.",
+      "steps": [
+        "Irabu tano za Kiswahili ni a, e, i, o, u.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "o",
+      "source_page": 1
+    },
+    {
+      "id": "5",
+      "section": "Irabu",
+      "prompt": "Andika irabu ya 5 katika mfuatano wa irabu zote.",
+      "steps": [
+        "Irabu tano za Kiswahili ni a, e, i, o, u.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "u",
+      "source_page": 1
+    },
+    {
+      "id": "6",
+      "section": "Irabu kubwa",
+      "prompt": "Andika irabu kubwa ya 1.",
+      "steps": [
+        "Badili irabu ya nafasi hii kuwa herufi kubwa; mfuatano ni A, E, I, O, U.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "A",
+      "source_page": 1
+    },
+    {
+      "id": "7",
+      "section": "Irabu kubwa",
+      "prompt": "Andika irabu kubwa ya 2.",
+      "steps": [
+        "Badili irabu ya nafasi hii kuwa herufi kubwa; mfuatano ni A, E, I, O, U.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "E",
+      "source_page": 1
+    },
+    {
+      "id": "8",
+      "section": "Irabu kubwa",
+      "prompt": "Andika irabu kubwa ya 3.",
+      "steps": [
+        "Badili irabu ya nafasi hii kuwa herufi kubwa; mfuatano ni A, E, I, O, U.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "I",
+      "source_page": 1
+    },
+    {
+      "id": "9",
+      "section": "Irabu kubwa",
+      "prompt": "Andika irabu kubwa ya 4.",
+      "steps": [
+        "Badili irabu ya nafasi hii kuwa herufi kubwa; mfuatano ni A, E, I, O, U.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "O",
+      "source_page": 1
+    },
+    {
+      "id": "10",
+      "section": "Irabu kubwa",
+      "prompt": "Andika irabu kubwa ya 5.",
+      "steps": [
+        "Badili irabu ya nafasi hii kuwa herufi kubwa; mfuatano ni A, E, I, O, U.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "U",
+      "source_page": 1
+    },
+    {
+      "id": "11",
+      "section": "Majina ya vitu",
+      "prompt": "Taja kitu kinachoanza kwa irabu.",
+      "steps": [
+        "Herufi ya kwanza ya Embe ni E; inatimiza agizo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Embe.",
+      "source_page": 1,
+      "tip": "Mfano mwingine sahihi unakubalika."
+    },
+    {
+      "id": "12",
+      "section": "Majina ya vitu",
+      "prompt": "Taja kitu kinachoanza kwa irabu.",
+      "steps": [
+        "Herufi ya kwanza ya Uyoga ni U; inatimiza agizo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Uyoga.",
+      "source_page": 1,
+      "tip": "Mfano mwingine sahihi unakubalika."
+    },
+    {
+      "id": "13",
+      "section": "Majina ya vitu",
+      "prompt": "Taja kitu kinachoanza kwa konsonanti K.",
+      "steps": [
+        "Herufi ya kwanza ya Kitabu ni K; inatimiza agizo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Kitabu.",
+      "source_page": 1,
+      "tip": "Mfano mwingine sahihi unakubalika."
+    },
+    {
+      "id": "14",
+      "section": "Majina ya vitu",
+      "prompt": "Taja kitu kinachoanza kwa konsonanti K.",
+      "steps": [
+        "Herufi ya kwanza ya Kisu ni K; inatimiza agizo.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Kisu.",
+      "source_page": 1,
+      "tip": "Mfano mwingine sahihi unakubalika."
+    },
+    {
+      "id": "15",
+      "section": "Herufi na silabi",
+      "prompt": "Nona: herufi ya mwanzo",
+      "steps": [
+        "Nona inaanza na N.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "N",
+      "source_page": 1
+    },
+    {
+      "id": "16",
+      "section": "Herufi na silabi",
+      "prompt": "Beba: herufi ya mwanzo",
+      "steps": [
+        "Beba inaanza na B.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "B",
+      "source_page": 1
+    },
+    {
+      "id": "17",
+      "section": "Herufi na silabi",
+      "prompt": "Nona: silabi ya mwanzo",
+      "steps": [
+        "Gawanya no-na; ya kwanza ni no.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "No",
+      "source_page": 1
+    },
+    {
+      "id": "18",
+      "section": "Herufi na silabi",
+      "prompt": "Beba: silabi ya mwanzo",
+      "steps": [
+        "Gawanya be-ba; ya kwanza ni be.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Be",
+      "source_page": 1
+    },
+    {
+      "id": "19",
+      "section": "Silabi",
+      "prompt": "Unganisha na + ne kuunda neno.",
+      "steps": [
+        "Soma silabi na + ne kwa mpangilio.",
+        "Ziunganishe bila nafasi: nane."
+      ],
+      "answer": "nane.",
+      "source_page": 2
+    },
+    {
+      "id": "20",
+      "section": "Silabi",
+      "prompt": "Unganisha do + bi kuunda neno.",
+      "steps": [
+        "Soma silabi do + bi kwa mpangilio.",
+        "Ziunganishe bila nafasi: dobi."
+      ],
+      "answer": "dobi.",
+      "source_page": 2
+    },
+    {
+      "id": "21",
+      "section": "Silabi",
+      "prompt": "Unganisha ko + be kuunda neno.",
+      "steps": [
+        "Soma silabi ko + be kwa mpangilio.",
+        "Ziunganishe bila nafasi: kobe."
+      ],
+      "answer": "kobe.",
+      "source_page": 2
+    },
+    {
+      "id": "22",
+      "section": "Matendo",
+      "prompt": "Chagua tendo katika picha 22: lia, lala, lima.",
+      "steps": [
+        "Picha inaonyesha mkulima anatumia jembe.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "lima.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2026-MESP-Tanzania-March-Midterm-exam--22.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "23",
+      "section": "Matendo",
+      "prompt": "Chagua tendo katika picha 23: lia, lala, lima.",
+      "steps": [
+        "Picha inaonyesha mtoto anatokwa na machozi.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "lia.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2026-MESP-Tanzania-March-Midterm-exam--23.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "24",
+      "section": "Matendo",
+      "prompt": "Chagua tendo katika picha 24: lia, lala, lima.",
+      "steps": [
+        "Picha inaonyesha mtoto amelala kitandani.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "lala.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2026-MESP-Tanzania-March-Midterm-exam--24.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "25",
+      "section": "Picha na msamiati",
+      "prompt": "Taja jina la kitu katika picha 25.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: taja jina la kitu katika picha 25.",
+        "Tambua jina moto na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "moto.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2026-MESP-Tanzania-March-Midterm-exam--25.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "26",
+      "section": "Picha na msamiati",
+      "prompt": "Taja jina la kitu katika picha 26.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: taja jina la kitu katika picha 26.",
+        "Tambua jina kiti na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "kiti.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2026-MESP-Tanzania-March-Midterm-exam--26.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "27",
+      "section": "Picha na msamiati",
+      "prompt": "Taja jina la kitu katika picha 27.",
+      "steps": [
+        "Tazama sifa za kitu katika picha: taja jina la kitu katika picha 27.",
+        "Tambua jina bata na uliandike kwa tahajia sahihi."
+      ],
+      "answer": "bata.",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-kiswahili/Kiswahili-S1-2026-MESP-Tanzania-March-Midterm-exam--27.png",
+      "image_caption": "Picha halisi kutoka karatasi ya swali, ukurasa 2."
+    },
+    {
+      "id": "28",
+      "section": "Konsonanti",
+      "prompt": "Taja kitu kinachoanza kwa P.",
+      "steps": [
+        "Pipi huanza kwa konsonanti P.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Pipi.",
+      "source_page": 2,
+      "tip": "Chagua majina matatu tofauti yanayoanza kwa P."
+    },
+    {
+      "id": "29",
+      "section": "Konsonanti",
+      "prompt": "Taja kitu kinachoanza kwa P.",
+      "steps": [
+        "Pazia huanza kwa konsonanti P.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Pazia.",
+      "source_page": 2,
+      "tip": "Chagua majina matatu tofauti yanayoanza kwa P."
+    },
+    {
+      "id": "30",
+      "section": "Konsonanti",
+      "prompt": "Taja kitu kinachoanza kwa P.",
+      "steps": [
+        "Pera huanza kwa konsonanti P.",
+        "Andika jibu kwa uwazi na uhakiki kwamba linatimiza agizo."
+      ],
+      "answer": "Mfano: Pera.",
+      "source_page": 2,
+      "tip": "Chagua majina matatu tofauti yanayoanza kwa P."
+    },
+    {
+      "id": "31",
+      "section": "Mwandiko",
+      "prompt": "Andika maneno au silabi katika mstari 31: taa, tano, toa, tui, tuma.",
+      "steps": [
+        "Soma kila neno au silabi katika mstari wa mfano.",
+        "Nakili kwa mwandiko unaosomeka: taa, tano, toa, tui, tuma; acha nafasi baina yake."
+      ],
+      "answer": "taa, tano, toa, tui, tuma.",
+      "source_page": 2
+    },
+    {
+      "id": "32",
+      "section": "Mwandiko",
+      "prompt": "Andika maneno au silabi katika mstari 32: bao, bei, bua, buibui, buu.",
+      "steps": [
+        "Soma kila neno au silabi katika mstari wa mfano.",
+        "Nakili kwa mwandiko unaosomeka: bao, bei, bua, buibui, buu; acha nafasi baina yake."
+      ],
+      "answer": "bao, bei, bua, buibui, buu.",
+      "source_page": 3
+    },
+    {
+      "id": "33",
+      "section": "Mwandiko",
+      "prompt": "Andika maneno au silabi katika mstari 33: ka, ke, ki, ko, ku.",
+      "steps": [
+        "Soma kila neno au silabi katika mstari wa mfano.",
+        "Nakili kwa mwandiko unaosomeka: ka, ke, ki, ko, ku; acha nafasi baina yake."
+      ],
+      "answer": "ka, ke, ki, ko, ku.",
+      "source_page": 3
+    }
+  ],
+  "summaries": {
+    "Irabu": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Irabu kubwa": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Majina ya vitu": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Herufi na silabi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Silabi": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Matendo": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Picha na msamiati": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Konsonanti": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi.",
+    "Mwandiko": "Rudia majibu ya sehemu hii. Soma agizo kwanza, hakiki maana na tahajia, kisha jibu kwa uwazi."
+  },
+  "references": [
+    {
+      "title": "MESP TZ Standard One Midterm Examinations March 2026",
+      "url": "https://darasahuru.ac.tz/mesp-tz-standard-one-midterm-examinations-march-2026/"
+    }
+  ],
+  "reviewed": true,
+  "limitations": [
+    "Agizo la majina yanayoanza kwa K linachanganya viwili (4); karatasi ina nafasi mbili 13 na 14. Zote zimejibiwa."
+  ],
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "ba3a7e28226ad4c03d7e23732f029af3a13e96ef25cc4dc21c6e630ba7378673"
+}

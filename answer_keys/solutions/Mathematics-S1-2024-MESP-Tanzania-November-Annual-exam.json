@@ -1,0 +1,690 @@
+{
+  "exam": "Mathematics-S1-2024-MESP-Tanzania-November-Annual-exam.pdf",
+  "output": "Mathematics-S1-2024-MESP-Tanzania-November-Annual-exam-AnswerKey.pdf",
+  "sha256": "b0d4e1add534101003f706fa2ffb18f086843d95b6dd5545882bd15012011ef3",
+  "subject": "Mathematics",
+  "level": "Standard One",
+  "year": "2024",
+  "code": "Not printed in source",
+  "board": "MESP Tanzania",
+  "exam_type": "Annual exam - November · Numeracy",
+  "question_count": "50 numbered questions/subparts",
+  "language": "en",
+  "expected_parts": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14-first",
+    "14-second",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "section": "Numbers and calculations",
+      "prompt": "Write 88 in words.",
+      "steps": [
+        "80 is eighty; 8 is eight."
+      ],
+      "answer": "Eighty-eight",
+      "source_page": 1
+    },
+    {
+      "id": "2",
+      "section": "Numbers and calculations",
+      "prompt": "Write 13 in words.",
+      "steps": [
+        "13 is read thirteen."
+      ],
+      "answer": "Thirteen",
+      "source_page": 1
+    },
+    {
+      "id": "3",
+      "section": "Numbers and calculations",
+      "prompt": "Write 96 in words.",
+      "steps": [
+        "90 is ninety; 6 is six."
+      ],
+      "answer": "Ninety-six",
+      "source_page": 1
+    },
+    {
+      "id": "4",
+      "section": "Numbers and calculations",
+      "prompt": "Write one hundred in numerals.",
+      "steps": [
+        "100 has one hundred and zero tens/ones."
+      ],
+      "answer": "100",
+      "source_page": 1
+    },
+    {
+      "id": "5",
+      "section": "Numbers and calculations",
+      "prompt": "Write fourteen in numerals.",
+      "steps": [
+        "10 + 4 = 14."
+      ],
+      "answer": "14",
+      "source_page": 1
+    },
+    {
+      "id": "6",
+      "section": "Numbers and calculations",
+      "prompt": "Write thirty-two in numerals.",
+      "steps": [
+        "30 + 2 = 32."
+      ],
+      "answer": "32",
+      "source_page": 1
+    },
+    {
+      "id": "7",
+      "section": "Numbers and calculations",
+      "prompt": "Read the first abacus.",
+      "steps": [
+        "Count 4 beads on the tens rod and 3 on the ones rod.",
+        "40 + 3 = 43."
+      ],
+      "answer": "43",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-math/Mathematics-S1-2024-MESP-Tanzania-November-Annual-exam-Q7.png"
+    },
+    {
+      "id": "8",
+      "section": "Numbers and calculations",
+      "prompt": "Read the second abacus.",
+      "steps": [
+        "Count 5 tens and no ones.",
+        "50 + 0 = 50."
+      ],
+      "answer": "50",
+      "source_page": 2,
+      "image": "answer_keys/figures/primary-math/Mathematics-S1-2024-MESP-Tanzania-November-Annual-exam-Q8.png"
+    },
+    {
+      "id": "9",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 32,31,30,[ ].",
+      "steps": [
+        "Decrease by 1.",
+        "30 - 1 = 29."
+      ],
+      "answer": "29",
+      "source_page": 2
+    },
+    {
+      "id": "10",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 44,46,48,[ ],52.",
+      "steps": [
+        "Increase by 2.",
+        "48 + 2 = 50."
+      ],
+      "answer": "50",
+      "source_page": 2
+    },
+    {
+      "id": "11",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 5,10,15,[ ],25.",
+      "steps": [
+        "Increase by 5.",
+        "15 + 5 = 20."
+      ],
+      "answer": "20",
+      "source_page": 2
+    },
+    {
+      "id": "12",
+      "section": "Numbers and calculations",
+      "prompt": "Circle the largest of 62,24,36,19,33.",
+      "steps": [
+        "62 has the most tens."
+      ],
+      "answer": "62",
+      "source_page": 2
+    },
+    {
+      "id": "13",
+      "section": "Numbers and calculations",
+      "prompt": "Circle the largest of 25,78,69,12,59.",
+      "steps": [
+        "78 has the most tens."
+      ],
+      "answer": "78",
+      "source_page": 2
+    },
+    {
+      "id": "14-first",
+      "section": "Numbers and calculations",
+      "prompt": "Underline the least of 21,4,48,24,31.",
+      "steps": [
+        "4 has no tens and is smaller than all two-digit choices."
+      ],
+      "answer": "4",
+      "source_page": 2
+    },
+    {
+      "id": "14-second",
+      "section": "Numbers and calculations",
+      "prompt": "Underline the least of 19,36,41,80,99 (second printed 14).",
+      "steps": [
+        "19 has the least tens digit."
+      ],
+      "answer": "19",
+      "source_page": 2
+    },
+    {
+      "id": "16",
+      "section": "Numbers and calculations",
+      "prompt": "Arrange 25,74,5,59,28 in ascending order.",
+      "steps": [
+        "Choose the smallest remaining value each time."
+      ],
+      "answer": "5,25,28,59,74",
+      "source_page": 3
+    },
+    {
+      "id": "17",
+      "section": "Numbers and calculations",
+      "prompt": "Arrange 40,15,98,18 in ascending order.",
+      "steps": [
+        "Compare tens then ones."
+      ],
+      "answer": "15,18,40,98",
+      "source_page": 3
+    },
+    {
+      "id": "18",
+      "section": "Numbers and calculations",
+      "prompt": "Arrange 63,75,46,64,88 in descending order.",
+      "steps": [
+        "Choose greatest first.",
+        "For 63 and 64 compare ones."
+      ],
+      "answer": "88,75,64,63,46",
+      "source_page": 3
+    },
+    {
+      "id": "19",
+      "section": "Numbers and calculations",
+      "prompt": "Arrange 88,7,30,40,29 in descending order.",
+      "steps": [
+        "Two-digit values exceed 7.",
+        "Order by tens, then ones."
+      ],
+      "answer": "88,40,30,29,7",
+      "source_page": 3
+    },
+    {
+      "id": "20",
+      "section": "Numbers and calculations",
+      "prompt": "What is the place value of 6 in 86?",
+      "steps": [
+        "6 is the rightmost digit."
+      ],
+      "answer": "Ones (value 6)",
+      "source_page": 3
+    },
+    {
+      "id": "21",
+      "section": "Numbers and calculations",
+      "prompt": "What is the place value of 6 in 62?",
+      "steps": [
+        "6 is one position left of ones."
+      ],
+      "answer": "Tens (value 60)",
+      "source_page": 3
+    },
+    {
+      "id": "22",
+      "section": "Numbers and calculations",
+      "prompt": "What number has 1 one and 9 tens?",
+      "steps": [
+        "9 tens = 90.",
+        "90 + 1 = 91."
+      ],
+      "answer": "91",
+      "source_page": 3
+    },
+    {
+      "id": "23",
+      "section": "Numbers and calculations",
+      "prompt": "What number has 5 tens and 3 ones?",
+      "steps": [
+        "50 + 3 = 53."
+      ],
+      "answer": "53",
+      "source_page": 3
+    },
+    {
+      "id": "24",
+      "section": "Numbers and calculations",
+      "prompt": "Express 72 in tens and ones.",
+      "steps": [
+        "72 = 70 + 2."
+      ],
+      "answer": "7 tens and 2 ones",
+      "source_page": 3
+    },
+    {
+      "id": "25",
+      "section": "Numbers and calculations",
+      "prompt": "Fill 80 = [ ] ones and [ ] tens.",
+      "steps": [
+        "80 = 8 tens + 0 ones.",
+        "Keep the requested order: ones before tens."
+      ],
+      "answer": "0 ones and 8 tens",
+      "source_page": 3
+    },
+    {
+      "id": "26",
+      "section": "Numbers and calculations",
+      "prompt": "Insert >, < or =: 87 [ ] 78.",
+      "steps": [
+        "87 has 8 tens and 78 has 7."
+      ],
+      "answer": ">",
+      "source_page": 3
+    },
+    {
+      "id": "27",
+      "section": "Numbers and calculations",
+      "prompt": "Insert >, < or =: 63 [ ] 63.",
+      "steps": [
+        "Both quantities are identical."
+      ],
+      "answer": "=",
+      "source_page": 3
+    },
+    {
+      "id": "28",
+      "section": "Numbers and calculations",
+      "prompt": "Insert >, < or =: 99 [ ] 100.",
+      "steps": [
+        "100 is one greater than 99."
+      ],
+      "answer": "<",
+      "source_page": 4
+    },
+    {
+      "id": "29",
+      "section": "Calculations",
+      "prompt": "Calculate 86+10.",
+      "steps": [
+        "Ones column: 6 + 0 = 6. Write 6.",
+        "Tens column: 8 + 1 = 9. Write 9.",
+        "Read the digits from left to right: 96."
+      ],
+      "answer": "96",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "86+10",
+          "expected": "96"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "section": "Calculations",
+      "prompt": "Calculate 9+62.",
+      "steps": [
+        "Ones column: 9 + 2 = 11. Write 1. Carry 1 to the next column.",
+        "Tens column: 0 + 6 + 1 = 7. Write 7.",
+        "Read the digits from left to right: 71."
+      ],
+      "answer": "71",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "9+62",
+          "expected": "71"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "section": "Calculations",
+      "prompt": "Calculate 97+3.",
+      "steps": [
+        "Ones column: 7 + 3 = 10. Write 0. Carry 1 to the next column.",
+        "Tens column: 9 + 0 + 1 = 10. Write 0. Carry 1 to the next column.",
+        "Write the remaining carry, 1, on the left.",
+        "Read the digits from left to right: 100."
+      ],
+      "answer": "100",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "97+3",
+          "expected": "100"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "section": "Calculations",
+      "prompt": "Calculate 52+31.",
+      "steps": [
+        "Ones column: 2 + 1 = 3. Write 3.",
+        "Tens column: 5 + 3 = 8. Write 8.",
+        "Read the digits from left to right: 83."
+      ],
+      "answer": "Sh. 83",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "52+31",
+          "expected": "83"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "section": "Calculations",
+      "prompt": "Calculate 4+8+12.",
+      "steps": [
+        "Ones column: 4 + 8 + 2 = 14. Write 4. Carry 1 to the next column.",
+        "Tens column: 0 + 0 + 1 + 1 = 2. Write 2.",
+        "Read the digits from left to right: 24."
+      ],
+      "answer": "24",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "4+8+12",
+          "expected": "24"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "section": "Calculations",
+      "prompt": "Calculate 67-5.",
+      "steps": [
+        "Ones column: 7 - 5 = 2; write 2.",
+        "Tens column: 6 - 0 = 6; write 6.",
+        "Read the result: 62. Check: 62 + 5 = 67."
+      ],
+      "answer": "62",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "67-5",
+          "expected": "62"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "section": "Calculations",
+      "prompt": "Calculate 90-18.",
+      "steps": [
+        "Ones column: 0 is too small to subtract 8. Regroup from the columns on its left to make 10.",
+        "Ones column: 10 - 8 = 2; write 2.",
+        "Tens column: 8 - 1 = 7; write 7.",
+        "Read the result: 72. Check: 72 + 18 = 90."
+      ],
+      "answer": "72",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "90-18",
+          "expected": "72"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "section": "Calculations",
+      "prompt": "Calculate 100-63.",
+      "steps": [
+        "Ones column: 0 is too small to subtract 3. Regroup from the columns on its left to make 10.",
+        "Ones column: 10 - 3 = 7; write 7.",
+        "Tens column: 9 - 6 = 3; write 3.",
+        "Hundreds column: 0 - 0 = 0; write 0.",
+        "Read the result: 37. Check: 37 + 63 = 100."
+      ],
+      "answer": "37",
+      "source_page": 4,
+      "math_checks": [
+        {
+          "expression": "100-63",
+          "expected": "37"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "section": "Calculations",
+      "prompt": "Calculate 37-4-2.",
+      "steps": [
+        "Align matching place values.",
+        "Subtract from the ones column, regrouping from the next column if needed.",
+        "37-4-2 = 31."
+      ],
+      "answer": "31",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "37-4-2",
+          "expected": "31"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "section": "Calculations",
+      "prompt": "Calculate 94-57.",
+      "steps": [
+        "Ones column: 4 is too small to subtract 7. Regroup from the columns on its left to make 14.",
+        "Ones column: 14 - 7 = 7; write 7.",
+        "Tens column: 8 - 5 = 3; write 3.",
+        "Read the result: 37. Check: 37 + 57 = 94."
+      ],
+      "answer": "Sh. 37",
+      "source_page": 5,
+      "math_checks": [
+        {
+          "expression": "94-57",
+          "expected": "37"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "section": "Numbers and calculations",
+      "prompt": "Find the missing number in the printed expression [ ] 16 = 49; the extracted text includes an addition sign.",
+      "steps": [
+        "The visible source omits the operation symbol.",
+        "If the intended equation is [ ] + 16 = 49, subtract 16: 49 - 16 = 33."
+      ],
+      "answer": "Conditional answer: 33 if the missing operation is +.",
+      "source_page": 5
+    },
+    {
+      "id": "40",
+      "section": "Numbers and calculations",
+      "prompt": "Solve [ ] - 22 = 58.",
+      "steps": [
+        "Undo subtraction by adding.",
+        "58 + 22 = 80."
+      ],
+      "answer": "80",
+      "source_page": 5
+    },
+    {
+      "id": "41",
+      "section": "Numbers and calculations",
+      "prompt": "Find the missing number in printed 61 - [ ]; extracted text includes = 25.",
+      "steps": [
+        "The visible page does not show the final equality/result.",
+        "If the intended equation is 61 - [ ] = 25, then 61 - 25 = 36."
+      ],
+      "answer": "Conditional answer: 36 if the missing result is 25.",
+      "source_page": 5
+    },
+    {
+      "id": "42",
+      "section": "Numbers and calculations",
+      "prompt": "Joyce has 33 oranges and John 42 mangoes. How many fruits altogether?",
+      "steps": [
+        "Combine the two counts.",
+        "33 + 42 = 75."
+      ],
+      "answer": "75 fruits",
+      "source_page": 5
+    },
+    {
+      "id": "43",
+      "section": "Numbers and calculations",
+      "prompt": "Teacher Masumbuko had 20 pencils and gave pupils 13. How many remain?",
+      "steps": [
+        "Giving away means subtracting.",
+        "20 - 13 = 7."
+      ],
+      "answer": "7 pencils",
+      "source_page": 5
+    },
+    {
+      "id": "44",
+      "section": "Numbers and calculations",
+      "prompt": "How many hands do 2 pupils and 1 teacher have altogether?",
+      "steps": [
+        "2 + 1 = 3 people.",
+        "3 x 2 = 6 hands."
+      ],
+      "answer": "6 hands",
+      "source_page": 5
+    },
+    {
+      "id": "45",
+      "section": "Numbers and calculations",
+      "prompt": "Write the number immediately before 85.",
+      "steps": [
+        "85 - 1 = 84."
+      ],
+      "answer": "84",
+      "source_page": 5
+    },
+    {
+      "id": "46",
+      "section": "Numbers and calculations",
+      "prompt": "How many months make a year?",
+      "steps": [
+        "Count January through December.",
+        "There are 12 months."
+      ],
+      "answer": "12 months",
+      "source_page": 5
+    },
+    {
+      "id": "47",
+      "section": "Numbers and calculations",
+      "prompt": "Name the pictured solid with two circular ends.",
+      "steps": [
+        "It has two parallel circular faces and a curved surface."
+      ],
+      "answer": "Cylinder",
+      "source_page": 5,
+      "image": "answer_keys/figures/primary-math/Mathematics-S1-2024-MESP-Tanzania-November-Annual-exam-Q47.png"
+    },
+    {
+      "id": "48",
+      "section": "Numbers and calculations",
+      "prompt": "Name the pictured five-sided shape.",
+      "steps": [
+        "Count its five straight sides."
+      ],
+      "answer": "Pentagon",
+      "source_page": 6
+    },
+    {
+      "id": "49",
+      "section": "Numbers and calculations",
+      "prompt": "Name the pictured four-sided shape.",
+      "steps": [
+        "It has opposite equal sides and four right angles."
+      ],
+      "answer": "Rectangle",
+      "source_page": 6,
+      "image": "answer_keys/figures/primary-math/Mathematics-S1-2024-MESP-Tanzania-November-Annual-exam-Q49.png"
+    },
+    {
+      "id": "50",
+      "section": "Numbers and calculations",
+      "prompt": "Draw an oval.",
+      "steps": [
+        "Draw a smooth closed curved outline, longer in one direction.",
+        "Make no corners."
+      ],
+      "answer": "A closed oval (ellipse).",
+      "source_page": 6
+    }
+  ],
+  "summaries": {
+    "Numbers and calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects.",
+    "Calculations": "Read each value and unit carefully. Align place values and check calculations by reversing the operation. For pictures, count only the requested objects."
+  },
+  "references": [
+    {
+      "title": "Darasa Huru - MESP STANDARD ONE ANNUAL EXAMS NOV 2024",
+      "url": "https://darasahuru.ac.tz/mesp-standard-one-annual-exams-nov-2024/"
+    }
+  ],
+  "limitations": [
+    "The source labels two different questions 14 and has no printed 15; both are covered by distinct ids.",
+    "Question 39 visibly omits its operation, and 41 visibly omits its equality/result; conditional answers are explained from the embedded text without pretending the visible source is complete."
+  ],
+  "reviewed": true,
+  "visual_reviewed": true,
+  "visual_review_pdf_sha256": "ee0ad0d2c58504c18528293ee1c126377d51d581406b61cd250630f2ad9faae6"
+}
