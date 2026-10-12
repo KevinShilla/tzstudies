@@ -5,13 +5,13 @@
 <header class="payment-heading"><div><p class="payment-eyebrow">TZSTUDIES ADMIN</p><h1>Payments</h1><p>Manage checkout readiness and review recent orders.</p></div><span class="payment-badge {{ 'is-paid' if enabled else '' }}">{{ 'Payments enabled' if enabled else 'Payments paused' }}</span></header>
 <div class="payment-grid">
   <article class="payment-card"><h2>Checkout readiness</h2>
-    <dl class="payment-settings"><dt>ClickPesa credentials</dt><dd>{{ 'Configured' if credentials_ready else 'Not configured' }}</dd><dt>Webhook validation</dt><dd>{{ 'Checksum + provider query' if checksum_enabled else 'Authenticated provider query' }}</dd><dt>Return URL</dt><dd>{{ return_url }}</dd><dt>Webhook URL</dt><dd>{{ webhook_url }}</dd></dl>
-    <p class="payment-note">Account activation and enabled payment methods must also be checked in ClickPesa. A return to the website never confirms a payment.</p>
+    <dl class="payment-settings"><dt>PayPal environment</dt><dd>{{ mode|title }}</dd><dt>PayPal credentials</dt><dd>{{ 'Configured' if credentials_ready else 'Not configured' }}</dd><dt>Webhook validation</dt><dd>{{ 'Configured · signature + provider query' if webhook_ready else 'Awaiting Webhook ID · notifications rejected' }}</dd><dt>Payment database</dt><dd>{{ "Schema ready" if schema_ready else "Needs migration" }}</dd><dt>Rate limit storage</dt><dd>{{ "Connected" if storage_ready else "Unavailable" }}</dd><dt>OpenAI configuration</dt><dd>{{ "Configured" if openai_ready else "Not configured" }}</dd><dt>Return URL</dt><dd>{{ return_url }}</dd><dt>Webhook URL</dt><dd>{{ webhook_url }}</dd></dl>
+    <p class="payment-note">Sandbox uses fake money only. Historical orders remain archived under their original provider. A return to the website never confirms a payment.</p>
   </article>
-  <article class="payment-card payment-test"><p class="payment-eyebrow">PRIVATE CHECKOUT TEST</p><h2>Try a small payment</h2>
+  <article class="payment-card payment-test"><p class="payment-eyebrow">PRIVATE SANDBOX TEST</p><h2>Try a fake $1 payment</h2>
     {% set plan_id = 'payment_test' %}{% set plan = plans.get(plan_id) %}
-    {% if plan %}<p>{{ plan.description }}</p><div class="payment-price">{{ plan.currency }} {{ '{:,.2f}'.format(plan.price|float) }}<small>One payment · provider fees may apply</small></div>
-    {% if enabled and plan.enabled and credentials_ready %}{% include 'payments/_checkout_form.html' %}
+    {% if plan %}<p>{{ plan.description }}</p><div class="payment-price">{{ plan.currency }} {{ '{:,.2f}'.format(plan.price|float) }}<small>Sandbox · no real charge · admin only</small></div>
+    {% if enabled and plan.enabled and credentials_ready and mode == 'sandbox' %}{% include 'payments/_checkout_form.html' %}
     {% else %}<p class="payment-note">Test checkout is paused. Configure the server credentials and enable PAYMENTS_ENABLED and PAYMENT_TEST_PLAN_ENABLED when you are ready.</p>{% endif %}
     {% else %}<p>No test plan configured.</p>{% endif %}
   </article>

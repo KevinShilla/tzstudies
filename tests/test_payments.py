@@ -1,55 +1,129 @@
-"""Payment trust boundaries, provider contract, access control and replay safety."""
+"""PayPal contract, payment ownership, CSRF and financially safe replay behavior."""
+
 import copy
-import json
 import re
 from contextlib import contextmanager
+from datetime import timedelta
 from decimal import Decimal
-from unittest.mock import Mock
-from urllib.parse import urlsplit
 
 import httpx
 import pytest
-from sqlalchemy import select
+from sqlalchemy import select, text
 
-from tzstudies.clickpesa import ClickPesa, GatewayError, checksum, valid_checkout_url, verify_checksum
-from tzstudies.payment_config import amount, configure_payments
-from tzstudies.payment_models import PaymentOrder, PaymentWebhookEvent
-from tzstudies.payments import ConfirmationError, apply_confirmation
+from tzstudies.payment_config import configure_payments, money_text
+from tzstudies.payment_models import PaymentOrder, PaymentWebhookEvent, upgrade_payment_schema, utcnow
+from tzstudies.payments import ConfirmationError, verified_record
+from tzstudies.paypal import GatewayError, PayPal, binding, request_id, valid_checkout_url
 
-WEBHOOK = "/payments/webhooks/clickpesa"
+WEBHOOK = "/payments/webhooks/paypal"
 
 
 class MockGateway:
+    base = "https://api-m.sandbox.paypal.com"
+
     def __init__(self):
         self.created = []
-        self.queries = []
-        self.records = []
-        self.error = None
+        self.captures = []
+        self.records = {}
+        self.capture_status = "COMPLETED"
+        self.error = False
+        self.valid_signature = True
+        self.refund = None
 
     def create_checkout(self, order):
-        self.created.append(order.order_reference)
+        self.created.append(order.id)
         if self.error:
             raise GatewayError()
-        return "https://checkout.clickpesa.com/mock/" + order.order_reference
+        data = {
+            "id": "ORDER123456789",
+            "intent": "CAPTURE",
+            "status": "PAYER_ACTION_REQUIRED",
+            "purchase_units": [
+                {
+                    "reference_id": order.id,
+                    "custom_id": binding(order),
+                    "invoice_id": order.order_reference,
+                    "amount": {"value": str(order.amount), "currency_code": order.currency},
+                    "items": [
+                        {
+                            "name": order.plan_name,
+                            "sku": order.plan_id,
+                            "quantity": "1",
+                            "category": "DIGITAL_GOODS",
+                            "unit_amount": {"value": str(order.amount), "currency_code": order.currency},
+                        }
+                    ],
+                }
+            ],
+            "links": [
+                {
+                    "rel": "payer-action",
+                    "method": "GET",
+                    "href": "https://www.sandbox.paypal.com/checkoutnow?token=ORDER123456789",
+                }
+            ],
+        }
+        self.records[data["id"]] = data
+        return copy.deepcopy(data)
 
-    def query_payment(self, reference):
-        self.queries.append(reference)
+    def get_order(self, identifier):
         if self.error:
             raise GatewayError()
-        return copy.deepcopy(self.records)
+        return copy.deepcopy(self.records[identifier])
+
+    def approve(self):
+        self.records["ORDER123456789"]["status"] = "APPROVED"
+
+    def capture_order(self, order):
+        self.captures.append(order.id)
+        if self.error:
+            raise GatewayError()
+        data = self.records[order.provider_id]
+        data["status"] = "COMPLETED"
+        unit = data["purchase_units"][0]
+        unit["payments"] = {
+            "captures": [
+                {
+                    "id": "CAPTURE1234567",
+                    "status": self.capture_status,
+                    "final_capture": True,
+                    "amount": unit["amount"],
+                    "invoice_id": order.order_reference,
+                    "custom_id": binding(order),
+                    "supplementary_data": {"related_ids": {"order_id": order.provider_id}},
+                }
+            ]
+        }
+        return copy.deepcopy(data)
+
+    def get_capture(self, identifier):
+        if self.error:
+            raise GatewayError()
+        return copy.deepcopy(self.records["ORDER123456789"]["purchase_units"][0]["payments"]["captures"][0])
+
+    def get_refund(self, identifier):
+        return copy.deepcopy(self.refund)
+
+    def verify_webhook(self, payload, headers, raw_body=None):
+        return self.valid_signature
 
 
 @pytest.fixture
 def payment_setup(app, monkeypatch):
-    monkeypatch.setitem(app.config, "PAYMENTS_ENABLED", True)
-    monkeypatch.setitem(app.config, "CLICKPESA_CLIENT_ID", "mock-client")
-    monkeypatch.setitem(app.config, "CLICKPESA_API_KEY", "mock-api-key")
-    monkeypatch.setitem(app.config, "CLICKPESA_CHECKSUM_KEY", "")
+    for key, value in {
+        "PAYMENTS_ENABLED": True,
+        "PAYMENT_TEST_PLAN_ENABLED": True,
+        "PAYPAL_CLIENT_ID": "mock-client",
+        "PAYPAL_CLIENT_SECRET": "mock-secret",
+        "PAYPAL_WEBHOOK_ID": "mock-webhook",
+        "PAYPAL_MODE": "sandbox",
+    }.items():
+        monkeypatch.setitem(app.config, key, value)
     catalog = copy.deepcopy(app.extensions["payment_catalog"])
     catalog["plans"]["payment_test"]["enabled"] = True
     monkeypatch.setitem(app.extensions, "payment_catalog", catalog)
     gateway = MockGateway()
-    monkeypatch.setitem(app.extensions, "clickpesa", gateway)
+    monkeypatch.setitem(app.extensions, "paypal", gateway)
     return gateway
 
 
@@ -65,396 +139,435 @@ def start(client):
     page = client.get("/admin/payments")
     assert page.status_code == 200
     token = re.search(rb'name="intent" value="([^"]+)"', page.data).group(1).decode()
-    response = client.post("/payments/checkout/payment_test", data={"intent": token, "amount": "1", "currency": "USD", "price": "1"})
+    response = client.post(
+        "/payments/checkout/payment_test", data={"intent": token, "amount": "999", "currency": "TZS", "user_id": "999"}
+    )
     return token, response
 
 
-def order_data(app, db):
+def local_order(app, db):
     with app.app_context():
-        order = db.session.scalar(select(PaymentOrder))
-        return order.id, order.order_reference
+        return db.session.scalar(select(PaymentOrder))
 
 
-def provider_record(reference, **changes):
-    record = {"id": "provider-transaction-1", "clientId": "mock-client", "orderReference": reference,
-              "status": "SUCCESS", "collectedAmount": 1000, "collectedCurrency": "TZS", "paymentReference": "receipt-1"}
-    record.update(changes)
-    return record
+def capture(client, order):
+    return client.post(f"/payments/orders/{order.id}/capture", data={"token": order.provider_id})
 
 
-def notification(record, event="PAYMENT RECEIVED"):
-    return {"event": event, "data": copy.deepcopy(record)}
+def notification(gateway, event="PAYMENT.CAPTURE.COMPLETED", event_id="WH-MOCK1"):
+    resource = gateway.get_capture("CAPTURE1234567")
+    if event == "PAYMENT.CAPTURE.REFUNDED":
+        resource = copy.deepcopy(gateway.refund)
+        resource["supplementary_data"] = {"related_ids": {"capture_id": "CAPTURE1234567", "order_id": "ORDER123456789"}}
+    return {"id": event_id, "event_type": event, "resource": resource}
 
 
-def test_admin_only_and_disabled_by_default(app, client, auth_client, db, sample_user):
+def test_paused_and_admin_permissions(app, client, auth_client):
     assert app.test_client().get("/admin/payments").status_code == 302
     assert auth_client.get("/admin/payments").status_code == 403
-    assert auth_client.post("/payments/checkout/payment_test", data={}).status_code == 404
-    assert b"payment_test" not in auth_client.get("/payments").data
-    assert auth_client.get("/").status_code == 200
-    with app.app_context():
-        assert db.session.query(type(sample_user)).filter_by(is_admin=True).count() == 0
+    assert auth_client.post("/payments/checkout/payment_test").status_code == 404
+    assert client.post(WEBHOOK, json={}).status_code == 503
+    assert client.post("/payments/webhooks/clickpesa", json={}).status_code == 404
 
 
-def test_checkout_uses_snapshot_and_reuses_intent(app, db, payment_setup, payment_admin):
+def test_server_price_and_duplicate_intent(app, db, payment_setup, payment_admin):
     token, response = start(payment_admin)
-    assert response.status_code == 200 and b"window.location.replace" in response.data
+    assert response.status_code == 200
+    assert b"window.location.replace" in response.data
     assert "form-action 'self'" in response.headers["Content-Security-Policy"]
     assert response.headers["Cache-Control"] == "no-store, private"
-    assert response.headers["Referrer-Policy"] == "same-origin"
-    with app.app_context():
-        order = db.session.scalar(select(PaymentOrder))
-        assert order.amount == Decimal("1000.00") and order.currency == "TZS"
-        assert re.fullmatch(r"[A-Z0-9]{34}", order.order_reference)
-        assert order.plan_snapshot["ai_allowance"] == 0
+    order = local_order(app, db)
+    assert order.amount == Decimal("1.00") and order.currency == "USD" and order.provider == "paypal"
+    assert order.provider_mode == "sandbox" and order.plan_snapshot["features"] == []
     assert payment_admin.post("/payments/checkout/payment_test", data={"intent": token}).status_code == 200
     assert len(payment_setup.created) == 1
 
 
-def test_user_cannot_purchase_admin_test(app, payment_setup, auth_client):
-    assert auth_client.post("/payments/checkout/payment_test", data={"intent": "forged"}).status_code == 404
-    assert not payment_setup.created
-
-
-def test_invalid_intent_and_unknown_plan(payment_setup, payment_admin):
-    assert payment_admin.post("/payments/checkout/payment_test", data={"intent": "forged"}).status_code == 400
-    assert payment_admin.post("/payments/checkout/unknown", data={}).status_code == 404
-    assert not payment_setup.created
-
-
-def test_return_never_confirms_and_is_private(app, db, payment_setup, payment_admin, client):
+def test_return_alone_never_confirms(app, db, payment_setup, payment_admin):
     start(payment_admin)
-    identifier, reference = order_data(app, db)
-    response = payment_admin.get("/payments/return?success=true&status=SUCCESS&amount=1000&orderReference=" + reference)
-    assert response.status_code == 200 and b"Awaiting payment confirmation" in response.data
-    assert not payment_setup.queries
-    assert payment_admin.get(f"/payments/orders/{identifier}/status").json["status"] == "pending"
-    assert app.test_client().get(f"/payments/orders/{identifier}/status").status_code == 302
-    assert payment_admin.get("/payments/return?orderReference=bad%2Freference").status_code == 400
+    order = local_order(app, db)
+    response = payment_admin.get(f"/payments/return?order={order.id}&token={order.provider_id}&status=COMPLETED")
+    assert response.status_code == 200 and b"captureApproved" in response.data
+    assert local_order(app, db).status == "pending" and payment_setup.captures == []
+    assert payment_admin.get(f"/payments/return?order={order.id}&token=WRONG123").status_code == 400
+    assert capture(payment_admin, order).status_code == 303
+    assert local_order(app, db).status == "pending"  # provider has not approved
 
 
-def test_other_user_cannot_see_order(app, db, payment_setup, payment_admin, sample_user):
+@pytest.mark.parametrize(
+    "status,expected", [("COMPLETED", "paid"), ("PENDING", "processing"), ("DECLINED", "failed"), ("FAILED", "failed")]
+)
+def test_capture_states(app, db, payment_setup, payment_admin, status, expected):
+    start(payment_admin)
+    order = local_order(app, db)
+    payment_setup.approve()
+    payment_setup.capture_status = status
+    assert capture(payment_admin, order).status_code == 303
+    stored = local_order(app, db)
+    assert stored.status == expected
+    assert bool(stored.completed_at) == (status == "COMPLETED")
+    assert stored.payment_reference == "CAPTURE1234567"
+    assert payment_admin.get(f"/payments/orders/{order.id}").status_code == 200
+
+
+def test_capture_replay_and_signature_webhook_replay(app, db, payment_setup, payment_admin):
+    start(payment_admin)
+    order = local_order(app, db)
+    payment_setup.approve()
+    capture(payment_admin, order)
+    completed = local_order(app, db).completed_at
+    capture(payment_admin, order)
+    assert len(payment_setup.captures) == 1
+    payload = notification(payment_setup)
+    assert payment_admin.post(WEBHOOK, json=payload).status_code == 204
+    assert payment_admin.post(WEBHOOK, json=payload).status_code == 204
+    with app.app_context():
+        assert db.session.query(PaymentWebhookEvent).count() == 1
+        assert db.session.get(PaymentOrder, order.id).completed_at == completed
+    payment_setup.valid_signature = False
+    assert payment_admin.post(WEBHOOK, json=payload).status_code == 403
+
+
+def test_webhook_recovers_capture_when_browser_closed(app, db, payment_setup, payment_admin):
+    start(payment_admin)
+    order = local_order(app, db)
+    payment_setup.approve()
+    payment_setup.capture_order(order)
+    assert payment_admin.post(WEBHOOK, json=notification(payment_setup)).status_code == 204
+    assert local_order(app, db).status == "paid"
+
+
+@pytest.mark.parametrize(
+    "field",
+    [
+        "order_id",
+        "amount",
+        "currency",
+        "custom_id",
+        "invoice_id",
+        "sku",
+        "name",
+        "user",
+        "multiple_captures",
+        "capture_id",
+        "final_capture",
+    ],
+)
+def test_mismatched_financial_data_rejected(app, db, payment_setup, payment_admin, field):
+    start(payment_admin)
+    order = local_order(app, db)
+    payment_setup.approve()
+    payment_setup.capture_order(order)
+    data = payment_setup.records[order.provider_id]
+    unit = data["purchase_units"][0]
+    if field == "order_id":
+        data["id"] = "WRONG123"
+    elif field == "amount":
+        unit["amount"]["value"] = "2.00"
+    elif field == "currency":
+        unit["amount"]["currency_code"] = "EUR"
+    elif field == "custom_id":
+        unit["custom_id"] = "wrong"
+    elif field == "invoice_id":
+        unit["invoice_id"] = "wrong"
+    elif field == "sku":
+        unit["items"][0]["sku"] = "wrong"
+    elif field == "name":
+        unit["items"][0]["name"] = "wrong"
+    elif field == "user":
+        with app.app_context():
+            db.session.get(PaymentOrder, order.id).user_id += 999
+            # Verify detached expected-user mutation without a foreign-key DB update.
+            db.session.rollback()
+        order.user_id += 999
+    elif field == "multiple_captures":
+        unit["payments"]["captures"].append(copy.deepcopy(unit["payments"]["captures"][0]))
+    elif field == "capture_id":
+        unit["payments"]["captures"][0]["id"] = "bad!"
+    elif field == "final_capture":
+        unit["payments"]["captures"][0]["final_capture"] = False
+    with app.app_context(), pytest.raises(ConfirmationError):
+        verified_record(order, data)
+    assert local_order(app, db).completed_at is None
+
+
+def test_cancellation_and_other_users_order(app, db, payment_setup, payment_admin):
+    start(payment_admin)
+    order = local_order(app, db)
+    assert payment_admin.get(f"/payments/return?order={order.id}&cancelled=1").status_code == 200
+    assert local_order(app, db).status == "pending"
+    assert payment_admin.post(f"/payments/orders/{order.id}/cancel").status_code == 303
+    payment_setup.approve()
+    capture(payment_admin, order)
+    assert local_order(app, db).status == "cancelled" and payment_setup.captures == []
     from tzstudies.models import User
-    from tzstudies.security import hash_password
-    start(payment_admin)
-    identifier, reference = order_data(app, db)
+
     with app.app_context():
-        db.session.add(User(name="Other", email="other@example.test", pw_hash=hash_password("Sunsets paint mountains!")))
+        from tzstudies.security import hash_password
+
+        user = User(
+            name="Other",
+            email="other@example.test",
+            pw_hash=hash_password("Another river remembers sunrise!"),
+            is_admin=True,
+        )
+        db.session.add(user)
         db.session.commit()
+        other_id = user.id
     other = app.test_client()
-    other.post("/login", data={"email": "other@example.test", "password": "Sunsets paint mountains!"})
-    assert other.get(f"/payments/orders/{identifier}").status_code == 404
-    assert other.get(f"/payments/orders/{identifier}/status").status_code == 404
-    assert other.post(f"/payments/orders/{identifier}/check").status_code == 404
-    assert other.get("/payments/return?orderReference=" + reference).status_code == 404
-
-
-def test_valid_webhook_idempotence_no_sensitive_payload(app, db, payment_setup, payment_admin, client):
-    start(payment_admin)
-    identifier, reference = order_data(app, db)
-    record = provider_record(reference)
-    record["customer"] = {"customerName": "Private person", "customerEmail": "private@example.test", "customerPhoneNumber": "255700000000"}
-    payment_setup.records = [record]
-    payload = notification(record)
-    assert client.post(WEBHOOK, json=payload).status_code == 204
+    other.post("/login", data={"email": "other@example.test", "password": "Another river remembers sunrise!"})
+    assert other.get(f"/payments/orders/{order.id}").status_code == 200  # admin read-only
+    assert other.post(f"/payments/orders/{order.id}/capture", data={"token": order.provider_id}).status_code == 404
+    assert other.get(f"/payments/return?order={order.id}&token={order.provider_id}").status_code == 404
     with app.app_context():
-        db.session.expire_all()
-        order = db.session.get(PaymentOrder, identifier)
-        completed = order.completed_at
-        assert order.status == "paid" and completed and order.checkout_url is None
-        assert order.provider_id == record["id"] and order.payment_reference == record["paymentReference"]
-        assert db.session.query(PaymentWebhookEvent).count() == 1
-        assert "customer" not in order.plan_snapshot
-        assert "customer" not in PaymentWebhookEvent.__table__.columns
-    # Different JSON formatting/extra fields must not defeat replay protection.
-    payload["extra"] = "replay"
-    assert client.post(WEBHOOK, data=json.dumps(payload), content_type="application/json").status_code == 204
-    assert len(payment_setup.queries) == 1
-    with app.app_context():
-        db.session.expire_all()
-        assert db.session.get(PaymentOrder, identifier).completed_at == completed
-        assert db.session.query(PaymentWebhookEvent).count() == 1
-    assert payment_admin.get(f"/payments/orders/{identifier}/status").json["status"] == "paid"
-    assert b"Payment confirmed" in payment_admin.get("/payments/return").data
+        db.session.get(User, other_id).is_admin = False
+        db.session.commit()
+    assert other.get(f"/payments/orders/{order.id}").status_code == 404
 
 
-@pytest.mark.parametrize("changes", [
-    {"status": "PENDING"}, {"collectedAmount": 1}, {"collectedCurrency": "USD"},
-    {"clientId": "wrong-client"}, {"id": "other-transaction"}, {"orderReference": "OTHERORDER"},
-    {"paymentReference": "bad/ref"}, {"collectedAmount": "NaN"}, {"status": "UNKNOWN"},
-])
-def test_forged_success_cannot_complete(app, db, payment_setup, payment_admin, client, changes):
+@pytest.mark.parametrize(
+    "status,event",
+    [
+        ("REFUNDED", "PAYMENT.CAPTURE.REFUNDED"),
+        ("PARTIALLY_REFUNDED", "PAYMENT.CAPTURE.REFUNDED"),
+        ("COMPLETED", "PAYMENT.CAPTURE.REVERSED"),
+    ],
+)
+def test_refunds_reversals_cannot_be_resurrected(app, db, payment_setup, payment_admin, status, event):
     start(payment_admin)
-    identifier, reference = order_data(app, db)
-    valid = provider_record(reference)
-    payment_setup.records = [provider_record(reference, **changes)]
-    assert client.post(WEBHOOK, json=notification(valid)).status_code == 503
-    with app.app_context():
-        db.session.expire_all()
-        assert db.session.get(PaymentOrder, identifier).status == "pending"
-        assert db.session.query(PaymentWebhookEvent).count() == 0
+    order = local_order(app, db)
+    payment_setup.approve()
+    capture(payment_admin, order)
+    payment_setup.records[order.provider_id]["purchase_units"][0]["payments"]["captures"][0]["status"] = status
+    payment_setup.refund = {
+        "id": "REFUND123456",
+        "status": "COMPLETED",
+        "amount": {"value": "1.00" if status == "REFUNDED" else "0.50", "currency_code": "USD"},
+    }
+    assert payment_admin.post(WEBHOOK, json=notification(payment_setup, event)).status_code == 204
+    before = local_order(app, db).status
+    assert before == ("reversed" if event.endswith("REVERSED") else status.lower())
+    assert local_order(app, db).refunded_at
+    payment_setup.records[order.provider_id]["purchase_units"][0]["payments"]["captures"][0]["status"] = "COMPLETED"
+    assert payment_admin.post(WEBHOOK, json=notification(payment_setup, event_id="WH-REPLAY2")).status_code == 204
+    assert local_order(app, db).status == before
 
 
-def test_notification_tampering_rejected_before_query(app, db, payment_setup, payment_admin, client):
+def test_webhook_invalid_body_and_unconfirmed_capture(app, db, payment_setup, payment_admin):
+    assert payment_admin.post(WEBHOOK, data='{"id":"a","id":"b"}', content_type="application/json").status_code == 400
+    assert payment_admin.post(WEBHOOK, json={}).status_code == 400
     start(payment_admin)
-    _, reference = order_data(app, db)
-    payment_setup.records = [provider_record(reference)]
-    assert client.post(WEBHOOK, json=notification(provider_record(reference, collectedAmount="1"))).status_code == 400
-    assert not payment_setup.queries
-    assert client.post(WEBHOOK, data='{"event":"PAYMENT RECEIVED","event":"PAYMENT FAILED"}', content_type="application/json").status_code == 400
-    assert client.post(WEBHOOK, json={"event": "PAYOUT INITIATED", "data": {}}).status_code == 400
-    assert client.post(WEBHOOK, data="not json").status_code == 400
+    order = local_order(app, db)
+    payment_setup.approve()
+    payment_setup.capture_status = "PENDING"
+    payment_setup.capture_order(order)
+    assert payment_admin.post(WEBHOOK, json=notification(payment_setup)).status_code == 503
+    assert local_order(app, db).completed_at is None
 
 
-def test_required_signature_missing_tampered_valid(app, db, payment_setup, payment_admin, client, monkeypatch):
+def test_pending_to_completed_webhook(app, db, payment_setup, payment_admin):
     start(payment_admin)
-    _, reference = order_data(app, db)
-    payment_setup.records = [provider_record(reference)]
-    monkeypatch.setitem(app.config, "CLICKPESA_CHECKSUM_KEY", "mock-checksum-secret")
-    payload = notification(provider_record(reference))
-    assert client.post(WEBHOOK, json=payload).status_code == 403
-    payload["checksum"] = checksum(payload, "mock-checksum-secret")
-    bad = copy.deepcopy(payload)
-    bad["data"]["collectedAmount"] = 1
-    assert client.post(WEBHOOK, json=bad).status_code == 403
-    assert not payment_setup.queries
-    assert client.post(WEBHOOK, json=payload).status_code == 204
+    order = local_order(app, db)
+    payment_setup.approve()
+    payment_setup.capture_status = "PENDING"
+    capture(payment_admin, order)
+    assert payment_admin.post(WEBHOOK, json=notification(payment_setup, "PAYMENT.CAPTURE.PENDING")).status_code == 204
+    payment_setup.records[order.provider_id]["purchase_units"][0]["payments"]["captures"][0]["status"] = "COMPLETED"
+    assert payment_admin.post(WEBHOOK, json=notification(payment_setup, event_id="WH-COMPLETED2")).status_code == 204
+    assert local_order(app, db).status == "paid"
 
 
-def test_failure_without_amount_and_late_failure_preserves_success(app, db, payment_setup, payment_admin, client):
-    start(payment_admin)
-    identifier, reference = order_data(app, db)
-    failed = {"id": "failed-attempt", "orderReference": reference, "clientId": "mock-client", "status": "FAILED"}
-    payment_setup.records = [failed]
-    assert client.post(WEBHOOK, json=notification(failed, "PAYMENT FAILED")).status_code == 204
-    assert payment_admin.get(f"/payments/orders/{identifier}/status").json["status"] == "failed"
-    paid = provider_record(reference)
-    payment_setup.records = [paid]
-    assert client.post(WEBHOOK, json=notification(paid)).status_code == 204
-    late = dict(failed, id="late-failed-attempt")
-    payment_setup.records = [late]
-    assert client.post(WEBHOOK, json=notification(late, "PAYMENT FAILED")).status_code == 204
-    assert payment_admin.get(f"/payments/orders/{identifier}/status").json["status"] == "paid"
-
-
-def test_reconciliation_snapshot_and_terminal_refund(app, db, payment_setup, payment_admin):
-    start(payment_admin)
-    identifier, reference = order_data(app, db)
-    app.extensions["payment_catalog"]["plans"]["payment_test"]["price"] = "5000.00"
-    payment_setup.records = [provider_record(reference)]
-    assert payment_admin.post(f"/payments/orders/{identifier}/check").status_code == 303
-    with app.app_context():
-        apply_confirmation(identifier, provider_record(reference, status="REFUNDED"))
-        apply_confirmation(identifier, provider_record(reference))
-        db.session.expire_all()
-        order = db.session.get(PaymentOrder, identifier)
-        assert order.amount == 1000 and order.status == "refunded" and order.provider_status == "REFUNDED"
-
-
-def test_checkout_timeout_not_retried_or_marked_paid(app, db, payment_setup, payment_admin):
+def test_creation_error_does_not_repeat(app, db, payment_setup, payment_admin):
     payment_setup.error = True
     token, response = start(payment_admin)
     assert response.status_code == 303
-    assert payment_admin.post("/payments/checkout/payment_test", data={"intent": token}).status_code == 303
+    assert local_order(app, db).status == "checkout_unknown"
+    payment_admin.post("/payments/checkout/payment_test", data={"intent": token})
     assert len(payment_setup.created) == 1
+
+
+def test_minimal_create_and_capture_responses(app, db, payment_setup, payment_admin, monkeypatch):
+    create = payment_setup.create_checkout
+
+    def minimal_create(order):
+        full = create(order)
+        return {k: full[k] for k in ("id", "status", "links")}
+
+    monkeypatch.setattr(payment_setup, "create_checkout", minimal_create)
+    start(payment_admin)
+    order = local_order(app, db)
+    assert order.status == "pending"
+    original = payment_setup.capture_order
+
+    def minimal_capture(order):
+        full = original(order)
+        return {k: full[k] for k in ("id", "status")}
+
+    monkeypatch.setattr(payment_setup, "capture_order", minimal_capture)
+    payment_setup.approve()
+    capture(payment_admin, order)
+    assert local_order(app, db).status == "paid"
+
+
+def test_capture_unknown_saved_and_safe_retry(app, db, payment_setup, payment_admin, monkeypatch):
+    start(payment_admin)
+    order = local_order(app, db)
+    payment_setup.approve()
+    original = payment_setup.capture_order
+
+    def timeout(order):
+        raise GatewayError()
+
+    monkeypatch.setattr(payment_setup, "capture_order", timeout)
+    capture(payment_admin, order)
+    assert local_order(app, db).status == "processing" and local_order(app, db).capture_requested_at
     with app.app_context():
-        assert db.session.scalar(select(PaymentOrder)).status == "checkout_unknown"
+        db.session.get(PaymentOrder, order.id).capture_requested_at = utcnow() - timedelta(hours=7)
+        db.session.commit()
+    monkeypatch.setattr(payment_setup, "capture_order", original)
+    capture(payment_admin, order)
+    assert payment_setup.captures == []
 
 
-def test_csrf_required_checkout_but_not_webhook(app, db, payment_setup, payment_admin, client, monkeypatch):
-    token, _ = start(payment_admin)
-    _, reference = order_data(app, db)
+def test_csrf_on_every_browser_mutation(app, db, payment_setup, payment_admin, monkeypatch):
+    start(payment_admin)
+    order = local_order(app, db)
     monkeypatch.setitem(app.config, "WTF_CSRF_ENABLED", True)
-    assert payment_admin.post("/payments/checkout/payment_test", data={"intent": token}).status_code == 400
-    payment_setup.records = [provider_record(reference)]
-    assert client.post(WEBHOOK, json=notification(provider_record(reference))).status_code == 204
+    for path in (
+        "/payments/checkout/payment_test",
+        f"/payments/orders/{order.id}/capture",
+        f"/payments/orders/{order.id}/cancel",
+        f"/payments/orders/{order.id}/check",
+    ):
+        assert payment_admin.post(path).status_code == 400
+    page = payment_admin.get("/admin/payments")
+    csrf = re.search(rb'name="csrf_token" value="([^"]+)"', page.data).group(1).decode()
+    assert payment_admin.post(f"/payments/orders/{order.id}/cancel", data={"csrf_token": csrf}).status_code == 303
 
 
-def test_https_checkout_from_browser_keeps_strict_csrf(app, db, payment_setup, payment_admin, monkeypatch):
-    monkeypatch.setitem(app.config, "WTF_CSRF_ENABLED", True)
-    rejections = []
-    reject = app.extensions["csrf"]._error_response
+def test_no_secrets_in_pages(app, db, payment_setup, payment_admin):
+    _, response = start(payment_admin)
+    order = local_order(app, db)
+    for page in (response, payment_admin.get("/admin/payments"), payment_admin.get(f"/payments/orders/{order.id}")):
+        assert b"mock-secret" not in page.data and b"mock-client" not in page.data and b"mock-webhook" not in page.data
 
-    def record_rejection(reason):
-        rejections.append(reason)
-        return reject(reason)
 
-    monkeypatch.setattr(app.extensions["csrf"], "_error_response", record_rejection)
-    page = payment_admin.get("/admin/payments", base_url="https://localhost")
-    assert page.status_code == 200
-    intent = re.search(rb'name="intent" value="([^"]+)"', page.data).group(1).decode()
-    csrf_token = re.search(rb'name="csrf_token" value="([^"]+)"', page.data).group(1).decode()
-    # Browsers omit Referer even for their own forms when the page says no-referrer.
-    headers = {"Referer": "https://localhost/admin/payments"} if page.headers["Referrer-Policy"] == "same-origin" else {}
-    response = payment_admin.post("/payments/checkout/payment_test", base_url="https://localhost",
-                                  data={"intent": intent, "csrf_token": csrf_token}, headers=headers)
-    assert response.status_code == 200, rejections
-    assert app.config["WTF_CSRF_SSL_STRICT"] is True
-    assert len(payment_setup.created) == 1
+def test_legacy_order_cannot_be_captured(app, db, payment_setup, payment_admin):
+    start(payment_admin)
+    order = local_order(app, db)
     with app.app_context():
-        assert db.session.scalar(select(PaymentOrder)).status == "pending"
+        db.session.get(PaymentOrder, order.id).provider = "clickpesa"
+        db.session.commit()
+    capture(payment_admin, order)
+    assert payment_setup.captures == []
+    assert b"Archived order" in payment_admin.get(f"/payments/orders/{order.id}").data
 
 
-@pytest.mark.parametrize("referrer, csrf_value", [
-    (None, "valid"), ("https://other.example/admin/payments", "valid"),
-    ("https://localhost/admin/payments", "invalid"), ("https://localhost/admin/payments", None),
-])
-def test_https_checkout_rejects_invalid_csrf_and_referrer(app, db, payment_setup, payment_admin, monkeypatch, referrer, csrf_value):
-    monkeypatch.setitem(app.config, "WTF_CSRF_ENABLED", True)
-    page = payment_admin.get("/admin/payments", base_url="https://localhost")
-    intent = re.search(rb'name="intent" value="([^"]+)"', page.data).group(1).decode()
-    data = {"intent": intent}
-    if csrf_value:
-        data["csrf_token"] = re.search(rb'name="csrf_token" value="([^"]+)"', page.data).group(1).decode() if csrf_value == "valid" else "invalid"
-    response = payment_admin.post("/payments/checkout/payment_test", base_url="https://localhost",
-                                  data=data, headers={"Referer": referrer} if referrer else {})
-    assert response.status_code == 400
-    assert not payment_setup.created
-    with app.app_context():
-        assert db.session.scalar(select(PaymentOrder)) is None
+def test_config_sandbox_currency_safety(app, monkeypatch):
+    config = copy.deepcopy(app.config)
+    catalog = copy.deepcopy(app.extensions["payment_catalog"])
+    import tzstudies.payment_config as module
 
-
-@pytest.mark.parametrize("value", [float("nan"), "NaN", "1e3", "1000.001", True, "-1", "1,000", None])
-def test_invalid_money(value):
-    with pytest.raises(ValueError):
-        amount(value)
-
-
-@pytest.mark.parametrize("url", ["http://checkout.clickpesa.com/abc", "https://evilclickpesa.com/abc", "https://clickpesa.com.evil.test/abc", "https://clickpesa.com@evil.test/abc", "https://clickpesa.com:444/abc", "javascript:alert(1)", "https://clickpesa.com/abc\n"])
-def test_unsafe_checkout_urls(url):
-    assert not valid_checkout_url(url, ("clickpesa.com",))
-
-
-def test_gateway_exact_api_contract_cached_token(app, payment_setup, monkeypatch):
-    gateway = ClickPesa(app.config)
-    calls = []
-    def request(method, path, headers, payload=None):
-        calls.append((method, path, headers, payload))
-        if path == "/generate-token":
-            return {"success": True, "token": "Bearer mock-token"}
-        if method == "GET":
-            return []
-        return {"clientId": "mock-client", "checkoutLink": "https://checkout.clickpesa.com/mock"}
-    monkeypatch.setattr(gateway, "_request", request)
-    order = Mock(amount=Decimal("1000.00"), order_reference="TZABC123", currency="TZS", plan_name="Test")
-    gateway.create_checkout(order)
-    gateway.query_payment(order.order_reference)
-    assert [call[1] for call in calls] == ["/generate-token", "/checkout-link/generate-checkout-url", "/payments/TZABC123"]
-    assert calls[0][2]["client-id"] == "mock-client" and calls[0][2]["api-key"] == "mock-api-key"
-    assert calls[1][2]["Authorization"] == "Bearer mock-token"
-    assert calls[1][3] == {"totalPrice": "1000.00", "orderReference": "TZABC123", "orderCurrency": "TZS", "description": "Test"}
-
-
-def test_gateway_http_errors_safe_no_redirect_or_retry(app, payment_setup, monkeypatch):
-    calls = []
-    @contextmanager
-    def stream(method, url, **kwargs):
-        calls.append(kwargs)
-        yield httpx.Response(403, text="private provider body and mock-api-key")
-    monkeypatch.setattr(httpx, "stream", stream)
-    with pytest.raises(GatewayError) as error:
-        ClickPesa(app.config)._authorization()
-    assert "mock-api-key" not in str(error.value) and "private" not in str(error.value)
-    assert len(calls) == 1 and calls[0]["follow_redirects"] is False and calls[0]["trust_env"] is False
-
-
-def test_token_malformed_and_401_refresh(app, payment_setup, monkeypatch):
-    gateway = ClickPesa(app.config)
-    monkeypatch.setattr(gateway, "_request", Mock(return_value=["bad response"]))
-    with pytest.raises(GatewayError):
-        gateway._authorization()
-    requests = Mock(side_effect=[{"success": True, "token": "first"}, GatewayError("credentials"), {"success": True, "token": "second"}, []])
-    monkeypatch.setattr(gateway, "_request", requests)
-    assert gateway.query_payment("TZABC123") == []
-    assert requests.call_count == 4
-
-
-def test_checksums_canonical_nested_unicode():
-    payload = {"event": "PAYMENT RECEIVED", "data": {"z": [2, 1], "name": "Mwanafunzi wa Dar es Salaam — hesabu", "a": {"b": 2, "a": 1}}}
-    for ascii_only in (True, False):
-        payload["checksum"] = checksum(payload, "mock-checksum", ascii_only)
-        assert verify_checksum(payload, "mock-checksum")
-    payload["data"]["a"]["b"] = 3
-    assert not verify_checksum(payload, "mock-checksum")
-
-
-def test_invalid_payment_origin_config(app, monkeypatch):
-    monkeypatch.setitem(app.config, "PAYMENT_RETURN_URL", "https://evil.test/payments/return")
+    monkeypatch.setattr(module, "load_catalog", lambda path: copy.deepcopy(catalog))
+    monkeypatch.setitem(app.config, "PAYMENT_TEST_PLAN_ENABLED", True)
+    monkeypatch.setitem(app.config, "PAYPAL_MODE", "live")
     with pytest.raises(RuntimeError):
         configure_payments(app)
+    monkeypatch.setitem(app.config, "PAYPAL_MODE", "sandbox")
+    monkeypatch.setitem(app.config, "PAYMENT_TEST_PLAN_ENABLED", False)
+    catalog["plans"]["payment_test"].update(enabled=True, admin_only=False)
+    with pytest.raises(RuntimeError):
+        configure_payments(app)
+    app.config.update(config)
 
 
-def test_decimal_catalogue_price_matches_display_and_order(app, db, payment_setup, payment_admin):
-    app.extensions["payment_catalog"]["plans"]["payment_test"]["price"] = "1000.75"
-    assert b"TZS 1,000.75" in payment_admin.get("/admin/payments").data
+@pytest.mark.parametrize(
+    "url,mode,expected",
+    [
+        ("https://www.sandbox.paypal.com/checkoutnow?token=ABC", "sandbox", True),
+        ("https://www.paypal.com/checkoutnow?token=ABC", "sandbox", False),
+        ("https://www.sandbox.paypal.com.evil.test/checkoutnow", "sandbox", False),
+        ("https://www.paypal.com/checkoutnow", "live", True),
+        ("https://evil.test/checkoutnow", "live", False),
+        ("http://www.sandbox.paypal.com/checkoutnow", "sandbox", False),
+    ],
+)
+def test_checkout_hosts(url, mode, expected):
+    assert valid_checkout_url(url, mode) == expected
+
+
+def test_money_precision():
+    assert money_text("1.00", "USD") == "1.00"
+    assert money_text("100", "JPY") == "100"
+    for value, currency in (("1.50", "JPY"), ("1000", "TZS"), ("NaN", "USD"), (True, "USD")):
+        with pytest.raises(ValueError):
+            money_text(value, currency)
+
+
+def test_provider_requests_oauth_idempotency_and_signature(app, db, payment_setup, payment_admin, monkeypatch):
     start(payment_admin)
-    with app.app_context():
-        assert db.session.scalar(select(PaymentOrder)).amount == Decimal("1000.75")
+    order = local_order(app, db)
+    client = PayPal(app.config)
+    calls = []
+
+    @contextmanager
+    def stream(method, url, **kwargs):
+        calls.append((method, url, kwargs))
+        if url.endswith("/token"):
+            body = {"access_token": "mock-oauth-token", "token_type": "Bearer", "expires_in": 3600}
+        elif url.endswith("/verify-webhook-signature"):
+            body = {"verification_status": "SUCCESS"}
+        elif url.endswith("/capture"):
+            body = payment_setup.capture_order(order)
+        else:
+            body = payment_setup.get_order(order.provider_id)
+        yield httpx.Response(201 if url.endswith("/orders") else 200, json=body)
+
+    monkeypatch.setattr(httpx, "stream", stream)
+    client.create_checkout(order)
+    client.capture_order(order)
+    headers = {
+        "PAYPAL-AUTH-ALGO": "SHA256withRSA",
+        "PAYPAL-CERT-URL": "https://api.sandbox.paypal.com/v1/notifications/certs/CERT1",
+        "PAYPAL-TRANSMISSION-ID": "ID1",
+        "PAYPAL-TRANSMISSION-SIG": "signature",
+        "PAYPAL-TRANSMISSION-TIME": "2026-10-12T12:00:00Z",
+    }
+    assert client.verify_webhook({"id": "WH-1"}, headers)
+    bad = dict(headers, **{"PAYPAL-CERT-URL": "https://evil.test/cert"})
+    assert not client.verify_webhook({}, bad)
+    assert not client.verify_webhook({}, {})
+    assert all(url.startswith("https://api-m.sandbox.paypal.com/") for _, url, _ in calls)
+    posts = [kwargs for _, url, kwargs in calls if url.endswith("/orders") or url.endswith("/capture")]
+    assert posts[0]["headers"]["PayPal-Request-Id"] == request_id(order, "create")
+    assert posts[1]["headers"]["PayPal-Request-Id"] == request_id(order, "capture")
+    assert posts[0]["headers"]["PayPal-Request-Id"] != posts[1]["headers"]["PayPal-Request-Id"]
+    assert posts[0]["json"]["payment_source"]["paypal"]["experience_context"]["user_action"] == "PAY_NOW"
+    assert all(kwargs["follow_redirects"] is False and kwargs["trust_env"] is False for _, _, kwargs in calls)
 
 
-def test_cli_redacts_keys_and_no_network(app, payment_setup):
-    result = app.test_cli_runner().invoke(args=["payments-check"])
-    assert result.exit_code == 0
-    assert "CLICKPESA_API_KEY: configured" in result.output and "mock-api-key" not in result.output
-    assert not payment_setup.queries and not payment_setup.created
+def test_provider_failure_never_exposes_body(app, monkeypatch):
+    client = PayPal(app.config)
+
+    @contextmanager
+    def stream(*args, **kwargs):
+        yield httpx.Response(422, json={"private": "DO-NOT-EXPOSE"})
+
+    monkeypatch.setattr(httpx, "stream", stream)
+    with pytest.raises(GatewayError) as error:
+        client._request("POST", "/v2/checkout/orders", {})
+    assert "DO-NOT-EXPOSE" not in str(error.value)
 
 
-def test_multiple_successes_fail_closed(app, db, payment_setup, payment_admin):
-    from tzstudies.payments import verified_record
-    start(payment_admin)
-    with app.app_context():
-        order = db.session.scalar(select(PaymentOrder))
-        with pytest.raises(ConfirmationError):
-            verified_record(order, [provider_record(order.order_reference), provider_record(order.order_reference, id="second", paymentReference="second")])
+def test_upgrade_old_schema_preserves_records():
+    from sqlalchemy import create_engine, inspect
 
-
-def test_registered_callbacks_have_expected_production_paths(app):
-    assert urlsplit(app.config["PAYMENT_RETURN_URL"]).path == "/payments/return"
-    assert urlsplit(app.config["CLICKPESA_WEBHOOK_URL"]).path == WEBHOOK
-
-
-def test_webhook_during_checkout_creation_cannot_be_overwritten(app, db, payment_setup, payment_admin, monkeypatch):
-    def immediate_confirmation(order):
-        apply_confirmation(order.id, provider_record(order.order_reference))
-        return "https://checkout.clickpesa.com/mock"
-    monkeypatch.setattr(payment_setup, "create_checkout", immediate_confirmation)
-    _, response = start(payment_admin)
-    assert response.status_code == 303
-    with app.app_context():
-        order = db.session.scalar(select(PaymentOrder))
-        assert order.status == "paid" and order.checkout_url is None and order.completed_at
-
-
-def test_expired_intent_rejected(app, payment_setup, payment_admin, monkeypatch):
-    from itsdangerous import URLSafeTimedSerializer
-    from itsdangerous.timed import TimestampSigner
-    class OldSigner(TimestampSigner):
-        def get_timestamp(self):
-            return 0
-    with monkeypatch.context() as changed:
-        changed.setattr("tzstudies.payments._signer", lambda: URLSafeTimedSerializer(app.secret_key, salt="tz-payment-intent-v1", signer=OldSigner))
-        page = payment_admin.get("/admin/payments")
-        token = re.search(rb'name="intent" value="([^"]+)"', page.data).group(1).decode()
-    assert payment_admin.post("/payments/checkout/payment_test", data={"intent": token}).status_code == 400
-    assert not payment_setup.created
-
-
-def test_provider_post_timeout_is_not_retried(app, payment_setup, monkeypatch):
-    gateway = ClickPesa(app.config)
-    requests = Mock(side_effect=[{"success": True, "token": "mock-token"}, GatewayError()])
-    monkeypatch.setattr(gateway, "_request", requests)
-    with pytest.raises(GatewayError):
-        gateway.create_checkout(Mock(amount=Decimal("1000"), order_reference="TZTEST", currency="TZS", plan_name="Test"))
-    assert requests.call_count == 2
-
-
-def test_custom_callback_urls_register_handlers(monkeypatch):
-    from tzstudies import create_app
-    from tzstudies.config import TestingConfig
-    monkeypatch.setattr(TestingConfig, "PAYMENT_RETURN_URL", "https://mytzstudies.com/payments/custom-return")
-    monkeypatch.setattr(TestingConfig, "CLICKPESA_WEBHOOK_URL", "https://mytzstudies.com/payments/custom-hook")
-    local = create_app("testing")
-    client = local.test_client()
-    assert client.get("/payments/custom-return").status_code == 302
-    assert client.post("/payments/custom-hook", json=notification(provider_record("TZUNKNOWN"))).status_code == 204
-    assert client.post(WEBHOOK, json={}).status_code == 404
+    engine = create_engine("sqlite://")
+    with engine.begin() as conn:
+        conn.execute(text("CREATE TABLE payment_order (id VARCHAR(32) PRIMARY KEY, status VARCHAR(24))"))
+        conn.execute(text("INSERT INTO payment_order VALUES ('legacy','pending')"))
+        upgrade_payment_schema(conn)
+        upgrade_payment_schema(conn)
+        assert conn.execute(text("SELECT provider, status FROM payment_order")).one() == ("clickpesa", "pending")
+        assert "refunded_at" in {c["name"] for c in inspect(conn).get_columns("payment_order")}
+    engine.dispose()

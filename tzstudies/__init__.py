@@ -125,6 +125,8 @@ def _fix_schema(db):
     import sqlalchemy as sa
 
     conn = db.engine.connect()
+    from tzstudies.payment_models import upgrade_payment_schema
+    upgrade_payment_schema(conn)
     inspector = sa.inspect(db.engine)
     existing_tables = set(inspector.get_table_names())
 

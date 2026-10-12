@@ -3,16 +3,22 @@
   "paid_features": [],
   "plans": {
     "payment_test": {
-      "name": "TZStudies payment test",
-      "description": "A one-time payment to verify checkout. This does not buy a subscription or change your study access.",
-      "price": "1000.00",
-      "currency": "TZS",
+      "name": "TZStudies Sandbox test",
+      "description": "A fake USD 1.00 PayPal Sandbox payment. No real money, subscription or changes to your study access.",
+      "price": "1.00",
+      "currency": "USD",
       "duration_days": 0,
       "limits": {},
       "ai_allowance": 0,
       "features": [],
       "enabled": false,
       "admin_only": true
+    },
+    "legacy_payment_test": {
+      "name": "Previous TZS payment test",
+      "description": "Archived price information. TZS is unsupported by PayPal. This plan stays disabled.",
+      "price": "1000.00", "currency": "TZS", "duration_days": 0,
+      "limits": {}, "ai_allowance": 0, "features": [], "enabled": false, "admin_only": true
     }
   }
 }

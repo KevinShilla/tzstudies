@@ -94,9 +94,10 @@ class TestingConfig(Config):
     # Tests must never inherit live payment credentials or enable charging.
     PAYMENTS_ENABLED = False
     PAYMENT_TEST_PLAN_ENABLED = False
-    CLICKPESA_CLIENT_ID = ""
-    CLICKPESA_API_KEY = ""
-    CLICKPESA_CHECKSUM_KEY = ""
+    PAYPAL_CLIENT_ID = ""
+    PAYPAL_CLIENT_SECRET = ""
+    PAYPAL_WEBHOOK_ID = ""
+    PAYPAL_MODE = "sandbox"
 
 
 class ProductionConfig(Config):

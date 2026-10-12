@@ -1,93 +1,60 @@
-# TZStudies payments: Render + Supabase
+# TZStudies payments — PayPal Orders v2
 
-Implemented against the official ClickPesa documentation on 3 October 2026. This is a payment foundation: current study features remain available as before, and no subscription or premium entitlement is granted. The only initial product is an admin-only TZS 1,000 checkout test. Charging is disabled until you enable it.
+This replaces the active ClickPesa integration while preserving internal orders, Supabase, Redis limits, authentication, CSRF and existing study access. No premium restrictions or subscriptions are introduced. The initial product is an admin-only **USD 1.00 Sandbox test**, using fake money.
 
-## 1. Put credentials in Render, never in GitHub
+## Render configuration
 
-The keys pasted in chat should be replaced before production use. Revoke/regenerate the ClickPesa API key under its application's **Manage API Keys**, and replace the OpenAI API key in your OpenAI project. Keep the Client ID belonging to that same ClickPesa application. Do not paste replacement values into chat or source files.
+Set values only in **Render → tzstudies → Environment**. Never commit actual credentials. `.env` and all `.env.*` files except `.env.example` are ignored.
 
-Open **Render Dashboard → your existing TZStudies web service → Environment → Edit**. Add the following keys, with their replacement/private values in Render's **Value** fields:
-
-| Key | Value |
+| Setting | Initial value / purpose |
 | --- | --- |
-| `CLICKPESA_CLIENT_ID` | Your Hosted application's Client ID |
-| `CLICKPESA_API_KEY` | Your new ClickPesa API key |
-| `OPENAI_API_KEY` | Your new OpenAI project API key |
-| `FLASK_ENV` | `production` |
-| `PUBLIC_BASE_URL` | `https://mytzstudies.com` |
-| `PAYMENT_RETURN_URL` | `https://mytzstudies.com/payments/return` |
-| `CLICKPESA_WEBHOOK_URL` | `https://mytzstudies.com/payments/webhooks/clickpesa` |
-| `PAYMENTS_ENABLED` | `false` during setup; `true` for your payment test |
-| `PAYMENT_TEST_PLAN_ENABLED` | `false` during setup; `true` for your payment test |
+| PAYPAL_CLIENT_ID | Existing Sandbox application's Client ID |
+| PAYPAL_CLIENT_SECRET | Same application's secret; server only |
+| PAYPAL_MODE | `sandbox` |
+| PAYPAL_WEBHOOK_ID | Optional at startup; add after registering the deployed webhook |
+| PAYMENTS_ENABLED | `false` during deployment |
+| PAYMENT_TEST_PLAN_ENABLED | `false` during deployment |
+| PUBLIC_BASE_URL | `https://mytzstudies.com` |
+| PAYMENT_RETURN_URL | `https://mytzstudies.com/payments/return` |
+| PAYPAL_WEBHOOK_URL | `https://mytzstudies.com/payments/webhooks/paypal` (also the default) |
 
-Choose **Save, rebuild, and deploy** after the code has been deployed to your existing service. These changes have been implemented locally; they are not automatically uploaded to GitHub or deployed to Render.
+Keep DATABASE_URL, REDIS_URL, SECRET_KEY, OPENAI_API_KEY, mail settings and TRUSTED_PROXY_HOPS unchanged. PayPal endpoints are pinned by mode: `api-m.sandbox.paypal.com` or `api-m.paypal.com`; arbitrary API hosts are not accepted. Webhooks **fail closed** until PAYPAL_WEBHOOK_ID exists. Capture confirmation does not depend on delivery of a webhook.
 
-Keep the existing `DATABASE_URL`, `SECRET_KEY`, and mail variables. `DATABASE_URL` must remain the server-side Supabase PostgreSQL connection string, using a database role permitted to create/manage tables and bypass their RLS (normally the existing `postgres` owner). Do not switch to a Supabase browser/anon API key. Keep SSL required in the Supabase connection string; a session-pooler connection is suitable when Render cannot reach the direct IPv6 database address.
+## WHAT KEVIN DOES NEXT
 
-The existing production security code also requires `REDIS_URL` for shared rate limits. It was not visible in your screenshot. If it is not supplied by an environment group, add your Render Key Value/private Redis connection. Set `TRUSTED_PROXY_HOPS=1` for Render's single trusted edge proxy, provided the origin is reachable only through that proxy. This allows HTTPS webhook requests forwarded by Render to be recognized correctly. Preserve a strong random `SECRET_KEY`; changing it signs users out.
+1. Open [PayPal Developer Apps & Credentials](https://developer.paypal.com/dashboard/applications/sandbox). Select **Sandbox**, then the application whose credentials are in Render.
+2. In that application's **Sandbox Webhooks** section choose **Add Webhook**. Paste `https://mytzstudies.com/payments/webhooks/paypal` as the URL.
+3. Select exactly: `PAYMENT.CAPTURE.COMPLETED`, `PAYMENT.CAPTURE.PENDING`, `PAYMENT.CAPTURE.DECLINED`, `PAYMENT.CAPTURE.REFUNDED`, `PAYMENT.CAPTURE.REVERSED`. Save. `CHECKOUT.ORDER.APPROVED` is unnecessary: the protected return flow captures approved orders server-side.
+4. Copy the resulting webhook's **Webhook ID** from that application's webhook list/details. This is not the Client ID.
+5. Add it to Render Environment as `PAYPAL_WEBHOOK_ID`, save and redeploy.
+6. In PayPal Developer → **Testing Tools → Sandbox Accounts**, use or create a **Personal** buyer account. Open its details to see its Sandbox login credentials. Use this account inside the Sandbox checkout, not your real PayPal account or the merchant Business account. Sandbox accounts and balances use fake money.
+7. After `/admin/payments` shows Sandbox credentials and webhook verification configured, set `PAYMENTS_ENABLED=true` and `PAYMENT_TEST_PLAN_ENABLED=true` in Render; keep `PAYPAL_MODE=sandbox`. Save and redeploy.
+8. Sign in to TZStudies as your admin. Open `/admin/payments`; click **Pay with PayPal · USD 1.00** once. Check that the URL is on `www.sandbox.paypal.com` and the price is USD 1.00. Approve with the Personal Sandbox buyer. Return to TZStudies; it submits a CSRF-protected server capture request.
+9. Success is **Payment confirmed**, a USD 1.00 order with PayPal order/capture IDs and confirmation time. The Sandbox merchant's transaction history should show the matching completed capture, and the application's webhook event delivery should succeed. No study access changes. If pending, check this existing order; do not create another one while the outcome is unclear.
+10. After the one test, set both payment flags back to false and redeploy.
+11. Remove obsolete Render variables if present: `CLICKPESA_CLIENT_ID`, `CLICKPESA_API_KEY`, `CLICKPESA_CHECKSUM_KEY`, `CLICKPESA_WEBHOOK_URL`, `CLICKPESA_API_BASE_URL`, `CLICKPESA_CHECKOUT_DOMAINS`. Existing legacy rows stay archived and cannot be captured/reconciled through PayPal.
+12. **Later, for Live:** first confirm your PayPal merchant account/country can receive payments and meets account requirements. Keep payments paused, create a Live application and Live webhook with the same events, replace Client ID/Secret/Webhook ID with Live values in Render, and set PAYPAL_MODE=live. Keep PAYMENT_TEST_PLAN_ENABLED=false: the fake $1 test is blocked in Live. Explicitly configure and enable real plans/prices in the catalogue only after Live readiness review. Sandbox records cannot be charged in Live.
 
-For local development only, copy `.env.example` to the project-root `.env`, enter private values locally, and use `PUBLIC_BASE_URL=http://127.0.0.1:5000`, matching local payment URLs. Real dotenv files and their variants are excluded from Git and Docker. CI scans tracked text for recognizable credentials without printing them. These checks do not revoke a key already disclosed or remove it from old Git history.
+## Catalogue and currency
 
-## 2. Configure your ClickPesa Hosted application
+`config/payment-plans.json` centralizes plan names, prices, currency, duration, limits, AI allowances, enabled/admin-only flags, features and future paid_features. Each order saves a snapshot: changes affect only new orders. Sandbox cannot enable public plans.
 
-Open [merchant.clickpesa.com](https://merchant.clickpesa.com) → **Settings → Developers → select the TZStudies application**.
+PayPal's current supported-currency list does **not** include TZS. `legacy_payment_test` retains TZS 1000 as disabled information. To use a future TZS-priced plan with PayPal, deliberately choose a supported currency and set its actual price in the catalogue; there is no automatic conversion. The validator rejects enabled unsupported currencies and fractional amounts for JPY/HUF/TWD.
 
-1. Ensure **Integration Type: Hosted**, with **Hosted Checkout** enabled. Use credentials from this application.
-2. Set its **Return URL** to `https://mytzstudies.com/payments/return`.
-3. Open **Application Webhooks** (the application's webhook settings under Developers).
-4. Enable **PAYMENT RECEIVED** and paste `https://mytzstudies.com/payments/webhooks/clickpesa` into that event's URL field.
-5. Enable **PAYMENT FAILED** and paste the **same URL** into that event's URL field. Save both.
+## Financial and security boundaries
 
-Use application webhooks for these checkout orders. No payout events are needed. The code does not set a separate `callbackUrl`, avoiding a duplicate success-only notification channel. ClickPesa's return URL is configured on the application; it is not a checkout request parameter. [Hosted setup](https://docs.clickpesa.com/application/hosted-application-setup), [webhook documentation](https://docs.clickpesa.com/home/webhooks).
+An internal order is committed before the server creates a PayPal CAPTURE order. The documented Orders v2 payer-action redirect keeps approval on PayPal without relaxing the site's CSP. The return URL never marks success; it sends a protected POST that retrieves the stored PayPal order, validates ownership and immutable item/amount/currency references, and captures on the server only if approved. Only a COMPLETED capture marks paid.
 
-### Optional checksum validation
+Order ID is stored as provider_id; capture ID as payment_reference. Provider, mode, expected user/plan snapshot, amount/currency, created/completed/refunded timestamps and capture attempt time are retained. Buyer email, payment instruments and raw provider payloads are not persisted. Database unique constraints and row locks prevent duplicate processing; create and capture have distinct stable PayPal-Request-Id values. Uncertain captures are queried before retry, with a conservative five-hour retry boundary. Missed captures are reconciled by read-only queries, never new charges.
 
-Check **Settings → Developers → Encryption**. If checksum validation is enabled, add `CLICKPESA_CHECKSUM_KEY` to Render with that **separate encryption/checksum secret**, then redeploy. It is not your API key. Incoming notifications will require a valid canonical HMAC-SHA256 checksum, and checkout requests include a checksum. Restart/redeploy after changing checksum settings to discard cached tokens, as ClickPesa invalidates old tokens on a settings change.
+Only the webhook route is CSRF-exempt. It verifies signatures through PayPal's official verify-webhook-signature endpoint using the registered Webhook ID and the original event bytes, then queries order/capture/refund resources to validate financial facts. Duplicate event receipts are unique. Refunds/reversals cannot be resurrected by older completed events. Partial refunds are distinct. PayPal simulator events cannot be verified using this postback method; use the actual fake Sandbox purchase to test deliveries.
 
-With your three original credential types and no checksum key, leave ClickPesa checksum validation disabled. Unsigned notifications still cannot declare a payment successful: the server always calls the authenticated Query Payment API and validates the matching application, order, transaction, amount, currency and payment reference. Adding checksum validation provides notification authentication in addition to this confirmation. [Checksum documentation](https://docs.clickpesa.com/home/checksum).
+The additive migration and serialized startup schema check preserve historical orders; old rows are labelled with their original provider. Supabase anonymous/authenticated browser roles still cannot access payment tables.
 
-## 3. What may still prevent real payments
+## Validation and operations
 
-No real API requests or charges were made during implementation, and your private ClickPesa dashboard was not inspected. Local tests cannot establish your account's actual activation or KYC status. Check:
+Run `python -m pytest tests/test_payments.py` and `python tools/check_payments_postgres.py` against the guarded disposable local cluster. `tools/serve_payments_review.py` runs a loopback-only isolated UI with a mock provider; never run it in production. Browser review uses the computer-use tool.
 
-- The implemented code is deployed, the three Render variables are present, and both payment flags are enabled for testing.
-- API credentials are valid, unexpired, and belong to the Hosted application with checkout enabled.
-- A collection method is enabled under **Settings → Collection** and your merchant account is permitted to collect payments.
-- KYC and account limits permit the payment. ClickPesa currently has **no sandbox**: all API/Explorer transactions use real funds. Before approved KYC, the documented limits are TZS 100,000 combined transaction volume and 100 API calls/day; cards, TanQR and CRDB Direct Debit require approved KYC. [Testing limits](https://docs.clickpesa.com/home/sandbox-and-testing-environment).
-- The configured Return URL and application webhook URLs are reachable over public HTTPS and match Render's deployed hostname.
-- If Encryption is enabled, the matching checksum key is configured in Render.
-- If IP whitelisting is enabled, Render's actual outbound addresses are permitted. Find them under **Render service → Connect → Outbound**. Render provides shared CIDR ranges; confirm ClickPesa accepts the relevant addresses/ranges rather than entering your website's DNS address. A fixed outbound IP may be needed if the account cannot accept Render's ranges. [Render outbound IPs](https://render.com/docs/outbound-ip-addresses).
-- Production startup has the required Redis, database permissions and proxy configuration. `flask --app 'tzstudies:create_app("production")' payments-check` in a Render shell reports configuration presence without showing secrets or making API calls.
+Production read-only readiness: `flask --app 'tzstudies:create_app("production")' payments-check`. It reports booleans/presence only, checks DB and rate-limit storage, and makes no PayPal requests. Read-only recovery: `flask --app 'tzstudies:create_app("production")' payments-reconcile --order TZ...`. Do not print environment variables, provider payloads, connection strings or access tokens in logs.
 
-## 4. First small real payment
-
-1. Deploy this code with payments paused. Set the replacement credentials and the URLs in Render; configure the ClickPesa application as above.
-2. Set `PAYMENTS_ENABLED=true` and `PAYMENT_TEST_PLAN_ENABLED=true`, then save/redeploy. Sign in with your **existing single admin account**.
-3. Open `https://mytzstudies.com/admin/payments` (also linked from Admin Dashboard). Confirm the readiness panel and the test amount, initially **TZS 1,000**.
-4. Click **Continue to ClickPesa** once. Verify that ClickPesa displays the expected amount; provider/customer fees may apply. Complete one payment with an enabled method. Enter any PIN or card details only in the provider/telco's secure flow.
-5. Return to TZStudies. It may say **Awaiting payment confirmation** first. Wait for **Payment confirmed**. A success-looking return URL alone is deliberately insufficient.
-6. Compare the order reference, amount and ClickPesa payment reference in TZStudies with the successful transaction in ClickPesa. Confirm the webhook delivered successfully and that the same order still appears only once after a refresh.
-7. If it remains pending, use **Check payment status** once. This queries ClickPesa; it cannot initiate another charge. Check webhook settings and Render logs for the generic verification warning. Do not repay while uncertain.
-8. When finished, set `PAYMENT_TEST_PLAN_ENABLED=false` (and `PAYMENTS_ENABLED=false` if you want all new checkout paused), then save/redeploy. Existing orders and webhook confirmations remain available.
-
-An administrator can recover a missed callback in a Render shell with `flask --app 'tzstudies:create_app("production")' payments-reconcile --order TZ…`, replacing `TZ…` with that order's alphanumeric reference. This queries the provider and never creates a checkout or charge. ClickPesa's docs do not promise a webhook retry schedule; use reconciliation if needed.
-
-## 5. Change plans later in one place
-
-Edit `config/payment-plans.json`, then redeploy. It contains each plan's `name`, `description`, `price` (decimal string), `currency`, `duration_days`, `limits`, `ai_allowance`, `enabled`, `admin_only` and `features`. The top-level `paid_features` list is a reserved configuration point. No existing feature reads that list or becomes paid in this implementation. Future entitlement enforcement should be attached to the same catalogue rather than duplicating prices/limits in routes.
-
-`PAYMENT_TEST_PLAN_ENABLED=true` enables only the protected test plan. Regular plans must be explicitly added/enabled in the catalogue. Each order saves a price and plan snapshot; catalogue edits affect new orders only. `PAYMENT_CATALOG_FILE` optionally selects another catalogue file. `CLICKPESA_API_BASE_URL` and `CLICKPESA_CHECKOUT_DOMAINS` centralize the provider URLs, with HTTPS and hostname validation.
-
-## 6. Storage, trust boundaries and verification
-
-Two tables are added to the existing SQLAlchemy database: `payment_order` and `payment_webhook_event`. An Alembic revision is included; the existing compatibility startup creates missing tables too. Both tables enable RLS and revoke access for PUBLIC, `anon` and `authenticated` on PostgreSQL/Supabase. Your current admin flag and authentication are reused; no account or auth system is added.
-
-Orders retain internal and provider transaction IDs, order/payment references, existing user ID, amount/currency, status, immutable plan snapshot and created/completed/check times. A checkout URL is retained only while needed and cleared on confirmed payment/refund/reversal. Webhook receipts retain only event/transaction/order IDs and timestamps. Raw provider payloads, payer profiles, phone numbers, PINs, CVVs and card credentials are not retained or logged.
-
-The return handler and background status polling only read the database. Webhooks and the explicit check/reconcile actions use the authenticated provider query. Successful amounts/currency/application/references must match the stored order. A transaction row lock and unique transaction/reference/event constraints protect concurrent callbacks and replays. Completion occurs once; failed or successful replays cannot undo a refund/reversal. Unknown checkout outcomes are preserved without automatic checkout retries.
-
-Existing AI requests still use `OPENAI_API_KEY` only in the server-side OpenAI client; the AI model and study experience are unchanged. No payment/OpenAI secret is inserted into HTML, JavaScript or a public API. Checkout POSTs and manual checks require authentication and CSRF; only the dedicated provider webhook is CSRF-exempt and it cannot trust its payload alone.
-
-Run `python -m pytest tests/`, `ruff check tzstudies/ tests/ --ignore E501`, `python tools/check_secrets.py`, and the optional disposable PostgreSQL check in `tools/check_payments_postgres.py`. Browser review outputs are kept locally under ignored `tmp/payments-review/`. Automated mocks never move real funds and do not verify live account eligibility.
-
-Additional sources: [Checkout API](https://docs.clickpesa.com/api-reference/collection/generate-checkout-link/generate-checkout-link), [Render environment variables](https://render.com/docs/configure-environment-variables), [Supabase PostgreSQL connections](https://supabase.com/docs/guides/database/connecting-to-postgres), [OpenAI API authentication](https://developers.openai.com/api/reference/overview).
+Official references: [Standard Checkout](https://developer.paypal.com/studio/checkout/standard/integrate), [Orders redirect flow](https://developer.paypal.com/whats-an-order/), [idempotency](https://developer.paypal.com/api/rest/reference/idempotency/), [currencies](https://developer.paypal.com/api/codes/currency), [webhook verification](https://developer.paypal.com/api/rest/webhooks/rest/), [event names](https://developer.paypal.com/api/rest/webhooks/event-names/), [Sandbox accounts](https://developer.paypal.com/sandbox-testing/accounts).

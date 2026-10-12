@@ -1,4 +1,4 @@
-"""Add private ClickPesa orders and idempotent webhook receipts.
+"""Add private payment orders and idempotent webhook receipts.
 
 Revision ID: bd74e902a631
 Revises: a43809df725c

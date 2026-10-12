@@ -2,12 +2,15 @@
 (() => {
   const state = document.getElementById('paymentState');
   if (!state) return;
-  const terminal = ['paid', 'failed', 'refunded', 'reversed'];
+  const terminal = ['paid', 'failed', 'cancelled', 'refunded', 'partially_refunded', 'reversed'];
   const messages = {
-    paid: ['Payment confirmed', 'ClickPesa has confirmed your payment. Refresh to see the complete receipt.'],
-    failed: ['Payment not completed', 'ClickPesa has not received this payment. You can check the status again before retrying.'],
-    refunded: ['Payment refunded', 'ClickPesa reports that this payment has been refunded.'],
-    reversed: ['Payment reversed', 'ClickPesa reports that this payment has been reversed.']
+    cancelled: ['Payment cancelled', 'This checkout was cancelled. No completed payment was recorded.'],
+    partially_refunded: ['Payment partially refunded', 'PayPal reports a partial refund.'],
+    processing: ['Processing payment', 'PayPal is still processing this capture. Please wait before trying again.'],
+    paid: ['Payment confirmed', 'PayPal has confirmed your payment. Refresh to see the complete receipt.'],
+    failed: ['Payment not completed', 'PayPal has not received this payment. You can check the status again before retrying.'],
+    refunded: ['Payment refunded', 'PayPal reports that this payment has been refunded.'],
+    reversed: ['Payment reversed', 'PayPal reports that this payment has been reversed.']
   };
   let remaining = 20;
   async function refresh() {
